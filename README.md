@@ -1,2 +1,2 @@
 # Cricket-Prediction
-predicts Ipl match scores
+predicts cricket team's winning probability
