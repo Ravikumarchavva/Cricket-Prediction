@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Delhi
+info,team,Mumbai
+info,gender,male
+info,season,2018/19
+info,date,2019/03/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Mumbai
+info,toss_decision,field
+info,winner,Mumbai
+info,winner_wickets,8
+info,player,Delhi,UBT Chand
+info,player,Delhi,Hiten Dalal
+info,player,Delhi,DR Shorey
+info,player,Delhi,N Rana
+info,player,Delhi,Himmat Singh
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,P Negi
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,Pranshu Vijayran
+info,player,Delhi,Navdeep Saini
+info,player,Delhi,Varun Sood
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,Royston Dias
+info,player,Mumbai,SN Thakur
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,Shubham Ranjane
+info,player,Mumbai,Akash Parkar
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,Jay Bista
+info,player,Mumbai,SS Iyer
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,Eknath Kerkar
+info,registry,people,Akash Parkar,f992200b
+info,registry,people,DR Shorey,faa7365d
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,Hiten Dalal,74bace71
+info,registry,people,Jay Bista,f079e8fe
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,P Negi,f62772e5
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,Pranshu Vijayran,f0380005
+info,registry,people,Royston Dias,baaae738
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,Varun Sood,23639793

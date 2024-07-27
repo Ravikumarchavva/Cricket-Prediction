@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Sri Lanka
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,11
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,PWH de Silva
+info,umpire,GO Brathwaite
+info,umpire,L Rusere
+info,reserve_umpire,WR Knights
+info,tv_umpire,BP Jele
+info,match_referee,S Wadvalla
+info,winner,Sri Lanka
+info,winner_wickets,10
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Ayan Khan
+info,player,Oman,Shoaib Khan
+info,player,Oman,Jay Odedra
+info,player,Oman,Naseem Khushi
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,CBRLS Kumara
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Jay Odedra,526e006d
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Zeeshan Maqsood,34464143

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/04/26
+info,date,2024/04/27
+info,date,2024/04/28
+info,date,2024/04/29
+info,event,County Championship
+info,match_number,13
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,N Pratt
+info,umpire,Surendiran Shanmugam
+info,match_referee,AM Smith
+info,outcome,draw
+info,player,Middlesex,MD Stoneman
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JL du Plooy
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,TG Helm
+info,player,Middlesex,HJH Brookes
+info,player,Middlesex,ER Bamber
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,DC Goodman
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,AS Dale
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DC Goodman,dbb15645
+info,registry,people,ER Bamber,948beb1f
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,N Fernandes,01561e94
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,Zaman Akhter,63e1e352

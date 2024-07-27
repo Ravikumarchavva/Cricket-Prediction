@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Sierra Leone
+info,gender,male
+info,season,2023/24
+info,date,2023/10/12
+info,event,West Africa Trophy
+info,match_number,16
+info,venue,"Tafawa Balewa Square Cricket Oval, Lagos"
+info,city,Lagos
+info,toss_winner,Sierra Leone
+info,toss_decision,field
+info,player_of_match,IO Okpe
+info,umpire,Habib Enesi
+info,umpire,M Bodie
+info,reserve_umpire,I Kabia
+info,match_referee,Tonye Timinadi
+info,winner,Nigeria
+info,winner_runs,53
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,AA Onikoyi
+info,player,Nigeria,I Danladi
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,P Useni
+info,player,Nigeria,Joshua Asia
+info,player,Sierra Leone,A Kainessie
+info,player,Sierra Leone,A Turay
+info,player,Sierra Leone,Y Jalloh
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,I Kamara
+info,player,Sierra Leone,J Bangura
+info,player,Sierra Leone,S Conteh
+info,player,Sierra Leone,M Kpaka
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,C Bah
+info,player,Sierra Leone,G Sesay
+info,registry,people,A Kainessie,c7acf05f
+info,registry,people,A Turay,11a22126
+info,registry,people,AA Onikoyi,409ce380
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,C Bah,7213d757
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,I Kabia,a7a885b5
+info,registry,people,I Kamara,38702fb5
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,Joshua Asia,c4ecc42c
+info,registry,people,M Bodie,66c7abe6
+info,registry,people,M Kpaka,c381cec5
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Coker,3239c8a9
+info,registry,people,S Conteh,8f70fff7
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,Tonye Timinadi,5cc0fccb
+info,registry,people,Y Jalloh,7fe9a7e6

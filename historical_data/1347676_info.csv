@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Vitality Blast
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,Rob White
+info,match_referee,SJ Davis
+info,winner,Northamptonshire
+info,winner_runs,92
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,FJ Heldreich
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,HJ Swindells
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,MG Finan
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,MET Salisbury
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Willey,7f048519
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,HJ Swindells,95fd757d
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Broad,ec5160d7
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,MG Finan,8c9d3000
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,Rob White,59b91222
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,TAR Scriven,ac3c3cab

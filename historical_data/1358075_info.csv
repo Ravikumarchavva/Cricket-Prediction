@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Nepal
+info,gender,male
+info,season,2022/23
+info,date,2023/02/17
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,123
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,DS Airee
+info,umpire,DN Subedi
+info,umpire,Rashid Riaz
+info,reserve_umpire,BB Pradhan
+info,match_referee,Muhammad Javed
+info,winner,Nepal
+info,winner_wickets,3
+info,player,Scotland,CM McBride
+info,player,Scotland,RD Berrington
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,CN Greaves
+info,player,Scotland,MA Leask
+info,player,Scotland,J Jarvis
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CB Sole
+info,player,Scotland,Hamza Tahir
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,G Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,Kushal Malla
+info,player,Nepal,S Jora
+info,player,Nepal,DS Airee
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Karan KC
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,DS Airee,1747ea18
+info,registry,people,G Malla,b2e1d224
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Hamza Tahir,34cb2f69
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,TSS Mackintosh,f5ef7ac3

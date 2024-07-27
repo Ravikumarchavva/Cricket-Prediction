@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Warwickshire
+info,gender,male
+info,season,2023
+info,date,2023/07/10
+info,date,2023/07/11
+info,date,2023/07/12
+info,event,County Championship
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,bat
+info,umpire,ID Blackwell
+info,umpire,Mark Newell
+info,match_referee,Phil Whitticase
+info,winner,Warwickshire
+info,winner_innings,1
+info,winner_runs,46
+info,player,Kent,TS Muyeye
+info,player,Kent,BG Compton
+info,player,Kent,JL Denly
+info,player,Kent,HZ Finch
+info,player,Kent,JA Leaning
+info,player,Kent,JM Cox
+info,player,Kent,JDM Evison
+info,player,Kent,G Stewart
+info,player,Kent,Hamidullah Qadri
+info,player,Kent,MR Quinn
+info,player,Kent,Arshdeep Singh
+info,player,Warwickshire,RM Yates
+info,player,Warwickshire,AL Davies
+info,player,Warwickshire,WMH Rhodes
+info,player,Warwickshire,SR Hain
+info,player,Warwickshire,JG Bethell
+info,player,Warwickshire,EG Barnard
+info,player,Warwickshire,GJ Maxwell
+info,player,Warwickshire,MGK Burgess
+info,player,Warwickshire,HJH Brookes
+info,player,Warwickshire,C Rushworth
+info,player,Warwickshire,OJ Hannon-Dalby
+info,registry,people,AL Davies,29ede60b
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BG Compton,52d884b9
+info,registry,people,C Rushworth,e737a5fe
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,HZ Finch,6b16f8ba
+info,registry,people,Hamidullah Qadri,eec81780
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MR Quinn,b082d112
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,OJ Hannon-Dalby,e0ac7144
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RM Yates,3581a798
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WMH Rhodes,f54dbda7

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Oman
+info,gender,male
+info,season,2023
+info,date,2023/04/29
+info,event,ACC Men's Premier Cup
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,Basil Hameed
+info,umpire,Rahat Ali
+info,umpire,Sanjay Gurung
+info,reserve_umpire,Riyaz Kurupkar
+info,tv_umpire,VK Jha
+info,match_referee,BB Pradhan
+info,winner,United Arab Emirates
+info,winner_runs,2
+info,method,D/L
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Zahoor Khan
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Shoaib Khan
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Ayan Khan
+info,player,Oman,Sandeep Goud
+info,player,Oman,AA Shafique
+info,player,Oman,Kaleemullah
+info,player,Oman,Jay Odedra
+info,player,Oman,Bilal Khan
+info,registry,people,AA Shafique,ef7a904e
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Jay Odedra,526e006d
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Riyaz Kurupkar,3ebebb18
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,Sandeep Goud,4e1c9f6e
+info,registry,people,Sanjay Gurung,0ef792dc
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,V Aravind,cddafe26
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0
+info,registry,people,Zeeshan Maqsood,34464143

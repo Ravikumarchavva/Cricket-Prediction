@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Kuwait
+info,gender,male
+info,season,2023/24
+info,date,2023/11/02
+info,event,ICC Men's T20 World Cup Asia Qualifier Final
+info,match_number,12
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,Usman Patel
+info,umpire,BB Pradhan
+info,umpire,V Kalidas
+info,reserve_umpire,Sarika Prasad
+info,match_referee,Ali Naqvi
+info,winner,Kuwait
+info,winner_wickets,4
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,D Sheeli
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Nimish Lathief
+info,player,Kuwait,Mirza Ahmed
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,D Sheeli,d5e5f96b
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mirza Ahmed,9a54c30a
+info,registry,people,Nimish Lathief,b561e8ea
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Yasin Patel,ecdd8d60

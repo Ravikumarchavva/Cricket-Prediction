@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Hampshire
+info,gender,male
+info,season,2023
+info,date,2023/07/02
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,Mark Newell
+info,match_referee,SJ Davis
+info,winner,Hampshire
+info,winner_wickets,8
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,BJJ Wells
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,TMJ Smith
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,CP Wood
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,JA Turner
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJJ Wells,ad9a3160
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DA Payne,6c79c098
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,Zafar Gohar,9fd3a210
+info,registry,people,Zaman Akhter,63e1e352

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kandy Falcons
+info,team,Galle Marvels
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,Lanka Premier League
+info,match_number,9
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Galle Marvels
+info,toss_decision,field
+info,player_of_match,I Udana
+info,umpire,R Black
+info,umpire,PSR Fonseka
+info,reserve_umpire,IC Soysa
+info,tv_umpire,RR Wimalasiri
+info,match_referee,WC Labrooy
+info,winner,Galle Marvels
+info,winner_wickets,6
+info,player,Kandy Falcons,LD Chandimal
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,Mohammad Haris
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,P Rathnayake
+info,player,Kandy Falcons,AD Mathews
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,MD Shanaka
+info,player,Kandy Falcons,PVD Chameera
+info,player,Kandy Falcons,PADLR Sandakan
+info,player,Kandy Falcons,Shoriful Islam
+info,player,Galle Marvels,N Dickwella
+info,player,Galle Marvels,AD Hales
+info,player,Galle Marvels,TL Seifert
+info,player,Galle Marvels,PBB Rajapaksa
+info,player,Galle Marvels,J Liyanage
+info,player,Galle Marvels,SSD Arachchige
+info,player,Galle Marvels,D Pretorius
+info,player,Galle Marvels,I Udana
+info,player,Galle Marvels,M Theekshana
+info,player,Galle Marvels,K Nadeeshan
+info,player,Galle Marvels,Zahoor Khan
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,D Pretorius,11614d87
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,IC Soysa,717a7971
+info,registry,people,J Liyanage,84212ffb
+info,registry,people,K Nadeeshan,778b9795
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,P Rathnayake,c1fdfb46
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PSR Fonseka,8fd2cea5
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Black,156c8fb1
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,Zahoor Khan,f0e293b0

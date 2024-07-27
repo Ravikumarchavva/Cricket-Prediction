@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Warwickshire
+info,team,Hampshire
+info,gender,male
+info,season,2024
+info,date,2024/04/19
+info,date,2024/04/20
+info,date,2024/04/21
+info,date,2024/04/22
+info,event,County Championship
+info,match_number,12
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Warwickshire
+info,toss_decision,bat
+info,umpire,MJ Saggers
+info,umpire,RJ Bailey
+info,match_referee,SG Hinks
+info,outcome,draw
+info,player,Warwickshire,RM Yates
+info,player,Warwickshire,AL Davies
+info,player,Warwickshire,WMH Rhodes
+info,player,Warwickshire,EG Barnard
+info,player,Warwickshire,DR Mousley
+info,player,Warwickshire,DR Briggs
+info,player,Warwickshire,JG Bethell
+info,player,Warwickshire,MGK Burgess
+info,player,Warwickshire,Hasan Ali
+info,player,Warwickshire,CN Miles
+info,player,Warwickshire,OJ Hannon-Dalby
+info,player,Hampshire,AGH Orr
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,BC Brown
+info,player,Hampshire,IG Holland
+info,player,Hampshire,KJ Abbott
+info,player,Hampshire,Mohammad Abbas
+info,registry,people,AGH Orr,1ab18b25
+info,registry,people,AL Davies,29ede60b
+info,registry,people,BC Brown,8af86756
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,IG Holland,4167f30b
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,OJ Hannon-Dalby,e0ac7144
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RM Yates,3581a798
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,WMH Rhodes,f54dbda7

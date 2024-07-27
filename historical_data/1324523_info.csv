@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Colombo Stars
+info,team,Dambulla Aura
+info,gender,male
+info,season,2022/23
+info,date,2022/12/08
+info,event,Lanka Premier League
+info,match_number,5
+info,venue,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota"
+info,city,Hambantota
+info,toss_winner,Colombo Stars
+info,toss_decision,bat
+info,player_of_match,N Dickwella
+info,umpire,BCN Amarasinghe
+info,umpire,LE Hannibal
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,winner,Colombo Stars
+info,winner_runs,9
+info,player,Colombo Stars,N Dickwella
+info,player,Colombo Stars,AD Mathews
+info,player,Colombo Stars,ND Paranavithana
+info,player,Colombo Stars,KIC Asalanka
+info,player,Colombo Stars,RS Bopara
+info,player,Colombo Stars,LD Chandimal
+info,player,Colombo Stars,Karim Janat
+info,player,Colombo Stars,DC Drakes
+info,player,Colombo Stars,RAS Lakmal
+info,player,Colombo Stars,JDF Vandersay
+info,player,Colombo Stars,Naveen-ul-Haq
+info,player,Dambulla Aura,S Daniel
+info,player,Dambulla Aura,JM Cox
+info,player,Dambulla Aura,PBB Rajapaksa
+info,player,Dambulla Aura,TB Abell
+info,player,Dambulla Aura,MD Shanaka
+info,player,Dambulla Aura,Sikandar Raza
+info,player,Dambulla Aura,LD Madushanka
+info,player,Dambulla Aura,PC de Silva
+info,player,Dambulla Aura,KTH Ratnayake
+info,player,Dambulla Aura,CBRLS Kumara
+info,player,Dambulla Aura,Noor Ahmad
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KTH Ratnayake,4eb02f2e
+info,registry,people,Karim Janat,62175638
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LD Madushanka,de063a39
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,ND Paranavithana,4e602f29
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TB Abell,ba9258a7

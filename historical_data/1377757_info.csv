@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,12
+info,venue,Bulawayo Athletic Club
+info,city,Bulawayo
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,RD Berrington
+info,umpire,Aleem Dar
+info,umpire,I Chabi
+info,reserve_umpire,AG Wharf
+info,tv_umpire,LS Reifer
+info,match_referee,ET Dube
+info,winner,Scotland
+info,winner_runs,111
+info,player,Scotland,CM McBride
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,J Jarvis
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Zahoor Khan
+info,registry,people,A Sharma,5661ef90
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,I Chabi,5e39110e
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,TSS Mackintosh,f5ef7ac3
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

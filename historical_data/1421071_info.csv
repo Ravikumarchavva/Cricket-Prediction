@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Scotland
+info,gender,male
+info,season,2023/24
+info,date,2024/03/03
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,9
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Scotland
+info,toss_decision,field
+info,player_of_match,BJ Currie
+info,umpire,Aasif Iqbal
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Shiju Sam
+info,match_referee,Muhammad Javed
+info,winner,Scotland
+info,winner_wickets,8
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,RN Bhatia
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,Scotland,HG Munsey
+info,player,Scotland,C Tear
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SW Currie
+info,player,Scotland,SM Sharif
+info,player,Scotland,BJ Currie
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,C Tear,7ffe4817
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RN Bhatia,2eece016
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0
+info,registry,people,Zuhaib Zubair,9124aa4c

@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Vanuatu
+info,gender,male
+info,season,2022/23
+info,date,2022/12/10
+info,event,CWC Challenge League
+info,match_number,41
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,S Thanikaithasan
+info,umpire,Rahul Asher
+info,umpire,V Kalidas
+info,reserve_umpire,Sarika Prasad
+info,match_referee,V Narayan Kutty
+info,winner,Denmark
+info,winner_runs,49
+info,method,D/L
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Zameer Khan
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,J Jojo
+info,player,Denmark,Surya Anand
+info,player,Denmark,OD Hald
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,Saud Munir
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,JD Allan
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,PK Matautaava
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,SH Obed
+info,player,Vanuatu,BA Viraliliu
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,J Vira
+info,player,Vanuatu,G Mangau
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,BA Viraliliu,7d85b1e9
+info,registry,people,G Mangau,2a7b9e74
+info,registry,people,HAM Shah,007113d7
+info,registry,people,J Jojo,d981a1de
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,J Vira,2090e94d
+info,registry,people,JD Allan,3758028b
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,N Nipiko,c498c510
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OD Hald,38189be1
+info,registry,people,PK Matautaava,af19aa66
+info,registry,people,R Tari,c4d19735
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,SH Obed,f49c401e
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,W Nalisa,673be48f
+info,registry,people,Zameer Khan,fb0d3749

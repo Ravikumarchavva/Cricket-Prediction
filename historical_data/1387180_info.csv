@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sydney Sixers
+info,team,Brisbane Heat
+info,gender,female
+info,season,2023/24
+info,date,2023/10/24
+info,event,Women's Big Bash League
+info,match_number,9
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,G Voll
+info,umpire,AR Hamilton
+info,umpire,ME Claydon
+info,match_referee,Kepler Wessels
+info,winner,Brisbane Heat
+info,winner_wickets,3
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,SW Bates
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,CL Tryon
+info,player,Sydney Sixers,M Brown
+info,player,Sydney Sixers,JM Kerr
+info,player,Sydney Sixers,KM Pelle
+info,player,Sydney Sixers,K Peterson
+info,player,Sydney Sixers,L Cheatle
+info,player,Sydney Sixers,J Allen
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,M du Preez
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,BAM Heath
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,M Hinkley
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,S Glenn
+info,player,Brisbane Heat,CG Sippel
+info,registry,people,A Gardner,bc969efb
+info,registry,people,AR Hamilton,95d26c59
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,J Allen,20e02728
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,JM Kerr,9af58032
+info,registry,people,K Peterson,5f377534
+info,registry,people,KM Pelle,ae28c962
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,L Cheatle,275dff85
+info,registry,people,M Brown,78bec461
+info,registry,people,M Hinkley,3812165d
+info,registry,people,M du Preez,e219f17a
+info,registry,people,ME Claydon,15101f12
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SW Bates,89bbc67a

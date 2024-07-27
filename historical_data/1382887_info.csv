@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Galle Titans
+info,team,Colombo Strikers
+info,gender,male
+info,season,2023
+info,date,2023/08/07
+info,event,Lanka Premier League
+info,match_number,10
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Colombo Strikers
+info,toss_decision,field
+info,player_of_match,Babar Azam
+info,umpire,HDPK Dharmasena
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,LE Hannibal
+info,match_referee,RS Madugalle
+info,winner,Colombo Strikers
+info,winner_wickets,7
+info,player,Galle Titans,L Croospulle
+info,player,Galle Titans,S Daniel
+info,player,Galle Titans,PBB Rajapaksa
+info,player,Galle Titans,TL Seifert
+info,player,Galle Titans,MD Shanaka
+info,player,Galle Titans,Shakib Al Hasan
+info,player,Galle Titans,A Dananjaya
+info,player,Galle Titans,CAK Rajitha
+info,player,Galle Titans,T Shamsi
+info,player,Galle Titans,R Ngarava
+info,player,Galle Titans,M Bhanuka
+info,player,Colombo Strikers,P Nissanka
+info,player,Colombo Strikers,Babar Azam
+info,player,Colombo Strikers,MNK Fernando
+info,player,Colombo Strikers,C Karunaratne
+info,player,Colombo Strikers,Mohammad Nawaz
+info,player,Colombo Strikers,N Dickwella
+info,player,Colombo Strikers,LU Igalagamage
+info,player,Colombo Strikers,RTM Mendis
+info,player,Colombo Strikers,Naseem Shah
+info,player,Colombo Strikers,PADLR Sandakan
+info,player,Colombo Strikers,M Pathirana
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,M Bhanuka,684d21d7
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TL Seifert,4663bd23

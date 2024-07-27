@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Tanzania
+info,gender,male
+info,season,2022/23
+info,date,2022/12/18
+info,event,Tri-Nation T20 Cup (Rwanda)
+info,match_number,10
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,SA Jumbe
+info,umpire,EH Dusabemungu
+info,umpire,John Mayeku
+info,reserve_umpire,Itangishaka Olivier
+info,winner,Tanzania
+info,winner_wickets,6
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,I Ntirenganya
+info,player,Tanzania,II Selemani
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AJ Jabiri
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,JJ Nyambo
+info,player,Tanzania,YM Nkanya
+info,registry,people,AA Hussein,60ef3ddb
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,EH Dusabemungu,ba3b4b09
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,JJ Nyambo,ffb3b559
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,Z Bimenyimana,ba57fb08

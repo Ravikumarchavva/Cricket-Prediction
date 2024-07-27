@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2022/23
+info,date,2023/01/18
+info,event,SA20
+info,match_number,13
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,player_of_match,JDS Neesham
+info,umpire,DJ Smith
+info,umpire,M Erasmus
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,S George
+info,match_referee,SB Lambson
+info,winner,Pretoria Capitals
+info,winner_wickets,6
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,K Verreynne
+info,player,Joburg Super Kings,L Gregory
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,G Coetzee
+info,player,Joburg Super Kings,AS Joseph
+info,player,Joburg Super Kings,AM Phangiso
+info,player,Joburg Super Kings,N Burger
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,A Nortje
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,N Burger,465aa633
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,S George,6d9e5a54
+info,registry,people,SB Lambson,4146063f
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Wellington Firebirds
+info,gender,male
+info,season,2023/24
+info,date,2023/11/15
+info,date,2023/11/16
+info,date,2023/11/17
+info,date,2023/11/18
+info,event,Plunket Shield
+info,match_number,10
+info,venue,Kennards Hire Community Oval
+info,city,
+info,toss_winner,Auckland Aces
+info,toss_decision,bat
+info,umpire,DJ Walker
+info,umpire,KS Jagannathan
+info,match_referee,GB Troup
+info,outcome,draw
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,WT O'Donnell
+info,player,Auckland Aces,QLM Sunde
+info,player,Auckland Aces,FH Allen
+info,player,Auckland Aces,GH Worker
+info,player,Auckland Aces,CD Fletcher
+info,player,Auckland Aces,RD Harrison
+info,player,Auckland Aces,A Ashok
+info,player,Auckland Aces,DK Ferns
+info,player,Auckland Aces,L Delport
+info,player,Auckland Aces,MJ Gibson
+info,player,Wellington Firebirds,CR McLachlan
+info,player,Wellington Firebirds,NA Greenwood
+info,player,Wellington Firebirds,GR Severin
+info,player,Wellington Firebirds,NF Kelly
+info,player,Wellington Firebirds,MA Abbas
+info,player,Wellington Firebirds,TB Robinson
+info,player,Wellington Firebirds,NG Smith
+info,player,Wellington Firebirds,PF Younghusband
+info,player,Wellington Firebirds,BV Sears
+info,player,Wellington Firebirds,MW Snedden
+info,player,Wellington Firebirds,JW Hartshorn
+info,registry,people,A Ashok,321be7e3
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Severin,b1549dc0
+info,registry,people,JW Hartshorn,9f395b45
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,L Delport,2c1438ef
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MJ Gibson,750d906e
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,QLM Sunde,4e6d7867
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,SB Keene,6fb2d3a2
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TB Robinson,5d664346
+info,registry,people,WT O'Donnell,730b57de

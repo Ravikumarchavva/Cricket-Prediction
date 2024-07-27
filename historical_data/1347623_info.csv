@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Somerset
+info,gender,male
+info,season,2023
+info,date,2023/06/07
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,M Burns
+info,match_referee,SG Hinks
+info,winner,Hampshire
+info,winner_runs,5
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TE Albert
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,AHT Donald
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,SW Currie
+info,player,Hampshire,MS Crane
+info,player,Hampshire,JA Turner
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,SR Dickson
+info,player,Somerset,TA Lammonby
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,MJ Henry
+info,player,Somerset,PM Siddle
+info,player,Somerset,Shoaib Bashir
+info,registry,people,AHT Donald,72918338
+info,registry,people,BGF Green,34b37279
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JM Vince,a15618fe
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,Shoaib Bashir,e36e9dd3
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TE Albert,a6c17509
+info,registry,people,WCF Smeed,4e18e961

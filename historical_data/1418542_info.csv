@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Japan
+info,gender,male
+info,season,2023/24
+info,date,2024/02/15
+info,event,East Asia Cup
+info,match_number,4
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,Yasim Murtaza
+info,umpire,John Prakash
+info,umpire,Niaz Ali
+info,match_referee,Hasnain Kiani
+info,winner,Hong Kong
+info,winner_runs,27
+info,player,Hong Kong,JJ Atkinson
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Hong Kong,Dhananjay Rao
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,W Miyauchi
+info,player,Japan,S Ravichandran
+info,player,Japan,KH Abe
+info,player,Japan,D Suzuki
+info,player,Japan,I Takahashi
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,K Kato-Stafford
+info,player,Japan,C Hinze
+info,player,Japan,R Drake
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,C Hinze,626af7ff
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,Dhananjay Rao,6a11facf
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Hasnain Kiani,9cce25b7
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,JJ Atkinson,bf2d865c
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,K Kato-Stafford,e03ca117
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,Niaz Ali,e33a357d
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,R Drake,57b3c398
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

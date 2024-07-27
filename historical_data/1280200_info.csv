@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Goa
+info,team,Odisha
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium B
+info,city,
+info,toss_winner,Odisha
+info,toss_decision,field
+info,winner,Odisha
+info,winner_wickets,4
+info,player,Goa,Ishaan Gadekar
+info,player,Goa,Aditya Kaushik
+info,player,Goa,Eknath Kerkar
+info,player,Goa,Shubham Ranjane
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Darshan Misal
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,Amit Yadav
+info,player,Goa,SB Wagh
+info,player,Goa,Lakshay Garg
+info,player,Goa,Amulya Pandrekar
+info,player,Odisha,Debabrata Pradhan
+info,player,Odisha,Govinda Poddar
+info,player,Odisha,Ashish Rai
+info,player,Odisha,Jayanta Behera
+info,player,Odisha,AS Raut
+info,player,Odisha,Bikash K Rout
+info,player,Odisha,Rajesh Dhuper
+info,player,Odisha,Anshuman Rath
+info,player,Odisha,Subhransu Senapati
+info,player,Odisha,Abhishek Yadav
+info,player,Odisha,Sarbeswar Mohanty
+info,registry,people,AS Raut,c69a7b5c
+info,registry,people,Abhishek Yadav,bca46fdb
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Amit Yadav,907cb4c1
+info,registry,people,Amulya Pandrekar,47ccd2bb
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ashish Rai,d14a9789
+info,registry,people,Bikash K Rout,25284a3c
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Debabrata Pradhan,347fb4e1
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Govinda Poddar,145c2a1f
+info,registry,people,Ishaan Gadekar,e3751ee2
+info,registry,people,Jayanta Behera,f9daec85
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,Rajesh Dhuper,0861a8d6
+info,registry,people,SB Wagh,dddca1d6
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Sarbeswar Mohanty,bc0c1f0d
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Subhransu Senapati,0edcb652

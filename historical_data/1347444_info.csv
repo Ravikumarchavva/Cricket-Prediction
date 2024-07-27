@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Sparks
+info,team,The Blaze
+info,gender,female
+info,season,2023
+info,date,2023/09/05
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,42
+info,venue,"Edgbaston Foundation Community Sports Ground, Birmingham"
+info,city,Birmingham
+info,toss_winner,Central Sparks
+info,toss_decision,bat
+info,umpire,PK Baldwin
+info,umpire,WRP Fernando
+info,match_referee,SM Bartlett
+info,winner,The Blaze
+info,winner_wickets,3
+info,player,Central Sparks,E Jones
+info,player,Central Sparks,B Ellis
+info,player,Central Sparks,AJ Freeborn
+info,player,Central Sparks,ML Green
+info,player,Central Sparks,A Campbell
+info,player,Central Sparks,KL George
+info,player,Central Sparks,C Pavely
+info,player,Central Sparks,EL Arlott
+info,player,Central Sparks,GK Davis
+info,player,Central Sparks,G Potts
+info,player,Central Sparks,HL Baker
+info,player,The Blaze,L Lee
+info,player,The Blaze,TT Beaumont
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,NR Sciver-Brunt
+info,player,The Blaze,GEB Boyce
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,S Munro
+info,player,The Blaze,LF Higham
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,J Groves
+info,player,The Blaze,G Ballinger
+info,registry,people,A Campbell,4b788e61
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,B Ellis,370a88ac
+info,registry,people,C Pavely,907e5f6c
+info,registry,people,E Jones,971cb321
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,G Ballinger,2f485713
+info,registry,people,G Potts,e3a93585
+info,registry,people,GEB Boyce,5b1f15fc
+info,registry,people,GK Davis,54719239
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,J Groves,11ff23e3
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL George,e69dbbef
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Lee,7b01ce83
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,ML Green,865eae1f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,S Munro,b4e026de
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,WRP Fernando,7d98d385

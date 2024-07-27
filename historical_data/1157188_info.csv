@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mizoram
+info,team,Arunachal Pradesh
+info,gender,male
+info,season,2018/19
+info,date,2019/02/28
+info,event,Syed Mushtaq Ali Trophy
+info,venue,DRIEMS Ground
+info,city,
+info,toss_winner,Mizoram
+info,toss_decision,bat
+info,winner,Arunachal Pradesh
+info,winner_wickets,8
+info,player,Mizoram,T Kohli
+info,player,Mizoram,Akhil Rajput
+info,player,Mizoram,Lalhruaizela
+info,player,Mizoram,Lalhmangaiha
+info,player,Mizoram,Sinan Khadir
+info,player,Mizoram,K Vanlalruata
+info,player,Mizoram,Lalhruai Ralte
+info,player,Mizoram,G Lalbiakvela
+info,player,Mizoram,Parvez Ahmed
+info,player,Mizoram,Lalnunkima Varte
+info,player,Mizoram,Bobby Zothansanga
+info,player,Arunachal Pradesh,Subhash Sharma
+info,player,Arunachal Pradesh,Deendyal Upadhyay
+info,player,Arunachal Pradesh,Akhilesh Sahani
+info,player,Arunachal Pradesh,Techi Neri
+info,player,Arunachal Pradesh,Kshitiz Sharma
+info,player,Arunachal Pradesh,Samarth Seth
+info,player,Arunachal Pradesh,Techi Doria
+info,player,Arunachal Pradesh,Suheh Hussain
+info,player,Arunachal Pradesh,Song Tacho
+info,player,Arunachal Pradesh,Tana Davit
+info,player,Arunachal Pradesh,Kamsha Yangfo
+info,registry,people,Akhil Rajput,0c0eb448
+info,registry,people,Akhilesh Sahani,d6ac52e8
+info,registry,people,Bobby Zothansanga,6b4ce914
+info,registry,people,Deendyal Upadhyay,4e747906
+info,registry,people,G Lalbiakvela,66ea7420
+info,registry,people,K Vanlalruata,acb89506
+info,registry,people,Kamsha Yangfo,451db894
+info,registry,people,Kshitiz Sharma,c910e89d
+info,registry,people,Lalhmangaiha,15bbe51b
+info,registry,people,Lalhruai Ralte,c2ed5822
+info,registry,people,Lalhruaizela,4cfda770
+info,registry,people,Lalnunkima Varte,b7d8d5ce
+info,registry,people,Parvez Ahmed,54a0e487
+info,registry,people,Samarth Seth,9fe56f2b
+info,registry,people,Sinan Khadir,9a09c4b2
+info,registry,people,Song Tacho,128d1861
+info,registry,people,Subhash Sharma,86da2170
+info,registry,people,Suheh Hussain,6fdff976
+info,registry,people,T Kohli,40caa465
+info,registry,people,Tana Davit,c3604d71
+info,registry,people,Techi Doria,dde809f3
+info,registry,people,Techi Neri,d3885f28

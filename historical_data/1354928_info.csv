@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Multan Sultans
+info,team,Peshawar Zalmi
+info,gender,male
+info,season,2022/23
+info,date,2023/02/17
+info,event,Pakistan Super League
+info,match_number,5
+info,venue,Multan Cricket Stadium
+info,city,Multan
+info,toss_winner,Peshawar Zalmi
+info,toss_decision,field
+info,player_of_match,RR Rossouw
+info,umpire,Asif Yaqoob
+info,umpire,Faisal Afridi
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,MJ Saggers
+info,match_referee,Mohammed Anees
+info,winner,Multan Sultans
+info,winner_runs,56
+info,player,Multan Sultans,Shan Masood
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,RR Rossouw
+info,player,Multan Sultans,DA Miller
+info,player,Multan Sultans,KA Pollard
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,CR Brathwaite
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,Abbas Afridi
+info,player,Multan Sultans,Sameen Gul
+info,player,Multan Sultans,Ihsanullah
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,PBB Rajapaksa
+info,player,Peshawar Zalmi,JDS Neesham
+info,player,Peshawar Zalmi,Wahab Riaz
+info,player,Peshawar Zalmi,Khurram Shahzad
+info,player,Peshawar Zalmi,Sufiyan Muqeem
+info,player,Peshawar Zalmi,Salman Irshad
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Ihsanullah,c290033d
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Khurram Shahzad,1daf3f74
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammed Anees,0d4da5c5
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,R Powell,650d5e49
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Sameen Gul,3be224b0
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Wahab Riaz,b3118300

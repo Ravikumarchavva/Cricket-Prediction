@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Northamptonshire
+info,gender,male
+info,season,2024
+info,date,2024/05/31
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Northamptonshire
+info,toss_decision,field
+info,umpire,DJ Millns
+info,umpire,James Middlebrook
+info,match_referee,Wayne Noon
+info,winner,Northamptonshire
+info,winner_wickets,8
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,DY Pennington
+info,player,Nottinghamshire,BG Lister
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,MP Breetzke
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,RS Bopara
+info,player,Northamptonshire,Sikandar Raza
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,GA Bartlett
+info,player,Northamptonshire,RA Weatherall
+info,player,Northamptonshire,GLS Scrimshaw
+info,player,Northamptonshire,FJ Heldreich
+info,registry,people,AD Hales,92aeac25
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,CG Harrison,f655d740
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,GA Bartlett,e2caec46
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,OP Stone,3f659464
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Weatherall,acb94221
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WA Young,8afe73e2
+info,registry,people,Wayne Noon,736e1761

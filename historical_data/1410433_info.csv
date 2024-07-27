@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Lancashire
+info,gender,male
+info,season,2024
+info,date,2024/06/20
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Yorkshire
+info,toss_decision,bat
+info,player_of_match,Shan Masood
+info,umpire,GD Lloyd
+info,umpire,James Middlebrook
+info,tv_umpire,DJ Millns
+info,match_referee,Wayne Noon
+info,winner,Yorkshire
+info,winner_runs,7
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,D Ferreira
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,JA Chohan
+info,player,Yorkshire,C McKerr
+info,player,Yorkshire,D Moriarty
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,GID Lavelle
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,CJ Green
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,L Wood
+info,player,Lancashire,S Mahmood
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,CJ Green,19b9f399
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DM Bess,ad46c747
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GID Lavelle,c2988809
+info,registry,people,GP Balderson,23dee937
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,ML Revis,28217d89
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SJ Croft,ab474682
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Wayne Noon,736e1761

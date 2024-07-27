@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Comilla Victorians
+info,gender,male
+info,season,2023/24
+info,date,2024/02/19
+info,event,Bangladesh Premier League
+info,match_number,37
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Sylhet Strikers
+info,toss_decision,bat
+info,player_of_match,BAC Howell
+info,umpire,DK Butler
+info,umpire,Gazi Sohel
+info,reserve_umpire,Mahfuzur Rahman
+info,tv_umpire,Masudur Rahman
+info,match_referee,Raqibul Hasan
+info,winner,Sylhet Strikers
+info,winner_runs,12
+info,player,Sylhet Strikers,K Lewis
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Yasir Ali Chowdhury
+info,player,Sylhet Strikers,Mohammad Mithun
+info,player,Sylhet Strikers,BAC Howell
+info,player,Sylhet Strikers,Ariful Haque
+info,player,Sylhet Strikers,SR Patel
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,player,Sylhet Strikers,Sunzamul Islam
+info,player,Sylhet Strikers,Shafiqul Islam
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,J Charles
+info,player,Comilla Victorians,MM Ali
+info,player,Comilla Victorians,AD Russell
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,SP Narine
+info,player,Comilla Victorians,Rishad Hossain
+info,player,Comilla Victorians,Musfik Hasan
+info,player,Comilla Victorians,Al Islam
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Al Islam,45d38a84
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,DK Butler,671398e3
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,J Charles,09a9d073
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,K Lewis,b0081e62
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Musfik Hasan,1afcbb60
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Patel,18fac429
+info,registry,people,Shafiqul Islam,390c914c
+info,registry,people,Sunzamul Islam,0f348f58
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Yasir Ali Chowdhury,5791b840
+info,registry,people,Zakir Hasan,e3e09091

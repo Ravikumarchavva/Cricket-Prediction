@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Texas Super Kings
+info,team,MI New York
+info,gender,male
+info,season,2023
+info,date,2023/07/17
+info,event,Major League Cricket
+info,match_number,7
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,Texas Super Kings
+info,toss_decision,bat
+info,player_of_match,DP Conway
+info,umpire,Jermaine Lindo
+info,umpire,WR Knights
+info,reserve_umpire,O Brown
+info,tv_umpire,Vijaya Mallela
+info,match_referee,SJA Taufel
+info,winner,Texas Super Kings
+info,winner_runs,17
+info,player,Texas Super Kings,DP Conway
+info,player,Texas Super Kings,F du Plessis
+info,player,Texas Super Kings,C Chetty
+info,player,Texas Super Kings,DA Miller
+info,player,Texas Super Kings,MJ Santner
+info,player,Texas Super Kings,DJ Bravo
+info,player,Texas Super Kings,DR Sams
+info,player,Texas Super Kings,Milind Kumar
+info,player,Texas Super Kings,Mohammad Mohsin
+info,player,Texas Super Kings,J Theron
+info,player,Texas Super Kings,Zia-ul-Haq
+info,player,MI New York,Shayan Jahangir
+info,player,MI New York,MD Patel
+info,player,MI New York,SR Taylor
+info,player,MI New York,N Pooran
+info,player,MI New York,TH David
+info,player,MI New York,KA Pollard
+info,player,MI New York,Hammad Azam
+info,player,MI New York,Rashid Khan
+info,player,MI New York,K Rabada
+info,player,MI New York,TA Boult
+info,player,MI New York,Ehsan Adil
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,F du Plessis,3355b542
+info,registry,people,Hammad Azam,57bd3ecc
+info,registry,people,J Theron,dec8e038
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Mohsin,79f8472d
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,O Brown,22fe51d7
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Zia-ul-Haq,99c81226

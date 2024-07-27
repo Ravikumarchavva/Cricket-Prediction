@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Brisbane Heat
+info,gender,female
+info,season,2022/23
+info,date,2022/10/29
+info,event,Women's Big Bash League
+info,match_number,23
+info,venue,"Allan Border Field, Brisbane"
+info,city,Brisbane
+info,toss_winner,Perth Scorchers
+info,toss_decision,bat
+info,player_of_match,AL Edgar
+info,umpire,Eloise Sheridan
+info,umpire,N James
+info,tv_umpire,Sharad Patel
+info,match_referee,Kepler Wessels
+info,winner,Perth Scorchers
+info,winner_runs,3
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,ML Green
+info,player,Perth Scorchers,M Kapp
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,M Carmichael
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,HL Ferling
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,DN Wyatt
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,P Vastrakar
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,registry,people,A King,83558266
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AL Edgar,795ff893
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,HL Ferling,a594a6e0
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,L Harris,36e2dc83
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,M Carmichael,4b546c04
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,ML Green,865eae1f
+info,registry,people,N James,3de4511d
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,P Cleary,507acf2e
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,SFM Devine,de69af96
+info,registry,people,Sharad Patel,8e6dd3ba

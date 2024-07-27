@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Bengal
+info,gender,male
+info,season,2021/22
+info,date,2021/11/06
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"ACA Stadium, Barsapara"
+info,city,
+info,toss_winner,Mumbai
+info,toss_decision,bat
+info,winner,Mumbai
+info,winner_runs,10
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,AP Tare
+info,player,Mumbai,S Dube
+info,player,Mumbai,SD Lad
+info,player,Mumbai,Aman Hakim Khan
+info,player,Mumbai,Atharva Ankolekar
+info,player,Mumbai,Tanush Kotian
+info,player,Mumbai,Mohit Avasthi
+info,player,Mumbai,TU Deshpande
+info,player,Bengal,Shahbaz Ahmed
+info,player,Bengal,Mukesh Kumar
+info,player,Bengal,Akash Deep
+info,player,Bengal,Writtick Chatterjee
+info,player,Bengal,Pradipta Pramanik
+info,player,Bengal,Karan Lal
+info,player,Bengal,Abhisek Das
+info,player,Bengal,Sudip Chatterjee
+info,player,Bengal,WP Saha
+info,player,Bengal,Kaif Ahmad
+info,player,Bengal,Ritwik Roy Chowdhury
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AP Tare,855a210c
+info,registry,people,Abhisek Das,f4cd319e
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Aman Hakim Khan,378daa89
+info,registry,people,Atharva Ankolekar,d6cd318e
+info,registry,people,Kaif Ahmad,7b09e19c
+info,registry,people,Karan Lal,72147266
+info,registry,people,Mohit Avasthi,7e83cef2
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,Pradipta Pramanik,24e3f53e
+info,registry,people,Ritwik Roy Chowdhury,6033d30a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SD Lad,9601c534
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Sudip Chatterjee,0cb8626f
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tanush Kotian,5724e517
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,Writtick Chatterjee,a00e1842
+info,registry,people,YBK Jaiswal,6c19c6e5

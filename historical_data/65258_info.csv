@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Sri Lanka
+info,gender,male
+info,season,2002/03
+info,date,2003/02/24
+info,event,ICC World Cup
+info,match_number,26
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,CO Obuya
+info,umpire,DJ Harper
+info,umpire,RB Tiffin
+info,tv_umpire,AV Jayaprakash
+info,match_referee,DT Lindsay
+info,winner,Kenya
+info,winner_runs,53
+info,player,Kenya,KO Otieno
+info,player,Kenya,RD Shah
+info,player,Kenya,BJ Patel
+info,player,Kenya,SO Tikolo
+info,player,Kenya,HS Modi
+info,player,Kenya,MO Odumbe
+info,player,Kenya,TM Odoyo
+info,player,Kenya,CO Obuya
+info,player,Kenya,AO Suji
+info,player,Kenya,PJ Ongondo
+info,player,Kenya,MA Suji
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,PA de Silva
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,RAP Nissanka
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,registry,people,AO Suji,b15eaf77
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,BJ Patel,0b7930ed
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DT Lindsay,a6a32a61
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,HS Modi,5abdfd23
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KO Otieno,fbaa61d2
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MA Suji,331bd689
+info,registry,people,MO Odumbe,45477249
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,PA de Silva,34ff9e07
+info,registry,people,PJ Ongondo,27cc4361
+info,registry,people,RAP Nissanka,6cc006ef
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,RD Shah,45d4cb14
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,SO Tikolo,00d69fa4
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,TM Odoyo,2c13defe
+info,registry,people,WPUJC Vaas,bcce309e

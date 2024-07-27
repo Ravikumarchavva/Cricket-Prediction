@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Islamabad United
+info,gender,male
+info,season,2022/23
+info,date,2023/02/23
+info,event,Pakistan Super League
+info,match_number,12
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Islamabad United
+info,toss_decision,field
+info,player_of_match,Hasan Ali
+info,umpire,MA Gough
+info,umpire,RK Illingworth
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,AG Wharf
+info,match_referee,Ali Naqvi
+info,winner,Islamabad United
+info,winner_wickets,6
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,JDS Neesham
+info,player,Peshawar Zalmi,MD Shanaka
+info,player,Peshawar Zalmi,Wahab Riaz
+info,player,Peshawar Zalmi,Usman Qadir
+info,player,Peshawar Zalmi,Arshad Iqbal
+info,player,Peshawar Zalmi,Sufiyan Muqeem
+info,player,Islamabad United,Rahmanullah Gurbaz
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,HE van der Dussen
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Asif Ali
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,Mubasir Khan
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,TK Curran
+info,player,Islamabad United,Hasan Ali
+info,player,Islamabad United,Rumman Raees
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Arshad Iqbal,ed031922
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,C Munro,af2c687b
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mubasir Khan,7264b765
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rumman Raees,1c790f4f
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TK Curran,e86754b2
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Usman Qadir,33742f04
+info,registry,people,Wahab Riaz,b3118300

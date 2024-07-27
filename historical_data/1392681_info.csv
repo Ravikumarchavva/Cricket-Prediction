@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2023/24
+info,date,2024/02/04
+info,event,SA20
+info,match_number,30
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Paarl Royals
+info,toss_decision,bat
+info,player_of_match,PE Kruger
+info,umpire,A Steenkamp
+info,umpire,Stephen Harris
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,DJ Smith
+info,match_referee,LH Matroos
+info,winner,Sunrisers Eastern Cape
+info,winner_wickets,5
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Codi Yusuf
+info,player,Paarl Royals,N Peter
+info,player,Paarl Royals,JA Turner
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,T Bavuma
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,B Swanepoel
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,N Peter,212aeedd
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PE Kruger,39181592
+info,registry,people,SR Harmer,23638956
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WJ Lubbe,10f42013

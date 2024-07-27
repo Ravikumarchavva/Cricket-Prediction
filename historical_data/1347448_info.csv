@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Southern Vipers
+info,team,Thunder
+info,gender,female
+info,season,2023
+info,date,2023/09/09
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,46
+info,venue,Arundel Castle Cricket Club Ground
+info,city,Arundel
+info,toss_winner,Southern Vipers
+info,toss_decision,bat
+info,umpire,AC Harris
+info,umpire,Hassan Adnan
+info,match_referee,AJ Swann
+info,winner,Southern Vipers
+info,winner_runs,64
+info,player,Southern Vipers,EM McCaughan
+info,player,Southern Vipers,A Norgrove
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,GA Elwiss
+info,player,Southern Vipers,E Windsor
+info,player,Southern Vipers,FG Kemp
+info,player,Southern Vipers,LCN Smith
+info,player,Southern Vipers,AZ Monaghan
+info,player,Southern Vipers,R Southby
+info,player,Southern Vipers,MLL Taylor
+info,player,Southern Vipers,A Lee
+info,player,Thunder,L Heap
+info,player,Thunder,S Smale
+info,player,Thunder,ND Dattani
+info,player,Thunder,FMK Morris
+info,player,Thunder,E Threlkeld
+info,player,Thunder,L Delany
+info,player,Thunder,D Mullan
+info,player,Thunder,TG Norris
+info,player,Thunder,PC Graham
+info,player,Thunder,O Bell
+info,player,Thunder,HE Jones
+info,registry,people,A Lee,ef7baafc
+info,registry,people,A Norgrove,c9439c2e
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,D Mullan,e78964b8
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,EM McCaughan,ed2711ea
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Heap,8d26dfab
+info,registry,people,LCN Smith,340202b0
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,O Bell,385eac52
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,R Southby,bbe1525d
+info,registry,people,S Smale,3247d54e
+info,registry,people,TG Norris,8ae7bb3e

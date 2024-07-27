@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Colombo Strikers
+info,team,Galle Titans
+info,gender,male
+info,season,2023
+info,date,2023/08/15
+info,event,Lanka Premier League
+info,match_number,20
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Galle Titans
+info,toss_decision,field
+info,player_of_match,T Shamsi
+info,umpire,Aleem Dar
+info,umpire,LE Hannibal
+info,reserve_umpire,IC Soysa
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,WC Labrooy
+info,winner,Galle Titans
+info,winner_wickets,8
+info,player,Colombo Strikers,P Nissanka
+info,player,Colombo Strikers,Babar Azam
+info,player,Colombo Strikers,LU Igalagamage
+info,player,Colombo Strikers,ND Perera
+info,player,Colombo Strikers,MNK Fernando
+info,player,Colombo Strikers,Mohammad Nawaz
+info,player,Colombo Strikers,Iftikhar Ahmed
+info,player,Colombo Strikers,C Karunaratne
+info,player,Colombo Strikers,Shoriful Islam
+info,player,Colombo Strikers,JDF Vandersay
+info,player,Colombo Strikers,M Pathirana
+info,player,Galle Titans,PBB Rajapaksa
+info,player,Galle Titans,L Croospulle
+info,player,Galle Titans,Liton Das
+info,player,Galle Titans,Shakib Al Hasan
+info,player,Galle Titans,MD Shanaka
+info,player,Galle Titans,SMLD Samarakoon
+info,player,Galle Titans,Najibullah Zadran
+info,player,Galle Titans,S Prasanna
+info,player,Galle Titans,CBRLS Kumara
+info,player,Galle Titans,CAK Rajitha
+info,player,Galle Titans,T Shamsi
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,IC Soysa,717a7971
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,ND Perera,f7928e6a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,SMLD Samarakoon,d28f4d1c
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WC Labrooy,29d4e29b

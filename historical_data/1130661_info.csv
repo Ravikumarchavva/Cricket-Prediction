@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Mumbai
+info,gender,male
+info,season,2017/18
+info,date,2018/01/07
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Saurashtra Cricket Association Stadium
+info,city,
+info,toss_winner,Baroda
+info,toss_decision,bat
+info,winner,Baroda
+info,winner_runs,13
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Urvil Patel
+info,player,Baroda,DJ Hooda
+info,player,Baroda,KH Pandya
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,Soaeb Tai
+info,player,Baroda,A Sheth
+info,player,Baroda,LI Meriwala
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,RT Arothe
+info,player,Baroda,AS Karambelkar
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,S Dube
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,SN Thakur
+info,player,Mumbai,Parikshit Valsangkar
+info,player,Mumbai,SD Lad
+info,player,Mumbai,Jay Bista
+info,player,Mumbai,AP Tare
+info,player,Mumbai,Bravish Shetty
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,Shashank Singh
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AP Tare,855a210c
+info,registry,people,AS Karambelkar,79194080
+info,registry,people,Bravish Shetty,ddeafbfe
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Jay Bista,f079e8fe
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Parikshit Valsangkar,84ba2fbc
+info,registry,people,RT Arothe,50455929
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Soaeb Tai,c915ee65
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,Vishnu Solanki,2e802011

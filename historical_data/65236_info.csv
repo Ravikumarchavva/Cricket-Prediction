@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Namibia
+info,gender,male
+info,season,2002/03
+info,date,2003/02/10
+info,event,ICC World Cup
+info,match_number,2
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,CB Wishart
+info,umpire,DL Orchard
+info,umpire,SJA Taufel
+info,tv_umpire,DB Hair
+info,match_referee,Wasim Raja
+info,winner,Zimbabwe
+info,winner_runs,86
+info,method,D/L
+info,player,Zimbabwe,CB Wishart
+info,player,Zimbabwe,MA Vermeulen
+info,player,Zimbabwe,A Flower
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,GJ Whittall
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,BA Murphy
+info,player,Zimbabwe,DT Hondo
+info,player,Zimbabwe,HK Olonga
+info,player,Namibia,R Walters
+info,player,Namibia,SJ Swanepoel
+info,player,Namibia,AJ Burger
+info,player,Namibia,D Keulder
+info,player,Namibia,GB Murgatroyd
+info,player,Namibia,LJ Burger
+info,player,Namibia,DB Kotze
+info,player,Namibia,M Karg
+info,player,Namibia,G Snyman
+info,player,Namibia,JL Louw
+info,player,Namibia,BL Kotze
+info,registry,people,A Flower,35aa26af
+info,registry,people,AJ Burger,4347a4ae
+info,registry,people,BA Murphy,31ce61ab
+info,registry,people,BL Kotze,540ffb25
+info,registry,people,CB Wishart,8319b9ea
+info,registry,people,D Keulder,34c823b0
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DB Kotze,5ee47383
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DL Orchard,a7df1d20
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,G Snyman,5af592d2
+info,registry,people,GB Murgatroyd,18356eb3
+info,registry,people,GJ Whittall,6a52f5d3
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Streak,37f501d7
+info,registry,people,HK Olonga,7f82b4fb
+info,registry,people,JL Louw,7e758bb2
+info,registry,people,LJ Burger,6f4d314b
+info,registry,people,M Karg,856a5e81
+info,registry,people,MA Vermeulen,611c06dd
+info,registry,people,R Walters,d32a4a41
+info,registry,people,SJ Swanepoel,31e31116
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,T Taibu,75de770f
+info,registry,people,Wasim Raja,d8bce357

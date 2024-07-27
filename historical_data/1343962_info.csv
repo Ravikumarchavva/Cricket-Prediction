@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2022/23
+info,date,2023/01/24
+info,event,SA20
+info,match_number,22
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,A Steenkamp
+info,umpire,S George
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,DJ Smith
+info,match_referee,SB Lambson
+info,winner,Joburg Super Kings
+info,winner_wickets,8
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,JO Holder
+info,player,Durban's Super Giants,SR Harmer
+info,player,Durban's Super Giants,GC Viljoen
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,RJW Topley
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,N Brand
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,G Coetzee
+info,player,Joburg Super Kings,AS Joseph
+info,player,Joburg Super Kings,M Theekshana
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,N Brand,68790da2
+info,registry,people,N Burger,465aa633
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S George,6d9e5a54
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SR Harmer,23638956
+info,registry,people,Stephen Harris,fdcfd4aa

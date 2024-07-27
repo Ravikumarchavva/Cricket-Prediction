@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Western Australia
+info,team,Tasmania
+info,gender,male
+info,season,2022/23
+info,date,2023/02/21
+info,date,2023/02/22
+info,date,2023/02/23
+info,date,2023/02/24
+info,event,Sheffield Shield
+info,match_number,23
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Tasmania
+info,toss_decision,field
+info,player_of_match,CT Bancroft
+info,umpire,SJ Nogajski
+info,umpire,Sharad Patel
+info,match_referee,David Johnston
+info,winner,Western Australia
+info,winner_runs,383
+info,player,Western Australia,CT Bancroft
+info,player,Western Australia,SM Whiteman
+info,player,Western Australia,T Wyllie
+info,player,Western Australia,HWR Cartwright
+info,player,Western Australia,AM Hardie
+info,player,Western Australia,JP Inglis
+info,player,Western Australia,MP Stoinis
+info,player,Western Australia,JS Paris
+info,player,Western Australia,M Kelly
+info,player,Western Australia,CH Stobo
+info,player,Western Australia,CJ Rocchiccioli
+info,player,Tasmania,TP Ward
+info,player,Tasmania,CP Jewell
+info,player,Tasmania,NT Ellis
+info,player,Tasmania,JR Doran
+info,player,Tasmania,BR McDermott
+info,player,Tasmania,JC Silk
+info,player,Tasmania,TD Paine
+info,player,Tasmania,BJ Webster
+info,player,Tasmania,JA Freeman
+info,player,Tasmania,JM Bird
+info,player,Tasmania,PM Siddle
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CH Stobo,098229a5
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,CJ Rocchiccioli,aa3c7a7a
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,David Johnston,92cef862
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,JA Freeman,912f472c
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Doran,9cebb612
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,M Kelly,68e26ec9
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,Sharad Patel,8e6dd3ba
+info,registry,people,T Wyllie,2f624c02
+info,registry,people,TD Paine,5748e866
+info,registry,people,TP Ward,fdd837ba

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/05/31
+info,event,Vitality Blast
+info,venue,"Merchant Taylors' School Ground, Northwood"
+info,city,Northwood
+info,toss_winner,Glamorgan
+info,toss_decision,bat
+info,umpire,BJ Debenham
+info,umpire,BV Taylor
+info,match_referee,WR Smith
+info,winner,Glamorgan
+info,winner_runs,29
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,HW Podmore
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,registry,people,BC Cullen,39180894
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BV Taylor,99760152
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,HW Podmore,43205dad
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,N Fernandes,01561e94
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,WR Smith,ad962377
+info,registry,people,WT Root,72898514

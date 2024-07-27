@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Karachi Kings
+info,gender,male
+info,season,2022/23
+info,date,2023/02/14
+info,event,Pakistan Super League
+info,match_number,2
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Karachi Kings
+info,toss_decision,field
+info,player_of_match,T Kohler-Cadmore
+info,umpire,Ahsan Raza
+info,umpire,AG Wharf
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,Ali Naqvi
+info,winner,Peshawar Zalmi
+info,winner_runs,2
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,PBB Rajapaksa
+info,player,Peshawar Zalmi,JDS Neesham
+info,player,Peshawar Zalmi,Shakib Al Hasan
+info,player,Peshawar Zalmi,Wahab Riaz
+info,player,Peshawar Zalmi,Khurram Shahzad
+info,player,Peshawar Zalmi,Sufiyan Muqeem
+info,player,Peshawar Zalmi,Salman Irshad
+info,player,Karachi Kings,MS Wade
+info,player,Karachi Kings,Sharjeel Khan
+info,player,Karachi Kings,Haider Ali
+info,player,Karachi Kings,Qasim Akram
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Imad Wasim
+info,player,Karachi Kings,BCJ Cutting
+info,player,Karachi Kings,AJ Tye
+info,player,Karachi Kings,Imran Tahir
+info,player,Karachi Kings,Mir Hamza
+info,player,Karachi Kings,Mohammad Amir
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,Khurram Shahzad,1daf3f74
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,Qasim Akram,b6359668
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sharjeel Khan,193ef196
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Wahab Riaz,b3118300

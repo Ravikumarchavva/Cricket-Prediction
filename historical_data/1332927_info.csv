@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Railways
+info,team,Uttarakhand
+info,gender,male
+info,season,2022/23
+info,date,2022/10/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Saurashtra Cricket Association Stadium, Rajkot"
+info,city,Rajkot
+info,toss_winner,Uttarakhand
+info,toss_decision,field
+info,umpire,CK Nandan
+info,umpire,Premdip Chatterjee
+info,match_referee,F Ghayas
+info,winner,Uttarakhand
+info,winner_wickets,7
+info,player,Railways,Pratham Singh
+info,player,Railways,Shivam Chaudhary
+info,player,Railways,Mohammad Saif
+info,player,Railways,Upendra Yadav
+info,player,Railways,Vivek Singh
+info,player,Railways,Suraj Ahuja
+info,player,Railways,MR Raut
+info,player,Railways,KV Sharma
+info,player,Railways,AR Pandey
+info,player,Railways,Harsh Tyagi
+info,player,Railways,T Pradeep
+info,player,Railways,Susheel Kumar
+info,player,Uttarakhand,Avneesh Sudha
+info,player,Uttarakhand,Jiwanjot Singh
+info,player,Uttarakhand,AP Tare
+info,player,Uttarakhand,Kunal Chandela
+info,player,Uttarakhand,Swapnil Singh
+info,player,Uttarakhand,Akash Madhwal
+info,player,Uttarakhand,Dikshanshu Negi
+info,player,Uttarakhand,Vijay Sharma
+info,player,Uttarakhand,Mayank Mishra
+info,player,Uttarakhand,Rajan Kumar
+info,player,Uttarakhand,Agrim Tiwari
+info,registry,people,AP Tare,855a210c
+info,registry,people,AR Pandey,dd73b2ff
+info,registry,people,Agrim Tiwari,beb2a972
+info,registry,people,Akash Madhwal,4bd09374
+info,registry,people,Avneesh Sudha,126e8cb3
+info,registry,people,CK Nandan,012de9c4
+info,registry,people,Dikshanshu Negi,1f3febed
+info,registry,people,F Ghayas,02d55e76
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,Jiwanjot Singh,39f9e2bc
+info,registry,people,KV Sharma,119678fd
+info,registry,people,Kunal Chandela,d38c03d4
+info,registry,people,MR Raut,af7f15f3
+info,registry,people,Mayank Mishra,de00b96c
+info,registry,people,Mohammad Saif,2843d331
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,Premdip Chatterjee,489fb760
+info,registry,people,Rajan Kumar,cd474693
+info,registry,people,Shivam Chaudhary,e53af640
+info,registry,people,Suraj Ahuja,a0d05c98
+info,registry,people,Susheel Kumar,18956346
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,T Pradeep,a0d66374
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,Vijay Sharma,6e8d1234
+info,registry,people,Vivek Singh,a446c7be

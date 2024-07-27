@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Warwickshire
+info,gender,male
+info,season,2023
+info,date,2023/08/07
+info,event,One-Day Cup
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Warwickshire
+info,toss_decision,field
+info,umpire,GD Lloyd
+info,umpire,N Pratt
+info,match_referee,IL Herbert
+info,winner,Warwickshire
+info,winner_wickets,8
+info,player,Gloucestershire,TJ Price
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BJJ Wells
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,Anwar Ali
+info,player,Gloucestershire,AS Dale
+info,player,Gloucestershire,PA van Meekeren
+info,player,Warwickshire,RM Yates
+info,player,Warwickshire,EG Barnard
+info,player,Warwickshire,WMH Rhodes
+info,player,Warwickshire,MGK Burgess
+info,player,Warwickshire,Hamza Shaikh
+info,player,Warwickshire,K Smith
+info,player,Warwickshire,EA Brookes
+info,player,Warwickshire,DR Briggs
+info,player,Warwickshire,JB Lintott
+info,player,Warwickshire,CN Miles
+info,player,Warwickshire,OJ Hannon-Dalby
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,BJJ Wells,ad9a3160
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,Hamza Shaikh,1917d713
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,K Smith,ee6ebf47
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,OJ Hannon-Dalby,e0ac7144
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,RM Yates,3581a798
+info,registry,people,TJ Price,269ff06e
+info,registry,people,WMH Rhodes,f54dbda7
+info,registry,people,Zafar Gohar,9fd3a210

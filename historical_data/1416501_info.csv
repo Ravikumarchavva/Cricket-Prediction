@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Multan Sultans
+info,team,Quetta Gladiators
+info,gender,male
+info,season,2023/24
+info,date,2024/03/12
+info,event,Pakistan Super League
+info,match_number,30
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Quetta Gladiators
+info,toss_decision,field
+info,player_of_match,Mohammad Rizwan
+info,umpire,Rashid Riaz
+info,umpire,RK Illingworth
+info,reserve_umpire,Asif Yaqoob
+info,tv_umpire,CB Gaffaney
+info,match_referee,Ali Naqvi
+info,winner,Multan Sultans
+info,winner_runs,79
+info,player,Multan Sultans,Yasir Khan
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,Usman Khan
+info,player,Multan Sultans,J Charles
+info,player,Multan Sultans,Iftikhar Ahmed
+info,player,Multan Sultans,Tayyab Tahir
+info,player,Multan Sultans,CJ Jordan
+info,player,Multan Sultans,DJ Willey
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,Mohammad Ali
+info,player,Multan Sultans,Abbas Afridi
+info,player,Quetta Gladiators,JJ Roy
+info,player,Quetta Gladiators,Saud Shakeel
+info,player,Quetta Gladiators,RR Rossouw
+info,player,Quetta Gladiators,Omair Yousuf
+info,player,Quetta Gladiators,LJ Evans
+info,player,Quetta Gladiators,Khawaja Nafay
+info,player,Quetta Gladiators,AJ Hosein
+info,player,Quetta Gladiators,Mohammad Wasim
+info,player,Quetta Gladiators,Mohammad Amir
+info,player,Quetta Gladiators,Abrar Ahmed
+info,player,Quetta Gladiators,Usman Tariq
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Willey,7f048519
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,J Charles,09a9d073
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,Khawaja Nafay,3cf54e77
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,Mohammad Ali,a86a37ab
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Omair Yousuf,f8e3c0f8
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Usman Tariq,e94d1dcd
+info,registry,people,Yasir Khan,4f1bb625

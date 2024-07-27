@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Derbyshire
+info,gender,male
+info,season,2023
+info,date,2023/08/18
+info,event,One-Day Cup
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Derbyshire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,RJ Bailey
+info,match_referee,IL Herbert
+info,winner,Worcestershire
+info,winner_runs,62
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,RP Jones
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,J Leach
+info,player,Worcestershire,JO Baker
+info,player,Worcestershire,PR Brown
+info,player,Worcestershire,DY Pennington
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,HJ Moore
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,RAS Lakmal
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HJ Moore,7578b730
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,J Leach,cd143bca
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JO Baker,52c442e4
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RP Jones,ad8cb396
+info,registry,people,S Conners,067bda18
+info,registry,people,TA Wood,884f72a1
+info,registry,people,WL Madsen,86e0f3f0

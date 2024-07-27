@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Hampshire
+info,gender,male
+info,season,2024
+info,date,2024/05/17
+info,date,2024/05/18
+info,date,2024/05/19
+info,date,2024/05/20
+info,event,County Championship
+info,match_number,28
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,SJ O'Shaughnessy
+info,match_referee,AJ Swann
+info,winner,Hampshire
+info,winner_wickets,5
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,DY Pennington
+info,player,Nottinghamshire,D Paterson
+info,player,Hampshire,AGH Orr
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,FS Organ
+info,player,Hampshire,JM Vince
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,BC Brown
+info,player,Hampshire,KHD Barker
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,KJ Abbott
+info,player,Hampshire,Mohammad Abbas
+info,player,Hampshire,TJ Prest
+info,registry,people,AGH Orr,1ab18b25
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,BC Brown,8af86756
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,CG Harrison,f655d740
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,FS Organ,819ae1ad
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KHD Barker,2223b920
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LW James,2baad3bd
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OP Stone,3f659464
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,WA Young,8afe73e2

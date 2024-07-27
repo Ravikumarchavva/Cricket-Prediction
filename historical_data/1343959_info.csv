@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Durban's Super Giants
+info,gender,male
+info,season,2022/23
+info,date,2023/01/22
+info,event,SA20
+info,match_number,19
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Durban's Super Giants
+info,toss_decision,field
+info,player_of_match,RE van der Merwe
+info,umpire,DJ Smith
+info,umpire,Siphelele Gasa
+info,reserve_umpire,BM White
+info,tv_umpire,A Jacobs
+info,match_referee,LH Matroos
+info,winner,Sunrisers Eastern Cape
+info,winner_runs,124
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,SJ Erwee
+info,player,Sunrisers Eastern Cape,JT Smuts
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,JK Fuller
+info,player,Sunrisers Eastern Cape,RE van der Merwe
+info,player,Sunrisers Eastern Cape,MS Crane
+info,player,Sunrisers Eastern Cape,SSB Magala
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,JO Holder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,P Subrayen
+info,player,Durban's Super Giants,A Dananjaya
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BM White,66c21d35
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JO Holder,0f721006
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SSB Magala,8361e524
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Stubbs,85b3fab2

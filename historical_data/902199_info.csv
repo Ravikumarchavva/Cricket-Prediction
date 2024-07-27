@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Andhra
+info,team,Assam
+info,gender,male
+info,season,2015/16
+info,date,2016/01/07
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Motibaug Cricket Ground
+info,city,
+info,toss_winner,Assam
+info,toss_decision,field
+info,winner,Andhra
+info,winner_runs,12
+info,player,Andhra,Prashanth Kumar
+info,player,Andhra,KS Bharat
+info,player,Andhra,A G Pradeep
+info,player,Andhra,Karan Shinde
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,Jyothi Sai Krishna
+info,player,Andhra,Sirla Srinivas
+info,player,Andhra,K V Sasikanth
+info,player,Andhra,Bandaru Ayyappa
+info,player,Andhra,Bodavarapu Sudhakar
+info,player,Andhra,Cheepurapalli Stephen
+info,player,Assam,Krishna Das
+info,player,Assam,Mrinmoy Dutta
+info,player,Assam,AN Ahmed
+info,player,Assam,Pallav Kumar Das
+info,player,Assam,J Syed Mohammad
+info,player,Assam,Amit Verma
+info,player,Assam,Swarupam Purkayastha
+info,player,Assam,Sibsankar Roy
+info,player,Assam,Abhijit Roy
+info,player,Assam,Amit Sinha
+info,player,Assam,KB Arun Karthik
+info,registry,people,A G Pradeep,d5eed764
+info,registry,people,AN Ahmed,2af1b6d2
+info,registry,people,Abhijit Roy,ef131544
+info,registry,people,Amit Sinha,2f48362d
+info,registry,people,Amit Verma,3b30b8c4
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,Bandaru Ayyappa,cb4f31e2
+info,registry,people,Bodavarapu Sudhakar,748c4d3b
+info,registry,people,Cheepurapalli Stephen,48bf9d5c
+info,registry,people,J Syed Mohammad,c64c2443
+info,registry,people,Jyothi Sai Krishna,eb87663e
+info,registry,people,K V Sasikanth,bf6e03ea
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Karan Shinde,08a349ac
+info,registry,people,Krishna Das,2009e01b
+info,registry,people,Mrinmoy Dutta,64959652
+info,registry,people,Pallav Kumar Das,c2294408
+info,registry,people,Prashanth Kumar,1f0b8f44
+info,registry,people,Sibsankar Roy,3d8348d0
+info,registry,people,Sirla Srinivas,2712898a
+info,registry,people,Swarupam Purkayastha,dfc887dc

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Warwickshire
+info,gender,male
+info,season,2023
+info,date,2023/09/26
+info,date,2023/09/27
+info,date,2023/09/28
+info,date,2023/09/29
+info,event,County Championship
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Somerset
+info,toss_decision,bat
+info,umpire,ID Blackwell
+info,umpire,PR Pollard
+info,match_referee,JJ Swift
+info,outcome,draw
+info,player,Somerset,TA Lammonby
+info,player,Somerset,SR Dickson
+info,player,Somerset,LP Goldsworthy
+info,player,Somerset,ARI Umeed
+info,player,Somerset,TB Abell
+info,player,Somerset,JEK Rew
+info,player,Somerset,T Banton
+info,player,Somerset,L Gregory
+info,player,Somerset,JH Davey
+info,player,Somerset,N Wagner
+info,player,Somerset,JA Brooks
+info,player,Warwickshire,RM Yates
+info,player,Warwickshire,KC Brathwaite
+info,player,Warwickshire,WMH Rhodes
+info,player,Warwickshire,AL Davies
+info,player,Warwickshire,DR Mousley
+info,player,Warwickshire,EG Barnard
+info,player,Warwickshire,MGK Burgess
+info,player,Warwickshire,DR Briggs
+info,player,Warwickshire,CN Miles
+info,player,Warwickshire,OJ Hannon-Dalby
+info,player,Warwickshire,C Rushworth
+info,registry,people,AL Davies,29ede60b
+info,registry,people,ARI Umeed,7a32c1c1
+info,registry,people,C Rushworth,e737a5fe
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Brooks,8bf61e65
+info,registry,people,JEK Rew,521595e7
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,N Wagner,78adc879
+info,registry,people,OJ Hannon-Dalby,e0ac7144
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RM Yates,3581a798
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WMH Rhodes,f54dbda7

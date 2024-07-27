@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Essex
+info,gender,male
+info,season,2024
+info,date,2024/06/07
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,PR Pollard
+info,match_referee,DA Cosker
+info,winner,Essex
+info,winner_wickets,2
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,JP McIlroy
+info,player,Essex,AM Rossington
+info,player,Essex,D Elgar
+info,player,Essex,MS Pepper
+info,player,Essex,JM Cox
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,LM Benkenstein
+info,player,Essex,S Snater
+info,player,Essex,Aaron Beard
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,S Snater,a790df98
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SR Harmer,23638956
+info,registry,people,T van der Gugten,d99cc23a

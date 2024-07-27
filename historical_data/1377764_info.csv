@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Scotland
+info,gender,male
+info,season,2023
+info,date,2023/06/27
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,19
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Scotland
+info,toss_decision,field
+info,player_of_match,M Theekshana
+info,umpire,AG Wharf
+info,umpire,BP Jele
+info,reserve_umpire,I Chabi
+info,tv_umpire,Aleem Dar
+info,match_referee,S Wadvalla
+info,winner,Sri Lanka
+info,winner_runs,82
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,CBRLS Kumara
+info,player,Scotland,CM McBride
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,J Jarvis
+info,player,Scotland,CB Sole
+info,player,Scotland,AC Evans
+info,registry,people,AC Evans,e9a870ed
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CB Sole,469ccead
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,I Chabi,5e39110e
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MA Leask,28131839
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,TSS Mackintosh,f5ef7ac3

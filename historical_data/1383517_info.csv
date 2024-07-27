@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Andhra
+info,team,Manipur
+info,gender,male
+info,season,2023/24
+info,date,2023/10/23
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Andhra
+info,toss_decision,bat
+info,umpire,P Jayapal
+info,umpire,Vinod Seshan
+info,match_referee,R Seth
+info,winner,Andhra
+info,winner_runs,70
+info,player,Andhra,S Akhil
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,KS Bharat
+info,player,Andhra,GH Vihari
+info,player,Andhra,SK Rasheed
+info,player,Andhra,RK Bhui
+info,player,Andhra,Karan Shinde
+info,player,Andhra,K V Sasikanth
+info,player,Andhra,T Vijay
+info,player,Andhra,Manish Golamaru
+info,player,Andhra,K Saiteja
+info,player,Andhra,Cheepurapalli Stephen
+info,player,Manipur,Lamabam Singh
+info,player,Manipur,B Rahman
+info,player,Manipur,Kangabam Singh
+info,player,Manipur,P Prafullomani
+info,player,Manipur,Johnson Singh
+info,player,Manipur,BM Chingakham
+info,player,Manipur,Rex Rajkumar
+info,player,Manipur,Bikash Singh
+info,player,Manipur,L Kishan Singha
+info,player,Manipur,Sultan Karim
+info,player,Manipur,Al Bashid Muhammed
+info,player,Manipur,Bishworjit Konthoujam
+info,registry,people,Al Bashid Muhammed,1dc27b6b
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,B Rahman,c707b358
+info,registry,people,BM Chingakham,90dd5193
+info,registry,people,Bikash Singh,2be0cc2f
+info,registry,people,Bishworjit Konthoujam,15deff66
+info,registry,people,Cheepurapalli Stephen,48bf9d5c
+info,registry,people,GH Vihari,94253925
+info,registry,people,Johnson Singh,5355e20a
+info,registry,people,K Saiteja,16bdb9b7
+info,registry,people,K V Sasikanth,bf6e03ea
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Kangabam Singh,59da1e8a
+info,registry,people,Karan Shinde,08a349ac
+info,registry,people,L Kishan Singha,ca82673d
+info,registry,people,Lamabam Singh,76860ea3
+info,registry,people,Manish Golamaru,327c7253
+info,registry,people,P Jayapal,209e51e8
+info,registry,people,P Prafullomani,f9900488
+info,registry,people,R Seth,540a44ba
+info,registry,people,RK Bhui,b63e358a
+info,registry,people,Rex Rajkumar,f3ba1bdc
+info,registry,people,S Akhil,21aa409e
+info,registry,people,SK Rasheed,cbf58a86
+info,registry,people,Sultan Karim,7ef0c030
+info,registry,people,T Vijay,51ec3919
+info,registry,people,Vinod Seshan,a3357a27

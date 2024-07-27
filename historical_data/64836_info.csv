@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Pakistan
+info,gender,male
+info,season,2003
+info,date,2003/09/18
+info,event,Bangladesh tour of Pakistan
+info,match_number,4
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Yousuf Youhana
+info,umpire,Aleem Dar
+info,umpire,RB Tiffin
+info,tv_umpire,Asad Rauf
+info,match_referee,MJ Procter
+info,winner,Pakistan
+info,winner_wickets,5
+info,player,Bangladesh,Hannan Sarkar
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Rajin Saleh
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Alok Kapali
+info,player,Bangladesh,Tushar Imran
+info,player,Bangladesh,Mushfiqur Rahman
+info,player,Bangladesh,Khaled Mahmud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Mashrafe Mortaza
+info,player,Bangladesh,Tapash Baisya
+info,player,Pakistan,Imran Nazir
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Kamran Akmal
+info,player,Pakistan,Junaid Zia
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Umar Gul
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Alok Kapali,54279e23
+info,registry,people,Asad Rauf,861606b7
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,Hannan Sarkar,608e1581
+info,registry,people,Imran Nazir,3eb7c45d
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,Junaid Zia,c78f1ff5
+info,registry,people,Kamran Akmal,ff077124
+info,registry,people,Khaled Mahmud,0c8a1d51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,MJ Procter,32e65048
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Mushfiqur Rahman,3fc3b204
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,Rajin Saleh,acc321aa
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Tapash Baisya,bb1819fa
+info,registry,people,Tushar Imran,b58af144
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

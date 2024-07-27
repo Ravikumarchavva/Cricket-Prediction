@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Aura
+info,team,B-Love Kandy
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,Lanka Premier League
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Dambulla Aura
+info,toss_decision,bat
+info,player_of_match,AD Mathews
+info,umpire,Aleem Dar
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,RS Madugalle
+info,winner,B-Love Kandy
+info,winner_wickets,5
+info,player,Dambulla Aura,WIA Fernando
+info,player,Dambulla Aura,BKG Mendis
+info,player,Dambulla Aura,S Samarawickrama
+info,player,Dambulla Aura,MDKJ Perera
+info,player,Dambulla Aura,DM de Silva
+info,player,Dambulla Aura,AI Ross
+info,player,Dambulla Aura,H Kerr
+info,player,Dambulla Aura,MADI Hemantha
+info,player,Dambulla Aura,B Fernando
+info,player,Dambulla Aura,Noor Ahmad
+info,player,Dambulla Aura,PM Liyanagamage
+info,player,B-Love Kandy,Mohammad Haris
+info,player,B-Love Kandy,PHKD Mendis
+info,player,B-Love Kandy,LD Chandimal
+info,player,B-Love Kandy,AD Mathews
+info,player,B-Love Kandy,PC de Silva
+info,player,B-Love Kandy,Asif Ali
+info,player,B-Love Kandy,LD Madushanka
+info,player,B-Love Kandy,KNA Bandara
+info,player,B-Love Kandy,Mohammad Hasnain
+info,player,B-Love Kandy,Mujeeb Ur Rahman
+info,player,B-Love Kandy,N Pradeep
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,H Kerr,f422728b
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LD Madushanka,de063a39
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PM Liyanagamage,3ee0050f
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,WIA Fernando,9550470d

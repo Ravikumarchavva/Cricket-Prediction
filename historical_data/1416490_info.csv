@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Multan Sultans
+info,team,Karachi Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/03/03
+info,event,Pakistan Super League
+info,match_number,19
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Multan Sultans
+info,toss_decision,bat
+info,player_of_match,Usman Khan
+info,umpire,Faisal Afridi
+info,umpire,Rashid Riaz
+info,reserve_umpire,Abdul Muqeet
+info,tv_umpire,CB Gaffaney
+info,match_referee,Ali Naqvi
+info,winner,Multan Sultans
+info,winner_runs,20
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,RR Hendricks
+info,player,Multan Sultans,Usman Khan
+info,player,Multan Sultans,Iftikhar Ahmed
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,Tayyab Tahir
+info,player,Multan Sultans,CJ Jordan
+info,player,Multan Sultans,DJ Willey
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,Mohammad Ali
+info,player,Multan Sultans,Faisal Akram
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,TL Seifert
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,JL du Plooy
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,Mohammad Nawaz
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,Mir Hamza
+info,player,Karachi Kings,Zahid Mahmood
+info,player,Karachi Kings,B Muzarabani
+info,registry,people,Abdul Muqeet,e1ac7789
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Willey,7f048519
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Faisal Akram,14661bf3
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,Mohammad Ali,a86a37ab
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Zahid Mahmood,ba158afd

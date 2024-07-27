@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/05/24
+info,date,2024/05/25
+info,date,2024/05/26
+info,date,2024/05/27
+info,event,County Championship
+info,match_number,25
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Derbyshire
+info,toss_decision,bat
+info,umpire,Naeem Ashraf
+info,umpire,PR Pollard
+info,match_referee,SG Hinks
+info,outcome,draw
+info,player,Derbyshire,DL Lloyd
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,MJ Lamb
+info,player,Derbyshire,AHT Donald
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,DM Dupavillon
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,EWO Middleton
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,AS Dale
+info,registry,people,AHT Donald,72918338
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,EWO Middleton,adaf51be
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LM Reece,9789e56e
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MJ Lamb,463ebce3
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,S Conners,067bda18
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rangpur Riders
+info,team,Comilla Victorians
+info,gender,male
+info,season,2022/23
+info,date,2023/01/06
+info,event,Bangladesh Premier League
+info,match_number,2
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Comilla Victorians
+info,toss_decision,field
+info,player_of_match,Rony Talukdar
+info,umpire,Morshed Ali Khan
+info,umpire,Tanvir Ahmed
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,DJ Millns
+info,match_referee,Akhtar Ahmad
+info,winner,Rangpur Riders
+info,winner_runs,34
+info,player,Rangpur Riders,Mohammad Naim
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Shoaib Malik
+info,player,Rangpur Riders,Sikandar Raza
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,BAC Howell
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Hasan Mahmud
+info,player,Rangpur Riders,Robiul Haque
+info,player,Rangpur Riders,Rakibul Hasan
+info,player,Rangpur Riders,Azmatullah Omarzai
+info,player,Comilla Victorians,Shykat Ali
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,DJ Malan
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,Mohammad Nabi
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,Ashiqur Zaman
+info,player,Comilla Victorians,Fazalhaq Farooqi
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Ashiqur Zaman,9b06106d
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Robiul Haque,2353b224
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Shykat Ali,288dd46e
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Tanvir Ahmed,ea2df1f1

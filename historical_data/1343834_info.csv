@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Malaysia
+info,gender,male
+info,season,2022/23
+info,date,2022/12/06
+info,event,CWC Challenge League
+info,match_number,35
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,Ahmed Faiz
+info,umpire,Ramasamy Venkatesh
+info,umpire,Sarika Prasad
+info,reserve_umpire,Tabarak Dar
+info,match_referee,V Narayan Kutty
+info,winner,Malaysia
+info,winner_wickets,5
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,JD Allan
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,PK Matautaava
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,J Vira
+info,player,Vanuatu,BA Viraliliu
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,D Wotu
+info,player,Vanuatu,Obed Yosef
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,M Syahadat Ramli
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Syed Rehmatullah
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,Rizwan Haider
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,BA Viraliliu,7d85b1e9
+info,registry,people,D Wotu,9585854d
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,J Vira,2090e94d
+info,registry,people,JD Allan,3758028b
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,M Syahadat Ramli,5efa8af3
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,N Nipiko,c498c510
+info,registry,people,Obed Yosef,a843d7a8
+info,registry,people,PK Matautaava,af19aa66
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,R Tari,c4d19735
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Syed Rehmatullah,fcbdc2b0
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,W Nalisa,673be48f
+info,registry,people,Zubaidi Zulkifle,dca8273d

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2022/23
+info,date,2023/02/04
+info,event,SA20
+info,match_number,26
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,player_of_match,RR Rossouw
+info,umpire,A Paleker
+info,umpire,M Erasmus
+info,reserve_umpire,A Jacobs
+info,tv_umpire,AT Holdstock
+info,match_referee,SB Lambson
+info,winner,Pretoria Capitals
+info,winner_wickets,1
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,WB Marshall
+info,player,MI Cape Town,G Roelofsen
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TH David
+info,player,MI Cape Town,D Jansen
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,OF Smith
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,K Rabada
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,BKG Mendis
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,A Nortje
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,J Little
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Little,9061a703
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,OF Smith,23cca426
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TH David,f1f99156
+info,registry,people,WB Marshall,2d7f2ba0
+info,registry,people,WD Parnell,3a60e0b5

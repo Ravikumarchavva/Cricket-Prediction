@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Scotland
+info,gender,male
+info,season,2022/23
+info,date,2022/12/04
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,117
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Scotland
+info,toss_decision,field
+info,player_of_match,CB Sole
+info,umpire,A Louw
+info,umpire,C Thorburn
+info,reserve_umpire,S George
+info,match_referee,ET Dube
+info,winner,Scotland
+info,winner_wickets,3
+info,player,Nepal,A Saud
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,G Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,K Bhurtel
+info,player,Nepal,DS Airee
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Karan KC
+info,player,Nepal,LN Rajbanshi
+info,player,Nepal,S Dhakal
+info,player,Scotland,HG Munsey
+info,player,Scotland,CM McBride
+info,player,Scotland,KJ Coetzer
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,MA Leask
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,player,Scotland,Hamza Tahir
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Saud,94b8d7dd
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,C Thorburn,904288fe
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,DS Airee,1747ea18
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,G Malla,b2e1d224
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Hamza Tahir,34cb2f69
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,KJ Coetzer,85d8110a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Dhakal,8955b928
+info,registry,people,S George,6d9e5a54
+info,registry,people,SM Sharif,f43dd8c2

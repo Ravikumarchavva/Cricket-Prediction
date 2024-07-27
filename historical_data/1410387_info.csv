@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Hampshire
+info,gender,male
+info,season,2024
+info,date,2024/06/02
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Kent
+info,toss_decision,bat
+info,umpire,NJ Llong
+info,umpire,Rob White
+info,match_referee,DA Cosker
+info,winner,Hampshire
+info,winner_wickets,3
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,TS Muyeye
+info,player,Kent,SW Billings
+info,player,Kent,JL Denly
+info,player,Kent,JDM Evison
+info,player,Kent,MK O'Riordan
+info,player,Kent,B Swanepoel
+info,player,Kent,G Stewart
+info,player,Kent,XC Bartlett
+info,player,Kent,MW Parkinson
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,TE Albert
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,MG Neser
+info,player,Hampshire,CP Wood
+info,player,Hampshire,JA Turner
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,G Stewart,a77472dc
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MG Neser,0164b064
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,MW Parkinson,19708692
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,Rob White,59b91222
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TE Albert,a6c17509
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,Z Crawley,922e1b19

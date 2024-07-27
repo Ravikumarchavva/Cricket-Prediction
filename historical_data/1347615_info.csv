@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Sussex
+info,gender,male
+info,season,2023
+info,date,2023/06/04
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,Mark Newell
+info,match_referee,PM Such
+info,winner,Glamorgan
+info,winner_runs,32
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,player,Sussex,TGR Clark
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,JM Coles
+info,player,Sussex,N McAndrew
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,TS Mills
+info,player,Sussex,HT Crocombe
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WT Root,72898514

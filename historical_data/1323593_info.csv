@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sydney Sixers
+info,team,Melbourne Stars
+info,gender,female
+info,season,2022/23
+info,date,2022/11/12
+info,event,Women's Big Bash League
+info,match_number,40
+info,venue,"Junction Oval, Melbourne"
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,A Gardner
+info,umpire,L McCabe
+info,umpire,SE Dionysius
+info,tv_umpire,Troy Penman
+info,match_referee,RW Stratford
+info,winner,Sydney Sixers
+info,winner_runs,45
+info,player,Sydney Sixers,SW Bates
+info,player,Sydney Sixers,AJ Healy
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,NE Bolton
+info,player,Sydney Sixers,S Ecclestone
+info,player,Sydney Sixers,K Peterson
+info,player,Sydney Sixers,A Genford
+info,player,Sydney Sixers,L Cheatle
+info,player,Sydney Sixers,S Campbell
+info,player,Melbourne Stars,L Winfield-Hill
+info,player,Melbourne Stars,JI Rodrigues
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,T Flintoff
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,S Day
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Genford,52b45daa
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AJ Healy,321644de
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,K Peterson,5f377534
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Cheatle,275dff85
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,N Faltum,9a56c670
+info,registry,people,NE Bolton,dd883071
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Campbell,c6b09326
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SE Dionysius,ac886e6f
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Flintoff,5471b94a
+info,registry,people,Troy Penman,0aa42c26

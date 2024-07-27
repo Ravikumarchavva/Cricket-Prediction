@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2022/23
+info,date,2023/02/05
+info,event,SA20
+info,match_number,28
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,player_of_match,H Klaasen
+info,umpire,AT Holdstock
+info,umpire,A Paleker
+info,reserve_umpire,A Jacobs
+info,tv_umpire,M Erasmus
+info,match_referee,S Wadvalla
+info,winner,Durban's Super Giants
+info,winner_runs,151
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,BR McDermott
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,DJ Willey
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,CJ Dala
+info,player,Durban's Super Giants,RJW Topley
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,BKG Mendis
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,DM Dupavillon
+info,player,Pretoria Capitals,J Little
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,J Little,9061a703
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,TB de Bruyn,90d6cdea

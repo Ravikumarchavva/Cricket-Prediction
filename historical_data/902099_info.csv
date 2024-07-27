@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Andhra
+info,team,Madhya Pradesh
+info,gender,male
+info,season,2015/16
+info,date,2016/01/02
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Reliance Cricket Stadium
+info,city,
+info,toss_winner,Madhya Pradesh
+info,toss_decision,field
+info,winner,Madhya Pradesh
+info,winner_wickets,5
+info,player,Andhra,KS Bharat
+info,player,Andhra,Koripalli Sreekanth
+info,player,Andhra,Prashanth Kumar
+info,player,Andhra,A G Pradeep
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,Jyothi Sai Krishna
+info,player,Andhra,Bodavarapu Sudhakar
+info,player,Andhra,K V Sasikanth
+info,player,Andhra,Sirla Srinivas
+info,player,Andhra,Bandaru Ayyappa
+info,player,Andhra,Cheepurapalli Stephen
+info,player,Madhya Pradesh,IC Pandey
+info,player,Madhya Pradesh,Puneet Datey
+info,player,Madhya Pradesh,Ankit Kushwah
+info,player,Madhya Pradesh,Harpreet Singh
+info,player,Madhya Pradesh,VR Iyer
+info,player,Madhya Pradesh,NV Ojha
+info,player,Madhya Pradesh,Jalaj S Saxena
+info,player,Madhya Pradesh,Anand Bais
+info,player,Madhya Pradesh,Parth Sahani
+info,player,Madhya Pradesh,Sohraab Dhaliwal
+info,player,Madhya Pradesh,Ankit Sharma
+info,registry,people,A G Pradeep,d5eed764
+info,registry,people,Anand Bais,e5f99922
+info,registry,people,Ankit Kushwah,d27dafe2
+info,registry,people,Ankit Sharma,24d94623
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,Bandaru Ayyappa,cb4f31e2
+info,registry,people,Bodavarapu Sudhakar,748c4d3b
+info,registry,people,Cheepurapalli Stephen,48bf9d5c
+info,registry,people,Harpreet Singh,28c78fb3
+info,registry,people,IC Pandey,e0407c01
+info,registry,people,Jalaj S Saxena,249abedf
+info,registry,people,Jyothi Sai Krishna,eb87663e
+info,registry,people,K V Sasikanth,bf6e03ea
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Koripalli Sreekanth,43b01577
+info,registry,people,NV Ojha,890946a0
+info,registry,people,Parth Sahani,239f7526
+info,registry,people,Prashanth Kumar,1f0b8f44
+info,registry,people,Puneet Datey,389ae08a
+info,registry,people,Sirla Srinivas,2712898a
+info,registry,people,Sohraab Dhaliwal,564714f5
+info,registry,people,VR Iyer,a24be938

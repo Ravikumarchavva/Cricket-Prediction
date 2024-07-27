@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Netherlands
+info,gender,male
+info,season,2023
+info,date,2023/06/26
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,18
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,LV van Beek
+info,umpire,J Madanagopal
+info,umpire,RR Wimalasiri
+info,reserve_umpire,R Black
+info,tv_umpire,A Paleker
+info,match_referee,GF Labrooy
+info,outcome,tie
+info,eliminator,Netherlands
+info,player,West Indies,BA King
+info,player,West Indies,J Charles
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,SD Hope
+info,player,West Indies,N Pooran
+info,player,West Indies,R Shepherd
+info,player,West Indies,JO Holder
+info,player,West Indies,KMA Paul
+info,player,West Indies,RL Chase
+info,player,West Indies,AJ Hosein
+info,player,West Indies,AS Joseph
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,W Barresi
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,Saqib Zulfiqar
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,A Dutt
+info,player,Netherlands,C Floyd
+info,player,Netherlands,VJ Kingma
+info,registry,people,A Dutt,803dbf1d
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,BA King,7fca84b7
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,C Floyd,527c2dab
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,J Charles,09a9d073
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JO Holder,0f721006
+info,registry,people,KMA Paul,75224f22
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Saqib Zulfiqar,5d38476c
+info,registry,people,VJ Kingma,3a7ea906
+info,registry,people,Vikramjit Singh,2a9eee66
+info,registry,people,W Barresi,0d677597

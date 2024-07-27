@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Delhi
+info,gender,male
+info,season,2015/16
+info,date,2016/01/10
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Reliance Cricket Stadium
+info,city,
+info,toss_winner,Delhi
+info,toss_decision,field
+info,winner,Delhi
+info,winner_wickets,5
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Mrunal Devdhar
+info,player,Baroda,HH Pandya
+info,player,Baroda,YK Pathan
+info,player,Baroda,DJ Hooda
+info,player,Baroda,IK Pathan
+info,player,Baroda,PR Shah
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,RT Arothe
+info,player,Baroda,Soaeb Tai
+info,player,Baroda,MM Patel
+info,player,Delhi,Akash Sudan
+info,player,Delhi,P Awana
+info,player,Delhi,Manan Sharma
+info,player,Delhi,P Negi
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,UBT Chand
+info,player,Delhi,G Gambhir
+info,player,Delhi,Sarthak Ranjan
+info,player,Delhi,Aditya Kaushik
+info,player,Delhi,N Rana
+info,player,Delhi,Milind Kumar
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Akash Sudan,3d930abb
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,Manan Sharma,bfcff6cd
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Awana,1a0c3177
+info,registry,people,P Negi,f62772e5
+info,registry,people,PR Shah,0aadc906
+info,registry,people,RT Arothe,50455929
+info,registry,people,Sarthak Ranjan,d7cdefa9
+info,registry,people,Soaeb Tai,c915ee65
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,YK Pathan,3c6ffae8

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Sixers
+info,team,Kandy Falcons
+info,gender,male
+info,season,2024
+info,date,2024/07/01
+info,event,Lanka Premier League
+info,match_number,1
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Kandy Falcons
+info,toss_decision,field
+info,player_of_match,MD Shanaka
+info,umpire,RMPJ Rambukwella
+info,umpire,RR Wimalasiri
+info,reserve_umpire,PSR Fonseka
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,winner,Kandy Falcons
+info,winner_wickets,6
+info,player,Dambulla Sixers,MD Gunathilaka
+info,player,Dambulla Sixers,MDKJ Perera
+info,player,Dambulla Sixers,MNK Fernando
+info,player,Dambulla Sixers,Towhid Hridoy
+info,player,Dambulla Sixers,MS Chapman
+info,player,Dambulla Sixers,C Wickramasinghe
+info,player,Dambulla Sixers,Mohammad Nabi
+info,player,Dambulla Sixers,A Dananjaya
+info,player,Dambulla Sixers,N Thushara
+info,player,Dambulla Sixers,Mustafizur Rahman
+info,player,Dambulla Sixers,D Madushanka
+info,player,Kandy Falcons,LD Chandimal
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,Mohammad Haris
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,AD Mathews
+info,player,Kandy Falcons,MD Shanaka
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,PC de Silva
+info,player,Kandy Falcons,C Gomez
+info,player,Kandy Falcons,Mohammad Hasnain
+info,player,Kandy Falcons,PVD Chameera
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,C Gomez,a6a42dd2
+info,registry,people,C Wickramasinghe,a5c48ed1
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PSR Fonseka,8fd2cea5
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Towhid Hridoy,9e52a414

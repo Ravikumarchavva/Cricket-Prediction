@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Australia
+info,gender,female
+info,season,2023/24
+info,date,2024/03/24
+info,event,Australia Women tour of Bangladesh
+info,match_number,2
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,S Molineux
+info,umpire,Gazi Sohel
+info,umpire,VG Rathi
+info,reserve_umpire,Ali Arman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Neeyamur Rashid
+info,winner,Australia
+info,winner_wickets,6
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Sultana Khatun
+info,player,Bangladesh,Marufa Akter
+info,player,Australia,AJ Healy
+info,player,Australia,P Litchfield
+info,player,Australia,EA Perry
+info,player,Australia,BL Mooney
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,A Sutherland
+info,player,Australia,G Wareham
+info,player,Australia,S Molineux
+info,player,Australia,A King
+info,player,Australia,ML Schutt
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AJ Healy,321644de
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Molineux,99e23670
+info,registry,people,S Mostary,94de63bf
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Sultana Khatun,fb0c0bcc
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,VG Rathi,144e5b16

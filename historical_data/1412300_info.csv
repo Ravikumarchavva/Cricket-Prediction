@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rangpur Riders
+info,team,Chattogram Challengers
+info,gender,male
+info,season,2023/24
+info,date,2024/02/10
+info,event,Bangladesh Premier League
+info,match_number,27
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Rangpur Riders
+info,toss_decision,bat
+info,player_of_match,JDS Neesham
+info,umpire,Asif Yaqoob
+info,umpire,Moniruzzaman
+info,reserve_umpire,Sajedul Islam
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Ehsanul Haque
+info,winner,Rangpur Riders
+info,winner_runs,53
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,RR Hendricks
+info,player,Rangpur Riders,Shakib Al Hasan
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,JDS Neesham
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Hasan Mahmud
+info,player,Rangpur Riders,Ashiqur Zaman
+info,player,Rangpur Riders,TJ Moores
+info,player,Rangpur Riders,Imran Tahir
+info,player,Chattogram Challengers,J Brown
+info,player,Chattogram Challengers,Shykat Ali
+info,player,Chattogram Challengers,TC Bruce
+info,player,Chattogram Challengers,Shahadat Hossain
+info,player,Chattogram Challengers,C Campher
+info,player,Chattogram Challengers,Shuvagata Hom
+info,player,Chattogram Challengers,Shohidul Islam
+info,player,Chattogram Challengers,Nihaduzzaman
+info,player,Chattogram Challengers,Salauddin Sakil
+info,player,Chattogram Challengers,Bilal Khan
+info,player,Chattogram Challengers,Al-Amin Hossain
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Ashiqur Zaman,9b06106d
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,C Campher,478a63e7
+info,registry,people,Ehsanul Haque,688b2d58
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Hasan Murad,da9f58aa
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,J Brown,647e7d44
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Nihaduzzaman,eca6dcb2
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Sajedul Islam,0443414a
+info,registry,people,Salauddin Sakil,a90d107b
+info,registry,people,Shahadat Hossain,69e23303
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shohidul Islam,607ed7c2
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Shykat Ali,288dd46e
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,Tanvir Ahmed,ea2df1f1

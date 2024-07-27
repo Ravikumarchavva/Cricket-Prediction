@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Australia
+info,team,Tasmania
+info,gender,male
+info,season,2023/24
+info,date,2024/03/11
+info,date,2024/03/12
+info,date,2024/03/13
+info,event,Sheffield Shield
+info,match_number,28
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Tasmania
+info,toss_decision,field
+info,player_of_match,NA McSweeney
+info,umpire,DM Koch
+info,umpire,GA Abood
+info,match_referee,David Johnston
+info,winner,South Australia
+info,winner_runs,134
+info,player,South Australia,K Brazell
+info,player,South Australia,CJ McInerney
+info,player,South Australia,NA McSweeney
+info,player,South Australia,T Kelly
+info,player,South Australia,JS Lehmann
+info,player,South Australia,J Fraser-McGurk
+info,player,South Australia,BAD Manenti
+info,player,South Australia,HJ Nielsen
+info,player,South Australia,N McAndrew
+info,player,South Australia,B Doggett
+info,player,South Australia,JS Buckingham
+info,player,Tasmania,MS Wade
+info,player,Tasmania,CP Jewell
+info,player,Tasmania,CA Wakim
+info,player,Tasmania,JC Silk
+info,player,Tasmania,GT Bell
+info,player,Tasmania,JR Doran
+info,player,Tasmania,BJ Webster
+info,player,Tasmania,BM Hope
+info,player,Tasmania,JA Freeman
+info,player,Tasmania,KJS Elliott
+info,player,Tasmania,IJ Carlisle
+info,registry,people,B Doggett,898e628d
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BM Hope,526a3073
+info,registry,people,CA Wakim,c5e415aa
+info,registry,people,CJ McInerney,2beab1d6
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,DM Koch,6d10c034
+info,registry,people,David Johnston,92cef862
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GT Bell,770ae773
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,IJ Carlisle,82a50491
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JA Freeman,912f472c
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JR Doran,9cebb612
+info,registry,people,JS Buckingham,10735e1d
+info,registry,people,JS Lehmann,c96a215f
+info,registry,people,K Brazell,739e412b
+info,registry,people,KJS Elliott,339243d6
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NA McSweeney,e94d2d50
+info,registry,people,T Kelly,6ceb94d0

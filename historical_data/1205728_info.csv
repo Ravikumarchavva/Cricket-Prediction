@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Madhya Pradesh
+info,team,Puducherry
+info,gender,male
+info,season,2019/20
+info,date,2019/11/18
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Wankhede Stadium
+info,city,
+info,toss_winner,Puducherry
+info,toss_decision,field
+info,winner,Madhya Pradesh
+info,winner_runs,5
+info,player,Madhya Pradesh,RM Patidar
+info,player,Madhya Pradesh,Ashutosh Sharma
+info,player,Madhya Pradesh,VR Iyer
+info,player,Madhya Pradesh,Rishabh Chouhan
+info,player,Madhya Pradesh,Parth Sahani
+info,player,Madhya Pradesh,Abhishek Bhandari
+info,player,Madhya Pradesh,Ankit Sharma
+info,player,Madhya Pradesh,Rahul Batham
+info,player,Madhya Pradesh,Mihir Hirwani
+info,player,Madhya Pradesh,Gaurav Yadav
+info,player,Madhya Pradesh,KR Sen
+info,player,Puducherry,R Vinay Kumar
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,Ashith Rajiv
+info,player,Puducherry,Santha Moorthy
+info,player,Puducherry,Suresh Kumar
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,KB Arun Karthik
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,Subramanian Anand
+info,player,Puducherry,P Dogra
+info,registry,people,Abhishek Bhandari,18953b31
+info,registry,people,Ankit Sharma,24d94623
+info,registry,people,Ashith Rajiv,502056e3
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Gaurav Yadav,3e5dc16b
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,KR Sen,2e78f685
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,Mihir Hirwani,49bacd0f
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,Parth Sahani,239f7526
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rahul Batham,891b9757
+info,registry,people,Rishabh Chouhan,a64608ec
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Santha Moorthy,fa778d1b
+info,registry,people,Subramanian Anand,8b470bea
+info,registry,people,Suresh Kumar,177eb92d
+info,registry,people,VR Iyer,a24be938

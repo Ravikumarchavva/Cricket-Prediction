@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dolphins
+info,team,Boland
+info,gender,male
+info,season,2022/23
+info,date,2022/10/22
+info,event,CSA T20 Challenge
+info,match_number,11
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Boland
+info,toss_decision,field
+info,umpire,AM Sodumo
+info,umpire,PJ Vosloo
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,A Paleker
+info,match_referee,LH Matroos
+info,winner,Boland
+info,winner_wickets,7
+info,method,D/L
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,B Parsons
+info,player,Dolphins,JT Smuts
+info,player,Dolphins,TA Dithole
+info,player,Dolphins,K Zondo
+info,player,Dolphins,JF Smith
+info,player,Dolphins,A Simelane
+info,player,Dolphins,E Bosch
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,OEG Baartman
+info,player,Dolphins,DM Dupavillon
+info,player,Boland,JN Malan
+info,player,Boland,JL du Plooy
+info,player,Boland,SV Kitime
+info,player,Boland,C Fortuin
+info,player,Boland,F Behardien
+info,player,Boland,M Copeland
+info,player,Boland,FD Adams
+info,player,Boland,GC Viljoen
+info,player,Boland,S von Berg
+info,player,Boland,B Xenxe
+info,player,Boland,I Manack
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Simelane,ebb74564
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,B Xenxe,94cdf850
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,F Behardien,dce2019b
+info,registry,people,FD Adams,f277f531
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JN Malan,f76d7466
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Copeland,9943b637
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,S von Berg,ffd3fc37
+info,registry,people,SV Kitime,9ca20359
+info,registry,people,TA Dithole,876bec53

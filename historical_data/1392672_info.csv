@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2023/24
+info,date,2024/01/27
+info,event,SA20
+info,match_number,21
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,field
+info,umpire,A Jacobs
+info,umpire,LB Gcuma
+info,reserve_umpire,MN Gampu
+info,tv_umpire,Lauren Agenbag
+info,match_referee,GH Pienaar
+info,outcome,no result
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,D Wiese
+info,player,Joburg Super Kings,N Burger
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,C Bosch
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,DM Dupavillon
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Bosch,172dff15
+info,registry,people,CA Ingram,c995d726
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,K Verreynne,bf814547
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MN Gampu,41597619
+info,registry,people,N Burger,465aa633
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1

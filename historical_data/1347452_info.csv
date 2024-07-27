@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Thunder
+info,gender,female
+info,season,2023
+info,date,2023/09/13
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,50
+info,venue,"Rookwood, Sale"
+info,city,Sale
+info,toss_winner,Thunder
+info,toss_decision,field
+info,umpire,J Ibbotson
+info,umpire,Naeem Ashraf
+info,match_referee,IL Herbert
+info,winner,Northern Diamonds
+info,winner_runs,48
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,R Duckworth
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,GE Hall
+info,player,Northern Diamonds,JA Woolston
+info,player,Thunder,S Smale
+info,player,Thunder,L Heap
+info,player,Thunder,ND Dattani
+info,player,Thunder,FMK Morris
+info,player,Thunder,E Threlkeld
+info,player,Thunder,L Delany
+info,player,Thunder,D Mullan
+info,player,Thunder,TG Norris
+info,player,Thunder,PC Graham
+info,player,Thunder,O Bell
+info,player,Thunder,HE Jones
+info,registry,people,D Mullan,e78964b8
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EK Marlow,ac574559
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,GE Hall,026135b1
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,J Ibbotson,7318fdbf
+info,registry,people,JA Woolston,c1f3ae44
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Heap,8d26dfab
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,O Bell,385eac52
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,R Duckworth,8122c036
+info,registry,people,S Smale,3247d54e
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,TG Norris,8ae7bb3e

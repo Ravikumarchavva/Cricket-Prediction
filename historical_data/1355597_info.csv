@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Oval Invincibles
+info,team,Southern Brave
+info,gender,female
+info,season,2023
+info,date,2023/08/19
+info,event,The Hundred Women's Competition
+info,match_number,26
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Oval Invincibles
+info,toss_decision,bat
+info,player_of_match,GL Adams
+info,umpire,AC Harris
+info,umpire,S McLelland
+info,reserve_umpire,AY Harris
+info,tv_umpire,M Burns
+info,match_referee,H Pack
+info,winner,Southern Brave
+info,winner_wickets,7
+info,player,Oval Invincibles,L Winfield-Hill
+info,player,Oval Invincibles,A Capsey
+info,player,Oval Invincibles,SW Bates
+info,player,Oval Invincibles,M Kapp
+info,player,Oval Invincibles,PJ Scholfield
+info,player,Oval Invincibles,N de Klerk
+info,player,Oval Invincibles,CL Griffith
+info,player,Oval Invincibles,MK Villiers
+info,player,Oval Invincibles,R MacDonald-Gay
+info,player,Oval Invincibles,E Gray
+info,player,Oval Invincibles,Sophia Smale
+info,player,Southern Brave,S Mandhana
+info,player,Southern Brave,DN Wyatt
+info,player,Southern Brave,ME Bouchier
+info,player,Southern Brave,GL Adams
+info,player,Southern Brave,FG Kemp
+info,player,Southern Brave,CL Tryon
+info,player,Southern Brave,M Brown
+info,player,Southern Brave,K Moore
+info,player,Southern Brave,A Shrubsole
+info,player,Southern Brave,R Southby
+info,player,Southern Brave,LK Bell
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,AY Harris,90d95b82
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Gray,58717de2
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,H Pack,fed53c91
+info,registry,people,K Moore,d12c8445
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LK Bell,38b4583c
+info,registry,people,M Brown,78bec461
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,N de Klerk,ea544967
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,R Southby,bbe1525d
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sophia Smale,c296dba1

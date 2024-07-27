@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lahore Qalandars
+info,team,Karachi Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/02/24
+info,event,Pakistan Super League
+info,match_number,10
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Karachi Kings
+info,toss_decision,field
+info,player_of_match,KA Pollard
+info,umpire,Ahsan Raza
+info,umpire,RK Illingworth
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,Aleem Dar
+info,match_referee,Muhammad Javed
+info,winner,Karachi Kings
+info,winner_wickets,2
+info,player,Lahore Qalandars,Sahibzada Farhan
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,HE van der Dussen
+info,player,Lahore Qalandars,Ahsan Hafeez
+info,player,Lahore Qalandars,Jahandad Khan
+info,player,Lahore Qalandars,SD Hope
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,GF Linde
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,Haris Rauf
+info,player,Lahore Qalandars,Zaman Khan
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,Muhammad Akhlaq
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Mohammad Nawaz
+info,player,Karachi Kings,KA Pollard
+info,player,Karachi Kings,DR Sams
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,Mir Hamza
+info,player,Karachi Kings,T Shamsi
+info,registry,people,Ahsan Hafeez,86229495
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Jahandad Khan,22d73540
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Muhammad Akhlaq,9739e85c
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Zaman Khan,28392e11

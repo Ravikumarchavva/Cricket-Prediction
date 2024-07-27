@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Vanuatu
+info,gender,female
+info,season,2023
+info,date,2023/08/28
+info,event,Japan Women tour of Vanuatu
+info,match_number,1
+info,venue,Vanuatu Cricket Ground
+info,city,Port Vila
+info,toss_winner,Vanuatu
+info,toss_decision,field
+info,player_of_match,R Andrew
+info,umpire,P Chilia
+info,umpire,ZK Shem
+info,reserve_umpire,M Kenni
+info,winner,Vanuatu
+info,winner_wickets,8
+info,player,Japan,A Kano
+info,player,Japan,Erika Oda
+info,player,Japan,H Iwasaki
+info,player,Japan,A Chandel
+info,player,Japan,S Kato
+info,player,Japan,M Yanagida
+info,player,Japan,K Ota
+info,player,Japan,M Yoshioka
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,E Kusuda-Nairn
+info,player,Japan,Nonoha Yasumoto
+info,player,Vanuatu,R Andrew
+info,player,Vanuatu,V Langiatu
+info,player,Vanuatu,N Navaika
+info,player,Vanuatu,S Solman
+info,player,Vanuatu,A Chilia
+info,player,Vanuatu,M Carlot
+info,player,Vanuatu,L Chilia
+info,player,Vanuatu,V Mansale
+info,player,Vanuatu,R Ova
+info,player,Vanuatu,V Vira
+info,player,Vanuatu,M Tarimiala
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Chilia,a0d07fd6
+info,registry,people,A Kano,e92841c0
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,K Ota,211f48fe
+info,registry,people,L Chilia,87ac786c
+info,registry,people,M Carlot,dac46b52
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,M Tarimiala,0030a57d
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,M Yoshioka,3a93120a
+info,registry,people,N Navaika,b0023708
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,P Chilia,9c5fed24
+info,registry,people,R Andrew,66c1accf
+info,registry,people,R Ova,88bba252
+info,registry,people,S Kato,ef9ff861
+info,registry,people,S Solman,24ed1f75
+info,registry,people,V Langiatu,fdd18ca0
+info,registry,people,V Mansale,7163637f
+info,registry,people,V Vira,94271647
+info,registry,people,ZK Shem,87ffd217

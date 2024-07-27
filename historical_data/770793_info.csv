@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Canterbury
+info,gender,male
+info,season,2014/15
+info,date,2015/03/01
+info,date,2015/03/02
+info,date,2015/03/03
+info,date,2015/03/04
+info,event,Plunket Shield
+info,venue,"Colin Maiden Park, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland Aces
+info,toss_decision,bat
+info,umpire,PD Jones
+info,umpire,WR Knights
+info,match_referee,GC Morris
+info,winner,Canterbury
+info,winner_wickets,4
+info,player,Canterbury,RM Hira
+info,player,Canterbury,GJ Dawson
+info,player,Canterbury,PG Fulton
+info,player,Canterbury,NT Broom
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,TD Astle
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,RJ McCone
+info,player,Canterbury,EJ Nuttall
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,AK Kitchen
+info,player,Auckland Aces,RJ Nicol
+info,player,Auckland Aces,C Munro
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,B Cachopa
+info,player,Auckland Aces,TS Nethula
+info,player,Auckland Aces,MD Bates
+info,player,Auckland Aces,LH Ferguson
+info,player,Auckland Aces,DJ Bartlett
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AM Ellis,f987245c
+info,registry,people,B Cachopa,e9a44f08
+info,registry,people,C Munro,af2c687b
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,DJ Bartlett,6ede8cb6
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,GC Morris,66a9b90f
+info,registry,people,GJ Dawson,1259ca28
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MD Bates,1b3acd33
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,NT Broom,a354c917
+info,registry,people,PD Jones,169be239
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RJ McCone,19cc9592
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RM Hira,2e966563
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,TD Astle,383dd431
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,WR Knights,63cbf8d8

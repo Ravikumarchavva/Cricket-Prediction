@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Galle Marvels
+info,team,Colombo Strikers
+info,gender,male
+info,season,2024
+info,date,2024/07/03
+info,event,Lanka Premier League
+info,match_number,5
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Colombo Strikers
+info,toss_decision,field
+info,player_of_match,I Udana
+info,umpire,R Black
+info,umpire,BSP Fernando
+info,reserve_umpire,PSR Fonseka
+info,tv_umpire,RR Wimalasiri
+info,match_referee,WC Labrooy
+info,winner,Galle Marvels
+info,winner_runs,7
+info,player,Galle Marvels,N Dickwella
+info,player,Galle Marvels,AD Hales
+info,player,Galle Marvels,TL Seifert
+info,player,Galle Marvels,PBB Rajapaksa
+info,player,Galle Marvels,J Liyanage
+info,player,Galle Marvels,SSD Arachchige
+info,player,Galle Marvels,D Pretorius
+info,player,Galle Marvels,I Udana
+info,player,Galle Marvels,M Tharupathi
+info,player,Galle Marvels,M Theekshana
+info,player,Galle Marvels,Zahoor Khan
+info,player,Colombo Strikers,Rahmanullah Gurbaz
+info,player,Colombo Strikers,S Daniel
+info,player,Colombo Strikers,Waseem Muhammad
+info,player,Colombo Strikers,S Samarawickrama
+info,player,Colombo Strikers,GD Phillips
+info,player,Colombo Strikers,NLTC Perera
+info,player,Colombo Strikers,Shadab Khan
+info,player,Colombo Strikers,DN Wellalage
+info,player,Colombo Strikers,C Karunaratne
+info,player,Colombo Strikers,B Fernando
+info,player,Colombo Strikers,M Pathirana
+info,registry,people,AD Hales,92aeac25
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BSP Fernando,8a49883f
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,DPS Sooriyabandara,cc17536f
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,J Liyanage,84212ffb
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Tharupathi,ec0b9258
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PSR Fonseka,8fd2cea5
+info,registry,people,R Black,156c8fb1
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Warwickshire
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/07/25
+info,date,2023/07/26
+info,date,2023/07/27
+info,event,County Championship
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,RJ Bailey
+info,match_referee,WR Smith
+info,winner,Middlesex
+info,winner_wickets,8
+info,player,Warwickshire,RM Yates
+info,player,Warwickshire,AL Davies
+info,player,Warwickshire,WMH Rhodes
+info,player,Warwickshire,SR Hain
+info,player,Warwickshire,DR Mousley
+info,player,Warwickshire,JG Bethell
+info,player,Warwickshire,EG Barnard
+info,player,Warwickshire,MGK Burgess
+info,player,Warwickshire,HJH Brookes
+info,player,Warwickshire,OJ Hannon-Dalby
+info,player,Warwickshire,Mir Hamza
+info,player,Middlesex,MD Stoneman
+info,player,Middlesex,SD Robson
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,TS Roland-Jones
+info,player,Middlesex,TG Helm
+info,player,Middlesex,ER Bamber
+info,registry,people,AL Davies,29ede60b
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,ER Bamber,948beb1f
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,OJ Hannon-Dalby,e0ac7144
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RM Yates,3581a798
+info,registry,people,SD Robson,76cb1a7f
+info,registry,people,SR Hain,67b9536c
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TS Roland-Jones,6c6aca89
+info,registry,people,WMH Rhodes,f54dbda7
+info,registry,people,WR Smith,ad962377

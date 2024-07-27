@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karnataka
+info,team,Delhi
+info,gender,male
+info,season,2023/24
+info,date,2023/10/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Abhimanyu Cricket Academy, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Delhi
+info,toss_decision,field
+info,umpire,A Nand Kishore
+info,umpire,HAS Khalid
+info,tv_umpire,Abhijit Bhattacharya
+info,match_referee,Prakash Bhatt
+info,winner,Delhi
+info,winner_wickets,8
+info,player,Karnataka,D Padikkal
+info,player,Karnataka,MA Agarwal
+info,player,Karnataka,K L Shrijith
+info,player,Karnataka,MK Pandey
+info,player,Karnataka,BR Sharath
+info,player,Karnataka,A Manohar
+info,player,Karnataka,MS Bhandage
+info,player,Karnataka,S Hegde
+info,player,Karnataka,Vijaykumar Vyshak
+info,player,Karnataka,V Kaverappa
+info,player,Karnataka,M Prasidh Krishna
+info,player,Karnataka,K Gowtham
+info,player,Delhi,Priyansh Arya
+info,player,Delhi,Anuj Rawat
+info,player,Delhi,YV Dhull
+info,player,Delhi,A Badoni
+info,player,Delhi,Dev Lakra
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,Himmat Singh
+info,player,Delhi,Harshit Rana
+info,player,Delhi,Navdeep Saini
+info,player,Delhi,Suyash Sharma
+info,player,Delhi,I Sharma
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Manohar,0890552f
+info,registry,people,A Nand Kishore,84424f4f
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,BR Sharath,c2dd89ea
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,Dev Lakra,e41832f1
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,K Gowtham,90de905a
+info,registry,people,K L Shrijith,0372c4c5
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MS Bhandage,e96801ea
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,S Hegde,4fc7fc34
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,V Kaverappa,d4d929b0
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,YV Dhull,dd7e9b3b

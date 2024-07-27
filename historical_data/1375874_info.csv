@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,South Africa
+info,gender,female
+info,season,2023/24
+info,date,2024/02/10
+info,event,South Africa Women tour of Australia
+info,match_number,3
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,TM McGrath
+info,umpire,Eloise Sheridan
+info,umpire,S Redfern
+info,reserve_umpire,Troy Penman
+info,tv_umpire,CA Polosak
+info,match_referee,Dave Gilbert
+info,winner,Australia
+info,winner_runs,110
+info,method,D/L
+info,player,Australia,AJ Healy
+info,player,Australia,P Litchfield
+info,player,Australia,EA Perry
+info,player,Australia,BL Mooney
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,A Sutherland
+info,player,Australia,G Wareham
+info,player,Australia,A King
+info,player,Australia,KJ Garth
+info,player,Australia,D Brown
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,M Kapp
+info,player,South Africa,N de Klerk
+info,player,South Africa,CL Tryon
+info,player,South Africa,E Marx
+info,player,South Africa,S Jafta
+info,player,South Africa,M Klaas
+info,player,South Africa,A Hlubi
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Hlubi,ccaa3434
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AJ Healy,321644de
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Brown,2e81be88
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,E Marx,be592751
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,N de Klerk,ea544967
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Redfern,5b038989
+info,registry,people,T Brits,06659caa
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Troy Penman,0aa42c26

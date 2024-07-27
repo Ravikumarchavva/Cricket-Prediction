@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Serbia
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,1
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Jersey
+info,toss_decision,bat
+info,player_of_match,H Carlyon
+info,umpire,M Jameson
+info,umpire,Rizwan Akram
+info,reserve_umpire,DH Mclean
+info,match_referee,H Pack
+info,winner,Jersey
+info,winner_runs,165
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JW Jenner
+info,player,Jersey,ZM Tribe
+info,player,Jersey,C Brennan
+info,player,Jersey,B Ward
+info,player,Jersey,PB Gouge
+info,player,Jersey,DG Blampied
+info,player,Jersey,J Sumerauer
+info,player,Jersey,CW Perchard
+info,player,Jersey,D Birrell
+info,player,Serbia,A Dizija
+info,player,Serbia,S Ivetic
+info,player,Serbia,Luka Woods
+info,player,Serbia,BM Pecic
+info,player,Serbia,LA Dunbar
+info,player,Serbia,S Tosic
+info,player,Serbia,MV Pavlovic
+info,player,Serbia,V Zimonjic
+info,player,Serbia,P Nedeljkovic
+info,player,Serbia,AA Gajic
+info,player,Serbia,M Sarenac
+info,registry,people,A Dizija,6483c062
+info,registry,people,AA Gajic,a768a762
+info,registry,people,B Ward,9e0bd203
+info,registry,people,BM Pecic,71093272
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,DH Mclean,281d4749
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,H Pack,fed53c91
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,Luka Woods,0996f198
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,P Nedeljkovic,87e87dd2
+info,registry,people,PB Gouge,fe2432c4
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Ivetic,04ab1575
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,ZM Tribe,96fe3e9f

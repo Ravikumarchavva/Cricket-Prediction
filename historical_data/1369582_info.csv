@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jamaica Tallawahs
+info,team,Guyana Amazon Warriors
+info,gender,male
+info,season,2023
+info,date,2023/09/13
+info,event,Caribbean Premier League
+info,match_number,25
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,Guyana Amazon Warriors
+info,toss_decision,field
+info,player_of_match,Saim Ayub
+info,umpire,PA Gustard
+info,umpire,Zahid Bassarath
+info,reserve_umpire,CM Tuckett
+info,tv_umpire,GO Brathwaite
+info,match_referee,M Ragoonath
+info,winner,Guyana Amazon Warriors
+info,winner_wickets,7
+info,player,Jamaica Tallawahs,BA King
+info,player,Jamaica Tallawahs,AD Hales
+info,player,Jamaica Tallawahs,KSA McKenzie
+info,player,Jamaica Tallawahs,Imad Wasim
+info,player,Jamaica Tallawahs,SSJ Brooks
+info,player,Jamaica Tallawahs,RA Reifer
+info,player,Jamaica Tallawahs,FA Allen
+info,player,Jamaica Tallawahs,CJ Green
+info,player,Jamaica Tallawahs,SK Springer
+info,player,Jamaica Tallawahs,NA Gordon
+info,player,Jamaica Tallawahs,Salman Irshad
+info,player,Guyana Amazon Warriors,Saim Ayub
+info,player,Guyana Amazon Warriors,M Nandu
+info,player,Guyana Amazon Warriors,SD Hope
+info,player,Guyana Amazon Warriors,Azam Khan
+info,player,Guyana Amazon Warriors,OF Smith
+info,player,Guyana Amazon Warriors,SO Hetmyer
+info,player,Guyana Amazon Warriors,KMA Paul
+info,player,Guyana Amazon Warriors,R Shepherd
+info,player,Guyana Amazon Warriors,D Pretorius
+info,player,Guyana Amazon Warriors,G Motie
+info,player,Guyana Amazon Warriors,Imran Tahir
+info,registry,people,AD Hales,92aeac25
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,BA King,7fca84b7
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CM Tuckett,a67252f0
+info,registry,people,D Pretorius,11614d87
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KSA McKenzie,2b8f219a
+info,registry,people,M Nandu,64f5120c
+info,registry,people,M Ragoonath,6f596571
+info,registry,people,NA Gordon,59377a7f
+info,registry,people,OF Smith,23cca426
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RA Reifer,d7725664
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SK Springer,4175d211
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Zahid Bassarath,ca6bf044

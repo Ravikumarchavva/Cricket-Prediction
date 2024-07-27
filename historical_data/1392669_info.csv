@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2023/24
+info,date,2024/01/25
+info,event,SA20
+info,match_number,18
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,E Bosch
+info,umpire,A Jacobs
+info,umpire,MN Gampu
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,LB Gcuma
+info,match_referee,LH Matroos
+info,winner,Pretoria Capitals
+info,winner_runs,3
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,DM Dupavillon
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,B Swanepoel
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Verreynne,bf814547
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MN Gampu,41597619
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PE Kruger,39181592
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1

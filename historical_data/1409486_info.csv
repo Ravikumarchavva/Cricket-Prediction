@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Wellington
+info,gender,male
+info,season,2023/24
+info,date,2024/01/04
+info,event,Super Smash
+info,match_number,13
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Wellington
+info,toss_decision,field
+info,player_of_match,MJ Guptill
+info,umpire,TJ Parlane
+info,umpire,WR Knights
+info,reserve_umpire,V Mahna
+info,tv_umpire,JM Dempsey
+info,match_referee,SRM Morris
+info,winner,Auckland
+info,winner_runs,53
+info,player,Auckland,FH Allen
+info,player,Auckland,MJ Guptill
+info,player,Auckland,MS Chapman
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,SM Solia
+info,player,Auckland,CD Fletcher
+info,player,Auckland,RD Harrison
+info,player,Auckland,DK Ferns
+info,player,Auckland,LH Ferguson
+info,player,Auckland,L Delport
+info,player,Auckland,BG Lister
+info,player,Wellington,TB Robinson
+info,player,Wellington,NA Greenwood
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,MG Bracewell
+info,player,Wellington,CR McLachlan
+info,player,Wellington,NG Smith
+info,player,Wellington,LV van Beek
+info,player,Wellington,AF Milne
+info,player,Wellington,PF Younghusband
+info,player,Wellington,BV Sears
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,FH Allen,bf74b130
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,V Mahna,5dcdc811
+info,registry,people,WR Knights,63cbf8d8

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Sydney Thunder
+info,gender,female
+info,season,2023/24
+info,date,2023/11/24
+info,event,Women's Big Bash League
+info,match_number,52
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Brisbane Heat
+info,toss_decision,bat
+info,player_of_match,JL Jonassen
+info,umpire,Eloise Sheridan
+info,umpire,Harry Singh
+info,tv_umpire,Andrew Crozier
+info,match_referee,SD Fry
+info,winner,Brisbane Heat
+info,winner_runs,22
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,BAM Heath
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,M du Preez
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,player,Sydney Thunder,AC Jayangani
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,HC Knight
+info,player,Sydney Thunder,M Kapp
+info,player,Sydney Thunder,A Learoyd
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,O Porter
+info,player,Sydney Thunder,SJ Johnson
+info,player,Sydney Thunder,LG Smith
+info,player,Sydney Thunder,SL Bates
+info,player,Sydney Thunder,E Hoskin
+info,registry,people,A Learoyd,1757bedf
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AC Kerr,7673c908
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,E Hoskin,cd2ad878
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,Harry Singh,9bb06571
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,L Harris,36e2dc83
+info,registry,people,LG Smith,9c515112
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M du Preez,e219f17a
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,O Porter,9ac15b90
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,T Wilson,32100b2d

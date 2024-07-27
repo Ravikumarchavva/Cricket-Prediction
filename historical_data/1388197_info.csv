@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,New Zealand
+info,gender,female
+info,season,2023/24
+info,date,2023/12/05
+info,event,Pakistan Women tour of New Zealand
+info,match_number,2
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,Aliya Riaz
+info,umpire,C Black
+info,umpire,SB Haig
+info,reserve_umpire,T Semmens
+info,tv_umpire,Kim Cotton
+info,match_referee,RE Hayward
+info,winner,Pakistan
+info,winner_runs,10
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Shawaal Zulfiqar
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Najiha Alvi
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,player,New Zealand,B Bezuidenhout
+info,player,New Zealand,SW Bates
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,MM Penfold
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,AC Kerr,7673c908
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,C Black,75b42f71
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Najiha Alvi,faef39c1
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,SB Haig,811655b3
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Shawaal Zulfiqar,adb2f55e
+info,registry,people,T Semmens,3b471aa4
+info,registry,people,Umaima Sohail,821d7d46

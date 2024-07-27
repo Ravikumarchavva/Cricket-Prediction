@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,North-West Warriors
+info,team,Leinster Lightning
+info,gender,male
+info,season,2023
+info,date,2023/05/23
+info,event,Cricket Ireland Inter-Provincial Limited Over Cup
+info,match_number,5
+info,venue,"Bready Cricket Club, Magheramason, Bready"
+info,city,Bready
+info,toss_winner,Leinster Lightning
+info,toss_decision,field
+info,player_of_match,SJ Harbinson
+info,umpire,Jareth McCready
+info,umpire,R Black
+info,match_referee,G McCrea
+info,winner,Leinster Lightning
+info,winner_wickets,3
+info,player,North-West Warriors,ST Doheny
+info,player,North-West Warriors,AP Chore
+info,player,North-West Warriors,AR McBrine
+info,player,North-West Warriors,SJ MacBeth
+info,player,North-West Warriors,SC Getkate
+info,player,North-West Warriors,C Melly
+info,player,North-West Warriors,W McClintock
+info,player,North-West Warriors,GI Hume
+info,player,North-West Warriors,C Robertson
+info,player,North-West Warriors,R MacBeth
+info,player,North-West Warriors,CA Young
+info,player,Leinster Lightning,JB Tector
+info,player,Leinster Lightning,TH Tector
+info,player,Leinster Lightning,CMJ McLoughlin-Gavin
+info,player,Leinster Lightning,G Ford
+info,player,Leinster Lightning,M Donegan
+info,player,Leinster Lightning,SJ Harbinson
+info,player,Leinster Lightning,F Hand
+info,player,Leinster Lightning,G Hoey
+info,player,Leinster Lightning,BJ McCarthy
+info,player,Leinster Lightning,R Wilson
+info,player,Leinster Lightning,M O'Reilly
+info,registry,people,AP Chore,8ae09b92
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Melly,48641e31
+info,registry,people,C Robertson,d26de4de
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,CMJ McLoughlin-Gavin,6af8630f
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,G Ford,ca825da7
+info,registry,people,G Hoey,19d0a172
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GI Hume,25550d06
+info,registry,people,JB Tector,64770caf
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,M Donegan,84cf842e
+info,registry,people,M O'Reilly,b89ac0fd
+info,registry,people,R Black,156c8fb1
+info,registry,people,R MacBeth,b4402d8a
+info,registry,people,R Wilson,81b0935a
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,SJ Harbinson,ccc17282
+info,registry,people,SJ MacBeth,5d4338a2
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,TH Tector,0348f9a5
+info,registry,people,W McClintock,b16ddb79

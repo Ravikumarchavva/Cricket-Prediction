@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karachi Kings
+info,team,Islamabad United
+info,gender,male
+info,season,2023/24
+info,date,2024/02/28
+info,event,Pakistan Super League
+info,match_number,15
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Islamabad United
+info,toss_decision,field
+info,umpire,CB Gaffaney
+info,umpire,Rashid Riaz
+info,reserve_umpire,Imran Javed
+info,tv_umpire,Abdul Muqeet
+info,match_referee,Ali Naqvi
+info,winner,Islamabad United
+info,winner_wickets,7
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,TL Seifert
+info,player,Karachi Kings,JL du Plooy
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,KA Pollard
+info,player,Karachi Kings,Mohammad Nawaz
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,Mir Hamza
+info,player,Karachi Kings,T Shamsi
+info,player,Karachi Kings,Mohammad Amir Khan
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,Agha Salman
+info,player,Islamabad United,Imad Wasim
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,JM Cox
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Naseem Shah
+info,player,Islamabad United,Hunain Shah
+info,player,Islamabad United,Rumman Raees
+info,registry,people,AD Hales,92aeac25
+info,registry,people,Abdul Muqeet,37cb317b
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,C Munro,af2c687b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Hunain Shah,3b8679bf
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imran Javed,9a1405c8
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,Mohammad Amir Khan,72f03be4
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Rumman Raees,1c790f4f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TL Seifert,4663bd23

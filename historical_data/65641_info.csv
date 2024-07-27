@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2002/03
+info,date,2003/01/23
+info,event,VB Series
+info,venue,Sydney Cricket Ground
+info,city,Sydney
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,B Lee
+info,umpire,DL Orchard
+info,umpire,SJA Taufel
+info,tv_umpire,DB Hair
+info,match_referee,CH Lloyd
+info,winner,Australia
+info,winner_wickets,10
+info,player,England,ME Trescothick
+info,player,England,NV Knight
+info,player,England,MP Vaughan
+info,player,England,N Hussain
+info,player,England,AJ Stewart
+info,player,England,PD Collingwood
+info,player,England,ID Blackwell
+info,player,England,RC Irani
+info,player,England,AR Caddick
+info,player,England,JM Anderson
+info,player,England,MJ Hoggard
+info,player,Australia,AC Gilchrist
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,MG Bevan
+info,player,Australia,A Symonds
+info,player,Australia,B Lee
+info,player,Australia,GB Hogg
+info,player,Australia,AJ Bichel
+info,player,Australia,BA Williams
+info,player,Australia,SK Warne
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AJ Bichel,3cf83487
+info,registry,people,AJ Stewart,a8ce3491
+info,registry,people,AR Caddick,25020f9d
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BA Williams,953e3931
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DL Orchard,a7df1d20
+info,registry,people,DR Martyn,69762509
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MG Bevan,c500ec39
+info,registry,people,MJ Hoggard,dc0f5506
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,N Hussain,f76ffa81
+info,registry,people,NV Knight,d2f3829d
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RC Irani,f011dfa3
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SK Warne,bb18be76

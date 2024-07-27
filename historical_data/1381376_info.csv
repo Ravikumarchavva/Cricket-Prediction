@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI New York
+info,team,Washington Freedom
+info,gender,male
+info,season,2023
+info,date,2023/07/27
+info,event,Major League Cricket
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,Washington Freedom
+info,toss_decision,field
+info,player_of_match,D Brevis
+info,umpire,Aleem Dar
+info,umpire,R Samuels
+info,reserve_umpire,P Wilson
+info,tv_umpire,Jermaine Lindo
+info,match_referee,Reon King
+info,winner,MI New York
+info,winner_runs,16
+info,player,MI New York,Shayan Jahangir
+info,player,MI New York,MD Patel
+info,player,MI New York,N Pooran
+info,player,MI New York,D Brevis
+info,player,MI New York,TH David
+info,player,MI New York,D Wiese
+info,player,MI New York,SR Taylor
+info,player,MI New York,Rashid Khan
+info,player,MI New York,NP Kenjige
+info,player,MI New York,TA Boult
+info,player,MI New York,Ehsan Adil
+info,player,Washington Freedom,MW Short
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,GD Phillips
+info,player,Washington Freedom,MC Henriques
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,AJ Hosein
+info,player,Washington Freedom,M Jansen
+info,player,Washington Freedom,JG Dill
+info,player,Washington Freedom,A Nortje
+info,player,Washington Freedom,SN Netravalkar
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,JG Dill,642e8af0
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,P Wilson,68304a36
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kandy Falcons
+info,team,Colombo Stars
+info,gender,male
+info,season,2022/23
+info,date,2022/12/06
+info,event,Lanka Premier League
+info,match_number,2
+info,venue,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota"
+info,city,Hambantota
+info,toss_winner,Colombo Stars
+info,toss_decision,field
+info,player_of_match,ADS Fletcher
+info,umpire,BCN Amarasinghe
+info,umpire,RR Wimalasiri
+info,reserve_umpire,IC Soysa
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,BCMS Mendis
+info,winner,Kandy Falcons
+info,winner_runs,109
+info,player,Kandy Falcons,P Nissanka
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,CR Brathwaite
+info,player,Kandy Falcons,KNA Bandara
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,C Karunaratne
+info,player,Kandy Falcons,FA Allen
+info,player,Kandy Falcons,I Udana
+info,player,Kandy Falcons,Zahoor Khan
+info,player,Kandy Falcons,A Daniel
+info,player,Colombo Stars,N Dickwella
+info,player,Colombo Stars,AD Mathews
+info,player,Colombo Stars,KIC Asalanka
+info,player,Colombo Stars,RS Bopara
+info,player,Colombo Stars,LD Chandimal
+info,player,Colombo Stars,BAC Howell
+info,player,Colombo Stars,S Prasanna
+info,player,Colombo Stars,DC Drakes
+info,player,Colombo Stars,KMA Paul
+info,player,Colombo Stars,M Lakshan
+info,player,Colombo Stars,RAS Lakmal
+info,registry,people,A Daniel,9e3f1cc4
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BCMS Mendis,e3f6e4ac
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,IC Soysa,717a7971
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Lakshan,aa844d38
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,Zahoor Khan,f0e293b0

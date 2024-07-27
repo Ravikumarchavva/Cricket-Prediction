@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Delhi
+info,team,Tamil Nadu
+info,gender,male
+info,season,2023/24
+info,date,2023/10/23
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Abhimanyu Cricket Academy, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Tamil Nadu
+info,toss_decision,field
+info,umpire,HAS Khalid
+info,umpire,Tapan Sharma
+info,tv_umpire,A Nand Kishore
+info,match_referee,Prakash Bhatt
+info,winner,Delhi
+info,winner_runs,124
+info,player,Delhi,HR Shokeen
+info,player,Delhi,Priyansh Arya
+info,player,Delhi,Anuj Rawat
+info,player,Delhi,YV Dhull
+info,player,Delhi,A Badoni
+info,player,Delhi,Himmat Singh
+info,player,Delhi,I Sharma
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,Navdeep Saini
+info,player,Delhi,Harshit Rana
+info,player,Delhi,Suyash Sharma
+info,player,Delhi,Dev Lakra
+info,player,Tamil Nadu,T Natarajan
+info,player,Tamil Nadu,G Ajitesh
+info,player,Tamil Nadu,Hari Nishaanth
+info,player,Tamil Nadu,B Sai Sudharsan
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,B Aparajith
+info,player,Tamil Nadu,Washington Sundar
+info,player,Tamil Nadu,M Shahrukh Khan
+info,player,Tamil Nadu,R Sanjay Yadav
+info,player,Tamil Nadu,R Sai Kishore
+info,player,Tamil Nadu,CV Varun
+info,player,Tamil Nadu,KR Sen
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Nand Kishore,84424f4f
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,B Aparajith,5b627626
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,Dev Lakra,e41832f1
+info,registry,people,G Ajitesh,09a341f9
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,HR Shokeen,0c9652b0
+info,registry,people,Hari Nishaanth,c3f37533
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,KR Sen,2e78f685
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,R Sanjay Yadav,33ffc3dd
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,T Natarajan,ce794613
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YV Dhull,dd7e9b3b

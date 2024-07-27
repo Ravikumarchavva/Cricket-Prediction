@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Paarl Royals
+info,gender,male
+info,season,2022/23
+info,date,2023/01/24
+info,event,SA20
+info,match_number,21
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,DA Miller
+info,umpire,BM White
+info,umpire,Siphelele Gasa
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,A Jacobs
+info,match_referee,LH Matroos
+info,winner,Paarl Royals
+info,winner_wickets,5
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,JT Smuts
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,JK Fuller
+info,player,Sunrisers Eastern Cape,BA Carse
+info,player,Sunrisers Eastern Cape,SJ Erwee
+info,player,Sunrisers Eastern Cape,RE van der Merwe
+info,player,Sunrisers Eastern Cape,SSB Magala
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM White,66c21d35
+info,registry,people,C Bosch,172dff15
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SSB Magala,8361e524
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WJ Lubbe,10f42013

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maharashtra
+info,team,Karnataka
+info,gender,male
+info,season,2015/16
+info,date,2016/01/07
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Barabati Stadium
+info,city,
+info,toss_winner,Karnataka
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_runs,26
+info,player,Maharashtra,SM Gugale
+info,player,Maharashtra,Chirag Khurana
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,PJ Bhati
+info,player,Maharashtra,AA Sanklecha
+info,player,Maharashtra,AR Bawne
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,SS Mundhe
+info,player,Maharashtra,SM Kazi
+info,player,Maharashtra,DJ Muthuswami
+info,player,Karnataka,R Vinay Kumar
+info,player,Karnataka,S Aravind
+info,player,Karnataka,A Mithun
+info,player,Karnataka,J Suchith
+info,player,Karnataka,STR Binny
+info,player,Karnataka,S Gopal
+info,player,Karnataka,Mohammed Taha
+info,player,Karnataka,RV Uthappa
+info,player,Karnataka,Aniruddha Joshi
+info,player,Karnataka,CM Gautam
+info,player,Karnataka,MA Agarwal
+info,registry,people,A Mithun,66cf56a5
+info,registry,people,AA Sanklecha,90a5e58a
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,Aniruddha Joshi,40c1eeeb
+info,registry,people,CM Gautam,30a2649b
+info,registry,people,Chirag Khurana,3d51cc7e
+info,registry,people,DJ Muthuswami,2c76b512
+info,registry,people,J Suchith,4125d931
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,Mohammed Taha,9fd83fec
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,PJ Bhati,278989a3
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,S Aravind,957532de
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,SM Gugale,fdf8d681
+info,registry,people,SM Kazi,868e3639
+info,registry,people,SS Mundhe,0af3426f
+info,registry,people,STR Binny,bd17b45f

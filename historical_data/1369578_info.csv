@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,St Lucia Kings
+info,team,St Kitts and Nevis Patriots
+info,gender,male
+info,season,2023
+info,date,2023/09/09
+info,event,Caribbean Premier League
+info,match_number,21
+info,venue,"Brian Lara Stadium, Tarouba, Trinidad"
+info,city,Tarouba
+info,toss_winner,St Kitts and Nevis Patriots
+info,toss_decision,field
+info,player_of_match,ADS Fletcher
+info,umpire,DK Butler
+info,umpire,N Duguid
+info,reserve_umpire,CO Wright
+info,tv_umpire,LS Reifer
+info,match_referee,M Ragoonath
+info,winner,St Kitts and Nevis Patriots
+info,winner_wickets,4
+info,player,St Lucia Kings,C Munro
+info,player,St Lucia Kings,J Charles
+info,player,St Lucia Kings,SC Williams
+info,player,St Lucia Kings,RL Chase
+info,player,St Lucia Kings,S Descarte
+info,player,St Lucia Kings,Sikandar Raza
+info,player,St Lucia Kings,RS Primus
+info,player,St Lucia Kings,AS Joseph
+info,player,St Lucia Kings,MW Forde
+info,player,St Lucia Kings,K Pierre
+info,player,St Lucia Kings,P Hatzoglou
+info,player,St Kitts and Nevis Patriots,E Lewis
+info,player,St Kitts and Nevis Patriots,ADS Fletcher
+info,player,St Kitts and Nevis Patriots,WCF Smeed
+info,player,St Kitts and Nevis Patriots,JU Goolie
+info,player,St Kitts and Nevis Patriots,SE Rutherford
+info,player,St Kitts and Nevis Patriots,GF Linde
+info,player,St Kitts and Nevis Patriots,C Bosch
+info,player,St Kitts and Nevis Patriots,DC Drakes
+info,player,St Kitts and Nevis Patriots,BAC Howell
+info,player,St Kitts and Nevis Patriots,O Thomas
+info,player,St Kitts and Nevis Patriots,AR Nedd
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AR Nedd,92b7602a
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Munro,af2c687b
+info,registry,people,CO Wright,a541fc41
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DK Butler,671398e3
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,GF Linde,e5437608
+info,registry,people,J Charles,09a9d073
+info,registry,people,JU Goolie,92780e2f
+info,registry,people,K Pierre,a61bcb94
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Ragoonath,6f596571
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,N Duguid,64495506
+info,registry,people,O Thomas,c6097d68
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RS Primus,6f4c73ce
+info,registry,people,S Descarte,b7b09ba5
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,WCF Smeed,4e18e961

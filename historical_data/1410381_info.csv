@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Sussex
+info,gender,male
+info,season,2024
+info,date,2024/05/31
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,NJ Llong
+info,match_referee,PM Such
+info,winner,Sussex
+info,winner_wickets,3
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,AS Dale
+info,player,Sussex,OJ Carter
+info,player,Sussex,DP Hughes
+info,player,Sussex,TP Alsop
+info,player,Sussex,JM Coles
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,JA Simpson
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,OE Robinson
+info,player,Sussex,TS Mills
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PM Such,c9f1892c
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb

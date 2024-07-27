@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Nepal
+info,gender,male
+info,season,2023
+info,date,2023/06/22
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,9
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,SD Hope
+info,umpire,A Paleker
+info,umpire,MJ Saggers
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,Ahmed Shah Pakteen
+info,match_referee,Muhammad Javed
+info,winner,West Indies
+info,winner_runs,101
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Charles
+info,player,West Indies,SD Hope
+info,player,West Indies,N Pooran
+info,player,West Indies,R Powell
+info,player,West Indies,JO Holder
+info,player,West Indies,KMA Paul
+info,player,West Indies,RL Chase
+info,player,West Indies,AS Joseph
+info,player,West Indies,AJ Hosein
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,B Sharki
+info,player,Nepal,RK Paudel
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,Kushal Malla
+info,player,Nepal,DS Airee
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Karan KC
+info,player,Nepal,LN Rajbanshi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AS Joseph,b0946605
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,BA King,7fca84b7
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,J Charles,09a9d073
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SD Hope,1fc6ef83

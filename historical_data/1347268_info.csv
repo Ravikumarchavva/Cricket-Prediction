@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2023
+info,date,2023/09/19
+info,date,2023/09/20
+info,date,2023/09/21
+info,date,2023/09/22
+info,event,County Championship
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,ID Blackwell
+info,match_referee,JJ Whitaker
+info,outcome,draw
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,JP Morley
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,BA Hutton
+info,player,Nottinghamshire,D Paterson
+info,player,Nottinghamshire,AM Fernando
+info,registry,people,AM Fernando,de3d549a
+info,registry,people,BA Hutton,b3544c5d
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,CG Harrison,f655d740
+info,registry,people,D Paterson,462d7c62
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,LW James,2baad3bd
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WSA Williams,861eed37

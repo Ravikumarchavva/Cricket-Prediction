@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Namibia
+info,gender,male
+info,season,2002/03
+info,date,2003/03/03
+info,event,ICC World Cup
+info,match_number,39
+info,venue,"Goodyear Park, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,JF Kloppenburg
+info,umpire,DJ Harper
+info,umpire,Nadeem Ghauri
+info,tv_umpire,DB Hair
+info,match_referee,GR Viswanath
+info,winner,Netherlands
+info,winner_runs,64
+info,player,Netherlands,JF Kloppenburg
+info,player,Netherlands,E Schiferli
+info,player,Netherlands,KJJ van Noortwijk
+info,player,Netherlands,B Zuiderent
+info,player,Netherlands,TBM de Leede
+info,player,Netherlands,LP van Troost
+info,player,Netherlands,DLS van Bunge
+info,player,Netherlands,HJC Mol
+info,player,Netherlands,JJ Esmeijer
+info,player,Netherlands,J Smits
+info,player,Netherlands,Adeel Raja
+info,player,Namibia,AJ Burger
+info,player,Namibia,M Karg
+info,player,Namibia,D Keulder
+info,player,Namibia,GB Murgatroyd
+info,player,Namibia,DB Kotze
+info,player,Namibia,LJ Burger
+info,player,Namibia,G Snyman
+info,player,Namibia,SF Burger
+info,player,Namibia,M van Schoor
+info,player,Namibia,BO van Rooi
+info,player,Namibia,RJ van Vuuren
+info,registry,people,AJ Burger,4347a4ae
+info,registry,people,Adeel Raja,79004151
+info,registry,people,B Zuiderent,d953ed6a
+info,registry,people,BO van Rooi,047945ae
+info,registry,people,D Keulder,34c823b0
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DB Kotze,5ee47383
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DLS van Bunge,3185266a
+info,registry,people,E Schiferli,cefe0886
+info,registry,people,G Snyman,5af592d2
+info,registry,people,GB Murgatroyd,18356eb3
+info,registry,people,GR Viswanath,9333bc07
+info,registry,people,HJC Mol,e33616eb
+info,registry,people,J Smits,7c681ee9
+info,registry,people,JF Kloppenburg,51080a1f
+info,registry,people,JJ Esmeijer,21231130
+info,registry,people,KJJ van Noortwijk,101d1e85
+info,registry,people,LJ Burger,6f4d314b
+info,registry,people,LP van Troost,34d2ca48
+info,registry,people,M Karg,856a5e81
+info,registry,people,M van Schoor,74bd2653
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,RG Nijman,235a247a
+info,registry,people,RJ van Vuuren,0882b3f1
+info,registry,people,SF Burger,9ff7f691
+info,registry,people,TBM de Leede,d2f72b19

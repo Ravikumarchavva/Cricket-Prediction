@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Galle Gladiators
+info,team,Colombo Stars
+info,gender,male
+info,season,2022/23
+info,date,2022/12/11
+info,event,Lanka Premier League
+info,match_number,7
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Galle Gladiators
+info,toss_decision,bat
+info,player_of_match,LU Igalagamage
+info,umpire,IC Soysa
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,RR Wimalasiri
+info,match_referee,WC Labrooy
+info,winner,Galle Gladiators
+info,winner_runs,25
+info,player,Galle Gladiators,PTM Dabare
+info,player,Galle Gladiators,BKG Mendis
+info,player,Galle Gladiators,LU Igalagamage
+info,player,Galle Gladiators,Azam Khan
+info,player,Galle Gladiators,Iftikhar Ahmed
+info,player,Galle Gladiators,MNK Fernando
+info,player,Galle Gladiators,Imad Wasim
+info,player,Galle Gladiators,Wahab Riaz
+info,player,Galle Gladiators,N Pradeep
+info,player,Galle Gladiators,N Thushara
+info,player,Galle Gladiators,PADLR Sandakan
+info,player,Colombo Stars,N Dickwella
+info,player,Colombo Stars,AD Mathews
+info,player,Colombo Stars,Karim Janat
+info,player,Colombo Stars,ND Paranavithana
+info,player,Colombo Stars,KIC Asalanka
+info,player,Colombo Stars,RS Bopara
+info,player,Colombo Stars,LD Chandimal
+info,player,Colombo Stars,DC Drakes
+info,player,Colombo Stars,RAS Lakmal
+info,player,Colombo Stars,JDF Vandersay
+info,player,Colombo Stars,Naveen-ul-Haq
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,IC Soysa,717a7971
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,Karim Janat,62175638
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,ND Paranavithana,4e602f29
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PTM Dabare,a97fbc2c
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,Wahab Riaz,b3118300

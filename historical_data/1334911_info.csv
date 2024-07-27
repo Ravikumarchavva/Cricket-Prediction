@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Dolphins
+info,gender,male
+info,season,2022/23
+info,date,2022/10/28
+info,event,CSA T20 Challenge
+info,match_number,21
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Dolphins
+info,toss_decision,field
+info,umpire,BM White
+info,umpire,Siphelele Gasa
+info,reserve_umpire,DJ Smith
+info,tv_umpire,RN Hendricks
+info,match_referee,GH Pienaar
+info,outcome,no result
+info,player,Knights,GL Cloete
+info,player,Knights,GJ Snyman
+info,player,Knights,R van Tonder
+info,player,Knights,AR Swanepoel
+info,player,Knights,PE Kruger
+info,player,Knights,PJ van Biljon
+info,player,Knights,O Motlhoaring
+info,player,Knights,M Pretorius
+info,player,Knights,G Coetzee
+info,player,Knights,M Mhlanga
+info,player,Knights,M Budaza
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,KD Petersen
+info,player,Dolphins,JT Smuts
+info,player,Dolphins,TA Dithole
+info,player,Dolphins,K Zondo
+info,player,Dolphins,JF Smith
+info,player,Dolphins,E Bosch
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,OEG Baartman
+info,player,Dolphins,DM Dupavillon
+info,player,Dolphins,T Ntini
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,BM White,66c21d35
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GJ Snyman,a3ae63f4
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,M Budaza,1d105638
+info,registry,people,M Mhlanga,9ea3dd1a
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,O Motlhoaring,1713d202
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Ntini,d44569de
+info,registry,people,TA Dithole,876bec53

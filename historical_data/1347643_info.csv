@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/06/16
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,Chris Watts
+info,match_referee,DE Malcolm
+info,winner,Essex
+info,winner_wickets,4
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,Callum Taylor
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,Zain-ul-Hassan
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,player,Essex,FIN Khushi
+info,player,Essex,RJ Das
+info,player,Essex,MS Pepper
+info,player,Essex,JS Rymell
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,WEL Buttleman
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,SJ Cook
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,Callum Taylor,5a42a396
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DE Malcolm,29c7ca03
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,JS Rymell,ecf9fb2e
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RJ Das,734344b3
+info,registry,people,S Snater,a790df98
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Harmer,23638956
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,WEL Buttleman,e855546b
+info,registry,people,WT Root,72898514
+info,registry,people,Zain-ul-Hassan,d12cead8

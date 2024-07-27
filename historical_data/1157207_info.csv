@@ -1,0 +1,57 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hyderabad (India)
+info,team,Uttarakhand
+info,gender,male
+info,season,2018/19
+info,date,2019/03/02
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Uttarakhand
+info,toss_decision,field
+info,outcome,no result
+info,player,Hyderabad (India),J Mallikarjun
+info,player,Hyderabad (India),Tilak Varma
+info,player,Hyderabad (India),Kolla Sumanth
+info,player,Hyderabad (India),PS Sairam
+info,player,Hyderabad (India),Ravi Teja
+info,player,Hyderabad (India),Mohammed Siraj
+info,player,Hyderabad (India),PS Chaitanya Reddy
+info,player,Hyderabad (India),Rohit Rayudu
+info,player,Hyderabad (India),Bavanaka Sandeep
+info,player,Hyderabad (India),Mehdi Hassan
+info,player,Hyderabad (India),CV Milind
+info,player,Uttarakhand,D Dhapola
+info,player,Uttarakhand,Gaurav Singh
+info,player,Uttarakhand,Sunny Rana
+info,player,Uttarakhand,Mayank Mishra
+info,player,Uttarakhand,Vaibhav Singh Panwar
+info,player,Uttarakhand,Girish Rauturi
+info,player,Uttarakhand,Shivam Khurana
+info,player,Uttarakhand,Vijay Sharma
+info,player,Uttarakhand,Bhiguraj Pathania
+info,player,Uttarakhand,Saurabh Rawat
+info,player,Uttarakhand,Karanveer Kaushal
+info,registry,people,Bavanaka Sandeep,bc67cc22
+info,registry,people,Bhiguraj Pathania,00bcd434
+info,registry,people,CV Milind,7b5b6311
+info,registry,people,D Dhapola,5dd172a7
+info,registry,people,Gaurav Singh,92eefbc5
+info,registry,people,Girish Rauturi,478bbd5f
+info,registry,people,J Mallikarjun,2222f8a7
+info,registry,people,Karanveer Kaushal,9e62632a
+info,registry,people,Kolla Sumanth,b93a5d0b
+info,registry,people,Mayank Mishra,de00b96c
+info,registry,people,Mehdi Hassan,5876c626
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,PS Chaitanya Reddy,887cdfc6
+info,registry,people,PS Sairam,c08963b0
+info,registry,people,Ravi Teja,5f39537c
+info,registry,people,Rohit Rayudu,b4587494
+info,registry,people,Saurabh Rawat,839b6d2e
+info,registry,people,Shivam Khurana,e23960c5
+info,registry,people,Sunny Rana,798c67e5
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Vaibhav Singh Panwar,8685f676
+info,registry,people,Vijay Sharma,6e8d1234

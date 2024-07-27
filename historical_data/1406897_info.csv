@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Emirates
+info,team,Sharjah Warriors
+info,gender,male
+info,season,2023/24
+info,date,2024/01/26
+info,event,International League T20
+info,match_number,9
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Sharjah Warriors
+info,toss_decision,field
+info,player_of_match,AJ Hosein
+info,umpire,MJ Saggers
+info,umpire,RJ Tucker
+info,reserve_umpire,Ahmed Shah Pakteen
+info,tv_umpire,LS Reifer
+info,match_referee,SJA Taufel
+info,winner,MI Emirates
+info,winner_runs,106
+info,player,MI Emirates,Waqar Salamkheil
+info,player,MI Emirates,Waseem Muhammad
+info,player,MI Emirates,MDKJ Perera
+info,player,MI Emirates,ADS Fletcher
+info,player,MI Emirates,N Pooran
+info,player,MI Emirates,AT Rayudu
+info,player,MI Emirates,TH David
+info,player,MI Emirates,DJ Bravo
+info,player,MI Emirates,AJ Hosein
+info,player,MI Emirates,TA Boult
+info,player,MI Emirates,Fazalhaq Farooqi
+info,player,MI Emirates,Muhammad Rohid
+info,player,Sharjah Warriors,D Madushanka
+info,player,Sharjah Warriors,MJ Guptill
+info,player,Sharjah Warriors,J Charles
+info,player,Sharjah Warriors,T Kohler-Cadmore
+info,player,Sharjah Warriors,N Dickwella
+info,player,Sharjah Warriors,JL Denly
+info,player,Sharjah Warriors,L Gregory
+info,player,Sharjah Warriors,Basil Hameed
+info,player,Sharjah Warriors,DR Sams
+info,player,Sharjah Warriors,CR Woakes
+info,player,Sharjah Warriors,M Theekshana
+info,player,Sharjah Warriors,Muhammad Jawadullah
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,J Charles,09a9d073
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Waqar Salamkheil,3f1066d0
+info,registry,people,Waseem Muhammad,6f02fe2a

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Northern Districts
+info,gender,male
+info,season,2019/20
+info,date,2020/02/22
+info,date,2020/02/23
+info,date,2020/02/24
+info,date,2020/02/25
+info,event,Plunket Shield
+info,venue,McLean Park
+info,city,
+info,toss_winner,Central Stags
+info,toss_decision,field
+info,umpire,DM Koch
+info,umpire,SB Haig
+info,match_referee,RE Hayward
+info,winner,Central Stags
+info,winner_wickets,8
+info,player,Central Stags,GR Hay
+info,player,Central Stags,GH Worker
+info,player,Central Stags,WA Young
+info,player,Central Stags,BS Smith
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,WC Ludick
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,SHA Rance
+info,player,Central Stags,RL Toole
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,PD Bocock
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,BG Randell
+info,player,Northern Districts,JD Baker
+info,registry,people,B Popli,848487cf
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BS Smith,556df4f9
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DM Koch,6d10c034
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JR Lennox,07793daf
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,PD Bocock,329b08c2
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,SB Haig,811655b3
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SHA Rance,69c994e4
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WC Ludick,2a802bfd

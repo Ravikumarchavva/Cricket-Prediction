@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Sri Lanka
+info,gender,male
+info,season,2003
+info,date,2003/05/19
+info,event,Bank Alfalah Cup
+info,match_number,5
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,DL Vettori
+info,umpire,PT Manuel
+info,umpire,SJA Taufel
+info,tv_umpire,EAR de Silva
+info,match_referee,GR Viswanath
+info,winner,New Zealand
+info,winner_runs,9
+info,player,New Zealand,CJ Nevin
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,L Vincent
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,CZ Harris
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,KD Mills
+info,player,New Zealand,AR Adams
+info,player,New Zealand,DR Tuffey
+info,player,New Zealand,DL Vettori
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,RS Kaluwitharana
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,TM Dilshan
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,HDPK Dharmasena
+info,player,Sri Lanka,KS Lokuarachchi
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,RAP Nissanka
+info,registry,people,AR Adams,525c3f54
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CJ Nevin,4d220a66
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CZ Harris,582e9baa
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DR Tuffey,43936951
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,GR Viswanath,9333bc07
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,KS Lokuarachchi,3b50c63a
+info,registry,people,L Vincent,2764133a
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MJ Horne,04985f66
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,PT Manuel,3a1373fd
+info,registry,people,RAP Nissanka,6cc006ef
+info,registry,people,RS Kaluwitharana,dff967c1
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,TM Dilshan,5bdcdb72
+info,registry,people,WPUJC Vaas,bcce309e

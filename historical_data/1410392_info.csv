@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2024
+info,date,2024/06/06
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,Hassan Adnan
+info,umpire,N Pratt
+info,match_referee,JJ Whitaker
+info,winner,Worcestershire
+info,winner_runs,20
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,JJ Cobb
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,RP Jones
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,NG Smith
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,AW Finch
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,DY Pennington
+info,player,Nottinghamshire,BG Lister
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,CG Harrison,f655d740
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,OP Stone,3f659464
+info,registry,people,RP Jones,ad8cb396
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WA Young,8afe73e2

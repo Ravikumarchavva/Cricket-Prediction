@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Melbourne Renegades
+info,team,Sydney Sixers
+info,gender,female
+info,season,2022/23
+info,date,2022/11/10
+info,event,Women's Big Bash League
+info,match_number,37
+info,venue,"Junction Oval, Melbourne"
+info,city,Melbourne
+info,toss_winner,Sydney Sixers
+info,toss_decision,field
+info,umpire,C Grant
+info,umpire,Greg Azzopardi
+info,match_referee,RW Stratford
+info,outcome,no result
+info,player,Melbourne Renegades,HK Matthews
+info,player,Melbourne Renegades,AC Jayangani
+info,player,Melbourne Renegades,E Kershaw
+info,player,Melbourne Renegades,JE Dooley
+info,player,Melbourne Renegades,S Molineux
+info,player,Melbourne Renegades,C Webb
+info,player,Melbourne Renegades,C Leeson
+info,player,Melbourne Renegades,SJ Coyte
+info,player,Melbourne Renegades,RK O'Donnell
+info,player,Melbourne Renegades,G Prestwidge
+info,player,Melbourne Renegades,E Hayward
+info,player,Sydney Sixers,AJ Healy
+info,player,Sydney Sixers,SW Bates
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,NE Bolton
+info,player,Sydney Sixers,S Ecclestone
+info,player,Sydney Sixers,K Peterson
+info,player,Sydney Sixers,A Genford
+info,player,Sydney Sixers,L Cheatle
+info,player,Sydney Sixers,J Allen
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Genford,52b45daa
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AJ Healy,321644de
+info,registry,people,C Grant,876ed858
+info,registry,people,C Leeson,d71e33bb
+info,registry,people,C Webb,1f4a8a2a
+info,registry,people,E Hayward,eacd9bb1
+info,registry,people,E Kershaw,8eeebce2
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Prestwidge,c218e4e7
+info,registry,people,Greg Azzopardi,e950350e
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,J Allen,20e02728
+info,registry,people,JE Dooley,6f7e30d6
+info,registry,people,K Peterson,5f377534
+info,registry,people,L Cheatle,275dff85
+info,registry,people,NE Bolton,dd883071
+info,registry,people,RK O'Donnell,2ec8a400
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Molineux,99e23670
+info,registry,people,SJ Coyte,a5f488bc
+info,registry,people,SW Bates,89bbc67a

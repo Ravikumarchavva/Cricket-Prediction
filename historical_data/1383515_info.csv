@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Arunachal Pradesh
+info,team,Saurashtra
+info,gender,male
+info,season,2023/24
+info,date,2023/10/23
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Saurashtra
+info,toss_decision,field
+info,umpire,P Jayapal
+info,umpire,Vinod Seshan
+info,match_referee,R Seth
+info,winner,Saurashtra
+info,winner_wickets,10
+info,player,Arunachal Pradesh,A Awasthi
+info,player,Arunachal Pradesh,Techi Neri
+info,player,Arunachal Pradesh,Aryan Sahani
+info,player,Arunachal Pradesh,AV Jaiswal
+info,player,Arunachal Pradesh,D Yadav
+info,player,Arunachal Pradesh,Neelam Obi
+info,player,Arunachal Pradesh,Techi Doria
+info,player,Arunachal Pradesh,L Jhon
+info,player,Arunachal Pradesh,N Joshi
+info,player,Arunachal Pradesh,Yab Niya
+info,player,Arunachal Pradesh,Y Sera
+info,player,Saurashtra,Tarang Gohel
+info,player,Saurashtra,H Desai
+info,player,Saurashtra,Dharmendrasinh Jadeja
+info,player,Saurashtra,Chirag Jani
+info,player,Saurashtra,JD Unadkat
+info,player,Saurashtra,Jay Gohil
+info,player,Saurashtra,P Karia
+info,player,Saurashtra,Samarth Vyas
+info,player,Saurashtra,SP Jackson
+info,player,Saurashtra,Aditya Jadeja
+info,player,Saurashtra,Vishvaraj Jadeja
+info,registry,people,A Awasthi,fa62a463
+info,registry,people,AV Jaiswal,297b2240
+info,registry,people,Aditya Jadeja,c0c4b2e9
+info,registry,people,Aryan Sahani,ed9a84e9
+info,registry,people,Chirag Jani,783e6111
+info,registry,people,D Yadav,9f622b6c
+info,registry,people,Dharmendrasinh Jadeja,d330f9b9
+info,registry,people,H Desai,9c86350f
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,Jay Gohil,efd1a0ef
+info,registry,people,L Jhon,c16f70b4
+info,registry,people,N Joshi,cfece11f
+info,registry,people,Neelam Obi,047fc26e
+info,registry,people,P Jayapal,209e51e8
+info,registry,people,P Karia,7878257d
+info,registry,people,R Seth,540a44ba
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Samarth Vyas,34819e70
+info,registry,people,Tarang Gohel,3b16788a
+info,registry,people,Techi Doria,dde809f3
+info,registry,people,Techi Neri,d3885f28
+info,registry,people,Vinod Seshan,a3357a27
+info,registry,people,Vishvaraj Jadeja,d30c6f81
+info,registry,people,Y Sera,4fcaa008
+info,registry,people,Yab Niya,8d6505d3

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mizoram
+info,team,Mumbai
+info,gender,male
+info,season,2019/20
+info,date,2019/11/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Wankhede Stadium
+info,city,
+info,toss_winner,Mumbai
+info,toss_decision,field
+info,winner,Mumbai
+info,winner_wickets,10
+info,player,Mizoram,T Kohli
+info,player,Mizoram,Lalhmangaiha
+info,player,Mizoram,KB Pawan
+info,player,Mizoram,Lalhruaizela
+info,player,Mizoram,Saidingliana Sailo
+info,player,Mizoram,Abhay
+info,player,Mizoram,Parvez Ahmed
+info,player,Mizoram,Lalhruai Ralte
+info,player,Mizoram,Sumit Lama
+info,player,Mizoram,G Lalbiakvela
+info,player,Mizoram,Lalnunkima Varte
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,Kruthik Hanagavadi
+info,player,Mumbai,Shubham Ranjane
+info,player,Mumbai,Sujit Nayak
+info,player,Mumbai,SD Lad
+info,player,Mumbai,Jay Bista
+info,player,Mumbai,AP Tare
+info,player,Mumbai,SN Khan
+info,player,Mumbai,SA Yadav
+info,registry,people,AP Tare,855a210c
+info,registry,people,Abhay,778062fb
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,G Lalbiakvela,66ea7420
+info,registry,people,Jay Bista,f079e8fe
+info,registry,people,KB Pawan,62dad180
+info,registry,people,Kruthik Hanagavadi,32342d85
+info,registry,people,Lalhmangaiha,15bbe51b
+info,registry,people,Lalhruai Ralte,c2ed5822
+info,registry,people,Lalhruaizela,4cfda770
+info,registry,people,Lalnunkima Varte,b7d8d5ce
+info,registry,people,Parvez Ahmed,54a0e487
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,SN Khan,f088b960
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Saidingliana Sailo,9dc85417
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Sujit Nayak,e06f7116
+info,registry,people,Sumit Lama,301762cd
+info,registry,people,T Kohli,40caa465
+info,registry,people,TU Deshpande,46a9bea1

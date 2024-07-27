@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,James Middlebrook
+info,umpire,M Burns
+info,match_referee,DA Cosker
+info,winner,Sussex
+info,winner_runs,20
+info,player,Sussex,HD Ward
+info,player,Sussex,TGR Clark
+info,player,Sussex,OJ Carter
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,JM Coles
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,A Karvelas
+info,player,Sussex,TS Mills
+info,player,Sussex,BJ Currie
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,CD Fletcher
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AG Salter
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AG Salter,1a45b864
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WT Smale,97da28bd

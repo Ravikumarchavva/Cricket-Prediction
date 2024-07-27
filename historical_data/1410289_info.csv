@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Middlesex
+info,gender,male
+info,season,2024
+info,date,2024/05/24
+info,date,2024/05/25
+info,date,2024/05/26
+info,date,2024/05/27
+info,event,County Championship
+info,match_number,27
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,Chris Watts
+info,umpire,N Pratt
+info,match_referee,Wayne Noon
+info,outcome,draw
+info,player,Sussex,TGR Clark
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,CA Pujara
+info,player,Sussex,JM Coles
+info,player,Sussex,JA Simpson
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,DJ Lamb
+info,player,Sussex,JJ Carson
+info,player,Sussex,OE Robinson
+info,player,Sussex,JNT Seales
+info,player,Middlesex,SD Robson
+info,player,Middlesex,MD Stoneman
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JL du Plooy
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,TG Helm
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,HJH Brookes
+info,player,Middlesex,ER Bamber
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,ER Bamber,948beb1f
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JNT Seales,ded9ff1e
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,N Fernandes,01561e94
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SD Robson,76cb1a7f
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,Wayne Noon,736e1761

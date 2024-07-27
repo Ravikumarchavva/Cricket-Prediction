@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Afghanistan
+info,gender,male
+info,season,2023
+info,date,2023/06/14
+info,date,2023/06/15
+info,date,2023/06/16
+info,date,2023/06/17
+info,event,Afghanistan tour of Bangladesh
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Afghanistan
+info,toss_decision,field
+info,player_of_match,Nazmul Hossain Shanto
+info,umpire,CM Brown
+info,umpire,PR Reiffel
+info,reserve_umpire,Sharfuddoula
+info,tv_umpire,AT Holdstock
+info,match_referee,BC Broad
+info,winner,Bangladesh
+info,winner_runs,546
+info,player,Bangladesh,Mahmudul Hasan Joy
+info,player,Bangladesh,Zakir Hasan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mominul Haque
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Ebadat Hossain
+info,player,Afghanistan,Bahir Shah
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Abdul Malik
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Nasir Jamal
+info,player,Afghanistan,Afsar Zazai
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Amir Hamza
+info,player,Afghanistan,Yamin Ahmadzai
+info,player,Afghanistan,Nijat Masood
+info,player,Afghanistan,Zahir Khan
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Abdul Malik,b3218c80
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Amir Hamza,dca1ac2e
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,Bahir Shah,0439b7fb
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Karim Janat,62175638
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahmudul Hasan Joy,4b51bd51
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nasir Jamal,b430ec8c
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nijat Masood,a1bf281e
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Yamin Ahmadzai,6e4588bc
+info,registry,people,Zahir Khan,786b7fe8
+info,registry,people,Zakir Hasan,e3e09091

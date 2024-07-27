@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South East Stars
+info,team,Sunrisers
+info,gender,female
+info,season,2023
+info,date,2023/05/05
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,13
+info,venue,"Radlett Cricket Club, Radlett"
+info,city,Radlett
+info,toss_winner,Sunrisers
+info,toss_decision,field
+info,umpire,S McLelland
+info,umpire,Tom Lungley
+info,match_referee,DE Malcolm
+info,winner,South East Stars
+info,winner_runs,91
+info,method,D/L
+info,player,South East Stars,KM Chathli
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,BF Smith
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,J Spence
+info,player,South East Stars,FR Davies
+info,player,South East Stars,D Gregory
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,AJ Macleod
+info,player,Sunrisers,CL Griffith
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,S Horley
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,E Gray
+info,player,Sunrisers,KS Castle
+info,player,Sunrisers,KL Coppack
+info,player,Sunrisers,AH Maqsood
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AJ Macleod,e7f06080
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,DE Malcolm,29c7ca03
+info,registry,people,E Gray,58717de2
+info,registry,people,FR Davies,2479daa6
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Spence,79dd743c
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,KS Castle,67045de6
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,Tom Lungley,75169b8c

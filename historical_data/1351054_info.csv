@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Khulna Tigers
+info,team,Dhaka Dominators
+info,gender,male
+info,season,2022/23
+info,date,2023/01/07
+info,event,Bangladesh Premier League
+info,match_number,3
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Dhaka Dominators
+info,toss_decision,field
+info,player_of_match,Nasir Hossain
+info,umpire,Gazi Sohel
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,DJ Millns
+info,match_referee,Raqibul Hasan (2)
+info,winner,Dhaka Dominators
+info,winner_wickets,6
+info,player,Khulna Tigers,Tamim Iqbal
+info,player,Khulna Tigers,Sharjeel Khan
+info,player,Khulna Tigers,Munim Shahriar
+info,player,Khulna Tigers,Azam Khan
+info,player,Khulna Tigers,Yasir Ali Chowdhury
+info,player,Khulna Tigers,Mohammad Saifuddin
+info,player,Khulna Tigers,Sabbir Rahman
+info,player,Khulna Tigers,Nahidul Islam
+info,player,Khulna Tigers,Wahab Riaz
+info,player,Khulna Tigers,PA van Meekeren
+info,player,Khulna Tigers,Nasum Ahmed
+info,player,Dhaka Dominators,EMDY Munaweera
+info,player,Dhaka Dominators,Ahmed Shehzad
+info,player,Dhaka Dominators,Soumya Sarkar
+info,player,Dhaka Dominators,Mohammad Mithun
+info,player,Dhaka Dominators,Nasir Hossain
+info,player,Dhaka Dominators,Usman Ghani
+info,player,Dhaka Dominators,Ariful Haque
+info,player,Dhaka Dominators,Muktar Ali
+info,player,Dhaka Dominators,Arafat Sunny
+info,player,Dhaka Dominators,Taskin Ahmed
+info,player,Dhaka Dominators,Al-Amin Hossain
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,EMDY Munaweera,5a22d91c
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muktar Ali,4a491652
+info,registry,people,Munim Shahriar,dd98b22f
+info,registry,people,Nahidul Islam,8c7b16c8
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Sharjeel Khan,193ef196
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Usman Ghani,e3829b2a
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Yasir Ali Chowdhury,5791b840

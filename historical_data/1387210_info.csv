@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Hobart Hurricanes
+info,gender,female
+info,season,2023/24
+info,date,2023/11/15
+info,event,Women's Big Bash League
+info,match_number,39
+info,venue,"Allan Border Field, Brisbane"
+info,city,Brisbane
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,field
+info,player_of_match,G Redmayne
+info,umpire,B Farrell
+info,umpire,M Mellifont
+info,match_referee,Kepler Wessels
+info,winner,Brisbane Heat
+info,winner_runs,53
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,BAM Heath
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,M du Preez
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,player,Brisbane Heat,LK Hamilton
+info,player,Hobart Hurricanes,L Lee
+info,player,Hobart Hurricanes,BF Smith
+info,player,Hobart Hurricanes,EJ Villani
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,H Graham
+info,player,Hobart Hurricanes,NE Stalenberg
+info,player,Hobart Hurricanes,R Johnston
+info,player,Hobart Hurricanes,H Silver-holmes
+info,player,Hobart Hurricanes,M Strano
+info,player,Hobart Hurricanes,A Smith
+info,player,Hobart Hurricanes,S Ismail
+info,registry,people,A Smith,b125ce63
+info,registry,people,AC Kerr,7673c908
+info,registry,people,B Farrell,7d399085
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,H Graham,99812d10
+info,registry,people,H Silver-holmes,2bfc7199
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,L Lee,7b01ce83
+info,registry,people,LK Hamilton,c347ffe6
+info,registry,people,M Mellifont,41729aa5
+info,registry,people,M Strano,f57d5dbb
+info,registry,people,M du Preez,e219f17a
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,R Johnston,3cd107a7
+info,registry,people,S Ismail,108c4c09

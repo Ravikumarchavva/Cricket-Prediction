@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Durban's Super Giants
+info,gender,male
+info,season,2023/24
+info,date,2024/01/18
+info,event,SA20
+info,match_number,10
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Pretoria Capitals
+info,toss_decision,bat
+info,player_of_match,WG Jacks
+info,umpire,AM Sodumo
+info,umpire,LB Gcuma
+info,reserve_umpire,RN Hendricks
+info,tv_umpire,BM White
+info,match_referee,SA Fritz
+info,winner,Pretoria Capitals
+info,winner_runs,17
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,C Bosch
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,GC Viljoen
+info,player,Pretoria Capitals,AU Rashid
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,JT Smuts
+info,player,Durban's Super Giants,MP Stoinis
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,CJ Dala
+info,player,Durban's Super Giants,RJW Topley
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BM White,66c21d35
+info,registry,people,C Bosch,172dff15
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Pretorius,11614d87
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1

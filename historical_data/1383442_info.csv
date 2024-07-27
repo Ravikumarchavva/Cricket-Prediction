@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saurashtra
+info,team,Punjab
+info,gender,male
+info,season,2023/24
+info,date,2023/10/16
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Punjab
+info,toss_decision,field
+info,umpire,PM Joshi
+info,umpire,UV Gandhe
+info,match_referee,R Seth
+info,winner,Saurashtra
+info,winner_runs,37
+info,player,Saurashtra,Aditya Jadeja
+info,player,Saurashtra,Tarang Gohel
+info,player,Saurashtra,H Desai
+info,player,Saurashtra,Samarth Vyas
+info,player,Saurashtra,SP Jackson
+info,player,Saurashtra,Vishvaraj Jadeja
+info,player,Saurashtra,Jay Gohil
+info,player,Saurashtra,Chirag Jani
+info,player,Saurashtra,Dharmendrasinh Jadeja
+info,player,Saurashtra,Parth Bhut
+info,player,Saurashtra,JD Unadkat
+info,player,Saurashtra,K D Patel
+info,player,Punjab,S Kaul
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Naman Dhir
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,M Markande
+info,player,Punjab,Arshdeep Singh
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Aditya Jadeja,c0c4b2e9
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Chirag Jani,783e6111
+info,registry,people,Dharmendrasinh Jadeja,d330f9b9
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,H Desai,9c86350f
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,Jay Gohil,efd1a0ef
+info,registry,people,K D Patel,76cc7070
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PM Joshi,0dcc9a8c
+info,registry,people,Parth Bhut,09a3f653
+info,registry,people,R Seth,540a44ba
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Samarth Vyas,34819e70
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,Tarang Gohel,3b16788a
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Vishvaraj Jadeja,d30c6f81

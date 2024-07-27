@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Boland
+info,gender,male
+info,season,2022/23
+info,date,2022/10/26
+info,event,CSA T20 Challenge
+info,match_number,18
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Boland
+info,toss_decision,field
+info,umpire,BP Jele
+info,umpire,DJ Smith
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,BM White
+info,match_referee,S Wadvalla
+info,winner,Knights
+info,winner_runs,4
+info,player,Knights,GL Cloete
+info,player,Knights,GJ Snyman
+info,player,Knights,R van Tonder
+info,player,Knights,AR Swanepoel
+info,player,Knights,PE Kruger
+info,player,Knights,PJ van Biljon
+info,player,Knights,G Coetzee
+info,player,Knights,M Pretorius
+info,player,Knights,O Motlhoaring
+info,player,Knights,SA Mothoa
+info,player,Knights,M Budaza
+info,player,Boland,JN Malan
+info,player,Boland,JL du Plooy
+info,player,Boland,SV Kitime
+info,player,Boland,C Fortuin
+info,player,Boland,F Behardien
+info,player,Boland,M Copeland
+info,player,Boland,GC Viljoen
+info,player,Boland,I Manack
+info,player,Boland,FD Adams
+info,player,Boland,B Xenxe
+info,player,Boland,S von Berg
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,B Xenxe,94cdf850
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,C Jonker,a81d6706
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,F Behardien,dce2019b
+info,registry,people,FD Adams,f277f531
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GJ Snyman,a3ae63f4
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JN Malan,f76d7466
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Budaza,1d105638
+info,registry,people,M Copeland,9943b637
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,O Motlhoaring,1713d202
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,S von Berg,ffd3fc37
+info,registry,people,SA Mothoa,ea1eba98
+info,registry,people,SV Kitime,9ca20359

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Quetta Gladiators
+info,team,Karachi Kings
+info,gender,male
+info,season,2022/23
+info,date,2023/02/18
+info,event,Pakistan Super League
+info,match_number,6
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Karachi Kings
+info,toss_decision,field
+info,player_of_match,MJ Guptill
+info,umpire,Ahsan Raza
+info,umpire,AG Wharf
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,RS Mahanama
+info,winner,Quetta Gladiators
+info,winner_runs,6
+info,player,Quetta Gladiators,JJ Roy
+info,player,Quetta Gladiators,MJ Guptill
+info,player,Quetta Gladiators,Abdul Bangalzai
+info,player,Quetta Gladiators,Umar Akmal
+info,player,Quetta Gladiators,Sarfraz Ahmed
+info,player,Quetta Gladiators,Iftikhar Ahmed
+info,player,Quetta Gladiators,Mohammad Nawaz
+info,player,Quetta Gladiators,OF Smith
+info,player,Quetta Gladiators,Mohammad Hasnain
+info,player,Quetta Gladiators,Naseem Shah
+info,player,Quetta Gladiators,Qais Ahmad
+info,player,Karachi Kings,Sharjeel Khan
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Haider Ali
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,MS Wade
+info,player,Karachi Kings,Imad Wasim
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,AJ Tye
+info,player,Karachi Kings,Mohammad Amir
+info,player,Karachi Kings,Imran Tahir
+info,player,Karachi Kings,Aamer Yamin
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,Aamer Yamin,907d6e58
+info,registry,people,Abdul Bangalzai,0251a22f
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Vince,a15618fe
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,OF Smith,23cca426
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Sharjeel Khan,193ef196
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Umar Akmal,fd2bf2a0

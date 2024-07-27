@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bihar
+info,team,Baroda
+info,gender,male
+info,season,2019/20
+info,date,2019/11/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium
+info,city,
+info,toss_winner,Bihar
+info,toss_decision,bat
+info,winner,Baroda
+info,winner_wickets,10
+info,player,Bihar,Vijay Bharti
+info,player,Bihar,Kunal Dabas
+info,player,Bihar,Rajesh Singh
+info,player,Bihar,MD Rahmatullah
+info,player,Bihar,Asfan Khan
+info,player,Bihar,Sarfaraz Ashraf
+info,player,Bihar,Babul Kumar
+info,player,Bihar,Ashutosh Aman
+info,player,Bihar,Harsh Vikram Singh
+info,player,Bihar,Shivam Kumar
+info,player,Bihar,Shashi Shekhar
+info,player,Baroda,LI Meriwala
+info,player,Baroda,BA Pathan
+info,player,Baroda,KH Pandya
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,DJ Hooda
+info,player,Baroda,RT Arothe
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Aditya Waghmode
+info,player,Baroda,YK Pathan
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,NA Rathva
+info,registry,people,Aditya Waghmode,eb67df8f
+info,registry,people,Asfan Khan,fc3d382b
+info,registry,people,Ashutosh Aman,4948a916
+info,registry,people,BA Pathan,870e4cec
+info,registry,people,Babul Kumar,85e6ccde
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Harsh Vikram Singh,63ab7aeb
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,Kunal Dabas,90065d86
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,MD Rahmatullah,c10a99ec
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,RT Arothe,50455929
+info,registry,people,Rajesh Singh,985b57b1
+info,registry,people,Sarfaraz Ashraf,8be36d3e
+info,registry,people,Shashi Shekhar,c166ca1c
+info,registry,people,Shivam Kumar,f81005c4
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Vijay Bharti,522bb42d
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,YK Pathan,3c6ffae8

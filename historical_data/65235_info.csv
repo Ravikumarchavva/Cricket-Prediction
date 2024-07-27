@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2002/03
+info,date,2003/02/09
+info,event,ICC World Cup
+info,match_number,1
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,BC Lara
+info,umpire,DJ Harper
+info,umpire,S Venkataraghavan
+info,tv_umpire,P Willey
+info,match_referee,RS Madugalle
+info,winner,West Indies
+info,winner_runs,3
+info,player,West Indies,CH Gayle
+info,player,West Indies,WW Hinds
+info,player,West Indies,BC Lara
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,CL Hooper
+info,player,West Indies,RL Powell
+info,player,West Indies,RR Sarwan
+info,player,West Indies,RD Jacobs
+info,player,West Indies,VC Drakes
+info,player,West Indies,M Dillon
+info,player,West Indies,PT Collins
+info,player,South Africa,HH Gibbs
+info,player,South Africa,G Kirsten
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,JH Kallis
+info,player,South Africa,JN Rhodes
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,L Klusener
+info,player,South Africa,N Boje
+info,player,South Africa,M Ntini
+info,player,South Africa,AA Donald
+info,registry,people,AA Donald,4c931d56
+info,registry,people,BC Lara,d5403021
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CL Hooper,61dab16a
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,G Kirsten,ad48eb56
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JN Rhodes,97edbfb1
+info,registry,people,L Klusener,c0790f82
+info,registry,people,M Dillon,5af87ad6
+info,registry,people,M Ntini,20a941bb
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,P Willey,1b647f99
+info,registry,people,PT Collins,f1cb042f
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Venkataraghavan,12453319
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,VC Drakes,b16b5eea
+info,registry,people,WW Hinds,60beb01b

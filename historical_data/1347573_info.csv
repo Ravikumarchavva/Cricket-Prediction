@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Lancashire
+info,gender,male
+info,season,2023
+info,date,2023/05/25
+info,event,Vitality Blast
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Leicestershire
+info,toss_decision,bat
+info,umpire,GD Lloyd
+info,umpire,NA Mallender
+info,match_referee,Phil Whitticase
+info,winner,Lancashire
+info,winner_wickets,8
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,AM Lilley
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,HJ Swindells
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,Naseem Shah
+info,player,Leicestershire,WS Davis
+info,player,Lancashire,PD Salt
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Mitchell
+info,player,Lancashire,LS Livingstone
+info,player,Lancashire,C de Grandhomme
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,L Wood
+info,player,Lancashire,S Mahmood
+info,player,Lancashire,MW Parkinson
+info,registry,people,AM Lilley,88a004e9
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,HJ Swindells,95fd757d
+info,registry,people,L Wood,65b6943c
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MW Parkinson,19708692
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SJ Croft,ab474682
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WS Davis,078ffbf2

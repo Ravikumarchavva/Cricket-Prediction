@@ -1,0 +1,76 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,male
+info,season,2022/23
+info,date,2022/11/30
+info,date,2022/12/01
+info,date,2022/12/02
+info,date,2022/12/03
+info,date,2022/12/04
+info,event,West Indies tour of Australia
+info,match_number,1
+info,venue,Perth Stadium
+info,city,Perth
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,M Labuschagne
+info,umpire,RK Illingworth
+info,umpire,RJ Tucker
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_runs,164
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,AT Carey
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,Australia,JR Hazlewood
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,T Chanderpaul
+info,player,West Indies,NE Bonner
+info,player,West Indies,J Blackwood
+info,player,West Indies,KR Mayers
+info,player,West Indies,JO Holder
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,J Da Silva
+info,player,West Indies,RL Chase
+info,player,West Indies,AS Joseph
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JNT Seales
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AT Carey,69d03465
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JNT Seales,ded9ff1e
+info,registry,people,JO Holder,0f721006
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KR Mayers,73c18486
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,NE Bonner,59ddd811
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,T Chanderpaul,80c6ed7d
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Nigeria
+info,gender,male
+info,season,2023/24
+info,date,2023/10/14
+info,event,West Africa Trophy
+info,match_number,17
+info,venue,"Tafawa Balewa Square Cricket Oval, Lagos"
+info,city,Lagos
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,umpire,I Kabia
+info,umpire,O Adekoya
+info,reserve_umpire,O Akintokun
+info,match_referee,Tonye Timinadi
+info,winner,Nigeria
+info,winner_wickets,8
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,Hamza Khan
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Z Bimenyimana
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,I Danladi
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,P Aho
+info,player,Nigeria,AA Onikoyi
+info,player,Nigeria,Joshua Asia
+info,player,Nigeria,C Udekwe
+info,registry,people,AA Onikoyi,409ce380
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,Hamza Khan,44a5f2b2
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,I Kabia,a7a885b5
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,Joshua Asia,c4ecc42c
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Adekoya,0c8bce52
+info,registry,people,O Akintokun,6293933e
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Aho,2e392afa
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,Tonye Timinadi,5cc0fccb
+info,registry,people,Z Bimenyimana,ba57fb08

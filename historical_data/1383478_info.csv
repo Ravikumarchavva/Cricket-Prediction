@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Railways
+info,gender,male
+info,season,2023/24
+info,date,2023/10/19
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Punjab
+info,toss_decision,bat
+info,umpire,UV Gandhe
+info,umpire,Vinod Seshan
+info,match_referee,R Seth
+info,winner,Punjab
+info,winner_runs,120
+info,player,Punjab,Baltej Singh
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Naman Dhir
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,S Kaul
+info,player,Punjab,Arshdeep Singh
+info,player,Punjab,M Markande
+info,player,Railways,Susheel Kumar
+info,player,Railways,Shivam Chaudhary
+info,player,Railways,Pratham Singh
+info,player,Railways,Vivek Singh
+info,player,Railways,Upendra Yadav
+info,player,Railways,Shubham Chaubey
+info,player,Railways,N Kushwah
+info,player,Railways,AR Pandey
+info,player,Railways,Ashutosh Sharma
+info,player,Railways,KV Sharma
+info,player,Railways,Yuvraj Singh
+info,player,Railways,Akash Pandey
+info,registry,people,AR Pandey,dd73b2ff
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Akash Pandey,f691e227
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,Baltej Singh,0c0ef3fb
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,KV Sharma,119678fd
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,N Kushwah,87b9786b
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,R Seth,540a44ba
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,Shivam Chaudhary,e53af640
+info,registry,people,Shubham Chaubey,58588e5a
+info,registry,people,Susheel Kumar,18956346
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,Vinod Seshan,a3357a27
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,Yuvraj Singh,30829ea2

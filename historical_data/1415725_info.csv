@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,India
+info,gender,male
+info,season,2024
+info,date,2024/06/12
+info,event,ICC Men's T20 World Cup
+info,match_number,25
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Arshdeep Singh
+info,umpire,PR Reiffel
+info,umpire,SJ Nogajski
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_wickets,7
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,SR Taylor
+info,player,United States of America,AGS Gous
+info,player,United States of America,Aaron Jones
+info,player,United States of America,NR Kumar
+info,player,United States of America,CJ Anderson
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,SC van Schalkwyk
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,Ali Khan
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,RR Pant
+info,player,India,SA Yadav
+info,player,India,S Dube
+info,player,India,HH Pandya
+info,player,India,RA Jadeja
+info,player,India,AR Patel
+info,player,India,Arshdeep Singh
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Siraj
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AR Patel,2e171977
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,V Kohli,ba607b88

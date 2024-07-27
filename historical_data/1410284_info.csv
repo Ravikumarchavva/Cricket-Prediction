@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Middlesex
+info,gender,male
+info,season,2024
+info,date,2024/05/17
+info,date,2024/05/18
+info,date,2024/05/19
+info,date,2024/05/20
+info,event,County Championship
+info,match_number,22
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,PK Baldwin
+info,match_referee,Wayne Noon
+info,winner,Middlesex
+info,winner_wickets,2
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,Zain-ul-Hassan
+info,player,Glamorgan,JAR Harris
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,JP McIlroy
+info,player,Middlesex,SD Robson
+info,player,Middlesex,MD Stoneman
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JL du Plooy
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,ER Bamber
+info,player,Middlesex,TG Helm
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,TS Roland-Jones
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,ER Bamber,948beb1f
+info,registry,people,JAR Harris,f1ba9ed7
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,N Fernandes,01561e94
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SD Robson,76cb1a7f
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TS Roland-Jones,6c6aca89
+info,registry,people,Wayne Noon,736e1761
+info,registry,people,Zain-ul-Hassan,d12cead8

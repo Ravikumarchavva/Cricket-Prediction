@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Otago Volts
+info,gender,male
+info,season,2023/24
+info,date,2024/03/16
+info,date,2024/03/17
+info,date,2024/03/18
+info,event,Plunket Shield
+info,match_number,20
+info,venue,Cello Basin Reserve
+info,city,
+info,toss_winner,Wellington Firebirds
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,TJ Parlane
+info,winner,Wellington Firebirds
+info,winner_innings,1
+info,winner_runs,42
+info,player,Wellington Firebirds,NA Greenwood
+info,player,Wellington Firebirds,TB Robinson
+info,player,Wellington Firebirds,GR Severin
+info,player,Wellington Firebirds,NF Kelly
+info,player,Wellington Firebirds,MA Abbas
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,MG Bracewell
+info,player,Wellington Firebirds,NG Smith
+info,player,Wellington Firebirds,LV van Beek
+info,player,Wellington Firebirds,PF Younghusband
+info,player,Wellington Firebirds,MW Snedden
+info,player,Otago Volts,JM Cumming
+info,player,Otago Volts,TK Parkes
+info,player,Otago Volts,DN Phillips
+info,player,Otago Volts,D Foxcroft
+info,player,Otago Volts,JT Todd
+info,player,Otago Volts,LI Georgeson
+info,player,Otago Volts,MW Chu
+info,player,Otago Volts,BNJ Lockrose
+info,player,Otago Volts,T Muller
+info,player,Otago Volts,ATE Hazeldine
+info,player,Otago Volts,JA Duffy
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,GR Severin,b1549dc0
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JM Cumming,af4c6a6d
+info,registry,people,JT Todd,d8417b91
+info,registry,people,LI Georgeson,6be7b49d
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TK Parkes,343407f3

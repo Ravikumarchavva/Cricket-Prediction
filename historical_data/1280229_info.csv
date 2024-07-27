@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saurashtra
+info,team,Uttar Pradesh
+info,gender,male
+info,season,2021/22
+info,date,2021/11/05
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Gurugram Cricket Ground (SRNCC)
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,field
+info,winner,Saurashtra
+info,winner_runs,2
+info,player,Saurashtra,Himalaya Barad
+info,player,Saurashtra,Vishvaraj Jadeja
+info,player,Saurashtra,SP Jackson
+info,player,Saurashtra,PN Mankad
+info,player,Saurashtra,Arpit Vasavada
+info,player,Saurashtra,Samarth Vyas
+info,player,Saurashtra,JD Unadkat
+info,player,Saurashtra,Chirag Jani
+info,player,Saurashtra,Dharmendrasinh Jadeja
+info,player,Saurashtra,C Sakariya
+info,player,Saurashtra,Parth Bhut
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,Shivam Mavi
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,Shivam Sharma
+info,player,Uttar Pradesh,Abhishek Goswami
+info,player,Uttar Pradesh,Madhav Kaushik
+info,player,Uttar Pradesh,KS Sharma
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,AD Nath
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Abhishek Goswami,53c5c146
+info,registry,people,Arpit Vasavada,2bbab579
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,Chirag Jani,783e6111
+info,registry,people,Dharmendrasinh Jadeja,d330f9b9
+info,registry,people,Himalaya Barad,411cc6c6
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,KS Sharma,39ed0d2f
+info,registry,people,Madhav Kaushik,49110249
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,PN Mankad,663b5e34
+info,registry,people,Parth Bhut,09a3f653
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Samarth Vyas,34819e70
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,Shivam Sharma,982dc390
+info,registry,people,Vishvaraj Jadeja,d30c6f81

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Auckland
+info,gender,female
+info,season,2023/24
+info,date,2024/01/16
+info,event,Women's Super Smash
+info,match_number,25
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Central Districts
+info,toss_decision,bat
+info,player_of_match,PA Chatterji
+info,umpire,Damian Morrow
+info,umpire,TJ Parlane
+info,reserve_umpire,BA O'Brien
+info,tv_umpire,BF Bowden
+info,match_referee,SRM Morris
+info,winner,Central Districts
+info,winner_runs,18
+info,player,Central Districts,HJ Armitage
+info,player,Central Districts,GK Atkinson
+info,player,Central Districts,TMM Newton
+info,player,Central Districts,HM Rowe
+info,player,Central Districts,MJ Greig
+info,player,Central Districts,RA Mair
+info,player,Central Districts,FDM Devonshire
+info,player,Central Districts,KJ Gaging
+info,player,Central Districts,PA Chatterji
+info,player,Central Districts,CL Green
+info,player,Central Districts,Ashtuti Kumar
+info,player,Auckland,S Shahri
+info,player,Auckland,IC Gaze
+info,player,Auckland,ML Green
+info,player,Auckland,P Catton
+info,player,Auckland,BM Halliday
+info,player,Auckland,AS Browning
+info,player,Auckland,JO Penfold
+info,player,Auckland,MM Penfold
+info,player,Auckland,AT Hucker
+info,player,Auckland,FC Jonas
+info,player,Auckland,BG Illing
+info,registry,people,AS Browning,c4c97b51
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,Ashtuti Kumar,8aa62462
+info,registry,people,BA O'Brien,d7fe80b4
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Illing,80a0cd77
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CL Green,0160b1d9
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,FDM Devonshire,c8b0b64c
+info,registry,people,GK Atkinson,add6bd03
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JO Penfold,321ea9e8
+info,registry,people,KJ Gaging,7a759a8a
+info,registry,people,MJ Greig,84c422e3
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,P Catton,22e8ba50
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TMM Newton,93fe473e

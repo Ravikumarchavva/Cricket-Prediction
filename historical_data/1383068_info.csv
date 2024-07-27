@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Jersey
+info,gender,male
+info,season,2023
+info,date,2023/07/20
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,1
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Jersey
+info,toss_decision,field
+info,player_of_match,NA Greenwood
+info,umpire,DH Mclean
+info,umpire,J Jensen
+info,reserve_umpire,R Black
+info,match_referee,Phil Whitticase
+info,winner,Jersey
+info,winner_wickets,8
+info,player,Austria,Iqbal Hossain
+info,player,Austria,M Simpson-Parker
+info,player,Austria,Mirza Ahsan
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,A Randhawa
+info,player,Austria,Shahil Momin
+info,player,Austria,MPS Cheema
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Sahel Zadran
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,A Nathwani
+info,player,Jersey,H Carlyon
+info,player,Jersey,C Brennan
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JW Jenner
+info,player,Jersey,AM Tribe
+info,player,Jersey,B Ward
+info,player,Jersey,JAD Lawrenson
+info,player,Jersey,J Sumerauer
+info,player,Jersey,DG Blampied
+info,player,Jersey,CW Perchard
+info,player,Jersey,EJB Miles
+info,registry,people,A Nathwani,f1c4f2ea
+info,registry,people,A Randhawa,1798078c
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,B Ward,9e0bd203
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,DH Mclean,281d4749
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,Iqbal Hossain,e1824e7d
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JAD Lawrenson,c810b349
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,M Simpson-Parker,fecd828e
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,Mirza Ahsan,6b74c13b
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Black,156c8fb1
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Shahil Momin,46821fbd

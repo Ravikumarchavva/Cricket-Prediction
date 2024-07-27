@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Comilla Victorians
+info,gender,male
+info,season,2022/23
+info,date,2023/01/14
+info,event,Bangladesh Premier League
+info,match_number,11
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Comilla Victorians
+info,toss_decision,field
+info,player_of_match,Shakib Al Hasan
+info,umpire,DJ Millns
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Debabrata Paul
+info,winner,Fortune Barishal
+info,winner_runs,12
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Anamul Haque
+info,player,Fortune Barishal,PC de Silva
+info,player,Fortune Barishal,Shakib Al Hasan
+info,player,Fortune Barishal,Ibrahim Zadran
+info,player,Fortune Barishal,Iftikhar Ahmed
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Karim Janat
+info,player,Fortune Barishal,Kamrul Islam Rabbi
+info,player,Fortune Barishal,Qazi Onik
+info,player,Fortune Barishal,Sunzamul Islam
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,CAK Walton
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,Hasan Ali
+info,player,Comilla Victorians,Nayeem Hasan
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,Tanvir Islam
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,CAK Walton,bbff906c
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Debabrata Paul,a77f51d0
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,Karim Janat,62175638
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Mukidul Islam,a699488a
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,Qazi Onik,0ff20bec
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sunzamul Islam,0f348f58
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanvir Islam,aa467af0

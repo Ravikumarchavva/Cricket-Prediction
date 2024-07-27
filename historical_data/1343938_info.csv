@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,female
+info,season,2022/23
+info,date,2022/12/22
+info,event,England Women tour of West Indies
+info,match_number,5
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,FR Davies
+info,umpire,JM Williams
+info,umpire,PA Gustard
+info,reserve_umpire,N Duguid
+info,winner,England
+info,winner_wickets,8
+info,player,West Indies,HK Matthews
+info,player,West Indies,AA Alleyne
+info,player,West Indies,D Joseph
+info,player,West Indies,RS Williams
+info,player,West Indies,S Gajnabi
+info,player,West Indies,T Holder
+info,player,West Indies,Kyshona A Knight
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,CS Fraser
+info,player,West Indies,SS Grimmond
+info,player,West Indies,K Ramharack
+info,player,England,DN Wyatt
+info,player,England,SIR Dunkley
+info,player,England,NR Sciver
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,AN Davidson-Richards
+info,player,England,ME Bouchier
+info,player,England,S Ecclestone
+info,player,England,CE Dean
+info,player,England,IECM Wong
+info,player,England,FR Davies
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CS Fraser,fb9a8cc3
+info,registry,people,D Joseph,6d7ca3e6
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,FR Davies,2479daa6
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Kyshona A Knight,d85a1960
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,N Duguid,64495506
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,RS Williams,406de451
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SS Grimmond,6bebf334
+info,registry,people,T Holder,41fd2907

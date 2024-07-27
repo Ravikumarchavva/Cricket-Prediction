@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Northern Districts
+info,gender,female
+info,season,2023/24
+info,date,2024/01/26
+info,event,Women's Super Smash
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,Central Districts
+info,toss_decision,bat
+info,player_of_match,HJ Armitage
+info,umpire,CM Brown
+info,umpire,PJ Pasco
+info,reserve_umpire,WR Knights
+info,tv_umpire,Glen Walklin
+info,match_referee,GB Troup
+info,winner,Central Districts
+info,winner_runs,45
+info,player,Central Districts,NC Dodd
+info,player,Central Districts,HJ Armitage
+info,player,Central Districts,TMM Newton
+info,player,Central Districts,HM Rowe
+info,player,Central Districts,MJ Greig
+info,player,Central Districts,GK Atkinson
+info,player,Central Districts,CL Green
+info,player,Central Districts,FDM Devonshire
+info,player,Central Districts,PA Chatterji
+info,player,Central Districts,RA Mair
+info,player,Central Districts,Ashtuti Kumar
+info,player,Northern Districts,JM Watkin
+info,player,Northern Districts,AC Jayangani
+info,player,Northern Districts,CA Gurrey
+info,player,Northern Districts,NH Patel
+info,player,Northern Districts,MBA Lamplough
+info,player,Northern Districts,EAJ Richardson
+info,player,Northern Districts,E Wolland
+info,player,Northern Districts,C Agafili
+info,player,Northern Districts,HE Topp
+info,player,Northern Districts,MW Downes
+info,player,Northern Districts,SR Naidu
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,Ashtuti Kumar,8aa62462
+info,registry,people,C Agafili,b9bb76c8
+info,registry,people,CA Gurrey,1e579ad5
+info,registry,people,CL Green,0160b1d9
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,E Wolland,415c9efb
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,FDM Devonshire,c8b0b64c
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GK Atkinson,add6bd03
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,HE Topp,d9b3ff0a
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,JM Watkin,7239a365
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,MJ Greig,84c422e3
+info,registry,people,MW Downes,d8e8179f
+info,registry,people,NC Dodd,7260e1e9
+info,registry,people,NH Patel,d945db3e
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,SR Naidu,f41d1a02
+info,registry,people,TMM Newton,93fe473e
+info,registry,people,WR Knights,63cbf8d8

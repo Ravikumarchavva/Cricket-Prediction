@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Services
+info,gender,male
+info,season,2018/19
+info,date,2019/02/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Services
+info,toss_decision,field
+info,winner,Services
+info,winner_wickets,7
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Mohit Mongia
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,DJ Hooda
+info,player,Baroda,YK Pathan
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,BA Bhatt
+info,player,Baroda,RT Arothe
+info,player,Baroda,Mitesh Patel
+info,player,Baroda,A Sheth
+info,player,Baroda,LI Meriwala
+info,player,Services,Diwesh Pathania
+info,player,Services,Sachidanand Pandey
+info,player,Services,Mohit Kumar
+info,player,Services,AP Sharma
+info,player,Services,Vikas Yadav
+info,player,Services,Rajat Paliwal
+info,player,Services,Nakul Verma
+info,player,Services,Ravi Chauhan
+info,player,Services,Rahul Singh
+info,player,Services,Vikas Hathwala
+info,player,Services,Mohit Ahlawat
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AP Sharma,12f75dbd
+info,registry,people,BA Bhatt,dc4686e6
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Diwesh Pathania,a63563c0
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Mitesh Patel,ab636882
+info,registry,people,Mohit Ahlawat,791b8fac
+info,registry,people,Mohit Kumar,caabc8e4
+info,registry,people,Mohit Mongia,e5b78474
+info,registry,people,Nakul Verma,38c0d699
+info,registry,people,RT Arothe,50455929
+info,registry,people,Rahul Singh,adf454e9
+info,registry,people,Rajat Paliwal,2fcb040c
+info,registry,people,Ravi Chauhan,f7ce1f24
+info,registry,people,Sachidanand Pandey,f8c7484e
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Vikas Hathwala,904585d1
+info,registry,people,Vikas Yadav,fa73f373
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,YK Pathan,3c6ffae8

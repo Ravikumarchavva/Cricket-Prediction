@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/25
+info,date,2023/06/26
+info,date,2023/06/27
+info,date,2023/06/28
+info,event,County Championship
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,Chris Watts
+info,umpire,JD Shantry
+info,match_referee,Wayne Noon
+info,outcome,draw
+info,player,Durham,MJ Potts
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,SG Borthwick
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,G Clark
+info,player,Durham,L Trevaskis
+info,player,Durham,BA Raine
+info,player,Durham,SJC McAlindon
+info,player,Durham,RL Toole
+info,player,Durham,MW Parkinson
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,E Barnes
+info,player,Leicestershire,MET Salisbury
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,E Barnes,fec369cd
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,MA Jones,05f96194
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MW Parkinson,19708692
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SJC McAlindon,f40d24d9
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,Wayne Noon,736e1761

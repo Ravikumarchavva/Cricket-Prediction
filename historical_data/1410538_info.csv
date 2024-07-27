@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Southern Vipers
+info,gender,female
+info,season,2024
+info,date,2024/06/14
+info,event,Charlotte Edwards Cup
+info,match_number,31
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Northern Diamonds
+info,toss_decision,bat
+info,umpire,BJ Peverall
+info,umpire,WRP Fernando
+info,match_referee,H Pack
+info,winner,Southern Vipers
+info,winner_wickets,5
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,EA Burns
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,R Duckworth
+info,player,Northern Diamonds,S Turner
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,R Slater
+info,player,Southern Vipers,ME Bouchier
+info,player,Southern Vipers,DN Wyatt
+info,player,Southern Vipers,CR Knott
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,FG Kemp
+info,player,Southern Vipers,CE Dean
+info,player,Southern Vipers,GA Elwiss
+info,player,Southern Vipers,R Southby
+info,player,Southern Vipers,FR Davies
+info,player,Southern Vipers,LCN Smith
+info,player,Southern Vipers,LK Bell
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EK Marlow,ac574559
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,FR Davies,2479daa6
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,H Pack,fed53c91
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LK Bell,38b4583c
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,R Duckworth,8122c036
+info,registry,people,R Slater,8a452195
+info,registry,people,R Southby,bbe1525d
+info,registry,people,S Turner,7442f8dd
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,WRP Fernando,7d98d385

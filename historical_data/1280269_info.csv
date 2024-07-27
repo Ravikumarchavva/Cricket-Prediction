@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saurashtra
+info,team,Chandigarh
+info,gender,male
+info,season,2021/22
+info,date,2021/11/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Chaudhry Bansi Lal Cricket Stadium
+info,city,
+info,toss_winner,Saurashtra
+info,toss_decision,bat
+info,winner,Saurashtra
+info,winner_runs,42
+info,player,Saurashtra,Himalaya Barad
+info,player,Saurashtra,Arpit Vasavada
+info,player,Saurashtra,SP Jackson
+info,player,Saurashtra,PN Mankad
+info,player,Saurashtra,Vishvaraj Jadeja
+info,player,Saurashtra,JD Unadkat
+info,player,Saurashtra,C Sakariya
+info,player,Saurashtra,K D Patel
+info,player,Saurashtra,Chirag Jani
+info,player,Saurashtra,Samarth Vyas
+info,player,Saurashtra,Dharmendrasinh Jadeja
+info,player,Chandigarh,Shreshth Nirmohi
+info,player,Chandigarh,Jagjit Singh
+info,player,Chandigarh,Jaskaran Singh
+info,player,Chandigarh,Arpit Pannu
+info,player,Chandigarh,Gurinder Singh
+info,player,Chandigarh,Bhagmender Lather
+info,player,Chandigarh,M Vohra
+info,player,Chandigarh,Shivam Bhambri
+info,player,Chandigarh,Arjit Pannu
+info,player,Chandigarh,Ankit Kaushik
+info,player,Chandigarh,Gaurav Puri
+info,registry,people,Ankit Kaushik,084708eb
+info,registry,people,Arjit Pannu,8281ca53
+info,registry,people,Arpit Pannu,76d0ac27
+info,registry,people,Arpit Vasavada,2bbab579
+info,registry,people,Bhagmender Lather,44cb17b4
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,Chirag Jani,783e6111
+info,registry,people,Dharmendrasinh Jadeja,d330f9b9
+info,registry,people,Gaurav Puri,0834996c
+info,registry,people,Gurinder Singh,911d04ad
+info,registry,people,Himalaya Barad,411cc6c6
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,Jagjit Singh,d221c0cf
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,K D Patel,76cc7070
+info,registry,people,M Vohra,c03e2850
+info,registry,people,PN Mankad,663b5e34
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Samarth Vyas,34819e70
+info,registry,people,Shivam Bhambri,e4bfcaad
+info,registry,people,Shreshth Nirmohi,e7e1eeb2
+info,registry,people,Vishvaraj Jadeja,d30c6f81

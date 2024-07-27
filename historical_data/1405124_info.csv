@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Pakistan
+info,gender,female
+info,season,2023/24
+info,date,2023/11/04
+info,event,Pakistan Women tour of Bangladesh
+info,match_number,1
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Nida Dar
+info,umpire,Masudur Rahman
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Sajedul Islam
+info,tv_umpire,Mohammad Kamruzzaman
+info,match_referee,Neeyamur Rashid
+info,winner,Pakistan
+info,winner_wickets,5
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Sultana Khatun
+info,player,Bangladesh,Marufa Akter
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Najiha Alvi
+info,player,Pakistan,Umm-e-Hani
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Najiha Alvi,faef39c1
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Mostary,94de63bf
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sajedul Islam,0443414a
+info,registry,people,Shamima Sultana,724645f5
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Sultana Khatun,fb0c0bcc
+info,registry,people,Umm-e-Hani,6ee11109

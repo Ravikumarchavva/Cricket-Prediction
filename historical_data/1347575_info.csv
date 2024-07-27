@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Kent
+info,gender,male
+info,season,2023
+info,date,2023/05/26
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Kent
+info,toss_decision,field
+info,player_of_match,SA Abbott
+info,umpire,MJ Saggers
+info,umpire,RJ Bailey
+info,tv_umpire,NJ Llong
+info,match_referee,DA Cosker
+info,winner,Surrey
+info,winner_runs,41
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SM Curran
+info,player,Surrey,TK Curran
+info,player,Surrey,JL Smith
+info,player,Surrey,SA Abbott
+info,player,Surrey,J Clark
+info,player,Surrey,SP Narine
+info,player,Surrey,J Overton
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,TE Lawes
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,GF Linde
+info,player,Kent,JM Cox
+info,player,Kent,SW Billings
+info,player,Kent,JA Leaning
+info,player,Kent,JDM Evison
+info,player,Kent,G Stewart
+info,player,Kent,KW Richardson
+info,player,Kent,MG Hogan
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MG Hogan,5da34add
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,NJ Llong,573fb985
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TE Lawes,fe2ac1a8
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WG Jacks,9caf69a1

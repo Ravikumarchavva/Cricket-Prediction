@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Emirates
+info,team,Desert Vipers
+info,gender,male
+info,season,2022/23
+info,date,2023/01/24
+info,event,International League T20
+info,match_number,15
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Desert Vipers
+info,toss_decision,field
+info,player_of_match,SE Rutherford
+info,umpire,LS Reifer
+info,umpire,Shiju Sam
+info,reserve_umpire,RJ Tucker
+info,tv_umpire,AG Wharf
+info,match_referee,RS Mahanama
+info,winner,Desert Vipers
+info,winner_wickets,7
+info,player,MI Emirates,Waseem Muhammad
+info,player,MI Emirates,V Aravind
+info,player,MI Emirates,ADS Fletcher
+info,player,MI Emirates,N Pooran
+info,player,MI Emirates,KA Pollard
+info,player,MI Emirates,Najibullah Zadran
+info,player,MI Emirates,SR Patel
+info,player,MI Emirates,DJ Bravo
+info,player,MI Emirates,TA Boult
+info,player,MI Emirates,Fazalhaq Farooqi
+info,player,MI Emirates,BTJ Wheal
+info,player,Desert Vipers,Rohan Mustafa
+info,player,Desert Vipers,AD Hales
+info,player,Desert Vipers,C Munro
+info,player,Desert Vipers,SW Billings
+info,player,Desert Vipers,SE Rutherford
+info,player,Desert Vipers,PWH de Silva
+info,player,Desert Vipers,TK Curran
+info,player,Desert Vipers,SS Cottrell
+info,player,Desert Vipers,AAP Atkinson
+info,player,Desert Vipers,Ali Naseer
+info,player,Desert Vipers,M Pathirana
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AD Hales,92aeac25
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,C Munro,af2c687b
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SR Patel,18fac429
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TK Curran,e86754b2
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a

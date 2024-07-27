@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Central Stags
+info,gender,male
+info,season,2023/24
+info,date,2023/11/06
+info,date,2023/11/07
+info,date,2023/11/08
+info,date,2023/11/09
+info,event,Plunket Shield
+info,match_number,9
+info,venue,University of Otago Oval
+info,city,
+info,toss_winner,Otago Volts
+info,toss_decision,field
+info,umpire,SB Haig
+info,umpire,WR Knights
+info,match_referee,RE Hayward
+info,winner,Central Stags
+info,winner_runs,50
+info,player,Otago Volts,LI Georgeson
+info,player,Otago Volts,JM Cumming
+info,player,Otago Volts,DN Phillips
+info,player,Otago Volts,D Foxcroft
+info,player,Otago Volts,TK Parkes
+info,player,Otago Volts,JT Todd
+info,player,Otago Volts,MW Chu
+info,player,Otago Volts,JM Gibson
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,MB Bacon
+info,player,Otago Volts,JD McKay
+info,player,Central Stags,GR Hay
+info,player,Central Stags,JCT Boyle
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,JA Clarkson
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,BG Randell
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,RL Toole
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JD McKay,2767c22a
+info,registry,people,JM Cumming,af4c6a6d
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,JT Todd,d8417b91
+info,registry,people,LI Georgeson,6be7b49d
+info,registry,people,MB Bacon,90701232
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,SB Haig,811655b3
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TK Parkes,343407f3
+info,registry,people,WR Knights,63cbf8d8

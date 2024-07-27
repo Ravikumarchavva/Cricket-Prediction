@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/04/20
+info,date,2023/04/21
+info,date,2023/04/22
+info,event,County Championship
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,field
+info,umpire,James Middlebrook
+info,umpire,M Burns
+info,match_referee,WR Smith
+info,winner,Hampshire
+info,winner_innings,1
+info,winner_runs,270
+info,player,Hampshire,FS Organ
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,JM Vince
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,BC Brown
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,IG Holland
+info,player,Hampshire,KJ Abbott
+info,player,Hampshire,Mohammad Abbas
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,Hassan Azad
+info,player,Northamptonshire,SM Whiteman
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,GK Berg
+info,player,Northamptonshire,CP Tremain
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,CJ White
+info,registry,people,BC Brown,8af86756
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CJ White,5a74e559
+info,registry,people,CP Tremain,96824e68
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,FS Organ,819ae1ad
+info,registry,people,GK Berg,42151725
+info,registry,people,Hassan Azad,b9c7596f
+info,registry,people,IG Holland,4167f30b
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,M Burns,b3bd0666
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,WR Smith,ad962377

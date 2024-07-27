@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Vidarbha
+info,gender,male
+info,season,2019/20
+info,date,2019/11/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Greenfield Stadium
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,bat
+info,winner,Vidarbha
+info,winner_wickets,9
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,Upendra Yadav
+info,player,Uttar Pradesh,Hardeep Singh
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Shubham Chaubey
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,Kuldeep Yadav
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Yash Dayal
+info,player,Vidarbha,SB Wagh
+info,player,Vidarbha,Yash Thakur
+info,player,Vidarbha,DG Nalkande
+info,player,Vidarbha,Akshay Karnewar
+info,player,Vidarbha,Akshay Wakhare
+info,player,Vidarbha,FY Fazal
+info,player,Vidarbha,AV Kolhar
+info,player,Vidarbha,SU Shrivastava
+info,player,Vidarbha,Ganesh Satish
+info,player,Vidarbha,RR Rathod
+info,player,Vidarbha,JM Sharma
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,AV Kolhar,e2b74f6e
+info,registry,people,Akshay Karnewar,e1e7f950
+info,registry,people,Akshay Wakhare,ec9fc54b
+info,registry,people,DG Nalkande,cd8d2859
+info,registry,people,FY Fazal,c15e2193
+info,registry,people,Ganesh Satish,0ed1a112
+info,registry,people,Hardeep Singh,2123d0af
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RR Rathod,3c79f8af
+info,registry,people,SB Wagh,dddca1d6
+info,registry,people,SU Shrivastava,a392328e
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shubham Chaubey,58588e5a
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,Yash Dayal,7210d461
+info,registry,people,Yash Thakur,4b31f3a3

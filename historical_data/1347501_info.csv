@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Sussex
+info,gender,male
+info,season,2023
+info,date,2023/08/04
+info,event,One-Day Cup
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,ID Blackwell
+info,umpire,PD Nicholls
+info,match_referee,SG Hinks
+info,winner,Durham
+info,winner_runs,132
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,DG Bedingham
+info,player,Durham,BS McKinney
+info,player,Durham,M Pretorius
+info,player,Durham,MA Jones
+info,player,Durham,L Trevaskis
+info,player,Durham,P Coughlin
+info,player,Durham,JJ Bushnell
+info,player,Durham,GS Drissell
+info,player,Durham,OJ Gibson
+info,player,Sussex,TP Alsop
+info,player,Sussex,TJ Haines
+info,player,Sussex,CA Pujara
+info,player,Sussex,JM Coles
+info,player,Sussex,TGR Clark
+info,player,Sussex,OJ Carter
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,JJ Carson
+info,player,Sussex,HT Crocombe
+info,player,Sussex,BJ Currie
+info,player,Sussex,ST Finn
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BS McKinney,1db6e336
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GS Drissell,9a089b15
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JJ Bushnell,2ca9cf48
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MA Jones,05f96194
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,OJ Gibson,fbdec8c0
+info,registry,people,P Coughlin,71440756
+info,registry,people,PD Nicholls,5ad84c35
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,ST Finn,ccdd8308
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1

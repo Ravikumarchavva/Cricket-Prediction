@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Munster Reds
+info,team,Leinster Lightning
+info,gender,male
+info,season,2023
+info,date,2023/08/01
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,13
+info,venue,"Pembroke Cricket Club, Sandymount, Dublin"
+info,city,Dublin
+info,toss_winner,Leinster Lightning
+info,toss_decision,field
+info,player_of_match,R Mudford
+info,umpire,Aidan Seaver
+info,umpire,PA Reynolds
+info,match_referee,W Clarke
+info,winner,Leinster Lightning
+info,winner_wickets,6
+info,player,Munster Reds,PJ Moor
+info,player,Munster Reds,M Commins
+info,player,Munster Reds,NJ McGuire
+info,player,Munster Reds,AR Frost
+info,player,Munster Reds,TE Kane
+info,player,Munster Reds,M Ford
+info,player,Munster Reds,C Egerton
+info,player,Munster Reds,L McCarthy
+info,player,Munster Reds,J Manley
+info,player,Munster Reds,B White
+info,player,Munster Reds,M Frost
+info,player,Leinster Lightning,TH Tector
+info,player,Leinster Lightning,Simi Singh
+info,player,Leinster Lightning,R Mudford
+info,player,Leinster Lightning,M Donegan
+info,player,Leinster Lightning,GH Dockrell
+info,player,Leinster Lightning,SJ Harbinson
+info,player,Leinster Lightning,F Hand
+info,player,Leinster Lightning,DC Delany
+info,player,Leinster Lightning,M O'Reilly
+info,player,Leinster Lightning,A Sidhu
+info,player,Leinster Lightning,S Lynch
+info,registry,people,A Sidhu,69b1224b
+info,registry,people,AR Frost,a7750ab4
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,B White,1a448be0
+info,registry,people,C Egerton,055328c3
+info,registry,people,DC Delany,0f9c9d1d
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,J Manley,05f85159
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,M Commins,c537cf4d
+info,registry,people,M Donegan,84cf842e
+info,registry,people,M Ford,4fd0c3a6
+info,registry,people,M Frost,96d56d32
+info,registry,people,M O'Reilly,b89ac0fd
+info,registry,people,NJ McGuire,f8748f79
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,R Mudford,6fe62d00
+info,registry,people,S Lynch,5ffe6225
+info,registry,people,SJ Harbinson,ccc17282
+info,registry,people,Simi Singh,c9945bdf
+info,registry,people,TE Kane,af28816c
+info,registry,people,TH Tector,0348f9a5
+info,registry,people,W Clarke,7d76b96f

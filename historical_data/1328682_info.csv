@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Canterbury
+info,gender,male
+info,season,2022/23
+info,date,2022/10/26
+info,date,2022/10/27
+info,date,2022/10/28
+info,event,Plunket Shield
+info,match_number,6
+info,venue,Cello Basin Reserve
+info,city,
+info,toss_winner,Wellington Firebirds
+info,toss_decision,field
+info,umpire,C Black
+info,umpire,SB Haig
+info,match_referee,K Pulley
+info,winner,Canterbury
+info,winner_runs,290
+info,player,Wellington Firebirds,LI Georgeson
+info,player,Wellington Firebirds,R Ravindra
+info,player,Wellington Firebirds,TM Johnson
+info,player,Wellington Firebirds,NF Kelly
+info,player,Wellington Firebirds,TB Robinson
+info,player,Wellington Firebirds,JJNP Bhula
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,OR Newton
+info,player,Wellington Firebirds,BV Sears
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,MW Snedden
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,SB Davey
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,W O'Rourke
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,BV Sears,e1891e00
+info,registry,people,C Black,75b42f71
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JJNP Bhula,698fd649
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,LI Georgeson,6be7b49d
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,OR Newton,4e520f6c
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SB Davey,f45cd5c8
+info,registry,people,SB Haig,811655b3
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TM Johnson,917f66da
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,ZGF Foulkes,30f92334

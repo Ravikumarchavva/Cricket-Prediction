@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Maharashtra
+info,gender,male
+info,season,2019/20
+info,date,2019/11/15
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Cricket Stadium, Sector-16"
+info,city,
+info,toss_winner,Himachal
+info,toss_decision,bat
+info,winner,Maharashtra
+info,winner_wickets,8
+info,player,Himachal,Abhimanyu Rana
+info,player,Himachal,P Chopra
+info,player,Himachal,EC Sen
+info,player,Himachal,AR Kumar
+info,player,Himachal,R Dhawan
+info,player,Himachal,AKS Bains
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,N A Sharma
+info,player,Himachal,Ayush Jamwal
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,Kanwar Abhinay
+info,player,Maharashtra,SM Kazi
+info,player,Maharashtra,SM Fallah
+info,player,Maharashtra,DR Deshmukh
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,Yash Nahar
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,NS Naik
+info,registry,people,AKS Bains,cb932841
+info,registry,people,AR Kumar,d1f63ad5
+info,registry,people,Abhimanyu Rana,c224c5ef
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,DR Deshmukh,ddc7a53d
+info,registry,people,EC Sen,8a0ae9da
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,Kanwar Abhinay,7c2e7c17
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,R Dhawan,26a85969
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SM Kazi,868e3639
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Yash Nahar,487f5721

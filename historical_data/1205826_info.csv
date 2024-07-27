@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Arunachal Pradesh
+info,team,Chandigarh
+info,gender,male
+info,season,2019/20
+info,date,2019/11/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Cricket Stadium, Sector-16"
+info,city,
+info,toss_winner,Arunachal Pradesh
+info,toss_decision,bat
+info,winner,Chandigarh
+info,winner_wickets,10
+info,player,Arunachal Pradesh,Akhilesh Sahani
+info,player,Arunachal Pradesh,Shashwat Kohli
+info,player,Arunachal Pradesh,Suraj Tayam
+info,player,Arunachal Pradesh,Samarth Seth
+info,player,Arunachal Pradesh,Rahul Dalal
+info,player,Arunachal Pradesh,Uvais Ahmad
+info,player,Arunachal Pradesh,Song Tacho
+info,player,Arunachal Pradesh,Techi Neri
+info,player,Arunachal Pradesh,Kengo Bam
+info,player,Arunachal Pradesh,Karkir Taye
+info,player,Arunachal Pradesh,Licha Tehi
+info,player,Chandigarh,Shreshth Nirmohi
+info,player,Chandigarh,Jaskaran Singh
+info,player,Chandigarh,Bipul Sharma
+info,player,Chandigarh,Anirudh Kanwar
+info,player,Chandigarh,Karanveer Singh
+info,player,Chandigarh,Gaurav Gambhir
+info,player,Chandigarh,M Vohra
+info,player,Chandigarh,Shivam Bhambri
+info,player,Chandigarh,Ankit Kaushik
+info,player,Chandigarh,Jaskaranvir Singh Sohi
+info,player,Chandigarh,Kunal Mahajan
+info,registry,people,Akhilesh Sahani,d6ac52e8
+info,registry,people,Anirudh Kanwar,6c8e4b0a
+info,registry,people,Ankit Kaushik,084708eb
+info,registry,people,Bipul Sharma,c18496e1
+info,registry,people,Gaurav Gambhir,242a9261
+info,registry,people,Gaurav Puri,0834996c
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,Jaskaranvir Singh Sohi,a030bba8
+info,registry,people,Karanveer Singh,1647bd37
+info,registry,people,Karkir Taye,dfbd203a
+info,registry,people,Kengo Bam,dd55932d
+info,registry,people,Kunal Mahajan,b83ef011
+info,registry,people,Licha Tehi,4b6cc6c2
+info,registry,people,M Vohra,c03e2850
+info,registry,people,Rahul Dalal,802fdccf
+info,registry,people,Samarth Seth,9fe56f2b
+info,registry,people,Shashwat Kohli,f782103d
+info,registry,people,Shivam Bhambri,e4bfcaad
+info,registry,people,Shreshth Nirmohi,e7e1eeb2
+info,registry,people,Song Tacho,128d1861
+info,registry,people,Suraj Tayam,6827210b
+info,registry,people,Techi Neri,d3885f28
+info,registry,people,Uvais Ahmad,c9d6f9f2

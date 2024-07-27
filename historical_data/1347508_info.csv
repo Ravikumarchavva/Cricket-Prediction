@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/08/06
+info,event,One-Day Cup
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,JC Tredwell
+info,umpire,Mansoor Qureshi
+info,match_referee,WR Smith
+info,winner,Glamorgan
+info,winner_wickets,7
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MJ Lamb
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,N Potts
+info,player,Derbyshire,RAS Lakmal
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,AJ Horton
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,HW Podmore
+info,player,Glamorgan,JP McIlroy
+info,player,Glamorgan,BJ Morris
+info,registry,people,AJ Horton,cdc3e595
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,BJ Morris,5a18ed8b
+info,registry,people,CA Ingram,c995d726
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,HW Podmore,43205dad
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JC Tredwell,49b6c09f
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MJ Lamb,463ebce3
+info,registry,people,Mansoor Qureshi,e3273ac2
+info,registry,people,N Potts,37b12633
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,S Conners,067bda18
+info,registry,people,TA Wood,884f72a1
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,WR Smith,ad962377
+info,registry,people,WT Root,72898514

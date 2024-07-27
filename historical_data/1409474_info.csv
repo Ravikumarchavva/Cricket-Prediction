@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Canterbury
+info,gender,male
+info,season,2023/24
+info,date,2023/12/19
+info,event,Super Smash
+info,match_number,1
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,player_of_match,DK Ferns
+info,umpire,Damian Morrow
+info,umpire,WR Knights
+info,reserve_umpire,VC Calabro
+info,tv_umpire,Glen Walklin
+info,match_referee,SRM Morris
+info,winner,Auckland
+info,winner_runs,27
+info,player,Auckland,FH Allen
+info,player,Auckland,MJ Guptill
+info,player,Auckland,SM Solia
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,JDS Neesham
+info,player,Auckland,CD Fletcher
+info,player,Auckland,RD Harrison
+info,player,Auckland,DK Ferns
+info,player,Auckland,L Delport
+info,player,Auckland,NS Perera
+info,player,Auckland,BG Lister
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,MWT Boyle
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,MJG Rippon
+info,player,Canterbury,BJ Jacobs
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,MD Rae
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,FH Allen,bf74b130
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MWT Boyle,b42d5053
+info,registry,people,NS Perera,94fb837c
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,VC Calabro,1f9404f3
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,ZGF Foulkes,30f92334

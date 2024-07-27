@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,B-Love Kandy
+info,team,Galle Titans
+info,gender,male
+info,season,2023
+info,date,2023/08/19
+info,event,Lanka Premier League
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,B-Love Kandy
+info,toss_decision,bat
+info,player_of_match,PWH de Silva
+info,umpire,Aleem Dar
+info,umpire,RR Wimalasiri
+info,reserve_umpire,LE Hannibal
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,GF Labrooy
+info,winner,B-Love Kandy
+info,winner_runs,34
+info,player,B-Love Kandy,Mohammad Haris
+info,player,B-Love Kandy,PTM Dabare
+info,player,B-Love Kandy,LD Chandimal
+info,player,B-Love Kandy,SSD Arachchige
+info,player,B-Love Kandy,PWH de Silva
+info,player,B-Love Kandy,AD Mathews
+info,player,B-Love Kandy,Asif Ali
+info,player,B-Love Kandy,PC de Silva
+info,player,B-Love Kandy,LD Madushanka
+info,player,B-Love Kandy,Mohammad Hasnain
+info,player,B-Love Kandy,Mujeeb Ur Rahman
+info,player,Galle Titans,Liton Das
+info,player,Galle Titans,L Croospulle
+info,player,Galle Titans,S de Livera
+info,player,Galle Titans,Shakib Al Hasan
+info,player,Galle Titans,GS Dinusha
+info,player,Galle Titans,MD Shanaka
+info,player,Galle Titans,Najibullah Zadran
+info,player,Galle Titans,S Prasanna
+info,player,Galle Titans,CAK Rajitha
+info,player,Galle Titans,CBRLS Kumara
+info,player,Galle Titans,T Shamsi
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,GS Dinusha,4bbfddd5
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LD Madushanka,de063a39
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,PTM Dabare,a97fbc2c
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,S de Livera,77708937
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Shamsi,a03bba42

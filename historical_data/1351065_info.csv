@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chattogram Challengers
+info,team,Comilla Victorians
+info,gender,male
+info,season,2022/23
+info,date,2023/01/16
+info,event,Bangladesh Premier League
+info,match_number,14
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Chattogram Challengers
+info,toss_decision,bat
+info,player_of_match,Liton Das
+info,umpire,Ali Arman
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,Raqibul Hasan
+info,winner,Comilla Victorians
+info,winner_wickets,6
+info,player,Chattogram Challengers,Usman Khan
+info,player,Chattogram Challengers,MP O'Dowd
+info,player,Chattogram Challengers,Afif Hossain
+info,player,Chattogram Challengers,Irfan Sukkur
+info,player,Chattogram Challengers,Darwish Rasooli
+info,player,Chattogram Challengers,Ziaur Rahman
+info,player,Chattogram Challengers,Shuvagata Hom
+info,player,Chattogram Challengers,Mrittunjoy Chowdhury
+info,player,Chattogram Challengers,Mehedi Hasan Rana
+info,player,Chattogram Challengers,Nihaduzzaman
+info,player,Chattogram Challengers,PM Pushpakumara
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,J Charles
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,Abu Hider
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Mukidul Islam
+info,player,Comilla Victorians,Hasan Ali
+info,registry,people,Abu Hider,31803fac
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Darwish Rasooli,3b2114a5
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Irfan Sukkur,3cc7dd5f
+info,registry,people,J Charles,09a9d073
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,Mehedi Hasan Rana,0b7363da
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Mrittunjoy Chowdhury,21b97584
+info,registry,people,Mukidul Islam,a699488a
+info,registry,people,Nihaduzzaman,eca6dcb2
+info,registry,people,PM Pushpakumara,b529630e
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Ziaur Rahman,c27518d2

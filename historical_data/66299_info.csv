@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,England
+info,gender,male
+info,season,2003
+info,date,2003/07/06
+info,event,NatWest Series
+info,match_number,7
+info,venue,"The Royal & Sun Alliance County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,A Flintoff
+info,umpire,BF Bowden
+info,umpire,NA Mallender
+info,tv_umpire,JW Lloyds
+info,match_referee,CH Lloyd
+info,winner,England
+info,winner_wickets,6
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,CK Coventry
+info,player,Zimbabwe,TJ Friend
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,S Matsikenyeri
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,DT Hondo
+info,player,England,ME Trescothick
+info,player,England,VS Solanki
+info,player,England,RL Johnson
+info,player,England,MP Vaughan
+info,player,England,A McGrath
+info,player,England,A Flintoff
+info,player,England,R Clarke
+info,player,England,JM Anderson
+info,player,England,CMW Read
+info,player,England,SJ Harmison
+info,player,England,D Gough
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,A McGrath,e8b5ea8d
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CK Coventry,a21ea40c
+info,registry,people,CMW Read,be4cefab
+info,registry,people,D Gough,fcbf5a30
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Streak,37f501d7
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,R Clarke,8728a058
+info,registry,people,RL Johnson,3967930c
+info,registry,people,RW Price,67af6f81
+info,registry,people,S Matsikenyeri,e7ba1233
+info,registry,people,SJ Harmison,c16d2e28
+info,registry,people,SM Ervine,556302a7
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f
+info,registry,people,VS Solanki,7ee2ce62

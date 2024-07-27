@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Auckland
+info,gender,male
+info,season,2022/23
+info,date,2022/12/29
+info,event,Super Smash
+info,match_number,6
+info,venue,"John Davies Oval, Queenstown"
+info,city,Queenstown
+info,toss_winner,Auckland
+info,toss_decision,field
+info,umpire,Eloise Sheridan
+info,umpire,Kim Cotton
+info,reserve_umpire,JT Blunt
+info,tv_umpire,SB Haig
+info,match_referee,SRM Morris
+info,winner,Otago
+info,winner_runs,37
+info,player,Otago,HD Rutherford
+info,player,Otago,TK Parkes
+info,player,Otago,D Foxcroft
+info,player,Otago,JL Finnie
+info,player,Otago,MJG Rippon
+info,player,Otago,LC Johnson
+info,player,Otago,JM Gibson
+info,player,Otago,ATE Hazeldine
+info,player,Otago,MD Rae
+info,player,Otago,BNJ Lockrose
+info,player,Otago,MB Bacon
+info,player,Auckland,GH Worker
+info,player,Auckland,MP O'Dowd
+info,player,Auckland,MS Chapman
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,SM Solia
+info,player,Auckland,BJ Horne
+info,player,Auckland,A Ashok
+info,player,Auckland,L Delport
+info,player,Auckland,LH Ferguson
+info,player,Auckland,BG Lister
+info,registry,people,A Ashok,321be7e3
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MB Bacon,90701232
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SB Haig,811655b3
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,TK Parkes,343407f3
+info,registry,people,WT O'Donnell,730b57de

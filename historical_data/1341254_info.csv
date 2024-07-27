@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Wellington
+info,gender,female
+info,season,2022/23
+info,date,2023/02/05
+info,event,Women's Super Smash
+info,match_number,29
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,Auckland
+info,toss_decision,bat
+info,umpire,JM Dempsey
+info,umpire,WR Knights
+info,reserve_umpire,Tyron Davies
+info,tv_umpire,C Black
+info,match_referee,K Pulley
+info,winner,Auckland
+info,winner_runs,44
+info,player,Auckland,S Shahri
+info,player,Auckland,AS Browning
+info,player,Auckland,BG Armstrong
+info,player,Auckland,P Catton
+info,player,Auckland,IC Gaze
+info,player,Auckland,SE Bowden
+info,player,Auckland,HR Huddleston
+info,player,Auckland,KT Perkins
+info,player,Auckland,AT Hucker
+info,player,Auckland,JO Penfold
+info,player,Auckland,AJ Parr-Thomson
+info,player,Wellington,RM Burns
+info,player,Wellington,JT McFadyen
+info,player,Wellington,CR Knott
+info,player,Wellington,LM Kasperek
+info,player,Wellington,L Harris
+info,player,Wellington,CR King
+info,player,Wellington,KM Chandler
+info,player,Wellington,OA Boivin
+info,player,Wellington,XA Jetly
+info,player,Wellington,N Baird
+info,player,Wellington,MP Singh
+info,registry,people,AJ Parr-Thomson,6a28ef18
+info,registry,people,AS Browning,c4c97b51
+info,registry,people,AT Hucker,9b554bb9
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,C Black,75b42f71
+info,registry,people,CR King,dd639a8c
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,HR Huddleston,8d6b36e3
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JO Penfold,321ea9e8
+info,registry,people,JT McFadyen,7072542f
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,KM Chandler,32221cdb
+info,registry,people,KT Perkins,78ad3258
+info,registry,people,L Harris,36e2dc83
+info,registry,people,LM Kasperek,9b73d523
+info,registry,people,MP Singh,214115f5
+info,registry,people,N Baird,c0380823
+info,registry,people,OA Boivin,f5a175e4
+info,registry,people,P Catton,22e8ba50
+info,registry,people,RM Burns,94fe4708
+info,registry,people,S Shahri,c28355cd
+info,registry,people,SE Bowden,e2a71375
+info,registry,people,Tyron Davies,6ec463f4
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,XA Jetly,57a49987

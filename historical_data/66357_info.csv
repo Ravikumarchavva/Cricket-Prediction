@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Sri Lanka
+info,gender,male
+info,season,2003
+info,date,2003/05/10
+info,event,Bank Alfalah Cup
+info,match_number,1
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,Mohammad Hafeez
+info,umpire,PT Manuel
+info,umpire,SJA Taufel
+info,tv_umpire,MG Silva
+info,match_referee,GR Viswanath
+info,winner,Pakistan
+info,winner_runs,79
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Shoaib Akhtar
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Umar Gul
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,RS Kaluwitharana
+info,player,Sri Lanka,KS Lokuarachchi
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,K Weeraratne
+info,player,Sri Lanka,RAP Nissanka
+info,player,Sri Lanka,M Muralitharan
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,GR Viswanath,9333bc07
+info,registry,people,K Weeraratne,7e38d2de
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KS Lokuarachchi,3b50c63a
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MG Silva,0f22d07b
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,PT Manuel,3a1373fd
+info,registry,people,RAP Nissanka,6cc006ef
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,RS Kaluwitharana,dff967c1
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,WPUJC Vaas,bcce309e
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

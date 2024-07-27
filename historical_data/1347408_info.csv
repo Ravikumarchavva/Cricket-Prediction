@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,Western Storm
+info,gender,female
+info,season,2023
+info,date,2023/04/29
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,6
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Thunder
+info,toss_decision,bat
+info,umpire,AY Harris
+info,umpire,PK Baldwin
+info,match_referee,H Pack
+info,winner,Western Storm
+info,winner_wickets,6
+info,player,Thunder,EL Lamb
+info,player,Thunder,ND Dattani
+info,player,Thunder,FMK Morris
+info,player,Thunder,E Threlkeld
+info,player,Thunder,DJS Dottin
+info,player,Thunder,DL Collins
+info,player,Thunder,L Heap
+info,player,Thunder,TG Norris
+info,player,Thunder,M Gaur
+info,player,Thunder,Olivia Thomas
+info,player,Thunder,A Hartley
+info,player,Western Storm,A Griffiths
+info,player,Western Storm,E Corney
+info,player,Western Storm,O Prendergast
+info,player,Western Storm,FC Wilson
+info,player,Western Storm,DR Gibson
+info,player,Western Storm,NAJ Wraith
+info,player,Western Storm,N Holland
+info,player,Western Storm,Sophia Smale
+info,player,Western Storm,L Filer
+info,player,Western Storm,C Skelton
+info,player,Western Storm,C Nicholas
+info,registry,people,A Griffiths,091001f8
+info,registry,people,A Hartley,53d50717
+info,registry,people,AY Harris,90d95b82
+info,registry,people,C Nicholas,efc40724
+info,registry,people,C Skelton,db362015
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DL Collins,246ba42c
+info,registry,people,DR Gibson,d2763568
+info,registry,people,E Corney,2406424c
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,H Pack,fed53c91
+info,registry,people,L Filer,31adb911
+info,registry,people,L Heap,8d26dfab
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,N Holland,aefd0567
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,Olivia Thomas,dbdec8e0
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,Sophia Smale,c296dba1
+info,registry,people,TG Norris,8ae7bb3e

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Sri Lanka
+info,gender,male
+info,season,2002/03
+info,date,2003/02/19
+info,event,ICC World Cup
+info,match_number,18
+info,venue,"Boland Bank Park, Paarl"
+info,city,Paarl
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,RAP Nissanka
+info,umpire,DR Shepherd
+info,umpire,NA Mallender
+info,tv_umpire,KC Barbour
+info,match_referee,Wasim Raja
+info,winner,Sri Lanka
+info,winner_wickets,9
+info,player,Canada,DR Chumney
+info,player,Canada,JM Davison
+info,player,Canada,AF Sattaur
+info,player,Canada,IS Billcliff
+info,player,Canada,NA de Groot
+info,player,Canada,JV Harris
+info,player,Canada,I Maraj
+info,player,Canada,A Bagai
+info,player,Canada,S Thuraisingam
+info,player,Canada,A Codrington
+info,player,Canada,BB Seebaran
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,PA de Silva
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,RAP Nissanka
+info,registry,people,A Bagai,112959b2
+info,registry,people,A Codrington,9cb022df
+info,registry,people,AF Sattaur,ca4db40e
+info,registry,people,BB Seebaran,fc54ef7a
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DR Chumney,1f3ad23f
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,I Maraj,2d783277
+info,registry,people,IS Billcliff,1fb2f362
+info,registry,people,JM Davison,5471024e
+info,registry,people,JV Harris,d1ac815a
+info,registry,people,KC Barbour,4359f89a
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NA de Groot,15d1b59e
+info,registry,people,PA de Silva,34ff9e07
+info,registry,people,RAP Nissanka,6cc006ef
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,S Thuraisingam,28ed9134
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,WPUJC Vaas,bcce309e
+info,registry,people,Wasim Raja,d8bce357

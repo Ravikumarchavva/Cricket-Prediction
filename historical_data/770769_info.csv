@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Otago Volts
+info,gender,male
+info,season,2014/15
+info,date,2014/12/11
+info,date,2014/12/12
+info,date,2014/12/13
+info,date,2014/12/14
+info,event,Plunket Shield
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,Otago Volts
+info,toss_decision,field
+info,umpire,CM Brown
+info,umpire,WR Knights
+info,match_referee,GC Morris
+info,winner,Northern Districts
+info,winner_runs,27
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,BS Wilson
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,GW Aldridge
+info,player,Northern Districts,JD Baker
+info,player,Otago Volts,AJ Redmond
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,MG Bracewell
+info,player,Otago Volts,RM Duffy
+info,player,Otago Volts,BP Rodden
+info,player,Otago Volts,DC de Boorder
+info,player,Otago Volts,MD Craig
+info,player,Otago Volts,N Wagner
+info,player,Otago Volts,BE Scott
+info,player,Otago Volts,MD Rae
+info,player,Otago Volts,JA Duffy
+info,registry,people,AJ Redmond,48f177f5
+info,registry,people,B Popli,848487cf
+info,registry,people,BE Scott,ddc89deb
+info,registry,people,BP Rodden,cece48c0
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DC de Boorder,bf573bfd
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,GC Morris,66a9b90f
+info,registry,people,GW Aldridge,42a05795
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,MD Craig,c8574282
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,N Wagner,78adc879
+info,registry,people,RM Duffy,37fa7ef6
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WR Knights,63cbf8d8

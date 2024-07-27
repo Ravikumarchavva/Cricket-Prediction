@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Galle Titans
+info,team,Dambulla Aura
+info,gender,male
+info,season,2023
+info,date,2023/08/17
+info,event,Lanka Premier League
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Dambulla Aura
+info,toss_decision,field
+info,player_of_match,BKG Mendis
+info,umpire,BCN Amarasinghe
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,IC Soysa
+info,tv_umpire,RR Wimalasiri
+info,match_referee,WC Labrooy
+info,winner,Dambulla Aura
+info,winner_wickets,6
+info,player,Galle Titans,PBB Rajapaksa
+info,player,Galle Titans,L Croospulle
+info,player,Galle Titans,Liton Das
+info,player,Galle Titans,Shakib Al Hasan
+info,player,Galle Titans,MD Shanaka
+info,player,Galle Titans,Najibullah Zadran
+info,player,Galle Titans,SMLD Samarakoon
+info,player,Galle Titans,S Prasanna
+info,player,Galle Titans,CBRLS Kumara
+info,player,Galle Titans,CAK Rajitha
+info,player,Galle Titans,T Shamsi
+info,player,Dambulla Aura,WIA Fernando
+info,player,Dambulla Aura,BKG Mendis
+info,player,Dambulla Aura,S Samarawickrama
+info,player,Dambulla Aura,MDKJ Perera
+info,player,Dambulla Aura,DM de Silva
+info,player,Dambulla Aura,AI Ross
+info,player,Dambulla Aura,H Kerr
+info,player,Dambulla Aura,B Fernando
+info,player,Dambulla Aura,MADI Hemantha
+info,player,Dambulla Aura,Hasan Ali
+info,player,Dambulla Aura,Noor Ahmad
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,H Kerr,f422728b
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,IC Soysa,717a7971
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SMLD Samarakoon,d28f4d1c
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,WIA Fernando,9550470d

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Durham
+info,gender,male
+info,season,2023
+info,date,2023/09/03
+info,date,2023/09/04
+info,date,2023/09/05
+info,date,2023/09/06
+info,event,County Championship
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,JD Shantry
+info,umpire,MA Gough
+info,match_referee,WR Smith
+info,winner,Durham
+info,winner_wickets,7
+info,player,Sussex,TGR Clark
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,CA Pujara
+info,player,Sussex,JM Coles
+info,player,Sussex,OJ Carter
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,JJ Carson
+info,player,Sussex,A Karvelas
+info,player,Sussex,JD Unadkat
+info,player,Sussex,HT Crocombe
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,SG Borthwick
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,G Clark
+info,player,Durham,BFW de Leede
+info,player,Durham,BA Raine
+info,player,Durham,MJ Potts
+info,player,Durham,GS Drissell
+info,player,Durham,MW Parkinson
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GS Drissell,9a089b15
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MW Parkinson,19708692
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,WR Smith,ad962377

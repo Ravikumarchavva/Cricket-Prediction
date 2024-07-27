@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,female
+info,season,2002/03
+info,date,2003/02/22
+info,date,2003/02/23
+info,date,2003/02/24
+info,date,2003/02/25
+info,event,England Women tour of Australia
+info,match_number,2
+info,venue,"Bankstown Oval, Sydney"
+info,city,Sydney
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,LC Pearson
+info,umpire,NSD Fowler
+info,umpire,SA Reed
+info,outcome,draw
+info,player,Australia,BJ Clark
+info,player,Australia,KL Britt
+info,player,Australia,KL Rolton
+info,player,Australia,M Jones
+info,player,Australia,LC Sthalekar
+info,player,Australia,AJ Blackwell
+info,player,Australia,J Hayes
+info,player,Australia,CL Fitzpatrick
+info,player,Australia,JC Price
+info,player,Australia,TA McGregor
+info,player,Australia,E Liddell
+info,player,England,SV Collyer
+info,player,England,KM Leng
+info,player,England,CM Edwards
+info,player,England,A Brindle
+info,player,England,LS Greenway
+info,player,England,SC Taylor
+info,player,England,CJ Connor
+info,player,England,LK Newton
+info,player,England,LJ Harper
+info,player,England,CE Taylor
+info,player,England,LC Pearson
+info,registry,people,A Brindle,053dc208
+info,registry,people,AJ Blackwell,b9164a9b
+info,registry,people,BJ Clark,124b57a7
+info,registry,people,CE Taylor,8d80ca6b
+info,registry,people,CJ Connor,c221d283
+info,registry,people,CL Fitzpatrick,5fd92ea2
+info,registry,people,CM Edwards,d4188b60
+info,registry,people,E Liddell,544f562f
+info,registry,people,J Hayes,d50b2de4
+info,registry,people,JC Price,67f02e87
+info,registry,people,KL Britt,b9e15440
+info,registry,people,KL Rolton,9306c803
+info,registry,people,KM Leng,efc28987
+info,registry,people,LC Pearson,b4a45b8c
+info,registry,people,LC Sthalekar,6bb7a785
+info,registry,people,LJ Harper,28754255
+info,registry,people,LK Newton,01fcf20f
+info,registry,people,LS Greenway,923b0e02
+info,registry,people,M Jones,4ca281f6
+info,registry,people,NSD Fowler,b62fea0b
+info,registry,people,SA Reed,aa1b54b8
+info,registry,people,SC Taylor,33b6b1b3
+info,registry,people,SV Collyer,41f8d757
+info,registry,people,TA McGregor,eae637a4

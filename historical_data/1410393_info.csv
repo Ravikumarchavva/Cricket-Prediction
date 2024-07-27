@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2024
+info,date,2024/06/07
+info,event,Vitality Blast
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,SJ O'Shaughnessy
+info,match_referee,JJ Whitaker
+info,winner,Derbyshire
+info,winner_runs,96
+info,player,Derbyshire,DL Lloyd
+info,player,Derbyshire,AHT Donald
+info,player,Derbyshire,CD Fletcher
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,SR Patel
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,RA Whiteley
+info,player,Derbyshire,MD Wagstaff
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,PR Brown
+info,player,Derbyshire,DM Dupavillon
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,JPH Hayes
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,DY Pennington
+info,player,Nottinghamshire,BG Lister
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AHT Donald,72918338
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CG Harrison,f655d740
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JPH Hayes,b8529e99
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MD Wagstaff,0a396666
+info,registry,people,OP Stone,3f659464
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SR Patel,18fac429
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367

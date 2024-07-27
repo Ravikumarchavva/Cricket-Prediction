@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,female
+info,season,2022/23
+info,date,2022/12/09
+info,event,England Women tour of West Indies
+info,match_number,3
+info,venue,"Sir Vivian Richards Stadium, North Sound, Antigua"
+info,city,North Sound
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,NR Sciver
+info,umpire,JM Williams
+info,umpire,N Duguid
+info,reserve_umpire,LS Reifer
+info,match_referee,Denavon Hayles
+info,winner,England
+info,winner_runs,151
+info,player,England,EL Lamb
+info,player,England,TT Beaumont
+info,player,England,SIR Dunkley
+info,player,England,NR Sciver
+info,player,England,AN Davidson-Richards
+info,player,England,DN Wyatt
+info,player,England,AE Jones
+info,player,England,S Ecclestone
+info,player,England,CE Dean
+info,player,England,KL Cross
+info,player,England,FR Davies
+info,player,West Indies,HK Matthews
+info,player,West Indies,AA Alleyne
+info,player,West Indies,Kycia A Knight
+info,player,West Indies,RS Williams
+info,player,West Indies,Kyshona A Knight
+info,player,West Indies,SA Campbelle
+info,player,West Indies,CN Nation
+info,player,West Indies,CA Henry
+info,player,West Indies,CS Fraser
+info,player,West Indies,K Schultz
+info,player,West Indies,SC Selman
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,CA Henry,75820733
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CN Nation,639000b6
+info,registry,people,CS Fraser,fb9a8cc3
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FR Davies,2479daa6
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,K Schultz,6900060d
+info,registry,people,KL Cross,1ade138e
+info,registry,people,Kycia A Knight,552f664a
+info,registry,people,Kyshona A Knight,d85a1960
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,N Duguid,64495506
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,RS Williams,406de451
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SC Selman,c29ada99
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,TT Beaumont,b2664905

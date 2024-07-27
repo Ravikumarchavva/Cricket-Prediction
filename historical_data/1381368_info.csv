@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,San Francisco Unicorns
+info,team,Los Angeles Knight Riders
+info,gender,male
+info,season,2023
+info,date,2023/07/18
+info,event,Major League Cricket
+info,match_number,8
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,San Francisco Unicorns
+info,toss_decision,bat
+info,player_of_match,MS Wade
+info,umpire,Aleem Dar
+info,umpire,R Samuels
+info,reserve_umpire,O Brown
+info,tv_umpire,BV Taylor
+info,match_referee,Reon King
+info,winner,San Francisco Unicorns
+info,winner_runs,21
+info,player,San Francisco Unicorns,MS Wade
+info,player,San Francisco Unicorns,FH Allen
+info,player,San Francisco Unicorns,MP Stoinis
+info,player,San Francisco Unicorns,Shadab Khan
+info,player,San Francisco Unicorns,CJ Anderson
+info,player,San Francisco Unicorns,AJ Finch
+info,player,San Francisco Unicorns,Tajinder Singh
+info,player,San Francisco Unicorns,Chaitanya Bishnoi
+info,player,San Francisco Unicorns,C le Roux
+info,player,San Francisco Unicorns,Haris Rauf
+info,player,San Francisco Unicorns,LE Plunkett
+info,player,Los Angeles Knight Riders,JJ Roy
+info,player,Los Angeles Knight Riders,UBT Chand
+info,player,Los Angeles Knight Riders,NR Kumar
+info,player,Los Angeles Knight Riders,RR Rossouw
+info,player,Los Angeles Knight Riders,JS Malhotra
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,CA Dry
+info,player,Los Angeles Knight Riders,A Zampa
+info,player,Los Angeles Knight Riders,Ali Khan
+info,player,Los Angeles Knight Riders,SH Johnson
+info,registry,people,A Zampa,14f96089
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BV Taylor,99760152
+info,registry,people,C le Roux,7a490dec
+info,registry,people,CA Dry,7bc29ffb
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,Chaitanya Bishnoi,e793a8ed
+info,registry,people,FH Allen,bf74b130
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JS Malhotra,9633359f
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,O Brown,22fe51d7
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Tajinder Singh,f9d99806
+info,registry,people,UBT Chand,0c94f480

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Namibia
+info,gender,male
+info,season,2002/03
+info,date,2003/02/16
+info,event,ICC World Cup
+info,match_number,14
+info,venue,"De Beers Diamond Oval, Kimberley"
+info,city,Kimberley
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Wasim Akram
+info,umpire,DL Orchard
+info,umpire,NA Mallender
+info,tv_umpire,SJA Taufel
+info,match_referee,DT Lindsay
+info,winner,Pakistan
+info,winner_runs,171
+info,player,Pakistan,Saeed Anwar
+info,player,Pakistan,Saleem Elahi
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Wasim Akram
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Waqar Younis
+info,player,Pakistan,Saqlain Mushtaq
+info,player,Pakistan,Shoaib Akhtar
+info,player,Namibia,R Walters
+info,player,Namibia,SJ Swanepoel
+info,player,Namibia,AJ Burger
+info,player,Namibia,D Keulder
+info,player,Namibia,GB Murgatroyd
+info,player,Namibia,LJ Burger
+info,player,Namibia,DB Kotze
+info,player,Namibia,G Snyman
+info,player,Namibia,M van Schoor
+info,player,Namibia,BL Kotze
+info,player,Namibia,RJ van Vuuren
+info,registry,people,AJ Burger,4347a4ae
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BL Kotze,540ffb25
+info,registry,people,D Keulder,34c823b0
+info,registry,people,DB Kotze,5ee47383
+info,registry,people,DL Orchard,a7df1d20
+info,registry,people,DT Lindsay,a6a32a61
+info,registry,people,G Snyman,5af592d2
+info,registry,people,GB Murgatroyd,18356eb3
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,LJ Burger,6f4d314b
+info,registry,people,M van Schoor,74bd2653
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,R Walters,d32a4a41
+info,registry,people,RJ van Vuuren,0882b3f1
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,SJ Swanepoel,31e31116
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Saeed Anwar,0aa14354
+info,registry,people,Saleem Elahi,1e7b1aa7
+info,registry,people,Saqlain Mushtaq,047c67ba
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Waqar Younis,d8906a73
+info,registry,people,Wasim Akram,126e56a1
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

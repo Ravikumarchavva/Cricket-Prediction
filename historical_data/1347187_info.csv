@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/07/19
+info,date,2023/07/20
+info,date,2023/07/21
+info,event,County Championship
+info,venue,Oakham School Ground
+info,city,Oakham
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,NL Bainton
+info,match_referee,JJ Swift
+info,winner,Worcestershire
+info,winner_runs,100
+info,player,Worcestershire,JC Tongue
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,Azhar Ali
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,J Leach
+info,player,Worcestershire,JO Baker
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,DY Pennington
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,MET Salisbury
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,GH Roderick,7081848a
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Leach,cd143bca
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JC Tongue,1f1b4c89
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JO Baker,52c442e4
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RI Walker,c78a879c
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,TAR Scriven,ac3c3cab

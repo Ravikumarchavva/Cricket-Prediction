@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Nepal
+info,gender,male
+info,season,2022/23
+info,date,2022/11/18
+info,event,United Arab Emirates tour of Nepal
+info,match_number,3
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,Aasif Sheikh
+info,umpire,BB Pradhan
+info,umpire,Masudur Rahman
+info,reserve_umpire,VK Jha
+info,tv_umpire,DN Subedi
+info,match_referee,GF Labrooy
+info,winner,Nepal
+info,winner_wickets,6
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,CP Rizwan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,V Sukumaran
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Ahmed Raza
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Hazrat Bilal
+info,player,Nepal,A Saud
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,G Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,H Shah
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,LN Rajbanshi
+info,registry,people,A Saud,94b8d7dd
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ahmed Raza,79b4839e
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,CP Rizwan,e5309baa
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,DS Airee,1747ea18
+info,registry,people,G Malla,b2e1d224
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,H Shah,afb3b840
+info,registry,people,Hazrat Bilal,bfaf461d
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,V Aravind,cddafe26
+info,registry,people,V Sukumaran,5eb51b97
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

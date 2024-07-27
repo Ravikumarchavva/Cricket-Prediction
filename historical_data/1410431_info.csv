@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Kent
+info,gender,male
+info,season,2024
+info,date,2024/06/20
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,Chris Watts
+info,umpire,NL Bainton
+info,match_referee,AM Smith
+info,winner,Sussex
+info,winner_runs,31
+info,player,Sussex,HD Ward
+info,player,Sussex,DP Hughes
+info,player,Sussex,JM Coles
+info,player,Sussex,JA Simpson
+info,player,Sussex,TP Alsop
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,OE Robinson
+info,player,Sussex,AC Lenham
+info,player,Sussex,TS Mills
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,MK O'Riordan
+info,player,Kent,SW Billings
+info,player,Kent,JDM Evison
+info,player,Kent,TS Muyeye
+info,player,Kent,HZ Finch
+info,player,Kent,B Swanepoel
+info,player,Kent,XC Bartlett
+info,player,Kent,G Stewart
+info,player,Kent,MW Parkinson
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Stewart,a77472dc
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,HZ Finch,6b16f8ba
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,MW Parkinson,19708692
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,Z Crawley,922e1b19

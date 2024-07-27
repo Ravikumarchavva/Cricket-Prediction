@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2023
+info,date,2023/07/06
+info,date,2023/07/07
+info,date,2023/07/08
+info,date,2023/07/09
+info,event,The Ashes
+info,match_number,3
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,MA Wood
+info,umpire,HDPK Dharmasena
+info,umpire,Nitin Menon
+info,reserve_umpire,M Burns
+info,tv_umpire,JS Wilson
+info,match_referee,RS Madugalle
+info,winner,England
+info,winner_wickets,3
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,MR Marsh
+info,player,Australia,AT Carey
+info,player,Australia,MA Starc
+info,player,Australia,PJ Cummins
+info,player,Australia,T Murphy
+info,player,Australia,SM Boland
+info,player,England,Z Crawley
+info,player,England,BM Duckett
+info,player,England,HC Brook
+info,player,England,JE Root
+info,player,England,JM Bairstow
+info,player,England,BA Stokes
+info,player,England,MM Ali
+info,player,England,CR Woakes
+info,player,England,MA Wood
+info,player,England,SCJ Broad
+info,player,England,OE Robinson
+info,registry,people,AT Carey,69d03465
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Boland,d167edd3
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,T Murphy,ac2e7ec0
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,Z Crawley,922e1b19

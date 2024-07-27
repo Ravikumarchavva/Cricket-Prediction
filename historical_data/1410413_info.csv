@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Sussex
+info,gender,male
+info,season,2024
+info,date,2024/06/14
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,Chris Watts
+info,umpire,DJ Millns
+info,match_referee,SJ Davis
+info,winner,Sussex
+info,winner_wickets,8
+info,player,Essex,AM Rossington
+info,player,Essex,D Elgar
+info,player,Essex,MS Pepper
+info,player,Essex,JM Cox
+info,player,Essex,PI Walter
+info,player,Essex,DR Sams
+info,player,Essex,MJJ Critchley
+info,player,Essex,LM Benkenstein
+info,player,Essex,S Snater
+info,player,Essex,BMJ Allison
+info,player,Essex,Aaron Beard
+info,player,Sussex,HD Ward
+info,player,Sussex,DP Hughes
+info,player,Sussex,JA Simpson
+info,player,Sussex,JM Coles
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,TP Alsop
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,OE Robinson
+info,player,Sussex,TS Mills
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,PI Walter,57590dbb
+info,registry,people,S Snater,a790df98
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb

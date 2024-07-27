@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Worcestershire
+info,gender,male
+info,season,2024
+info,date,2024/07/05
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,S Widdup
+info,umpire,SJ O'Shaughnessy
+info,match_referee,WR Smith
+info,winner,Durham
+info,winner_runs,22
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,OG Robinson
+info,player,Durham,CN Ackermann
+info,player,Durham,AJ Turner
+info,player,Durham,BFW de Leede
+info,player,Durham,MA Jones
+info,player,Durham,BJ Dwarshuis
+info,player,Durham,BA Raine
+info,player,Durham,CF Parkinson
+info,player,Durham,NA Sowter
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,JJ Cobb
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,AW Finch
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AW Finch,fc63d916
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WR Smith,ad962377

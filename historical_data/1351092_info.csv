@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Rangpur Riders
+info,gender,male
+info,season,2022/23
+info,date,2023/02/10
+info,event,Bangladesh Premier League
+info,match_number,41
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Rangpur Riders
+info,toss_decision,field
+info,player_of_match,Tanvir Islam
+info,umpire,Mahfuzur Rahman
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Showkatur Rahman
+info,winner,Comilla Victorians
+info,winner_runs,70
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,SP Narine
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,AD Russell
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,Mukidul Islam
+info,player,Rangpur Riders,Mohammad Naim
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Rahmanullah Gurbaz
+info,player,Rangpur Riders,T Kohler-Cadmore
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Azmatullah Omarzai
+info,player,Rangpur Riders,Rakibul Hasan
+info,player,Rangpur Riders,R Mondol
+info,player,Rangpur Riders,Naveen-ul-Haq
+info,player,Rangpur Riders,Hasan Mahmud
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Mukidul Islam,a699488a
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,R Mondol,492ff0c2
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Showkatur Rahman,5340a1c1
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanvir Islam,aa467af0

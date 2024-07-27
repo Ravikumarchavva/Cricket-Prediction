@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Washington Freedom
+info,team,Seattle Orcas
+info,gender,male
+info,season,2023
+info,date,2023/07/14
+info,event,Major League Cricket
+info,match_number,3
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,Seattle Orcas
+info,toss_decision,field
+info,player_of_match,Imad Wasim
+info,umpire,R Samuels
+info,umpire,WR Knights
+info,reserve_umpire,Jermaine Lindo
+info,tv_umpire,P Wilson
+info,match_referee,SJA Taufel
+info,winner,Seattle Orcas
+info,winner_wickets,5
+info,player,Washington Freedom,MW Short
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,GD Phillips
+info,player,Washington Freedom,MC Henriques
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,M Jansen
+info,player,Washington Freedom,AJ Hosein
+info,player,Washington Freedom,DL Piedt
+info,player,Washington Freedom,A Nortje
+info,player,Washington Freedom,SN Netravalkar
+info,player,Seattle Orcas,Q de Kock
+info,player,Seattle Orcas,Nauman Anwar
+info,player,Seattle Orcas,GSNFG Jayasuriya
+info,player,Seattle Orcas,H Klaasen
+info,player,Seattle Orcas,Imad Wasim
+info,player,Seattle Orcas,SO Hetmyer
+info,player,Seattle Orcas,Shubham Ranjane
+info,player,Seattle Orcas,CJ Gannon
+info,player,Seattle Orcas,WD Parnell
+info,player,Seattle Orcas,Harmeet Singh
+info,player,Seattle Orcas,AJ Tye
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GSNFG Jayasuriya,b58b7db6
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,Nauman Anwar,d0540390
+info,registry,people,P Wilson,68304a36
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WR Knights,63cbf8d8

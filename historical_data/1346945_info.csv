@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sharjah Warriors
+info,team,Gulf Giants
+info,gender,male
+info,season,2022/23
+info,date,2023/02/06
+info,event,International League T20
+info,match_number,30
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Gulf Giants
+info,toss_decision,field
+info,player_of_match,D Wiese
+info,umpire,Akbar Ali
+info,umpire,MJ Saggers
+info,reserve_umpire,SJA Taufel
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,RS Mahanama
+info,winner,Gulf Giants
+info,winner_wickets,7
+info,player,Sharjah Warriors,Rahmanullah Gurbaz
+info,player,Sharjah Warriors,T Kohler-Cadmore
+info,player,Sharjah Warriors,MM Ali
+info,player,Sharjah Warriors,E Lewis
+info,player,Sharjah Warriors,MP Stoinis
+info,player,Sharjah Warriors,JL Denly
+info,player,Sharjah Warriors,Mohammad Nabi
+info,player,Sharjah Warriors,CR Woakes
+info,player,Sharjah Warriors,Noor Ahmad
+info,player,Sharjah Warriors,Junaid Siddique
+info,player,Sharjah Warriors,Muhammad Jawadullah
+info,player,Gulf Giants,T Banton
+info,player,Gulf Giants,JM Vince
+info,player,Gulf Giants,C de Grandhomme
+info,player,Gulf Giants,Aayan Afzal Khan
+info,player,Gulf Giants,MG Erasmus
+info,player,Gulf Giants,D Wiese
+info,player,Gulf Giants,CR Brathwaite
+info,player,Gulf Giants,DC Drakes
+info,player,Gulf Giants,TG Helm
+info,player,Gulf Giants,SM Sharma
+info,player,Gulf Giants,Qais Ahmad
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TG Helm,74a274cc

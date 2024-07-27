@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Railways
+info,team,Gujarat
+info,gender,male
+info,season,2023/24
+info,date,2023/10/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Gujarat
+info,toss_decision,field
+info,umpire,PM Joshi
+info,umpire,Vinod Seshan
+info,match_referee,DS Manohar
+info,winner,Gujarat
+info,winner_wickets,8
+info,player,Railways,Shivam Chaudhary
+info,player,Railways,Pratham Singh
+info,player,Railways,N Kushwah
+info,player,Railways,Mohammad Saif
+info,player,Railways,Upendra Yadav
+info,player,Railways,Vivek Singh
+info,player,Railways,Ashutosh Sharma
+info,player,Railways,AR Pandey
+info,player,Railways,KV Sharma
+info,player,Railways,Yuvraj Singh
+info,player,Railways,Akash Pandey
+info,player,Railways,RA Sharma
+info,player,Gujarat,Aarya Desai
+info,player,Gujarat,Urvil Patel
+info,player,Gujarat,UR Kumar
+info,player,Gujarat,Saurav Chauhan
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,AR Patel
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,Chintan Gaja
+info,player,Gujarat,A Nagwaswalla
+info,player,Gujarat,Ravi Bishnoi
+info,player,Gujarat,SN Patel
+info,registry,people,A Nagwaswalla,01ada0ed
+info,registry,people,AR Pandey,dd73b2ff
+info,registry,people,AR Patel,2e171977
+info,registry,people,Aarya Desai,8053c798
+info,registry,people,Akash Pandey,f691e227
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,Chintan Gaja,63bfb5fc
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,KV Sharma,119678fd
+info,registry,people,Mohammad Saif,2843d331
+info,registry,people,N Kushwah,87b9786b
+info,registry,people,PM Joshi,0dcc9a8c
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,RA Sharma,691d15fb
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SN Patel,f0f0f668
+info,registry,people,Saurav Chauhan,9e7225b0
+info,registry,people,Shivam Chaudhary,e53af640
+info,registry,people,UR Kumar,2fda74a2
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,Vinod Seshan,a3357a27
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,Yuvraj Singh,30829ea2

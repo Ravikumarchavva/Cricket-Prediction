@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Northern Districts
+info,gender,male
+info,season,2019/20
+info,date,2019/11/08
+info,date,2019/11/09
+info,date,2019/11/10
+info,date,2019/11/11
+info,event,Plunket Shield
+info,venue,University of Otago Oval
+info,city,
+info,toss_winner,Northern Districts
+info,toss_decision,bat
+info,umpire,JAK Bromley
+info,umpire,JM Dempsey
+info,match_referee,GAV Baxter
+info,outcome,draw
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,DN Phillips
+info,player,Otago Volts,D Foxcroft
+info,player,Otago Volts,AK Kitchen
+info,player,Otago Volts,NF Kelly
+info,player,Otago Volts,M Renwick
+info,player,Otago Volts,MJG Rippon
+info,player,Otago Volts,NG Smith
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,MB Bacon
+info,player,Otago Volts,MD Rae
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,BG Randell
+info,player,Northern Districts,N Wagner
+info,player,Northern Districts,JD Baker
+info,player,Northern Districts,ZN Gibson
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,B Popli,848487cf
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BJ Watling,928670cc
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JAK Bromley,ccf7baaf
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JG Walker,94734e80
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MB Bacon,90701232
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,N Wagner,78adc879
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,ZN Gibson,eec5fe00

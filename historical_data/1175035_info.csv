@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jharkhand
+info,team,Bengal
+info,gender,male
+info,season,2018/19
+info,date,2019/03/10
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Holkar Stadium
+info,city,
+info,toss_winner,Bengal
+info,toss_decision,field
+info,winner,Bengal
+info,winner_wickets,8
+info,player,Jharkhand,Anand Singh
+info,player,Jharkhand,IR Jaggi
+info,player,Jharkhand,Virat Singh
+info,player,Jharkhand,SS Tiwary
+info,player,Jharkhand,Kumar Deobrat
+info,player,Jharkhand,AS Roy
+info,player,Jharkhand,Nazim Siddiqui
+info,player,Jharkhand,Utkarsh Singh
+info,player,Jharkhand,Vikash Singh
+info,player,Jharkhand,R Shukla
+info,player,Jharkhand,VR Aaron
+info,player,Bengal,AB Dinda
+info,player,Bengal,Akash Deep
+info,player,Bengal,Ayan Bhattacharjee
+info,player,Bengal,Sayan Ghosh
+info,player,Bengal,Shahbaz Ahmed
+info,player,Bengal,Writtick Chatterjee
+info,player,Bengal,SP Goswami
+info,player,Bengal,WP Saha
+info,player,Bengal,MK Tiwary
+info,player,Bengal,AR Easwaran
+info,player,Bengal,Vivek Singh
+info,registry,people,AB Dinda,66b30f71
+info,registry,people,AR Easwaran,10b58586
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Anand Singh,d2550980
+info,registry,people,Ayan Bhattacharjee,bae68b09
+info,registry,people,IR Jaggi,dded65e7
+info,registry,people,Kumar Deobrat,bc6d8229
+info,registry,people,MK Tiwary,26e5cabf
+info,registry,people,Nazim Siddiqui,88a4a356
+info,registry,people,R Shukla,de4b0555
+info,registry,people,SP Goswami,541f85c9
+info,registry,people,SS Tiwary,709b0bac
+info,registry,people,Sayan Ghosh,d4b8ea98
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Utkarsh Singh,b2a55ac1
+info,registry,people,VR Aaron,0a3d54b9
+info,registry,people,Vikash Singh,8b018008
+info,registry,people,Virat Singh,26d76ad9
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,Writtick Chatterjee,a00e1842

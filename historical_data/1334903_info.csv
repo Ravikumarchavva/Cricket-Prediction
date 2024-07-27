@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Knights
+info,team,Lions
+info,gender,male
+info,season,2022/23
+info,date,2022/10/23
+info,event,CSA T20 Challenge
+info,match_number,13
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Lions
+info,toss_decision,field
+info,umpire,AM Sodumo
+info,umpire,A Paleker
+info,reserve_umpire,MN Gampu
+info,tv_umpire,A Steenkamp
+info,match_referee,ZTA Ndamane
+info,outcome,no result
+info,player,Knights,GL Cloete
+info,player,Knights,N Roux
+info,player,Knights,R van Tonder
+info,player,Knights,AR Swanepoel
+info,player,Knights,PE Kruger
+info,player,Knights,PJ van Biljon
+info,player,Knights,M Pretorius
+info,player,Knights,G Coetzee
+info,player,Knights,SA Mothoa
+info,player,Knights,M Budaza
+info,player,Knights,M Mhlanga
+info,player,Lions,CS Delport
+info,player,Lions,RD Rickelton
+info,player,Lions,DA Hendricks
+info,player,Lions,M Van Buuren
+info,player,Lions,PWA Mulder
+info,player,Lions,M Manack
+info,player,Lions,E Jones
+info,player,Lions,MP Siboto
+info,player,Lions,T Bokako
+info,player,Lions,L Sipamla
+info,player,Lions,TM Maphaka
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,DA Hendricks,f66f5343
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,M Budaza,1d105638
+info,registry,people,M Manack,2cd3b457
+info,registry,people,M Mhlanga,9ea3dd1a
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MN Gampu,41597619
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,N Roux,6744364f
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,SA Mothoa,ea1eba98
+info,registry,people,T Bokako,032e4384
+info,registry,people,TM Maphaka,595f565e
+info,registry,people,ZTA Ndamane,545cc6db

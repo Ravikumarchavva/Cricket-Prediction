@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,male
+info,season,2023/24
+info,date,2024/02/23
+info,date,2024/02/24
+info,date,2024/02/25
+info,date,2024/02/26
+info,event,England tour of India
+info,match_number,4
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,Dhruv Jurel
+info,umpire,HDPK Dharmasena
+info,umpire,RJ Tucker
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,JS Wilson
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_wickets,5
+info,player,England,Z Crawley
+info,player,England,BM Duckett
+info,player,England,OJ Pope
+info,player,England,JE Root
+info,player,England,JM Bairstow
+info,player,England,BA Stokes
+info,player,England,BT Foakes
+info,player,England,TW Hartley
+info,player,England,OE Robinson
+info,player,England,Shoaib Bashir
+info,player,England,JM Anderson
+info,player,India,YBK Jaiswal
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,RM Patidar
+info,player,India,RA Jadeja
+info,player,India,SN Khan
+info,player,India,Dhruv Jurel
+info,player,India,R Ashwin
+info,player,India,Kuldeep Yadav
+info,player,India,Akash Deep
+info,player,India,Mohammed Siraj
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,BT Foakes,fd770945
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,SN Khan,f088b960
+info,registry,people,Shoaib Bashir,e36e9dd3
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,Z Crawley,922e1b19

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Essex
+info,gender,male
+info,season,2024
+info,date,2024/06/23
+info,date,2024/06/24
+info,date,2024/06/25
+info,date,2024/06/26
+info,event,County Championship
+info,match_number,36
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,MJ Saggers
+info,umpire,PR Pollard
+info,match_referee,SG Hinks
+info,outcome,draw
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,SG Borthwick
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,CN Ackermann
+info,player,Durham,BFW de Leede
+info,player,Durham,BA Raine
+info,player,Durham,MJ Potts
+info,player,Durham,CF Parkinson
+info,player,Durham,PM Siddle
+info,player,Essex,NLJ Browne
+info,player,Essex,D Elgar
+info,player,Essex,T Westley
+info,player,Essex,JM Cox
+info,player,Essex,MJJ Critchley
+info,player,Essex,PI Walter
+info,player,Essex,MS Pepper
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,E Bosch
+info,player,Essex,JA Porter
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,NLJ Browne,81efec30
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,S Snater,a790df98
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Westley,25a42048

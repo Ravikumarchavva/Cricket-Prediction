@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Manchester Originals
+info,team,London Spirit
+info,gender,male
+info,season,2023
+info,date,2023/08/05
+info,event,The Hundred Men's Competition
+info,match_number,6
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,London Spirit
+info,toss_decision,field
+info,umpire,GD Lloyd
+info,umpire,SJ O'Shaughnessy
+info,reserve_umpire,Naeem Ashraf
+info,tv_umpire,S Redfern
+info,match_referee,DA Cosker
+info,outcome,no result
+info,player,Manchester Originals,PD Salt
+info,player,Manchester Originals,JC Buttler
+info,player,Manchester Originals,MDE Holden
+info,player,Manchester Originals,LJ Evans
+info,player,Manchester Originals,PI Walter
+info,player,Manchester Originals,AJ Turner
+info,player,Manchester Originals,J Overton
+info,player,Manchester Originals,Usama Mir
+info,player,Manchester Originals,TW Hartley
+info,player,Manchester Originals,J Little
+info,player,Manchester Originals,RJ Gleeson
+info,player,London Spirit,AM Rossington
+info,player,London Spirit,Z Crawley
+info,player,London Spirit,DW Lawrence
+info,player,London Spirit,MS Wade
+info,player,London Spirit,DJ Mitchell
+info,player,London Spirit,RS Bopara
+info,player,London Spirit,MJJ Critchley
+info,player,London Spirit,JA Thompson
+info,player,London Spirit,LA Dawson
+info,player,London Spirit,NT Ellis
+info,player,London Spirit,DJ Worrall
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,J Little,9061a703
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JC Buttler,99b75528
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Redfern,5b038989
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Z Crawley,922e1b19

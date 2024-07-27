@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Quetta Gladiators
+info,gender,male
+info,season,2023/24
+info,date,2024/03/08
+info,event,Pakistan Super League
+info,match_number,25
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Quetta Gladiators
+info,toss_decision,field
+info,player_of_match,Saim Ayub
+info,umpire,AG Wharf
+info,umpire,Asif Yaqoob
+info,reserve_umpire,Mohammad Asif
+info,tv_umpire,Ahsan Raza
+info,match_referee,RS Mahanama
+info,winner,Peshawar Zalmi
+info,winner_runs,76
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,Haseebullah Khan
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,Aamer Jamal
+info,player,Peshawar Zalmi,Mehran Mumtaz
+info,player,Peshawar Zalmi,L Wood
+info,player,Peshawar Zalmi,Naveen-ul-Haq
+info,player,Peshawar Zalmi,Khurram Shahzad
+info,player,Quetta Gladiators,JJ Roy
+info,player,Quetta Gladiators,Saud Shakeel
+info,player,Quetta Gladiators,RR Rossouw
+info,player,Quetta Gladiators,Khawaja Nafay
+info,player,Quetta Gladiators,Omair Yousuf
+info,player,Quetta Gladiators,LJ Evans
+info,player,Quetta Gladiators,AJ Hosein
+info,player,Quetta Gladiators,Sohail Khan
+info,player,Quetta Gladiators,Mohammad Amir
+info,player,Quetta Gladiators,Mohammad Hasnain
+info,player,Quetta Gladiators,Abrar Ahmed
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,Haseebullah Khan,5691931a
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,Khawaja Nafay,3cf54e77
+info,registry,people,Khurram Shahzad,1daf3f74
+info,registry,people,L Wood,65b6943c
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,Mehran Mumtaz,373838de
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,b7b6790a
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Omair Yousuf,f8e3c0f8
+info,registry,people,R Powell,650d5e49
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Sohail Khan,5af743d0
+info,registry,people,T Kohler-Cadmore,f836b33d

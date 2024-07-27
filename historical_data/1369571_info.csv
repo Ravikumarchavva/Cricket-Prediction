@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jamaica Tallawahs
+info,team,Barbados Royals
+info,gender,male
+info,season,2023
+info,date,2023/08/31
+info,event,Caribbean Premier League
+info,match_number,14
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,Barbados Royals
+info,toss_decision,field
+info,player_of_match,A Athanaze
+info,umpire,DK Butler
+info,umpire,LS Reifer
+info,reserve_umpire,CO Wright
+info,tv_umpire,N Duguid
+info,match_referee,Reon King
+info,winner,Barbados Royals
+info,winner_wickets,6
+info,player,Jamaica Tallawahs,BA King
+info,player,Jamaica Tallawahs,AD Hales
+info,player,Jamaica Tallawahs,KSA McKenzie
+info,player,Jamaica Tallawahs,SSJ Brooks
+info,player,Jamaica Tallawahs,RA Reifer
+info,player,Jamaica Tallawahs,Imad Wasim
+info,player,Jamaica Tallawahs,FA Allen
+info,player,Jamaica Tallawahs,CJ Green
+info,player,Jamaica Tallawahs,Mohammad Amir
+info,player,Jamaica Tallawahs,NA Gordon
+info,player,Jamaica Tallawahs,Salman Irshad
+info,player,Barbados Royals,RRS Cornwall
+info,player,Barbados Royals,KR Mayers
+info,player,Barbados Royals,LJ Evans
+info,player,Barbados Royals,A Athanaze
+info,player,Barbados Royals,R Powell
+info,player,Barbados Royals,JO Holder
+info,player,Barbados Royals,RA Clarke
+info,player,Barbados Royals,NRJ Young
+info,player,Barbados Royals,RE van der Merwe
+info,player,Barbados Royals,Qais Ahmad
+info,player,Barbados Royals,OC McCoy
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,AD Hales,92aeac25
+info,registry,people,BA King,7fca84b7
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CO Wright,a541fc41
+info,registry,people,DK Butler,671398e3
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JO Holder,0f721006
+info,registry,people,KR Mayers,73c18486
+info,registry,people,KSA McKenzie,2b8f219a
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,N Duguid,64495506
+info,registry,people,NA Gordon,59377a7f
+info,registry,people,NRJ Young,9cab5daf
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,R Powell,650d5e49
+info,registry,people,RA Clarke,de098678
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RRS Cornwall,c4d9634c
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Salman Irshad,30afc92b

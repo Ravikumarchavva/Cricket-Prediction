@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,One-Day Cup
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Somerset
+info,toss_decision,bat
+info,umpire,BJ Peverall
+info,umpire,ID Blackwell
+info,match_referee,AM Smith (2)
+info,winner,Glamorgan
+info,winner_wickets,2
+info,player,Somerset,GW Thomas
+info,player,Somerset,ARI Umeed
+info,player,Somerset,LP Goldsworthy
+info,player,Somerset,JEK Rew
+info,player,Somerset,SR Dickson
+info,player,Somerset,GA Bartlett
+info,player,Somerset,JF Thomas
+info,player,Somerset,DJ Lamb
+info,player,Somerset,EO Leonard
+info,player,Somerset,JT Langridge
+info,player,Somerset,JA Brooks
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,AJ Horton
+info,player,Glamorgan,Zain-ul-Hassan
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,RAJ Smith
+info,registry,people,AJ Horton,cdc3e595
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,ARI Umeed,7a32c1c1
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,EO Leonard,660538af
+info,registry,people,GA Bartlett,e2caec46
+info,registry,people,GW Thomas,f2e28b0c
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Brooks,8bf61e65
+info,registry,people,JEK Rew,521595e7
+info,registry,people,JF Thomas,bdd4bc21
+info,registry,people,JT Langridge,78795cbc
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,WT Root,72898514
+info,registry,people,Zain-ul-Hassan,d12cead8

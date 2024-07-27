@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,South East Stars
+info,gender,female
+info,season,2023
+info,date,2023/06/04
+info,event,Charlotte Edwards Cup
+info,venue,"Stanley Park, Blackpool"
+info,city,Blackpool
+info,toss_winner,Thunder
+info,toss_decision,bat
+info,umpire,Naeem Ashraf
+info,umpire,N Pratt
+info,match_referee,IL Herbert
+info,winner,Thunder
+info,winner_runs,16
+info,player,Thunder,EL Lamb
+info,player,Thunder,L Heap
+info,player,Thunder,FMK Morris
+info,player,Thunder,DJS Dottin
+info,player,Thunder,E Threlkeld
+info,player,Thunder,ND Dattani
+info,player,Thunder,DL Collins
+info,player,Thunder,KL Cross
+info,player,Thunder,TG Norris
+info,player,Thunder,M Gaur
+info,player,Thunder,O Bell
+info,player,South East Stars,BF Smith
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,K Moore
+info,player,South East Stars,A Stonehouse
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,CAR Cooper
+info,player,South East Stars,D Gregory
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,CAR Cooper,20af5f5f
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,K Moore,d12c8445
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Heap,8d26dfab
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,O Bell,385eac52
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,TG Norris,8ae7bb3e

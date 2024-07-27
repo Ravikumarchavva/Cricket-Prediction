@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jaffna Kings
+info,team,Colombo Stars
+info,gender,male
+info,season,2022/23
+info,date,2022/12/12
+info,event,Lanka Premier League
+info,match_number,10
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Colombo Stars
+info,toss_decision,field
+info,player_of_match,JK Fuller
+info,umpire,GO Brathwaite
+info,umpire,REJ Martinesz
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,WC Labrooy
+info,winner,Jaffna Kings
+info,winner_runs,6
+info,player,Jaffna Kings,Rahmanullah Gurbaz
+info,player,Jaffna Kings,WIA Fernando
+info,player,Jaffna Kings,DA Randika
+info,player,Jaffna Kings,S Samarawickrama
+info,player,Jaffna Kings,Shoaib Malik
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,JK Fuller
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,M Theekshana
+info,player,Jaffna Kings,AM Fernando
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Colombo Stars,N Dickwella
+info,player,Colombo Stars,KNM Fernando
+info,player,Colombo Stars,ND Paranavithana
+info,player,Colombo Stars,LD Chandimal
+info,player,Colombo Stars,KIC Asalanka
+info,player,Colombo Stars,AD Mathews
+info,player,Colombo Stars,S Prasanna
+info,player,Colombo Stars,DC Drakes
+info,player,Colombo Stars,BAC Howell
+info,player,Colombo Stars,CAK Rajitha
+info,player,Colombo Stars,Naveen-ul-Haq
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AM Fernando,de3d549a
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,DA Randika,f6bb92c1
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KNM Fernando,d2a2bb1a
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,ND Paranavithana,4e602f29
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,WIA Fernando,9550470d

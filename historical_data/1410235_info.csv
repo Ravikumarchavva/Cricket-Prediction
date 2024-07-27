@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2024
+info,date,2024/06/30
+info,date,2024/07/01
+info,date,2024/07/02
+info,date,2024/07/03
+info,event,County Championship
+info,match_number,43
+info,venue,"Trafalgar Road Ground, Southport"
+info,city,Southport
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,umpire,MJ Saggers
+info,umpire,Tom Lungley
+info,match_referee,SJ Davis
+info,outcome,draw
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,CJ Green
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,NM Lyon
+info,player,Lancashire,JM Anderson
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,DY Pennington
+info,player,Nottinghamshire,D Paterson
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CJ Green,19b9f399
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,OP Stone,3f659464
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TE Bailey,b9877635
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WSA Williams,861eed37

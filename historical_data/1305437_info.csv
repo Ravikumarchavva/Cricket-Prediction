@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Knights
+info,team,Munster Reds
+info,gender,male
+info,season,2022
+info,date,2022/05/28
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,4
+info,venue,"The Green, Comber"
+info,city,Comber
+info,toss_winner,Munster Reds
+info,toss_decision,field
+info,player_of_match,F Hand
+info,umpire,PD Nicholls
+info,umpire,R Black
+info,match_referee,Philip Thompson
+info,winner,Munster Reds
+info,winner_wickets,3
+info,player,Northern Knights,M Burton
+info,player,Northern Knights,JA McCollum
+info,player,Northern Knights,R Pretorius
+info,player,Northern Knights,JL Lawlor
+info,player,Northern Knights,MR Adair
+info,player,Northern Knights,M Topping
+info,player,Northern Knights,GR Adair
+info,player,Northern Knights,T Mayes
+info,player,Northern Knights,J Manley
+info,player,Northern Knights,B White
+info,player,Northern Knights,MJ Humphreys
+info,player,Munster Reds,M Commins
+info,player,Munster Reds,PJ Moor
+info,player,Munster Reds,GJ Delany
+info,player,Munster Reds,TE Kane
+info,player,Munster Reds,KJ O'Brien
+info,player,Munster Reds,C Campher
+info,player,Munster Reds,M Ford
+info,player,Munster Reds,DC Delany
+info,player,Munster Reds,F Hand
+info,player,Munster Reds,L McCarthy
+info,player,Munster Reds,M Frost
+info,registry,people,B White,1a448be0
+info,registry,people,C Campher,478a63e7
+info,registry,people,DC Delany,0f9c9d1d
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,GR Adair,4ec96094
+info,registry,people,J Manley,05f85159
+info,registry,people,JA McCollum,c7105dab
+info,registry,people,JL Lawlor,a7e20a07
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,M Burton,8558b101
+info,registry,people,M Commins,c537cf4d
+info,registry,people,M Ford,4fd0c3a6
+info,registry,people,M Frost,96d56d32
+info,registry,people,M Topping,33f44dfc
+info,registry,people,MJ Humphreys,2c54c49b
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,PD Nicholls,5ad84c35
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Pretorius,8ff85f5c
+info,registry,people,T Mayes,9aedf23b
+info,registry,people,TE Kane,af28816c

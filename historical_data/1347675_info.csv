@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,NJ Llong
+info,match_referee,Phil Whitticase
+info,winner,Kent
+info,winner_runs,55
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,JM Cox
+info,player,Kent,SW Billings
+info,player,Kent,JA Leaning
+info,player,Kent,GF Linde
+info,player,Kent,G Stewart
+info,player,Kent,WA Agar
+info,player,Kent,JDM Evison
+info,player,Kent,MG Hogan
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,MB Harris
+info,player,Middlesex,TL Greatwood
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MB Harris,0b9a4ad6
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MG Hogan,5da34add
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,NJ Llong,573fb985
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TL Greatwood,12d8efc8
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WA Agar,15de1f5d

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Andhra
+info,team,Puducherry
+info,gender,male
+info,season,2020/21
+info,date,2021/01/15
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Wankhede Stadium
+info,city,
+info,toss_winner,Puducherry
+info,toss_decision,field
+info,winner,Puducherry
+info,winner_wickets,4
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,KS Bharat
+info,player,Andhra,RK Bhui
+info,player,Andhra,AT Rayudu
+info,player,Andhra,Prashanth Kumar
+info,player,Andhra,M Dheeraj Kumar
+info,player,Andhra,SK Ismail
+info,player,Andhra,Harishankar Reddy
+info,player,Andhra,Cheepurapalli Stephen
+info,player,Andhra,K V Sasikanth
+info,player,Andhra,Chintapalli Kranthi Kumar
+info,player,Puducherry,Pankaj Singh
+info,player,Puducherry,Ashith Rajiv
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,Vignesh Kannan
+info,player,Puducherry,Sagar Trivedi
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,S Karthik
+info,player,Puducherry,SP Jackson
+info,player,Puducherry,P Dogra
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Ashith Rajiv,502056e3
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,Cheepurapalli Stephen,48bf9d5c
+info,registry,people,Chintapalli Kranthi Kumar,cc9c8722
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Harishankar Reddy,791c088d
+info,registry,people,K V Sasikanth,bf6e03ea
+info,registry,people,KS Bharat,44a89551
+info,registry,people,M Dheeraj Kumar,ca81c65c
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,Pankaj Singh,e32d22f6
+info,registry,people,Prashanth Kumar,1f0b8f44
+info,registry,people,RK Bhui,b63e358a
+info,registry,people,S Karthik,14c90152
+info,registry,people,SK Ismail,a7367f83
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Sagar Trivedi,8da6dbf1
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Vignesh Kannan,42c5b326

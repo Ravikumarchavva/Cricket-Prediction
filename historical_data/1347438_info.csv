@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Southern Vipers
+info,gender,female
+info,season,2023
+info,date,2023/07/22
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,36
+info,venue,Arundel Castle Cricket Club Ground
+info,city,Arundel
+info,toss_winner,Southern Vipers
+info,toss_decision,field
+info,umpire,AC Harris
+info,umpire,BJ Peverall
+info,match_referee,SM Bartlett
+info,outcome,no result
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,R Duckworth
+info,player,Northern Diamonds,CL Tryon
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,R Slater
+info,player,Northern Diamonds,JA Woolston
+info,player,Southern Vipers,EM McCaughan
+info,player,Southern Vipers,ME Bouchier
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,E Windsor
+info,player,Southern Vipers,FG Kemp
+info,player,Southern Vipers,CE Dean
+info,player,Southern Vipers,M Brown
+info,player,Southern Vipers,LCN Smith
+info,player,Southern Vipers,AZ Monaghan
+info,player,Southern Vipers,R Southby
+info,player,Southern Vipers,MLL Taylor
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,EK Marlow,ac574559
+info,registry,people,EM McCaughan,ed2711ea
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,JA Woolston,c1f3ae44
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,M Brown,78bec461
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,R Duckworth,8122c036
+info,registry,people,R Slater,8a452195
+info,registry,people,R Southby,bbe1525d
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SM Bartlett,7ba18406

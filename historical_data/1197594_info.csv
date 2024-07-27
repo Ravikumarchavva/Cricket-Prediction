@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Canterbury
+info,gender,male
+info,season,2019/20
+info,date,2020/03/10
+info,date,2020/03/11
+info,date,2020/03/12
+info,date,2020/03/13
+info,event,Plunket Shield
+info,venue,Seddon Park
+info,city,
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,JM Dempsey
+info,umpire,WR Knights
+info,match_referee,RA Dykes
+info,winner,Northern Districts
+info,winner_runs,181
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,JCT Boyle
+info,player,Canterbury,SJ Murdoch
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,HB Shipley
+info,player,Canterbury,TF van Woerkom
+info,player,Canterbury,WSA Williams
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,EJ Nuttall
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,N Wagner
+info,player,Northern Districts,JD Baker
+info,registry,people,B Popli,848487cf
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,HB Shipley,5426de63
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JG Walker,94734e80
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,N Wagner,78adc879
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,TF van Woerkom,70f2f922
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,WSA Williams,861eed37

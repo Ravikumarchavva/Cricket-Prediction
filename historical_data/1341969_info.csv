@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Namibia
+info,gender,male
+info,season,2022/23
+info,date,2022/11/19
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,109
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,T Lungameni
+info,umpire,BP Jele
+info,umpire,C Thorburn
+info,reserve_umpire,Claus Schumacher
+info,match_referee,ET Dube
+info,winner,Namibia
+info,winner_wickets,8
+info,player,Papua New Guinea,G Toka
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,CA Soper
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,KV Morea
+info,player,Namibia,L Louwrens
+info,player,Namibia,D la Cock
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JJ Smit
+info,player,Namibia,ZE Green
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,T Lungameni
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Thorburn,904288fe
+info,registry,people,CA Soper,9920dd86
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,D la Cock,48301a4b
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,G Toka,c3564c2d
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,K Doriga,365229a8
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,L Louwrens,b018e1eb
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Vanua,a36915ce
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,S Bau,9a95bebb
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,ZE Green,8716233e

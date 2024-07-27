@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Derbyshire
+info,gender,male
+info,season,2023
+info,date,2023/05/04
+info,date,2023/05/05
+info,date,2023/05/06
+info,date,2023/05/07
+info,event,County Championship
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Derbyshire
+info,toss_decision,field
+info,umpire,BV Taylor
+info,umpire,PR Pollard
+info,match_referee,PM Such
+info,outcome,draw
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,MG Finan
+info,player,Leicestershire,J Hull
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,MJ Lamb
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,HJH Brookes
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,S Conners
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BV Taylor,99760152
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MG Finan,8c9d3000
+info,registry,people,MJ Lamb,463ebce3
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,PM Such,c9f1892c
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,S Conners,067bda18
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367

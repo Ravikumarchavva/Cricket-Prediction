@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Uganda
+info,gender,female
+info,season,2023
+info,date,2023/04/27
+info,event,Women's T20 Quadrangular Series (in Namibia)
+info,match_number,5
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,C Aweko
+info,umpire,E Lassen
+info,umpire,S Loftie-Eaton
+info,reserve_umpire,H Hugo
+info,winner,Uganda
+info,winner_wickets,3
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,YS To
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,EK Hubbard
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,Iqra Sahar
+info,player,Uganda,K Awino
+info,player,Uganda,P Alako
+info,player,Uganda,J Mbabazi
+info,player,Uganda,S Nampiina
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,R Musamali
+info,player,Uganda,PE Kulume
+info,player,Uganda,C Aweko
+info,player,Uganda,E Anyipo
+info,player,Uganda,I Alumo
+info,player,Uganda,S Akiteng
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,EK Hubbard,1486e3fd
+info,registry,people,H Hugo,48f9193f
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,I Alumo,6edd8b10
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,NT Miles,d27d0835
+info,registry,people,P Alako,fcf37e14
+info,registry,people,PE Kulume,bb1a5f8a
+info,registry,people,R Musamali,017cadb2
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Loftie-Eaton,71cc38ef
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,YS To,73db1940

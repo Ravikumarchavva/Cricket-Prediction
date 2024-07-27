@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Canterbury
+info,gender,male
+info,season,2023/24
+info,date,2023/11/15
+info,date,2023/11/16
+info,date,2023/11/17
+info,date,2023/11/18
+info,event,Plunket Shield
+info,match_number,11
+info,venue,McLean Park
+info,city,
+info,toss_winner,Canterbury
+info,toss_decision,bat
+info,umpire,JM Dempsey
+info,umpire,WR Knights
+info,match_referee,GAV Baxter
+info,outcome,draw
+info,player,Central Stags,CG Heaphy
+info,player,Central Stags,JCT Boyle
+info,player,Central Stags,GR Hay
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,JA Clarkson
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,BG Randell
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,RL Toole
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,MWT Boyle
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,MJG Rippon
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,SB Davey
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,W O'Rourke
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CG Heaphy,fcbd6eb8
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Hunter,5ad111e6
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MWT Boyle,b42d5053
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,SB Davey,f45cd5c8
+info,registry,people,W Clark,4f78497c
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,ZGF Foulkes,30f92334

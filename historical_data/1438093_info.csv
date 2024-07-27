@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Czech Republic
+info,team,Croatia
+info,gender,female
+info,season,2024
+info,date,2024/06/15
+info,event,Women Central Europe Cup
+info,match_number,4
+info,venue,"Scott Page Field, Vinor"
+info,city,Prague
+info,toss_winner,Czech Republic
+info,toss_decision,bat
+info,player_of_match,T Kolcunova
+info,umpire,C Tebb
+info,umpire,JA Stiglitz
+info,reserve_umpire,R Lokasani
+info,match_referee,P Sadasivan
+info,winner,Croatia
+info,winner_wickets,9
+info,player,Czech Republic,Z Franova
+info,player,Czech Republic,V Volfova
+info,player,Czech Republic,T Kolcunova
+info,player,Czech Republic,K Tesarikova
+info,player,Czech Republic,A Joshi
+info,player,Czech Republic,J Kominkova
+info,player,Czech Republic,A Kshirsagar
+info,player,Czech Republic,S Kolcunova
+info,player,Czech Republic,E Kuncova
+info,player,Czech Republic,B Pavlinakova
+info,player,Czech Republic,R Mikulaskova
+info,player,Croatia,E Vukusic
+info,player,Croatia,H Leko
+info,player,Croatia,L Krvaric
+info,player,Croatia,P Senjug
+info,player,Croatia,I Zigante
+info,player,Croatia,S Kucuksucu
+info,player,Croatia,M Modric
+info,player,Croatia,V Romani
+info,player,Croatia,Priyanka Reddy
+info,player,Croatia,Y Korniienko
+info,player,Croatia,S Sebastian
+info,registry,people,A Joshi,a35e3f07
+info,registry,people,A Kshirsagar,80b34521
+info,registry,people,B Pavlinakova,8663822d
+info,registry,people,C Tebb,5e7d78cd
+info,registry,people,E Kuncova,7f2f40fa
+info,registry,people,E Vukusic,7a64c6eb
+info,registry,people,H Leko,02c8fbfc
+info,registry,people,I Zigante,255508f7
+info,registry,people,J Kominkova,d5595998
+info,registry,people,JA Stiglitz,7195065a
+info,registry,people,K Tesarikova,42a7d394
+info,registry,people,L Krvaric,115b7211
+info,registry,people,M Modric,31fe1419
+info,registry,people,P Sadasivan,8be86ab6
+info,registry,people,P Senjug,1c03d322
+info,registry,people,Priyanka Reddy,c4689003
+info,registry,people,R Lokasani,82ebaac6
+info,registry,people,R Mikulaskova,faa05631
+info,registry,people,S Kolcunova,7eba546e
+info,registry,people,S Kucuksucu,fea44a7f
+info,registry,people,S Sebastian,f3fce917
+info,registry,people,T Kolcunova,50102dea
+info,registry,people,V Romani,15fee304
+info,registry,people,V Volfova,e06506f1
+info,registry,people,Y Korniienko,a12d0de9
+info,registry,people,Z Franova,55aabdef

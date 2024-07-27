@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,South Africa
+info,gender,female
+info,season,2023/24
+info,date,2023/10/08
+info,event,New Zealand Women tour of South Africa
+info,match_number,2
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,South Africa
+info,toss_decision,field
+info,umpire,A Jacobs
+info,umpire,Lauren Agenbag
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,K Klaaste
+info,match_referee,S Wadvalla
+info,outcome,no result
+info,player,New Zealand,SW Bates
+info,player,New Zealand,KG Anderson
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,BG Armstrong
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,M Kapp
+info,player,South Africa,N de Klerk
+info,player,South Africa,CL Tryon
+info,player,South Africa,S Jafta
+info,player,South Africa,N Mlaba
+info,player,South Africa,A Khaka
+info,player,South Africa,M Klaas
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AC Kerr,7673c908
+info,registry,people,BG Armstrong,eca08a1d
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JM Kerr,9af58032
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KG Anderson,ae79a86f
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,ML Green,865eae1f
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Brits,06659caa

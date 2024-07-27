@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Trinbago Knight Riders
+info,team,Guyana Amazon Warriors
+info,gender,male
+info,season,2023
+info,date,2023/09/24
+info,event,Caribbean Premier League
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,Guyana Amazon Warriors
+info,toss_decision,field
+info,player_of_match,D Pretorius
+info,umpire,DK Butler
+info,umpire,PA Gustard
+info,reserve_umpire,LS Reifer
+info,tv_umpire,GO Brathwaite
+info,match_referee,Reon King
+info,winner,Guyana Amazon Warriors
+info,winner_wickets,9
+info,player,Trinbago Knight Riders,CAK Walton
+info,player,Trinbago Knight Riders,M Deyal
+info,player,Trinbago Knight Riders,N Pooran
+info,player,Trinbago Knight Riders,KU Carty
+info,player,Trinbago Knight Riders,KA Pollard
+info,player,Trinbago Knight Riders,AJ Hosein
+info,player,Trinbago Knight Riders,AD Russell
+info,player,Trinbago Knight Riders,DJ Bravo
+info,player,Trinbago Knight Riders,SP Narine
+info,player,Trinbago Knight Riders,Ali Khan
+info,player,Trinbago Knight Riders,Waqar Salamkheil
+info,player,Guyana Amazon Warriors,Saim Ayub
+info,player,Guyana Amazon Warriors,KMA Paul
+info,player,Guyana Amazon Warriors,SD Hope
+info,player,Guyana Amazon Warriors,OF Smith
+info,player,Guyana Amazon Warriors,SO Hetmyer
+info,player,Guyana Amazon Warriors,Azam Khan
+info,player,Guyana Amazon Warriors,R Shepherd
+info,player,Guyana Amazon Warriors,D Pretorius
+info,player,Guyana Amazon Warriors,G Motie
+info,player,Guyana Amazon Warriors,Imran Tahir
+info,player,Guyana Amazon Warriors,RR Beaton
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,CAK Walton,bbff906c
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DK Butler,671398e3
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Deyal,7183799b
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OF Smith,23cca426
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RR Beaton,684a56df
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Waqar Salamkheil,3f1066d0

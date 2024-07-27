@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Colombo Strikers
+info,team,Kandy Falcons
+info,gender,male
+info,season,2024
+info,date,2024/07/02
+info,event,Lanka Premier League
+info,match_number,3
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Kandy Falcons
+info,toss_decision,field
+info,player_of_match,Shadab Khan
+info,umpire,R Black
+info,umpire,PSR Fonseka
+info,reserve_umpire,BSP Fernando
+info,tv_umpire,RR Wimalasiri
+info,match_referee,GF Labrooy
+info,winner,Colombo Strikers
+info,winner_runs,51
+info,player,Colombo Strikers,Rahmanullah Gurbaz
+info,player,Colombo Strikers,S Daniel
+info,player,Colombo Strikers,Waseem Muhammad
+info,player,Colombo Strikers,S Samarawickrama
+info,player,Colombo Strikers,GD Phillips
+info,player,Colombo Strikers,NLTC Perera
+info,player,Colombo Strikers,Shadab Khan
+info,player,Colombo Strikers,C Karunaratne
+info,player,Colombo Strikers,DN Wellalage
+info,player,Colombo Strikers,B Fernando
+info,player,Colombo Strikers,M Pathirana
+info,player,Kandy Falcons,LD Chandimal
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,Mohammad Haris
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,AD Mathews
+info,player,Kandy Falcons,MD Shanaka
+info,player,Kandy Falcons,Agha Salman
+info,player,Kandy Falcons,P Rathnayake
+info,player,Kandy Falcons,PVD Chameera
+info,player,Kandy Falcons,CAK Rajitha
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,Agha Salman,89c16049
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BSP Fernando,8a49883f
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,P Rathnayake,c1fdfb46
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PSR Fonseka,8fd2cea5
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Black,156c8fb1
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Waseem Muhammad,6f02fe2a

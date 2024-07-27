@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Sparks
+info,team,Southern Vipers
+info,gender,female
+info,season,2023
+info,date,2023/05/01
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,10
+info,venue,"Sir Paul Getty's Ground, Wormsley"
+info,city,Wormsley
+info,toss_winner,Southern Vipers
+info,toss_decision,field
+info,umpire,AY Harris
+info,umpire,Tom Lungley
+info,match_referee,H Pack
+info,winner,Southern Vipers
+info,winner_wickets,3
+info,player,Central Sparks,E Jones
+info,player,Central Sparks,C Brewer
+info,player,Central Sparks,AJ Freeborn
+info,player,Central Sparks,D Perrin
+info,player,Central Sparks,A Campbell
+info,player,Central Sparks,KL George
+info,player,Central Sparks,EL Arlott
+info,player,Central Sparks,IECM Wong
+info,player,Central Sparks,G Potts
+info,player,Central Sparks,GK Davis
+info,player,Central Sparks,HL Baker
+info,player,Southern Vipers,EM McCaughan
+info,player,Southern Vipers,ME Bouchier
+info,player,Southern Vipers,GA Elwiss
+info,player,Southern Vipers,DN Wyatt
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,CE Dean
+info,player,Southern Vipers,E Windsor
+info,player,Southern Vipers,LCN Smith
+info,player,Southern Vipers,R Southby
+info,player,Southern Vipers,AZ Monaghan
+info,player,Southern Vipers,LK Bell
+info,registry,people,A Campbell,4b788e61
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,AY Harris,90d95b82
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,C Brewer,baf11c9a
+info,registry,people,CE Dean,c6625a26
+info,registry,people,D Perrin,bfa0fa33
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Jones,971cb321
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,EM McCaughan,ed2711ea
+info,registry,people,G Potts,e3a93585
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GK Davis,54719239
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,H Pack,fed53c91
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,KL George,e69dbbef
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LK Bell,38b4583c
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,R Southby,bbe1525d
+info,registry,people,Tom Lungley,75169b8c

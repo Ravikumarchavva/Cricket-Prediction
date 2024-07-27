@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Nepal
+info,gender,male
+info,season,2023
+info,date,2023/05/01
+info,date,2023/05/02
+info,event,ACC Men's Premier Cup
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,Gulsan Jha
+info,umpire,Rahat Ali
+info,umpire,Vinod Babu
+info,reserve_umpire,N D'Souza
+info,tv_umpire,John Prakash
+info,match_referee,Sarika Prasad
+info,winner,Nepal
+info,winner_wickets,7
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,RK Paudel
+info,player,Nepal,B Sharki
+info,player,Nepal,Karan KC
+info,player,Nepal,Sompal Kami
+info,player,Nepal,LN Rajbanshi
+info,player,Nepal,Kushal Malla
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Aarif Sheikh
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,N D'Souza,4b7f60af
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Vinod Babu,37e6187d
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

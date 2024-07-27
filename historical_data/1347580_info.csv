@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/05/26
+info,event,Vitality Blast
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,PK Baldwin
+info,umpire,PR Pollard
+info,match_referee,Wayne Noon
+info,winner,Glamorgan
+info,winner_wickets,2
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,TMJ Smith
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,JP McIlroy
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DA Payne,6c79c098
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MD Taylor,01a95383
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,Wayne Noon,736e1761
+info,registry,people,Zafar Gohar,9fd3a210

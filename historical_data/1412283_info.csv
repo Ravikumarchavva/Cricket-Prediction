@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Sylhet Strikers
+info,gender,male
+info,season,2023/24
+info,date,2024/01/26
+info,event,Bangladesh Premier League
+info,match_number,10
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Sylhet Strikers
+info,toss_decision,field
+info,player_of_match,Al Islam
+info,umpire,DJ Millns
+info,umpire,Mahfuzur Rahman
+info,reserve_umpire,Ali Arman
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Selim Shahid
+info,winner,Comilla Victorians
+info,winner_runs,52
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,RL Chase
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,MW Forde
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Al Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Mohammad Mithun
+info,player,Sylhet Strikers,SR Patel
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Yasir Ali Chowdhury
+info,player,Sylhet Strikers,BCJ Cutting
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Sylhet Strikers,R Ngarava
+info,registry,people,Al Islam,45d38a84
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,SR Patel,18fac429
+info,registry,people,Selim Shahid,b478bce3
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Yasir Ali Chowdhury,5791b840
+info,registry,people,Zakir Hasan,e3e09091

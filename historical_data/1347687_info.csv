@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/07/02
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Middlesex
+info,toss_decision,bat
+info,umpire,M Burns
+info,umpire,Naeem Ashraf
+info,match_referee,SG Hinks
+info,winner,Middlesex
+info,winner_runs,49
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,TG Helm
+info,player,Middlesex,ER Bamber
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,ER Bamber,948beb1f
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,N Fernandes,01561e94
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,WT Smale,97da28bd

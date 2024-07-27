@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI New York
+info,team,Seattle Orcas
+info,gender,male
+info,season,2023
+info,date,2023/07/25
+info,event,Major League Cricket
+info,match_number,15
+info,venue,"Church Street Park, Morrisville"
+info,city,Morrisville
+info,toss_winner,Seattle Orcas
+info,toss_decision,field
+info,player_of_match,H Klaasen
+info,umpire,Vijaya Mallela
+info,umpire,WR Knights
+info,reserve_umpire,C Edwards
+info,tv_umpire,P Wilson
+info,match_referee,SJA Taufel
+info,winner,Seattle Orcas
+info,winner_wickets,2
+info,player,MI New York,Shayan Jahangir
+info,player,MI New York,MD Patel
+info,player,MI New York,N Pooran
+info,player,MI New York,Hammad Azam
+info,player,MI New York,KA Pollard
+info,player,MI New York,TH David
+info,player,MI New York,D Wiese
+info,player,MI New York,Rashid Khan
+info,player,MI New York,NP Kenjige
+info,player,MI New York,TA Boult
+info,player,MI New York,Ehsan Adil
+info,player,Seattle Orcas,Q de Kock
+info,player,Seattle Orcas,Nauman Anwar
+info,player,Seattle Orcas,GSNFG Jayasuriya
+info,player,Seattle Orcas,H Klaasen
+info,player,Seattle Orcas,Shubham Ranjane
+info,player,Seattle Orcas,MD Shanaka
+info,player,Seattle Orcas,D Pretorius
+info,player,Seattle Orcas,Imad Wasim
+info,player,Seattle Orcas,Harmeet Singh
+info,player,Seattle Orcas,AJ Tye
+info,player,Seattle Orcas,CJ Gannon
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,C Edwards,a072f223
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,D Pretorius,11614d87
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,GSNFG Jayasuriya,b58b7db6
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,Hammad Azam,57bd3ecc
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,Nauman Anwar,d0540390
+info,registry,people,P Wilson,68304a36
+info,registry,people,Q de Kock,372455c4
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,WR Knights,63cbf8d8

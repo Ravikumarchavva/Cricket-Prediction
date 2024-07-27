@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tamil Nadu
+info,team,Maharashtra
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,field
+info,winner,Tamil Nadu
+info,winner_runs,12
+info,player,Tamil Nadu,Hari Nishaanth
+info,player,Tamil Nadu,N Jagadeesan
+info,player,Tamil Nadu,B Sai Sudharsan
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,M Shahrukh Khan
+info,player,Tamil Nadu,M Mohammed
+info,player,Tamil Nadu,M Ashwin
+info,player,Tamil Nadu,R Sai Kishore
+info,player,Tamil Nadu,S Sandeep Warrier
+info,player,Tamil Nadu,T Natarajan
+info,player,Tamil Nadu,B Aparajith
+info,player,Maharashtra,Mukesh Choudhary
+info,player,Maharashtra,A Palkar
+info,player,Maharashtra,Pradeep Dadhe
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,Yash Nahar
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Ranjeet Nikam
+info,registry,people,A Palkar,c4ab5dd8
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,B Aparajith,5b627626
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,Hari Nishaanth,c3f37533
+info,registry,people,J Kousik,398be4ed
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,M Mohammed,1b7c4d69
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,Pradeep Dadhe,20081969
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,Ranjeet Nikam,ca099aeb
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,T Natarajan,ce794613
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,Yash Nahar,487f5721

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Somerset
+info,gender,male
+info,season,2024
+info,date,2024/05/31
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,player_of_match,L Gregory
+info,umpire,ID Blackwell
+info,umpire,Rob White
+info,tv_umpire,PK Baldwin
+info,match_referee,AM Smith
+info,winner,Somerset
+info,winner_wickets,4
+info,player,Essex,AM Rossington
+info,player,Essex,D Elgar
+info,player,Essex,MS Pepper
+info,player,Essex,JM Cox
+info,player,Essex,PI Walter
+info,player,Essex,DR Sams
+info,player,Essex,MJJ Critchley
+info,player,Essex,SR Harmer
+info,player,Essex,LM Benkenstein
+info,player,Essex,BMJ Allison
+info,player,Essex,Aaron Beard
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,C Overton
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,JT Ball
+info,player,Somerset,RP Meredith
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BGF Green,34b37279
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,C Overton,e9987a94
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RP Meredith,64775749
+info,registry,people,Rob White,59b91222
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961

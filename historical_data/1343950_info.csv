@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Durban's Super Giants
+info,gender,male
+info,season,2022/23
+info,date,2023/01/17
+info,event,SA20
+info,match_number,10
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Durban's Super Giants
+info,toss_decision,field
+info,player_of_match,BC Fortuin
+info,umpire,AT Holdstock
+info,umpire,BM White
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,LB Gcuma
+info,match_referee,LH Matroos
+info,winner,Paarl Royals
+info,winner_runs,10
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,EJG Morgan
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,FD Adams
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,JO Holder
+info,player,Durban's Super Giants,C Jonker
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,GC Viljoen
+info,player,Durban's Super Giants,P Subrayen
+info,player,Durban's Super Giants,RJW Topley
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM White,66c21d35
+info,registry,people,C Jonker,a81d6706
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,FD Adams,f277f531
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013

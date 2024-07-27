@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Paarl Royals
+info,gender,male
+info,season,2022/23
+info,date,2023/01/21
+info,event,SA20
+info,match_number,16
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Paarl Royals
+info,toss_decision,field
+info,player_of_match,JC Buttler
+info,umpire,AT Holdstock
+info,umpire,BP Jele
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,A Paleker
+info,match_referee,SB Lambson
+info,winner,MI Cape Town
+info,winner_runs,13
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,G Roelofsen
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,OF Smith
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,JC Archer
+info,player,MI Cape Town,K Rabada
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,FD Adams
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,T Shamsi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,FD Adams,f277f531
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,OF Smith,23cca426
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013

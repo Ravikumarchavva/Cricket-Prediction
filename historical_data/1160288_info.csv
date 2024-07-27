@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Central Stags
+info,gender,male
+info,season,2018/19
+info,date,2018/12/06
+info,date,2018/12/07
+info,date,2018/12/08
+info,date,2018/12/09
+info,event,Plunket Shield
+info,venue,Molyneux Park
+info,city,
+info,toss_winner,Central Stags
+info,toss_decision,bat
+info,umpire,DJ Walker
+info,umpire,JAK Bromley
+info,match_referee,K Pulley
+info,winner,Central Stags
+info,winner_innings,1
+info,winner_runs,84
+info,player,Otago Volts,BS Wilson
+info,player,Otago Volts,CT Hawkins
+info,player,Otago Volts,JJ Tasman-Jones
+info,player,Otago Volts,S Hicks
+info,player,Otago Volts,M Renwick
+info,player,Otago Volts,MJG Rippon
+info,player,Otago Volts,NG Smith
+info,player,Otago Volts,JL Finnie
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,C Viljoen
+info,player,Otago Volts,BNJ Lockrose
+info,player,Central Stags,GR Hay
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,D Foxcroft
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,WC Ludick
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,K Noema-Barnett
+info,player,Central Stags,RJ McCone
+info,player,Central Stags,JA Clarkson
+info,player,Central Stags,FJM Murray
+info,player,Central Stags,BM Tickner
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,C Viljoen,f7b2cbe8
+info,registry,people,CT Hawkins,59013e14
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,FJM Murray,2ef64bd1
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JAK Bromley,ccf7baaf
+info,registry,people,JJ Tasman-Jones,5ca4a6ff
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,K Noema-Barnett,1ad0b441
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,RJ McCone,19cc9592
+info,registry,people,S Hicks,168b4c4f
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WC Ludick,2a802bfd

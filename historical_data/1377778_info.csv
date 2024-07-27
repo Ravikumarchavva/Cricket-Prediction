@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Sri Lanka
+info,gender,male
+info,season,2023
+info,date,2023/07/07
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,29
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,M Theekshana
+info,umpire,J Madanagopal
+info,umpire,L Rusere
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,AG Wharf
+info,match_referee,ET Dube
+info,winner,Sri Lanka
+info,winner_wickets,8
+info,player,West Indies,BA King
+info,player,West Indies,J Charles
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,SD Hope
+info,player,West Indies,N Pooran
+info,player,West Indies,KU Carty
+info,player,West Indies,KR Mayers
+info,player,West Indies,RL Chase
+info,player,West Indies,R Shepherd
+info,player,West Indies,K Sinclair
+info,player,West Indies,AJ Hosein
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,SSD Arachchige
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,MADI Hemantha
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,D Madushanka
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,BA King,7fca84b7
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,J Charles,09a9d073
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,K Sinclair,314642ed
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KR Mayers,73c18486
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,SSJ Brooks,977b841a

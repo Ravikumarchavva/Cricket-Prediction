@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Zimbabwe
+info,gender,male
+info,season,2003
+info,date,2003/06/29
+info,event,NatWest Series
+info,match_number,3
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,JH Kallis
+info,umpire,BF Bowden
+info,umpire,NA Mallender
+info,tv_umpire,P Willey
+info,match_referee,CH Lloyd
+info,winner,South Africa
+info,winner_runs,46
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,JH Kallis
+info,player,South Africa,JA Rudolph
+info,player,South Africa,AJ Hall
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,M van Jaarsveld
+info,player,South Africa,N Boje
+info,player,South Africa,AC Dawson
+info,player,South Africa,M Ntini
+info,player,Zimbabwe,DA Marillier
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,TJ Friend
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,S Matsikenyeri
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,DT Hondo
+info,registry,people,AC Dawson,62decd8e
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,DA Marillier,656202a7
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,GC Smith,72861603
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HH Streak,37f501d7
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M van Jaarsveld,f407e354
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,P Willey,1b647f99
+info,registry,people,RW Price,67af6f81
+info,registry,people,S Matsikenyeri,e7ba1233
+info,registry,people,SM Ervine,556302a7
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Seattle Orcas
+info,team,San Francisco Unicorns
+info,gender,male
+info,season,2023
+info,date,2023/07/15
+info,event,Major League Cricket
+info,match_number,4
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,Seattle Orcas
+info,toss_decision,bat
+info,player_of_match,H Klaasen
+info,umpire,Aleem Dar
+info,umpire,BV Taylor
+info,reserve_umpire,O Brown
+info,tv_umpire,Vijaya Mallela
+info,match_referee,SJA Taufel
+info,winner,Seattle Orcas
+info,winner_runs,35
+info,player,Seattle Orcas,Q de Kock
+info,player,Seattle Orcas,Nauman Anwar
+info,player,Seattle Orcas,GSNFG Jayasuriya
+info,player,Seattle Orcas,H Klaasen
+info,player,Seattle Orcas,SO Hetmyer
+info,player,Seattle Orcas,Shubham Ranjane
+info,player,Seattle Orcas,Imad Wasim
+info,player,Seattle Orcas,CJ Gannon
+info,player,Seattle Orcas,WD Parnell
+info,player,Seattle Orcas,Harmeet Singh
+info,player,Seattle Orcas,AJ Tye
+info,player,San Francisco Unicorns,MS Wade
+info,player,San Francisco Unicorns,FH Allen
+info,player,San Francisco Unicorns,MP Stoinis
+info,player,San Francisco Unicorns,AJ Finch
+info,player,San Francisco Unicorns,CJ Anderson
+info,player,San Francisco Unicorns,Shadab Khan
+info,player,San Francisco Unicorns,Tajinder Singh
+info,player,San Francisco Unicorns,Chaitanya Bishnoi
+info,player,San Francisco Unicorns,LE Plunkett
+info,player,San Francisco Unicorns,Haris Rauf
+info,player,San Francisco Unicorns,C le Roux
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BV Taylor,99760152
+info,registry,people,C le Roux,7a490dec
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,Chaitanya Bishnoi,e793a8ed
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GSNFG Jayasuriya,b58b7db6
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Nauman Anwar,d0540390
+info,registry,people,O Brown,22fe51d7
+info,registry,people,Q de Kock,372455c4
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Tajinder Singh,f9d99806
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,WD Parnell,3a60e0b5

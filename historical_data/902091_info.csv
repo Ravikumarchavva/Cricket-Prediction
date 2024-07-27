@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Haryana
+info,team,Tamil Nadu
+info,gender,male
+info,season,2015/16
+info,date,2016/01/02
+info,event,Syed Mushtaq Ali Trophy
+info,venue,VCA Ground
+info,city,
+info,toss_winner,Haryana
+info,toss_decision,bat
+info,winner,Tamil Nadu
+info,winner_wickets,9
+info,player,Haryana,N Saini
+info,player,Haryana,V Sehwag
+info,player,Haryana,RP Sharma
+info,player,Haryana,Himanshu Rana
+info,player,Haryana,RM Dagar
+info,player,Haryana,MS Hooda
+info,player,Haryana,HV Patel
+info,player,Haryana,J Yadav
+info,player,Haryana,YS Chahal
+info,player,Haryana,AH Hooda
+info,player,Haryana,Sanjay Budhwar
+info,player,Tamil Nadu,R Sathish
+info,player,Tamil Nadu,J Kousik
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,Rahil Shah
+info,player,Tamil Nadu,Antony Dhas
+info,player,Tamil Nadu,M Ashwin
+info,player,Tamil Nadu,A Mukund
+info,player,Tamil Nadu,S Anirudha
+info,player,Tamil Nadu,B Aparajith
+info,player,Tamil Nadu,KD Karthik
+info,player,Tamil Nadu,B Indrajith
+info,registry,people,A Mukund,6165bca6
+info,registry,people,AH Hooda,e4072aa1
+info,registry,people,Antony Dhas,b792bf93
+info,registry,people,B Aparajith,5b627626
+info,registry,people,B Indrajith,ff1e68fa
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Himanshu Rana,9d3940b3
+info,registry,people,J Kousik,398be4ed
+info,registry,people,J Yadav,81049310
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,MS Hooda,d851756a
+info,registry,people,N Saini,addbde6c
+info,registry,people,R Sathish,626c5379
+info,registry,people,RM Dagar,3fbc5cc9
+info,registry,people,RP Sharma,805b89d7
+info,registry,people,Rahil Shah,7c30f4d0
+info,registry,people,S Anirudha,95a2ea61
+info,registry,people,Sanjay Budhwar,f54bcda9
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,YS Chahal,57ee1fde

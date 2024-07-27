@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Uganda
+info,gender,female
+info,season,2022/23
+info,date,2022/12/21
+info,event,Kenya Quadrangular Women's T20 Series
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,E Anyipo
+info,umpire,IO Oyieko
+info,umpire,Y Kaparo
+info,reserve_umpire,Charles Kariuki
+info,winner,Uganda
+info,winner_wickets,6
+info,player,Kenya,M Mwangi
+info,player,Kenya,M Ndhambi
+info,player,Kenya,V Abuga
+info,player,Kenya,S Juma
+info,player,Kenya,V Ooko
+info,player,Kenya,E Wachira
+info,player,Kenya,D Njoroge
+info,player,Kenya,L Idambo
+info,player,Kenya,MI Khagoitsa
+info,player,Kenya,F Odhiambo
+info,player,Kenya,K Ogola
+info,player,Uganda,K Awino
+info,player,Uganda,P Alako
+info,player,Uganda,E Iloku
+info,player,Uganda,J Mbabazi
+info,player,Uganda,S Nampiina
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,R Musamali
+info,player,Uganda,C Aweko
+info,player,Uganda,E Anyipo
+info,player,Uganda,S Akiteng
+info,player,Uganda,I Alumo
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Njoroge,626fbc80
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,I Alumo,6edd8b10
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K Ogola,7f7dc2ee
+info,registry,people,L Idambo,27339093
+info,registry,people,M Mwangi,72de0105
+info,registry,people,M Ndhambi,76e56ac6
+info,registry,people,MI Khagoitsa,2d772f77
+info,registry,people,P Alako,fcf37e14
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Juma,333830a5
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Ooko,2ae76bf6
+info,registry,people,Y Kaparo,d993628f

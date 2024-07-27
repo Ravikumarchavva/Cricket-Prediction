@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/05/18
+info,date,2023/05/19
+info,date,2023/05/20
+info,event,County Championship
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,bat
+info,umpire,James Middlebrook
+info,umpire,PJ Hartley
+info,match_referee,Phil Whitticase
+info,winner,Hampshire
+info,winner_innings,1
+info,winner_runs,135
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,JM Vince
+info,player,Hampshire,BC Brown
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,IG Holland
+info,player,Hampshire,KHD Barker
+info,player,Hampshire,MS Crane
+info,player,Hampshire,JA Turner
+info,player,Hampshire,Mohammad Abbas
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,Hassan Azad
+info,player,Northamptonshire,SM Whiteman
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,JS Buckingham
+info,player,Northamptonshire,CJ White
+info,player,Northamptonshire,AK Russell
+info,registry,people,AK Russell,a6f2b2ef
+info,registry,people,BC Brown,8af86756
+info,registry,people,CJ White,5a74e559
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,Hassan Azad,b9c7596f
+info,registry,people,IG Holland,4167f30b
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JS Buckingham,10735e1d
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KHD Barker,2223b920
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,TAI Taylor,867a45a7

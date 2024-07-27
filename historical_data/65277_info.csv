@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,New Zealand
+info,gender,male
+info,season,2002/03
+info,date,2003/03/08
+info,event,ICC World Cup
+info,venue,"Goodyear Park, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,NJ Astle
+info,umpire,DB Hair
+info,umpire,RE Koertzen
+info,tv_umpire,EAR de Silva
+info,match_referee,GR Viswanath
+info,winner,New Zealand
+info,winner_wickets,6
+info,player,Zimbabwe,CB Wishart
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,A Flower
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,GJ Whittall
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,BA Murphy
+info,player,Zimbabwe,DT Hondo
+info,player,New Zealand,CD McMillan
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,CZ Harris
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,AR Adams
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,SE Bond
+info,registry,people,A Flower,35aa26af
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,AR Adams,525c3f54
+info,registry,people,BA Murphy,31ce61ab
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CB Wishart,8319b9ea
+info,registry,people,CD McMillan,f5390243
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CZ Harris,582e9baa
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,GJ Whittall,6a52f5d3
+info,registry,people,GR Viswanath,9333bc07
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Streak,37f501d7
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,NJ Astle,99639abf
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SM Ervine,556302a7
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f

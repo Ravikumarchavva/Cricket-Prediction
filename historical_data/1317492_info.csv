@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2022/23
+info,date,2022/12/17
+info,date,2022/12/18
+info,event,South Africa tour of Australia
+info,match_number,1
+info,venue,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+info,city,Brisbane
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,TM Head
+info,umpire,CB Gaffaney
+info,umpire,RJ Tucker
+info,reserve_umpire,DM Koch
+info,tv_umpire,RA Kettleborough
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_wickets,6
+info,player,South Africa,D Elgar
+info,player,South Africa,SJ Erwee
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,T Bavuma
+info,player,South Africa,K Zondo
+info,player,South Africa,K Verreynne
+info,player,South Africa,M Jansen
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,L Ngidi
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,SM Boland
+info,player,Australia,C Green
+info,player,Australia,AT Carey
+info,player,Australia,MA Starc
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AT Carey,69d03465
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DM Koch,6d10c034
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,K Verreynne,bf814547
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SM Boland,d167edd3
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488

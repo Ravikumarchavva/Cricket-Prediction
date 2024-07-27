@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,female
+info,season,2023
+info,date,2023/04/29
+info,event,Bangladesh Women tour of Sri Lanka
+info,match_number,1
+info,venue,"P Sara Oval, Colombo"
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,umpire,N Perera
+info,umpire,RR Wimalasiri
+info,reserve_umpire,LDVV Silva
+info,tv_umpire,LE Hannibal
+info,match_referee,JM Pereira
+info,outcome,no result
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,I Dulani
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,PM Weerakkody
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,K Kavindi
+info,player,Sri Lanka,I Ranaweera
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,Lata Mondal
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Sultana Khatun
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Jahanara Alam
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Dulani,a2c23f31
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,K Kavindi,2fa916b3
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Lata Mondal,5bf87532
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,N Perera,129709f9
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,PM Weerakkody,1b3718d2
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Mostary,94de63bf
+info,registry,people,Shamima Sultana,724645f5
+info,registry,people,Sultana Khatun,fb0c0bcc
+info,registry,people,WK Dilhari,c34a15e6

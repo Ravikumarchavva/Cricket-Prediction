@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Oman
+info,gender,male
+info,season,2023
+info,date,2023/06/29
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,21
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,SC Williams
+info,umpire,R Black
+info,umpire,WR Knights
+info,reserve_umpire,MJ Saggers
+info,tv_umpire,Asif Yaqoob
+info,match_referee,Muhammad Javed
+info,winner,Zimbabwe
+info,winner_runs,14
+info,player,Zimbabwe,J Gumbie
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,B Muzarabani
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Ayan Khan
+info,player,Oman,Shoaib Khan
+info,player,Oman,Naseem Khushi
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Kaleemullah
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,J Gumbie,c8d74c21
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Zeeshan Maqsood,34464143

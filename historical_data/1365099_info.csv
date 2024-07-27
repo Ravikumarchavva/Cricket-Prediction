@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023
+info,date,2023/04/01
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,8
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,Waseem Muhammad
+info,umpire,C Phiri
+info,umpire,D Odhiambo
+info,reserve_umpire,IO Oyieko
+info,match_referee,GH Pienaar
+info,winner,United Arab Emirates
+info,winner_wickets,6
+info,player,Canada,A Johnson
+info,player,Canada,M Spoors
+info,player,Canada,Pargat Singh
+info,player,Canada,NR Kirton
+info,player,Canada,SA Wijeratne
+info,player,Canada,H Thaker
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,N Dutta
+info,player,Canada,Kaleem Sana
+info,player,Canada,JOA Gordon
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,SM Sharma
+info,player,United Arab Emirates,Zahoor Khan
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,C Phiri,ade73404
+info,registry,people,D Odhiambo,45994517
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Thaker,c01d7726
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,JOA Gordon,bb9b51f4
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,M Spoors,da4a1e46
+info,registry,people,N Dutta,e258a603
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

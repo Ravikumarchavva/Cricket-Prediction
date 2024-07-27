@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Brisbane Heat
+info,gender,female
+info,season,2023/24
+info,date,2023/11/09
+info,event,Women's Big Bash League
+info,match_number,31
+info,venue,"Allan Border Field, Brisbane"
+info,city,Brisbane
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,SFM Devine
+info,umpire,MH Wessels
+info,umpire,SE Dionysius
+info,match_referee,David Johnston
+info,winner,Perth Scorchers
+info,winner_runs,39
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,NR Sciver-Brunt
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,M Darke
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,T Peschel
+info,player,Perth Scorchers,CC Ainsworth
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,M du Preez
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,BAM Heath
+info,player,Brisbane Heat,M Hinkley
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,registry,people,A King,83558266
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AL Edgar,795ff893
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,CC Ainsworth,4b69c598
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,David Johnston,92cef862
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,M Darke,57a90666
+info,registry,people,M Hinkley,3812165d
+info,registry,people,M du Preez,e219f17a
+info,registry,people,MH Wessels,90f47cf2
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,P Cleary,507acf2e
+info,registry,people,SE Dionysius,ac886e6f
+info,registry,people,SFM Devine,de69af96
+info,registry,people,T Peschel,923402d8

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Netherlands
+info,gender,male
+info,season,2023
+info,date,2023/07/06
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,28
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,BFW de Leede
+info,umpire,A Paleker
+info,umpire,BP Jele
+info,reserve_umpire,R Black
+info,tv_umpire,GO Brathwaite
+info,match_referee,Muhammad Javed
+info,winner,Netherlands
+info,winner_wickets,4
+info,player,Scotland,CM McBride
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,HG Munsey
+info,player,Scotland,RD Berrington
+info,player,Scotland,MA Leask
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,W Barresi
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,Saqib Zulfiqar
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,R Klein
+info,player,Netherlands,A Dutt
+info,player,Netherlands,C Floyd
+info,registry,people,A Dutt,803dbf1d
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Floyd,527c2dab
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Klein,ff1ec94d
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Saqib Zulfiqar,5d38476c
+info,registry,people,TSS Mackintosh,f5ef7ac3
+info,registry,people,Vikramjit Singh,2a9eee66
+info,registry,people,W Barresi,0d677597

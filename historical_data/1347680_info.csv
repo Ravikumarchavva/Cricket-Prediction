@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Worcestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/30
+info,event,Vitality Blast
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Worcestershire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,PK Baldwin
+info,match_referee,DA Cosker
+info,outcome,tie
+info,method,D/L
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,BA Carse
+info,player,Durham,AJ Turner
+info,player,Durham,OG Robinson
+info,player,Durham,L Trevaskis
+info,player,Durham,BA Raine
+info,player,Durham,NA Sowter
+info,player,Durham,GS Drissell
+info,player,Durham,BD Glover
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,MJ Santner
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,PR Brown
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AW Finch,fc63d916
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BD Glover,0dbe27b8
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GS Drissell,9a089b15
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,Usama Mir,6dd8b88c

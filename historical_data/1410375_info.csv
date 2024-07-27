@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Yorkshire
+info,gender,male
+info,season,2024
+info,date,2024/05/30
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,NA Mallender
+info,umpire,Surendiran Shanmugam
+info,match_referee,Wayne Noon
+info,winner,Yorkshire
+info,winner_wickets,8
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JJ Cobb
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,NG Smith
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,AW Finch
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,D Ferreira
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,JA Chohan
+info,player,Yorkshire,DJ Leech
+info,player,Yorkshire,D Moriarty
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DJ Leech,2413a688
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DM Bess,ad46c747
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Root,a343262c
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,ML Revis,28217d89
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,Wayne Noon,736e1761

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Gujarat
+info,gender,male
+info,season,2022/23
+info,date,2022/10/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Holkar Cricket Stadium, Indore"
+info,city,Indore
+info,toss_winner,Baroda
+info,toss_decision,bat
+info,umpire,A Totre
+info,umpire,Saurabh Dhote
+info,match_referee,A Kripal Singh
+info,winner,Gujarat
+info,winner_wickets,2
+info,player,Baroda,LI Meriwala
+info,player,Baroda,HS Desai
+info,player,Baroda,Mitesh Patel
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,AT Rayudu
+info,player,Baroda,KH Pandya
+info,player,Baroda,Bhanu Pania
+info,player,Baroda,NA Rathva
+info,player,Baroda,A Sheth
+info,player,Baroda,KR Kakade
+info,player,Baroda,VR Aaron
+info,player,Baroda,Chinta Gandhi
+info,player,Gujarat,Chintan Gaja
+info,player,Gujarat,Urvil Patel
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,Saurav Chauhan
+info,player,Gujarat,Het Patel
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,RV Patel
+info,player,Gujarat,Hemang Patel
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,Vishal Jayswal
+info,player,Gujarat,Roosh Kalaria
+info,player,Gujarat,A Nagwaswalla
+info,registry,people,A Kripal Singh,8f559207
+info,registry,people,A Nagwaswalla,01ada0ed
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,Chinta Gandhi,c5eff91b
+info,registry,people,Chintan Gaja,63bfb5fc
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,HS Desai,05c7a444
+info,registry,people,Hemang Patel,59c8c5b5
+info,registry,people,Het Patel,f543b251
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KR Kakade,ba86aae4
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Mitesh Patel,ab636882
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,RV Patel,60500956
+info,registry,people,Roosh Kalaria,779b7f4d
+info,registry,people,Saurabh Dhote,afe4ec5a
+info,registry,people,Saurav Chauhan,9e7225b0
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,VR Aaron,0a3d54b9
+info,registry,people,Vishal Jayswal,4765ad1e
+info,registry,people,Vishnu Solanki,2e802011

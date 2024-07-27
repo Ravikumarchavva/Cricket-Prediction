@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Ireland
+info,gender,male
+info,season,2023
+info,date,2023/06/25
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,15
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,FDM Karunaratne
+info,umpire,GO Brathwaite
+info,umpire,WR Knights
+info,reserve_umpire,Aleem Dar
+info,tv_umpire,L Rusere
+info,match_referee,S Wadvalla
+info,winner,Sri Lanka
+info,winner_runs,133
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CBRLS Kumara
+info,player,Sri Lanka,CAK Rajitha
+info,player,Ireland,AR McBrine
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,HT Tector
+info,player,Ireland,L Tucker
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,J Little
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Campher,478a63e7
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,WR Knights,63cbf8d8

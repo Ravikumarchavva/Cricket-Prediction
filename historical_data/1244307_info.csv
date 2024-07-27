@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Uttar Pradesh
+info,gender,male
+info,season,2020/21
+info,date,2021/01/10
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Alur Cricket Stadium II
+info,city,
+info,toss_winner,Punjab
+info,toss_decision,bat
+info,winner,Punjab
+info,winner_runs,11
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,M Markande
+info,player,Punjab,Sandeep Sharma
+info,player,Punjab,Arshdeep Singh
+info,player,Punjab,S Kaul
+info,player,Uttar Pradesh,B Kumar
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Shivam Mavi
+info,player,Uttar Pradesh,Shiva Singh
+info,player,Uttar Pradesh,Shanu Saini
+info,player,Uttar Pradesh,Madhav Kaushik
+info,player,Uttar Pradesh,Dhruv Jurel
+info,player,Uttar Pradesh,SK Raina
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,KS Sharma
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,KS Sharma,39ed0d2f
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Madhav Kaushik,49110249
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Shanu Saini,61d1a3d3
+info,registry,people,Shiva Singh,3b63b5cc
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,Shubham Chaubey,58588e5a

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Sydney Thunder
+info,gender,female
+info,season,2023/24
+info,date,2023/11/04
+info,event,Women's Big Bash League
+info,match_number,23
+info,venue,"Casey Fields No 4, Melbourne"
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,bat
+info,player_of_match,AC Jayangani
+info,umpire,D Brigham
+info,umpire,G Bawa
+info,match_referee,RL Parry
+info,winner,Sydney Thunder
+info,winner_wickets,9
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,MM Lanning
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,ME Bouchier
+info,player,Melbourne Stars,SIR Dunkley
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,S Day
+info,player,Sydney Thunder,AC Jayangani
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,HC Knight
+info,player,Sydney Thunder,M Kapp
+info,player,Sydney Thunder,A Learoyd
+info,player,Sydney Thunder,O Porter
+info,player,Sydney Thunder,C Moore
+info,player,Sydney Thunder,SJ Johnson
+info,player,Sydney Thunder,HJ Darlington
+info,player,Sydney Thunder,SL Bates
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Learoyd,1757bedf
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,C Moore,284cd027
+info,registry,people,D Brigham,464daf41
+info,registry,people,G Bawa,dad513b6
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HJ Darlington,50b558d2
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N Faltum,9a56c670
+info,registry,people,O Porter,9ac15b90
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,RL Parry,86d151dc
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,T Wilson,32100b2d

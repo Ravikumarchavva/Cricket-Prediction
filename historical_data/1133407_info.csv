@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Bengal
+info,gender,male
+info,season,2017/18
+info,date,2018/01/22
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Eden Gardens
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,bat
+info,winner,Uttar Pradesh
+info,winner_runs,75
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,Shivam Chaudhary
+info,player,Uttar Pradesh,SK Raina
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,SN Khan
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,P Kumar
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,Kuldeep Yadav
+info,player,Bengal,AB Dinda
+info,player,Bengal,Mukesh Kumar
+info,player,Bengal,Sayan Ghosh
+info,player,Bengal,Writtick Chatterjee
+info,player,Bengal,Pradipta Pramanik
+info,player,Bengal,MK Tiwary
+info,player,Bengal,Vivek Singh
+info,player,Bengal,SP Goswami
+info,player,Bengal,Sudip Chatterjee
+info,player,Bengal,Pramod Chandila
+info,player,Bengal,AP Majumdar
+info,registry,people,AB Dinda,66b30f71
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AP Majumdar,f4cb4f53
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MK Tiwary,26e5cabf
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,P Kumar,e938e1bc
+info,registry,people,Pradipta Pramanik,24e3f53e
+info,registry,people,Pramod Chandila,f6f60dca
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SN Khan,f088b960
+info,registry,people,SP Goswami,541f85c9
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Sayan Ghosh,d4b8ea98
+info,registry,people,Shivam Chaudhary,e53af640
+info,registry,people,Sudip Chatterjee,0cb8626f
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,Writtick Chatterjee,a00e1842

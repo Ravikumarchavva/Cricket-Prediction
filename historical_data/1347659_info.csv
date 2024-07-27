@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Kent
+info,gender,male
+info,season,2023
+info,date,2023/06/20
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,ID Blackwell
+info,umpire,Mark Newell
+info,match_referee,Wayne Noon
+info,winner,Kent
+info,winner_wickets,6
+info,player,Sussex,HD Ward
+info,player,Sussex,TGR Clark
+info,player,Sussex,OJ Carter
+info,player,Sussex,RS Bopara
+info,player,Sussex,TP Alsop
+info,player,Sussex,GHS Garton
+info,player,Sussex,MGK Burgess
+info,player,Sussex,JM Coles
+info,player,Sussex,A Karvelas
+info,player,Sussex,TS Mills
+info,player,Sussex,BJ Currie
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,SW Billings
+info,player,Kent,JM Cox
+info,player,Kent,JA Leaning
+info,player,Kent,GF Linde
+info,player,Kent,G Stewart
+info,player,Kent,WA Agar
+info,player,Kent,FJ Klaassen
+info,player,Kent,MG Hogan
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,MG Hogan,5da34add
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WA Agar,15de1f5d
+info,registry,people,Wayne Noon,736e1761

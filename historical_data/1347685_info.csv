@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/07/01
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,AC Harris
+info,umpire,Rob White
+info,match_referee,AJ Swann
+info,winner,Gloucestershire
+info,winner_wickets,5
+info,player,Sussex,HD Ward
+info,player,Sussex,TGR Clark
+info,player,Sussex,OJ Carter
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,A Karvelas
+info,player,Sussex,TS Mills
+info,player,Sussex,BJ Currie
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,BJJ Wells
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,AS Dale
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJJ Wells,ad9a3160
+info,registry,people,DA Payne,6c79c098
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Rob White,59b91222
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,TS Mills,245c97cb

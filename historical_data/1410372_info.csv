@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Surrey
+info,gender,male
+info,season,2024
+info,date,2024/05/30
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Surrey
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,NJ Llong
+info,match_referee,PM Such
+info,winner,Surrey
+info,winner_wickets,5
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,AGH Orr
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,TE Albert
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,MG Neser
+info,player,Hampshire,CP Wood
+info,player,Hampshire,JA Turner
+info,player,Surrey,DW Lawrence
+info,player,Surrey,LJ Evans
+info,player,Surrey,JJ Roy
+info,player,Surrey,OJ Pope
+info,player,Surrey,JL Smith
+info,player,Surrey,J Clark
+info,player,Surrey,TK Curran
+info,player,Surrey,SA Abbott
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,SH Johnson
+info,player,Surrey,DJ Worrall
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AGH Orr,1ab18b25
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,J Clark,c672e80e
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MG Neser,0164b064
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,PM Such,c9f1892c
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,TE Albert,a6c17509
+info,registry,people,TK Curran,e86754b2

@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tamil Nadu
+info,team,Goa
+info,gender,male
+info,season,2021/22
+info,date,2021/11/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+info,city,
+info,toss_winner,Goa
+info,toss_decision,field
+info,winner,Goa
+info,winner_wickets,7
+info,player,Tamil Nadu,N Jagadeesan
+info,player,Tamil Nadu,Hari Nishaanth
+info,player,Tamil Nadu,R Sai Kishore
+info,player,Tamil Nadu,B Sai Sudharsan
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,R Sanjay Yadav
+info,player,Tamil Nadu,M Shahrukh Khan
+info,player,Tamil Nadu,M Mohammed
+info,player,Tamil Nadu,M Ashwin
+info,player,Tamil Nadu,P Saravana Kumar
+info,player,Tamil Nadu,Ragupathy Silambarasan
+info,player,Goa,Amit Yadav
+info,player,Goa,Lakshay Garg
+info,player,Goa,SB Wagh
+info,player,Goa,Felix Alemao
+info,player,Goa,Darshan Misal
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Shubham Ranjane
+info,player,Goa,Eknath Kerkar
+info,player,Goa,Aditya Kaushik
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,Amogh Desai
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Amit Yadav,907cb4c1
+info,registry,people,Amogh Desai,017e2f0d
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Felix Alemao,2d209101
+info,registry,people,Hari Nishaanth,c3f37533
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,M Mohammed,1b7c4d69
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MG Sirur,a71b0bd3
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,P Saravana Kumar,c23938fd
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,R Sanjay Yadav,33ffc3dd
+info,registry,people,Ragupathy Silambarasan,b07cf263
+info,registry,people,SB Wagh,dddca1d6
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,V Shankar,0994d0ae

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Derbyshire
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,date,2024/04/13
+info,date,2024/04/14
+info,date,2024/04/15
+info,event,County Championship
+info,match_number,5
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Derbyshire
+info,toss_decision,field
+info,umpire,NL Bainton
+info,umpire,RJ Bailey
+info,match_referee,AM Smith
+info,outcome,draw
+info,player,Glamorgan,Zain-ul-Hassan
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,JAR Harris
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,JP McIlroy
+info,player,Glamorgan,Mir Hamza
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,DL Lloyd
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,AHT Donald
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,BM Tickner
+info,registry,people,AHT Donald,72918338
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,JAR Harris,f1ba9ed7
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,S Conners,067bda18
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,WT Root,72898514
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zain-ul-Hassan,d12cead8

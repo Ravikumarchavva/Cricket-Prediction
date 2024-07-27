@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Central Stags
+info,gender,male
+info,season,2014/15
+info,date,2015/02/15
+info,date,2015/02/16
+info,date,2015/02/17
+info,date,2015/02/18
+info,event,Plunket Shield
+info,venue,"Pukekura Park, New Plymouth"
+info,city,New Plymouth
+info,toss_winner,Central Stags
+info,toss_decision,field
+info,umpire,LB Gcuma
+info,umpire,TJ Parlane
+info,match_referee,DB Cowie
+info,outcome,draw
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,JJ Boult
+info,player,Northern Districts,GW Aldridge
+info,player,Northern Districts,JD Baker
+info,player,Central Stags,GH Worker
+info,player,Central Stags,AY Patel
+info,player,Central Stags,GR Hay
+info,player,Central Stags,WA Young
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,CFK van Wyk
+info,player,Central Stags,K Noema-Barnett
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,BJ Small
+info,player,Central Stags,AW Mathieson
+info,player,Central Stags,DS Robinson
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,AW Mathieson,c661789d
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BJ Small,b1b7b7de
+info,registry,people,BJ Watling,928670cc
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DB Cowie,36931357
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,DS Robinson,0ec02f03
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,GW Aldridge,42a05795
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JJ Boult,3b298ff2
+info,registry,people,K Noema-Barnett,1ad0b441
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,WA Young,8afe73e2

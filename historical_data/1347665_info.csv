@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/06/22
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,Rob White
+info,tv_umpire,NL Bainton
+info,match_referee,JJ Whitaker
+info,winner,Middlesex
+info,winner_wickets,7
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SM Curran
+info,player,Surrey,J Overton
+info,player,Surrey,TK Curran
+info,player,Surrey,SP Narine
+info,player,Surrey,CJ Jordan
+info,player,Surrey,SA Abbott
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,J Blake
+info,player,Surrey,CT Steel
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,MB Harris
+info,player,Middlesex,TG Helm
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,J Blake,3385b875
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MB Harris,0b9a4ad6
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,Rob White,59b91222
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WG Jacks,9caf69a1

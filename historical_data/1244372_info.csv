@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Goa
+info,team,Rajasthan
+info,gender,male
+info,season,2020/21
+info,date,2021/01/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Holkar Stadium
+info,city,
+info,toss_winner,Goa
+info,toss_decision,bat
+info,winner,Goa
+info,winner_runs,37
+info,player,Goa,Eknath Kerkar
+info,player,Goa,Aditya Kaushik
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,Amit Verma
+info,player,Goa,Amogh Desai
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Darshan Misal
+info,player,Goa,Lakshay Garg
+info,player,Goa,MG Sirur
+info,player,Goa,Felix Alemao
+info,player,Goa,Vijesh Prabhudessai
+info,player,Rajasthan,Tanveer Ul-Haq
+info,player,Rajasthan,A Choudhary
+info,player,Rajasthan,KK Ahmed
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,Ravi Bishnoi
+info,player,Rajasthan,BS Sharma
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,R Bishnoi
+info,player,Rajasthan,AL Menaria
+info,player,Rajasthan,Arjit Gupta
+info,player,Rajasthan,MK Lomror
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,AL Menaria,8291f939
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Amit Verma,3b30b8c4
+info,registry,people,Amogh Desai,017e2f0d
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,BS Sharma,163b7ef5
+info,registry,people,CP Singh,077da288
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Felix Alemao,2d209101
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,MG Sirur,a71b0bd3
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,R Bishnoi,4d5a1617
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,Tanveer Ul-Haq,2795b0f6
+info,registry,people,Vijesh Prabhudessai,773bf733

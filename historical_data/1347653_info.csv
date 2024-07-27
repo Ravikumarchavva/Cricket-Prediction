@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Worcestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/18
+info,event,Vitality Blast
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Worcestershire
+info,toss_decision,field
+info,umpire,DJ Millns
+info,umpire,NA Mallender
+info,match_referee,JJ Swift
+info,winner,Worcestershire
+info,winner_wickets,6
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,MG Finan
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,MET Salisbury
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,MJ Santner
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,JC Tongue
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,PR Brown
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JC Tongue,1f1b4c89
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,MG Finan,8c9d3000
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,Usama Mir,6dd8b88c

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Dhaka Dominators
+info,gender,male
+info,season,2022/23
+info,date,2023/01/23
+info,event,Bangladesh Premier League
+info,match_number,22
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Dhaka Dominators
+info,toss_decision,field
+info,player_of_match,Khushdil Shah
+info,umpire,Masudur Rahman
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Debabrata Paul
+info,winner,Comilla Victorians
+info,winner_runs,60
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,J Charles
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Abu Hider
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Mukidul Islam
+info,player,Comilla Victorians,Naseem Shah
+info,player,Dhaka Dominators,Mizanur Rahman
+info,player,Dhaka Dominators,Soumya Sarkar
+info,player,Dhaka Dominators,Usman Ghani
+info,player,Dhaka Dominators,Mohammad Mithun
+info,player,Dhaka Dominators,Nasir Hossain
+info,player,Dhaka Dominators,Ariful Haque
+info,player,Dhaka Dominators,Muktar Ali
+info,player,Dhaka Dominators,Amir Hamza
+info,player,Dhaka Dominators,Taskin Ahmed
+info,player,Dhaka Dominators,Al-Amin Hossain
+info,player,Dhaka Dominators,Arafat Sunny
+info,registry,people,Abu Hider,31803fac
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Amir Hamza,dca1ac2e
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,Debabrata Paul,a77f51d0
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,J Charles,09a9d073
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mizanur Rahman,7b0fb3d5
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Mukidul Islam,a699488a
+info,registry,people,Muktar Ali,4a491652
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Usman Ghani,e3829b2a

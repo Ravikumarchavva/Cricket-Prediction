@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Ireland
+info,gender,male
+info,season,2023
+info,date,2023/05/09
+info,event,Ireland v Bangladesh
+info,match_number,1
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Ireland
+info,toss_decision,field
+info,umpire,MA Gough
+info,umpire,R Black
+info,reserve_umpire,PA Reynolds
+info,tv_umpire,AT Holdstock
+info,match_referee,JJ Crowe
+info,outcome,no result
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taijul Islam
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Hasan Mahmud
+info,player,Bangladesh,Ebadat Hossain
+info,player,Ireland,ST Doheny
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,HT Tector
+info,player,Ireland,L Tucker
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,AR McBrine
+info,player,Ireland,MR Adair
+info,player,Ireland,GI Hume
+info,player,Ireland,J Little
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,C Campher,478a63e7
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,J Little,9061a703
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Towhid Hridoy,9e52a414

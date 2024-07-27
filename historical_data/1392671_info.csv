@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,MI Cape Town
+info,gender,male
+info,season,2023/24
+info,date,2024/01/27
+info,event,SA20
+info,match_number,20
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,TB Abell
+info,umpire,DJ Smith
+info,umpire,TC Mokorosi
+info,reserve_umpire,PJ Vosloo
+info,tv_umpire,BM White
+info,match_referee,SB Lambson
+info,winner,Sunrisers Eastern Cape
+info,winner_runs,4
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,LS Livingstone
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,KA Pollard
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TP Kaber
+info,player,MI Cape Town,N Thushara
+info,player,MI Cape Town,K Rabada
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BM White,66c21d35
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,TP Kaber,0773c16a

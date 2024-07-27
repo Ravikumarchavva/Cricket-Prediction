@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chattogram Challengers
+info,team,Durdanto Dhaka
+info,gender,male
+info,season,2023/24
+info,date,2024/02/17
+info,event,Bangladesh Premier League
+info,match_number,36
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Chattogram Challengers
+info,toss_decision,bat
+info,player_of_match,Tanzid Hasan
+info,umpire,DJ Millns
+info,umpire,Mahfuzur Rahman
+info,reserve_umpire,Morshed Ali Khan
+info,tv_umpire,Gazi Sohel
+info,match_referee,Akhtar Ahmad
+info,winner,Chattogram Challengers
+info,winner_runs,10
+info,player,Chattogram Challengers,Shykat Ali
+info,player,Chattogram Challengers,Tanzid Hasan
+info,player,Chattogram Challengers,J Brown
+info,player,Chattogram Challengers,TC Bruce
+info,player,Chattogram Challengers,R Shepherd
+info,player,Chattogram Challengers,Shuvagata Hom
+info,player,Chattogram Challengers,Shahadat Hossain
+info,player,Chattogram Challengers,Shohidul Islam
+info,player,Chattogram Challengers,Nihaduzzaman
+info,player,Chattogram Challengers,Salauddin Sakil
+info,player,Chattogram Challengers,Bilal Khan
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,AM Rossington
+info,player,Durdanto Dhaka,Sabbir Hossain
+info,player,Durdanto Dhaka,AI Ross
+info,player,Durdanto Dhaka,SC Williams
+info,player,Durdanto Dhaka,Mosaddek Hossain
+info,player,Durdanto Dhaka,Irfan Sukkur
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Shoriful Islam
+info,player,Durdanto Dhaka,Anamul Haque
+info,player,Durdanto Dhaka,PC de Silva
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Anamul Haque,9fd99cbf
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Irfan Sukkur,3cc7dd5f
+info,registry,people,J Brown,647e7d44
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Nihaduzzaman,eca6dcb2
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sabbir Hossain,047e80ca
+info,registry,people,Salauddin Sakil,a90d107b
+info,registry,people,Shahadat Hossain,69e23303
+info,registry,people,Shohidul Islam,607ed7c2
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Shykat Ali,288dd46e
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Taskin Ahmed,ef18b66e

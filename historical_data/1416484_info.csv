@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Islamabad United
+info,gender,male
+info,season,2023/24
+info,date,2024/02/26
+info,event,Pakistan Super League
+info,match_number,13
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Islamabad United
+info,toss_decision,field
+info,player_of_match,Babar Azam
+info,umpire,RK Illingworth
+info,umpire,Shozab Raza
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,Ahsan Raza
+info,match_referee,Muhammad Javed
+info,winner,Peshawar Zalmi
+info,winner_runs,8
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,Haseebullah Khan
+info,player,Peshawar Zalmi,PI Walter
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,Asif Ali
+info,player,Peshawar Zalmi,L Wood
+info,player,Peshawar Zalmi,Naveen-ul-Haq
+info,player,Peshawar Zalmi,Arif Yaqoob
+info,player,Peshawar Zalmi,Salman Irshad
+info,player,Islamabad United,JM Cox
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Agha Salman
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,Haider Ali
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Imad Wasim
+info,player,Islamabad United,Hunain Shah
+info,player,Islamabad United,Naseem Shah
+info,player,Islamabad United,TS Mills
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Arif Yaqoob,6bb9e53b
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,C Munro,af2c687b
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haseebullah Khan,5691931a
+info,registry,people,Hunain Shah,3b8679bf
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,L Wood,65b6943c
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PI Walter,57590dbb
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,TS Mills,245c97cb
+info,registry,people,Tariq Rasheed,1008518c

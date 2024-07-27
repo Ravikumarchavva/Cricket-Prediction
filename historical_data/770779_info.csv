@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Canterbury
+info,gender,male
+info,season,2014/15
+info,date,2015/02/06
+info,date,2015/02/07
+info,date,2015/02/08
+info,date,2015/02/09
+info,event,Plunket Shield
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,LB Gcuma
+info,umpire,AL Gillies
+info,match_referee,DM Quested
+info,winner,Canterbury
+info,winner_wickets,9
+info,player,Canterbury,RM Hira
+info,player,Canterbury,GJ Dawson
+info,player,Canterbury,PG Fulton
+info,player,Canterbury,NT Broom
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,TD Astle
+info,player,Canterbury,FG Anderson
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,RJ McCone
+info,player,Canterbury,KA Jamieson
+info,player,Wellington Firebirds,MHW Papps
+info,player,Wellington Firebirds,D Joon
+info,player,Wellington Firebirds,SJ Murdoch
+info,player,Wellington Firebirds,MA Pollard
+info,player,Wellington Firebirds,JEC Franklin
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,AD Day
+info,player,Wellington Firebirds,LJ Woodcock
+info,player,Wellington Firebirds,MB McEwan
+info,player,Wellington Firebirds,MJ Tugaga
+info,player,Wellington Firebirds,BJ Arnel
+info,registry,people,AD Day,4255615e
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,AM Ellis,f987245c
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,D Joon,9bcc2b54
+info,registry,people,DM Quested,bb312212
+info,registry,people,FG Anderson,1dfc4d01
+info,registry,people,GJ Dawson,1259ca28
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LJ Woodcock,9ba59a3c
+info,registry,people,MA Pollard,d3b84c59
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,MHW Papps,6c1beb66
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Tugaga,526a1047
+info,registry,people,NT Broom,a354c917
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RJ McCone,19cc9592
+info,registry,people,RM Hira,2e966563
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TD Astle,383dd431

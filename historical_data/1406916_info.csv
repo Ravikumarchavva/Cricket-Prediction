@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gulf Giants
+info,team,Abu Dhabi Knight Riders
+info,gender,male
+info,season,2023/24
+info,date,2024/02/10
+info,event,International League T20
+info,match_number,28
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Gulf Giants
+info,toss_decision,bat
+info,player_of_match,J Overton
+info,umpire,AT Holdstock
+info,umpire,MJ Saggers
+info,reserve_umpire,Shiju Sam
+info,tv_umpire,LS Reifer
+info,match_referee,RS Mahanama
+info,winner,Gulf Giants
+info,winner_runs,3
+info,player,Gulf Giants,B Muzarabani
+info,player,Gulf Giants,JM Vince
+info,player,Gulf Giants,JM Cox
+info,player,Gulf Giants,CA Lynn
+info,player,Gulf Giants,SO Hetmyer
+info,player,Gulf Giants,JL Smith
+info,player,Gulf Giants,Aayan Afzal Khan
+info,player,Gulf Giants,Zuhaib Zubair
+info,player,Gulf Giants,MG Erasmus
+info,player,Gulf Giants,J Overton
+info,player,Gulf Giants,DC Drakes
+info,player,Gulf Giants,CJ Jordan
+info,player,Abu Dhabi Knight Riders,Ali Khan
+info,player,Abu Dhabi Knight Riders,JJ Roy
+info,player,Abu Dhabi Knight Riders,MS Pepper
+info,player,Abu Dhabi Knight Riders,JM Clarke
+info,player,Abu Dhabi Knight Riders,A Sharafu
+info,player,Abu Dhabi Knight Riders,LJ Evans
+info,player,Abu Dhabi Knight Riders,Imad Wasim
+info,player,Abu Dhabi Knight Riders,FA Allen
+info,player,Abu Dhabi Knight Riders,DJ Willey
+info,player,Abu Dhabi Knight Riders,S Kalyan
+info,player,Abu Dhabi Knight Riders,SP Narine
+info,player,Abu Dhabi Knight Riders,J Little
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DJ Willey,7f048519
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,J Little,9061a703
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,RS Mahanama,57910393
+info,registry,people,S Kalyan,e6ce0f4a
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Zuhaib Zubair,9124aa4c

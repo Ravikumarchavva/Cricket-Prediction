@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Multan Sultans
+info,gender,male
+info,season,2023/24
+info,date,2024/02/23
+info,event,Pakistan Super League
+info,match_number,9
+info,venue,Multan Cricket Stadium
+info,city,Multan
+info,toss_winner,Peshawar Zalmi
+info,toss_decision,bat
+info,player_of_match,L Wood
+info,umpire,CB Gaffaney
+info,umpire,Faisal Afridi
+info,reserve_umpire,Abdul Muqeet
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,Ali Naqvi
+info,winner,Peshawar Zalmi
+info,winner_runs,5
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Haseebullah Khan
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,PI Walter
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,Asif Ali
+info,player,Peshawar Zalmi,L Wood
+info,player,Peshawar Zalmi,Naveen-ul-Haq
+info,player,Peshawar Zalmi,Arif Yaqoob
+info,player,Peshawar Zalmi,Salman Irshad
+info,player,Multan Sultans,Yasir Khan
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,RR Hendricks
+info,player,Multan Sultans,DJ Malan
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,Iftikhar Ahmed
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,DJ Willey
+info,player,Multan Sultans,Abbas Afridi
+info,player,Multan Sultans,Mohammad Ali
+info,player,Multan Sultans,Shahnawaz Dhani
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Abdul Muqeet,e1ac7789
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Arif Yaqoob,6bb9e53b
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Haseebullah Khan,5691931a
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,L Wood,65b6943c
+info,registry,people,Mohammad Ali,a86a37ab
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PI Walter,57590dbb
+info,registry,people,R Powell,650d5e49
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Shahnawaz Dhani,7ccbb09f
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Yasir Khan,4f1bb625

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Western Storm
+info,team,Northern Diamonds
+info,gender,female
+info,season,2024
+info,date,2024/07/07
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,30
+info,venue,"College Ground, Cheltenham"
+info,city,Cheltenham
+info,toss_winner,Northern Diamonds
+info,toss_decision,field
+info,umpire,PR Pollard
+info,umpire,S McLelland
+info,match_referee,JJ Swift
+info,winner,Northern Diamonds
+info,winner_wickets,6
+info,method,D/L
+info,player,Western Storm,E Corney
+info,player,Western Storm,Sophia Smale
+info,player,Western Storm,SN Luff
+info,player,Western Storm,FC Wilson
+info,player,Western Storm,NAJ Wraith
+info,player,Western Storm,A Wellington
+info,player,Western Storm,N Holland
+info,player,Western Storm,A Griffiths
+info,player,Western Storm,IECM Wong
+info,player,Western Storm,C Skelton
+info,player,Western Storm,E Anderson
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,EA Burns
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,S Turner
+info,player,Northern Diamonds,A Glen
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,R Slater
+info,registry,people,A Glen,9da0d1e5
+info,registry,people,A Griffiths,091001f8
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,C Skelton,db362015
+info,registry,people,E Anderson,5f86ce69
+info,registry,people,E Corney,2406424c
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EK Marlow,ac574559
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,N Holland,aefd0567
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,R Slater,8a452195
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,S Turner,7442f8dd
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SN Luff,e19307f3
+info,registry,people,Sophia Smale,c296dba1

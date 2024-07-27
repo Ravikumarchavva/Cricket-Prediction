@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kerala
+info,team,Andhra
+info,gender,male
+info,season,2017/18
+info,date,2018/01/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium
+info,city,
+info,toss_winner,Andhra
+info,toss_decision,field
+info,winner,Andhra
+info,winner_wickets,6
+info,player,Kerala,SV Samson
+info,player,Kerala,Vishnu Vinod
+info,player,Kerala,Sachin Baby
+info,player,Kerala,KB Arun Karthik
+info,player,Kerala,Salman Nizar
+info,player,Kerala,Rohan Prem
+info,player,Kerala,P Prasanth
+info,player,Kerala,Abhishek Mohan
+info,player,Kerala,Basil Thampi
+info,player,Kerala,S Midhun
+info,player,Kerala,S Sandeep Warrier
+info,player,Andhra,D Siva Kumar
+info,player,Andhra,Bandaru Ayyappa
+info,player,Andhra,BA Bhatt
+info,player,Andhra,GH Vihari
+info,player,Andhra,Girinath Reddy
+info,player,Andhra,Harishankar Reddy
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,RK Bhui
+info,player,Andhra,DB Ravi Teja
+info,player,Andhra,KS Bharat
+info,player,Andhra,Prashanth Kumar
+info,registry,people,Abhishek Mohan,cdc4604c
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,BA Bhatt,dc4686e6
+info,registry,people,Bandaru Ayyappa,cb4f31e2
+info,registry,people,Basil Thampi,871e9faf
+info,registry,people,D Siva Kumar,06adaa46
+info,registry,people,DB Ravi Teja,b720a5d6
+info,registry,people,GH Vihari,94253925
+info,registry,people,Girinath Reddy,5d3d423a
+info,registry,people,Harishankar Reddy,791c088d
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,KS Bharat,44a89551
+info,registry,people,P Prasanth,ddb00822
+info,registry,people,Prashanth Kumar,1f0b8f44
+info,registry,people,RK Bhui,b63e358a
+info,registry,people,Rohan Prem,92d07362
+info,registry,people,S Midhun,ade90de7
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sachin Baby,dc9dd038
+info,registry,people,Salman Nizar,47ff3985
+info,registry,people,Vishnu Vinod,0494fa6e

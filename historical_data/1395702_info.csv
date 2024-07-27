@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,male
+info,season,2023
+info,date,2023/09/26
+info,event,New Zealand tour of Bangladesh
+info,match_number,3
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,WA Young
+info,umpire,Gazi Sohel
+info,umpire,Nitin Menon
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,M Erasmus
+info,match_referee,RS Madugalle
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Zakir Hasan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Nasum Ahmed
+info,player,Bangladesh,Hasan Mahmud
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Khaled Ahmed
+info,player,New Zealand,FH Allen
+info,player,New Zealand,WA Young
+info,player,New Zealand,D Foxcroft
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,CE McConchie
+info,player,New Zealand,AF Milne
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,FH Allen,bf74b130
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TA Boult,a818c1be
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,WA Young,8afe73e2
+info,registry,people,Zakir Hasan,e3e09091

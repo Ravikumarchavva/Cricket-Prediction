@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/06/02
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Leicestershire
+info,toss_decision,bat
+info,umpire,Hassan Adnan
+info,umpire,NL Bainton
+info,match_referee,H Pack
+info,winner,Northamptonshire
+info,winner_wickets,8
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,HJ Swindells
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,Naveen-ul-Haq
+info,player,Leicestershire,Naseem Shah
+info,player,Leicestershire,J Hull
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,FJ Heldreich
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Willey,7f048519
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,H Pack,fed53c91
+info,registry,people,HJ Swindells,95fd757d
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,TAI Taylor,867a45a7

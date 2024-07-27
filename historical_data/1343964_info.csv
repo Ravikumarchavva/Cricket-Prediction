@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2022/23
+info,date,2023/02/03
+info,event,SA20
+info,match_number,24
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,umpire,AT Holdstock
+info,umpire,A Paleker
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,M Erasmus
+info,match_referee,S Wadvalla
+info,outcome,no result
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MS Wade
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,G Coetzee
+info,player,Joburg Super Kings,KI Simmonds
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,M Theekshana
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N Burger,465aa633
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013

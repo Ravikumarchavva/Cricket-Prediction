@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Ireland
+info,gender,male
+info,season,2023/24
+info,date,2024/02/28
+info,date,2024/02/29
+info,date,2024/03/01
+info,event,Afghanistan vs Ireland
+info,venue,"Tolerance Oval, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,MR Adair
+info,umpire,AT Holdstock
+info,umpire,RA Kettleborough
+info,reserve_umpire,Bismillah Shinwari
+info,tv_umpire,PR Reiffel
+info,match_referee,DC Boon
+info,winner,Ireland
+info,winner_wickets,6
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Noor Ali Zadran
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Nasir Jamal
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Zia-ur-Rehman
+info,player,Afghanistan,Naveed Zadran
+info,player,Afghanistan,Nijat Masood
+info,player,Afghanistan,Zahir Khan
+info,player,Ireland,PJ Moor
+info,player,Ireland,A Balbirnie
+info,player,Ireland,C Campher
+info,player,Ireland,HT Tector
+info,player,Ireland,TF van Woerkom
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,AR McBrine
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,CA Young
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Karim Janat,62175638
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,Nasir Jamal,b430ec8c
+info,registry,people,Naveed Zadran,e6b6d352
+info,registry,people,Nijat Masood,a1bf281e
+info,registry,people,Noor Ali Zadran,72e46d30
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,TF van Woerkom,70f2f922
+info,registry,people,Zahir Khan,786b7fe8
+info,registry,people,Zia-ur-Rehman,fda22a2e

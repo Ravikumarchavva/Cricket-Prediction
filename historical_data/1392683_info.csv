@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Paarl Royals
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/02/07
+info,event,SA20
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,SJ Cook
+info,umpire,A Jacobs
+info,umpire,LB Gcuma
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,Stephen Harris
+info,match_referee,ZTA Ndamane
+info,winner,Joburg Super Kings
+info,winner_wickets,9
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Codi Yusuf
+info,player,Paarl Royals,OC McCoy
+info,player,Paarl Royals,T Shamsi
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,DAJ Bracewell
+info,player,Joburg Super Kings,Dayyaan Galiem
+info,player,Joburg Super Kings,SJ Cook
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Burger,465aa633
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,ZTA Ndamane,545cc6db

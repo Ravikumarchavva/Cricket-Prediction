@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Nepal
+info,gender,male
+info,season,2023/24
+info,date,2024/02/12
+info,event,Canada tour of Nepal
+info,match_number,3
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,AK Sah
+info,umpire,LE Hannibal
+info,umpire,VK Jha
+info,reserve_umpire,DN Subedi
+info,match_referee,Neeyamur Rashid
+info,winner,Nepal
+info,winner_wickets,9
+info,player,Canada,A Johnson
+info,player,Canada,NS Dhaliwal
+info,player,Canada,SA Wijeratne
+info,player,Canada,NR Kirton
+info,player,Canada,H Thaker
+info,player,Canada,N Dutta
+info,player,Canada,S Movva
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Shahid Ahmadzai
+info,player,Canada,U Bhagwan
+info,player,Nepal,K Bhurtel
+info,player,Nepal,AK Sah
+info,player,Nepal,B Sharki
+info,player,Nepal,D Khanal
+info,player,Nepal,RK Paudel
+info,player,Nepal,P Sarraf
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,Kushal Malla
+info,player,Nepal,LN Rajbanshi
+info,player,Nepal,Aakash Chand
+info,player,Nepal,H Dhami
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,Aakash Chand,279c51f0
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,D Khanal,c4bc3b59
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,H Dhami,bb20441f
+info,registry,people,H Thaker,c01d7726
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,N Dutta,e258a603
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,P Sarraf,82294960
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Movva,ee229588
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shahid Ahmadzai,3fb56752
+info,registry,people,U Bhagwan,44a2bb4f
+info,registry,people,VK Jha,5d46eb72

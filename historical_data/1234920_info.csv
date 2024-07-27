@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Northern Districts
+info,gender,male
+info,season,2020/21
+info,date,2021/03/11
+info,date,2021/03/12
+info,date,2021/03/13
+info,date,2021/03/14
+info,event,Plunket Shield
+info,match_number,14
+info,venue,"Cobham Oval (New), Whangarei"
+info,city,Whangarei
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,BF Bowden
+info,umpire,JM Dempsey
+info,match_referee,AL Hill
+info,outcome,draw
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,N Wagner
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,JD Baker
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,WT O'Donnell
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,MS Chapman
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,RM ter Braak
+info,player,Auckland Aces,WER Somerville
+info,player,Auckland Aces,DK Ferns
+info,player,Auckland Aces,OMR Pringle
+info,player,Auckland Aces,L Delport
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JG Walker,94734e80
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,L Delport,2c1438ef
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,N Wagner,78adc879
+info,registry,people,OMR Pringle,2649b254
+info,registry,people,RM ter Braak,ac3e5a31
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WT O'Donnell,730b57de

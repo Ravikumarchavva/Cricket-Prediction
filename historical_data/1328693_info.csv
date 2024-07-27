@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Central Stags
+info,gender,male
+info,season,2022/23
+info,date,2023/03/05
+info,date,2023/03/06
+info,date,2023/03/07
+info,date,2023/03/08
+info,event,Plunket Shield
+info,match_number,17
+info,venue,Bay Oval
+info,city,
+info,toss_winner,Northern Districts
+info,toss_decision,bat
+info,umpire,KS Jagannathan
+info,umpire,TJ Parlane
+info,match_referee,RE Hayward
+info,winner,Northern Districts
+info,winner_runs,35
+info,player,Central Stags,GR Hay
+info,player,Central Stags,CG Heaphy
+info,player,Central Stags,BS Smith
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,JA Clarkson
+info,player,Central Stags,BG Randell
+info,player,Central Stags,AY Patel
+info,player,Central Stags,RL Toole
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,C de Grandhomme
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,KDC Clarke
+info,player,Northern Districts,TJG Pringle
+info,player,Northern Districts,JG Walker
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,B Popli,848487cf
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,BS Smith,556df4f9
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CG Heaphy,fcbd6eb8
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JG Walker,94734e80
+info,registry,people,JR Lennox,07793daf
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,KDC Clarke,1e1a8922
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,TL Seifert,4663bd23

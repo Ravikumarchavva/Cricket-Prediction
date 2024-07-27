@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Haryana
+info,gender,male
+info,season,2022/23
+info,date,2022/10/30
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Haryana
+info,toss_decision,field
+info,umpire,NA Patwardhan
+info,umpire,VA Kulkarni
+info,tv_umpire,A Nand Kishore
+info,match_referee,SS Raul
+info,winner,Punjab
+info,winner_runs,49
+info,player,Punjab,Ashwani Kumar
+info,player,Punjab,Shubman Gill
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,M Markande
+info,player,Punjab,S Kaul
+info,player,Punjab,Baltej Singh
+info,player,Haryana,Chaitanya Bishnoi
+info,player,Haryana,YY Singh
+info,player,Haryana,Himanshu Rana
+info,player,Haryana,DB Bana
+info,player,Haryana,N Sindhu
+info,player,Haryana,PA Dahiya
+info,player,Haryana,R Tewatia
+info,player,Haryana,Sumit Kumar
+info,player,Haryana,J Yadav
+info,player,Haryana,A Kamboj
+info,player,Haryana,A Mishra
+info,player,Haryana,MM Sharma
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mishra,6b19d823
+info,registry,people,A Nand Kishore,84424f4f
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Ashwani Kumar,d45c29b1
+info,registry,people,Baltej Singh,0c0ef3fb
+info,registry,people,Chaitanya Bishnoi,e793a8ed
+info,registry,people,DB Bana,224fe44d
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Himanshu Rana,9d3940b3
+info,registry,people,J Yadav,81049310
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,MM Sharma,759ac88f
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,N Sindhu,3cea23da
+info,registry,people,NA Patwardhan,e6ef687d
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PA Dahiya,c10c625d
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SS Raul,4cfdf1d0
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Sumit Kumar,8998a68f
+info,registry,people,VA Kulkarni,8fe0c4f8
+info,registry,people,YY Singh,f0a99c08

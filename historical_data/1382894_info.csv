@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jaffna Kings
+info,team,Galle Titans
+info,gender,male
+info,season,2023
+info,date,2023/08/13
+info,event,Lanka Premier League
+info,match_number,17
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Jaffna Kings
+info,toss_decision,bat
+info,player_of_match,CAK Rajitha
+info,umpire,RR Wimalasiri
+info,umpire,RA Kottahachchi
+info,reserve_umpire,IC Soysa
+info,tv_umpire,LE Hannibal
+info,match_referee,GF Labrooy
+info,winner,Galle Titans
+info,winner_wickets,7
+info,player,Jaffna Kings,KNM Fernando
+info,player,Jaffna Kings,Rahmanullah Gurbaz
+info,player,Jaffna Kings,CA Lynn
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,Shoaib Malik
+info,player,Jaffna Kings,DA Miller
+info,player,Jaffna Kings,DAS Gunaratne
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,M Theekshana
+info,player,Jaffna Kings,D Madushanka
+info,player,Jaffna Kings,N Thushara
+info,player,Galle Titans,PBB Rajapaksa
+info,player,Galle Titans,TL Seifert
+info,player,Galle Titans,CJ Bowes
+info,player,Galle Titans,Shakib Al Hasan
+info,player,Galle Titans,MD Shanaka
+info,player,Galle Titans,S de Livera
+info,player,Galle Titans,S Prasanna
+info,player,Galle Titans,SMLD Samarakoon
+info,player,Galle Titans,CAK Rajitha
+info,player,Galle Titans,CBRLS Kumara
+info,player,Galle Titans,T Shamsi
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DAS Gunaratne,770494eb
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,IC Soysa,717a7971
+info,registry,people,KNM Fernando,d2a2bb1a
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,S de Livera,77708937
+info,registry,people,SMLD Samarakoon,d28f4d1c
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TL Seifert,4663bd23

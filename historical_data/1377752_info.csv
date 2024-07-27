@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Scotland
+info,gender,male
+info,season,2023
+info,date,2023/06/21
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,7
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Scotland
+info,toss_decision,field
+info,player_of_match,MA Leask
+info,umpire,AG Wharf
+info,umpire,LS Reifer
+info,reserve_umpire,L Rusere
+info,tv_umpire,WR Knights
+info,match_referee,ET Dube
+info,winner,Scotland
+info,winner_wickets,1
+info,player,Ireland,AR McBrine
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,HT Tector
+info,player,Ireland,L Tucker
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,MR Adair
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,player,Scotland,CM McBride
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,HG Munsey
+info,player,Scotland,RD Berrington
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,B White,1a448be0
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,C Campher,478a63e7
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,TSS Mackintosh,f5ef7ac3
+info,registry,people,WR Knights,63cbf8d8

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Tripura
+info,gender,male
+info,season,2020/21
+info,date,2021/01/18
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Alur Cricket Stadium III
+info,city,
+info,toss_winner,Tripura
+info,toss_decision,field
+info,winner,Punjab
+info,winner_runs,22
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Sandeep Sharma
+info,player,Punjab,Baltej Singh
+info,player,Punjab,Arshdeep Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,M Markande
+info,player,Tripura,Manisankar Murasingh
+info,player,Tripura,Ajay Sarkar
+info,player,Tripura,Saurabh Das
+info,player,Tripura,Pratyush Singh
+info,player,Tripura,U U Bose
+info,player,Tripura,Sankar Paul
+info,player,Tripura,JR Banik
+info,player,Tripura,Milind Kumar
+info,player,Tripura,Rajat Dey
+info,player,Tripura,SS Ghosh
+info,player,Tripura,KK Acharjee
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Ajay Sarkar,10636efb
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Baltej Singh,0c0ef3fb
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,JR Banik,e87cc53a
+info,registry,people,KK Acharjee,d57936b4
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Manisankar Murasingh,52cb36a0
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Pratyush Singh,456af189
+info,registry,people,Rajat Dey,ccc04a61
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SS Ghosh,02b25ee4
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Sankar Paul,34cbc9d2
+info,registry,people,Saurabh Das,38f548aa
+info,registry,people,U U Bose,d28a7a2a

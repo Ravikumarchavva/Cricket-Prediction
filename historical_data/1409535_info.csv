@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Otago
+info,gender,female
+info,season,2023/24
+info,date,2024/01/23
+info,event,Women's Super Smash
+info,match_number,30
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,Otago
+info,toss_decision,field
+info,player_of_match,AC Jayangani
+info,umpire,DJ Walker
+info,umpire,TJ Parlane
+info,reserve_umpire,JT Blunt
+info,tv_umpire,N Louw
+info,match_referee,SRM Morris
+info,winner,Northern Districts
+info,winner_runs,22
+info,method,D/L
+info,player,Northern Districts,AC Jayangani
+info,player,Northern Districts,JM Watkin
+info,player,Northern Districts,CA Gurrey
+info,player,Northern Districts,NH Patel
+info,player,Northern Districts,MBA Lamplough
+info,player,Northern Districts,EAJ Richardson
+info,player,Northern Districts,E Wolland
+info,player,Northern Districts,C Agafili
+info,player,Northern Districts,HE Topp
+info,player,Northern Districts,MW Downes
+info,player,Northern Districts,SR Naidu
+info,player,Otago,SW Bates
+info,player,Otago,IR James
+info,player,Otago,HNK Jensen
+info,player,Otago,FC Leydon-Davis
+info,player,Otago,PM Inglis
+info,player,Otago,CG Blakely
+info,player,Otago,ON Gain
+info,player,Otago,LCN Smith
+info,player,Otago,PJ Watkins
+info,player,Otago,EJ Carson
+info,player,Otago,EJ Black
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,C Agafili,b9bb76c8
+info,registry,people,CA Gurrey,1e579ad5
+info,registry,people,CG Blakely,8f999ed5
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,E Wolland,415c9efb
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,EJ Black,2817e17a
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Leydon-Davis,b91efad5
+info,registry,people,HE Topp,d9b3ff0a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,IR James,57bdbc16
+info,registry,people,JM Watkin,7239a365
+info,registry,people,JT Blunt,2fe9a247
+info,registry,people,LCN Smith,340202b0
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,MW Downes,d8e8179f
+info,registry,people,N Louw,465c4770
+info,registry,people,NH Patel,d945db3e
+info,registry,people,ON Gain,67913804
+info,registry,people,PJ Watkins,a2d53c59
+info,registry,people,PM Inglis,e4a71d18
+info,registry,people,SR Naidu,f41d1a02
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TJ Parlane,3cfc24b0

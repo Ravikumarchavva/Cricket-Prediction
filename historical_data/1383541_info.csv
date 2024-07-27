@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tamil Nadu
+info,team,Madhya Pradesh
+info,gender,male
+info,season,2023/24
+info,date,2023/10/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Abhimanyu Cricket Academy, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Tamil Nadu
+info,toss_decision,bat
+info,umpire,Abhijit Bhattacharya
+info,umpire,VM Dhokre
+info,tv_umpire,Tapan Sharma
+info,match_referee,Sanjay Verma
+info,winner,Madhya Pradesh
+info,winner_wickets,7
+info,player,Tamil Nadu,Washington Sundar
+info,player,Tamil Nadu,Hari Nishaanth
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,B Sai Sudharsan
+info,player,Tamil Nadu,N Jagadeesan
+info,player,Tamil Nadu,M Shahrukh Khan
+info,player,Tamil Nadu,R Sai Kishore
+info,player,Tamil Nadu,G Ajitesh
+info,player,Tamil Nadu,M Mohammed
+info,player,Tamil Nadu,S Sandeep Warrier
+info,player,Tamil Nadu,CV Varun
+info,player,Tamil Nadu,T Natarajan
+info,player,Madhya Pradesh,AR Rohera
+info,player,Madhya Pradesh,Shubham Sharma
+info,player,Madhya Pradesh,RM Patidar
+info,player,Madhya Pradesh,VR Iyer
+info,player,Madhya Pradesh,Rishabh Chouhan
+info,player,Madhya Pradesh,Rahul Batham
+info,player,Madhya Pradesh,S Solanki
+info,player,Madhya Pradesh,Avesh Khan
+info,player,Madhya Pradesh,K Kartikeya
+info,player,Madhya Pradesh,K Khejroliya
+info,player,Madhya Pradesh,Saransh Jain
+info,registry,people,AR Rohera,1ae701d0
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,G Ajitesh,09a341f9
+info,registry,people,Hari Nishaanth,c3f37533
+info,registry,people,K Kartikeya,f6d8a7ab
+info,registry,people,K Khejroliya,fa2f1dde
+info,registry,people,M Mohammed,1b7c4d69
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rahul Batham,891b9757
+info,registry,people,Rishabh Chouhan,a64608ec
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,S Solanki,ce2fa609
+info,registry,people,Sanjay Verma,bc19a37f
+info,registry,people,Saransh Jain,de33074a
+info,registry,people,Shubham Sharma,d1f8b722
+info,registry,people,T Natarajan,ce794613
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,VM Dhokre,67df71c9
+info,registry,people,VR Iyer,a24be938
+info,registry,people,Washington Sundar,f19ccfad

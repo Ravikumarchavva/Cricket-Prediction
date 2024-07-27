@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Goa
+info,gender,male
+info,season,2019/20
+info,date,2019/11/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium
+info,city,
+info,toss_winner,Baroda
+info,toss_decision,bat
+info,winner,Goa
+info,winner_wickets,4
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Aditya Waghmode
+info,player,Baroda,DJ Hooda
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,YK Pathan
+info,player,Baroda,NA Rathva
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,AS Karambelkar
+info,player,Baroda,A Sheth
+info,player,Baroda,RT Arothe
+info,player,Baroda,LI Meriwala
+info,player,Goa,Heramb Parab
+info,player,Goa,Lakshay Garg
+info,player,Goa,Darshan Misal
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,Amulya Pandrekar
+info,player,Goa,Amit Verma
+info,player,Goa,Aditya Kaushik
+info,player,Goa,Rajashekhar Harikant
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Shubham Desai
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AS Karambelkar,79194080
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Aditya Waghmode,eb67df8f
+info,registry,people,Amit Verma,3b30b8c4
+info,registry,people,Amulya Pandrekar,47ccd2bb
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Heramb Parab,b29f6148
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,RT Arothe,50455929
+info,registry,people,Rajashekhar Harikant,b9228ad0
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Shubham Desai,3fa96c98
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,YK Pathan,3c6ffae8

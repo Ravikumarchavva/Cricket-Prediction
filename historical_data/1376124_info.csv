@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Malaysia
+info,gender,female
+info,season,2023
+info,date,2023/06/03
+info,event,Nepal Women tour of Malaysia
+info,match_number,4
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,player_of_match,WA Duraisingam
+info,umpire,Nur Hijrah
+info,umpire,Shafizan Shahriman
+info,reserve_umpire,Izmir Azraf
+info,match_referee,B Ramani
+info,winner,Malaysia
+info,winner_wickets,4
+info,player,Nepal,K Shrestha
+info,player,Nepal,SR Magar
+info,player,Nepal,J Pandey
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,B Rawal
+info,player,Nepal,K Kunwar
+info,player,Nepal,Apsari Begam
+info,player,Nepal,K Joshi
+info,player,Nepal,I Bist
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Nik Nur Atiela
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,Amalin Sorfina
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Amalin Sorfina,734cded2
+info,registry,people,Apsari Begam,eb765b41
+info,registry,people,B Ramani,92ad5353
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,I Barma,521abce2
+info,registry,people,I Bist,beccd5a1
+info,registry,people,Izmir Azraf,43c90923
+info,registry,people,J Pandey,e1214f03
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,Nik Nur Atiela,cfdfe39c
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,Shafizan Shahriman,6fb7e24b
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c

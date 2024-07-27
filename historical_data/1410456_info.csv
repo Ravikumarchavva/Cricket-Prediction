@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Birmingham Bears
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Birmingham Bears
+info,toss_decision,field
+info,umpire,PJ Hartley
+info,umpire,S Widdup
+info,match_referee,AJ Swann
+info,winner,Birmingham Bears
+info,winner_wickets,9
+info,player,Nottinghamshire,BJR Martindale
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,Fazalhaq Farooqi
+info,player,Birmingham Bears,RM Yates
+info,player,Birmingham Bears,EG Barnard
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,MM Ali
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,JG Bethell
+info,player,Birmingham Bears,CG Benjamin
+info,player,Birmingham Bears,GHS Garton
+info,player,Birmingham Bears,ZGF Foulkes
+info,player,Birmingham Bears,JB Lintott
+info,player,Birmingham Bears,DR Briggs
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,BJR Martindale,a81cac82
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,CG Harrison,f655d740
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MM Ali,bb351c23
+info,registry,people,OP Stone,3f659464
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,RM Yates,3581a798
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,ZGF Foulkes,30f92334

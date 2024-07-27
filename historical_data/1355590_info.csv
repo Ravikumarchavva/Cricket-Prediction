@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Oval Invincibles
+info,team,Birmingham Phoenix
+info,gender,female
+info,season,2023
+info,date,2023/08/13
+info,event,The Hundred Women's Competition
+info,match_number,19
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Birmingham Phoenix
+info,toss_decision,field
+info,player_of_match,M Kapp
+info,umpire,JD Shantry
+info,umpire,S Redfern
+info,reserve_umpire,WRP Fernando
+info,tv_umpire,GD Lloyd
+info,match_referee,PM Such
+info,winner,Oval Invincibles
+info,winner_runs,10
+info,player,Oval Invincibles,L Winfield-Hill
+info,player,Oval Invincibles,SW Bates
+info,player,Oval Invincibles,A Capsey
+info,player,Oval Invincibles,M Kapp
+info,player,Oval Invincibles,PJ Scholfield
+info,player,Oval Invincibles,CL Griffith
+info,player,Oval Invincibles,MK Villiers
+info,player,Oval Invincibles,KM Chathli
+info,player,Oval Invincibles,R MacDonald-Gay
+info,player,Oval Invincibles,E Gray
+info,player,Oval Invincibles,Sophia Smale
+info,player,Birmingham Phoenix,SFM Devine
+info,player,Birmingham Phoenix,T Flintoff
+info,player,Birmingham Phoenix,AE Jones
+info,player,Birmingham Phoenix,EA Burns
+info,player,Birmingham Phoenix,E Jones
+info,player,Birmingham Phoenix,IECM Wong
+info,player,Birmingham Phoenix,SL Kalis
+info,player,Birmingham Phoenix,AJ Freeborn
+info,player,Birmingham Phoenix,EL Arlott
+info,player,Birmingham Phoenix,HL Baker
+info,player,Birmingham Phoenix,KA Levick
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,E Gray,58717de2
+info,registry,people,E Jones,971cb321
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,PM Such,c9f1892c
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sophia Smale,c296dba1
+info,registry,people,T Flintoff,5471b94a
+info,registry,people,WRP Fernando,7d98d385

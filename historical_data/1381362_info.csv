@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,San Francisco Unicorns
+info,team,MI New York
+info,gender,male
+info,season,2023
+info,date,2023/07/14
+info,event,Major League Cricket
+info,match_number,2
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,San Francisco Unicorns
+info,toss_decision,bat
+info,player_of_match,CJ Anderson
+info,umpire,Aleem Dar
+info,umpire,Vijaya Mallela
+info,reserve_umpire,O Brown
+info,tv_umpire,BV Taylor
+info,match_referee,SJA Taufel
+info,winner,San Francisco Unicorns
+info,winner_runs,22
+info,player,San Francisco Unicorns,FH Allen
+info,player,San Francisco Unicorns,MS Wade
+info,player,San Francisco Unicorns,MP Stoinis
+info,player,San Francisco Unicorns,AJ Finch
+info,player,San Francisco Unicorns,CJ Anderson
+info,player,San Francisco Unicorns,Shadab Khan
+info,player,San Francisco Unicorns,Tajinder Singh
+info,player,San Francisco Unicorns,Chaitanya Bishnoi
+info,player,San Francisco Unicorns,C le Roux
+info,player,San Francisco Unicorns,Haris Rauf
+info,player,San Francisco Unicorns,LE Plunkett
+info,player,MI New York,D Brevis
+info,player,MI New York,SR Taylor
+info,player,MI New York,MD Patel
+info,player,MI New York,N Pooran
+info,player,MI New York,KA Pollard
+info,player,MI New York,TH David
+info,player,MI New York,Hammad Azam
+info,player,MI New York,S Ladda
+info,player,MI New York,Ehsan Adil
+info,player,MI New York,K Rabada
+info,player,MI New York,TA Boult
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BV Taylor,99760152
+info,registry,people,C le Roux,7a490dec
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,Chaitanya Bishnoi,e793a8ed
+info,registry,people,D Brevis,844e79d1
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,FH Allen,bf74b130
+info,registry,people,Hammad Azam,57bd3ecc
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,O Brown,22fe51d7
+info,registry,people,S Ladda,fb693839
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Tajinder Singh,f9d99806
+info,registry,people,Vijaya Mallela,85b6244a

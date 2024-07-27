@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Sparks
+info,team,The Blaze
+info,gender,female
+info,season,2024
+info,date,2024/04/20
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,2
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Central Sparks
+info,toss_decision,bat
+info,umpire,G Bambury
+info,umpire,Rob White
+info,match_referee,AJ Swann
+info,winner,Central Sparks
+info,winner_runs,78
+info,player,Central Sparks,E Jones
+info,player,Central Sparks,C Brewer
+info,player,Central Sparks,D Perrin
+info,player,Central Sparks,AJ Freeborn
+info,player,Central Sparks,A Campbell
+info,player,Central Sparks,B Ellis
+info,player,Central Sparks,KL George
+info,player,Central Sparks,EL Arlott
+info,player,Central Sparks,IECM Wong
+info,player,Central Sparks,RA Fackrell
+info,player,Central Sparks,HL Baker
+info,player,The Blaze,M Kelly
+info,player,The Blaze,T Graves
+info,player,The Blaze,S Munro
+info,player,The Blaze,E Claridge
+info,player,The Blaze,N de Klerk
+info,player,The Blaze,D Mullan
+info,player,The Blaze,B Harmer
+info,player,The Blaze,ML Kirk
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,CM McCarthy
+info,player,The Blaze,G Ballinger
+info,registry,people,A Campbell,4b788e61
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,B Ellis,370a88ac
+info,registry,people,B Harmer,f113df44
+info,registry,people,C Brewer,baf11c9a
+info,registry,people,CM McCarthy,7ce7fb3c
+info,registry,people,D Mullan,e78964b8
+info,registry,people,D Perrin,bfa0fa33
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,E Jones,971cb321
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,G Ballinger,2f485713
+info,registry,people,G Bambury,a8e0ed6a
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,KL George,e69dbbef
+info,registry,people,KL Gordon,00823a96
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,ML Kirk,2dece89c
+info,registry,people,N de Klerk,ea544967
+info,registry,people,RA Fackrell,b074cd46
+info,registry,people,Rob White,59b91222
+info,registry,people,S Munro,b4e026de
+info,registry,people,T Graves,e893fef7

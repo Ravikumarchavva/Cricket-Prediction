@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Malawi
+info,gender,female
+info,season,2024
+info,date,2024/06/03
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,13
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,P Timong
+info,umpire,Gasana Christian
+info,umpire,TJ Onikoyi
+info,reserve_umpire,D Hagenimana
+info,winner,Uganda
+info,winner_runs,86
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,Mohammed Jimia
+info,player,Uganda,J Mbabazi
+info,player,Uganda,P Alako
+info,player,Uganda,P Timong
+info,player,Uganda,S Nampiina
+info,player,Uganda,R Musamali
+info,player,Uganda,M Ariokot
+info,player,Uganda,L Anyait
+info,player,Uganda,A Akurut
+info,player,Uganda,I Nandera
+info,player,Malawi,P Maziya
+info,player,Malawi,S Chinawa
+info,player,Malawi,T Luka
+info,player,Malawi,LL Dimba
+info,player,Malawi,S Kananji
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,M Kudimba
+info,player,Malawi,A Alfonso
+info,player,Malawi,V Phiri
+info,player,Malawi,L Malino
+info,player,Malawi,T Chabila
+info,registry,people,A Akurut,b93b7337
+info,registry,people,A Alfonso,5088c217
+info,registry,people,D Hagenimana,de167462
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,I Nandera,a91772c4
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,L Anyait,cffeef53
+info,registry,people,L Malino,7a81836e
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,M Kudimba,24ce1fcb
+info,registry,people,Mohammed Jimia,01fa12c1
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Maziya,4f85f02c
+info,registry,people,P Timong,121b6ac9
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,T Chabila,f18b67a3
+info,registry,people,T Luka,44e008a5
+info,registry,people,TJ Onikoyi,b68d9bc6
+info,registry,people,V Phiri,8ffa1b3c

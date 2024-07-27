@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jharkhand
+info,team,Gujarat
+info,gender,male
+info,season,2018/19
+info,date,2019/03/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Gujarat
+info,toss_decision,field
+info,winner,Jharkhand
+info,winner_runs,1
+info,player,Jharkhand,Anand Singh
+info,player,Jharkhand,Ishan Kishan
+info,player,Jharkhand,Virat Singh
+info,player,Jharkhand,SS Tiwary
+info,player,Jharkhand,Kumar Deobrat
+info,player,Jharkhand,AS Roy
+info,player,Jharkhand,IR Jaggi
+info,player,Jharkhand,Vikash Singh
+info,player,Jharkhand,Utkarsh Singh
+info,player,Jharkhand,Supriyo Chakraborty
+info,player,Jharkhand,R Shukla
+info,player,Gujarat,A Nagwaswalla
+info,player,Gujarat,Jayveer Parmar
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,YD Gardharia
+info,player,Gujarat,AR Patel
+info,player,Gujarat,Hemang Patel
+info,player,Gujarat,Karan Patel
+info,player,Gujarat,Dhruv Raval
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,Piyush Tanwar
+info,player,Gujarat,Chirag Gandhi
+info,registry,people,A Nagwaswalla,01ada0ed
+info,registry,people,AR Patel,2e171977
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Anand Singh,d2550980
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,Dhruv Raval,e635a5dd
+info,registry,people,Hemang Patel,59c8c5b5
+info,registry,people,IR Jaggi,dded65e7
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,Jayveer Parmar,f9346e2a
+info,registry,people,Karan Patel,a18da10f
+info,registry,people,Kshitij Patel,9309e81f
+info,registry,people,Kumar Deobrat,bc6d8229
+info,registry,people,Nazim Siddiqui,88a4a356
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Piyush Tanwar,9c53babc
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,R Shukla,de4b0555
+info,registry,people,SS Tiwary,709b0bac
+info,registry,people,Supriyo Chakraborty,0e567e38
+info,registry,people,Utkarsh Singh,b2a55ac1
+info,registry,people,Vikash Singh,8b018008
+info,registry,people,Virat Singh,26d76ad9
+info,registry,people,YD Gardharia,99697092

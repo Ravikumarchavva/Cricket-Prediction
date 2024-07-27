@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Arunachal Pradesh
+info,team,Goa
+info,gender,male
+info,season,2023/24
+info,date,2023/10/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Arunachal Pradesh
+info,toss_decision,bat
+info,umpire,P Jayapal
+info,umpire,PM Joshi
+info,match_referee,DS Manohar
+info,winner,Goa
+info,winner_wickets,9
+info,player,Arunachal Pradesh,A Awasthi
+info,player,Arunachal Pradesh,Kumar Nyompu
+info,player,Arunachal Pradesh,Aryan Sahani
+info,player,Arunachal Pradesh,Neelam Obi
+info,player,Arunachal Pradesh,D Yadav
+info,player,Arunachal Pradesh,Techi Doria
+info,player,Arunachal Pradesh,SK Das
+info,player,Arunachal Pradesh,A Thapa
+info,player,Arunachal Pradesh,Yab Niya
+info,player,Arunachal Pradesh,T Teti
+info,player,Arunachal Pradesh,Y Sera
+info,player,Goa,Kashyap Bakhale
+info,player,Goa,Ishaan Gadekar
+info,player,Goa,RA Tripathi
+info,player,Goa,TT Sawkar
+info,player,Goa,SS Prabhudessai
+info,player,Goa,SP Tari
+info,player,Goa,Krishnamurthy Siddharth
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,MS Redkar
+info,player,Goa,VK Singh
+info,player,Goa,Arjun Tendulkar
+info,player,Goa,Felix Alemao
+info,registry,people,A Awasthi,fa62a463
+info,registry,people,A Thapa,b66a5046
+info,registry,people,Arjun Tendulkar,44aac2f0
+info,registry,people,Aryan Sahani,ed9a84e9
+info,registry,people,D Yadav,9f622b6c
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Felix Alemao,2d209101
+info,registry,people,Ishaan Gadekar,e3751ee2
+info,registry,people,Kashyap Bakhale,aa39eaa3
+info,registry,people,Krishnamurthy Siddharth,330bc788
+info,registry,people,Kumar Nyompu,03be7a88
+info,registry,people,MS Redkar,f64c8577
+info,registry,people,Neelam Obi,047fc26e
+info,registry,people,P Jayapal,209e51e8
+info,registry,people,PM Joshi,0dcc9a8c
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,SK Das,fc1deb2b
+info,registry,people,SP Tari,1f1056c4
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,T Teti,757efa0f
+info,registry,people,TT Sawkar,276b64d4
+info,registry,people,Techi Doria,dde809f3
+info,registry,people,VK Singh,0fe0cb24
+info,registry,people,Y Sera,4fcaa008
+info,registry,people,Yab Niya,8d6505d3

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Zimbabwe
+info,gender,female
+info,season,2023/24
+info,date,2024/01/28
+info,event,Ireland Women tour of Zimbabwe
+info,match_number,2
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,L Delany
+info,umpire,M Moyo
+info,umpire,P Sizara
+info,reserve_umpire,S Dambanevana
+info,match_referee,J Chibhabha
+info,winner,Ireland
+info,winner_runs,42
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,R Stokell
+info,player,Ireland,L Delany
+info,player,Ireland,AN Kelly
+info,player,Ireland,G Dempsey
+info,player,Ireland,A Canning
+info,player,Ireland,A Dalzell
+info,player,Ireland,FA Sargent
+info,player,Ireland,C Murray
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,P Marange
+info,player,Zimbabwe,C Mutasa
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,L Mabhero
+info,player,Zimbabwe,K Chigora
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,A Dalzell,66498395
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AN Kelly,397369e0
+info,registry,people,C Murray,5a50471c
+info,registry,people,C Mutasa,1ba50005
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,FA Sargent,fa6e2cb3
+info,registry,people,G Dempsey,940feccc
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,J Chibhabha,4c5c47a4
+info,registry,people,K Chigora,5f311f1a
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Moyo,c3017af3
+info,registry,people,M Musonda,94b52754
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,S Dambanevana,039923bd

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chandigarh
+info,team,Punjab
+info,gender,male
+info,season,2019/20
+info,date,2019/11/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Cricket Stadium, Sector-16"
+info,city,
+info,toss_winner,Chandigarh
+info,toss_decision,bat
+info,winner,Punjab
+info,winner_wickets,7
+info,player,Chandigarh,M Vohra
+info,player,Chandigarh,Jaskaranvir Singh Sohi
+info,player,Chandigarh,Shivam Bhambri
+info,player,Chandigarh,Bipul Sharma
+info,player,Chandigarh,Gaurav Puri
+info,player,Chandigarh,Ankit Kaushik
+info,player,Chandigarh,Jaskaran Singh
+info,player,Chandigarh,Shreshth Nirmohi
+info,player,Chandigarh,Gurinder Singh
+info,player,Chandigarh,BB Sran
+info,player,Chandigarh,Gaurav Gambhir
+info,player,Punjab,Sandeep Sharma
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Karan Kaila
+info,player,Punjab,S Kaul
+info,player,Punjab,M Markande
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Sharad Lumba
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Ankit Kaushik,084708eb
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,BB Sran,d8b2f218
+info,registry,people,Bipul Sharma,c18496e1
+info,registry,people,Gaurav Gambhir,242a9261
+info,registry,people,Gaurav Puri,0834996c
+info,registry,people,Gurinder Singh,911d04ad
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,Jaskaranvir Singh Sohi,a030bba8
+info,registry,people,Karan Kaila,b19f1fe9
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,M Vohra,c03e2850
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,S Kaul,dcf81436
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Sharad Lumba,03c29939
+info,registry,people,Shivam Bhambri,e4bfcaad
+info,registry,people,Shreshth Nirmohi,e7e1eeb2

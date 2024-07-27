@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Worcestershire
+info,gender,male
+info,season,2023
+info,date,2023/05/18
+info,date,2023/05/19
+info,date,2023/05/20
+info,event,County Championship
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Worcestershire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,N Pratt
+info,match_referee,JJ Whitaker
+info,winner,Worcestershire
+info,winner_wickets,3
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,JH Davey
+info,player,Leicestershire,WS Davis
+info,player,Worcestershire,Azhar Ali
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,J Leach
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,JA Brooks
+info,player,Worcestershire,BJ Gibbon
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BJ Gibbon,0126ff20
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GH Roderick,7081848a
+info,registry,people,J Leach,cd143bca
+info,registry,people,JA Brooks,8bf61e65
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,WS Davis,078ffbf2

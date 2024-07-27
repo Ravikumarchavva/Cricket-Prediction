@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Western Province
+info,gender,male
+info,season,2022/23
+info,date,2022/10/21
+info,event,CSA T20 Challenge
+info,match_number,9
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Titans
+info,toss_decision,bat
+info,umpire,A Jacobs
+info,umpire,S George
+info,reserve_umpire,PJ Vosloo
+info,tv_umpire,MN Gampu
+info,match_referee,ZTA Ndamane
+info,winner,Titans
+info,winner_runs,16
+info,method,D/L
+info,player,Titans,D Brevis
+info,player,Titans,J Pillay
+info,player,Titans,D Elgar
+info,player,Titans,BS Makhanya
+info,player,Titans,TB de Bruyn
+info,player,Titans,Dayyaan Galiem
+info,player,Titans,D Ferreira
+info,player,Titans,A Gqamane
+info,player,Titans,SR Harmer
+info,player,Titans,CJ Dala
+info,player,Titans,AM Phangiso
+info,player,Western Province,K Verreynne
+info,player,Western Province,D Smith
+info,player,Western Province,T de Zorzi
+info,player,Western Province,G Kaplan
+info,player,Western Province,M Mpongwana
+info,player,Western Province,GF Linde
+info,player,Western Province,Abdullah Bayoumy
+info,player,Western Province,D Paterson
+info,player,Western Province,TL Moreki
+info,player,Western Province,N Burger
+info,player,Western Province,J Dawood
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,Abdullah Bayoumy,8ab49ad2
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Bosch,172dff15
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Elgar,33085ffb
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Paterson,462d7c62
+info,registry,people,D Smith,5d69930d
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,G Kaplan,a5c3d564
+info,registry,people,GF Linde,e5437608
+info,registry,people,J Dawood,a2316f90
+info,registry,people,J Pillay,230f5cea
+info,registry,people,K Verreynne,bf814547
+info,registry,people,M Mpongwana,547c5509
+info,registry,people,MN Gampu,41597619
+info,registry,people,N Burger,465aa633
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,S George,6d9e5a54
+info,registry,people,SR Harmer,23638956
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TL Moreki,36ea17c1
+info,registry,people,ZTA Ndamane,545cc6db

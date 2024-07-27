@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Essex
+info,gender,male
+info,season,2024
+info,date,2024/06/20
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,AC Harris
+info,umpire,ID Blackwell
+info,match_referee,PM Such
+info,winner,Essex
+info,winner_wickets,8
+info,player,Hampshire,JM Vince
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,TE Albert
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,MG Neser
+info,player,Hampshire,CP Wood
+info,player,Hampshire,BTJ Wheal
+info,player,Hampshire,JA Turner
+info,player,Essex,AM Rossington
+info,player,Essex,D Elgar
+info,player,Essex,MS Pepper
+info,player,Essex,JM Cox
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,CWJ Allison
+info,player,Essex,SR Harmer
+info,player,Essex,LM Benkenstein
+info,player,Essex,S Snater
+info,player,Essex,BMJ Allison
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CP Wood,1cfac535
+info,registry,people,CWJ Allison,42ee1d76
+info,registry,people,D Elgar,33085ffb
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,MG Neser,0164b064
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PM Such,c9f1892c
+info,registry,people,S Snater,a790df98
+info,registry,people,SR Harmer,23638956
+info,registry,people,TE Albert,a6c17509

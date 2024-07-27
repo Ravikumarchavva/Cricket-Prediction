@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,India
+info,gender,male
+info,season,2023
+info,date,2023/09/15
+info,event,Asia Cup
+info,match_number,12
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Shakib Al Hasan
+info,umpire,Asif Yaqoob
+info,umpire,RK Illingworth
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,P Wilson
+info,match_referee,DC Boon
+info,winner,Bangladesh
+info,winner_runs,6
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Anamul Haque
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Shamim Hossain
+info,player,Bangladesh,Nasum Ahmed
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Mustafizur Rahman
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,Tilak Varma
+info,player,India,KL Rahul
+info,player,India,Ishan Kishan
+info,player,India,SA Yadav
+info,player,India,RA Jadeja
+info,player,India,AR Patel
+info,player,India,SN Thakur
+info,player,India,Mohammed Shami
+info,player,India,M Prasidh Krishna
+info,registry,people,AR Patel,2e171977
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,P Wilson,68304a36
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Towhid Hridoy,9e52a414

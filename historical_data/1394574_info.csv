@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Titans
+info,team,North West
+info,gender,male
+info,season,2023/24
+info,date,2024/03/08
+info,event,CSA T20 Challenge
+info,match_number,4
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,North West
+info,toss_decision,field
+info,player_of_match,T Shamsi
+info,umpire,BM White
+info,umpire,LB Gcuma
+info,reserve_umpire,PJ Vosloo
+info,tv_umpire,Lauren Agenbag
+info,match_referee,S Wadvalla
+info,winner,Titans
+info,winner_runs,13
+info,player,Titans,BS Makhanya
+info,player,Titans,D Brevis
+info,player,Titans,R Moonsamy
+info,player,Titans,AK Markram
+info,player,Titans,D Ferreira
+info,player,Titans,J Lees
+info,player,Titans,C Bosch
+info,player,Titans,A Gqamane
+info,player,Titans,CJ Dala
+info,player,Titans,LB Williams
+info,player,Titans,T Shamsi
+info,player,North West,M Prince
+info,player,North West,WJ Lubbe
+info,player,North West,R van Tonder
+info,player,North West,RA Herman
+info,player,North West,LC Ngoepe
+info,player,North West,S Muthusamy
+info,player,North West,M Pretorius
+info,player,North West,D Jansen
+info,player,North West,B Xenxe
+info,player,North West,C Seleka
+info,player,North West,IHM Modimokoane
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,AK Markram,6a26221c
+info,registry,people,B Xenxe,94cdf850
+info,registry,people,BM White,66c21d35
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Seleka,be8b147b
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,IHM Modimokoane,569338b8
+info,registry,people,J Lees,51d1d312
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Prince,aa80a6c3
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,R Moonsamy,29e676b0
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,RA Herman,9c821d2e
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013

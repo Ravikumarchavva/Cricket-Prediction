@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dubai Capitals
+info,team,MI Emirates
+info,gender,male
+info,season,2023/24
+info,date,2024/02/10
+info,event,International League T20
+info,match_number,29
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,MI Emirates
+info,toss_decision,field
+info,player_of_match,Haider Ali
+info,umpire,Akbar Ali
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Aleem Dar
+info,tv_umpire,P Wilson
+info,match_referee,SJA Taufel
+info,winner,Dubai Capitals
+info,winner_runs,19
+info,player,Dubai Capitals,Zahir Khan
+info,player,Dubai Capitals,T Banton
+info,player,Dubai Capitals,MDE Holden
+info,player,Dubai Capitals,JL du Plooy
+info,player,Dubai Capitals,SW Billings
+info,player,Dubai Capitals,Sikandar Raza
+info,player,Dubai Capitals,BR Dunk
+info,player,Dubai Capitals,MD Shanaka
+info,player,Dubai Capitals,SC Kuggeleijn
+info,player,Dubai Capitals,OP Stone
+info,player,Dubai Capitals,Akif Raja
+info,player,Dubai Capitals,Haider Ali
+info,player,MI Emirates,Waqar Salamkheil
+info,player,MI Emirates,Waseem Muhammad
+info,player,MI Emirates,MDKJ Perera
+info,player,MI Emirates,ADS Fletcher
+info,player,MI Emirates,CG Benjamin
+info,player,MI Emirates,DR Mousley
+info,player,MI Emirates,KA Pollard
+info,player,MI Emirates,JA Thompson
+info,player,MI Emirates,DJ Bravo
+info,player,MI Emirates,V Viyaskanth
+info,player,MI Emirates,TA Boult
+info,player,MI Emirates,Muhammad Rohid
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,BR Dunk,272d796e
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,Haider Ali,dd572696
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,OP Stone,3f659464
+info,registry,people,P Wilson,68304a36
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TA Boult,a818c1be
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,Waqar Salamkheil,3f1066d0
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahir Khan,786b7fe8

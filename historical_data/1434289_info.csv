@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,India
+info,gender,female
+info,season,2024
+info,date,2024/06/23
+info,event,South Africa Women tour of India
+info,match_number,3
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,DB Sharma
+info,umpire,N Janani
+info,umpire,N Perera
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,R Pandit
+info,match_referee,V Narayan Kutty
+info,winner,India
+info,winner_wickets,6
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,M Kapp
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,N de Klerk
+info,player,South Africa,N Shangase
+info,player,South Africa,M De Ridder
+info,player,South Africa,N Mlaba
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,A Khaka
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,PS Punia
+info,player,India,H Kaur
+info,player,India,JI Rodrigues
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,RP Yadav
+info,player,India,A Reddy
+info,player,India,SR Patil
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Khaka,0d518f89
+info,registry,people,A Reddy,eadc8924
+info,registry,people,DB Sharma,201fef33
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M De Ridder,5bb7ec70
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,N Janani,d06a665d
+info,registry,people,N Mlaba,686362af
+info,registry,people,N Perera,129709f9
+info,registry,people,N Shangase,b17a4a93
+info,registry,people,N de Klerk,ea544967
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,PS Punia,8d887a02
+info,registry,people,R Pandit,8a604384
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,SR Patil,33946d69
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,T Brits,06659caa
+info,registry,people,TS Sekhukhune,6e28e586
+info,registry,people,V Narayan Kutty,4bacee3d

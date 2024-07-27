@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Sixers
+info,team,Jaffna Kings
+info,gender,male
+info,season,2024
+info,date,2024/07/03
+info,event,Lanka Premier League
+info,match_number,4
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Jaffna Kings
+info,toss_decision,field
+info,player_of_match,WIA Fernando
+info,umpire,RA Kottahachchi
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,IC Soysa
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,GF Labrooy
+info,winner,Jaffna Kings
+info,winner_wickets,4
+info,player,Dambulla Sixers,MD Gunathilaka
+info,player,Dambulla Sixers,MDKJ Perera
+info,player,Dambulla Sixers,MNK Fernando
+info,player,Dambulla Sixers,MS Chapman
+info,player,Dambulla Sixers,Towhid Hridoy
+info,player,Dambulla Sixers,C Wickramasinghe
+info,player,Dambulla Sixers,Mohammad Nabi
+info,player,Dambulla Sixers,N Vimukthi
+info,player,Dambulla Sixers,A Dananjaya
+info,player,Dambulla Sixers,Mustafizur Rahman
+info,player,Dambulla Sixers,N Thushara
+info,player,Jaffna Kings,P Nissanka
+info,player,Jaffna Kings,BKG Mendis
+info,player,Jaffna Kings,RR Rossouw
+info,player,Jaffna Kings,WIA Fernando
+info,player,Jaffna Kings,KIC Asalanka
+info,player,Jaffna Kings,DM de Silva
+info,player,Jaffna Kings,Azmatullah Omarzai
+info,player,Jaffna Kings,FA Allen
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Jaffna Kings,JP Behrendorff
+info,player,Jaffna Kings,AM Fernando
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,AM Fernando,de3d549a
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Wickramasinghe,a5c48ed1
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,IC Soysa,717a7971
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,N Vimukthi,b215a7be
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,WIA Fernando,9550470d

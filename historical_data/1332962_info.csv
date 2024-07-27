@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Assam
+info,gender,male
+info,season,2022/23
+info,date,2022/10/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Saurashtra Cricket Association Stadium, Rajkot"
+info,city,Rajkot
+info,toss_winner,Assam
+info,toss_decision,field
+info,umpire,M Krishnadas
+info,umpire,S Ravi
+info,match_referee,Prakash Bhatt
+info,winner,Mumbai
+info,winner_runs,61
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,Aman Hakim Khan
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,SN Khan
+info,player,Mumbai,S Dube
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,Tanush Kotian
+info,player,Mumbai,Hardik Tamore
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,Sairaj Patil
+info,player,Mumbai,PH Solanki
+info,player,Assam,Denish Das
+info,player,Assam,RG Hazarika
+info,player,Assam,Abhishek Thakuri
+info,player,Assam,R Parag
+info,player,Assam,NR Narah
+info,player,Assam,Rishav Das
+info,player,Assam,Wasiqur Rahman
+info,player,Assam,Rajjakuddin Ahmed
+info,player,Assam,D Rabha
+info,player,Assam,Mukhtar Hussain
+info,player,Assam,Mrinmoy Dutta
+info,player,Assam,Roshan Alam
+info,registry,people,Abhishek Thakuri,ff9c2522
+info,registry,people,Aman Hakim Khan,378daa89
+info,registry,people,D Rabha,f67fe815
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Denish Das,9cd9e3f4
+info,registry,people,Hardik Tamore,3082eac3
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,Mrinmoy Dutta,64959652
+info,registry,people,Mukhtar Hussain,97114e80
+info,registry,people,NR Narah,eb7c5965
+info,registry,people,PH Solanki,c695b423
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,R Parag,04a418e8
+info,registry,people,RG Hazarika,ef33e040
+info,registry,people,Rajjakuddin Ahmed,69cbffb8
+info,registry,people,Rishav Das,8963ee49
+info,registry,people,Roshan Alam,7cc093f4
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SN Khan,f088b960
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Sairaj Patil,79b35258
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tanush Kotian,5724e517
+info,registry,people,Wasiqur Rahman,645eaa96
+info,registry,people,YBK Jaiswal,6c19c6e5

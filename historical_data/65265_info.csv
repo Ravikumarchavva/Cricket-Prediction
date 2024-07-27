@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Netherlands
+info,gender,male
+info,season,2002/03
+info,date,2003/02/28
+info,event,ICC World Cup
+info,match_number,33
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,HH Streak
+info,umpire,SA Bucknor
+info,umpire,TH Wijewardene
+info,tv_umpire,Nadeem Ghauri
+info,match_referee,CH Lloyd
+info,winner,Zimbabwe
+info,winner_runs,99
+info,player,Zimbabwe,CB Wishart
+info,player,Zimbabwe,MA Vermeulen
+info,player,Zimbabwe,A Flower
+info,player,Zimbabwe,GJ Whittall
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,DA Marillier
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,BA Murphy
+info,player,Zimbabwe,DT Hondo
+info,player,Netherlands,JF Kloppenburg
+info,player,Netherlands,E Schiferli
+info,player,Netherlands,B Zuiderent
+info,player,Netherlands,DLS van Bunge
+info,player,Netherlands,TBM de Leede
+info,player,Netherlands,LP van Troost
+info,player,Netherlands,RH Scholte
+info,player,Netherlands,HJC Mol
+info,player,Netherlands,RP Lefebvre
+info,player,Netherlands,J Smits
+info,player,Netherlands,JJ Esmeijer
+info,registry,people,A Flower,35aa26af
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,B Zuiderent,d953ed6a
+info,registry,people,BA Murphy,31ce61ab
+info,registry,people,CB Wishart,8319b9ea
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,DA Marillier,656202a7
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DLS van Bunge,3185266a
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,E Schiferli,cefe0886
+info,registry,people,GJ Whittall,6a52f5d3
+info,registry,people,HH Streak,37f501d7
+info,registry,people,HJC Mol,e33616eb
+info,registry,people,HK Olonga,7f82b4fb
+info,registry,people,J Smits,7c681ee9
+info,registry,people,JF Kloppenburg,51080a1f
+info,registry,people,JJ Esmeijer,21231130
+info,registry,people,LP van Troost,34d2ca48
+info,registry,people,MA Vermeulen,611c06dd
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,RH Scholte,67875075
+info,registry,people,RP Lefebvre,12b59324
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,T Taibu,75de770f
+info,registry,people,TBM de Leede,d2f72b19
+info,registry,people,TH Wijewardene,6a6be119

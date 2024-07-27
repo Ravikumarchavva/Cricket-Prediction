@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Railways
+info,gender,male
+info,season,2020/21
+info,date,2021/01/12
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Alur Cricket Stadium III
+info,city,
+info,toss_winner,Railways
+info,toss_decision,field
+info,winner,Railways
+info,winner_wickets,8
+info,player,Uttar Pradesh,KS Sharma
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,SK Raina
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Shubham Chaubey
+info,player,Uttar Pradesh,Dhruv Jurel
+info,player,Uttar Pradesh,B Kumar
+info,player,Uttar Pradesh,Shivam Mavi
+info,player,Uttar Pradesh,Shiva Singh
+info,player,Uttar Pradesh,Shanu Saini
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Railways,T Pradeep
+info,player,Railways,Kanishk Seth
+info,player,Railways,Dhrushant Soni
+info,player,Railways,Harsh Tyagi
+info,player,Railways,KV Sharma
+info,player,Railways,Shivendra Singh
+info,player,Railways,Mrunal Devdhar
+info,player,Railways,Pratham Singh
+info,player,Railways,Shivam Chaudhary
+info,player,Railways,Dinesh Mor
+info,player,Railways,Navneet Virk
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,Dhrushant Soni,13abdc50
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,Dinesh Mor,7f28f186
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,KS Sharma,39ed0d2f
+info,registry,people,KV Sharma,119678fd
+info,registry,people,Kanishk Seth,98f27d4b
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,Navneet Virk,9830f5a5
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,Shanu Saini,61d1a3d3
+info,registry,people,Shiva Singh,3b63b5cc
+info,registry,people,Shivam Chaudhary,e53af640
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,Shivendra Singh,61e93009
+info,registry,people,Shubham Chaubey,58588e5a
+info,registry,people,T Pradeep,a0d66374

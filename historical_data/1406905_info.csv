@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Desert Vipers
+info,team,Dubai Capitals
+info,gender,male
+info,season,2023/24
+info,date,2024/02/01
+info,event,International League T20
+info,match_number,17
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Dubai Capitals
+info,toss_decision,field
+info,player_of_match,BR Dunk
+info,umpire,Akbar Ali
+info,umpire,RSA Palliyaguruge
+info,tv_umpire,P Wilson
+info,match_referee,SJA Taufel
+info,winner,Dubai Capitals
+info,winner_wickets,4
+info,player,Desert Vipers,M Pathirana
+info,player,Desert Vipers,Rohan Mustafa
+info,player,Desert Vipers,AD Hales
+info,player,Desert Vipers,C Munro
+info,player,Desert Vipers,Azam Khan
+info,player,Desert Vipers,SE Rutherford
+info,player,Desert Vipers,AJ Hose
+info,player,Desert Vipers,PWH de Silva
+info,player,Desert Vipers,Ali Naseer
+info,player,Desert Vipers,Mohammad Amir
+info,player,Desert Vipers,Shaheen Shah Afridi
+info,player,Desert Vipers,L Wood
+info,player,Dubai Capitals,PVD Chameera
+info,player,Dubai Capitals,Rahmanullah Gurbaz
+info,player,Dubai Capitals,DA Warner
+info,player,Dubai Capitals,BR Dunk
+info,player,Dubai Capitals,SW Billings
+info,player,Dubai Capitals,Sikandar Raza
+info,player,Dubai Capitals,R Powell
+info,player,Dubai Capitals,R Chopra
+info,player,Dubai Capitals,JO Holder
+info,player,Dubai Capitals,Akif Raja
+info,player,Dubai Capitals,RE van der Merwe
+info,player,Dubai Capitals,SC Kuggeleijn
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,BR Dunk,272d796e
+info,registry,people,C Munro,af2c687b
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,JO Holder,0f721006
+info,registry,people,L Wood,65b6943c
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,P Wilson,68304a36
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,R Powell,650d5e49
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Sikandar Raza,26d041c4

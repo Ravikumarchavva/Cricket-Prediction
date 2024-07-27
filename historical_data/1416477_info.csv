@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Karachi Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/02/21
+info,event,Pakistan Super League
+info,match_number,6
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Karachi Kings
+info,toss_decision,field
+info,player_of_match,Mir Hamza
+info,umpire,Ahsan Raza
+info,umpire,MA Gough
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,RK Illingworth
+info,match_referee,Muhammad Javed
+info,winner,Karachi Kings
+info,winner_wickets,7
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,Asif Ali
+info,player,Peshawar Zalmi,Aamer Jamal
+info,player,Peshawar Zalmi,L Wood
+info,player,Peshawar Zalmi,Mohammad Zeeshan
+info,player,Peshawar Zalmi,Salman Irshad
+info,player,Peshawar Zalmi,Waqar Salamkheil
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,Muhammad Akhlaq
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,KA Pollard
+info,player,Karachi Kings,Mohammad Nawaz
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,DR Sams
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,T Shamsi
+info,player,Karachi Kings,Mir Hamza
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,L Wood,65b6943c
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Zeeshan,68d11420
+info,registry,people,Muhammad Akhlaq,9739e85c
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,Waqar Salamkheil,3f1066d0

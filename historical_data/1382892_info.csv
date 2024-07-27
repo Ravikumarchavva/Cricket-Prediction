@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,B-Love Kandy
+info,team,Jaffna Kings
+info,gender,male
+info,season,2023
+info,date,2023/08/12
+info,event,Lanka Premier League
+info,match_number,15
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,B-Love Kandy
+info,toss_decision,bat
+info,player_of_match,Mohammad Haris
+info,umpire,IC Soysa
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,GF Labrooy
+info,winner,B-Love Kandy
+info,winner_runs,8
+info,player,B-Love Kandy,Mohammad Haris
+info,player,B-Love Kandy,Fakhar Zaman
+info,player,B-Love Kandy,LD Chandimal
+info,player,B-Love Kandy,SSD Arachchige
+info,player,B-Love Kandy,AD Mathews
+info,player,B-Love Kandy,PWH de Silva
+info,player,B-Love Kandy,Asif Ali
+info,player,B-Love Kandy,I Udana
+info,player,B-Love Kandy,PVD Chameera
+info,player,B-Love Kandy,Mujeeb Ur Rahman
+info,player,B-Love Kandy,N Pradeep
+info,player,Jaffna Kings,KNM Fernando
+info,player,Jaffna Kings,Rahmanullah Gurbaz
+info,player,Jaffna Kings,CA Lynn
+info,player,Jaffna Kings,KIC Asalanka
+info,player,Jaffna Kings,Shoaib Malik
+info,player,Jaffna Kings,DA Miller
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,D Madushanka
+info,player,Jaffna Kings,M Theekshana
+info,player,Jaffna Kings,N Thushara
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,IC Soysa,717a7971
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KNM Fernando,d2a2bb1a
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,PARP Perera,5f75a7c5
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,Shoaib Malik,64c34cd0

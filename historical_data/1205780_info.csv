@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Punjab
+info,gender,male
+info,season,2019/20
+info,date,2019/11/12
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Cricket Stadium, Sector-16"
+info,city,
+info,toss_winner,Himachal
+info,toss_decision,bat
+info,winner,Punjab
+info,winner_wickets,8
+info,player,Himachal,Abhimanyu Rana
+info,player,Himachal,P Chopra
+info,player,Himachal,AKS Bains
+info,player,Himachal,EC Sen
+info,player,Himachal,AR Kumar
+info,player,Himachal,R Dhawan
+info,player,Himachal,N A Sharma
+info,player,Himachal,Ayush Jamwal
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,Kanwar Abhinay
+info,player,Punjab,Sandeep Sharma
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,S Kaul
+info,player,Punjab,Karan Kaila
+info,player,Punjab,M Markande
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Sharad Lumba
+info,registry,people,AKS Bains,cb932841
+info,registry,people,AR Kumar,d1f63ad5
+info,registry,people,Abhimanyu Rana,c224c5ef
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,EC Sen,8a0ae9da
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Kanwar Abhinay,7c2e7c17
+info,registry,people,Karan Kaila,b19f1fe9
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,R Dhawan,26a85969
+info,registry,people,S Kaul,dcf81436
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Sharad Lumba,03c29939

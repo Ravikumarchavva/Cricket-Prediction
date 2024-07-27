@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Emirates
+info,team,Gulf Giants
+info,gender,male
+info,season,2023/24
+info,date,2024/02/14
+info,event,International League T20
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Gulf Giants
+info,toss_decision,field
+info,player_of_match,AJ Hosein
+info,umpire,AT Holdstock
+info,umpire,MJ Saggers
+info,reserve_umpire,Akbar Ali
+info,tv_umpire,LS Reifer
+info,match_referee,RS Mahanama
+info,winner,MI Emirates
+info,winner_runs,45
+info,player,MI Emirates,V Viyaskanth
+info,player,MI Emirates,Waseem Muhammad
+info,player,MI Emirates,MDKJ Perera
+info,player,MI Emirates,ADS Fletcher
+info,player,MI Emirates,N Pooran
+info,player,MI Emirates,DJ Bravo
+info,player,MI Emirates,TH David
+info,player,MI Emirates,KA Pollard
+info,player,MI Emirates,AJ Hosein
+info,player,MI Emirates,TA Boult
+info,player,MI Emirates,Muhammad Rohid
+info,player,MI Emirates,Waqar Salamkheil
+info,player,Gulf Giants,B Muzarabani
+info,player,Gulf Giants,JM Vince
+info,player,Gulf Giants,JM Cox
+info,player,Gulf Giants,CA Lynn
+info,player,Gulf Giants,Usman Khan
+info,player,Gulf Giants,JL Smith
+info,player,Gulf Giants,SO Hetmyer
+info,player,Gulf Giants,J Overton
+info,player,Gulf Giants,LA Dawson
+info,player,Gulf Giants,CJ Jordan
+info,player,Gulf Giants,DJ Worrall
+info,player,Gulf Giants,Zuhaib Zubair
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,J Overton,59559bc2
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Rohid,9103ecdb
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,Waqar Salamkheil,3f1066d0
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c

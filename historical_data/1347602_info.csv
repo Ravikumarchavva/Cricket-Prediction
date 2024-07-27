@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/06/02
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,Rob White
+info,match_referee,AJ Swann
+info,winner,Glamorgan
+info,winner_wickets,7
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,SW Billings
+info,player,Kent,JM Cox
+info,player,Kent,JA Leaning
+info,player,Kent,GF Linde
+info,player,Kent,G Stewart
+info,player,Kent,JDM Evison
+info,player,Kent,WA Agar
+info,player,Kent,MG Hogan
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,Zain-ul-Hassan
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MG Hogan,5da34add
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,Rob White,59b91222
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WA Agar,15de1f5d
+info,registry,people,WT Root,72898514
+info,registry,people,Zain-ul-Hassan,d12cead8

@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Northern Districts
+info,gender,male
+info,season,2022/23
+info,date,2022/11/05
+info,date,2022/11/06
+info,date,2022/11/07
+info,date,2022/11/08
+info,event,Plunket Shield
+info,match_number,7
+info,venue,Saxton Oval
+info,city,
+info,toss_winner,Central Stags
+info,toss_decision,bat
+info,umpire,C Black
+info,umpire,JM Dempsey
+info,match_referee,RE Hayward
+info,winner,Central Stags
+info,winner_runs,279
+info,player,Central Stags,CG Heaphy
+info,player,Central Stags,WA Young
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,BL Wiggins
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BG Randell
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,RL Toole
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,C de Grandhomme
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,KDC Clarke
+info,player,Northern Districts,N Wagner
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,FL Walker
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,B Popli,848487cf
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BL Wiggins,d4320277
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,C Black,75b42f71
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CG Heaphy,fcbd6eb8
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,FL Walker,e6e154e3
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JG Walker,94734e80
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,KDC Clarke,1e1a8922
+info,registry,people,N Wagner,78adc879
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WA Young,8afe73e2

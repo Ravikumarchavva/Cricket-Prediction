@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Glamorgan
+info,gender,male
+info,season,2024
+info,date,2024/05/31
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,Tom Lungley
+info,match_referee,Phil Whitticase
+info,winner,Surrey
+info,winner_runs,19
+info,player,Surrey,LJ Evans
+info,player,Surrey,DW Lawrence
+info,player,Surrey,JJ Roy
+info,player,Surrey,OJ Pope
+info,player,Surrey,JL Smith
+info,player,Surrey,J Clark
+info,player,Surrey,TK Curran
+info,player,Surrey,SA Abbott
+info,player,Surrey,CT Steel
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,SH Johnson
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,JP McIlroy
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,J Clark,c672e80e
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Smith,c834c290
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,Tom Lungley,75169b8c

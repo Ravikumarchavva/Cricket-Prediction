@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Canterbury
+info,gender,male
+info,season,2015/16
+info,date,2016/03/23
+info,date,2016/03/24
+info,date,2016/03/25
+info,date,2016/03/26
+info,event,Plunket Shield
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,SB Haig
+info,outcome,draw
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,ZN Gibson
+info,player,Northern Districts,TC Goodin
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,MSJ Davidson
+info,player,Canterbury,PG Fulton
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,TD Astle
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,LV van Beek
+info,player,Canterbury,HK Bennett
+info,registry,people,AM Ellis,f987245c
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,B Popli,848487cf
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,HK Bennett,94238673
+info,registry,people,JG Walker,94734e80
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MSJ Davidson,3173801a
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,SB Haig,811655b3
+info,registry,people,TC Goodin,ae9e1240
+info,registry,people,TD Astle,383dd431
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,ZN Gibson,eec5fe00

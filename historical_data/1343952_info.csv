@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2022/23
+info,date,2023/01/18
+info,event,SA20
+info,match_number,12
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,M Jansen
+info,umpire,A Jacobs
+info,umpire,BP Jele
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,A Paleker
+info,match_referee,S Wadvalla
+info,winner,Sunrisers Eastern Cape
+info,winner_wickets,2
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,G Roelofsen
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,OF Smith
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,K Rabada
+info,player,MI Cape Town,JC Archer
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,JT Smuts
+info,player,Sunrisers Eastern Cape,SJ Erwee
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,JM Cox
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,BA Carse
+info,player,Sunrisers Eastern Cape,RE van der Merwe
+info,player,Sunrisers Eastern Cape,SSB Magala
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Archer,5574750c
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,OF Smith,23cca426
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SSB Magala,8361e524
+info,registry,people,T Stubbs,85b3fab2

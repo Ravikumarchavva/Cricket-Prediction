@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,West Indies
+info,gender,male
+info,season,2002/03
+info,date,2003/02/23
+info,event,ICC World Cup
+info,match_number,24
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,JM Davison
+info,umpire,EAR de Silva
+info,umpire,DB Hair
+info,tv_umpire,Nadeem Ghauri
+info,match_referee,RS Madugalle
+info,winner,West Indies
+info,winner_wickets,7
+info,player,Canada,I Maraj
+info,player,Canada,JM Davison
+info,player,Canada,DR Chumney
+info,player,Canada,IS Billcliff
+info,player,Canada,N Ifill
+info,player,Canada,JV Harris
+info,player,Canada,NA de Groot
+info,player,Canada,A Bagai
+info,player,Canada,A Codrington
+info,player,Canada,BB Seebaran
+info,player,Canada,D Joseph
+info,player,West Indies,CH Gayle
+info,player,West Indies,WW Hinds
+info,player,West Indies,BC Lara
+info,player,West Indies,RR Sarwan
+info,player,West Indies,CL Hooper
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,RL Powell
+info,player,West Indies,RD Jacobs
+info,player,West Indies,VC Drakes
+info,player,West Indies,M Dillon
+info,player,West Indies,PT Collins
+info,registry,people,A Bagai,112959b2
+info,registry,people,A Codrington,9cb022df
+info,registry,people,BB Seebaran,fc54ef7a
+info,registry,people,BC Lara,d5403021
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CL Hooper,61dab16a
+info,registry,people,D Joseph,b7b66a96
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DR Chumney,1f3ad23f
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,I Maraj,2d783277
+info,registry,people,IS Billcliff,1fb2f362
+info,registry,people,JM Davison,5471024e
+info,registry,people,JV Harris,d1ac815a
+info,registry,people,M Dillon,5af87ad6
+info,registry,people,N Ifill,1d5dd8a6
+info,registry,people,NA de Groot,15d1b59e
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,PT Collins,f1cb042f
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,VC Drakes,b16b5eea
+info,registry,people,WW Hinds,60beb01b

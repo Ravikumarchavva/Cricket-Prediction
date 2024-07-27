@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2024
+info,date,2024/06/24
+info,event,ICC Men's T20 World Cup
+info,match_number,51
+info,venue,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+info,city,Gros Islet
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,RG Sharma
+info,umpire,RK Illingworth
+info,umpire,RA Kettleborough
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,MA Gough
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_runs,24
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,RR Pant
+info,player,India,SA Yadav
+info,player,India,S Dube
+info,player,India,HH Pandya
+info,player,India,RA Jadeja
+info,player,India,AR Patel
+info,player,India,Kuldeep Yadav
+info,player,India,Arshdeep Singh
+info,player,India,JJ Bumrah
+info,player,Australia,DA Warner
+info,player,Australia,TM Head
+info,player,Australia,MR Marsh
+info,player,Australia,GJ Maxwell
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Zampa,14f96089
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Pant,919a3be2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,V Kohli,ba607b88

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Namibia
+info,gender,male
+info,season,2023
+info,date,2023/04/02
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,11
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,Asif Khan
+info,umpire,C Phiri
+info,umpire,D Odhiambo
+info,reserve_umpire,IO Oyieko
+info,match_referee,O Chirombe
+info,winner,United Arab Emirates
+info,winner_runs,28
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,SM Sharma
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Zahoor Khan
+info,player,Namibia,S Fouché
+info,player,Namibia,N Davin
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,K Birkenstock
+info,player,Namibia,HN Ya France
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Phiri,ade73404
+info,registry,people,D Odhiambo,45994517
+info,registry,people,HN Ya France,915264c2
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Birkenstock,27b8d7b6
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,O Chirombe,6345307f
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,ZE Green,8716233e
+info,registry,people,Zahoor Khan,f0e293b0

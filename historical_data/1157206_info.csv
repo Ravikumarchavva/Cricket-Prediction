@@ -1,0 +1,57 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Uttar Pradesh
+info,gender,male
+info,season,2018/19
+info,date,2019/03/02
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Baroda
+info,toss_decision,bat
+info,outcome,no result
+info,player,Baroda,KH Devdhar
+info,player,Baroda,A Pratyush Kumar
+info,player,Baroda,DJ Hooda
+info,player,Baroda,YK Pathan
+info,player,Baroda,BA Pathan
+info,player,Baroda,BA Bhatt
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,RT Arothe
+info,player,Baroda,Pratik Salunke
+info,player,Baroda,KR Kakade
+info,player,Baroda,Swapnil Singh
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Mohit Jangra
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,Ankit Chaudhary
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,Aryan Juyal
+info,player,Uttar Pradesh,Shubham Chaubey
+info,player,Uttar Pradesh,RK Singh
+info,registry,people,A Pratyush Kumar,1b5c4924
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Ankit Chaudhary,c0e59e39
+info,registry,people,Aryan Juyal,5f2732f7
+info,registry,people,BA Bhatt,dc4686e6
+info,registry,people,BA Pathan,870e4cec
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KR Kakade,ba86aae4
+info,registry,people,Mohit Jangra,4052ab5c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,Pratik Salunke,e9fd2634
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RT Arothe,50455929
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shubham Chaubey,58588e5a
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,YK Pathan,3c6ffae8

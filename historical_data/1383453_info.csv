@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Haryana
+info,team,Chhattisgarh
+info,gender,male
+info,season,2023/24
+info,date,2023/10/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Chhattisgarh
+info,toss_decision,field
+info,umpire,A Totre
+info,umpire,M Krishnadas
+info,match_referee,P Dharmani
+info,winner,Chhattisgarh
+info,winner_wickets,4
+info,player,Haryana,HV Patel
+info,player,Haryana,Ankit Kumar
+info,player,Haryana,Himanshu Rana
+info,player,Haryana,R Tewatia
+info,player,Haryana,N Sindhu
+info,player,Haryana,Sumit Kumar
+info,player,Haryana,A Kamboj
+info,player,Haryana,MM Sharma
+info,player,Haryana,J Yadav
+info,player,Haryana,YS Chahal
+info,player,Haryana,SM Rohilla
+info,player,Haryana,A Mishra
+info,player,Chhattisgarh,Shashank Chandrakar
+info,player,Chhattisgarh,Amandeep Khare
+info,player,Chhattisgarh,Harpreet Singh
+info,player,Chhattisgarh,Sanjeet Desai
+info,player,Chhattisgarh,Shashank Singh
+info,player,Chhattisgarh,Ajay Mandal
+info,player,Chhattisgarh,Gagandeep Singh
+info,player,Chhattisgarh,Eknath Kerkar
+info,player,Chhattisgarh,AS Thakur
+info,player,Chhattisgarh,PS Painkra
+info,player,Chhattisgarh,SS Agarwal
+info,player,Chhattisgarh,Sourabh Majumdar
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mishra,6b19d823
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AS Thakur,6366c83b
+info,registry,people,Ajay Mandal,31ee319e
+info,registry,people,Amandeep Khare,6c6cc94c
+info,registry,people,Ankit Kumar,9765545f
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Gagandeep Singh,239197f1
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Harpreet Singh,28c78fb3
+info,registry,people,Himanshu Rana,9d3940b3
+info,registry,people,J Yadav,81049310
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,MM Sharma,759ac88f
+info,registry,people,N Sindhu,3cea23da
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,PS Painkra,6cdc3215
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,SM Rohilla,43666b9b
+info,registry,people,SS Agarwal,b51f72a5
+info,registry,people,Sanjeet Desai,9b0d5e52
+info,registry,people,Shashank Chandrakar,9c20688d
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Sourabh Majumdar,30225730
+info,registry,people,Sumit Kumar,8998a68f
+info,registry,people,YS Chahal,57ee1fde

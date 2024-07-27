@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Galle Titans
+info,team,Dambulla Aura
+info,gender,male
+info,season,2023
+info,date,2023/07/31
+info,event,Lanka Premier League
+info,match_number,2
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Dambulla Aura
+info,toss_decision,field
+info,player_of_match,MD Shanaka
+info,umpire,IC Soysa
+info,umpire,LE Hannibal
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,RR Wimalasiri
+info,match_referee,BCMS Mendis
+info,outcome,tie
+info,eliminator,Galle Titans
+info,player,Galle Titans,S Daniel
+info,player,Galle Titans,L Croospulle
+info,player,Galle Titans,PBB Rajapaksa
+info,player,Galle Titans,TL Seifert
+info,player,Galle Titans,Shakib Al Hasan
+info,player,Galle Titans,MD Shanaka
+info,player,Galle Titans,SMLD Samarakoon
+info,player,Galle Titans,S Prasanna
+info,player,Galle Titans,CAK Rajitha
+info,player,Galle Titans,T Shamsi
+info,player,Galle Titans,MVT Fernando
+info,player,Dambulla Aura,WIA Fernando
+info,player,Dambulla Aura,BKG Mendis
+info,player,Dambulla Aura,DM de Silva
+info,player,Dambulla Aura,MDKJ Perera
+info,player,Dambulla Aura,S Samarawickrama
+info,player,Dambulla Aura,AI Ross
+info,player,Dambulla Aura,RS Fernando
+info,player,Dambulla Aura,H Kerr
+info,player,Dambulla Aura,B Fernando
+info,player,Dambulla Aura,P Jayawickrama
+info,player,Dambulla Aura,Shahnawaz Dhani
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BCMS Mendis,e3f6e4ac
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DPS Sooriyabandara,cc17536f
+info,registry,people,H Kerr,f422728b
+info,registry,people,IC Soysa,717a7971
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MVT Fernando,5eef2118
+info,registry,people,P Jayawickrama,b7d1eadd
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Fernando,24d72446
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,S Prasanna,f78e7113
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SMLD Samarakoon,d28f4d1c
+info,registry,people,Shahnawaz Dhani,7ccbb09f
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WIA Fernando,9550470d

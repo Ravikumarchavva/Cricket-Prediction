@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Durban's Super Giants
+info,gender,male
+info,season,2022/23
+info,date,2023/01/13
+info,event,SA20
+info,match_number,5
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,Durban's Super Giants
+info,toss_decision,field
+info,player_of_match,KR Mayers
+info,umpire,BM White
+info,umpire,S George
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,AT Holdstock
+info,match_referee,LH Matroos
+info,winner,Durban's Super Giants
+info,winner_wickets,5
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,G Roelofsen
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,D Jansen
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,OP Stone
+info,player,MI Cape Town,JC Archer
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,JO Holder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,RJW Topley
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,GC Viljoen
+info,player,Durban's Super Giants,P Subrayen
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BM White,66c21d35
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,D Pretorius,11614d87
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Archer,5574750c
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,OP Stone,3f659464
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S George,6d9e5a54
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Siphelele Gasa,e50baa87

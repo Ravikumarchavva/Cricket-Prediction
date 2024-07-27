@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rangpur Riders
+info,team,Comilla Victorians
+info,gender,male
+info,season,2023/24
+info,date,2024/02/20
+info,event,Bangladesh Premier League
+info,match_number,40
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Comilla Victorians
+info,toss_decision,field
+info,player_of_match,AD Russell
+info,umpire,DK Butler
+info,umpire,Masudur Rahman
+info,reserve_umpire,Moniruzzaman
+info,tv_umpire,Gazi Sohel
+info,match_referee,Ehsanul Haque
+info,winner,Comilla Victorians
+info,winner_wickets,6
+info,player,Rangpur Riders,BA King
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Shakib Al Hasan
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,JDS Neesham
+info,player,Rangpur Riders,TJ Moores
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Abu Hider
+info,player,Rangpur Riders,Hasan Mahmud
+info,player,Rangpur Riders,Imran Tahir
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,SP Narine
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,Mahidul Islam Ankon
+info,player,Comilla Victorians,MM Ali
+info,player,Comilla Victorians,AD Russell
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,MW Forde
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Rishad Hossain
+info,player,Comilla Victorians,Musfik Hasan
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Abu Hider,31803fac
+info,registry,people,BA King,7fca84b7
+info,registry,people,DK Butler,671398e3
+info,registry,people,Ehsanul Haque,688b2d58
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Hasan Murad,da9f58aa
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahidul Islam Ankon,dac6aabc
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Musfik Hasan,1afcbb60
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Towhid Hridoy,9e52a414

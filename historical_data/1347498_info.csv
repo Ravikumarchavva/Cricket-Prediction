@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/08/03
+info,event,One-Day Cup
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,BJ Peverall
+info,umpire,Surendiran Shanmugam
+info,match_referee,JJ Swift
+info,winner,Nottinghamshire
+info,winner_runs,168
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,BJR Martindale
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,D Schadendorf
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,BA Hutton
+info,player,Nottinghamshire,TW Loten
+info,player,Nottinghamshire,D Paterson
+info,player,Essex,JS Rymell
+info,player,Essex,RJ Das
+info,player,Essex,T Westley
+info,player,Essex,NRM Thain
+info,player,Essex,BJ Webster
+info,player,Essex,CWJ Allison
+info,player,Essex,WEL Buttleman
+info,player,Essex,BMJ Allison
+info,player,Essex,Aaron Beard
+info,player,Essex,ASS Nijjar
+info,player,Essex,JA Porter
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BA Hutton,b3544c5d
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BJR Martindale,a81cac82
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CWJ Allison,42ee1d76
+info,registry,people,D Paterson,462d7c62
+info,registry,people,D Schadendorf,ae7d3bc1
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JS Rymell,ecf9fb2e
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,NRM Thain,f8a63b6f
+info,registry,people,RJ Das,734344b3
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,T Westley,25a42048
+info,registry,people,TW Loten,3b4f3099
+info,registry,people,WEL Buttleman,e855546b

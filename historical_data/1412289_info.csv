@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Sylhet Strikers
+info,gender,male
+info,season,2023/24
+info,date,2024/01/30
+info,event,Bangladesh Premier League
+info,match_number,16
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Sylhet Strikers
+info,toss_decision,field
+info,player_of_match,Mahmudullah
+info,umpire,DJ Millns
+info,umpire,Mahfuzur Rahman
+info,reserve_umpire,Morshed Ali Khan
+info,tv_umpire,Moniruzzaman
+info,match_referee,Showkatur Rahman
+info,winner,Fortune Barishal
+info,winner_runs,49
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,Ahmed Shehzad
+info,player,Fortune Barishal,Pritom Kumar
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Mohammad Imran
+info,player,Fortune Barishal,DN Wellalage
+info,player,Fortune Barishal,Akif Javed
+info,player,Fortune Barishal,Khaled Ahmed
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Shamsur Rahman
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,BAC Howell
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,Ariful Haque
+info,player,Sylhet Strikers,SR Patel
+info,player,Sylhet Strikers,Nayeem Hasan
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Sylhet Strikers,R Ngarava
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Akif Javed,99d7d5b7
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Imran,687e20b3
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Pritom Kumar,b960524d
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,SR Patel,18fac429
+info,registry,people,Shamsur Rahman,02789d88
+info,registry,people,Showkatur Rahman,5340a1c1
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Zakir Hasan,e3e09091

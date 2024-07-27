@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/08/01
+info,event,One-Day Cup
+info,venue,Sedbergh School
+info,city,Sedbergh
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,N Pratt
+info,umpire,PJ Hartley
+info,match_referee,PM Such
+info,outcome,no result
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,GID Lavelle
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,TH Aspinwall
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,JP Morley
+info,player,Essex,JS Rymell
+info,player,Essex,RJ Das
+info,player,Essex,T Westley
+info,player,Essex,NRM Thain
+info,player,Essex,BJ Webster
+info,player,Essex,CWJ Allison
+info,player,Essex,WEL Buttleman
+info,player,Essex,Aaron Beard
+info,player,Essex,BMJ Allison
+info,player,Essex,ASS Nijjar
+info,player,Essex,JA Porter
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,CWJ Allison,42ee1d76
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,GID Lavelle,c2988809
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,JS Rymell,ecf9fb2e
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NRM Thain,f8a63b6f
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RJ Das,734344b3
+info,registry,people,T Westley,25a42048
+info,registry,people,TH Aspinwall,00b195ae
+info,registry,people,WEL Buttleman,e855546b
+info,registry,people,WSA Williams,861eed37

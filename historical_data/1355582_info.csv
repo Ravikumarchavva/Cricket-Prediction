@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,London Spirit
+info,team,Southern Brave
+info,gender,female
+info,season,2023
+info,date,2023/08/08
+info,event,The Hundred Women's Competition
+info,match_number,11
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Southern Brave
+info,toss_decision,field
+info,player_of_match,ME Bouchier
+info,umpire,S McLelland
+info,umpire,Tom Lungley
+info,reserve_umpire,F Richards
+info,tv_umpire,AY Harris
+info,match_referee,H Pack
+info,winner,Southern Brave
+info,winner_wickets,5
+info,player,London Spirit,GM Harris
+info,player,London Spirit,DR Gibson
+info,player,London Spirit,HC Knight
+info,player,London Spirit,AC Kerr
+info,player,London Spirit,RM Ghosh
+info,player,London Spirit,G Scrivens
+info,player,London Spirit,N Holland
+info,player,London Spirit,CE Dean
+info,player,London Spirit,S Glenn
+info,player,London Spirit,TG Norris
+info,player,London Spirit,L Filer
+info,player,Southern Brave,S Mandhana
+info,player,Southern Brave,DN Wyatt
+info,player,Southern Brave,ME Bouchier
+info,player,Southern Brave,GL Adams
+info,player,Southern Brave,FG Kemp
+info,player,Southern Brave,CL Tryon
+info,player,Southern Brave,M Brown
+info,player,Southern Brave,K Moore
+info,player,Southern Brave,A Shrubsole
+info,player,Southern Brave,R Southby
+info,player,Southern Brave,LK Bell
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AY Harris,90d95b82
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,DR Gibson,d2763568
+info,registry,people,F Richards,0313fec0
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,GM Harris,72166006
+info,registry,people,H Pack,fed53c91
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,K Moore,d12c8445
+info,registry,people,L Filer,31adb911
+info,registry,people,LK Bell,38b4583c
+info,registry,people,M Brown,78bec461
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,N Holland,aefd0567
+info,registry,people,R Southby,bbe1525d
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,Tom Lungley,75169b8c

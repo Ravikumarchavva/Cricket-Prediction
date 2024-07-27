@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leinster Lightning
+info,team,Northern Knights
+info,gender,male
+info,season,2018
+info,date,2018/06/04
+info,event,Cricket Ireland Inter-Provincial Limited Over Cup
+info,match_number,2
+info,venue,"The Vineyard, Dublin"
+info,city,Dublin
+info,toss_winner,Northern Knights
+info,toss_decision,field
+info,umpire,H Bingham
+info,umpire,S Wijesundera
+info,reserve_umpire,W Clarke
+info,winner,Leinster Lightning
+info,winner_runs,53
+info,player,Leinster Lightning,JB Tector
+info,player,Leinster Lightning,SP Terry
+info,player,Leinster Lightning,A Balbirnie
+info,player,Leinster Lightning,J Anderson
+info,player,Leinster Lightning,Simi Singh
+info,player,Leinster Lightning,KJ O'Brien
+info,player,Leinster Lightning,L Tucker
+info,player,Leinster Lightning,GH Dockrell
+info,player,Leinster Lightning,DC Delany
+info,player,Leinster Lightning,PKD Chase
+info,player,Leinster Lightning,TE Kane
+info,player,Northern Knights,MP Ellison
+info,player,Northern Knights,NL Smith
+info,player,Northern Knights,JA McCollum
+info,player,Northern Knights,JNK Shannon
+info,player,Northern Knights,HT Tector
+info,player,Northern Knights,SC Getkate
+info,player,Northern Knights,MR Adair
+info,player,Northern Knights,NA Rock
+info,player,Northern Knights,GJ McCarter
+info,player,Northern Knights,J Mulder
+info,player,Northern Knights,GE Kidd
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,DC Delany,0f9c9d1d
+info,registry,people,GE Kidd,bd48593c
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GJ McCarter,6232e1ed
+info,registry,people,H Bingham,bac4b7d0
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Anderson,d5bbb6a2
+info,registry,people,J Mulder,6b64e7a3
+info,registry,people,JA McCollum,c7105dab
+info,registry,people,JB Tector,64770caf
+info,registry,people,JNK Shannon,6e161a33
+info,registry,people,KJ O'Brien,243431b5
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,MP Ellison,c9e66e00
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,NA Rock,43f4087c
+info,registry,people,NL Smith,547408c8
+info,registry,people,PKD Chase,8c2aa0f9
+info,registry,people,S Wijesundera,0e9d839b
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,SP Terry,7f87204d
+info,registry,people,Simi Singh,c9945bdf
+info,registry,people,TE Kane,af28816c
+info,registry,people,W Clarke,7d76b96f

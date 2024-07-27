@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Central Districts
+info,gender,female
+info,season,2023/24
+info,date,2024/01/28
+info,event,Women's Super Smash
+info,venue,"Eden Park, Auckland"
+info,city,Auckland
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,player_of_match,AC Kerr
+info,umpire,KS Jagannathan
+info,umpire,Kim Cotton
+info,reserve_umpire,SB Haig
+info,tv_umpire,C Black
+info,match_referee,RE Hayward
+info,winner,Wellington
+info,winner_runs,1
+info,method,D/L
+info,player,Wellington,SFM Devine
+info,player,Wellington,RM Burns
+info,player,Wellington,AC Kerr
+info,player,Wellington,GE Plimmer
+info,player,Wellington,LM Kasperek
+info,player,Wellington,KM Chandler
+info,player,Wellington,JM Kerr
+info,player,Wellington,JT McFadyen
+info,player,Wellington,NE Codyre
+info,player,Wellington,N Baird
+info,player,Wellington,XA Jetly
+info,player,Central Districts,HJ Armitage
+info,player,Central Districts,NC Dodd
+info,player,Central Districts,TMM Newton
+info,player,Central Districts,HM Rowe
+info,player,Central Districts,MJ Greig
+info,player,Central Districts,CL Green
+info,player,Central Districts,RA Mair
+info,player,Central Districts,FDM Devonshire
+info,player,Central Districts,GK Atkinson
+info,player,Central Districts,PA Chatterji
+info,player,Central Districts,Ashtuti Kumar
+info,registry,people,AC Kerr,7673c908
+info,registry,people,Ashtuti Kumar,8aa62462
+info,registry,people,C Black,75b42f71
+info,registry,people,CL Green,0160b1d9
+info,registry,people,FDM Devonshire,c8b0b64c
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GK Atkinson,add6bd03
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,JM Kerr,9af58032
+info,registry,people,JT McFadyen,7072542f
+info,registry,people,KM Chandler,32221cdb
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LM Kasperek,9b73d523
+info,registry,people,MJ Greig,84c422e3
+info,registry,people,N Baird,c0380823
+info,registry,people,NC Dodd,7260e1e9
+info,registry,people,NE Codyre,f587fbbe
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,RM Burns,94fe4708
+info,registry,people,SB Haig,811655b3
+info,registry,people,SFM Devine,de69af96
+info,registry,people,TMM Newton,93fe473e
+info,registry,people,XA Jetly,57a49987

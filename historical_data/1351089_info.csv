@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Comilla Victorians
+info,gender,male
+info,season,2022/23
+info,date,2023/02/07
+info,event,Bangladesh Premier League
+info,match_number,38
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Comilla Victorians
+info,toss_decision,field
+info,player_of_match,Mukidul Islam
+info,umpire,Mahfuzur Rahman
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,Ali Arman
+info,match_referee,Neeyamur Rashid
+info,winner,Comilla Victorians
+info,winner_wickets,5
+info,player,Fortune Barishal,Anamul Haque
+info,player,Fortune Barishal,Fazle Mahmud
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Shakib Al Hasan
+info,player,Fortune Barishal,Iftikhar Ahmed
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Karim Janat
+info,player,Fortune Barishal,PC de Silva
+info,player,Fortune Barishal,Mohammad Wasim
+info,player,Fortune Barishal,Khaled Ahmed
+info,player,Fortune Barishal,Ebadat Hossain
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,AD Russell
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,Mukidul Islam
+info,player,Comilla Victorians,SP Narine
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Abu Hider,31803fac
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,Fazle Mahmud,b4bef2ed
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Karim Janat,62175638
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Mukidul Islam,a699488a
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tanvir Islam,aa467af0

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Quetta Gladiators
+info,team,Karachi Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/03/06
+info,event,Pakistan Super League
+info,match_number,22
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Karachi Kings
+info,toss_decision,field
+info,player_of_match,Hasan Ali
+info,umpire,Asif Yaqoob
+info,umpire,RK Illingworth
+info,reserve_umpire,Mohammad Asif
+info,tv_umpire,Ahsan Raza
+info,match_referee,RS Mahanama
+info,winner,Karachi Kings
+info,winner_wickets,7
+info,player,Quetta Gladiators,JJ Roy
+info,player,Quetta Gladiators,Saud Shakeel
+info,player,Quetta Gladiators,Khawaja Nafay
+info,player,Quetta Gladiators,RR Rossouw
+info,player,Quetta Gladiators,Sarfraz Ahmed
+info,player,Quetta Gladiators,SE Rutherford
+info,player,Quetta Gladiators,AJ Hosein
+info,player,Quetta Gladiators,Mohammad Amir
+info,player,Quetta Gladiators,Mohammad Hasnain
+info,player,Quetta Gladiators,Abrar Ahmed
+info,player,Quetta Gladiators,Usman Tariq
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,TL Seifert
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,KA Pollard
+info,player,Karachi Kings,Mohammad Nawaz
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,Zahid Mahmood
+info,player,Karachi Kings,Mir Hamza
+info,player,Karachi Kings,B Muzarabani
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Khawaja Nafay,3cf54e77
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Asif,b7b6790a
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RS Mahanama,57910393
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,Usman Tariq,e94d1dcd
+info,registry,people,Zahid Mahmood,ba158afd

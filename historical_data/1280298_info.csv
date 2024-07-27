@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rajasthan
+info,team,Vidarbha
+info,gender,male
+info,season,2021/22
+info,date,2021/11/18
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Vidarbha
+info,toss_decision,field
+info,winner,Vidarbha
+info,winner_wickets,9
+info,player,Rajasthan,YB Kothari
+info,player,Rajasthan,Arjit Gupta
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,DJ Hooda
+info,player,Rajasthan,KL Nagarkoti
+info,player,Rajasthan,SF Khan
+info,player,Rajasthan,Suraj Ahuja
+info,player,Rajasthan,Shubham Kamal Sharma
+info,player,Rajasthan,Ravi Bishnoi
+info,player,Rajasthan,Tanveer Ul-Haq
+info,player,Rajasthan,A Choudhary
+info,player,Vidarbha,DG Nalkande
+info,player,Vidarbha,LM Yadav
+info,player,Vidarbha,Yash Thakur
+info,player,Vidarbha,Akshay Karnewar
+info,player,Vidarbha,Akshay Wakhare
+info,player,Vidarbha,Atharva Taide
+info,player,Vidarbha,Ganesh Satish
+info,player,Vidarbha,Akshay Wadkar
+info,player,Vidarbha,SB Dubey
+info,player,Vidarbha,AV Wankhade
+info,player,Vidarbha,JM Sharma
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,AV Wankhade,5708d0b6
+info,registry,people,Akshay Karnewar,e1e7f950
+info,registry,people,Akshay Wadkar,c88c8a7d
+info,registry,people,Akshay Wakhare,ec9fc54b
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,Atharva Taide,1ac746c8
+info,registry,people,DG Nalkande,cd8d2859
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Ganesh Satish,0ed1a112
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,KL Nagarkoti,b4f5c2d9
+info,registry,people,LM Yadav,e0c30d35
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SB Dubey,6b2ff18f
+info,registry,people,SF Khan,25986786
+info,registry,people,Shubham Kamal Sharma,3b892965
+info,registry,people,Suraj Ahuja,a0d05c98
+info,registry,people,Tanveer Ul-Haq,2795b0f6
+info,registry,people,YB Kothari,c2aaa4be
+info,registry,people,Yash Thakur,4b31f3a3

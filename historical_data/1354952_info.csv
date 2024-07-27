@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Islamabad United
+info,gender,male
+info,season,2022/23
+info,date,2023/03/12
+info,event,Pakistan Super League
+info,match_number,29
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Islamabad United
+info,toss_decision,field
+info,player_of_match,Mohammad Haris
+info,umpire,Ahsan Raza
+info,umpire,MJ Saggers
+info,reserve_umpire,Nasir Hussain
+info,tv_umpire,Faisal Afridi
+info,match_referee,Muhammad Javed
+info,winner,Peshawar Zalmi
+info,winner_runs,13
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,PBB Rajapaksa
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,Haseebullah Khan
+info,player,Peshawar Zalmi,JDS Neesham
+info,player,Peshawar Zalmi,Aamer Jamal
+info,player,Peshawar Zalmi,Khurram Shahzad
+info,player,Peshawar Zalmi,Mujeeb Ur Rahman
+info,player,Peshawar Zalmi,Sufiyan Muqeem
+info,player,Peshawar Zalmi,Salman Irshad
+info,player,Islamabad United,Hassan Nawaz
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,Sohaib Maqsood
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,Rahmanullah Gurbaz
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Asif Ali
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Hasan Ali
+info,player,Islamabad United,Mohammad Wasim
+info,player,Islamabad United,Fazalhaq Farooqi
+info,registry,people,AD Hales,92aeac25
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,C Munro,af2c687b
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Haseebullah Khan,5691931a
+info,registry,people,Hassan Nawaz,26a8b2fe
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,Khurram Shahzad,1daf3f74
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Nasir Hussain,5b2fe85b
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Sohaib Maqsood,b98b5e1c
+info,registry,people,Sufiyan Muqeem,4277234d
+info,registry,people,T Kohler-Cadmore,f836b33d

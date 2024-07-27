@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Bangladesh
+info,gender,male
+info,season,2003
+info,date,2003/08/06
+info,event,Bangladesh tour of Australia
+info,match_number,3
+info,venue,"Marrara Cricket Ground, Darwin"
+info,city,Darwin
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,RT Ponting
+info,umpire,DR Shepherd
+info,umpire,SJA Taufel
+info,tv_umpire,SJ Davis
+info,match_referee,GR Viswanath
+info,winner,Australia
+info,winner_runs,112
+info,player,Australia,AC Gilchrist
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,A Symonds
+info,player,Australia,MG Bevan
+info,player,Australia,IJ Harvey
+info,player,Australia,GB Hogg
+info,player,Australia,AJ Bichel
+info,player,Australia,JN Gillespie
+info,player,Australia,BA Williams
+info,player,Bangladesh,Hannan Sarkar
+info,player,Bangladesh,Javed Omar
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Sanwar Hossain
+info,player,Bangladesh,Tushar Imran
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Alok Kapali
+info,player,Bangladesh,Khaled Mahmud
+info,player,Bangladesh,Tapash Baisya
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Mashrafe Mortaza
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AJ Bichel,3cf83487
+info,registry,people,Alok Kapali,54279e23
+info,registry,people,BA Williams,953e3931
+info,registry,people,DR Martyn,69762509
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,GR Viswanath,9333bc07
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,Hannan Sarkar,608e1581
+info,registry,people,IJ Harvey,3227beb4
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,Javed Omar,e15faa51
+info,registry,people,Khaled Mahmud,0c8a1d51
+info,registry,people,MG Bevan,c500ec39
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,Sanwar Hossain,2cccba8f
+info,registry,people,Tapash Baisya,bb1819fa
+info,registry,people,Tushar Imran,b58af144

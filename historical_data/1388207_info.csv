@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,female
+info,season,2023/24
+info,date,2024/04/01
+info,event,England Women tour of New Zealand
+info,match_number,1
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,AE Jones
+info,umpire,CM Brown
+info,umpire,Eloise Sheridan
+info,reserve_umpire,C Black
+info,tv_umpire,Kim Cotton
+info,match_referee,TL Anderson
+info,winner,England
+info,winner_wickets,4
+info,player,New Zealand,SW Bates
+info,player,New Zealand,B Bezuidenhout
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,ML Green
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,FC Jonas
+info,player,England,TT Beaumont
+info,player,England,ME Bouchier
+info,player,England,HC Knight
+info,player,England,NR Sciver-Brunt
+info,player,England,A Capsey
+info,player,England,DN Wyatt
+info,player,England,AE Jones
+info,player,England,CE Dean
+info,player,England,S Ecclestone
+info,player,England,KL Cross
+info,player,England,LK Bell
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,C Black,75b42f71
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JM Kerr,9af58032
+info,registry,people,KL Cross,1ade138e
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LK Bell,38b4583c
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,ML Green,865eae1f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,TT Beaumont,b2664905

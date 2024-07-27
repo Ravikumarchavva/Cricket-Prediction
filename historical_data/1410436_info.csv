@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Hampshire
+info,gender,male
+info,season,2024
+info,date,2024/06/21
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,player_of_match,N McAndrew
+info,umpire,BJ Debenham
+info,umpire,M Burns
+info,tv_umpire,NL Bainton
+info,match_referee,SJ Davis
+info,winner,Sussex
+info,winner_runs,7
+info,player,Sussex,HD Ward
+info,player,Sussex,DP Hughes
+info,player,Sussex,JM Coles
+info,player,Sussex,JA Simpson
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,TP Alsop
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,OE Robinson
+info,player,Sussex,TS Mills
+info,player,Sussex,AC Lenham
+info,player,Hampshire,JM Vince
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,TE Albert
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,MG Neser
+info,player,Hampshire,BTJ Wheal
+info,player,Hampshire,CP Wood
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MG Neser,0164b064
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TE Albert,a6c17509
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb

@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dubai Capitals
+info,team,Sharjah Warriors
+info,gender,male
+info,season,2023/24
+info,date,2024/01/22
+info,event,International League T20
+info,match_number,5
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Sharjah Warriors
+info,toss_decision,field
+info,player_of_match,J Charles
+info,umpire,Aasif Iqbal
+info,umpire,Aleem Dar
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,P Wilson
+info,match_referee,SR Bernard
+info,winner,Sharjah Warriors
+info,winner_wickets,5
+info,player,Dubai Capitals,Rahmanullah Gurbaz
+info,player,Dubai Capitals,DA Warner
+info,player,Dubai Capitals,J Fraser-McGurk
+info,player,Dubai Capitals,SW Billings
+info,player,Dubai Capitals,Sikandar Raza
+info,player,Dubai Capitals,R Powell
+info,player,Dubai Capitals,JO Holder
+info,player,Dubai Capitals,R Chopra
+info,player,Dubai Capitals,RE van der Merwe
+info,player,Dubai Capitals,Akif Raja
+info,player,Dubai Capitals,PVD Chameera
+info,player,Dubai Capitals,KW Richardson
+info,player,Sharjah Warriors,MJ Guptill
+info,player,Sharjah Warriors,J Charles
+info,player,Sharjah Warriors,T Kohler-Cadmore
+info,player,Sharjah Warriors,N Dickwella
+info,player,Sharjah Warriors,L Gregory
+info,player,Sharjah Warriors,Basil Hameed
+info,player,Sharjah Warriors,DR Sams
+info,player,Sharjah Warriors,CR Woakes
+info,player,Sharjah Warriors,Muhammad Jawadullah
+info,player,Sharjah Warriors,M Theekshana
+info,player,Sharjah Warriors,D Madushanka
+info,player,Sharjah Warriors,Qais Ahmad
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,J Charles,09a9d073
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JO Holder,0f721006
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,P Wilson,68304a36
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,R Powell,650d5e49
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,SR Bernard,800187dc
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Kohler-Cadmore,f836b33d

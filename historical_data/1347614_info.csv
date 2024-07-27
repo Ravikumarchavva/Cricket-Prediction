@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/04
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,GD Lloyd
+info,umpire,NA Mallender
+info,match_referee,WR Smith
+info,winner,Leicestershire
+info,winner_wickets,7
+info,player,Durham,AZ Lees
+info,player,Durham,G Clark
+info,player,Durham,MA Jones
+info,player,Durham,OG Robinson
+info,player,Durham,AJ Turner
+info,player,Durham,WD Parnell
+info,player,Durham,L Trevaskis
+info,player,Durham,BFW de Leede
+info,player,Durham,BA Raine
+info,player,Durham,NA Sowter
+info,player,Durham,LS Robinson
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,HJ Swindells
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,Naveen-ul-Haq
+info,player,Leicestershire,Naseem Shah
+info,player,Leicestershire,J Hull
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HJ Swindells,95fd757d
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,LS Robinson,32ccd79b
+info,registry,people,MA Jones,05f96194
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WR Smith,ad962377

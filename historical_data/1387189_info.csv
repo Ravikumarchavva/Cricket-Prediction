@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Sydney Sixers
+info,gender,female
+info,season,2023/24
+info,date,2023/10/31
+info,event,Women's Big Bash League
+info,match_number,18
+info,venue,"Western Australia Cricket Association Ground, Perth"
+info,city,Perth
+info,toss_winner,Perth Scorchers
+info,toss_decision,bat
+info,player_of_match,A King
+info,umpire,Ahmad Khan
+info,umpire,J Thomas
+info,match_referee,SJ Davis
+info,winner,Perth Scorchers
+info,winner_runs,36
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,M Darke
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,L Griffith
+info,player,Perth Scorchers,AE Jones
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,T Peschel
+info,player,Perth Scorchers,CC Ainsworth
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,SW Bates
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,CL Tryon
+info,player,Sydney Sixers,M Brown
+info,player,Sydney Sixers,M Carmichael
+info,player,Sydney Sixers,KM Pelle
+info,player,Sydney Sixers,K Peterson
+info,player,Sydney Sixers,LCN Smith
+info,player,Sydney Sixers,L Cheatle
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AL Edgar,795ff893
+info,registry,people,Ahmad Khan,a63ceba6
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,CC Ainsworth,4b69c598
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,J Thomas,118c3b91
+info,registry,people,K Peterson,5f377534
+info,registry,people,KM Pelle,ae28c962
+info,registry,people,L Cheatle,275dff85
+info,registry,people,L Griffith,abe30ff7
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,LCN Smith,340202b0
+info,registry,people,M Brown,78bec461
+info,registry,people,M Carmichael,4b546c04
+info,registry,people,M Darke,57a90666
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,T Peschel,923402d8

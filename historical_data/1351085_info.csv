@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dhaka Dominators
+info,team,Rangpur Riders
+info,gender,male
+info,season,2022/23
+info,date,2023/02/03
+info,event,Bangladesh Premier League
+info,match_number,34
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Rangpur Riders
+info,toss_decision,field
+info,player_of_match,Nurul Hasan
+info,umpire,Gazi Sohel
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,Ali Arman
+info,match_referee,Akhtar Ahmad
+info,winner,Rangpur Riders
+info,winner_wickets,2
+info,player,Dhaka Dominators,Mohammad Mithun
+info,player,Dhaka Dominators,Soumya Sarkar
+info,player,Dhaka Dominators,Nasir Hossain
+info,player,Dhaka Dominators,Abdullah Al Mamun
+info,player,Dhaka Dominators,AJ Blake
+info,player,Dhaka Dominators,Ariful Haque
+info,player,Dhaka Dominators,Muktar Ali
+info,player,Dhaka Dominators,Shoriful Islam
+info,player,Dhaka Dominators,Amir Hamza
+info,player,Dhaka Dominators,Arafat Sunny
+info,player,Dhaka Dominators,Mohor Sheikh
+info,player,Rangpur Riders,Mohammad Naim
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,Shoaib Malik
+info,player,Rangpur Riders,Mohammad Nawaz
+info,player,Rangpur Riders,Azmatullah Omarzai
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Rakibul Hasan
+info,player,Rangpur Riders,Haris Rauf
+info,player,Rangpur Riders,Hasan Mahmud
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,Abdullah Al Mamun,ea36b0ee
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Amir Hamza,dca1ac2e
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohor Sheikh,b3213c74
+info,registry,people,Muktar Ali,4a491652
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686

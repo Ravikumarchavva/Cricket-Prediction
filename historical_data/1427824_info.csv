@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers
+info,team,South East Stars
+info,gender,female
+info,season,2024
+info,date,2024/05/04
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,19
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Sunrisers
+info,toss_decision,bat
+info,umpire,J Ibbotson
+info,umpire,NL Bainton
+info,match_referee,H Pack
+info,winner,South East Stars
+info,winner_wickets,5
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,CL Griffith
+info,player,Sunrisers,J Grewcock
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,A Surenkumar
+info,player,Sunrisers,F Miller
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,NM Hancock
+info,player,Sunrisers,EI MacGregor
+info,player,Sunrisers,KL Coppack
+info,player,South East Stars,BF Smith
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,K Moore
+info,player,South East Stars,A Stonehouse
+info,player,South East Stars,D Gregory
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,A Surenkumar,cf9338c9
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,EI MacGregor,c812dfa3
+info,registry,people,F Miller,9d9edf14
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,H Pack,fed53c91
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Grewcock,92b94582
+info,registry,people,J Ibbotson,7318fdbf
+info,registry,people,K Moore,d12c8445
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,SIR Dunkley,3a9e9cb2

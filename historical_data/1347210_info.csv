@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Kent
+info,gender,male
+info,season,2023
+info,date,2023/04/06
+info,date,2023/04/07
+info,date,2023/04/08
+info,date,2023/04/09
+info,event,County Championship
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,ID Blackwell
+info,umpire,PJ Hartley
+info,match_referee,DA Cosker
+info,winner,Kent
+info,winner_wickets,7
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,Hassan Azad
+info,player,Northamptonshire,SM Whiteman
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,GK Berg
+info,player,Northamptonshire,CP Tremain
+info,player,Northamptonshire,CJ White
+info,player,Kent,BG Compton
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,JA Leaning
+info,player,Kent,JM Cox
+info,player,Kent,SW Billings
+info,player,Kent,JDM Evison
+info,player,Kent,G Stewart
+info,player,Kent,MR Quinn
+info,player,Kent,MG Hogan
+info,registry,people,BG Compton,52d884b9
+info,registry,people,CJ White,5a74e559
+info,registry,people,CP Tremain,96824e68
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GK Berg,42151725
+info,registry,people,Hassan Azad,b9c7596f
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MG Hogan,5da34add
+info,registry,people,MR Quinn,b082d112
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Z Crawley,922e1b19

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rajasthan
+info,team,Saurashtra
+info,gender,male
+info,season,2020/21
+info,date,2021/01/19
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Holkar Stadium
+info,city,
+info,toss_winner,Rajasthan
+info,toss_decision,bat
+info,winner,Rajasthan
+info,winner_runs,15
+info,player,Rajasthan,BS Sharma
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,AL Menaria
+info,player,Rajasthan,R Bishnoi
+info,player,Rajasthan,Arjit Gupta
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,DL Chahar
+info,player,Rajasthan,Ravi Bishnoi
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,KK Ahmed
+info,player,Rajasthan,A Choudhary
+info,player,Saurashtra,JD Unadkat
+info,player,Saurashtra,C Sakariya
+info,player,Saurashtra,K D Patel
+info,player,Saurashtra,Chirag Jani
+info,player,Saurashtra,PN Mankad
+info,player,Saurashtra,Parth Chauhan
+info,player,Saurashtra,Vishvaraj Jadeja
+info,player,Saurashtra,AA Barot
+info,player,Saurashtra,Samarth Vyas
+info,player,Saurashtra,Arpit Vasavada
+info,player,Saurashtra,Dharmendrasinh Jadeja
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,AA Barot,b690f34a
+info,registry,people,AL Menaria,8291f939
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,Arpit Vasavada,2bbab579
+info,registry,people,BS Sharma,163b7ef5
+info,registry,people,C Sakariya,2cdce1be
+info,registry,people,Chirag Jani,783e6111
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,Dharmendrasinh Jadeja,d330f9b9
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,K D Patel,76cc7070
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,PN Mankad,663b5e34
+info,registry,people,Parth Chauhan,c7375760
+info,registry,people,R Bishnoi,4d5a1617
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Samarth Vyas,34819e70
+info,registry,people,Vishvaraj Jadeja,d30c6f81

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,female
+info,season,2010/11
+info,date,2011/01/22
+info,date,2011/01/23
+info,date,2011/01/24
+info,date,2011/01/25
+info,event,England Women tour of Australia
+info,venue,"Bankstown Oval, Sydney"
+info,city,Sydney
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,RM Farrell
+info,umpire,AJ Barrow
+info,umpire,P Wilson
+info,match_referee,PL Marshall
+info,winner,Australia
+info,winner_wickets,7
+info,player,England,HC Knight
+info,player,England,CMG Atkins
+info,player,England,LS Greenway
+info,player,England,CM Edwards
+info,player,England,JL Gunn
+info,player,England,LA Marsh
+info,player,England,KH Brunt
+info,player,England,D Hazell
+info,player,England,IT Guha
+info,player,England,HL Colvin
+info,player,England,LP Griffiths
+info,player,Australia,RL Haynes
+info,player,Australia,S Nitschke
+info,player,Australia,SJ Elliott
+info,player,Australia,AJ Blackwell
+info,player,Australia,LC Sthalekar
+info,player,Australia,LJ Poulton
+info,player,Australia,JE Cameron
+info,player,Australia,AJ Healy
+info,player,Australia,SJ Coyte
+info,player,Australia,EA Perry
+info,player,Australia,RM Farrell
+info,registry,people,AJ Barrow,a67aa9df
+info,registry,people,AJ Blackwell,b9164a9b
+info,registry,people,AJ Healy,321644de
+info,registry,people,CM Edwards,d4188b60
+info,registry,people,CMG Atkins,4d43c9f8
+info,registry,people,D Hazell,ea8b65ab
+info,registry,people,EA Perry,be150fc8
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HL Colvin,d3a44255
+info,registry,people,IT Guha,f46500c3
+info,registry,people,JE Cameron,5ebc3941
+info,registry,people,JL Gunn,907c51ab
+info,registry,people,KH Brunt,6a434bd3
+info,registry,people,LA Marsh,9706e64b
+info,registry,people,LC Sthalekar,6bb7a785
+info,registry,people,LJ Poulton,4f4f283c
+info,registry,people,LP Griffiths,3d9f212c
+info,registry,people,LS Greenway,923b0e02
+info,registry,people,P Wilson,68304a36
+info,registry,people,PL Marshall,c1ca6df3
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,RM Farrell,4ed7d23f
+info,registry,people,S Nitschke,3032933c
+info,registry,people,SJ Coyte,a5f488bc
+info,registry,people,SJ Elliott,13f8d4b5

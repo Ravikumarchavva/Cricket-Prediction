@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Zimbabwe
+info,gender,male
+info,season,2023
+info,date,2023/07/04
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,26
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,CB Sole
+info,umpire,A Paleker
+info,umpire,Asif Yaqoob
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,R Black
+info,match_referee,S Wadvalla
+info,winner,Scotland
+info,winner_runs,31
+info,player,Scotland,CM McBride
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,HG Munsey
+info,player,Scotland,RD Berrington
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,player,Zimbabwe,J Gumbie
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,B Muzarabani
+info,registry,people,A Paleker,634b11ac
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,J Gumbie,c8d74c21
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RP Burl,b08252b8
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,TSS Mackintosh,f5ef7ac3
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378

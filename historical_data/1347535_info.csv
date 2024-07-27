@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/08/15
+info,event,One-Day Cup
+info,venue,Kibworth Cricket Club New Ground
+info,city,Kibworth
+info,toss_winner,Essex
+info,toss_decision,bat
+info,umpire,AC Harris
+info,umpire,RJ Bailey
+info,match_referee,SJ Davis
+info,winner,Leicestershire
+info,winner_wickets,2
+info,player,Essex,LM Benkenstein
+info,player,Essex,RJ Das
+info,player,Essex,T Westley
+info,player,Essex,BJ Webster
+info,player,Essex,CWJ Allison
+info,player,Essex,SR Harmer
+info,player,Essex,NRM Thain
+info,player,Essex,WEL Buttleman
+info,player,Essex,JA Richards
+info,player,Essex,Aaron Beard
+info,player,Essex,ASS Nijjar
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,RI Walker
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,J Hull
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,CWJ Allison,42ee1d76
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JA Richards,04cd872b
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,NRM Thain,f8a63b6f
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RI Walker,c78a879c
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RJ Das,734344b3
+info,registry,people,RK Patel,4531f249
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Westley,25a42048
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,WEL Buttleman,e855546b

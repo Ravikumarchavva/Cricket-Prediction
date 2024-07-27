@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Qatar
+info,gender,male
+info,season,2023
+info,date,2023/09/20
+info,event,Gulf Cricket T20I Championship
+info,match_number,11
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,United Arab Emirates
+info,toss_decision,bat
+info,player_of_match,Zahoor Khan
+info,umpire,Imran Mustafa
+info,umpire,Rahat Ali
+info,reserve_umpire,Muhammad Usman
+info,tv_umpire,Mohammed Younis
+info,match_referee,Shivani Mishra
+info,winner,United Arab Emirates
+info,winner_runs,60
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ansh Tandon
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,United Arab Emirates,Zahoor Khan
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,I Liyanage
+info,player,Qatar,Mohammed Irshad
+info,player,Qatar,H Rathod
+info,player,Qatar,Uzair Amir
+info,player,Qatar,Jassim Khan
+info,player,Qatar,Muhammad Murad
+info,player,Qatar,Bukhar Illikkal
+info,player,Qatar,Muhammad Jabir
+info,player,Qatar,Bipin Kumar
+info,registry,people,A Sharma,5661ef90
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Ansh Tandon,599ce28e
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Bipin Kumar,c821e504
+info,registry,people,Bukhar Illikkal,f4a2d087
+info,registry,people,H Rathod,1f943bef
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Imran Mustafa,f11bc2ff
+info,registry,people,Jassim Khan,67e36e53
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Mohammed Irshad,1a54d618
+info,registry,people,Mohammed Younis,46ff5194
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Muhammad Murad,df3947f4
+info,registry,people,Muhammad Usman,05b35689
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Uzair Amir,441c1b67
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

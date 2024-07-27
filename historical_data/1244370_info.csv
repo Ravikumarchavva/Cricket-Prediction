@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Maharashtra
+info,gender,male
+info,season,2020/21
+info,date,2021/01/16
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Motibaug Cricket Ground
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,field
+info,winner,Baroda
+info,winner_runs,60
+info,player,Baroda,KH Devdhar
+info,player,Baroda,SK Patel
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,NA Rathva
+info,player,Baroda,Bhanu Pania
+info,player,Baroda,A Sheth
+info,player,Baroda,KR Kakade
+info,player,Baroda,AV Rajput
+info,player,Baroda,BA Pathan
+info,player,Baroda,LI Meriwala
+info,player,Baroda,BA Bhatt
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,Mukesh Choudhary
+info,player,Maharashtra,RS Hangargekar
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,T R Dhillon
+info,player,Maharashtra,SM Gugale
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Ranjeet Nikam
+info,player,Maharashtra,NS Naik
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AV Rajput,c1d3515b
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,BA Bhatt,dc4686e6
+info,registry,people,BA Pathan,870e4cec
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,KR Kakade,ba86aae4
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RS Hangargekar,c3c92b42
+info,registry,people,Ranjeet Nikam,ca099aeb
+info,registry,people,SK Patel,f93b43dd
+info,registry,people,SM Gugale,fdf8d681
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,T R Dhillon,225412c5
+info,registry,people,Vishnu Solanki,2e802011

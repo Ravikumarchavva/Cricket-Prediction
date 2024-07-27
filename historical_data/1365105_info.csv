@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Jersey
+info,gender,male
+info,season,2023
+info,date,2023/04/05
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,14
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,United Arab Emirates
+info,toss_decision,bat
+info,player_of_match,Asif Khan
+info,umpire,A Louw
+info,umpire,IO Oyieko
+info,reserve_umpire,Patric Makumbi
+info,match_referee,GH Pienaar
+info,winner,United Arab Emirates
+info,winner_runs,66
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Ansh Tandon
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,SM Sharma
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Zahoor Khan
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JAD Lawrenson
+info,player,Jersey,AM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,BDH Stevens
+info,player,Jersey,B Ward
+info,player,Jersey,J Sumerauer
+info,player,Jersey,JE Dunford
+info,player,Jersey,CW Perchard
+info,player,Jersey,D Birrell
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Sharma,5661ef90
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ansh Tandon,599ce28e
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,B Ward,9e0bd203
+info,registry,people,BDH Stevens,f8035c2a
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JAD Lawrenson,c810b349
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

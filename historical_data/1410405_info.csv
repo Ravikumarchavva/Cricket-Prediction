@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Lancashire
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Nottinghamshire
+info,toss_decision,bat
+info,umpire,GD Lloyd
+info,umpire,SJ O'Shaughnessy
+info,match_referee,AM Smith
+info,winner,Lancashire
+info,winner_wickets,6
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,WA Young
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,BG Lister
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,TC Bruce
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,CJ Green
+info,player,Lancashire,L Wood
+info,player,Lancashire,JP Morley
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,S Mahmood
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CJ Green,19b9f399
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,OP Stone,3f659464
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,WA Young,8afe73e2

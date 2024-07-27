@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Hong Kong
+info,gender,female
+info,season,2023/24
+info,date,2023/11/15
+info,event,Women's T20 Quadrangular Series (in Hong Kong)
+info,match_number,2
+info,venue,Hong Kong Cricket Club
+info,city,Wong Nai Chung Gap
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,KY Chan
+info,umpire,Huang Zhuo
+info,umpire,Tabarak Dar
+info,reserve_umpire,John Prakash
+info,match_referee,G Sankaranarayanan
+info,winner,Hong Kong
+info,winner_wickets,9
+info,player,Japan,H Goto
+info,player,Japan,A Kano
+info,player,Japan,A Chandel
+info,player,Japan,M Yanagida
+info,player,Japan,Seika Sumi
+info,player,Japan,A Fujikawa
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,R Kanai
+info,player,Japan,M Ogawa
+info,player,Japan,S Ranade
+info,player,Japan,Nonoha Yasumoto
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,WK Lai
+info,player,Hong Kong,EK Hubbard
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Chan Ka Man
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,EK Hubbard,1486e3fd
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,H Goto,b3af5bff
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Ogawa,93d65d0f
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,R Kanai,54a3d69f
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,S Ranade,01404b98
+info,registry,people,Seika Sumi,704b4c30
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,WK Lai,6ab99b17

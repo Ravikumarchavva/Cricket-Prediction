@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durdanto Dhaka
+info,team,Comilla Victorians
+info,gender,male
+info,season,2023/24
+info,date,2024/02/09
+info,event,Bangladesh Premier League
+info,match_number,26
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Durdanto Dhaka
+info,toss_decision,bat
+info,player_of_match,Towhid Hridoy
+info,umpire,DJ Millns
+info,umpire,Tanvir Ahmed
+info,reserve_umpire,Shafeen Shareef
+info,tv_umpire,Moniruzzaman
+info,match_referee,Showkatur Rahman
+info,winner,Comilla Victorians
+info,winner_wickets,4
+info,player,Durdanto Dhaka,PC de Silva
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,Saif Hassan
+info,player,Durdanto Dhaka,AI Ross
+info,player,Durdanto Dhaka,AM McCarthy
+info,player,Durdanto Dhaka,SM Meherob
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Arafat Sunny
+info,player,Durdanto Dhaka,Shoriful Islam
+info,player,Durdanto Dhaka,Tahjibul Islam
+info,player,Durdanto Dhaka,Mohammad Irfan
+info,player,Comilla Victorians,WG Jacks
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,BD Guest
+info,player,Comilla Victorians,RA Reifer
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,MW Forde
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Al Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,AM McCarthy,7f148ce7
+info,registry,people,Al Islam,45d38a84
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mohammad Irfan,a8e3170f
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,RA Reifer,d7725664
+info,registry,people,SM Meherob,f146c339
+info,registry,people,SMLD Samarakoon,d28f4d1c
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shafeen Shareef,bd616323
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Showkatur Rahman,5340a1c1
+info,registry,people,Tahjibul Islam,5efbe408
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,WG Jacks,9caf69a1

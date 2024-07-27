@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Italy
+info,gender,male
+info,season,2022
+info,date,2022/08/08
+info,event,CWC Challenge League
+info,match_number,37
+info,venue,"Farmers Cricket Club Ground, St Martin"
+info,city,St Martin
+info,toss_winner,Italy
+info,toss_decision,field
+info,player_of_match,RR Patel
+info,umpire,J Naeem
+info,umpire,Shiju Sam
+info,reserve_umpire,S Hodgson
+info,match_referee,Philip Thompson
+info,winner,Kenya
+info,winner_runs,24
+info,player,Kenya,RN Patel
+info,player,Kenya,AA Obanda
+info,player,Kenya,IA Karim
+info,player,Kenya,RR Patel
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,CO Obuya
+info,player,Kenya,SO Ngoche
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,S Singh
+info,player,Kenya,E Ochieng
+info,player,Kenya,Vraj Patel
+info,player,Italy,J Mosca
+info,player,Italy,D Samarawickrama
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,NPF Ranhaluge
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,Ahmed Nisar
+info,player,Italy,Jaspreet Singh
+info,player,Italy,Ali Hasan
+info,player,Italy,Jagmeet Singh
+info,registry,people,AA Obanda,7081491e
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Ahmed Nisar,e1e075c5
+info,registry,people,Ali Hasan,cae17490
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,D Samarawickrama,6d4c2087
+info,registry,people,E Ochieng,b64e3749
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,IA Karim,ca92a578
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,Jagmeet Singh,dd2c2ff3
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,NPF Ranhaluge,2501a832
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Hodgson,0d8392ae
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,Vraj Patel,2af28253

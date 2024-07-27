@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Aura
+info,team,Galle Gladiators
+info,gender,male
+info,season,2022/23
+info,date,2022/12/17
+info,event,Lanka Premier League
+info,match_number,15
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Dambulla Aura
+info,toss_decision,bat
+info,player_of_match,JM Cox
+info,umpire,HDPK Dharmasena
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,IC Soysa
+info,tv_umpire,LE Hannibal
+info,match_referee,GF Labrooy
+info,winner,Dambulla Aura
+info,winner_runs,48
+info,player,Dambulla Aura,S Daniel
+info,player,Dambulla Aura,JM Cox
+info,player,Dambulla Aura,MD Shanaka
+info,player,Dambulla Aura,PBB Rajapaksa
+info,player,Dambulla Aura,Sikandar Raza
+info,player,Dambulla Aura,MW Forde
+info,player,Dambulla Aura,PM Liyanagamage
+info,player,Dambulla Aura,Noor Ahmad
+info,player,Dambulla Aura,C Wickramasinghe
+info,player,Dambulla Aura,DS Thilakaratne
+info,player,Dambulla Aura,RS Fernando
+info,player,Galle Gladiators,PTM Dabare
+info,player,Galle Gladiators,BKG Mendis
+info,player,Galle Gladiators,LU Igalagamage
+info,player,Galle Gladiators,Asad Shafiq
+info,player,Galle Gladiators,MNK Fernando
+info,player,Galle Gladiators,Iftikhar Ahmed
+info,player,Galle Gladiators,Imad Wasim
+info,player,Galle Gladiators,Wahab Riaz
+info,player,Galle Gladiators,PADLR Sandakan
+info,player,Galle Gladiators,N Pradeep
+info,player,Galle Gladiators,N Thushara
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Wickramasinghe,a5c48ed1
+info,registry,people,DS Thilakaratne,a2198010
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,IC Soysa,717a7971
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PM Liyanagamage,3ee0050f
+info,registry,people,PTM Dabare,a97fbc2c
+info,registry,people,Pulina Tharanga,28d7f469
+info,registry,people,RS Fernando,24d72446
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Wahab Riaz,b3118300

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2023/24
+info,date,2023/09/12
+info,event,Australia tour of South Africa
+info,match_number,3
+info,venue,"Sedgars Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,AK Markram
+info,umpire,BP Jele
+info,umpire,RA Kettleborough
+info,reserve_umpire,A Paleker
+info,tv_umpire,Nitin Menon
+info,match_referee,RB Richardson
+info,winner,South Africa
+info,winner_runs,111
+info,player,South Africa,Q de Kock
+info,player,South Africa,T Bavuma
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,SSB Magala
+info,player,South Africa,G Coetzee
+info,player,South Africa,KA Maharaj
+info,player,South Africa,T Shamsi
+info,player,Australia,DA Warner
+info,player,Australia,TM Head
+info,player,Australia,MR Marsh
+info,player,Australia,M Labuschagne
+info,player,Australia,AT Carey
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,SA Abbott
+info,player,Australia,NT Ellis
+info,player,Australia,T Sangha
+info,player,Australia,JR Hazlewood
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Carey,69d03465
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SSB Magala,8361e524
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Sangha,52c952d9
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2

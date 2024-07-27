@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Somerset
+info,gender,male
+info,season,2023
+info,date,2023/06/21
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,RJ Warren
+info,match_referee,SJ Davis
+info,winner,Somerset
+info,winner_wickets,8
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,CD Fletcher
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,BGF Green
+info,player,Somerset,Kasey Aldridge
+info,player,Somerset,C Overton
+info,player,Somerset,JH Davey
+info,player,Somerset,JA Brooks
+info,player,Somerset,Shoaib Bashir
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BGF Green,34b37279
+info,registry,people,C Overton,e9987a94
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,JA Brooks,8bf61e65
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,Kasey Aldridge,31b01074
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,Shoaib Bashir,e36e9dd3
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,WT Root,72898514
+info,registry,people,WT Smale,97da28bd

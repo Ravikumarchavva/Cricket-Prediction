@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Durham
+info,gender,male
+info,season,2023
+info,date,2023/06/11
+info,date,2023/06/12
+info,date,2023/06/13
+info,date,2023/06/14
+info,event,County Championship
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Glamorgan
+info,toss_decision,bat
+info,umpire,N Pratt
+info,umpire,PR Pollard
+info,match_referee,JJ Whitaker
+info,outcome,draw
+info,player,Glamorgan,Zain-ul-Hassan
+info,player,Glamorgan,AG Salter
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,JAR Harris
+info,player,Glamorgan,P Sisodiya
+info,player,Durham,SJC McAlindon
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,SG Borthwick
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,G Clark
+info,player,Durham,BFW de Leede
+info,player,Durham,BA Raine
+info,player,Durham,AY Patel
+info,player,Durham,CN Miles
+info,registry,people,AG Salter,1a45b864
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,JAR Harris,f1ba9ed7
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MA Jones,05f96194
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SJC McAlindon,f40d24d9
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,WT Root,72898514
+info,registry,people,Zain-ul-Hassan,d12cead8

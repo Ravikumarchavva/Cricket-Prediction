@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Namibia
+info,gender,male
+info,season,2002/03
+info,date,2003/02/27
+info,event,ICC World Cup
+info,match_number,31
+info,venue,"North West Cricket Stadium, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,GD McGrath
+info,umpire,BF Bowden
+info,umpire,RB Tiffin
+info,tv_umpire,NA Mallender
+info,match_referee,GR Viswanath
+info,winner,Australia
+info,winner_runs,256
+info,player,Australia,AC Gilchrist
+info,player,Australia,ML Hayden
+info,player,Australia,MG Bevan
+info,player,Australia,A Symonds
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,DS Lehmann
+info,player,Australia,GB Hogg
+info,player,Australia,B Lee
+info,player,Australia,AJ Bichel
+info,player,Australia,GD McGrath
+info,player,Namibia,AJ Burger
+info,player,Namibia,SJ Swanepoel
+info,player,Namibia,M Karg
+info,player,Namibia,D Keulder
+info,player,Namibia,GB Murgatroyd
+info,player,Namibia,DB Kotze
+info,player,Namibia,LJ Burger
+info,player,Namibia,M van Schoor
+info,player,Namibia,BL Kotze
+info,player,Namibia,BO van Rooi
+info,player,Namibia,RJ van Vuuren
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AJ Bichel,3cf83487
+info,registry,people,AJ Burger,4347a4ae
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BL Kotze,540ffb25
+info,registry,people,BO van Rooi,047945ae
+info,registry,people,D Keulder,34c823b0
+info,registry,people,DB Kotze,5ee47383
+info,registry,people,DR Martyn,69762509
+info,registry,people,DS Lehmann,53fe6ee4
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,GB Murgatroyd,18356eb3
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,GR Viswanath,9333bc07
+info,registry,people,LJ Burger,6f4d314b
+info,registry,people,M Karg,856a5e81
+info,registry,people,M van Schoor,74bd2653
+info,registry,people,MG Bevan,c500ec39
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,RJ van Vuuren,0882b3f1
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SJ Swanepoel,31e31116

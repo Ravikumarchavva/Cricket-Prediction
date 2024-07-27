@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Northern Districts
+info,gender,male
+info,season,2023/24
+info,date,2023/11/06
+info,date,2023/11/07
+info,date,2023/11/08
+info,date,2023/11/09
+info,event,Plunket Shield
+info,match_number,7
+info,venue,Cello Basin Reserve
+info,city,
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,BF Bowden
+info,umpire,C Black
+info,match_referee,K Pulley
+info,outcome,draw
+info,player,Wellington Firebirds,TM Johnson
+info,player,Wellington Firebirds,NA Greenwood
+info,player,Wellington Firebirds,GR Severin
+info,player,Wellington Firebirds,NF Kelly
+info,player,Wellington Firebirds,TB Robinson
+info,player,Wellington Firebirds,CR McLachlan
+info,player,Wellington Firebirds,NG Smith
+info,player,Wellington Firebirds,PF Younghusband
+info,player,Wellington Firebirds,BV Sears
+info,player,Wellington Firebirds,MW Snedden
+info,player,Wellington Firebirds,JW Hartshorn
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,KDC Clarke
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,MJ Fisher
+info,registry,people,B Popli,848487cf
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,BV Sears,e1891e00
+info,registry,people,C Black,75b42f71
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,GR Severin,b1549dc0
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JG Walker,94734e80
+info,registry,people,JW Hartshorn,9f395b45
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,KDC Clarke,1e1a8922
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TM Johnson,917f66da

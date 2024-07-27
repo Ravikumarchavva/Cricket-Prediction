@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Pakistan
+info,gender,male
+info,season,2023
+info,date,2023/09/02
+info,event,Asia Cup
+info,match_number,3
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,India
+info,toss_decision,bat
+info,umpire,RK Illingworth
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,P Wilson
+info,match_referee,J Srinath
+info,outcome,no result
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,V Kohli
+info,player,India,SS Iyer
+info,player,India,Ishan Kishan
+info,player,India,HH Pandya
+info,player,India,RA Jadeja
+info,player,India,SN Thakur
+info,player,India,Kuldeep Yadav
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Siraj
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Haris Rauf
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,P Wilson,68304a36
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,V Kohli,ba607b88

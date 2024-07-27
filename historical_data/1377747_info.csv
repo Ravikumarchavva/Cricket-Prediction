@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,United States of America
+info,gender,male
+info,season,2023
+info,date,2023/06/18
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,2
+info,venue,"Takashinga Sports Club, Highfield, Harare"
+info,city,Harare
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,JO Holder
+info,umpire,J Madanagopal
+info,umpire,R Black
+info,reserve_umpire,MJ Saggers
+info,tv_umpire,RR Wimalasiri
+info,match_referee,Muhammad Javed
+info,winner,West Indies
+info,winner_runs,39
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Charles
+info,player,West Indies,SD Hope
+info,player,West Indies,N Pooran
+info,player,West Indies,RL Chase
+info,player,West Indies,R Powell
+info,player,West Indies,JO Holder
+info,player,West Indies,KMA Paul
+info,player,West Indies,AS Joseph
+info,player,West Indies,AJ Hosein
+info,player,United States of America,SR Taylor
+info,player,United States of America,SJ Modani
+info,player,United States of America,MD Patel
+info,player,United States of America,Aaron Jones
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,G Singh
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,K Phillip
+info,player,United States of America,SN Netravalkar
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AS Joseph,b0946605
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,BA King,7fca84b7
+info,registry,people,G Singh,e93b6c95
+info,registry,people,J Charles,09a9d073
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JO Holder,0f721006
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,K Phillip,3674b3c1
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Powell,650d5e49
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SJ Modani,290cba17
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a

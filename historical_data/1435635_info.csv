@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Uganda
+info,gender,female
+info,season,2024
+info,date,2024/06/04
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,18
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,I Nakisuuyi
+info,umpire,TJ Onikoyi
+info,umpire,V Iriho
+info,reserve_umpire,R Singinzwa
+info,winner,Uganda
+info,winner_wickets,8
+info,player,Kenya,Q Abel
+info,player,Kenya,E Wachira
+info,player,Kenya,V Abuga
+info,player,Kenya,V Ooko
+info,player,Kenya,L Idambo
+info,player,Kenya,C Muthoni
+info,player,Kenya,JS Ndanu
+info,player,Kenya,A Wanjira
+info,player,Kenya,F Odhiambo
+info,player,Kenya,K Ogola
+info,player,Kenya,J Ajiambo
+info,player,Uganda,J Mbabazi
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,S Nampiina
+info,player,Uganda,P Alako
+info,player,Uganda,C Aweko
+info,player,Uganda,R Musamali
+info,player,Uganda,K Awino
+info,player,Uganda,S Walaza
+info,player,Uganda,M Ariokot
+info,player,Uganda,L Anyait
+info,player,Uganda,P Timong
+info,registry,people,A Wanjira,b6015231
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Ajiambo,c3a998fa
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,JS Ndanu,c27e0638
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K Ogola,7f7dc2ee
+info,registry,people,L Anyait,cffeef53
+info,registry,people,L Idambo,27339093
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Timong,121b6ac9
+info,registry,people,Q Abel,2e988457
+info,registry,people,R Musamali,017cadb2
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Walaza,f67ea6d2
+info,registry,people,TJ Onikoyi,b68d9bc6
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Iriho,2853eafb
+info,registry,people,V Ooko,2ae76bf6

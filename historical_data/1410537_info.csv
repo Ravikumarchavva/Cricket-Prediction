@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers
+info,team,The Blaze
+info,gender,female
+info,season,2024
+info,date,2024/06/13
+info,event,Charlotte Edwards Cup
+info,match_number,30
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,The Blaze
+info,toss_decision,field
+info,umpire,G Brown
+info,umpire,JC Tredwell
+info,match_referee,H Pack
+info,winner,The Blaze
+info,winner_wickets,8
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,AJ Macleod
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,F Miller
+info,player,Sunrisers,J Grewcock
+info,player,Sunrisers,A Surenkumar
+info,player,Sunrisers,E Gray
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,NM Hancock
+info,player,Sunrisers,KL Coppack
+info,player,The Blaze,TT Beaumont
+info,player,The Blaze,M Kelly
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,H Graham
+info,player,The Blaze,E Claridge
+info,player,The Blaze,S Glenn
+info,player,The Blaze,J Groves
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,LF Higham
+info,player,The Blaze,G Ballinger
+info,registry,people,A Surenkumar,cf9338c9
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AJ Macleod,e7f06080
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,E Gray,58717de2
+info,registry,people,F Miller,9d9edf14
+info,registry,people,G Ballinger,2f485713
+info,registry,people,G Brown,4b781bd0
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,H Graham,99812d10
+info,registry,people,H Pack,fed53c91
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Grewcock,92b94582
+info,registry,people,J Groves,11ff23e3
+info,registry,people,JC Tredwell,49b6c09f
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,KL Gordon,00823a96
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,TT Beaumont,b2664905

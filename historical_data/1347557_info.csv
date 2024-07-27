@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/08/22
+info,event,One-Day Cup
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Northamptonshire
+info,toss_decision,bat
+info,umpire,GD Lloyd
+info,umpire,Naeem Ashraf
+info,match_referee,AJ Swann
+info,winner,Glamorgan
+info,winner_wickets,5
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,SM Whiteman
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,AH Miller
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,CJ White
+info,player,Northamptonshire,AK Russell
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,AJ Horton
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,JP McIlroy
+info,registry,people,AH Miller,693af62a
+info,registry,people,AJ Horton,cdc3e595
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AK Russell,a6f2b2ef
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CJ White,5a74e559
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,J Broad,ec5160d7
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WT Root,72898514

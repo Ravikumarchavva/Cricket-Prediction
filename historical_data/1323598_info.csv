@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Adelaide Strikers
+info,gender,female
+info,season,2022/23
+info,date,2022/11/14
+info,event,Women's Big Bash League
+info,match_number,45
+info,venue,"Karen Rolton Oval, Adelaide"
+info,city,Adelaide
+info,toss_winner,Brisbane Heat
+info,toss_decision,bat
+info,player_of_match,AC Kerr
+info,umpire,D Bhatt
+info,umpire,Harsimran Singh
+info,match_referee,SJ Davis
+info,winner,Brisbane Heat
+info,winner_runs,2
+info,method,D/L
+info,player,Brisbane Heat,DN Wyatt
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,E Johnston
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,player,Brisbane Heat,JM Kerr
+info,player,Adelaide Strikers,KM Mack
+info,player,Adelaide Strikers,L Wolvaardt
+info,player,Adelaide Strikers,TM McGrath
+info,player,Adelaide Strikers,DJS Dottin
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,M Penna
+info,player,Adelaide Strikers,A Wellington
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,JL Barsby
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,D Brown
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AC Kerr,7673c908
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,D Bhatt,b34f743c
+info,registry,people,D Brown,2e81be88
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Johnston,3785e30d
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,Harsimran Singh,bf4720ce
+info,registry,people,JL Barsby,47bcaf7a
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,JM Kerr,9af58032
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Harris,36e2dc83
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Penna,36453b99
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TJ McPharlin,595e1ee7
+info,registry,people,TM McGrath,ca5acfa4

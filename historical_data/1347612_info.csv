@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/04
+info,event,Vitality Blast
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,AG Wharf
+info,umpire,S Redfern
+info,match_referee,Phil Whitticase
+info,winner,Gloucestershire
+info,winner_wickets,7
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JM De Caires
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,player,Middlesex,TN Walallawita
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,DJ Lamb
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,DA Payne
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BC Cullen,39180894
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM De Caires,8cbcff3b
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,S Redfern,5b038989
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,TN Walallawita,64212089
+info,registry,people,Zafar Gohar,9fd3a210

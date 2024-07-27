@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Knights
+info,team,Munster Reds
+info,gender,male
+info,season,2024
+info,date,2024/05/29
+info,event,Cricket Ireland Inter-Provincial Limited Over Cup
+info,match_number,4
+info,venue,"Civil Service Cricket Club, Stormont, Belfast"
+info,city,Belfast
+info,toss_winner,Munster Reds
+info,toss_decision,field
+info,player_of_match,BF Calitz
+info,umpire,Aidan Seaver
+info,umpire,R Black
+info,reserve_umpire,G Morrisey
+info,match_referee,Philip Thompson
+info,winner,Northern Knights
+info,winner_runs,81
+info,method,D/L
+info,player,Northern Knights,JA McCollum
+info,player,Northern Knights,SJ Topping
+info,player,Northern Knights,C Carmichael
+info,player,Northern Knights,M Topping
+info,player,Northern Knights,BF Calitz
+info,player,Northern Knights,R Pretorius
+info,player,Northern Knights,T Koen
+info,player,Northern Knights,T Mayes
+info,player,Northern Knights,MJ Humphreys
+info,player,Northern Knights,C Robertson
+info,player,Northern Knights,MT Foster
+info,player,Munster Reds,B Kruger
+info,player,Munster Reds,AR Frost
+info,player,Munster Reds,OG Metcalfe
+info,player,Munster Reds,JM Dickson
+info,player,Munster Reds,ND Laegsgaard
+info,player,Munster Reds,J Neill
+info,player,Munster Reds,L McCarthy
+info,player,Munster Reds,CJB McCullough
+info,player,Munster Reds,J Manley
+info,player,Munster Reds,H Dyer
+info,player,Munster Reds,M Frost
+info,registry,people,AR Frost,a7750ab4
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,B Kruger,103431a3
+info,registry,people,BF Calitz,24ad97e7
+info,registry,people,C Carmichael,f3b158d9
+info,registry,people,C Robertson,d26de4de
+info,registry,people,CJB McCullough,5d6364f0
+info,registry,people,G Morrisey,f442110f
+info,registry,people,H Dyer,0b48776e
+info,registry,people,J Manley,05f85159
+info,registry,people,J Neill,8bb34d86
+info,registry,people,JA McCollum,c7105dab
+info,registry,people,JM Dickson,6622deb0
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,M Frost,96d56d32
+info,registry,people,M Topping,33f44dfc
+info,registry,people,MJ Humphreys,2c54c49b
+info,registry,people,MT Foster,14e801aa
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OG Metcalfe,decd0bc4
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Pretorius,8ff85f5c
+info,registry,people,SJ Topping,5ee4759d
+info,registry,people,T Koen,806f03dd
+info,registry,people,T Mayes,9aedf23b

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Haryana
+info,team,Mumbai
+info,gender,male
+info,season,2023/24
+info,date,2023/10/16
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Haryana
+info,toss_decision,bat
+info,umpire,M Krishnadas
+info,umpire,GR Sadashiv Iyer
+info,match_referee,P Dharmani
+info,winner,Mumbai
+info,winner_wickets,8
+info,method,VJD
+info,player,Haryana,HV Patel
+info,player,Haryana,Ankit Kumar
+info,player,Haryana,Himanshu Rana
+info,player,Haryana,N Sindhu
+info,player,Haryana,Sumit Kumar
+info,player,Haryana,SM Rohilla
+info,player,Haryana,R Tewatia
+info,player,Haryana,MM Sharma
+info,player,Haryana,A Mishra
+info,player,Haryana,YS Chahal
+info,player,Haryana,J Yadav
+info,player,Haryana,A Kamboj
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,A Raghuvanshi
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,S Dube
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,SN Khan
+info,player,Mumbai,PY Pawar
+info,player,Mumbai,Tanush Kotian
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,Mohit Avasthi
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mishra,6b19d823
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Ankit Kumar,9765545f
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,GR Sadashiv Iyer,0be62e31
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Himanshu Rana,9d3940b3
+info,registry,people,J Yadav,81049310
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,MM Sharma,759ac88f
+info,registry,people,Mohit Avasthi,7e83cef2
+info,registry,people,N Sindhu,3cea23da
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,PY Pawar,c9f2fc04
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SM Rohilla,43666b9b
+info,registry,people,SN Khan,f088b960
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Sumit Kumar,8998a68f
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tanush Kotian,5724e517
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,YS Chahal,57ee1fde

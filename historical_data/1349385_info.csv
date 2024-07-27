@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Malaysia
+info,gender,male
+info,season,2022/23
+info,date,2022/12/19
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,8
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Bahrain
+info,toss_decision,bat
+info,player_of_match,Virandeep Singh
+info,umpire,T Senthil Kumar
+info,umpire,Tabarak Dar
+info,reserve_umpire,Rudy Ismandy
+info,match_referee,B Ramani
+info,winner,Malaysia
+info,winner_wickets,7
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Danish Jasnaik
+info,player,Bahrain,Shahid Mahmood
+info,player,Bahrain,Waseeq Ahmed
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Mohamed Arief
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Syed Rehmatullah
+info,player,Malaysia,Fitri Sham
+info,player,Malaysia,Muhammad Amir
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,B Ramani,92ad5353
+info,registry,people,Danish Jasnaik,d24ad3e5
+info,registry,people,Fitri Sham,d2ec068c
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Mohamed Arief,1087dd78
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Shahid Mahmood,37753749
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Syed Rehmatullah,fcbdc2b0
+info,registry,people,T Senthil Kumar,961ddfac
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Waseeq Ahmed,a7d6c101
+info,registry,people,Zubaidi Zulkifle,dca8273d

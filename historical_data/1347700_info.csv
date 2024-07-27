@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/07/15
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Essex
+info,toss_decision,field
+info,player_of_match,MJ Henry
+info,umpire,MJ Saggers
+info,umpire,RJ Warren
+info,reserve_umpire,GD Lloyd
+info,tv_umpire,NJ Llong
+info,match_referee,DA Cosker
+info,winner,Somerset
+info,winner_runs,14
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,C Overton
+info,player,Somerset,Kasey Aldridge
+info,player,Somerset,MJ Henry
+info,player,Somerset,IS Sodhi
+info,player,Essex,AM Rossington
+info,player,Essex,DW Lawrence
+info,player,Essex,MS Pepper
+info,player,Essex,RJ Das
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,Aaron Beard
+info,player,Essex,SJ Cook
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BGF Green,34b37279
+info,registry,people,C Overton,e9987a94
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,Kasey Aldridge,31b01074
+info,registry,people,L Gregory,06c2de82
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RJ Das,734344b3
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Snater,a790df98
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961

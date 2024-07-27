@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Derbyshire
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Vitality Blast
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Derbyshire
+info,toss_decision,field
+info,umpire,DJ Millns
+info,umpire,GD Lloyd
+info,match_referee,IL Herbert
+info,winner,Lancashire
+info,winner_runs,27
+info,player,Lancashire,PD Salt
+info,player,Lancashire,JC Buttler
+info,player,Lancashire,LS Livingstone
+info,player,Lancashire,DJ Mitchell
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,RP Jones
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,L Wood
+info,player,Lancashire,TE Bailey
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,L Wood,65b6943c
+info,registry,people,LM Reece,9789e56e
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RP Jones,ad8cb396
+info,registry,people,SJ Croft,ab474682
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11

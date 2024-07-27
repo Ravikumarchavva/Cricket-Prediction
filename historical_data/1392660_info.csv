@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Paarl Royals
+info,gender,male
+info,season,2023/24
+info,date,2024/01/17
+info,event,SA20
+info,match_number,9
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Joburg Super Kings
+info,toss_decision,bat
+info,player_of_match,JC Buttler
+info,umpire,Lauren Agenbag
+info,umpire,M Erasmus
+info,reserve_umpire,RJ Warren
+info,tv_umpire,Siphelele Gasa
+info,match_referee,GH Pienaar
+info,winner,Paarl Royals
+info,winner_wickets,7
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,WL Madsen
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,AM Phangiso
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,FA Allen
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,player,Paarl Royals,OC McCoy
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Burger,465aa633
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,WL Madsen,86e0f3f0

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rajasthan
+info,team,Railways
+info,gender,male
+info,season,2022/23
+info,date,2022/10/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Saurashtra Cricket Association Stadium, Rajkot"
+info,city,Rajkot
+info,toss_winner,Rajasthan
+info,toss_decision,bat
+info,umpire,M Krishnadas
+info,umpire,S Ravi
+info,match_referee,Prakash Bhatt
+info,winner,Rajasthan
+info,winner_runs,8
+info,player,Rajasthan,YB Kothari
+info,player,Rajasthan,AL Menaria
+info,player,Rajasthan,SF Khan
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,Samarpit Joshi
+info,player,Rajasthan,Arjit Gupta
+info,player,Rajasthan,KS Rathore
+info,player,Rajasthan,KL Nagarkoti
+info,player,Rajasthan,Ravi Bishnoi
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,A Choudhary
+info,player,Rajasthan,KK Ahmed
+info,player,Railways,Pratham Singh
+info,player,Railways,Shivam Chaudhary
+info,player,Railways,Mohammad Saif
+info,player,Railways,Upendra Yadav
+info,player,Railways,Suraj Ahuja
+info,player,Railways,Vivek Singh
+info,player,Railways,MR Raut
+info,player,Railways,KV Sharma
+info,player,Railways,Dhrushant Soni
+info,player,Railways,Harsh Tyagi
+info,player,Railways,Yuvraj Singh
+info,player,Railways,T Pradeep
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,AL Menaria,8291f939
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,Dhrushant Soni,13abdc50
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KL Nagarkoti,b4f5c2d9
+info,registry,people,KS Rathore,e3851766
+info,registry,people,KV Sharma,119678fd
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MR Raut,af7f15f3
+info,registry,people,Mohammad Saif,2843d331
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SF Khan,25986786
+info,registry,people,Samarpit Joshi,ad5cdffc
+info,registry,people,Shivam Chaudhary,e53af640
+info,registry,people,Suraj Ahuja,a0d05c98
+info,registry,people,T Pradeep,a0d66374
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,YB Kothari,c2aaa4be
+info,registry,people,Yuvraj Singh,30829ea2

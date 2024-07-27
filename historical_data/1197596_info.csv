@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Wellington Firebirds
+info,gender,male
+info,season,2019/20
+info,date,2020/03/10
+info,date,2020/03/11
+info,date,2020/03/12
+info,date,2020/03/13
+info,event,Plunket Shield
+info,venue,Colin Maiden Park
+info,city,
+info,toss_winner,Auckland Aces
+info,toss_decision,bat
+info,umpire,A Mehrotra
+info,umpire,CM Brown
+info,match_referee,RE Hayward
+info,winner,Wellington Firebirds
+info,winner_innings,1
+info,winner_runs,7
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,WT O'Donnell
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,FH Allen
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,DK Ferns
+info,player,Auckland Aces,BG Lister
+info,player,Auckland Aces,L Delport
+info,player,Auckland Aces,JA Brown
+info,player,Wellington Firebirds,R Ravindra
+info,player,Wellington Firebirds,JJNP Bhula
+info,player,Wellington Firebirds,DP Conway
+info,player,Wellington Firebirds,MG Bracewell
+info,player,Wellington Firebirds,LR Johns
+info,player,Wellington Firebirds,JD Gibson
+info,player,Wellington Firebirds,TM Johnson
+info,player,Wellington Firebirds,LV van Beek
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,BV Sears
+info,player,Wellington Firebirds,MW Snedden
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JA Brown,30539beb
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JD Gibson,57f520ee
+info,registry,people,JJNP Bhula,698fd649
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LR Johns,8ba20313
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TM Johnson,917f66da
+info,registry,people,WT O'Donnell,730b57de

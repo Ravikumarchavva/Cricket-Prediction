@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Desert Vipers
+info,team,Sharjah Warriors
+info,gender,male
+info,season,2022/23
+info,date,2023/01/31
+info,event,International League T20
+info,match_number,23
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Desert Vipers
+info,toss_decision,bat
+info,player_of_match,PWH de Silva
+info,umpire,MJ Saggers
+info,umpire,RJ Tucker
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,Akbar Ali
+info,match_referee,RS Mahanama
+info,winner,Desert Vipers
+info,winner_runs,22
+info,player,Desert Vipers,Rohan Mustafa
+info,player,Desert Vipers,AD Hales
+info,player,Desert Vipers,C Munro
+info,player,Desert Vipers,SW Billings
+info,player,Desert Vipers,PWH de Silva
+info,player,Desert Vipers,SE Rutherford
+info,player,Desert Vipers,BAC Howell
+info,player,Desert Vipers,AAP Atkinson
+info,player,Desert Vipers,L Wood
+info,player,Desert Vipers,SS Cottrell
+info,player,Desert Vipers,Shiraz Ahmed
+info,player,Sharjah Warriors,Rahmanullah Gurbaz
+info,player,Sharjah Warriors,T Kohler-Cadmore
+info,player,Sharjah Warriors,MP Stoinis
+info,player,Sharjah Warriors,AJ Hose
+info,player,Sharjah Warriors,JL Denly
+info,player,Sharjah Warriors,PI Walter
+info,player,Sharjah Warriors,Mohammad Nabi
+info,player,Sharjah Warriors,Noor Ahmad
+info,player,Sharjah Warriors,Junaid Siddique
+info,player,Sharjah Warriors,Naveen-ul-Haq
+info,player,Sharjah Warriors,Muhammad Jawadullah
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,C Munro,af2c687b
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,L Wood,65b6943c
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shiraz Ahmed,101dcc31
+info,registry,people,T Kohler-Cadmore,f836b33d

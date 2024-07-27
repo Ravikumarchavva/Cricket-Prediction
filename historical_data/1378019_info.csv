@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Sweden
+info,gender,female
+info,season,2023
+info,date,2023/06/02
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,14
+info,venue,"FB Fields, St Clement"
+info,city,St Clement
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,CM Greechan
+info,umpire,Jareth McCready
+info,umpire,Ryan Milne
+info,reserve_umpire,HE Kearns
+info,match_referee,G McCrea
+info,winner,Jersey
+info,winner_runs,108
+info,player,Jersey,C Miles
+info,player,Jersey,L Greig
+info,player,Jersey,G Wetherall
+info,player,Jersey,A Merritt
+info,player,Jersey,T Smith
+info,player,Jersey,CM Greechan
+info,player,Jersey,A Aikenhead
+info,player,Jersey,E Gouge
+info,player,Jersey,M Maguire
+info,player,Jersey,S Hanson
+info,player,Jersey,F Copley
+info,player,Sweden,Kanchan Rana
+info,player,Sweden,S Lundell
+info,player,Sweden,E Thelander
+info,player,Sweden,Jayasooriya
+info,player,Sweden,Eman Asim
+info,player,Sweden,G Shukla
+info,player,Sweden,M Alugunoolla
+info,player,Sweden,H Chamto
+info,player,Sweden,S Bhanushali
+info,player,Sweden,SK Ravuri
+info,player,Sweden,S Elmsjoo
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,C Miles,80f16d29
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,E Thelander,45cb4feb
+info,registry,people,Eman Asim,fd8038e1
+info,registry,people,F Copley,637680bc
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Shukla,6b4817d9
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,H Chamto,5e181be6
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jayasooriya,39183970
+info,registry,people,Kanchan Rana,d5d87f3f
+info,registry,people,L Greig,0e3e8ce3
+info,registry,people,M Alugunoolla,15f570b6
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S Bhanushali,da6576af
+info,registry,people,S Elmsjoo,ce5030d8
+info,registry,people,S Hanson,711c82b5
+info,registry,people,S Lundell,0d298cc9
+info,registry,people,SK Ravuri,0398fc0f
+info,registry,people,T Smith,f24ffaab

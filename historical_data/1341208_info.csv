@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Canterbury
+info,gender,male
+info,season,2022/23
+info,date,2023/01/08
+info,event,Super Smash
+info,match_number,15
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,BF Bowden
+info,umpire,PJ Pasco
+info,tv_umpire,CM Brown
+info,match_referee,GB Troup
+info,winner,Canterbury
+info,winner_runs,14
+info,method,D/L
+info,player,Auckland,GH Worker
+info,player,Auckland,CJ Briggs
+info,player,Auckland,MS Chapman
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,SM Solia
+info,player,Auckland,BJ Horne
+info,player,Auckland,L Delport
+info,player,Auckland,A Ashok
+info,player,Auckland,DK Ferns
+info,player,Auckland,MJ Gibson
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,TD Astle
+info,player,Canterbury,W O'Rourke
+info,player,Canterbury,EJ Nuttall
+info,registry,people,A Ashok,321be7e3
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MJ Gibson,750d906e
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TD Astle,383dd431
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,WT O'Donnell,730b57de
+info,registry,people,ZGF Foulkes,30f92334

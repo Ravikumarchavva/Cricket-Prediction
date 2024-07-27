@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Durham
+info,gender,male
+info,season,2023
+info,date,2023/05/26
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,bat
+info,umpire,DJ Millns
+info,umpire,Surendiran Shanmugam
+info,match_referee,JJ Swift
+info,winner,Durham
+info,winner_wickets,10
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,GG White
+info,player,Northamptonshire,JJG Sales
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,OG Robinson
+info,player,Durham,AJ Turner
+info,player,Durham,BFW de Leede
+info,player,Durham,L Doneathy
+info,player,Durham,L Trevaskis
+info,player,Durham,BA Raine
+info,player,Durham,NA Sowter
+info,player,Durham,BD Glover
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BD Glover,0dbe27b8
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Willey,7f048519
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GG White,0f21680d
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,L Doneathy,4bf5c12f
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MA Jones,05f96194
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TAI Taylor,867a45a7

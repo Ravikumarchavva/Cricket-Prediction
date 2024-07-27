@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Central Stags
+info,gender,male
+info,season,2015/16
+info,date,2016/03/15
+info,date,2016/03/16
+info,date,2016/03/17
+info,date,2016/03/18
+info,event,Plunket Shield
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,Central Stags
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,WR Knights
+info,winner,Northern Districts
+info,winner_runs,115
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,JD Baker
+info,player,Northern Districts,ZN Gibson
+info,player,Central Stags,DS Robinson
+info,player,Central Stags,GR Hay
+info,player,Central Stags,M Renwick
+info,player,Central Stags,WA Young
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,BJ Small
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,LR Dudding
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,B Popli,848487cf
+info,registry,people,BJ Small,b1b7b7de
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,DS Robinson,0ec02f03
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JG Walker,94734e80
+info,registry,people,LR Dudding,678a8133
+info,registry,people,M Renwick,b862ef08
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,ZN Gibson,eec5fe00

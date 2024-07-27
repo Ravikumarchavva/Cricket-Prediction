@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2023/24
+info,date,2023/09/22
+info,event,Australia tour of India
+info,match_number,1
+info,venue,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+info,city,Chandigarh
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Mohammed Shami
+info,umpire,KN Ananthapadmanabhan
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,J Madanagopal
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,5
+info,player,Australia,MR Marsh
+info,player,Australia,DA Warner
+info,player,Australia,SPD Smith
+info,player,Australia,M Labuschagne
+info,player,Australia,C Green
+info,player,Australia,JP Inglis
+info,player,Australia,MP Stoinis
+info,player,Australia,MW Short
+info,player,Australia,PJ Cummins
+info,player,Australia,SA Abbott
+info,player,Australia,A Zampa
+info,player,India,RD Gaikwad
+info,player,India,Shubman Gill
+info,player,India,SS Iyer
+info,player,India,KL Rahul
+info,player,India,Ishan Kishan
+info,player,India,SA Yadav
+info,player,India,RA Jadeja
+info,player,India,R Ashwin
+info,player,India,SN Thakur
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Shami
+info,registry,people,A Zampa,14f96089
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shubman Gill,b4b99816

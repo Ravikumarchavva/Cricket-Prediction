@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Lancashire
+info,gender,male
+info,season,2023
+info,date,2023/08/15
+info,event,One-Day Cup
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Hampshire
+info,toss_decision,bat
+info,umpire,Hassan Adnan
+info,umpire,James Middlebrook
+info,match_referee,DA Cosker
+info,winner,Hampshire
+info,winner_runs,11
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,BC Brown
+info,player,Hampshire,AHT Donald
+info,player,Hampshire,JR Eckland
+info,player,Hampshire,FS Organ
+info,player,Hampshire,SW Currie
+info,player,Hampshire,DC Kelly
+info,player,Hampshire,EV Jack
+info,player,Hampshire,BTJ Wheal
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,GID Lavelle
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,TH Aspinwall
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,JP Morley
+info,registry,people,AHT Donald,72918338
+info,registry,people,BC Brown,8af86756
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DC Kelly,5f031dc9
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,EV Jack,52912da9
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,FS Organ,819ae1ad
+info,registry,people,GID Lavelle,c2988809
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,JR Eckland,6fecec77
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,TH Aspinwall,00b195ae
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,WSA Williams,861eed37

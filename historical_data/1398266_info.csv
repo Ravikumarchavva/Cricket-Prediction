@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,South Africa
+info,gender,female
+info,season,2023/24
+info,date,2024/04/13
+info,event,Sri Lanka Women tour of South Africa
+info,match_number,2
+info,venue,"Diamond Oval, Kimberley"
+info,city,Kimberley
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,L Wolvaardt
+info,umpire,JM Williams
+info,umpire,TC Mokorosi
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,K Klaaste
+info,match_referee,SA Fritz
+info,winner,South Africa
+info,winner_wickets,7
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,H Karunaratne
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,K Kavindi
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,I Ranaweera
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,L Goodall
+info,player,South Africa,D Tucker
+info,player,South Africa,S Luus
+info,player,South Africa,M Kapp
+info,player,South Africa,N de Klerk
+info,player,South Africa,E Marx
+info,player,South Africa,S Jafta
+info,player,South Africa,A Khaka
+info,player,South Africa,M Klaas
+info,player,South Africa,N Mlaba
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,D Tucker,2b425403
+info,registry,people,E Marx,be592751
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Karunaratne,f8e27d4a
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,K Kavindi,2fa916b3
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,L Goodall,0bb32e98
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

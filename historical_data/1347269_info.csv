@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Hampshire
+info,gender,male
+info,season,2023
+info,date,2023/09/19
+info,date,2023/09/20
+info,date,2023/09/21
+info,date,2023/09/22
+info,event,County Championship
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Essex
+info,toss_decision,bat
+info,umpire,NJ Llong
+info,umpire,SJ O'Shaughnessy
+info,match_referee,SG Hinks
+info,winner,Hampshire
+info,winner_wickets,3
+info,player,Essex,NLJ Browne
+info,player,Essex,AN Cook
+info,player,Essex,T Westley
+info,player,Essex,DW Lawrence
+info,player,Essex,MJJ Critchley
+info,player,Essex,PI Walter
+info,player,Essex,AM Rossington
+info,player,Essex,SR Harmer
+info,player,Essex,UT Yadav
+info,player,Essex,SJ Cook
+info,player,Essex,JA Porter
+info,player,Hampshire,TE Albert
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,BC Brown
+info,player,Hampshire,KHD Barker
+info,player,Hampshire,FS Organ
+info,player,Hampshire,KJ Abbott
+info,player,Hampshire,Mohammad Abbas
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BC Brown,8af86756
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,FS Organ,819ae1ad
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KHD Barker,2223b920
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NLJ Browne,81efec30
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,PI Walter,57590dbb
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Westley,25a42048
+info,registry,people,TE Albert,a6c17509
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,UT Yadav,cc1e8c68

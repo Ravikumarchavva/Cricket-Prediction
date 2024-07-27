@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,North-West Warriors
+info,team,Munster Reds
+info,gender,male
+info,season,2024
+info,date,2024/06/04
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,11
+info,venue,Oak Hill Cricket Club
+info,city,Wicklow
+info,toss_winner,Munster Reds
+info,toss_decision,field
+info,player_of_match,Gavin Roulston
+info,umpire,AA Baig
+info,umpire,Jonathan Kennedy
+info,reserve_umpire,Aidan Seaver
+info,match_referee,G McCrea
+info,winner,North-West Warriors
+info,winner_runs,13
+info,method,D/L
+info,player,Munster Reds,AR Frost
+info,player,Munster Reds,B Kruger
+info,player,Munster Reds,ND Laegsgaard
+info,player,Munster Reds,OG Metcalfe
+info,player,Munster Reds,L McCarthy
+info,player,Munster Reds,H Dyer
+info,player,Munster Reds,J Manley
+info,player,Munster Reds,J Neill
+info,player,Munster Reds,CJB McCullough
+info,player,Munster Reds,S McNicholl
+info,player,Munster Reds,M Frost
+info,player,North-West Warriors,ST Doheny
+info,player,North-West Warriors,Gavin Roulston
+info,player,North-West Warriors,SJ MacBeth
+info,player,North-West Warriors,C Melly
+info,player,North-West Warriors,K Hilton
+info,player,North-West Warriors,J Wilson
+info,player,North-West Warriors,MN Piedt
+info,player,North-West Warriors,R MacBeth
+info,player,North-West Warriors,H Zimmerman
+info,player,North-West Warriors,LC Doherty
+info,player,North-West Warriors,AR McBrine
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AR Frost,a7750ab4
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,B Kruger,103431a3
+info,registry,people,C Melly,48641e31
+info,registry,people,CJB McCullough,5d6364f0
+info,registry,people,G McCrea,46f4a901
+info,registry,people,Gavin Roulston,be5b02fa
+info,registry,people,H Dyer,0b48776e
+info,registry,people,H Zimmerman,b85fa1d4
+info,registry,people,J Manley,05f85159
+info,registry,people,J Neill,8bb34d86
+info,registry,people,J Wilson,20f9e6b1
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,K Hilton,9339830a
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,LC Doherty,6d5fceb7
+info,registry,people,M Frost,96d56d32
+info,registry,people,MN Piedt,b6657cbe
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OG Metcalfe,decd0bc4
+info,registry,people,R MacBeth,b4402d8a
+info,registry,people,S McNicholl,d64876d0
+info,registry,people,SJ MacBeth,5d4338a2
+info,registry,people,ST Doheny,4992d6f6

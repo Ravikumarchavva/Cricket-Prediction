@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Turkey
+info,gender,male
+info,season,2023
+info,date,2023/06/24
+info,event,Quadrangular Twenty20 Series (Bulgaria)
+info,match_number,4
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Croatia
+info,toss_decision,bat
+info,player_of_match,Muhammed Turkmen
+info,winner,Turkey
+info,winner_wickets,8
+info,player,Croatia,WK Bitis
+info,player,Croatia,Naseem Khan
+info,player,Croatia,P Bosnjak
+info,player,Croatia,Sohail Ahmad
+info,player,Croatia,A Daxini
+info,player,Croatia,V Zanko
+info,player,Croatia,L Stubbs
+info,player,Croatia,A Magdalenic
+info,player,Croatia,H Hajnic
+info,player,Croatia,D Faletar
+info,player,Croatia,A Faletar
+info,player,Turkey,I Elec
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,A Turkmen
+info,player,Turkey,R Nath
+info,player,Turkey,Muhammed Turkmen
+info,player,Turkey,M Ozturk
+info,player,Turkey,Cihan Altun
+info,player,Turkey,Muhammet Bicer
+info,player,Turkey,Muhammet Kursat
+info,player,Turkey,Murat Ipek
+info,player,Turkey,Murat Yilmaz
+info,registry,people,A Daxini,2f949d55
+info,registry,people,A Faletar,b8889eb7
+info,registry,people,A Magdalenic,d6a2f3a5
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,Cihan Altun,b8396e67
+info,registry,people,D Faletar,8c911414
+info,registry,people,H Hajnic,bcac2e51
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,L Stubbs,b0f332e1
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,Muhammed Turkmen,8e7e982c
+info,registry,people,Muhammet Bicer,7990dc16
+info,registry,people,Muhammet Kursat,dc53a969
+info,registry,people,Murat Ipek,86f471ae
+info,registry,people,Murat Yilmaz,f2990906
+info,registry,people,Naseem Khan,cfbd3998
+info,registry,people,P Bosnjak,fed92736
+info,registry,people,R Nath,126f1e28
+info,registry,people,Sohail Ahmad,7e439c80
+info,registry,people,V Zanko,4a78f962
+info,registry,people,WK Bitis,b34de9a6

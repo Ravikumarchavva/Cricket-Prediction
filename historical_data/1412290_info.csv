@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Durdanto Dhaka
+info,gender,male
+info,season,2023/24
+info,date,2024/02/02
+info,event,Bangladesh Premier League
+info,match_number,17
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Durdanto Dhaka
+info,toss_decision,field
+info,player_of_match,R Ngarava
+info,umpire,Ali Arman
+info,umpire,Asif Yaqoob
+info,reserve_umpire,Mahfuzur Rahman
+info,tv_umpire,Mohammad Kamruzzaman
+info,match_referee,Showkatur Rahman
+info,winner,Sylhet Strikers
+info,winner_runs,15
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Shamsur Rahman
+info,player,Sylhet Strikers,SR Patel
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mohammad Mithun
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,BAC Howell
+info,player,Sylhet Strikers,Ariful Haque
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Sylhet Strikers,Nayeem Hasan
+info,player,Sylhet Strikers,R Ngarava
+info,player,Durdanto Dhaka,Saim Ayub
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,Saif Hassan
+info,player,Durdanto Dhaka,AI Ross
+info,player,Durdanto Dhaka,Gulbadin Naib
+info,player,Durdanto Dhaka,Irfan Sukkur
+info,player,Durdanto Dhaka,Mosaddek Hossain
+info,player,Durdanto Dhaka,Arafat Sunny
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Shoriful Islam
+info,player,Durdanto Dhaka,Usman Qadir
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Irfan Sukkur,3cc7dd5f
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,SR Patel,18fac429
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shamsur Rahman,02789d88
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Showkatur Rahman,5340a1c1
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Usman Qadir,33742f04
+info,registry,people,Zakir Hasan,e3e09091

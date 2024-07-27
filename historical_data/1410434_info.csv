@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Yorkshire
+info,gender,male
+info,season,2024
+info,date,2024/06/21
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,NA Mallender
+info,umpire,N Pratt
+info,match_referee,IL Herbert
+info,winner,Durham
+info,winner_runs,3
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,BFW de Leede
+info,player,Durham,MA Jones
+info,player,Durham,BA Raine
+info,player,Durham,BJ Dwarshuis
+info,player,Durham,GS Drissell
+info,player,Durham,CF Parkinson
+info,player,Durham,NA Sowter
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,W Luxton
+info,player,Yorkshire,D Ferreira
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,C McKerr
+info,player,Yorkshire,JA Chohan
+info,player,Yorkshire,D Moriarty
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DM Bess,ad46c747
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,GCH Hill,214f6461
+info,registry,people,GS Drissell,9a089b15
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JA Chohan,58be5e46
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Root,a343262c
+info,registry,people,MA Jones,05f96194
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,W Luxton,c15fb753

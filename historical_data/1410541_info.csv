@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,The Blaze
+info,team,South East Stars
+info,gender,female
+info,season,2024
+info,date,2024/06/16
+info,event,Charlotte Edwards Cup
+info,match_number,34
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,The Blaze
+info,toss_decision,bat
+info,umpire,Rob White
+info,umpire,S McLelland
+info,match_referee,SG Hinks
+info,winner,South East Stars
+info,winner_wickets,5
+info,player,The Blaze,M Kelly
+info,player,The Blaze,TT Beaumont
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,H Graham
+info,player,The Blaze,E Claridge
+info,player,The Blaze,S Glenn
+info,player,The Blaze,J Groves
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,LF Higham
+info,player,The Blaze,G Ballinger
+info,player,South East Stars,BF Smith
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,G Redmayne
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,E Jones
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,K Moore
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,D Gregory
+info,player,South East Stars,A Stonehouse
+info,player,South East Stars,MR Corteen-Coleman
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,E Jones,4cf60e73
+info,registry,people,G Ballinger,2f485713
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,H Graham,99812d10
+info,registry,people,J Groves,11ff23e3
+info,registry,people,K Moore,d12c8445
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Gordon,00823a96
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,MR Corteen-Coleman,9049ab63
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,Rob White,59b91222
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,TT Beaumont,b2664905

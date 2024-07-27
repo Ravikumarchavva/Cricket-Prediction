@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,The Blaze
+info,gender,female
+info,season,2023
+info,date,2023/05/25
+info,event,Charlotte Edwards Cup
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,The Blaze
+info,toss_decision,field
+info,umpire,Naeem Ashraf
+info,umpire,W Mohammed
+info,match_referee,JJ Whitaker
+info,winner,The Blaze
+info,winner_wickets,3
+info,player,Thunder,EL Lamb
+info,player,Thunder,L Heap
+info,player,Thunder,DJS Dottin
+info,player,Thunder,E Threlkeld
+info,player,Thunder,FMK Morris
+info,player,Thunder,S Ecclestone
+info,player,Thunder,KL Cross
+info,player,Thunder,ND Dattani
+info,player,Thunder,DL Collins
+info,player,Thunder,TG Norris
+info,player,Thunder,M Gaur
+info,player,The Blaze,TT Beaumont
+info,player,The Blaze,M Kelly
+info,player,The Blaze,NR Sciver-Brunt
+info,player,The Blaze,GEB Boyce
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,S Glenn
+info,player,The Blaze,N de Klerk
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,LF Higham
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,G Ballinger
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Ballinger,2f485713
+info,registry,people,GEB Boyce,5b1f15fc
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Cross,1ade138e
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Heap,8d26dfab
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,N de Klerk,ea544967
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,W Mohammed,0a3e73a5

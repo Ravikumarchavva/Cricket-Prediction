@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Surrey
+info,gender,male
+info,season,2023
+info,date,2023/06/04
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,bat
+info,umpire,NL Bainton
+info,umpire,NJ Llong
+info,match_referee,JJ Swift
+info,winner,Surrey
+info,winner_wickets,5
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,SW Billings
+info,player,Kent,JM Cox
+info,player,Kent,JA Leaning
+info,player,Kent,GF Linde
+info,player,Kent,JDM Evison
+info,player,Kent,G Stewart
+info,player,Kent,KW Richardson
+info,player,Kent,MG Hogan
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SM Curran
+info,player,Surrey,BT Foakes
+info,player,Surrey,JL Smith
+info,player,Surrey,TK Curran
+info,player,Surrey,SA Abbott
+info,player,Surrey,CJ Jordan
+info,player,Surrey,J Overton
+info,player,Surrey,SP Narine
+info,player,Surrey,AAP Atkinson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,BT Foakes,fd770945
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MG Hogan,5da34add
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SW Billings,c16d4035
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WG Jacks,9caf69a1

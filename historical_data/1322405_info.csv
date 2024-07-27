@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Victoria
+info,team,Queensland
+info,gender,male
+info,season,2022/23
+info,date,2022/11/10
+info,date,2022/11/11
+info,event,Sheffield Shield
+info,match_number,10
+info,venue,"Allan Border Field, Brisbane"
+info,city,Brisbane
+info,toss_winner,Victoria
+info,toss_decision,bat
+info,player_of_match,MG Neser
+info,umpire,GA Abood
+info,umpire,PJ Gillespie
+info,match_referee,Kepler Wessels
+info,winner,Queensland
+info,winner_innings,1
+info,winner_runs,10
+info,player,Victoria,TJ Dean
+info,player,Victoria,MS Harris
+info,player,Victoria,AP Chandrasinghe
+info,player,Victoria,PSP Handscomb
+info,player,Victoria,NJ Maddinson
+info,player,Victoria,SB Harper
+info,player,Victoria,W Sutherland
+info,player,Victoria,M Perry
+info,player,Victoria,T Murphy
+info,player,Victoria,SM Boland
+info,player,Victoria,CL McClure
+info,player,Queensland,MT Renshaw
+info,player,Queensland,JA Burns
+info,player,Queensland,M Labuschagne
+info,player,Queensland,UT Khawaja
+info,player,Queensland,J Clayton
+info,player,Queensland,JJ Peirson
+info,player,Queensland,MG Neser
+info,player,Queensland,GS Sandhu
+info,player,Queensland,XC Bartlett
+info,player,Queensland,MT Steketee
+info,player,Queensland,MJ Swepson
+info,registry,people,AP Chandrasinghe,ae5d2027
+info,registry,people,CL McClure,b3267eaa
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GS Sandhu,1558d83b
+info,registry,people,J Clayton,c56fc66d
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,M Perry,442461fa
+info,registry,people,MG Neser,0164b064
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MS Harris,9e85455c
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,MT Steketee,903560ed
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SM Boland,d167edd3
+info,registry,people,T Murphy,ac2e7ec0
+info,registry,people,TJ Dean,666936de
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,XC Bartlett,3b53243a

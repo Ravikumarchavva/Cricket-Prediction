@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,female
+info,season,2023
+info,date,2023/09/01
+info,event,South Africa Women tour of Pakistan
+info,match_number,1
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,T Brits
+info,umpire,Faisal Afridi
+info,umpire,Rashid Riaz
+info,reserve_umpire,Afia Amin
+info,tv_umpire,Tariq Rasheed
+info,match_referee,Muhammad Javed
+info,winner,Pakistan
+info,winner_wickets,5
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,M Kapp
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Luus
+info,player,South Africa,S Jafta
+info,player,South Africa,A Khaka
+info,player,South Africa,A Bosch
+info,player,South Africa,M Klaas
+info,player,South Africa,N Mlaba
+info,player,South Africa,D Tucker
+info,player,Pakistan,Shawaal Zulfiqar
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Syeda Aroob Shah
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Khaka,0d518f89
+info,registry,people,Afia Amin,7fc47de1
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,D Tucker,2b425403
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Shawaal Zulfiqar,adb2f55e
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Syeda Aroob Shah,4cf8708b
+info,registry,people,T Brits,06659caa
+info,registry,people,Tariq Rasheed,1008518c

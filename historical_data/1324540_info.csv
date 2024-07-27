@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Galle Gladiators
+info,team,Colombo Stars
+info,gender,male
+info,season,2022/23
+info,date,2022/12/21
+info,event,Lanka Premier League
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Colombo Stars
+info,toss_decision,field
+info,player_of_match,RS Bopara
+info,umpire,LE Hannibal
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,IC Soysa
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,winner,Colombo Stars
+info,winner_wickets,7
+info,player,Galle Gladiators,Asad Shafiq
+info,player,Galle Gladiators,BKG Mendis
+info,player,Galle Gladiators,LU Igalagamage
+info,player,Galle Gladiators,SSD Arachchige
+info,player,Galle Gladiators,MNK Fernando
+info,player,Galle Gladiators,Iftikhar Ahmed
+info,player,Galle Gladiators,Imad Wasim
+info,player,Galle Gladiators,Wahab Riaz
+info,player,Galle Gladiators,PADLR Sandakan
+info,player,Galle Gladiators,N Pradeep
+info,player,Galle Gladiators,N Thushara
+info,player,Colombo Stars,KNM Fernando
+info,player,Colombo Stars,LD Chandimal
+info,player,Colombo Stars,KIC Asalanka
+info,player,Colombo Stars,RS Bopara
+info,player,Colombo Stars,AD Mathews
+info,player,Colombo Stars,RAS Lakmal
+info,player,Colombo Stars,Mohammad Nabi
+info,player,Colombo Stars,DC Drakes
+info,player,Colombo Stars,BAC Howell
+info,player,Colombo Stars,JDF Vandersay
+info,player,Colombo Stars,CAK Rajitha
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,IC Soysa,717a7971
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KNM Fernando,d2a2bb1a
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,Wahab Riaz,b3118300

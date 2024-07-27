@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Pakistan
+info,gender,male
+info,season,2023
+info,date,2023/09/10
+info,date,2023/09/11
+info,event,Asia Cup
+info,match_number,9
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,V Kohli
+info,umpire,CB Gaffaney
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Masudur Rahman
+info,tv_umpire,RK Illingworth
+info,match_referee,DC Boon
+info,winner,India
+info,winner_runs,228
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,V Kohli
+info,player,India,KL Rahul
+info,player,India,Ishan Kishan
+info,player,India,HH Pandya
+info,player,India,RA Jadeja
+info,player,India,SN Thakur
+info,player,India,Kuldeep Yadav
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Siraj
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Faheem Ashraf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Haris Rauf
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,V Kohli,ba607b88

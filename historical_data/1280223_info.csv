@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jammu & Kashmir
+info,team,Rajasthan
+info,gender,male
+info,season,2021/22
+info,date,2021/11/05
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Reliance Cricket Stadium
+info,city,
+info,toss_winner,Rajasthan
+info,toss_decision,field
+info,winner,Rajasthan
+info,winner_wickets,5
+info,player,Jammu & Kashmir,Qamran Iqbal
+info,player,Jammu & Kashmir,Vivrant Sharma
+info,player,Jammu & Kashmir,Ian Dev Singh
+info,player,Jammu & Kashmir,Shubham Pundir
+info,player,Jammu & Kashmir,Abdul Samad
+info,player,Jammu & Kashmir,Yudhvir Singh
+info,player,Jammu & Kashmir,Mujtaba Yousuf
+info,player,Jammu & Kashmir,Auqib Nabi
+info,player,Jammu & Kashmir,Umran Malik
+info,player,Jammu & Kashmir,Abid Mushtaq
+info,player,Jammu & Kashmir,Parvez Rasool
+info,player,Rajasthan,Tanveer Ul-Haq
+info,player,Rajasthan,A Choudhary
+info,player,Rajasthan,KL Nagarkoti
+info,player,Rajasthan,Shubham Kamal Sharma
+info,player,Rajasthan,Ravi Bishnoi
+info,player,Rajasthan,Arjit Gupta
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,AL Menaria
+info,player,Rajasthan,DJ Hooda
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,Suraj Ahuja
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,AL Menaria,8291f939
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abid Mushtaq,b10e8c85
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,Auqib Nabi,7c3c0337
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Ian Dev Singh,f732f3e7
+info,registry,people,KL Nagarkoti,b4f5c2d9
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,Mujtaba Yousuf,f5c9b42c
+info,registry,people,Parvez Rasool,9170ff49
+info,registry,people,Qamran Iqbal,6375ef6a
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Shubham Kamal Sharma,3b892965
+info,registry,people,Shubham Pundir,86a98b15
+info,registry,people,Suraj Ahuja,a0d05c98
+info,registry,people,Tanveer Ul-Haq,2795b0f6
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,Vivrant Sharma,1b7b0fa7
+info,registry,people,Yudhvir Singh,4885bbe6

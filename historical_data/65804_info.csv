@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2002/03
+info,date,2003/04/04
+info,event,Cherry Blossom Sharjah Cup
+info,match_number,2
+info,venue,Sharjah Cricket Association Stadium
+info,city,Sharjah
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,KC Sangakkara
+info,umpire,BR Doctrove
+info,umpire,KC Barbour
+info,tv_umpire,AV Jayaprakash
+info,match_referee,AM Ebrahim
+info,winner,Pakistan
+info,winner_wickets,7
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,DA Gunawardene
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,J Mubarak
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,HDPK Dharmasena
+info,player,Sri Lanka,TCB Fernando
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Naved-ul-Hasan
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Abdul Razzaq
+info,registry,people,AM Ebrahim,814fafa7
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DA Gunawardene,cff25ee1
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,J Mubarak,a9520ac2
+info,registry,people,KC Barbour,4359f89a
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Naved-ul-Hasan,33f28243
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,TCB Fernando,717e803a
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

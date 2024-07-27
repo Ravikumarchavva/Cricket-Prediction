@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Durham
+info,gender,male
+info,season,2023
+info,date,2023/06/06
+info,event,Vitality Blast
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,PJ Hartley
+info,match_referee,JJ Whitaker
+info,winner,Durham
+info,winner_wickets,4
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,FJ Heldreich
+info,player,Durham,G Clark
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,OG Robinson
+info,player,Durham,AJ Turner
+info,player,Durham,BFW de Leede
+info,player,Durham,WD Parnell
+info,player,Durham,L Trevaskis
+info,player,Durham,BA Raine
+info,player,Durham,NA Sowter
+info,player,Durham,LS Robinson
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,DJ Willey,7f048519
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,L Trevaskis,b5781ac3
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LS Robinson,32ccd79b
+info,registry,people,MA Jones,05f96194
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WD Parnell,3a60e0b5

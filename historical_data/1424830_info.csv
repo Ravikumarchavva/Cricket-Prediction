@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Pakistan
+info,gender,male
+info,season,2024
+info,date,2024/04/20
+info,event,New Zealand tour of Pakistan
+info,match_number,2
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Shaheen Shah Afridi
+info,umpire,Aleem Dar
+info,umpire,Asif Yaqoob
+info,reserve_umpire,Faisal Afridi
+info,tv_umpire,Ahsan Raza
+info,match_referee,AJ Pycroft
+info,winner,Pakistan
+info,winner_wickets,7
+info,player,New Zealand,TL Seifert
+info,player,New Zealand,TB Robinson
+info,player,New Zealand,D Foxcroft
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,CE McConchie
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,JA Duffy
+info,player,New Zealand,BV Sears
+info,player,New Zealand,BG Lister
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Irfan Khan
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Abrar Ahmed
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BV Sears,e1891e00
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,Usman Khan,bafb9238

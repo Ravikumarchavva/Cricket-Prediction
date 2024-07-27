@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Washington Freedom
+info,team,Texas Super Kings
+info,gender,male
+info,season,2023
+info,date,2023/07/16
+info,event,Major League Cricket
+info,match_number,5
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,Washington Freedom
+info,toss_decision,bat
+info,player_of_match,MW Short
+info,umpire,Jermaine Lindo
+info,umpire,P Wilson
+info,reserve_umpire,Vijaya Mallela
+info,tv_umpire,R Samuels
+info,match_referee,SJA Taufel
+info,winner,Washington Freedom
+info,winner_runs,6
+info,player,Washington Freedom,MW Short
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,GD Phillips
+info,player,Washington Freedom,MC Henriques
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,M Jansen
+info,player,Washington Freedom,AJ Hosein
+info,player,Washington Freedom,DL Piedt
+info,player,Washington Freedom,SN Netravalkar
+info,player,Washington Freedom,A Nortje
+info,player,Texas Super Kings,F du Plessis
+info,player,Texas Super Kings,DP Conway
+info,player,Texas Super Kings,BKEL Milantha
+info,player,Texas Super Kings,DA Miller
+info,player,Texas Super Kings,Milind Kumar
+info,player,Texas Super Kings,MJ Santner
+info,player,Texas Super Kings,DJ Bravo
+info,player,Texas Super Kings,CP Savage
+info,player,Texas Super Kings,G Coetzee
+info,player,Texas Super Kings,Mohammad Mohsin
+info,player,Texas Super Kings,J Theron
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,BKEL Milantha,dcabd6bc
+info,registry,people,CP Savage,a55e0360
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,DP Conway,df5a6881
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,J Theron,dec8e038
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Mohsin,79f8472d
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,P Wilson,68304a36
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,Vijaya Mallela,85b6244a

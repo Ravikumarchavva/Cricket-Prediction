@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,North West
+info,team,Boland
+info,gender,male
+info,season,2022/23
+info,date,2022/10/29
+info,event,CSA T20 Challenge
+info,match_number,22
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Boland
+info,toss_decision,field
+info,umpire,BP Jele
+info,umpire,LB Gcuma
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,BM White
+info,match_referee,GH Pienaar
+info,winner,Boland
+info,winner_wickets,5
+info,method,D/L
+info,player,North West,L Senokwane
+info,player,North West,WB Marshall
+info,player,North West,HG Kuhn
+info,player,North West,S Muthusamy
+info,player,North West,D Potgieter
+info,player,North West,D Jansen
+info,player,North West,K Cotani
+info,player,North West,C Seleka
+info,player,North West,R Meyer
+info,player,North West,K Mungroo
+info,player,North West,EL Hawken
+info,player,Boland,JN Malan
+info,player,Boland,JL du Plooy
+info,player,Boland,C Fortuin
+info,player,Boland,C Jonker
+info,player,Boland,GC Viljoen
+info,player,Boland,I Manack
+info,player,Boland,F Behardien
+info,player,Boland,M Copeland
+info,player,Boland,B Xenxe
+info,player,Boland,S von Berg
+info,player,Boland,K Gumede
+info,registry,people,B Xenxe,94cdf850
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,C Jonker,a81d6706
+info,registry,people,C Seleka,be8b147b
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,EL Hawken,a0936692
+info,registry,people,F Behardien,dce2019b
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Cotani,0867d81f
+info,registry,people,K Gumede,781f2acc
+info,registry,people,K Mungroo,56feceb0
+info,registry,people,L Senokwane,7d9b4224
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Copeland,9943b637
+info,registry,people,R Meyer,64f55c74
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S von Berg,ffd3fc37
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,WB Marshall,2d7f2ba0

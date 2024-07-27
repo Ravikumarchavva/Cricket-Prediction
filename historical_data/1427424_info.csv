@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Papua New Guinea
+info,gender,female
+info,season,2024
+info,date,2024/04/12
+info,event,UAE Women's ODI Tri-Series
+info,match_number,2
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,player_of_match,S Horley
+info,umpire,Aasif Iqbal
+info,umpire,Akbar Ali
+info,match_referee,Iftikhar Ali
+info,winner,Scotland
+info,winner_runs,104
+info,player,Scotland,S Horley
+info,player,Scotland,DEM Carter
+info,player,Scotland,KE Bryce
+info,player,Scotland,SJ Bryce
+info,player,Scotland,A Lister
+info,player,Scotland,L Jack
+info,player,Scotland,EL Watson
+info,player,Scotland,PA Chatterji
+info,player,Scotland,K Fraser
+info,player,Scotland,HRA Rainey
+info,player,Scotland,NM Sheikh
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,K Frank
+info,player,Papua New Guinea,Melanie Ani
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,D Lohia
+info,registry,people,A Lister,090c0213
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,D Lohia,01341439
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,EL Watson,45dd7433
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,I Toua,83cde44d
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,K Frank,f7e96532
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,Melanie Ani,ff05f9f8
+info,registry,people,N Vare,20ace887
+info,registry,people,NM Sheikh,23ef9b32
+info,registry,people,P Siaka,595433d2
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,V Araa,040f11e8

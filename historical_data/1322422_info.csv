@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tasmania
+info,team,Western Australia
+info,gender,male
+info,season,2022/23
+info,date,2023/03/02
+info,date,2023/03/03
+info,date,2023/03/04
+info,event,Sheffield Shield
+info,match_number,27
+info,venue,"Western Australia Cricket Association Ground, Perth"
+info,city,Perth
+info,toss_winner,Tasmania
+info,toss_decision,bat
+info,player_of_match,CH Stobo
+info,umpire,PJ Gillespie
+info,umpire,SA Lightbody
+info,match_referee,SJ Davis
+info,winner,Western Australia
+info,winner_wickets,9
+info,player,Tasmania,TP Ward
+info,player,Tasmania,CP Jewell
+info,player,Tasmania,JR Doran
+info,player,Tasmania,M Wright
+info,player,Tasmania,JC Silk
+info,player,Tasmania,TD Paine
+info,player,Tasmania,BJ Webster
+info,player,Tasmania,L Neil-Smith
+info,player,Tasmania,JA Freeman
+info,player,Tasmania,JM Bird
+info,player,Tasmania,RP Meredith
+info,player,Western Australia,CT Bancroft
+info,player,Western Australia,SM Whiteman
+info,player,Western Australia,CJ Rocchiccioli
+info,player,Western Australia,T Wyllie
+info,player,Western Australia,HWR Cartwright
+info,player,Western Australia,AM Hardie
+info,player,Western Australia,MR Marsh
+info,player,Western Australia,JP Inglis
+info,player,Western Australia,JS Paris
+info,player,Western Australia,M Kelly
+info,player,Western Australia,CH Stobo
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CH Stobo,098229a5
+info,registry,people,CJ Rocchiccioli,aa3c7a7a
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,JA Freeman,912f472c
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Doran,9cebb612
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,L Neil-Smith,72075ec1
+info,registry,people,M Kelly,68e26ec9
+info,registry,people,M Wright,bd920a2c
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RP Meredith,64775749
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,T Wyllie,2f624c02
+info,registry,people,TD Paine,5748e866
+info,registry,people,TP Ward,fdd837ba

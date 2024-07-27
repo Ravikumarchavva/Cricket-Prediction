@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leinster Lightning
+info,team,Munster Reds
+info,gender,male
+info,season,2023
+info,date,2023/08/17
+info,event,Cricket Ireland Inter-Provincial Limited Over Cup
+info,match_number,9
+info,venue,"Mardyke, Cork"
+info,city,Cork
+info,toss_winner,Munster Reds
+info,toss_decision,field
+info,player_of_match,TE Kane
+info,umpire,Aidan Seaver
+info,umpire,Jonathan Kennedy
+info,reserve_umpire,G Morrisey
+info,winner,Munster Reds
+info,winner_wickets,7
+info,player,Leinster Lightning,TH Tector
+info,player,Leinster Lightning,CMJ McLoughlin-Gavin
+info,player,Leinster Lightning,C De Freitas
+info,player,Leinster Lightning,S Lynch
+info,player,Leinster Lightning,Simi Singh
+info,player,Leinster Lightning,DC Delany
+info,player,Leinster Lightning,SJ Harbinson
+info,player,Leinster Lightning,G Hoey
+info,player,Leinster Lightning,M O'Reilly
+info,player,Leinster Lightning,A Sidhu
+info,player,Leinster Lightning,S McNicholl
+info,player,Munster Reds,M Commins
+info,player,Munster Reds,AR Frost
+info,player,Munster Reds,M Ford
+info,player,Munster Reds,TE Kane
+info,player,Munster Reds,PJ Moor
+info,player,Munster Reds,BD McDonough
+info,player,Munster Reds,GJ Delany
+info,player,Munster Reds,J Manley
+info,player,Munster Reds,M Frost
+info,player,Munster Reds,R Joyce
+info,player,Munster Reds,L McCarthy
+info,registry,people,A Sidhu,69b1224b
+info,registry,people,AR Frost,a7750ab4
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,BD McDonough,d2c250c8
+info,registry,people,C De Freitas,22072cab
+info,registry,people,CMJ McLoughlin-Gavin,6af8630f
+info,registry,people,DC Delany,0f9c9d1d
+info,registry,people,G Hoey,19d0a172
+info,registry,people,G Morrisey,f442110f
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,J Manley,05f85159
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,M Commins,c537cf4d
+info,registry,people,M Ford,4fd0c3a6
+info,registry,people,M Frost,96d56d32
+info,registry,people,M O'Reilly,b89ac0fd
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,R Joyce,5caf0bcc
+info,registry,people,S Lynch,5ffe6225
+info,registry,people,S McNicholl,d64876d0
+info,registry,people,SJ Harbinson,ccc17282
+info,registry,people,Simi Singh,c9945bdf
+info,registry,people,TE Kane,af28816c
+info,registry,people,TH Tector,0348f9a5

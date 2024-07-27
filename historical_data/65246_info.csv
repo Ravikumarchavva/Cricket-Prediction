@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,England
+info,gender,male
+info,season,2002/03
+info,date,2003/02/16
+info,event,ICC World Cup
+info,match_number,13
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,JM Anderson
+info,umpire,DB Hair
+info,umpire,RE Koertzen
+info,tv_umpire,TH Wijewardene
+info,match_referee,MJ Procter
+info,winner,England
+info,winner_wickets,6
+info,player,Netherlands,LP van Troost
+info,player,Netherlands,DLS van Bunge
+info,player,Netherlands,NA Statham
+info,player,Netherlands,B Zuiderent
+info,player,Netherlands,KJJ van Noortwijk
+info,player,Netherlands,TBM de Leede
+info,player,Netherlands,JF Kloppenburg
+info,player,Netherlands,E Schiferli
+info,player,Netherlands,RP Lefebvre
+info,player,Netherlands,Adeel Raja
+info,player,Netherlands,J Smits
+info,player,England,ME Trescothick
+info,player,England,NV Knight
+info,player,England,MP Vaughan
+info,player,England,A Flintoff
+info,player,England,ID Blackwell
+info,player,England,PD Collingwood
+info,player,England,N Hussain
+info,player,England,C White
+info,player,England,AJ Stewart
+info,player,England,AR Caddick
+info,player,England,JM Anderson
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AJ Stewart,a8ce3491
+info,registry,people,AR Caddick,25020f9d
+info,registry,people,Adeel Raja,79004151
+info,registry,people,B Zuiderent,d953ed6a
+info,registry,people,C White,f44af07f
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DLS van Bunge,3185266a
+info,registry,people,E Schiferli,cefe0886
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,J Smits,7c681ee9
+info,registry,people,JF Kloppenburg,51080a1f
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KJJ van Noortwijk,101d1e85
+info,registry,people,LP van Troost,34d2ca48
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Procter,32e65048
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,N Hussain,f76ffa81
+info,registry,people,NA Statham,0db94786
+info,registry,people,NV Knight,d2f3829d
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RP Lefebvre,12b59324
+info,registry,people,TBM de Leede,d2f72b19
+info,registry,people,TH Wijewardene,6a6be119

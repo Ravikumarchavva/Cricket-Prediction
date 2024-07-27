@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Auckland
+info,gender,male
+info,season,2023/24
+info,date,2024/01/14
+info,event,Super Smash
+info,match_number,23
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Otago
+info,toss_decision,bat
+info,player_of_match,CD Fletcher
+info,umpire,BF Bowden
+info,umpire,TJ Parlane
+info,reserve_umpire,JD Birchall
+info,tv_umpire,GG Pennell
+info,match_referee,SRM Morris
+info,winner,Auckland
+info,winner_wickets,7
+info,player,Otago,HD Rutherford
+info,player,Otago,JM Gibson
+info,player,Otago,D Foxcroft
+info,player,Otago,MW Chu
+info,player,Otago,OJ White
+info,player,Otago,LC Johnson
+info,player,Otago,DN Phillips
+info,player,Otago,BNJ Lockrose
+info,player,Otago,ATE Hazeldine
+info,player,Otago,T Muller
+info,player,Otago,JA Duffy
+info,player,Auckland,GH Worker
+info,player,Auckland,SM Solia
+info,player,Auckland,CJ Briggs
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,CD Fletcher
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,RD Harrison
+info,player,Auckland,DK Ferns
+info,player,Auckland,J McKenzie
+info,player,Auckland,L Delport
+info,player,Auckland,BG Lister
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,GG Pennell,d9376677
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,J McKenzie,a1ad8978
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JD Birchall,6ac472fb
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,OJ White,a2e63eab
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,WT O'Donnell,730b57de

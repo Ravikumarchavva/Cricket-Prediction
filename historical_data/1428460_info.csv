@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jaffna Kings
+info,team,Galle Marvels
+info,gender,male
+info,season,2024
+info,date,2024/07/02
+info,event,Lanka Premier League
+info,match_number,2
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Jaffna Kings
+info,toss_decision,bat
+info,player_of_match,AD Hales
+info,umpire,IC Soysa
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,WC Labrooy
+info,winner,Galle Marvels
+info,winner_wickets,5
+info,player,Jaffna Kings,P Nissanka
+info,player,Jaffna Kings,BKG Mendis
+info,player,Jaffna Kings,WIA Fernando
+info,player,Jaffna Kings,RR Rossouw
+info,player,Jaffna Kings,KIC Asalanka
+info,player,Jaffna Kings,DM de Silva
+info,player,Jaffna Kings,FA Allen
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Jaffna Kings,PM Liyanagamage
+info,player,Jaffna Kings,AM Fernando
+info,player,Jaffna Kings,JP Behrendorff
+info,player,Galle Marvels,N Dickwella
+info,player,Galle Marvels,AD Hales
+info,player,Galle Marvels,TL Seifert
+info,player,Galle Marvels,PBB Rajapaksa
+info,player,Galle Marvels,J Liyanage
+info,player,Galle Marvels,D Pretorius
+info,player,Galle Marvels,SSD Arachchige
+info,player,Galle Marvels,I Udana
+info,player,Galle Marvels,M Theekshana
+info,player,Galle Marvels,M Tharupathi
+info,player,Galle Marvels,Zahoor Khan
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AM Fernando,de3d549a
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,IC Soysa,717a7971
+info,registry,people,J Liyanage,84212ffb
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Tharupathi,ec0b9258
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PM Liyanagamage,3ee0050f
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,WIA Fernando,9550470d
+info,registry,people,Zahoor Khan,f0e293b0

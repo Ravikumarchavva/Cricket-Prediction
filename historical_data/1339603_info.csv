@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2022/23
+info,date,2023/03/21
+info,event,West Indies tour of South Africa
+info,match_number,3
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,H Klaasen
+info,umpire,BP Jele
+info,umpire,M Erasmus
+info,reserve_umpire,A Paleker
+info,tv_umpire,AT Holdstock
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_wickets,4
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,SD Hope
+info,player,West Indies,N Pooran
+info,player,West Indies,R Powell
+info,player,West Indies,JO Holder
+info,player,West Indies,Y Cariah
+info,player,West Indies,AJ Hosein
+info,player,West Indies,OF Smith
+info,player,West Indies,AS Joseph
+info,player,South Africa,RD Rickelton
+info,player,South Africa,T de Zorzi
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,WD Parnell
+info,player,South Africa,BC Fortuin
+info,player,South Africa,G Coetzee
+info,player,South Africa,L Ngidi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BA King,7fca84b7
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JO Holder,0f721006
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OF Smith,23cca426
+info,registry,people,R Powell,650d5e49
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,Y Cariah,78bb68d4

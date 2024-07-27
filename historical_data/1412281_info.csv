@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Comilla Victorians
+info,gender,male
+info,season,2023/24
+info,date,2024/01/23
+info,event,Bangladesh Premier League
+info,match_number,8
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Comilla Victorians
+info,toss_decision,field
+info,player_of_match,MW Forde
+info,umpire,Asif Yaqoob
+info,umpire,Moniruzzaman
+info,reserve_umpire,Morshed Ali Khan
+info,tv_umpire,Mohammad Kamruzzaman
+info,match_referee,Neeyamur Rashid
+info,winner,Comilla Victorians
+info,winner_wickets,4
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Pritom Kumar
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,Shoaib Malik
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,DN Wellalage
+info,player,Fortune Barishal,Abbas Afridi
+info,player,Fortune Barishal,Mohammad Imran
+info,player,Fortune Barishal,Khaled Ahmed
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,RL Chase
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,MW Forde
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,Al Islam
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Al Islam,45d38a84
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Imran,687e20b3
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Pritom Kumar,b960524d
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Towhid Hridoy,9e52a414

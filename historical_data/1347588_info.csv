@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/05/29
+info,event,Vitality Blast
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Northamptonshire
+info,toss_decision,field
+info,umpire,James Middlebrook
+info,umpire,N Pratt
+info,match_referee,Wayne Noon
+info,winner,Northamptonshire
+info,winner_wickets,6
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,GG White
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,FJ Heldreich
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,DJ Willey,7f048519
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,GG White,0f21680d
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,Wayne Noon,736e1761
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11

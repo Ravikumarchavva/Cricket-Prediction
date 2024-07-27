@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Guyana Amazon Warriors
+info,team,St Kitts and Nevis Patriots
+info,gender,male
+info,season,2023
+info,date,2023/09/02
+info,event,Caribbean Premier League
+info,match_number,15
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,St Kitts and Nevis Patriots
+info,toss_decision,field
+info,player_of_match,D Pretorius
+info,umpire,CM Tuckett
+info,umpire,GO Brathwaite
+info,reserve_umpire,Zahid Bassarath
+info,tv_umpire,PA Gustard
+info,match_referee,M Ragoonath
+info,winner,Guyana Amazon Warriors
+info,winner_runs,98
+info,player,Guyana Amazon Warriors,Saim Ayub
+info,player,Guyana Amazon Warriors,Hazratullah
+info,player,Guyana Amazon Warriors,SD Hope
+info,player,Guyana Amazon Warriors,Azam Khan
+info,player,Guyana Amazon Warriors,SO Hetmyer
+info,player,Guyana Amazon Warriors,KMA Paul
+info,player,Guyana Amazon Warriors,D Pretorius
+info,player,Guyana Amazon Warriors,R Shepherd
+info,player,Guyana Amazon Warriors,G Motie
+info,player,Guyana Amazon Warriors,Imran Tahir
+info,player,Guyana Amazon Warriors,JA Sinclair
+info,player,St Kitts and Nevis Patriots,ADS Fletcher
+info,player,St Kitts and Nevis Patriots,E Lewis
+info,player,St Kitts and Nevis Patriots,WCF Smeed
+info,player,St Kitts and Nevis Patriots,GF Linde
+info,player,St Kitts and Nevis Patriots,SE Rutherford
+info,player,St Kitts and Nevis Patriots,C Bosch
+info,player,St Kitts and Nevis Patriots,Y Cariah
+info,player,St Kitts and Nevis Patriots,BAC Howell
+info,player,St Kitts and Nevis Patriots,DC Drakes
+info,player,St Kitts and Nevis Patriots,J Layne
+info,player,St Kitts and Nevis Patriots,O Thomas
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,C Bosch,172dff15
+info,registry,people,CM Tuckett,a67252f0
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GF Linde,e5437608
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,J Layne,2f43ee81
+info,registry,people,JA Sinclair,43057192
+info,registry,people,KMA Paul,75224f22
+info,registry,people,M Ragoonath,6f596571
+info,registry,people,O Thomas,c6097d68
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,Y Cariah,78bb68d4
+info,registry,people,Zahid Bassarath,ca6bf044

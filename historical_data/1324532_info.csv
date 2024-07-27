@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Aura
+info,team,Colombo Stars
+info,gender,male
+info,season,2022/23
+info,date,2022/12/14
+info,event,Lanka Premier League
+info,match_number,14
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Colombo Stars
+info,toss_decision,field
+info,player_of_match,CAK Rajitha
+info,umpire,LE Hannibal
+info,umpire,REJ Martinesz
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,RR Wimalasiri
+info,match_referee,PS Jayaprakashdaran
+info,winner,Colombo Stars
+info,winner_wickets,9
+info,player,Dambulla Aura,L Croospulle
+info,player,Dambulla Aura,S Daniel
+info,player,Dambulla Aura,JM Cox
+info,player,Dambulla Aura,PBB Rajapaksa
+info,player,Dambulla Aura,TB Abell
+info,player,Dambulla Aura,MD Shanaka
+info,player,Dambulla Aura,Noor Ahmad
+info,player,Dambulla Aura,PC de Silva
+info,player,Dambulla Aura,PA van Meekeren
+info,player,Dambulla Aura,PM Liyanagamage
+info,player,Dambulla Aura,CBRLS Kumara
+info,player,Colombo Stars,N Dickwella
+info,player,Colombo Stars,LD Chandimal
+info,player,Colombo Stars,KIC Asalanka
+info,player,Colombo Stars,AD Mathews
+info,player,Colombo Stars,ND Paranavithana
+info,player,Colombo Stars,RS Bopara
+info,player,Colombo Stars,BAC Howell
+info,player,Colombo Stars,Karim Janat
+info,player,Colombo Stars,CAK Rajitha
+info,player,Colombo Stars,RAS Lakmal
+info,player,Colombo Stars,JDF Vandersay
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,Karim Janat,62175638
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,ND Paranavithana,4e602f29
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,PM Liyanagamage,3ee0050f
+info,registry,people,PS Jayaprakashdaran,5e6c7237
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,TB Abell,ba9258a7

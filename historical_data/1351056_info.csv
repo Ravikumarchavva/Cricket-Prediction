@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Sylhet Strikers
+info,gender,male
+info,season,2022/23
+info,date,2023/01/09
+info,event,Bangladesh Premier League
+info,match_number,5
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Sylhet Strikers
+info,toss_decision,field
+info,player_of_match,Towhid Hridoy
+info,umpire,DJ Millns
+info,umpire,Masudur Rahman
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,Gazi Sohel
+info,match_referee,Akhtar Ahmad
+info,winner,Sylhet Strikers
+info,winner_wickets,5
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,DJ Malan
+info,player,Comilla Victorians,Shykat Ali
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,Mohammad Nabi
+info,player,Comilla Victorians,Abu Hider
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,Fazalhaq Farooqi
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Mohammad Haris
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,NLTC Perera
+info,player,Sylhet Strikers,Akbar Ali
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Imad Wasim
+info,player,Sylhet Strikers,Mohammad Amir
+info,player,Sylhet Strikers,Rejaur Rahman
+info,registry,people,Abu Hider,31803fac
+info,registry,people,Akbar Ali,abae26ad
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,Shykat Ali,288dd46e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Zakir Hasan,e3e09091

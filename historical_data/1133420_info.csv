@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tamil Nadu
+info,team,Baroda
+info,gender,male
+info,season,2017/18
+info,date,2018/01/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JU Second Campus, Salt Lake"
+info,city,
+info,toss_winner,Tamil Nadu
+info,toss_decision,bat
+info,winner,Baroda
+info,winner_wickets,5
+info,player,Tamil Nadu,K Bharath Shankar
+info,player,Tamil Nadu,B Aparajith
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,R Sanjay Yadav
+info,player,Tamil Nadu,N Jagadeesan
+info,player,Tamil Nadu,Washington Sundar
+info,player,Tamil Nadu,S Anirudha
+info,player,Tamil Nadu,Antony Dhas
+info,player,Tamil Nadu,R Rohit
+info,player,Tamil Nadu,Rahil Shah
+info,player,Tamil Nadu,V Athisayaraj Davidson
+info,player,Baroda,A Sheth
+info,player,Baroda,RT Arothe
+info,player,Baroda,LI Meriwala
+info,player,Baroda,DJ Hooda
+info,player,Baroda,KH Pandya
+info,player,Baroda,Soaeb Tai
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Urvil Patel
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,Dhruv Patel
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,Antony Dhas,b792bf93
+info,registry,people,B Aparajith,5b627626
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Dhruv Patel,e85f3659
+info,registry,people,K Bharath Shankar,6099fd3f
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,R Rohit,7d8feff2
+info,registry,people,R Sanjay Yadav,33ffc3dd
+info,registry,people,RT Arothe,50455929
+info,registry,people,Rahil Shah,7c30f4d0
+info,registry,people,S Anirudha,95a2ea61
+info,registry,people,Soaeb Tai,c915ee65
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,V Athisayaraj Davidson,70eb694b
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,Washington Sundar,f19ccfad

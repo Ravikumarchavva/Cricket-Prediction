@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durham
+info,team,Essex
+info,gender,male
+info,season,2024
+info,date,2024/04/26
+info,date,2024/04/27
+info,date,2024/04/28
+info,date,2024/04/29
+info,event,County Championship
+info,match_number,16
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Durham
+info,toss_decision,bat
+info,umpire,DJ Millns
+info,umpire,Rob White
+info,match_referee,WR Smith
+info,outcome,draw
+info,player,Durham,AZ Lees
+info,player,Durham,SG Borthwick
+info,player,Durham,CN Ackermann
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,G Clark
+info,player,Durham,BA Carse
+info,player,Durham,P Coughlin
+info,player,Durham,BA Raine
+info,player,Durham,MJ Potts
+info,player,Durham,CF Parkinson
+info,player,Essex,SJ Cook
+info,player,Essex,D Elgar
+info,player,Essex,FIN Khushi
+info,player,Essex,NLJ Browne
+info,player,Essex,JM Cox
+info,player,Essex,MJJ Critchley
+info,player,Essex,NRM Thain
+info,player,Essex,HG Duke
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,JA Porter
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,HG Duke,443b47a6
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,NLJ Browne,81efec30
+info,registry,people,NRM Thain,f8a63b6f
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,P Coughlin,71440756
+info,registry,people,Rob White,59b91222
+info,registry,people,S Snater,a790df98
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Harmer,23638956
+info,registry,people,WR Smith,ad962377

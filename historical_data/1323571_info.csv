@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sydney Thunder
+info,team,Brisbane Heat
+info,gender,female
+info,season,2022/23
+info,date,2022/10/25
+info,event,Women's Big Bash League
+info,match_number,18
+info,venue,"Allan Border Field, Brisbane"
+info,city,Brisbane
+info,toss_winner,Sydney Thunder
+info,toss_decision,bat
+info,player_of_match,AC Kerr
+info,umpire,BR Farrell
+info,umpire,T Logan
+info,match_referee,Kepler Wessels
+info,winner,Brisbane Heat
+info,winner_runs,3
+info,method,D/L
+info,player,Sydney Thunder,TT Beaumont
+info,player,Sydney Thunder,P Litchfield
+info,player,Sydney Thunder,AE Jones
+info,player,Sydney Thunder,RL Haynes
+info,player,Sydney Thunder,T Wilson
+info,player,Sydney Thunder,O Porter
+info,player,Sydney Thunder,SJ Johnson
+info,player,Sydney Thunder,LMM Tahuhu
+info,player,Sydney Thunder,LG Smith
+info,player,Sydney Thunder,B Vakarewa
+info,player,Sydney Thunder,SL Bates
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,DN Wyatt
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,P Vastrakar
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,B Vakarewa,06f988b8
+info,registry,people,BR Farrell,751a026b
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,L Harris,36e2dc83
+info,registry,people,LG Smith,9c515112
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,O Porter,9ac15b90
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RL Haynes,d7c6b0fb
+info,registry,people,SJ Johnson,d7b754d4
+info,registry,people,SL Bates,0816fb1e
+info,registry,people,T Logan,6c7d4820
+info,registry,people,T Wilson,32100b2d
+info,registry,people,TT Beaumont,b2664905

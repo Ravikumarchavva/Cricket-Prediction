@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Otago Volts
+info,gender,male
+info,season,2022/23
+info,date,2022/11/05
+info,date,2022/11/06
+info,date,2022/11/07
+info,date,2022/11/08
+info,event,Plunket Shield
+info,match_number,9
+info,venue,Hagley Oval
+info,city,
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,SB Haig
+info,match_referee,GAV Baxter
+info,winner,Canterbury
+info,winner_innings,1
+info,winner_runs,29
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,HB Shipley
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,W O'Rourke
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,JM Cumming
+info,player,Otago Volts,DN Phillips
+info,player,Otago Volts,D Foxcroft
+info,player,Otago Volts,TK Parkes
+info,player,Otago Volts,MW Chu
+info,player,Otago Volts,MJG Rippon
+info,player,Otago Volts,T Muller
+info,player,Otago Volts,JM Gibson
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,MD Rae
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HB Shipley,5426de63
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JM Cumming,af4c6a6d
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,SB Haig,811655b3
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TK Parkes,343407f3
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,W O'Rourke,cb9b8664

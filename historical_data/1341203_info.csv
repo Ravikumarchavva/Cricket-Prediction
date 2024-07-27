@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago
+info,team,Auckland
+info,gender,male
+info,season,2022/23
+info,date,2023/01/02
+info,event,Super Smash
+info,match_number,10
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland
+info,toss_decision,field
+info,umpire,Glen Walklin
+info,umpire,WR Knights
+info,tv_umpire,ED Sanders
+info,match_referee,GB Troup
+info,outcome,tie
+info,player,Otago,HD Rutherford
+info,player,Otago,DN Phillips
+info,player,Otago,D Foxcroft
+info,player,Otago,JL Finnie
+info,player,Otago,TK Parkes
+info,player,Otago,LC Johnson
+info,player,Otago,JM Gibson
+info,player,Otago,JA Duffy
+info,player,Otago,MD Rae
+info,player,Otago,BNJ Lockrose
+info,player,Otago,MB Bacon
+info,player,Auckland,GH Worker
+info,player,Auckland,CJ Briggs
+info,player,Auckland,MS Chapman
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,SM Solia
+info,player,Auckland,BJ Horne
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,L Delport
+info,player,Auckland,LH Ferguson
+info,player,Auckland,A Ashok
+info,player,Auckland,BG Lister
+info,registry,people,A Ashok,321be7e3
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MB Bacon,90701232
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TK Parkes,343407f3
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,WT O'Donnell,730b57de

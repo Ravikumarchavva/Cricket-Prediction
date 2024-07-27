@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Sydney Sixers
+info,gender,female
+info,season,2022/23
+info,date,2022/11/16
+info,event,Women's Big Bash League
+info,match_number,49
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Sydney Sixers
+info,toss_decision,field
+info,player_of_match,EA Burns
+info,umpire,AR Hamilton
+info,umpire,Bede Sajowitz
+info,match_referee,SR Bernard
+info,winner,Sydney Sixers
+info,winner_wickets,5
+info,player,Brisbane Heat,DN Wyatt
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,E Johnston
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,player,Brisbane Heat,JM Kerr
+info,player,Sydney Sixers,AJ Healy
+info,player,Sydney Sixers,SW Bates
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,NE Bolton
+info,player,Sydney Sixers,S Ecclestone
+info,player,Sydney Sixers,K Peterson
+info,player,Sydney Sixers,A Genford
+info,player,Sydney Sixers,L Cheatle
+info,player,Sydney Sixers,S Campbell
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Genford,52b45daa
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Healy,321644de
+info,registry,people,AR Hamilton,95d26c59
+info,registry,people,Bede Sajowitz,14fb95ae
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Johnston,3785e30d
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,JM Kerr,9af58032
+info,registry,people,K Peterson,5f377534
+info,registry,people,L Cheatle,275dff85
+info,registry,people,L Harris,36e2dc83
+info,registry,people,NE Bolton,dd883071
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,S Campbell,c6b09326
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,SR Bernard,800187dc
+info,registry,people,SW Bates,89bbc67a

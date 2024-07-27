@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Sri Lanka
+info,gender,female
+info,season,2023
+info,date,2023/09/14
+info,event,Sri Lanka Women tour of England
+info,match_number,3
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,NR Sciver-Brunt
+info,umpire,AY Harris
+info,umpire,James Middlebrook
+info,reserve_umpire,S Redfern
+info,tv_umpire,J Naeem
+info,match_referee,Phil Whitticase
+info,winner,England
+info,winner_runs,161
+info,player,England,TT Beaumont
+info,player,England,ME Bouchier
+info,player,England,A Capsey
+info,player,England,NR Sciver-Brunt
+info,player,England,AE Jones
+info,player,England,BAM Heath
+info,player,England,AN Davidson-Richards
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,M Gaur
+info,player,England,L Filer
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,I Dulani
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,H Karunaratne
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,I Ranaweera
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CE Dean,c6625a26
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Karunaratne,f8e27d4a
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Dulani,a2c23f31
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,L Filer,31adb911
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

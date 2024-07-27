@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Meghalaya
+info,team,Mumbai
+info,gender,male
+info,season,2023/24
+info,date,2023/10/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Mumbai
+info,toss_decision,field
+info,umpire,A Totre
+info,umpire,M Krishnadas
+info,match_referee,P Dharmani
+info,winner,Mumbai
+info,winner_wickets,9
+info,player,Meghalaya,ABB Sangma
+info,player,Meghalaya,Nakul Verma
+info,player,Meghalaya,MR Shylla
+info,player,Meghalaya,S Mylliempdah
+info,player,Meghalaya,Larry Sangma
+info,player,Meghalaya,Amiangshu Sen
+info,player,Meghalaya,RB Bishnoi Jr
+info,player,Meghalaya,Anish Charak
+info,player,Meghalaya,Akash Choudhary
+info,player,Meghalaya,Kilco R Marak
+info,player,Meghalaya,Ram Gurung
+info,player,Meghalaya,Chengkam Sangma
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,A Raghuvanshi
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,S Dube
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,SN Khan
+info,player,Mumbai,PY Pawar
+info,player,Mumbai,Tanush Kotian
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,Mohit Avasthi
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,ABB Sangma,57c81c1f
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Akash Choudhary,0f60513c
+info,registry,people,Amiangshu Sen,42046ec9
+info,registry,people,Anish Charak,62a48252
+info,registry,people,Chengkam Sangma,cf495041
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Kilco R Marak,4da2f572
+info,registry,people,Larry Sangma,77f6fd61
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,MR Shylla,a4966c30
+info,registry,people,Mohit Avasthi,7e83cef2
+info,registry,people,Nakul Verma,38c0d699
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,PY Pawar,c9f2fc04
+info,registry,people,RB Bishnoi Jr,99fdf8c9
+info,registry,people,Ram Gurung,85c80de3
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Mylliempdah,eb5a659f
+info,registry,people,SN Khan,f088b960
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tanush Kotian,5724e517
+info,registry,people,YBK Jaiswal,6c19c6e5

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vidarbha
+info,team,Baroda
+info,gender,male
+info,season,2015/16
+info,date,2016/01/15
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Wankhede Stadium
+info,city,
+info,toss_winner,Baroda
+info,toss_decision,field
+info,winner,Baroda
+info,winner_wickets,6
+info,player,Vidarbha,JM Sharma
+info,player,Vidarbha,FY Fazal
+info,player,Vidarbha,Ganesh Satish
+info,player,Vidarbha,AV Wankhade
+info,player,Vidarbha,RL Jangid
+info,player,Vidarbha,UR Patel
+info,player,Vidarbha,Akshay Karnewar
+info,player,Vidarbha,RN Gurbani
+info,player,Vidarbha,SS Bandiwar
+info,player,Vidarbha,Akshay Wakhare
+info,player,Vidarbha,Ravikumar Thakur
+info,player,Baroda,IK Pathan
+info,player,Baroda,MM Patel
+info,player,Baroda,HH Pandya
+info,player,Baroda,RT Arothe
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,A Sheth
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Mrunal Devdhar
+info,player,Baroda,DJ Hooda
+info,player,Baroda,YK Pathan
+info,player,Baroda,PR Shah
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AV Wankhade,5708d0b6
+info,registry,people,Akshay Karnewar,e1e7f950
+info,registry,people,Akshay Wakhare,ec9fc54b
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,FY Fazal,c15e2193
+info,registry,people,Ganesh Satish,0ed1a112
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,PR Shah,0aadc906
+info,registry,people,RL Jangid,fe5f2e48
+info,registry,people,RN Gurbani,bcaf7d33
+info,registry,people,RT Arothe,50455929
+info,registry,people,Ravikumar Thakur,1ea4fbd5
+info,registry,people,SS Bandiwar,8b91afb4
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,UR Patel,64677a10
+info,registry,people,YK Pathan,3c6ffae8

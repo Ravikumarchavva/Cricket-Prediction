@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Sussex
+info,gender,male
+info,season,2024
+info,date,2024/07/05
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,JC Tredwell
+info,umpire,Mark Newell
+info,match_referee,SG Hinks
+info,winner,Glamorgan
+info,winner_runs,24
+info,method,D/L
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,JP McIlroy
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,CB Sole
+info,player,Sussex,HD Ward
+info,player,Sussex,DP Hughes
+info,player,Sussex,TGR Clark
+info,player,Sussex,JM Coles
+info,player,Sussex,JA Simpson
+info,player,Sussex,TP Alsop
+info,player,Sussex,DJ Lamb
+info,player,Sussex,N McAndrew
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,A Karvelas
+info,player,Sussex,TS Mills
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CB Sole,469ccead
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JC Tredwell,49b6c09f
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WT Smale,97da28bd

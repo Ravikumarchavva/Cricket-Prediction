@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Singapore
+info,gender,female
+info,season,2024
+info,date,2024/07/07
+info,event,Indonesia Women's T20I Tri-Series
+info,match_number,8
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Singapore
+info,toss_decision,field
+info,player_of_match,K Winda Prastini
+info,umpire,V Kalidas
+info,umpire,Yousuf Wadu
+info,reserve_umpire,Edi Agustinus
+info,winner,Indonesia
+info,winner_runs,122
+info,player,Indonesia,K Winda Prastini
+info,player,Indonesia,D Wulandari
+info,player,Indonesia,TW Hamid
+info,player,Indonesia,M Corazon
+info,player,Indonesia,RD Pangestuti
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,NW Sariani
+info,player,Indonesia,SAN Maypriani
+info,player,Indonesia,NK Ariani
+info,player,Indonesia,DAL Paramitha
+info,player,Singapore,RR Seth
+info,player,Singapore,S Merican
+info,player,Singapore,Ananya Sarma
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,DA Galia
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,LAR Bommareddy
+info,player,Singapore,H Dhavina
+info,player,Singapore,JT Pooranakaran
+info,player,Singapore,Damini Ramesh
+info,player,Singapore,JS Pooranakaran
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Ananya Sarma,0bb03efc
+info,registry,people,D Wulandari,8c0d904e
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,DAL Paramitha,84f831c3
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,Edi Agustinus,6ee9fbb9
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,JT Pooranakaran,3a743619
+info,registry,people,K Winda Prastini,bd6f7c24
+info,registry,people,LAR Bommareddy,3da8cd3a
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,NK Ariani,382377a4
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,RD Pangestuti,63fc4b92
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,S Merican,f3f6f5a0
+info,registry,people,SAN Maypriani,ad135bde
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,TW Hamid,330c8351
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Yousuf Wadu,cf41005c

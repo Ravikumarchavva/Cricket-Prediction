@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Melbourne Renegades
+info,team,Melbourne Stars
+info,gender,female
+info,season,2022/23
+info,date,2022/11/13
+info,event,Women's Big Bash League
+info,match_number,43
+info,venue,"Junction Oval, Melbourne"
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,A Sutherland
+info,umpire,C Grant
+info,umpire,D Taylor
+info,tv_umpire,SE Dionysius
+info,match_referee,RL Parry
+info,winner,Melbourne Stars
+info,winner_wickets,5
+info,player,Melbourne Renegades,HK Matthews
+info,player,Melbourne Renegades,AC Jayangani
+info,player,Melbourne Renegades,JE Dooley
+info,player,Melbourne Renegades,S Molineux
+info,player,Melbourne Renegades,C Webb
+info,player,Melbourne Renegades,C Leeson
+info,player,Melbourne Renegades,E Kershaw
+info,player,Melbourne Renegades,G Prestwidge
+info,player,Melbourne Renegades,SJ Coyte
+info,player,Melbourne Renegades,E Hayward
+info,player,Melbourne Renegades,S Ismail
+info,player,Melbourne Stars,L Winfield-Hill
+info,player,Melbourne Stars,C Smith
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,T Flintoff
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,S Day
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,C Grant,876ed858
+info,registry,people,C Leeson,d71e33bb
+info,registry,people,C Smith,c160db98
+info,registry,people,C Webb,1f4a8a2a
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,E Hayward,eacd9bb1
+info,registry,people,E Kershaw,8eeebce2
+info,registry,people,G Prestwidge,c218e4e7
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JE Dooley,6f7e30d6
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,N Faltum,9a56c670
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,RL Parry,86d151dc
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Molineux,99e23670
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SE Dionysius,ac886e6f
+info,registry,people,SJ Coyte,a5f488bc
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,T Flintoff,5471b94a

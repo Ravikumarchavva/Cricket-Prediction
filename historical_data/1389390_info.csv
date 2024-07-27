@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,male
+info,season,2023/24
+info,date,2023/09/27
+info,event,Australia tour of India
+info,match_number,3
+info,venue,"Saurashtra Cricket Association Stadium, Rajkot"
+info,city,Rajkot
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,GJ Maxwell
+info,umpire,AK Chaudhary
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,VK Sharma
+info,match_referee,J Srinath
+info,winner,Australia
+info,winner_runs,66
+info,player,Australia,DA Warner
+info,player,Australia,MR Marsh
+info,player,Australia,SPD Smith
+info,player,Australia,M Labuschagne
+info,player,Australia,AT Carey
+info,player,Australia,GJ Maxwell
+info,player,Australia,C Green
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,T Sangha
+info,player,Australia,JR Hazlewood
+info,player,India,RG Sharma
+info,player,India,Washington Sundar
+info,player,India,V Kohli
+info,player,India,SS Iyer
+info,player,India,KL Rahul
+info,player,India,SA Yadav
+info,player,India,RA Jadeja
+info,player,India,Kuldeep Yadav
+info,player,India,JJ Bumrah
+info,player,India,Mohammed Siraj
+info,player,India,M Prasidh Krishna
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AT Carey,69d03465
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,T Sangha,52c952d9
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad

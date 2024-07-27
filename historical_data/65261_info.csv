@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,male
+info,season,2002/03
+info,date,2003/02/26
+info,event,ICC World Cup
+info,match_number,29
+info,venue,"De Beers Diamond Oval, Kimberley"
+info,city,Kimberley
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,CD McMillan
+info,umpire,DB Hair
+info,umpire,DR Shepherd
+info,tv_umpire,BG Jerling
+info,match_referee,MJ Procter
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,Bangladesh,Hannan Sarkar
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Sanwar Hossain
+info,player,Bangladesh,Habibul Bashar
+info,player,Bangladesh,Alok Kapali
+info,player,Bangladesh,Akram Khan
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Khaled Mahmud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Manjural Islam
+info,player,Bangladesh,Tapash Baisya
+info,player,New Zealand,CD McMillan
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,AR Adams
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,MS Sinclair
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,KD Mills
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,SE Bond
+info,registry,people,AR Adams,525c3f54
+info,registry,people,Akram Khan,fbc5b9e2
+info,registry,people,Alok Kapali,54279e23
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CD McMillan,f5390243
+info,registry,people,CL Cairns,0b130202
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,Habibul Bashar,e74ad9ea
+info,registry,people,Hannan Sarkar,608e1581
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,Khaled Mahmud,0c8a1d51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,MJ Procter,32e65048
+info,registry,people,MS Sinclair,1b668884
+info,registry,people,Manjural Islam,2cfa6534
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,Sanwar Hossain,2cccba8f
+info,registry,people,Tapash Baisya,bb1819fa

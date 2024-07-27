@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Railways
+info,gender,male
+info,season,2015/16
+info,date,2016/01/03
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Motibaug Cricket Ground
+info,city,
+info,toss_winner,Baroda
+info,toss_decision,bat
+info,winner,Baroda
+info,winner_runs,9
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Mrunal Devdhar
+info,player,Baroda,HH Pandya
+info,player,Baroda,DJ Hooda
+info,player,Baroda,YK Pathan
+info,player,Baroda,IK Pathan
+info,player,Baroda,Soaeb Tai
+info,player,Baroda,PR Shah
+info,player,Baroda,RT Arothe
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,MM Patel
+info,player,Railways,Anureet Singh
+info,player,Railways,K Upadhyay
+info,player,Railways,Ranjeet Mali
+info,player,Railways,AR Pandey
+info,player,Railways,KV Sharma
+info,player,Railways,AUK Pathan
+info,player,Railways,Vivek Singh
+info,player,Railways,Saurabh Wakaskar
+info,player,Railways,AN Ghosh
+info,player,Railways,V Cheluvaraj
+info,player,Railways,Ashish Yadav
+info,registry,people,AN Ghosh,7023d182
+info,registry,people,AR Pandey,dd73b2ff
+info,registry,people,AUK Pathan,3ae3f034
+info,registry,people,Anureet Singh,69be866a
+info,registry,people,Ashish Yadav,254c7802
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,IK Pathan,5fa06777
+info,registry,people,K Upadhyay,27e71d47
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KV Sharma,119678fd
+info,registry,people,MM Patel,f0f628c7
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,PR Shah,0aadc906
+info,registry,people,RT Arothe,50455929
+info,registry,people,Ranjeet Mali,7d4a4371
+info,registry,people,Saurabh Wakaskar,dd8439ed
+info,registry,people,Soaeb Tai,c915ee65
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,V Cheluvaraj,ce1926ef
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,YK Pathan,3c6ffae8

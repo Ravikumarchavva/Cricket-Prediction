@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maharashtra
+info,team,Punjab
+info,gender,male
+info,season,2019/20
+info,date,2019/11/18
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Cricket Stadium, Sector-16"
+info,city,
+info,toss_winner,Punjab
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_runs,45
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,Yash Nahar
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,SM Fallah
+info,player,Maharashtra,SM Kazi
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,DR Deshmukh
+info,player,Punjab,Sandeep Sharma
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,S Kaul
+info,player,Punjab,Nikhil Chaudhary
+info,player,Punjab,M Markande
+info,player,Punjab,Karan Kaila
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Abhishek Sharma
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,DR Deshmukh,ddc7a53d
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,Karan Kaila,b19f1fe9
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,Nikhil Chaudhary,1f84183a
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SM Kazi,868e3639
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Yash Nahar,487f5721

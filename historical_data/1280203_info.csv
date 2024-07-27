@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Services
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Nehru Stadium
+info,city,
+info,toss_winner,Services
+info,toss_decision,field
+info,winner,Services
+info,winner_wickets,2
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Shashwat Rawat
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,Bhanu Pania
+info,player,Baroda,KH Pandya
+info,player,Baroda,NA Rathva
+info,player,Baroda,KR Kakade
+info,player,Baroda,A Sheth
+info,player,Baroda,Dhruv Patel
+info,player,Baroda,Ansh Patel
+info,player,Baroda,BA Pathan
+info,player,Services,Diwesh Pathania
+info,player,Services,Varun Choudhary
+info,player,Services,Nitin Yadav
+info,player,Services,Vikas Yadav
+info,player,Services,Nitin Tanwar
+info,player,Services,Lakhan Singh
+info,player,Services,Ravi Chauhan
+info,player,Services,Rahul Singh
+info,player,Services,Rajat Paliwal
+info,player,Services,Mohit Ahlawat
+info,player,Services,Amit Pachhara
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,Amit Pachhara,be271641
+info,registry,people,Ansh Patel,9e76cdb3
+info,registry,people,BA Pathan,870e4cec
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,Dhruv Patel,e85f3659
+info,registry,people,Diwesh Pathania,a63563c0
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KR Kakade,ba86aae4
+info,registry,people,Lakhan Singh,ad72e8cc
+info,registry,people,Mohit Ahlawat,791b8fac
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,Nitin Tanwar,7cc7fe19
+info,registry,people,Nitin Yadav,ed3fdd1a
+info,registry,people,Rahul Singh,adf454e9
+info,registry,people,Rajat Paliwal,2fcb040c
+info,registry,people,Ravi Chauhan,f7ce1f24
+info,registry,people,Shashwat Rawat,7e435410
+info,registry,people,Varun Choudhary,134bead2
+info,registry,people,Vikas Yadav,fa73f373
+info,registry,people,Vishnu Solanki,2e802011

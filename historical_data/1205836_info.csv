@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Meghalaya
+info,team,Mizoram
+info,gender,male
+info,season,2019/20
+info,date,2019/11/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Wankhede Stadium
+info,city,
+info,toss_winner,Mizoram
+info,toss_decision,field
+info,winner,Meghalaya
+info,winner_runs,25
+info,player,Meghalaya,RR Biswa
+info,player,Meghalaya,Punit Bisht
+info,player,Meghalaya,Amiangshu Sen
+info,player,Meghalaya,DB Ravi Teja
+info,player,Meghalaya,R Sanjay Yadav
+info,player,Meghalaya,Abhay Negi
+info,player,Meghalaya,Chengkam Sangma
+info,player,Meghalaya,BB Dey
+info,player,Meghalaya,Swarajeet Das
+info,player,Meghalaya,Kilco R Marak
+info,player,Meghalaya,A Singhania
+info,player,Mizoram,Lalhruai Ralte
+info,player,Mizoram,Lalnunkima Varte
+info,player,Mizoram,G Lalbiakvela
+info,player,Mizoram,Lalhruaizela
+info,player,Mizoram,Lalhmangaiha
+info,player,Mizoram,Henry Renthlei
+info,player,Mizoram,Lalfakzuala Renthlei
+info,player,Mizoram,T Kohli
+info,player,Mizoram,KB Pawan
+info,player,Mizoram,Sumit Lama
+info,player,Mizoram,Saidingliana Sailo
+info,registry,people,A Singhania,791a65ce
+info,registry,people,Abhay Negi,481dd6dc
+info,registry,people,Amiangshu Sen,42046ec9
+info,registry,people,BB Dey,427e6670
+info,registry,people,Chengkam Sangma,cf495041
+info,registry,people,DB Ravi Teja,b720a5d6
+info,registry,people,G Lalbiakvela,66ea7420
+info,registry,people,Henry Renthlei,41f56bbc
+info,registry,people,KB Pawan,62dad180
+info,registry,people,Kilco R Marak,4da2f572
+info,registry,people,Lalfakzuala Renthlei,ff57eb02
+info,registry,people,Lalhmangaiha,15bbe51b
+info,registry,people,Lalhruai Ralte,c2ed5822
+info,registry,people,Lalhruaizela,4cfda770
+info,registry,people,Lalnunkima Varte,b7d8d5ce
+info,registry,people,Punit Bisht,310bddc0
+info,registry,people,R Sanjay Yadav,33ffc3dd
+info,registry,people,RR Biswa,2df87089
+info,registry,people,Saidingliana Sailo,9dc85417
+info,registry,people,Sumit Lama,301762cd
+info,registry,people,Swarajeet Das,324a6e1e
+info,registry,people,T Kohli,40caa465

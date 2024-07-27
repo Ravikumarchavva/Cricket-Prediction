@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Durdanto Dhaka
+info,gender,male
+info,season,2023/24
+info,date,2024/01/19
+info,event,Bangladesh Premier League
+info,match_number,1
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Durdanto Dhaka
+info,toss_decision,field
+info,player_of_match,Shoriful Islam
+info,umpire,DJ Millns
+info,umpire,Mahfuzur Rahman
+info,reserve_umpire,Ali Arman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Neeyamur Rashid
+info,winner,Durdanto Dhaka
+info,winner_wickets,5
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,RL Chase
+info,player,Comilla Victorians,Mahidul Islam Ankon
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,MW Forde
+info,player,Comilla Victorians,Musfik Hasan
+info,player,Durdanto Dhaka,MD Gunathilaka
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,L Croospulle
+info,player,Durdanto Dhaka,Irfan Sukkur
+info,player,Durdanto Dhaka,Saif Hassan
+info,player,Durdanto Dhaka,Mosaddek Hossain
+info,player,Durdanto Dhaka,PC de Silva
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Arafat Sunny
+info,player,Durdanto Dhaka,Shoriful Islam
+info,player,Durdanto Dhaka,Usman Qadir
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,Irfan Sukkur,3cc7dd5f
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahidul Islam Ankon,dac6aabc
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Musfik Hasan,1afcbb60
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Usman Qadir,33742f04

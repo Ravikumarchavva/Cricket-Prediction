@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Leicestershire
+info,gender,male
+info,season,2024
+info,date,2024/04/26
+info,date,2024/04/27
+info,date,2024/04/28
+info,date,2024/04/29
+info,event,County Championship
+info,match_number,14
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,JD Shantry
+info,match_referee,JJ Whitaker
+info,outcome,draw
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,KK Nair
+info,player,Northamptonshire,GA Bartlett
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,CP Tremain
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,GLS Scrimshaw
+info,player,Northamptonshire,BW Sanderson
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,MS Harris
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,BGF Green
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,SW Currie
+info,player,Leicestershire,MET Salisbury
+info,registry,people,BGF Green,34b37279
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CP Tremain,96824e68
+info,registry,people,EN Gay,aa710a58
+info,registry,people,GA Bartlett,e2caec46
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,KK Nair,944533a5
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,MS Harris,9e85455c
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,TAR Scriven,ac3c3cab

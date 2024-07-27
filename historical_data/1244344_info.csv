@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Railways
+info,gender,male
+info,season,2020/21
+info,date,2021/01/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Alur Cricket Stadium II
+info,city,
+info,toss_winner,Railways
+info,toss_decision,field
+info,winner,Punjab
+info,winner_runs,117
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Sandeep Sharma
+info,player,Punjab,Arshdeep Singh
+info,player,Punjab,S Kaul
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,M Markande
+info,player,Railways,T Pradeep
+info,player,Railways,Kanishk Seth
+info,player,Railways,Dhrushant Soni
+info,player,Railways,V Dhaka
+info,player,Railways,Harsh Tyagi
+info,player,Railways,Akash Pandey
+info,player,Railways,Mrunal Devdhar
+info,player,Railways,Pratham Singh
+info,player,Railways,Shivam Chaudhary
+info,player,Railways,Navneet Virk
+info,player,Railways,Dinesh Mor
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Akash Pandey,f691e227
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Dhrushant Soni,13abdc50
+info,registry,people,Dinesh Mor,7f28f186
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,Kanishk Seth,98f27d4b
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,Navneet Virk,9830f5a5
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Shivam Chaudhary,e53af640
+info,registry,people,T Pradeep,a0d66374
+info,registry,people,V Dhaka,69a3140d

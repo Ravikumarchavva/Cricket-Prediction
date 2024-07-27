@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,North West
+info,team,Knights
+info,gender,male
+info,season,2022/23
+info,date,2022/11/01
+info,event,CSA T20 Challenge
+info,match_number,27
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Knights
+info,toss_decision,field
+info,umpire,LB Gcuma
+info,umpire,Siphelele Gasa
+info,reserve_umpire,BP Jele
+info,tv_umpire,RN Hendricks
+info,match_referee,S Wadvalla
+info,winner,North West
+info,winner_runs,22
+info,player,North West,TG Mokoena
+info,player,North West,WB Marshall
+info,player,North West,HG Kuhn
+info,player,North West,K Cotani
+info,player,North West,S Muthusamy
+info,player,North West,D Potgieter
+info,player,North West,D Jansen
+info,player,North West,H Coetzer
+info,player,North West,R Meyer
+info,player,North West,C Seleka
+info,player,North West,LM Zuma
+info,player,Knights,GL Cloete
+info,player,Knights,GJ Snyman
+info,player,Knights,R van Tonder
+info,player,Knights,PE Kruger
+info,player,Knights,AR Swanepoel
+info,player,Knights,PJ van Biljon
+info,player,Knights,I Dikgale
+info,player,Knights,G Coetzee
+info,player,Knights,M Pretorius
+info,player,Knights,O Motlhoaring
+info,player,Knights,M Budaza
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Seleka,be8b147b
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GJ Snyman,a3ae63f4
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,H Coetzer,bd25d145
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,I Dikgale,f3fe6653
+info,registry,people,K Cotani,0867d81f
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LM Zuma,58f01d47
+info,registry,people,M Budaza,1d105638
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,O Motlhoaring,1713d202
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,R Meyer,64f55c74
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Pillay,09497f5a
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,TG Mokoena,0827b38d
+info,registry,people,WB Marshall,2d7f2ba0

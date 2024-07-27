@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,West Indies
+info,gender,male
+info,season,2002/03
+info,date,2003/02/13
+info,event,ICC World Cup
+info,match_number,9
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Gqeberha
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,AR Adams
+info,umpire,DB Hair
+info,umpire,RE Koertzen
+info,tv_umpire,S Venkataraghavan
+info,match_referee,MJ Procter
+info,winner,New Zealand
+info,winner_runs,20
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,L Vincent
+info,player,New Zealand,CZ Harris
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,AR Adams
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,SE Bond
+info,player,West Indies,CH Gayle
+info,player,West Indies,WW Hinds
+info,player,West Indies,BC Lara
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,CL Hooper
+info,player,West Indies,RR Sarwan
+info,player,West Indies,RL Powell
+info,player,West Indies,RD Jacobs
+info,player,West Indies,VC Drakes
+info,player,West Indies,NAM McLean
+info,player,West Indies,M Dillon
+info,registry,people,AR Adams,525c3f54
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BC Lara,d5403021
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CL Hooper,61dab16a
+info,registry,people,CZ Harris,582e9baa
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,L Vincent,2764133a
+info,registry,people,M Dillon,5af87ad6
+info,registry,people,MJ Procter,32e65048
+info,registry,people,NAM McLean,174369f2
+info,registry,people,NJ Astle,99639abf
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Venkataraghavan,12453319
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,VC Drakes,b16b5eea
+info,registry,people,WW Hinds,60beb01b

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,male
+info,season,2023/24
+info,date,2023/12/20
+info,event,Bangladesh tour of New Zealand
+info,match_number,2
+info,venue,"Saxton Oval, Nelson"
+info,city,Nelson
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,Soumya Sarkar
+info,umpire,AG Wharf
+info,umpire,SB Haig
+info,reserve_umpire,CM Brown
+info,tv_umpire,RJ Tucker
+info,match_referee,JJ Crowe
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Anamul Haque
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Hasan Mahmud
+info,player,New Zealand,WA Young
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,JA Clarkson
+info,player,New Zealand,AF Milne
+info,player,New Zealand,A Ashok
+info,player,New Zealand,JA Duffy
+info,player,New Zealand,W O'Rourke
+info,registry,people,A Ashok,321be7e3
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SB Haig,811655b3
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,WA Young,8afe73e2

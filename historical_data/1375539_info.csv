@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,North-West Warriors
+info,team,Leinster Lightning
+info,gender,male
+info,season,2023
+info,date,2023/06/07
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,3
+info,venue,"Mardyke, Cork"
+info,city,Cork
+info,toss_winner,Leinster Lightning
+info,toss_decision,field
+info,player_of_match,SC Getkate
+info,umpire,Aidan Seaver
+info,umpire,SD Hollingshead
+info,reserve_umpire,PA Reynolds
+info,match_referee,G McCrea
+info,winner,North-West Warriors
+info,winner_runs,81
+info,player,Leinster Lightning,S Lynch
+info,player,Leinster Lightning,TH Tector
+info,player,Leinster Lightning,A Rosslee
+info,player,Leinster Lightning,G Ford
+info,player,Leinster Lightning,M Donegan
+info,player,Leinster Lightning,SJ Harbinson
+info,player,Leinster Lightning,F Hand
+info,player,Leinster Lightning,G Hoey
+info,player,Leinster Lightning,BJ McCarthy
+info,player,Leinster Lightning,A Sidhu
+info,player,Leinster Lightning,M O'Reilly
+info,player,North-West Warriors,ST Doheny
+info,player,North-West Warriors,AP Gillespie
+info,player,North-West Warriors,J Wilson
+info,player,North-West Warriors,SJ MacBeth
+info,player,North-West Warriors,SC Getkate
+info,player,North-West Warriors,C Melly
+info,player,North-West Warriors,W McClintock
+info,player,North-West Warriors,H Zimmerman
+info,player,North-West Warriors,R MacBeth
+info,player,North-West Warriors,T McKeegan
+info,player,North-West Warriors,C Robertson
+info,registry,people,A Rosslee,a8d48f69
+info,registry,people,A Sidhu,69b1224b
+info,registry,people,AP Gillespie,8b054bba
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Melly,48641e31
+info,registry,people,C Robertson,d26de4de
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,G Ford,ca825da7
+info,registry,people,G Hoey,19d0a172
+info,registry,people,G McCrea,46f4a901
+info,registry,people,H Zimmerman,b85fa1d4
+info,registry,people,J Wilson,20f9e6b1
+info,registry,people,M Donegan,84cf842e
+info,registry,people,M O'Reilly,b89ac0fd
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,R MacBeth,b4402d8a
+info,registry,people,S Lynch,5ffe6225
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,SD Hollingshead,7ccfb799
+info,registry,people,SJ Harbinson,ccc17282
+info,registry,people,SJ MacBeth,5d4338a2
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,T McKeegan,2052d6f4
+info,registry,people,TH Tector,0348f9a5
+info,registry,people,W McClintock,b16ddb79

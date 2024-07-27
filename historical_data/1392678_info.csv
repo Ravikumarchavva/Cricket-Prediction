@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers Eastern Cape
+info,team,Paarl Royals
+info,gender,male
+info,season,2023/24
+info,date,2024/02/02
+info,event,SA20
+info,match_number,27
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,bat
+info,player_of_match,M Jansen
+info,umpire,BM White
+info,umpire,TC Mokorosi
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,Stephen Harris
+info,match_referee,SB Lambson
+info,winner,Sunrisers Eastern Cape
+info,winner_runs,44
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,B Swanepoel
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,player,Paarl Royals,OC McCoy
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BM White,66c21d35
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,PE Kruger,39181592
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SR Harmer,23638956
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,WJ Lubbe,10f42013

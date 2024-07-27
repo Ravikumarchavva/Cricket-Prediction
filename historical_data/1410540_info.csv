@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South East Stars
+info,team,Sunrisers
+info,gender,female
+info,season,2024
+info,date,2024/06/15
+info,event,Charlotte Edwards Cup
+info,match_number,33
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Sunrisers
+info,toss_decision,field
+info,umpire,BJ Peverall
+info,umpire,G Brown
+info,match_referee,SM Bartlett
+info,winner,South East Stars
+info,winner_runs,19
+info,method,D/L
+info,player,South East Stars,BF Smith
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,G Redmayne
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,E Jones
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,A Stonehouse
+info,player,South East Stars,D Gregory
+info,player,South East Stars,MR Corteen-Coleman
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,AJ Macleod
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,A Surenkumar
+info,player,Sunrisers,F Miller
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,J Grewcock
+info,player,Sunrisers,E Gray
+info,player,Sunrisers,S Munro
+info,player,Sunrisers,KL Coppack
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,A Surenkumar,cf9338c9
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AJ Macleod,e7f06080
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,E Gray,58717de2
+info,registry,people,E Jones,4cf60e73
+info,registry,people,F Miller,9d9edf14
+info,registry,people,G Brown,4b781bd0
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Grewcock,92b94582
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,MR Corteen-Coleman,9049ab63
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,S Munro,b4e026de
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SM Bartlett,7ba18406

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Uttarakhand
+info,gender,male
+info,season,2018/19
+info,date,2019/02/22
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Baroda
+info,toss_decision,bat
+info,winner,Uttarakhand
+info,winner_wickets,7
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,DJ Hooda
+info,player,Baroda,YK Pathan
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,Mohit Mongia
+info,player,Baroda,A Sheth
+info,player,Baroda,RT Arothe
+info,player,Baroda,Mitesh Patel
+info,player,Baroda,LI Meriwala
+info,player,Baroda,BA Bhatt
+info,player,Uttarakhand,D Dhapola
+info,player,Uttarakhand,Girish Rauturi
+info,player,Uttarakhand,Sunny Rana
+info,player,Uttarakhand,Himanshu Bisht
+info,player,Uttarakhand,R Bhatia
+info,player,Uttarakhand,Sunny Kashyap
+info,player,Uttarakhand,Karanveer Kaushal
+info,player,Uttarakhand,Saurabh Rawat
+info,player,Uttarakhand,Vaibhav Singh Panwar
+info,player,Uttarakhand,Vijay Sharma
+info,player,Uttarakhand,Shivam Khurana
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,BA Bhatt,dc4686e6
+info,registry,people,D Dhapola,5dd172a7
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,Girish Rauturi,478bbd5f
+info,registry,people,Himanshu Bisht,24d163d7
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,Karanveer Kaushal,9e62632a
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Mitesh Patel,ab636882
+info,registry,people,Mohit Mongia,e5b78474
+info,registry,people,R Bhatia,33a364a6
+info,registry,people,RT Arothe,50455929
+info,registry,people,Saurabh Rawat,839b6d2e
+info,registry,people,Shivam Khurana,e23960c5
+info,registry,people,Sunny Kashyap,73d49fe6
+info,registry,people,Sunny Rana,798c67e5
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Vaibhav Singh Panwar,8685f676
+info,registry,people,Vijay Sharma,6e8d1234
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,YK Pathan,3c6ffae8

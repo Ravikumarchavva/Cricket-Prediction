@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2022/23
+info,date,2023/01/12
+info,event,SA20
+info,match_number,3
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,PD Salt
+info,umpire,BP Jele
+info,umpire,Stephen Harris
+info,reserve_umpire,A Jacobs
+info,tv_umpire,A Paleker
+info,match_referee,ZTA Ndamane
+info,winner,Pretoria Capitals
+info,winner_runs,23
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,A Nortje
+info,player,Sunrisers Eastern Cape,JT Smuts
+info,player,Sunrisers Eastern Cape,SJ Erwee
+info,player,Sunrisers Eastern Cape,JM Cox
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,JK Fuller
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,SSB Magala
+info,player,Sunrisers Eastern Cape,MS Crane
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SJ Erwee,a3ce3d1d
+info,registry,people,SSB Magala,8361e524
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,ZTA Ndamane,545cc6db

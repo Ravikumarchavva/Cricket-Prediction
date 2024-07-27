@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,male
+info,season,2023/24
+info,date,2023/10/13
+info,event,ICC Cricket World Cup
+info,match_number,11
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,LH Ferguson
+info,umpire,HDPK Dharmasena
+info,umpire,Nitin Menon
+info,reserve_umpire,AG Wharf
+info,tv_umpire,MA Gough
+info,match_referee,RB Richardson
+info,winner,New Zealand
+info,winner_wickets,8
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Shoriful Islam
+info,player,New Zealand,DP Conway
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414

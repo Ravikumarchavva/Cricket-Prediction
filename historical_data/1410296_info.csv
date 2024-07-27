@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Glamorgan
+info,gender,male
+info,season,2024
+info,date,2024/06/30
+info,date,2024/07/01
+info,date,2024/07/02
+info,date,2024/07/03
+info,event,County Championship
+info,match_number,34
+info,venue,"College Ground, Cheltenham"
+info,city,Cheltenham
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,Naeem Ashraf
+info,umpire,PK Baldwin
+info,match_referee,IL Herbert
+info,outcome,tie
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,AS Dale
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,JP McIlroy
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,WT Root,72898514
+info,registry,people,Zaman Akhter,63e1e352

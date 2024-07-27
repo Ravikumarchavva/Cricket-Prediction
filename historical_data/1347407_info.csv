@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Central Sparks
+info,gender,female
+info,season,2023
+info,date,2023/04/29
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,5
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Central Sparks
+info,toss_decision,field
+info,umpire,J Naeem
+info,umpire,Naeem Ashraf
+info,match_referee,PM Such
+info,winner,Central Sparks
+info,winner_wickets,7
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,CL Tryon
+info,player,Northern Diamonds,A Glen
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,JA Woolston
+info,player,Central Sparks,E Jones
+info,player,Central Sparks,C Brewer
+info,player,Central Sparks,AJ Freeborn
+info,player,Central Sparks,D Perrin
+info,player,Central Sparks,A Campbell
+info,player,Central Sparks,KL George
+info,player,Central Sparks,EL Arlott
+info,player,Central Sparks,IECM Wong
+info,player,Central Sparks,GK Davis
+info,player,Central Sparks,G Potts
+info,player,Central Sparks,HL Baker
+info,registry,people,A Campbell,4b788e61
+info,registry,people,A Glen,9da0d1e5
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,C Brewer,baf11c9a
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Perrin,bfa0fa33
+info,registry,people,E Jones,971cb321
+info,registry,people,EK Marlow,ac574559
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,G Potts,e3a93585
+info,registry,people,GK Davis,54719239
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,JA Woolston,c1f3ae44
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KL George,e69dbbef
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,PM Such,c9f1892c
+info,registry,people,SL Kalis,2b150c6b

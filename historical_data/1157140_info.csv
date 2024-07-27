@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttarakhand
+info,team,Puducherry
+info,gender,male
+info,season,2018/19
+info,date,2019/02/24
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Uttarakhand
+info,toss_decision,bat
+info,winner,Uttarakhand
+info,winner_runs,10
+info,player,Uttarakhand,R Bhatia
+info,player,Uttarakhand,Karanveer Kaushal
+info,player,Uttarakhand,Saurabh Rawat
+info,player,Uttarakhand,Vaibhav Singh Panwar
+info,player,Uttarakhand,Shivam Khurana
+info,player,Uttarakhand,Vijay Sharma
+info,player,Uttarakhand,Girish Rauturi
+info,player,Uttarakhand,Himanshu Bisht
+info,player,Uttarakhand,Rohit Dangwal
+info,player,Uttarakhand,Sunny Rana
+info,player,Uttarakhand,Sunny Kashyap
+info,player,Puducherry,Pankaj Singh
+info,player,Puducherry,Akshay Jain
+info,player,Puducherry,Pratik Sargade
+info,player,Puducherry,P Thamaraikannan
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,S Karthik
+info,player,Puducherry,P Dogra
+info,player,Puducherry,X Thalaivan Sargunam
+info,player,Puducherry,RV Gomez
+info,registry,people,Akshay Jain,cd626284
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Girish Rauturi,478bbd5f
+info,registry,people,Himanshu Bisht,24d163d7
+info,registry,people,Karanveer Kaushal,9e62632a
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,P Thamaraikannan,df72675b
+info,registry,people,Pankaj Singh,e32d22f6
+info,registry,people,Pratik Sargade,6a1fc8dd
+info,registry,people,R Bhatia,33a364a6
+info,registry,people,RV Gomez,b2570b38
+info,registry,people,Rohit Dangwal,00852db7
+info,registry,people,S Karthik,14c90152
+info,registry,people,Saurabh Rawat,839b6d2e
+info,registry,people,Shivam Khurana,e23960c5
+info,registry,people,Sunny Kashyap,73d49fe6
+info,registry,people,Sunny Rana,798c67e5
+info,registry,people,Vaibhav Singh Panwar,8685f676
+info,registry,people,Vijay Sharma,6e8d1234
+info,registry,people,X Thalaivan Sargunam,1763bc6c

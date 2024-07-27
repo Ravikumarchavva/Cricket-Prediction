@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers
+info,team,South East Stars
+info,gender,female
+info,season,2023
+info,date,2023/05/25
+info,event,Charlotte Edwards Cup
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Sunrisers
+info,toss_decision,bat
+info,umpire,WRP Fernando
+info,umpire,Surendiran Shanmugam
+info,match_referee,H Pack
+info,winner,South East Stars
+info,winner_wickets,4
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,D van Niekerk
+info,player,Sunrisers,CL Griffith
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,F Miller
+info,player,Sunrisers,E Gray
+info,player,Sunrisers,KS Castle
+info,player,Sunrisers,KL Coppack
+info,player,Sunrisers,AH Maqsood
+info,player,South East Stars,BF Smith
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,A Capsey
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,KM Chathli
+info,player,South East Stars,FR Davies
+info,player,South East Stars,CAR Cooper
+info,player,South East Stars,D Gregory
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CAR Cooper,20af5f5f
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,E Gray,58717de2
+info,registry,people,F Miller,9d9edf14
+info,registry,people,FR Davies,2479daa6
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,H Pack,fed53c91
+info,registry,people,J Gardner,184512d1
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,KS Castle,67045de6
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,WRP Fernando,7d98d385

@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Welsh Fire
+info,team,Oval Invincibles
+info,gender,male
+info,season,2023
+info,date,2023/08/06
+info,event,The Hundred Men's Competition
+info,match_number,9
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Welsh Fire
+info,toss_decision,bat
+info,player_of_match,TK Curran
+info,umpire,PR Pollard
+info,umpire,Tom Lungley
+info,reserve_umpire,James Middlebrook
+info,tv_umpire,PK Baldwin
+info,match_referee,JJ Whitaker
+info,outcome,tie
+info,player,Welsh Fire,JM Clarke
+info,player,Welsh Fire,LWP Wells
+info,player,Welsh Fire,SS Eskinazi
+info,player,Welsh Fire,TB Abell
+info,player,Welsh Fire,GD Phillips
+info,player,Welsh Fire,DJ Willey
+info,player,Welsh Fire,BGF Green
+info,player,Welsh Fire,Shaheen Shah Afridi
+info,player,Welsh Fire,RE van der Merwe
+info,player,Welsh Fire,Haris Rauf
+info,player,Welsh Fire,DA Payne
+info,player,Oval Invincibles,JJ Roy
+info,player,Oval Invincibles,WG Jacks
+info,player,Oval Invincibles,JM Cox
+info,player,Oval Invincibles,H Klaasen
+info,player,Oval Invincibles,SM Curran
+info,player,Oval Invincibles,SW Billings
+info,player,Oval Invincibles,TK Curran
+info,player,Oval Invincibles,SP Narine
+info,player,Oval Invincibles,AAP Atkinson
+info,player,Oval Invincibles,ZJ Chappell
+info,player,Oval Invincibles,NA Sowter
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,BGF Green,34b37279
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Willey,7f048519
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,NA Sowter,ee0c05c0
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TK Curran,e86754b2
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,ZJ Chappell,fe5b4367

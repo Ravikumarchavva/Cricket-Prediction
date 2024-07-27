@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Central Stags
+info,gender,male
+info,season,2015/16
+info,date,2015/10/15
+info,date,2015/10/16
+info,date,2015/10/17
+info,date,2015/10/18
+info,event,Plunket Shield
+info,venue,"Nelson Park, Napier"
+info,city,Napier
+info,toss_winner,Otago Volts
+info,toss_decision,bat
+info,umpire,BG Frost
+info,umpire,WR Knights
+info,outcome,draw
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,BS Wilson
+info,player,Otago Volts,RM Duffy
+info,player,Otago Volts,NT Broom
+info,player,Otago Volts,JDS Neesham
+info,player,Otago Volts,SR Wells
+info,player,Otago Volts,MD Craig
+info,player,Otago Volts,NB Beard
+info,player,Otago Volts,AJ Miles
+info,player,Otago Volts,MD Rae
+info,player,Otago Volts,JS Hunter
+info,player,Central Stags,GR Hay
+info,player,Central Stags,BS Smith
+info,player,Central Stags,WA Young
+info,player,Central Stags,LRPL Taylor
+info,player,Central Stags,GH Worker
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,CFK van Wyk
+info,player,Central Stags,JA Clarkson
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,AW Mathieson
+info,registry,people,AJ Miles,aaf64760
+info,registry,people,AW Mathieson,c661789d
+info,registry,people,BG Frost,fd8ffc13
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BS Smith,556df4f9
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JS Hunter,afb3ab47
+info,registry,people,LRPL Taylor,b61a3e1a
+info,registry,people,MD Craig,c8574282
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,NB Beard,1cbd881f
+info,registry,people,NT Broom,a354c917
+info,registry,people,RM Duffy,37fa7ef6
+info,registry,people,SR Wells,8fdfa195
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WR Knights,63cbf8d8

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Durdanto Dhaka
+info,gender,male
+info,season,2023/24
+info,date,2024/02/14
+info,event,Bangladesh Premier League
+info,match_number,31
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Fortune Barishal
+info,toss_decision,bat
+info,player_of_match,Tamim Iqbal
+info,umpire,DJ Millns
+info,umpire,Gazi Sohel
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Selim Shahid
+info,winner,Fortune Barishal
+info,winner_runs,27
+info,player,Fortune Barishal,Ahmed Shehzad
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Shoaib Malik
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Mohammad Saifuddin
+info,player,Fortune Barishal,KA Maharaj
+info,player,Fortune Barishal,Khaled Ahmed
+info,player,Fortune Barishal,OC McCoy
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,AM Rossington
+info,player,Durdanto Dhaka,Saif Hassan
+info,player,Durdanto Dhaka,AI Ross
+info,player,Durdanto Dhaka,SC Williams
+info,player,Durdanto Dhaka,SM Meherob
+info,player,Durdanto Dhaka,Mosaddek Hossain
+info,player,Durdanto Dhaka,Alauddin Babu
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Arafat Sunny
+info,player,Durdanto Dhaka,Shoriful Islam
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Alauddin Babu,721032ec
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SM Meherob,f146c339
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Selim Shahid,b478bce3
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taskin Ahmed,ef18b66e

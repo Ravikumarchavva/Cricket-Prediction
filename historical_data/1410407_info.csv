@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Yorkshire
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,Vitality Blast
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Yorkshire
+info,toss_decision,field
+info,umpire,James Middlebrook
+info,umpire,N Pratt
+info,match_referee,JJ Swift
+info,winner,Yorkshire
+info,winner_wickets,9
+info,player,Derbyshire,DL Lloyd
+info,player,Derbyshire,AHT Donald
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,SR Patel
+info,player,Derbyshire,RA Whiteley
+info,player,Derbyshire,CD Fletcher
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,PR Brown
+info,player,Derbyshire,DM Dupavillon
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,JH Wharton
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,HG Duke
+info,player,Yorkshire,BM Cliff
+info,player,Yorkshire,D Moriarty
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AHT Donald,72918338
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BM Cliff,3ebb940f
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,DM Bess,ad46c747
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,HG Duke,443b47a6
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JE Root,a343262c
+info,registry,people,JH Wharton,42a5c1c7
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,ML Revis,28217d89
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,SR Patel,18fac429
+info,registry,people,Shan Masood,6843a783
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367

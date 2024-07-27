@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karachi Kings
+info,team,Quetta Gladiators
+info,gender,male
+info,season,2023/24
+info,date,2024/02/29
+info,event,Pakistan Super League
+info,match_number,16
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Quetta Gladiators
+info,toss_decision,field
+info,player_of_match,SE Rutherford
+info,umpire,Abdul Muqeet
+info,umpire,CB Gaffaney
+info,reserve_umpire,Faisal Afridi
+info,tv_umpire,Imran Javed
+info,match_referee,Ali Naqvi
+info,winner,Quetta Gladiators
+info,winner_wickets,5
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,TL Seifert
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Mohammad Nawaz
+info,player,Karachi Kings,KA Pollard
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,Anwar Ali
+info,player,Karachi Kings,Zahid Mahmood
+info,player,Karachi Kings,B Muzarabani
+info,player,Quetta Gladiators,JJ Roy
+info,player,Quetta Gladiators,Saud Shakeel
+info,player,Quetta Gladiators,Khawaja Nafay
+info,player,Quetta Gladiators,Sarfraz Ahmed
+info,player,Quetta Gladiators,RR Rossouw
+info,player,Quetta Gladiators,SE Rutherford
+info,player,Quetta Gladiators,AJ Hosein
+info,player,Quetta Gladiators,Mohammad Wasim
+info,player,Quetta Gladiators,Abrar Ahmed
+info,player,Quetta Gladiators,Usman Tariq
+info,player,Quetta Gladiators,Sohail Khan
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Abdul Muqeet,e1ac7789
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Imran Javed,9a1405c8
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Khawaja Nafay,3cf54e77
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Sohail Khan,5af743d0
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,Usman Tariq,e94d1dcd
+info,registry,people,Zahid Mahmood,ba158afd

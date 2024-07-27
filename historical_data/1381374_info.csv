@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,San Francisco Unicorns
+info,team,Texas Super Kings
+info,gender,male
+info,season,2023
+info,date,2023/07/24
+info,event,Major League Cricket
+info,match_number,14
+info,venue,"Church Street Park, Morrisville"
+info,city,Morrisville
+info,toss_winner,San Francisco Unicorns
+info,toss_decision,bat
+info,player_of_match,DR Sams
+info,umpire,Jermaine Lindo
+info,umpire,R Samuels
+info,reserve_umpire,C Edwards
+info,tv_umpire,Aleem Dar
+info,match_referee,Reon King
+info,winner,Texas Super Kings
+info,winner_wickets,3
+info,player,San Francisco Unicorns,FH Allen
+info,player,San Francisco Unicorns,MS Wade
+info,player,San Francisco Unicorns,MP Stoinis
+info,player,San Francisco Unicorns,Shadab Khan
+info,player,San Francisco Unicorns,CJ Anderson
+info,player,San Francisco Unicorns,Chaitanya Bishnoi
+info,player,San Francisco Unicorns,AJ Finch
+info,player,San Francisco Unicorns,Tajinder Singh
+info,player,San Francisco Unicorns,LE Plunkett
+info,player,San Francisco Unicorns,Haris Rauf
+info,player,San Francisco Unicorns,C le Roux
+info,player,Texas Super Kings,F du Plessis
+info,player,Texas Super Kings,DP Conway
+info,player,Texas Super Kings,C Chetty
+info,player,Texas Super Kings,Milind Kumar
+info,player,Texas Super Kings,DA Miller
+info,player,Texas Super Kings,MJ Santner
+info,player,Texas Super Kings,DR Sams
+info,player,Texas Super Kings,CP Savage
+info,player,Texas Super Kings,G Coetzee
+info,player,Texas Super Kings,Mohammad Mohsin
+info,player,Texas Super Kings,J Theron
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,C Chetty,27ca3a11
+info,registry,people,C Edwards,a072f223
+info,registry,people,C le Roux,7a490dec
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,CP Savage,a55e0360
+info,registry,people,Chaitanya Bishnoi,e793a8ed
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FH Allen,bf74b130
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,J Theron,dec8e038
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Mohsin,79f8472d
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,Reon King,20fbf68c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Tajinder Singh,f9d99806

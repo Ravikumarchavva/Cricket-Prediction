@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,West Indies
+info,gender,male
+info,season,2023
+info,date,2023/07/20
+info,date,2023/07/21
+info,date,2023/07/22
+info,date,2023/07/23
+info,date,2023/07/24
+info,event,India tour of West Indies
+info,match_number,2
+info,venue,"Queen's Park Oval, Port of Spain, Trinidad"
+info,city,Port of Spain
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,Mohammed Siraj
+info,umpire,M Erasmus
+info,umpire,RA Kettleborough
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,MA Gough
+info,match_referee,JJ Crowe
+info,outcome,draw
+info,player,India,YBK Jaiswal
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,V Kohli
+info,player,India,AM Rahane
+info,player,India,RA Jadeja
+info,player,India,Ishan Kishan
+info,player,India,R Ashwin
+info,player,India,JD Unadkat
+info,player,India,Mohammed Siraj
+info,player,India,Mukesh Kumar
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,T Chanderpaul
+info,player,West Indies,KSA McKenzie
+info,player,West Indies,J Blackwood
+info,player,West Indies,A Athanaze
+info,player,West Indies,J Da Silva
+info,player,West Indies,JO Holder
+info,player,West Indies,AS Joseph
+info,player,West Indies,KAJ Roach
+info,player,West Indies,JA Warrican
+info,player,West Indies,ST Gabriel
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Joseph,b0946605
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JA Warrican,cc23e91e
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KSA McKenzie,2b8f219a
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,ST Gabriel,d9609443
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,T Chanderpaul,80c6ed7d
+info,registry,people,V Kohli,ba607b88
+info,registry,people,YBK Jaiswal,6c19c6e5

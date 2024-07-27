@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Namibia
+info,gender,male
+info,season,2023
+info,date,2023/03/30
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,6
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Jersey
+info,toss_decision,bat
+info,player_of_match,M van Lingen
+info,umpire,IO Oyieko
+info,umpire,Patric Makumbi
+info,reserve_umpire,D Odhiambo
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_wickets,8
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JAD Lawrenson
+info,player,Jersey,AM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,DG Blampied
+info,player,Jersey,B Ward
+info,player,Jersey,J Sumerauer
+info,player,Jersey,JE Dunford
+info,player,Jersey,CW Perchard
+info,player,Jersey,EJB Miles
+info,player,Namibia,S Fouché
+info,player,Namibia,N Davin
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,HN Ya France
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,K Birkenstock
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,B Ward,9e0bd203
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,HN Ya France,915264c2
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JAD Lawrenson,c810b349
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,K Birkenstock,27b8d7b6
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,ZE Green,8716233e

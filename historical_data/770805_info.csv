@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Otago Volts
+info,gender,male
+info,season,2014/15
+info,date,2015/03/18
+info,date,2015/03/19
+info,date,2015/03/20
+info,date,2015/03/21
+info,event,Plunket Shield
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,Northern Districts
+info,toss_decision,bat
+info,umpire,BG Frost
+info,umpire,GAV Baxter
+info,match_referee,DM Quested
+info,winner,Northern Districts
+info,winner_runs,49
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,BS Wilson
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,JJ Boult
+info,player,Northern Districts,GW Aldridge
+info,player,Northern Districts,JD Baker
+info,player,Otago Volts,AJ Redmond
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,MG Bracewell
+info,player,Otago Volts,RM Duffy
+info,player,Otago Volts,JD Ryder
+info,player,Otago Volts,DC de Boorder
+info,player,Otago Volts,JL Finnie
+info,player,Otago Volts,CM Smith
+info,player,Otago Volts,RM Phillips
+info,player,Otago Volts,MD Rae
+info,player,Otago Volts,JA Duffy
+info,registry,people,AJ Redmond,48f177f5
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,BG Frost,fd8ffc13
+info,registry,people,BJ Watling,928670cc
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,CM Smith,61c03e7d
+info,registry,people,DC de Boorder,bf573bfd
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DM Quested,bb312212
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GW Aldridge,42a05795
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JJ Boult,3b298ff2
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,RM Duffy,37fa7ef6
+info,registry,people,RM Phillips,37d0c8b3

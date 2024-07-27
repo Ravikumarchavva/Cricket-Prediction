@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Services
+info,team,Goa
+info,gender,male
+info,season,2019/20
+info,date,2019/11/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium
+info,city,
+info,toss_winner,Goa
+info,toss_decision,field
+info,winner,Services
+info,winner_runs,21
+info,player,Services,Lakhan Singh
+info,player,Services,Ravi Chauhan
+info,player,Services,Rajat Paliwal
+info,player,Services,Rahul Singh
+info,player,Services,Nakul Sharma
+info,player,Services,Aanshul Gupta
+info,player,Services,Diwesh Pathania
+info,player,Services,Mohit Kumar
+info,player,Services,Vikas Yadav
+info,player,Services,Varun Choudhary
+info,player,Services,Pulkit Narang
+info,player,Goa,Darshan Misal
+info,player,Goa,Lakshay Garg
+info,player,Goa,Amulya Pandrekar
+info,player,Goa,Heramb Parab
+info,player,Goa,Amit Verma
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,MG Sirur
+info,player,Goa,Prathamesh Gawas
+info,player,Goa,Aditya Kaushik
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,SS Prabhudessai
+info,registry,people,Aanshul Gupta,71ee052e
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Amit Verma,3b30b8c4
+info,registry,people,Amulya Pandrekar,47ccd2bb
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Diwesh Pathania,a63563c0
+info,registry,people,Heramb Parab,b29f6148
+info,registry,people,Lakhan Singh,ad72e8cc
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,MG Sirur,a71b0bd3
+info,registry,people,Mohit Kumar,caabc8e4
+info,registry,people,Nakul Sharma,f5cf7ae0
+info,registry,people,Prathamesh Gawas,3d172a03
+info,registry,people,Pulkit Narang,9dc27cf0
+info,registry,people,Rahul Singh,adf454e9
+info,registry,people,Rajat Paliwal,2fcb040c
+info,registry,people,Ravi Chauhan,f7ce1f24
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Shubham Desai,3fa96c98
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,Varun Choudhary,134bead2
+info,registry,people,Vikas Yadav,fa73f373

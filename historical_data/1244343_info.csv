@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Arunachal Pradesh
+info,team,Nagaland
+info,gender,male
+info,season,2020/21
+info,date,2021/01/13
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Sri Ramachandra Medical College
+info,city,
+info,toss_winner,Arunachal Pradesh
+info,toss_decision,bat
+info,winner,Nagaland
+info,winner_wickets,9
+info,player,Arunachal Pradesh,Neelam Obi
+info,player,Arunachal Pradesh,Techi Doria
+info,player,Arunachal Pradesh,Rahul Dalal
+info,player,Arunachal Pradesh,Kamsha Yangfo
+info,player,Arunachal Pradesh,Nazeeb Saiyed
+info,player,Arunachal Pradesh,Kumar Nyompu
+info,player,Arunachal Pradesh,Akhilesh Sahani
+info,player,Arunachal Pradesh,Nabam Tempol
+info,player,Arunachal Pradesh,Rakesh Kumar
+info,player,Arunachal Pradesh,Takam Tallum
+info,player,Arunachal Pradesh,Manvan Patel
+info,player,Nagaland,STR Binny
+info,player,Nagaland,Nagaho Chishi
+info,player,Nagaland,SS Mundhe
+info,player,Nagaland,Tahmeed Rahman
+info,player,Nagaland,Khrievitso Kense
+info,player,Nagaland,Rongsen Jonathan
+info,player,Nagaland,Chetan Bist
+info,player,Nagaland,Joshua Ozukum
+info,player,Nagaland,Hokaito Zhimomi
+info,player,Nagaland,Hem Chetri
+info,player,Nagaland,Sedezhalie Rupero
+info,registry,people,Akhilesh Sahani,d6ac52e8
+info,registry,people,Chetan Bist,cf9d3356
+info,registry,people,Hem Chetri,d2ac5c4c
+info,registry,people,Hokaito Zhimomi,96477053
+info,registry,people,Joshua Ozukum,b13c506b
+info,registry,people,Kamsha Yangfo,451db894
+info,registry,people,Khrievitso Kense,2597e56b
+info,registry,people,Kumar Nyompu,03be7a88
+info,registry,people,Manvan Patel,b6d95d47
+info,registry,people,Nabam Tempol,455a7563
+info,registry,people,Nagaho Chishi,5b4d1d4e
+info,registry,people,Nazeeb Saiyed,2122c023
+info,registry,people,Neelam Obi,047fc26e
+info,registry,people,Rahul Dalal,802fdccf
+info,registry,people,Rakesh Kumar,2c47dd7c
+info,registry,people,Rongsen Jonathan,d4753890
+info,registry,people,SS Mundhe,0af3426f
+info,registry,people,STR Binny,bd17b45f
+info,registry,people,Sedezhalie Rupero,e49574d6
+info,registry,people,Tahmeed Rahman,13903f13
+info,registry,people,Takam Tallum,79a18661
+info,registry,people,Techi Doria,dde809f3

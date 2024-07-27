@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vidarbha
+info,team,Rajasthan
+info,gender,male
+info,season,2019/20
+info,date,2019/11/12
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Greenfield Stadium
+info,city,
+info,toss_winner,Vidarbha
+info,toss_decision,bat
+info,winner,Vidarbha
+info,winner_runs,1
+info,method,VJD
+info,player,Vidarbha,FY Fazal
+info,player,Vidarbha,AV Kolhar
+info,player,Vidarbha,JM Sharma
+info,player,Vidarbha,Akshay Karnewar
+info,player,Vidarbha,SU Shrivastava
+info,player,Vidarbha,RR Rathod
+info,player,Vidarbha,SB Wagh
+info,player,Vidarbha,DG Nalkande
+info,player,Vidarbha,Akshay Wadkar
+info,player,Vidarbha,Yash Thakur
+info,player,Vidarbha,Akshay Wakhare
+info,player,Rajasthan,DL Chahar
+info,player,Rajasthan,A Choudhary
+info,player,Rajasthan,KK Ahmed
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,CP Singh
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,MN Singh
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,R Bishnoi
+info,player,Rajasthan,Aditya Garhwal
+info,player,Rajasthan,Arjit Gupta
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,AV Kolhar,e2b74f6e
+info,registry,people,Aditya Garhwal,8e02f42b
+info,registry,people,Akshay Karnewar,e1e7f950
+info,registry,people,Akshay Wadkar,c88c8a7d
+info,registry,people,Akshay Wakhare,ec9fc54b
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,CP Singh,077da288
+info,registry,people,DG Nalkande,cd8d2859
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,FY Fazal,c15e2193
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MN Singh,7ba6ef29
+info,registry,people,R Bishnoi,4d5a1617
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,RN Gurbani,bcaf7d33
+info,registry,people,RR Rathod,3c79f8af
+info,registry,people,SB Wagh,dddca1d6
+info,registry,people,SU Shrivastava,a392328e
+info,registry,people,Yash Thakur,4b31f3a3

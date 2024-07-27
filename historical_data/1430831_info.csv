@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,North-West Warriors
+info,team,Leinster Lightning
+info,gender,male
+info,season,2024
+info,date,2024/05/02
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,4
+info,venue,"Pembroke Cricket Club, Sandymount, Dublin"
+info,city,Dublin
+info,toss_winner,North-West Warriors
+info,toss_decision,bat
+info,player_of_match,A Balbirnie
+info,umpire,Aidan Seaver
+info,umpire,M Hawthorne
+info,reserve_umpire,W Mohammed
+info,match_referee,G McCrea
+info,winner,Leinster Lightning
+info,winner_wickets,8
+info,player,Leinster Lightning,A Balbirnie
+info,player,Leinster Lightning,TH Tector
+info,player,Leinster Lightning,L Tucker
+info,player,Leinster Lightning,HT Tector
+info,player,Leinster Lightning,SJ Harbinson
+info,player,Leinster Lightning,GH Dockrell
+info,player,Leinster Lightning,S Lynch
+info,player,Leinster Lightning,BJ McCarthy
+info,player,Leinster Lightning,F Hand
+info,player,Leinster Lightning,A Sidhu
+info,player,Leinster Lightning,O Riley
+info,player,North-West Warriors,ST Doheny
+info,player,North-West Warriors,LC Doherty
+info,player,North-West Warriors,J Wilson
+info,player,North-West Warriors,K Hilton
+info,player,North-West Warriors,SC Getkate
+info,player,North-West Warriors,AR McBrine
+info,player,North-West Warriors,SJ MacBeth
+info,player,North-West Warriors,GI Hume
+info,player,North-West Warriors,R MacBeth
+info,player,North-West Warriors,CA Young
+info,player,North-West Warriors,T McKeegan
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,A Sidhu,69b1224b
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Wilson,20f9e6b1
+info,registry,people,K Hilton,9339830a
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,LC Doherty,6d5fceb7
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,O Riley,92e3e61e
+info,registry,people,R MacBeth,b4402d8a
+info,registry,people,S Lynch,5ffe6225
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,SJ Harbinson,ccc17282
+info,registry,people,SJ MacBeth,5d4338a2
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,T McKeegan,2052d6f4
+info,registry,people,TH Tector,0348f9a5
+info,registry,people,W Mohammed,0a3e73a5

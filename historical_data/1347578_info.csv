@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Hampshire
+info,gender,male
+info,season,2023
+info,date,2023/05/26
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,BV Taylor
+info,umpire,Mark Newell
+info,match_referee,DE Malcolm
+info,winner,Hampshire
+info,winner_wickets,8
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,TE Albert
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,CP Wood
+info,player,Hampshire,MS Crane
+info,registry,people,BC Cullen,39180894
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,BV Taylor,99760152
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DE Malcolm,29c7ca03
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N Fernandes,01561e94
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TE Albert,a6c17509
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TJ Prest,0207ff32

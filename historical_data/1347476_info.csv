@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Southern Vipers
+info,team,The Blaze
+info,gender,female
+info,season,2023
+info,date,2023/05/29
+info,event,Charlotte Edwards Cup
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,The Blaze
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,S Widdup
+info,match_referee,AJ Swann
+info,winner,The Blaze
+info,winner_wickets,5
+info,player,Southern Vipers,ME Bouchier
+info,player,Southern Vipers,DN Wyatt
+info,player,Southern Vipers,N Faltum
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,FG Kemp
+info,player,Southern Vipers,GA Elwiss
+info,player,Southern Vipers,E Windsor
+info,player,Southern Vipers,AZ Monaghan
+info,player,Southern Vipers,LCN Smith
+info,player,Southern Vipers,MLL Taylor
+info,player,Southern Vipers,A Shrubsole
+info,player,The Blaze,M Kelly
+info,player,The Blaze,TT Beaumont
+info,player,The Blaze,GEB Boyce
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,N de Klerk
+info,player,The Blaze,S Munro
+info,player,The Blaze,J Groves
+info,player,The Blaze,LF Higham
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,G Ballinger
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,G Ballinger,2f485713
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GEB Boyce,5b1f15fc
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Groves,11ff23e3
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Gordon,00823a96
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,N Faltum,9a56c670
+info,registry,people,N de Klerk,ea544967
+info,registry,people,S Munro,b4e026de
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,TT Beaumont,b2664905

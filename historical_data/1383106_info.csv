@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,China
+info,gender,male
+info,season,2023
+info,date,2023/07/30
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,6
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Bhutan
+info,toss_decision,bat
+info,player_of_match,S Pradhan
+info,umpire,V Kalidas
+info,umpire,VG Rathi
+info,reserve_umpire,Ramasamy Venkatesh
+info,match_referee,JM Pereira
+info,winner,Bhutan
+info,winner_runs,95
+info,method,D/L
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,K Ghalley
+info,player,Bhutan,S Loday
+info,player,Bhutan,Tashi Phuntsho
+info,player,Bhutan,S Chophel
+info,player,Bhutan,Karma Dorji
+info,player,Bhutan,A Mongar
+info,player,China,Wei Guo Lei
+info,player,China,Wang Liuyang
+info,player,China,Zhuang Zelin
+info,player,China,Xie Kunkun
+info,player,China,Tian Sen Qun
+info,player,China,Chen Zhuo Yue
+info,player,China,Wang Qi
+info,player,China,Deng Jinqi
+info,player,China,Zong Yuechao
+info,player,China,Ma Qiancheng
+info,player,China,Luo Shilin
+info,registry,people,A Mongar,940255af
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,Deng Jinqi,871cf744
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Ghalley,55d07946
+info,registry,people,Karma Dorji,80058153
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Chophel,45f4af74
+info,registry,people,S Loday,448dab1a
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tashi Phuntsho,43d365ca
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Wang Liuyang,f3c217a9
+info,registry,people,Wang Qi,12c9c558
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Xie Kunkun,1ebfbbe4
+info,registry,people,Zhuang Zelin,a03ee6e1
+info,registry,people,Zong Yuechao,f5932ad2

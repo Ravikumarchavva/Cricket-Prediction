@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gujarat
+info,team,Goa
+info,gender,male
+info,season,2023/24
+info,date,2023/10/19
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Gujarat
+info,toss_decision,bat
+info,umpire,UV Gandhe
+info,umpire,Vinod Seshan
+info,match_referee,R Seth
+info,winner,Gujarat
+info,winner_runs,15
+info,player,Gujarat,Urvil Patel
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,Aarya Desai
+info,player,Gujarat,UR Kumar
+info,player,Gujarat,Saurav Chauhan
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,RV Patel
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,Chintan Gaja
+info,player,Gujarat,Ravi Bishnoi
+info,player,Gujarat,SN Patel
+info,player,Gujarat,A Nagwaswalla
+info,player,Goa,SP Tari
+info,player,Goa,Ishaan Gadekar
+info,player,Goa,RA Tripathi
+info,player,Goa,Krishnamurthy Siddharth
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,Darshan Misal
+info,player,Goa,TT Sawkar
+info,player,Goa,MS Redkar
+info,player,Goa,Lakshay Garg
+info,player,Goa,Arjun Tendulkar
+info,player,Goa,VK Singh
+info,registry,people,A Nagwaswalla,01ada0ed
+info,registry,people,Aarya Desai,8053c798
+info,registry,people,Arjun Tendulkar,44aac2f0
+info,registry,people,Chintan Gaja,63bfb5fc
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Ishaan Gadekar,e3751ee2
+info,registry,people,Krishnamurthy Siddharth,330bc788
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,MS Redkar,f64c8577
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,R Seth,540a44ba
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RV Patel,60500956
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SN Patel,f0f0f668
+info,registry,people,SP Tari,1f1056c4
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Saurav Chauhan,9e7225b0
+info,registry,people,TT Sawkar,276b64d4
+info,registry,people,UR Kumar,2fda74a2
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,VK Singh,0fe0cb24
+info,registry,people,Vinod Seshan,a3357a27

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2023/24
+info,date,2024/01/22
+info,event,SA20
+info,match_number,15
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,OEG Baartman
+info,umpire,PJ Vosloo
+info,umpire,Stephen Harris
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,A Jacobs
+info,match_referee,GH Pienaar
+info,winner,Sunrisers Eastern Cape
+info,winner_wickets,9
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,DM Dupavillon
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,OEG Baartman
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,CA Ingram,c995d726
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Verreynne,bf814547
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SR Harmer,23638956
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1

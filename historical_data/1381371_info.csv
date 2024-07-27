@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Washington Freedom
+info,team,San Francisco Unicorns
+info,gender,male
+info,season,2023
+info,date,2023/07/22
+info,event,Major League Cricket
+info,match_number,11
+info,venue,"Church Street Park, Morrisville"
+info,city,Morrisville
+info,toss_winner,San Francisco Unicorns
+info,toss_decision,field
+info,player_of_match,SN Netravalkar
+info,umpire,P Wilson
+info,umpire,R Samuels
+info,reserve_umpire,C Edwards
+info,tv_umpire,Jermaine Lindo
+info,match_referee,SJA Taufel
+info,winner,Washington Freedom
+info,winner_runs,30
+info,player,Washington Freedom,MW Short
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,GD Phillips
+info,player,Washington Freedom,MC Henriques
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,AJ Hosein
+info,player,Washington Freedom,M Jansen
+info,player,Washington Freedom,DL Piedt
+info,player,Washington Freedom,SN Netravalkar
+info,player,Washington Freedom,A Nortje
+info,player,San Francisco Unicorns,FH Allen
+info,player,San Francisco Unicorns,MS Wade
+info,player,San Francisco Unicorns,MP Stoinis
+info,player,San Francisco Unicorns,Shadab Khan
+info,player,San Francisco Unicorns,CJ Anderson
+info,player,San Francisco Unicorns,AJ Finch
+info,player,San Francisco Unicorns,Tajinder Singh
+info,player,San Francisco Unicorns,Chaitanya Bishnoi
+info,player,San Francisco Unicorns,LE Plunkett
+info,player,San Francisco Unicorns,Haris Rauf
+info,player,San Francisco Unicorns,C le Roux
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Finch,b8d490fd
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,C Edwards,a072f223
+info,registry,people,C le Roux,7a490dec
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,Chaitanya Bishnoi,e793a8ed
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,P Wilson,68304a36
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Tajinder Singh,f9d99806

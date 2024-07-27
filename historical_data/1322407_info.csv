@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tasmania
+info,team,New South Wales
+info,gender,male
+info,season,2022/23
+info,date,2022/11/12
+info,date,2022/11/13
+info,date,2022/11/14
+info,date,2022/11/15
+info,event,Sheffield Shield
+info,match_number,12
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,New South Wales
+info,toss_decision,field
+info,player_of_match,MS Wade
+info,umpire,DM Koch
+info,umpire,GJ Davidson
+info,match_referee,David Johnston
+info,outcome,draw
+info,player,Tasmania,TP Ward
+info,player,Tasmania,CP Jewell
+info,player,Tasmania,JR Doran
+info,player,Tasmania,BR McDermott
+info,player,Tasmania,JC Silk
+info,player,Tasmania,MS Wade
+info,player,Tasmania,BJ Webster
+info,player,Tasmania,JA Freeman
+info,player,Tasmania,JM Bird
+info,player,Tasmania,PM Siddle
+info,player,Tasmania,RP Meredith
+info,player,New South Wales,B Nikitaras
+info,player,New South Wales,R Hackney
+info,player,New South Wales,KR Patterson
+info,player,New South Wales,JJS Sangha
+info,player,New South Wales,MC Henriques
+info,player,New South Wales,M Gilkes
+info,player,New South Wales,SA Abbott
+info,player,New South Wales,BJ Holt
+info,player,New South Wales,BJ Dwarshuis
+info,player,New South Wales,CP Tremain
+info,player,New South Wales,LC Hatcher
+info,registry,people,B Nikitaras,d4e39566
+info,registry,people,BJ Dwarshuis,e1b9f3a9
+info,registry,people,BJ Holt,f05d1564
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,CP Tremain,96824e68
+info,registry,people,DM Koch,6d10c034
+info,registry,people,David Johnston,92cef862
+info,registry,people,GJ Davidson,31ad5973
+info,registry,people,JA Freeman,912f472c
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JJS Sangha,8e3cb0e9
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JR Doran,9cebb612
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,LC Hatcher,8f3fde65
+info,registry,people,M Gilkes,d85b0f8b
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MS Wade,afa7e784
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,R Hackney,d83448bf
+info,registry,people,RP Meredith,64775749
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,TP Ward,fdd837ba

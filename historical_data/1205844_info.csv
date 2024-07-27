@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Delhi
+info,gender,male
+info,season,2019/20
+info,date,2019/11/22
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Lalbhai Contractor Stadium
+info,city,
+info,toss_winner,Delhi
+info,toss_decision,field
+info,winner,Baroda
+info,winner_runs,1
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Aditya Waghmode
+info,player,Baroda,DJ Hooda
+info,player,Baroda,KH Pandya
+info,player,Baroda,YK Pathan
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,NA Rathva
+info,player,Baroda,A Sheth
+info,player,Baroda,RT Arothe
+info,player,Baroda,BA Pathan
+info,player,Delhi,Simarjeet Singh
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,Varun Sood
+info,player,Delhi,N Rana
+info,player,Delhi,Pranshu Vijayran
+info,player,Delhi,Hiten Dalal
+info,player,Delhi,Kunwar Bidhuri
+info,player,Delhi,Anuj Rawat
+info,player,Delhi,DR Shorey
+info,player,Delhi,Himmat Singh
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,Aditya Waghmode,eb67df8f
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,BA Pathan,870e4cec
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DR Shorey,faa7365d
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,Hiten Dalal,74bace71
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,Kunwar Bidhuri,9ffe4bfe
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,Pranshu Vijayran,f0380005
+info,registry,people,RT Arothe,50455929
+info,registry,people,Simarjeet Singh,30df8c66
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Varun Sood,23639793
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,YK Pathan,3c6ffae8

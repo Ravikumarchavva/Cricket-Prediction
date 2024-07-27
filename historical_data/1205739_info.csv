@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Puducherry
+info,team,Meghalaya
+info,gender,male
+info,season,2019/20
+info,date,2019/11/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Wankhede Stadium
+info,city,
+info,toss_winner,Meghalaya
+info,toss_decision,field
+info,winner,Puducherry
+info,winner_runs,19
+info,player,Puducherry,KB Arun Karthik
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,P Dogra
+info,player,Puducherry,Subramanian Anand
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,R Vinay Kumar
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,Suresh Kumar
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,A Aravinddaraj
+info,player,Puducherry,Ashith Rajiv
+info,player,Meghalaya,Abhay Negi
+info,player,Meghalaya,Mark Ingty
+info,player,Meghalaya,R Sanjay Yadav
+info,player,Meghalaya,Kilco R Marak
+info,player,Meghalaya,Amiangshu Sen
+info,player,Meghalaya,A Singhania
+info,player,Meghalaya,RR Biswa
+info,player,Meghalaya,Rajesh Tati
+info,player,Meghalaya,Punit Bisht
+info,player,Meghalaya,DB Ravi Teja
+info,player,Meghalaya,BB Dey
+info,registry,people,A Aravinddaraj,21d38d47
+info,registry,people,A Singhania,791a65ce
+info,registry,people,Abhay Negi,481dd6dc
+info,registry,people,Amiangshu Sen,42046ec9
+info,registry,people,Ashith Rajiv,502056e3
+info,registry,people,BB Dey,427e6670
+info,registry,people,DB Ravi Teja,b720a5d6
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,Kilco R Marak,4da2f572
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,Mark Ingty,6b394eaa
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,Punit Bisht,310bddc0
+info,registry,people,R Sanjay Yadav,33ffc3dd
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,RR Biswa,2df87089
+info,registry,people,Rajesh Tati,af9abd34
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Subramanian Anand,8b470bea
+info,registry,people,Suresh Kumar,177eb92d

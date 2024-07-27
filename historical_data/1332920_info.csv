@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Hyderabad (India)
+info,gender,male
+info,season,2022/23
+info,date,2022/10/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Hyderabad (India)
+info,toss_decision,field
+info,umpire,Mohamad Rafi
+info,umpire,VR Lund
+info,match_referee,P Ranganathan
+info,winner,Punjab
+info,winner_runs,59
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,M Markande
+info,player,Punjab,S Kaul
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Gaurav Chaudhary
+info,player,Punjab,Baltej Singh
+info,player,Hyderabad (India),B Punnaiah
+info,player,Hyderabad (India),Tanmay Agarwal
+info,player,Hyderabad (India),Pragnay Reddy
+info,player,Hyderabad (India),MSR Charan
+info,player,Hyderabad (India),Tilak Varma
+info,player,Hyderabad (India),Ravi Teja
+info,player,Hyderabad (India),Mickil Jaiswal
+info,player,Hyderabad (India),Rahul Buddhi
+info,player,Hyderabad (India),A Prateek Reddy
+info,player,Hyderabad (India),Tanay Thyagarajan
+info,player,Hyderabad (India),CV Milind
+info,player,Hyderabad (India),Rakshan Readdi
+info,registry,people,A Prateek Reddy,22850fa3
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,B Punnaiah,c58fb16b
+info,registry,people,Baltej Singh,0c0ef3fb
+info,registry,people,CV Milind,7b5b6311
+info,registry,people,Gaurav Chaudhary,b05fe3d9
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,MSR Charan,926cd9e5
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Mickil Jaiswal,763abbaf
+info,registry,people,Mohamad Rafi,0479de6b
+info,registry,people,P Ranganathan,2a426535
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Pragnay Reddy,9e29431f
+info,registry,people,Rahul Buddhi,70a9b353
+info,registry,people,Rakshan Readdi,adee5bbd
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,Ravi Teja,5f39537c
+info,registry,people,S Kaul,dcf81436
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,Tanay Thyagarajan,f1809c03
+info,registry,people,Tanmay Agarwal,e6e9b619
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VR Lund,4aef038f

@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Wellington Firebirds
+info,gender,male
+info,season,2015/16
+info,date,2015/10/23
+info,date,2015/10/24
+info,date,2015/10/25
+info,date,2015/10/26
+info,event,Plunket Shield
+info,venue,"Saxton Oval, Nelson"
+info,city,Nelson
+info,toss_winner,Wellington Firebirds
+info,toss_decision,field
+info,umpire,A Mehrotra
+info,umpire,PD Jones
+info,winner,Wellington Firebirds
+info,winner_wickets,5
+info,player,Central Stags,DS Robinson
+info,player,Central Stags,BS Smith
+info,player,Central Stags,GR Hay
+info,player,Central Stags,GH Worker
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,CFK van Wyk
+info,player,Central Stags,JA Clarkson
+info,player,Central Stags,SHA Rance
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,AW Mathieson
+info,player,Wellington Firebirds,MHW Papps
+info,player,Wellington Firebirds,LJ Woodcock
+info,player,Wellington Firebirds,SJ Murdoch
+info,player,Wellington Firebirds,Craig Cachopa
+info,player,Wellington Firebirds,MA Pollard
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,MJ Taylor
+info,player,Wellington Firebirds,JS Patel
+info,player,Wellington Firebirds,MB McEwan
+info,player,Wellington Firebirds,DS Hutchinson
+info,player,Wellington Firebirds,BJ Arnel
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,AW Mathieson,c661789d
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BS Smith,556df4f9
+info,registry,people,CFK van Wyk,24fd039c
+info,registry,people,Craig Cachopa,af294a6c
+info,registry,people,DS Hutchinson,13161e28
+info,registry,people,DS Robinson,0ec02f03
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JS Patel,f5821615
+info,registry,people,LJ Woodcock,9ba59a3c
+info,registry,people,MA Pollard,d3b84c59
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,MHW Papps,6c1beb66
+info,registry,people,MJ Taylor,87617f7a
+info,registry,people,PD Jones,169be239
+info,registry,people,SHA Rance,69c994e4
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TC Bruce,f92c9151

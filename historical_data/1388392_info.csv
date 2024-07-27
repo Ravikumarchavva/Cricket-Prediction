@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Nepal
+info,gender,male
+info,season,2023
+info,date,2023/08/30
+info,event,Asia Cup
+info,match_number,1
+info,venue,Multan Cricket Stadium
+info,city,Multan
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Babar Azam
+info,umpire,CB Gaffaney
+info,umpire,Masudur Rahman
+info,reserve_umpire,Ahmed Shah Pakteen
+info,tv_umpire,L Rusere
+info,match_referee,DC Boon
+info,winner,Pakistan
+info,winner_runs,238
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,RK Paudel
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,DS Airee
+info,player,Nepal,Kushal Malla
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Karan KC
+info,player,Nepal,LN Rajbanshi
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Sompal Kami,1adb8ee8

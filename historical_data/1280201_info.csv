@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chhattisgarh
+info,team,Bengal
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"ACA Stadium, Barsapara"
+info,city,
+info,toss_winner,Bengal
+info,toss_decision,field
+info,winner,Bengal
+info,winner_wickets,7
+info,player,Chhattisgarh,AA Herwadkar
+info,player,Chhattisgarh,Shashank Chandrakar
+info,player,Chhattisgarh,Rishabh Tiwari
+info,player,Chhattisgarh,Amandeep Khare
+info,player,Chhattisgarh,Shashank Singh
+info,player,Chhattisgarh,Vishal Kushwah
+info,player,Chhattisgarh,Ajay Mandal
+info,player,Chhattisgarh,V Pratap Singh
+info,player,Chhattisgarh,Sourabh Majumdar
+info,player,Chhattisgarh,Ravi Kiran
+info,player,Chhattisgarh,Sumit Ruikar
+info,player,Bengal,IC Porel
+info,player,Bengal,Mukesh Kumar
+info,player,Bengal,Writtick Chatterjee
+info,player,Bengal,Akash Deep
+info,player,Bengal,Shahbaz Ahmed
+info,player,Bengal,Karan Lal
+info,player,Bengal,Abhisek Das
+info,player,Bengal,Sudip Chatterjee
+info,player,Bengal,WP Saha
+info,player,Bengal,Kaif Ahmad
+info,player,Bengal,Ritwik Roy Chowdhury
+info,registry,people,AA Herwadkar,4ed49d3d
+info,registry,people,Abhisek Das,f4cd319e
+info,registry,people,Ajay Mandal,31ee319e
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Amandeep Khare,6c6cc94c
+info,registry,people,IC Porel,fdf7491e
+info,registry,people,Kaif Ahmad,7b09e19c
+info,registry,people,Karan Lal,72147266
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,Ravi Kiran,0ff9728b
+info,registry,people,Rishabh Tiwari,bd74f1a7
+info,registry,people,Ritwik Roy Chowdhury,6033d30a
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Shashank Chandrakar,9c20688d
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Sourabh Majumdar,30225730
+info,registry,people,Sudip Chatterjee,0cb8626f
+info,registry,people,Sumit Ruikar,f4ef0fd7
+info,registry,people,V Pratap Singh,d718440b
+info,registry,people,Vishal Kushwah,cc8531c2
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,Writtick Chatterjee,a00e1842

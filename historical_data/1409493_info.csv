@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Canterbury
+info,gender,male
+info,season,2023/24
+info,date,2024/01/11
+info,event,Super Smash
+info,match_number,20
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,player_of_match,TB Robinson
+info,umpire,JM Dempsey
+info,umpire,TJ Parlane
+info,reserve_umpire,DJ Henderson
+info,tv_umpire,C High
+info,match_referee,GAV Baxter
+info,winner,Wellington
+info,winner_runs,21
+info,player,Wellington,TB Robinson
+info,player,Wellington,NA Greenwood
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,MG Bracewell
+info,player,Wellington,CR McLachlan
+info,player,Wellington,NG Smith
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,IG McPeake
+info,player,Wellington,MW Snedden
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,BJ Jacobs
+info,player,Canterbury,MJG Rippon
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,W O'Rourke
+info,player,Canterbury,FW Sheat
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,C High,ed55e0da
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,DJ Henderson,76e3c08f
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,ZGF Foulkes,30f92334

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chhattisgarh
+info,team,Mumbai
+info,gender,male
+info,season,2021/22
+info,date,2021/11/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Nehru Stadium
+info,city,
+info,toss_winner,Chhattisgarh
+info,toss_decision,bat
+info,winner,Chhattisgarh
+info,winner_runs,1
+info,player,Chhattisgarh,AA Herwadkar
+info,player,Chhattisgarh,Shashank Chandrakar
+info,player,Chhattisgarh,Sanjeet Desai
+info,player,Chhattisgarh,Amandeep Khare
+info,player,Chhattisgarh,Shashank Singh
+info,player,Chhattisgarh,Ajay Mandal
+info,player,Chhattisgarh,Aishwary Mourya
+info,player,Chhattisgarh,SS Agarwal
+info,player,Chhattisgarh,Sourabh Majumdar
+info,player,Chhattisgarh,Ravi Kiran
+info,player,Chhattisgarh,Sumit Ruikar
+info,player,Mumbai,SD Lad
+info,player,Mumbai,Mohit Avasthi
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,Tanush Kotian
+info,player,Mumbai,S Dube
+info,player,Mumbai,Atharva Ankolekar
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,AP Tare
+info,player,Mumbai,Aman Hakim Khan
+info,registry,people,AA Herwadkar,4ed49d3d
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AP Tare,855a210c
+info,registry,people,Aishwary Mourya,ea3a41e0
+info,registry,people,Ajay Mandal,31ee319e
+info,registry,people,Aman Hakim Khan,378daa89
+info,registry,people,Amandeep Khare,6c6cc94c
+info,registry,people,Atharva Ankolekar,d6cd318e
+info,registry,people,Mohit Avasthi,7e83cef2
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,Ravi Kiran,0ff9728b
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SD Lad,9601c534
+info,registry,people,SS Agarwal,b51f72a5
+info,registry,people,Sanjeet Desai,9b0d5e52
+info,registry,people,Shashank Chandrakar,9c20688d
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Sourabh Majumdar,30225730
+info,registry,people,Sumit Ruikar,f4ef0fd7
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tanush Kotian,5724e517
+info,registry,people,YBK Jaiswal,6c19c6e5

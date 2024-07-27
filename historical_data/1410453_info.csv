@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Essex
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,BJ Peverall
+info,umpire,Rob White
+info,match_referee,SG Hinks
+info,winner,Glamorgan
+info,winner_runs,26
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,BI Kellaway
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,CB Sole
+info,player,Essex,AM Rossington
+info,player,Essex,D Elgar
+info,player,Essex,MS Pepper
+info,player,Essex,RJ Das
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,CWJ Allison
+info,player,Essex,SR Harmer
+info,player,Essex,LM Benkenstein
+info,player,Essex,BMJ Allison
+info,player,Essex,Aaron Beard
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BI Kellaway,eafe8a94
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CB Sole,469ccead
+info,registry,people,CWJ Allison,42ee1d76
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RJ Das,734344b3
+info,registry,people,Rob White,59b91222
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SR Harmer,23638956
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,WT Smale,97da28bd

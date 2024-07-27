@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Zimbabwe
+info,gender,male
+info,season,2002/03
+info,date,2003/04/07
+info,event,Cherry Blossom Sharjah Cup
+info,match_number,5
+info,venue,Sharjah Cricket Association Stadium
+info,city,Sharjah
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,GW Flower
+info,umpire,AV Jayaprakash
+info,umpire,BR Doctrove
+info,tv_umpire,KC Barbour
+info,match_referee,AM Ebrahim
+info,winner,Zimbabwe
+info,winner_wickets,4
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,DA Gunawardene
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,KS Lokuarachchi
+info,player,Sri Lanka,HDPK Dharmasena
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,TCB Fernando
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,RAP Nissanka
+info,player,Zimbabwe,CB Wishart
+info,player,Zimbabwe,DA Marillier
+info,player,Zimbabwe,GJ Rennie
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,DT Hondo
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,AM Ebrahim,814fafa7
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CB Wishart,8319b9ea
+info,registry,people,DA Gunawardene,cff25ee1
+info,registry,people,DA Marillier,656202a7
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,GJ Rennie,b863eae9
+info,registry,people,GW Flower,348195ea
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HH Streak,37f501d7
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,KC Barbour,4359f89a
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KS Lokuarachchi,3b50c63a
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,RAP Nissanka,6cc006ef
+info,registry,people,RW Price,67af6f81
+info,registry,people,SM Ervine,556302a7
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,T Taibu,75de770f
+info,registry,people,TCB Fernando,717e803a

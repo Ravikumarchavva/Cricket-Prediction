@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karachi Kings
+info,team,Lahore Qalandars
+info,gender,male
+info,season,2022/23
+info,date,2023/02/19
+info,event,Pakistan Super League
+info,match_number,8
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Lahore Qalandars
+info,toss_decision,field
+info,player_of_match,Imad Wasim
+info,umpire,Ahsan Raza
+info,umpire,AG Wharf
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,RS Mahanama
+info,winner,Karachi Kings
+info,winner_runs,67
+info,player,Karachi Kings,MS Wade
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Haider Ali
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Imad Wasim
+info,player,Karachi Kings,BCJ Cutting
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,Aamer Yamin
+info,player,Karachi Kings,Mohammad Amir
+info,player,Karachi Kings,Imran Tahir
+info,player,Karachi Kings,Akif Javed
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,Mirza Baig
+info,player,Lahore Qalandars,SD Hope
+info,player,Lahore Qalandars,Kamran Ghulam
+info,player,Lahore Qalandars,Hussain Talat
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,D Wiese
+info,player,Lahore Qalandars,LA Dawson
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,Haris Rauf
+info,player,Lahore Qalandars,Zaman Khan
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Aamer Yamin,907d6e58
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Akif Javed,99d7d5b7
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hussain Talat,bb4b445b
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Kamran Ghulam,35f4cf7e
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mirza Baig,96ce6752
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Zaman Khan,28392e11

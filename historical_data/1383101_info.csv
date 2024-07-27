@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,China
+info,team,Malaysia
+info,gender,male
+info,season,2023
+info,date,2023/07/26
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,1
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,China
+info,toss_decision,bat
+info,player_of_match,Syazrul Idrus
+info,umpire,Ramasamy Venkatesh
+info,umpire,VG Rathi
+info,reserve_umpire,V Kalidas
+info,match_referee,JM Pereira
+info,winner,Malaysia
+info,winner_wickets,8
+info,player,China,Wei Guo Lei
+info,player,China,Wang Liuyang
+info,player,China,Zhuang Zelin
+info,player,China,Tian Sen Qun
+info,player,China,Chen Zhuo Yue
+info,player,China,Wang Qi
+info,player,China,Xie Kunkun
+info,player,China,Yin Chenhao
+info,player,China,Ma Qiancheng
+info,player,China,Zhao Tianle
+info,player,China,Luo Shilin
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Sharveen Surendran
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Ahmed Faiz
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Sharveen Surendran,aa3a7285
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Wang Liuyang,f3c217a9
+info,registry,people,Wang Qi,12c9c558
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Xie Kunkun,1ebfbbe4
+info,registry,people,Yin Chenhao,68408eff
+info,registry,people,Zhao Tianle,023c40b8
+info,registry,people,Zhuang Zelin,a03ee6e1
+info,registry,people,Zubaidi Zulkifle,dca8273d

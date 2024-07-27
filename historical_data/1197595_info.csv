@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Central Stags
+info,gender,male
+info,season,2019/20
+info,date,2020/03/10
+info,date,2020/03/11
+info,date,2020/03/12
+info,date,2020/03/13
+info,event,Plunket Shield
+info,venue,University of Otago Oval
+info,city,
+info,toss_winner,Otago Volts
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,SB Haig
+info,match_referee,GAV Baxter
+info,winner,Otago Volts
+info,winner_wickets,3
+info,player,Otago Volts,AK Kitchen
+info,player,Otago Volts,CT Hawkins
+info,player,Otago Volts,M Renwick
+info,player,Otago Volts,NF Kelly
+info,player,Otago Volts,D Foxcroft
+info,player,Otago Volts,MJG Rippon
+info,player,Otago Volts,NG Smith
+info,player,Otago Volts,DN Phillips
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,MB Bacon
+info,player,Otago Volts,MD Rae
+info,player,Central Stags,GR Hay
+info,player,Central Stags,GH Worker
+info,player,Central Stags,WA Young
+info,player,Central Stags,BS Smith
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,WC Ludick
+info,player,Central Stags,BM Wheeler
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BM Tickner
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BM Wheeler,397f4d3a
+info,registry,people,BS Smith,556df4f9
+info,registry,people,CT Hawkins,59013e14
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MB Bacon,90701232
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,SB Haig,811655b3
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WC Ludick,2a802bfd

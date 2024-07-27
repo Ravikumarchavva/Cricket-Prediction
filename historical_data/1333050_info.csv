@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vidarbha
+info,team,Delhi
+info,gender,male
+info,season,2022/23
+info,date,2022/11/01
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Jadavpur University Campus 2nd Ground, Kolkata"
+info,city,Kolkata
+info,toss_winner,Delhi
+info,toss_decision,field
+info,umpire,Chirra Ravikanthreddy
+info,umpire,J Madanagopal
+info,match_referee,DS Manohar
+info,winner,Vidarbha
+info,winner_runs,1
+info,player,Vidarbha,Harsh Dubey
+info,player,Vidarbha,Atharva Taide
+info,player,Vidarbha,Sanjay Raghunath
+info,player,Vidarbha,Akshay Wadkar
+info,player,Vidarbha,AV Wankhade
+info,player,Vidarbha,JM Sharma
+info,player,Vidarbha,SB Dubey
+info,player,Vidarbha,Akshay Karnewar
+info,player,Vidarbha,AA Sarwate
+info,player,Vidarbha,DG Nalkande
+info,player,Vidarbha,UT Yadav
+info,player,Vidarbha,Yash Thakur
+info,player,Delhi,Navdeep Saini
+info,player,Delhi,Himmat Singh
+info,player,Delhi,S Dhawan
+info,player,Delhi,YV Dhull
+info,player,Delhi,N Rana
+info,player,Delhi,A Badoni
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,L Thareja
+info,player,Delhi,Shivank Vashisth
+info,player,Delhi,I Sharma
+info,player,Delhi,K Khejroliya
+info,player,Delhi,MP Yadav
+info,registry,people,A Badoni,872b03f7
+info,registry,people,AA Sarwate,8996a9a0
+info,registry,people,AV Wankhade,5708d0b6
+info,registry,people,Akshay Karnewar,e1e7f950
+info,registry,people,Akshay Wadkar,c88c8a7d
+info,registry,people,Atharva Taide,1ac746c8
+info,registry,people,Chirra Ravikanthreddy,8b680f55
+info,registry,people,DG Nalkande,cd8d2859
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,Harsh Dubey,25228673
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,K Khejroliya,fa2f1dde
+info,registry,people,L Thareja,f38fcf70
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,MP Yadav,b1ad996b
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SB Dubey,6b2ff18f
+info,registry,people,Sanjay Raghunath,a717c88e
+info,registry,people,Shivank Vashisth,3a922344
+info,registry,people,UT Yadav,cc1e8c68
+info,registry,people,YV Dhull,dd7e9b3b
+info,registry,people,Yash Thakur,4b31f3a3

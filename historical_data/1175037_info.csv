@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Railways
+info,team,Gujarat
+info,gender,male
+info,season,2018/19
+info,date,2019/03/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Railways
+info,toss_decision,bat
+info,winner,Gujarat
+info,winner_wickets,7
+info,player,Railways,Mrunal Devdhar
+info,player,Railways,Pratham Singh
+info,player,Railways,Gandhar Bhatawadekar
+info,player,Railways,Amit Chopra
+info,player,Railways,Prashant Awasthi
+info,player,Railways,AG Paunikar
+info,player,Railways,Anureet Singh
+info,player,Railways,Harsh Tyagi
+info,player,Railways,Amit Mishra
+info,player,Railways,Manjeet Singh
+info,player,Railways,Ambikeshwar Mishra
+info,player,Gujarat,A Nagwaswalla
+info,player,Gujarat,Tejas Patel
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,Karan Patel
+info,player,Gujarat,Hemang Patel
+info,player,Gujarat,AR Patel
+info,player,Gujarat,PA Patel
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,Piyush Tanwar
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,KB Panchal
+info,registry,people,A Nagwaswalla,01ada0ed
+info,registry,people,AG Paunikar,3a02626a
+info,registry,people,AR Patel,2e171977
+info,registry,people,Ambikeshwar Mishra,e1e6299a
+info,registry,people,Amit Chopra,cc36706f
+info,registry,people,Amit Mishra,1d8388eb
+info,registry,people,Anureet Singh,69be866a
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,Gandhar Bhatawadekar,80beeaa1
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,Hemang Patel,59c8c5b5
+info,registry,people,KB Panchal,eae999f9
+info,registry,people,Karan Patel,a18da10f
+info,registry,people,Manjeet Singh,c2c97df0
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Piyush Tanwar,9c53babc
+info,registry,people,Prashant Awasthi,bbbc7d28
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,Tejas Patel,76ed445f

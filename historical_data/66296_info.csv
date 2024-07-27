@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Zimbabwe
+info,gender,male
+info,season,2003
+info,date,2003/07/01
+info,event,NatWest Series
+info,match_number,4
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,umpire,DR Shepherd
+info,umpire,SJA Taufel
+info,tv_umpire,JW Lloyds
+info,match_referee,CH Lloyd
+info,outcome,no result
+info,player,England,ME Trescothick
+info,player,England,VS Solanki
+info,player,England,CMW Read
+info,player,England,MP Vaughan
+info,player,England,A Flintoff
+info,player,England,A McGrath
+info,player,England,JO Troughton
+info,player,England,Kabir Ali
+info,player,England,JM Anderson
+info,player,England,RL Johnson
+info,player,England,D Gough
+info,player,Zimbabwe,DA Marillier
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,S Matsikenyeri
+info,player,Zimbabwe,TJ Friend
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,DT Hondo
+info,player,Zimbabwe,GB Brent
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,A McGrath,e8b5ea8d
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CMW Read,be4cefab
+info,registry,people,D Gough,fcbf5a30
+info,registry,people,DA Marillier,656202a7
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,GB Brent,da785bf8
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Streak,37f501d7
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JO Troughton,af2cc80a
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,Kabir Ali,60dd8960
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,RL Johnson,3967930c
+info,registry,people,S Matsikenyeri,e7ba1233
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Ervine,556302a7
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f
+info,registry,people,VS Solanki,7ee2ce62

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karachi Kings
+info,team,Islamabad United
+info,gender,male
+info,season,2023/24
+info,date,2024/03/07
+info,event,Pakistan Super League
+info,match_number,24
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Islamabad United
+info,toss_decision,field
+info,player_of_match,Faheem Ashraf
+info,umpire,AG Wharf
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Mohammad Asif
+info,tv_umpire,Ahsan Raza
+info,match_referee,RS Mahanama
+info,winner,Islamabad United
+info,winner_wickets,5
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,TL Seifert
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Mohammad Nawaz
+info,player,Karachi Kings,KA Pollard
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,Mir Hamza
+info,player,Karachi Kings,Zahid Mahmood
+info,player,Karachi Kings,B Muzarabani
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,Agha Salman
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,Haider Ali
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Imad Wasim
+info,player,Islamabad United,MW Forde
+info,player,Islamabad United,Hunain Shah
+info,player,Islamabad United,TS Mills
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,C Munro,af2c687b
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Hunain Shah,3b8679bf
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,Mohammad Asif,b7b6790a
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TS Mills,245c97cb
+info,registry,people,Zahid Mahmood,ba158afd

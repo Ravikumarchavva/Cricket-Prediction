@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Luxembourg
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,1
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Luxembourg
+info,toss_decision,field
+info,player_of_match,HJ Manenti
+info,umpire,Adeel Ashiq
+info,umpire,J Jensen
+info,reserve_umpire,I McDonald
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_runs,77
+info,player,Italy,J Mosca
+info,player,Italy,Syed Naqvi
+info,player,Italy,JA Burns
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,GP Meade
+info,player,Italy,Zain Ali
+info,player,Italy,GK Berg
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,TJ Draca
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,S Kushretha
+info,player,Luxembourg,M Cope
+info,player,Luxembourg,Milad Momend
+info,player,Luxembourg,A Nanda
+info,registry,people,A Nanda,704e0160
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Mees,ab1445ea
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Cope,c83c594d
+info,registry,people,Milad Momend,84880baf
+info,registry,people,S Kushretha,4e3fd330
+info,registry,people,SKS Gill,faef026c
+info,registry,people,Syed Naqvi,c520c3b9
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,TJ Draca,88fac705
+info,registry,people,V Vijh,b857468a
+info,registry,people,WJ Cope,fb34b0ec
+info,registry,people,Zain Ali,cccac242

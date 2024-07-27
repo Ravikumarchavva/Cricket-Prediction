@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Namibia
+info,gender,male
+info,season,2022/23
+info,date,2023/02/25
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,128
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,M van Lingen
+info,umpire,Bismillah Shinwari
+info,umpire,LE Hannibal
+info,reserve_umpire,Akbar Ali
+info,match_referee,GF Labrooy
+info,winner,Namibia
+info,winner_wickets,7
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,CP Rizwan
+info,player,United Arab Emirates,Chirag Suri
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,RN Bhatia
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Zahoor Khan
+info,player,Namibia,S Fouché
+info,player,Namibia,L Louwrens
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,HN Ya France
+info,player,Namibia,BM Scholtz
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,T Lungameni
+info,player,Namibia,B Shikongo
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CP Rizwan,e5309baa
+info,registry,people,Chirag Suri,6176f240
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,HN Ya France,915264c2
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,L Louwrens,b018e1eb
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RN Bhatia,2eece016
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,ZE Green,8716233e
+info,registry,people,Zahoor Khan,f0e293b0

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lahore Qalandars
+info,team,Karachi Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/03/09
+info,event,Pakistan Super League
+info,match_number,26
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Karachi Kings
+info,toss_decision,field
+info,player_of_match,Irfan Khan
+info,umpire,Rashid Riaz
+info,umpire,RK Illingworth
+info,reserve_umpire,Imran Javed
+info,tv_umpire,Faisal Afridi
+info,match_referee,Ali Naqvi
+info,winner,Karachi Kings
+info,winner_wickets,3
+info,player,Lahore Qalandars,Mirza Baig
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,Abdullah Shafique
+info,player,Lahore Qalandars,SD Hope
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,D Wiese
+info,player,Lahore Qalandars,Ahsan Hafeez
+info,player,Lahore Qalandars,Jahandad Khan
+info,player,Lahore Qalandars,Tayyab Abbas
+info,player,Lahore Qalandars,Zaman Khan
+info,player,Karachi Kings,TL Seifert
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Shan Masood
+info,player,Karachi Kings,KA Pollard
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,Anwar Ali
+info,player,Karachi Kings,Arafat Minhas
+info,player,Karachi Kings,Hasan Ali
+info,player,Karachi Kings,Zahid Mahmood
+info,player,Karachi Kings,B Muzarabani
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Ahsan Hafeez,86229495
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,Arafat Minhas,f2e8b37c
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Imran Javed,9a1405c8
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Jahandad Khan,22d73540
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Mirza Baig,96ce6752
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,Tayyab Abbas,9cdc8c06
+info,registry,people,Zahid Mahmood,ba158afd
+info,registry,people,Zaman Khan,28392e11

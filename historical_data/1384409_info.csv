@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,male
+info,season,2023/24
+info,date,2023/10/20
+info,event,ICC Cricket World Cup
+info,match_number,18
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,DA Warner
+info,umpire,CM Brown
+info,umpire,RK Illingworth
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,MA Gough
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_runs,62
+info,player,Australia,DA Warner
+info,player,Australia,MR Marsh
+info,player,Australia,GJ Maxwell
+info,player,Australia,SPD Smith
+info,player,Australia,MP Stoinis
+info,player,Australia,JP Inglis
+info,player,Australia,M Labuschagne
+info,player,Australia,PJ Cummins
+info,player,Australia,MA Starc
+info,player,Australia,JR Hazlewood
+info,player,Australia,A Zampa
+info,player,Pakistan,Abdullah Shafique
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Saud Shakeel
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Usama Mir
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Hasan Ali
+info,player,Pakistan,Haris Rauf
+info,registry,people,A Zampa,14f96089
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Usama Mir,6dd8b88c

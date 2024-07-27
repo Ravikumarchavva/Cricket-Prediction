@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Dhaka Dominators
+info,gender,male
+info,season,2022/23
+info,date,2023/01/10
+info,event,Bangladesh Premier League
+info,match_number,8
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Dhaka Dominators
+info,toss_decision,field
+info,player_of_match,Towhid Hridoy
+info,umpire,DJ Millns
+info,umpire,Masudur Rahman
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Raqibul Hasan
+info,winner,Sylhet Strikers
+info,winner_runs,62
+info,player,Sylhet Strikers,Mohammad Haris
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,NLTC Perera
+info,player,Sylhet Strikers,Imad Wasim
+info,player,Sylhet Strikers,Akbar Ali
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Sylhet Strikers,Mohammad Amir
+info,player,Dhaka Dominators,EMDY Munaweera
+info,player,Dhaka Dominators,Ahmed Shehzad
+info,player,Dhaka Dominators,Soumya Sarkar
+info,player,Dhaka Dominators,Mohammad Mithun
+info,player,Dhaka Dominators,Nasir Hossain
+info,player,Dhaka Dominators,Usman Ghani
+info,player,Dhaka Dominators,Ariful Haque
+info,player,Dhaka Dominators,Taskin Ahmed
+info,player,Dhaka Dominators,Arafat Sunny
+info,player,Dhaka Dominators,Al-Amin Hossain
+info,player,Dhaka Dominators,Muktar Ali
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Akbar Ali,abae26ad
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,EMDY Munaweera,5a22d91c
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Muktar Ali,4a491652
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nazmul Islam,6575e3bc
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Usman Ghani,e3829b2a
+info,registry,people,Zakir Hasan,e3e09091

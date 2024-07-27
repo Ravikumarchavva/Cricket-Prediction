@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Yorkshire
+info,gender,male
+info,season,2023
+info,date,2023/07/19
+info,date,2023/07/20
+info,date,2023/07/21
+info,date,2023/07/22
+info,event,County Championship
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,James Middlebrook
+info,umpire,PK Baldwin
+info,match_referee,WR Smith
+info,outcome,draw
+info,player,Sussex,C Tear
+info,player,Sussex,TGR Clark
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,JM Coles
+info,player,Sussex,OJ Carter
+info,player,Sussex,D Ibrahim
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,A Karvelas
+info,player,Sussex,HT Crocombe
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,FJ Bean
+info,player,Yorkshire,RD Rickelton
+info,player,Yorkshire,DJ Malan
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,JA Thompson
+info,player,Yorkshire,MD Fisher
+info,player,Yorkshire,BO Coad
+info,player,Yorkshire,MT Steketee
+info,player,Yorkshire,D Moriarty
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,BO Coad,a37b5c0a
+info,registry,people,C Tear,7ffe4817
+info,registry,people,D Ibrahim,457cab44
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,FJ Bean,1e0d4dcb
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,GCH Hill,214f6461
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JA Thompson,1d2f290a
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,MD Fisher,8f2dfebf
+info,registry,people,MT Steketee,903560ed
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,WR Smith,ad962377

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttarakhand
+info,team,Himachal
+info,gender,male
+info,season,2020/21
+info,date,2021/01/16
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Reliance Cricket Stadium
+info,city,
+info,toss_winner,Himachal
+info,toss_decision,field
+info,winner,Himachal
+info,winner_wickets,10
+info,player,Uttarakhand,Jay Bista
+info,player,Uttarakhand,Karanveer Kaushal
+info,player,Uttarakhand,Dikshanshu Negi
+info,player,Uttarakhand,Saurabh Rawat
+info,player,Uttarakhand,Avneesh Sudha
+info,player,Uttarakhand,Kunal Chandela
+info,player,Uttarakhand,Himanshu Bisht
+info,player,Uttarakhand,Iqbal Abdulla
+info,player,Uttarakhand,Nikhil Kohli
+info,player,Uttarakhand,Akash Madhwal
+info,player,Uttarakhand,SM Fallah
+info,player,Himachal,R Dhawan
+info,player,Himachal,VG Arora
+info,player,Himachal,Ayush Jamwal
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,Digvijay Rangi
+info,player,Himachal,Abhimanyu Rana
+info,player,Himachal,P Chopra
+info,player,Himachal,EC Sen
+info,player,Himachal,RI Thakur
+info,player,Himachal,N A Sharma
+info,registry,people,Abhimanyu Rana,c224c5ef
+info,registry,people,Akash Madhwal,4bd09374
+info,registry,people,Avneesh Sudha,126e8cb3
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,Digvijay Rangi,8be38ec4
+info,registry,people,Dikshanshu Negi,1f3febed
+info,registry,people,EC Sen,8a0ae9da
+info,registry,people,Himanshu Bisht,24d163d7
+info,registry,people,Iqbal Abdulla,85aae393
+info,registry,people,Jay Bista,f079e8fe
+info,registry,people,Karanveer Kaushal,9e62632a
+info,registry,people,Kunal Chandela,d38c03d4
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,Nikhil Kohli,17f03e69
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,R Dhawan,26a85969
+info,registry,people,RI Thakur,12ac8ca5
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,Saurabh Rawat,839b6d2e
+info,registry,people,VG Arora,7c3b3b78

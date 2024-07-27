@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/06/21
+info,event,Vitality Blast
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,BJ Peverall
+info,umpire,PK Baldwin
+info,match_referee,JJ Whitaker
+info,winner,Gloucestershire
+info,winner_wickets,5
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,JH Davey
+info,player,Somerset,MJ Leach
+info,player,Somerset,RP Meredith
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,DA Payne
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BGF Green,34b37279
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Payne,6c79c098
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MJ Leach,3987e390
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RP Meredith,64775749
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961

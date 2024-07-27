@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2023
+info,date,2023/08/08
+info,event,One-Day Cup
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,umpire,S Redfern
+info,umpire,Surendiran Shanmugam
+info,match_referee,JJ Whitaker
+info,winner,Nottinghamshire
+info,winner_wickets,4
+info,method,D/L
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,RI Walker
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,J Hull
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,BJR Martindale
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,D Schadendorf
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,BA Hutton
+info,player,Nottinghamshire,TW Loten
+info,player,Nottinghamshire,D Paterson
+info,registry,people,BA Hutton,b3544c5d
+info,registry,people,BJR Martindale,a81cac82
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,CG Harrison,f655d740
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,D Paterson,462d7c62
+info,registry,people,D Schadendorf,ae7d3bc1
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RI Walker,c78a879c
+info,registry,people,RK Patel,4531f249
+info,registry,people,S Redfern,5b038989
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,TW Loten,3b4f3099

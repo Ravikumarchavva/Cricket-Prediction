@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Leicestershire
+info,gender,male
+info,season,2024
+info,date,2024/06/14
+info,event,Vitality Blast
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,PJ Hartley
+info,umpire,S Redfern
+info,match_referee,DA Cosker
+info,winner,Lancashire
+info,winner_runs,25
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,TC Bruce
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,CJ Green
+info,player,Lancashire,L Wood
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,S Mahmood
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,HJ Swindells
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,BWM Mike
+info,player,Leicestershire,LP Goldsworthy
+info,player,Leicestershire,SW Currie
+info,player,Leicestershire,J Hull
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,CJ Green,19b9f399
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,GP Balderson,23dee937
+info,registry,people,HJ Swindells,95fd757d
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,L Wood,65b6943c
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,S Redfern,5b038989
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,TC Bruce,f92c9151

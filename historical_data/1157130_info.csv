@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bihar
+info,team,Tamil Nadu
+info,gender,male
+info,season,2018/19
+info,date,2019/02/24
+info,event,Syed Mushtaq Ali Trophy
+info,venue,C B Patel Ground
+info,city,
+info,toss_winner,Bihar
+info,toss_decision,bat
+info,winner,Tamil Nadu
+info,winner_wickets,6
+info,player,Bihar,Mangal Mahrour
+info,player,Bihar,Piyush Singh
+info,player,Bihar,Babul Kumar
+info,player,Bihar,Asfan Khan
+info,player,Bihar,MD Rahmatullah
+info,player,Bihar,Keshav Kumar
+info,player,Bihar,Prashant Singh
+info,player,Bihar,Samar Quadri
+info,player,Bihar,Vivek Kumar
+info,player,Bihar,Ashutosh Aman
+info,player,Bihar,Vishal Das
+info,player,Tamil Nadu,Abhishek Tanwar
+info,player,Tamil Nadu,R Rohit
+info,player,Tamil Nadu,M Mohammed
+info,player,Tamil Nadu,Washington Sundar
+info,player,Tamil Nadu,M Ashwin
+info,player,Tamil Nadu,R Ashwin
+info,player,Tamil Nadu,NS Chaturved
+info,player,Tamil Nadu,Hari Nishaanth
+info,player,Tamil Nadu,B Indrajith
+info,player,Tamil Nadu,Rajendran Vivek
+info,player,Tamil Nadu,N Jagadeesan
+info,registry,people,Abhishek Tanwar,c8ded7bc
+info,registry,people,Asfan Khan,fc3d382b
+info,registry,people,Ashutosh Aman,4948a916
+info,registry,people,B Indrajith,ff1e68fa
+info,registry,people,Babul Kumar,85e6ccde
+info,registry,people,Hari Nishaanth,c3f37533
+info,registry,people,Keshav Kumar,722ca1f2
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,M Mohammed,1b7c4d69
+info,registry,people,MD Rahmatullah,c10a99ec
+info,registry,people,Mangal Mahrour,97c06e86
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,NS Chaturved,1e295ba7
+info,registry,people,Piyush Singh,afab6988
+info,registry,people,Prashant Singh,5b2a1532
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Rohit,7d8feff2
+info,registry,people,Rajendran Vivek,7509f4bc
+info,registry,people,Samar Quadri,258fa633
+info,registry,people,Vishal Das,e5eb5edf
+info,registry,people,Vivek Kumar,a97c96bf
+info,registry,people,Washington Sundar,f19ccfad

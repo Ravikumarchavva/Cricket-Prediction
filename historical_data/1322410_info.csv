@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Victoria
+info,team,Tasmania
+info,gender,male
+info,season,2022/23
+info,date,2022/11/24
+info,date,2022/11/25
+info,date,2022/11/26
+info,date,2022/11/27
+info,event,Sheffield Shield
+info,match_number,15
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Tasmania
+info,toss_decision,field
+info,player_of_match,JM Bird
+info,umpire,GJ Davidson
+info,umpire,SA Lightbody
+info,match_referee,Kent Hannam
+info,winner,Tasmania
+info,winner_wickets,4
+info,player,Victoria,TJ Dean
+info,player,Victoria,AP Chandrasinghe
+info,player,Victoria,NJ Maddinson
+info,player,Victoria,MW Short
+info,player,Victoria,C Kellaway
+info,player,Victoria,W Sutherland
+info,player,Victoria,SB Harper
+info,player,Victoria,F O'Neill
+info,player,Victoria,SM Elliott
+info,player,Victoria,CL McClure
+info,player,Victoria,JM Holland
+info,player,Tasmania,TP Ward
+info,player,Tasmania,CP Jewell
+info,player,Tasmania,MS Wade
+info,player,Tasmania,BR McDermott
+info,player,Tasmania,JC Silk
+info,player,Tasmania,JR Doran
+info,player,Tasmania,BJ Webster
+info,player,Tasmania,JA Freeman
+info,player,Tasmania,NT Ellis
+info,player,Tasmania,JM Bird
+info,player,Tasmania,PM Siddle
+info,registry,people,AP Chandrasinghe,ae5d2027
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,C Kellaway,60c28835
+info,registry,people,CL McClure,b3267eaa
+info,registry,people,CP Jewell,806c4e58
+info,registry,people,F O'Neill,39d608d4
+info,registry,people,GJ Davidson,31ad5973
+info,registry,people,JA Freeman,912f472c
+info,registry,people,JC Silk,7a6dc294
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JM Holland,70c4f525
+info,registry,people,JR Doran,9cebb612
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Short,a90e53ec
+info,registry,people,NJ Maddinson,44afbf2d
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SM Elliott,00cda8e4
+info,registry,people,TJ Dean,666936de
+info,registry,people,TP Ward,fdd837ba
+info,registry,people,W Sutherland,bc2d4f2e

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,South Africa
+info,gender,male
+info,season,2003
+info,date,2003/07/03
+info,event,NatWest Series
+info,match_number,5
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JH Kallis
+info,umpire,BF Bowden
+info,umpire,NA Mallender
+info,tv_umpire,P Willey
+info,match_referee,CH Lloyd
+info,winner,South Africa
+info,winner_wickets,7
+info,player,England,ME Trescothick
+info,player,England,VS Solanki
+info,player,England,MP Vaughan
+info,player,England,A McGrath
+info,player,England,A Flintoff
+info,player,England,JO Troughton
+info,player,England,CMW Read
+info,player,England,RL Johnson
+info,player,England,AF Giles
+info,player,England,JM Anderson
+info,player,England,D Gough
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,AJ Hall
+info,player,South Africa,JH Kallis
+info,player,South Africa,JA Rudolph
+info,player,South Africa,M van Jaarsveld
+info,player,South Africa,SM Pollock
+info,player,South Africa,N Boje
+info,player,South Africa,MV Boucher
+info,player,South Africa,CK Langeveldt
+info,player,South Africa,M Ntini
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,A McGrath,e8b5ea8d
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CK Langeveldt,d1c94b25
+info,registry,people,CMW Read,be4cefab
+info,registry,people,D Gough,fcbf5a30
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JO Troughton,af2cc80a
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M van Jaarsveld,f407e354
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,P Willey,1b647f99
+info,registry,people,RL Johnson,3967930c
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,VS Solanki,7ee2ce62

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Trinbago Knight Riders
+info,team,Guyana Amazon Warriors
+info,gender,male
+info,season,2023
+info,date,2023/09/16
+info,event,Caribbean Premier League
+info,match_number,28
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,Guyana Amazon Warriors
+info,toss_decision,field
+info,player_of_match,Imran Tahir
+info,umpire,LS Reifer
+info,umpire,N Duguid
+info,reserve_umpire,DK Butler
+info,tv_umpire,CO Wright
+info,match_referee,Reon King
+info,winner,Guyana Amazon Warriors
+info,winner_wickets,6
+info,player,Trinbago Knight Riders,MJ Guptill
+info,player,Trinbago Knight Riders,M Deyal
+info,player,Trinbago Knight Riders,CAK Walton
+info,player,Trinbago Knight Riders,KU Carty
+info,player,Trinbago Knight Riders,KA Pollard
+info,player,Trinbago Knight Riders,K Alleyne
+info,player,Trinbago Knight Riders,AJ Hosein
+info,player,Trinbago Knight Riders,SR Patel
+info,player,Trinbago Knight Riders,T Hinds
+info,player,Trinbago Knight Riders,JC Carmichael
+info,player,Trinbago Knight Riders,JNT Seales
+info,player,Guyana Amazon Warriors,Saim Ayub
+info,player,Guyana Amazon Warriors,OF Smith
+info,player,Guyana Amazon Warriors,SD Hope
+info,player,Guyana Amazon Warriors,SO Hetmyer
+info,player,Guyana Amazon Warriors,Azam Khan
+info,player,Guyana Amazon Warriors,D Pretorius
+info,player,Guyana Amazon Warriors,KMA Paul
+info,player,Guyana Amazon Warriors,R Shepherd
+info,player,Guyana Amazon Warriors,G Motie
+info,player,Guyana Amazon Warriors,Imran Tahir
+info,player,Guyana Amazon Warriors,JA Sinclair
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,CAK Walton,bbff906c
+info,registry,people,CO Wright,a541fc41
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DK Butler,671398e3
+info,registry,people,G Motie,97bdec3d
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Sinclair,43057192
+info,registry,people,JC Carmichael,c8d45843
+info,registry,people,JNT Seales,ded9ff1e
+info,registry,people,K Alleyne,6b07035d
+info,registry,people,KA Anderson,672d7379
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Deyal,7183799b
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,N Duguid,64495506
+info,registry,people,OF Smith,23cca426
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SR Patel,18fac429
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,T Hinds,45a62071

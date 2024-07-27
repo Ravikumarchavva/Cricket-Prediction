@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Zimbabwe
+info,gender,male
+info,season,2002/03
+info,date,2003/03/15
+info,event,ICC World Cup
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,MS Atapattu
+info,umpire,BG Jerling
+info,umpire,RE Koertzen
+info,tv_umpire,S Venkataraghavan
+info,match_referee,CH Lloyd
+info,winner,Sri Lanka
+info,winner_runs,74
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,DA Gunawardene
+info,player,Sri Lanka,PA de Silva
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,PW Gunaratne
+info,player,Zimbabwe,CB Wishart
+info,player,Zimbabwe,DA Marillier
+info,player,Zimbabwe,TJ Friend
+info,player,Zimbabwe,A Flower
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,S Matsikenyeri
+info,player,Zimbabwe,DT Hondo
+info,registry,people,A Flower,35aa26af
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CB Wishart,8319b9ea
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DA Gunawardene,cff25ee1
+info,registry,people,DA Marillier,656202a7
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Streak,37f501d7
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,PA de Silva,34ff9e07
+info,registry,people,PW Gunaratne,27410b17
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,S Matsikenyeri,e7ba1233
+info,registry,people,S Venkataraghavan,12453319
+info,registry,people,SM Ervine,556302a7
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f
+info,registry,people,WPUJC Vaas,bcce309e

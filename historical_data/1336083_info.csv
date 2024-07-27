@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,England
+info,gender,female
+info,season,2023
+info,date,2023/09/09
+info,event,Sri Lanka Women tour of England
+info,match_number,1
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,M Gaur
+info,umpire,James Middlebrook
+info,umpire,S Redfern
+info,reserve_umpire,J Naeem
+info,tv_umpire,AY Harris
+info,match_referee,Phil Whitticase
+info,winner,England
+info,winner_wickets,7
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,I Ranaweera
+info,player,England,EL Lamb
+info,player,England,TT Beaumont
+info,player,England,HC Knight
+info,player,England,ME Bouchier
+info,player,England,NR Sciver-Brunt
+info,player,England,A Capsey
+info,player,England,AE Jones
+info,player,England,S Glenn
+info,player,England,KL Cross
+info,player,England,L Filer
+info,player,England,M Gaur
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Madavi,85021bcd
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Filer,31adb911
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

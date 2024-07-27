@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sapphires
+info,team,Warriors
+info,gender,female
+info,season,2023
+info,date,2023/04/04
+info,event,FairBreak Invitational Tournament
+info,match_number,2
+info,venue,Kowloon Cricket Club
+info,city,Kowloon
+info,toss_winner,Warriors
+info,toss_decision,field
+info,player_of_match,P Litchfield
+info,umpire,JM Williams
+info,umpire,Tabarak Dar
+info,reserve_umpire,SJA Taufel
+info,tv_umpire,John Prakash
+info,match_referee,SR Bernard
+info,winner,Warriors
+info,winner_wickets,7
+info,player,Sapphires,KM Mack
+info,player,Sapphires,GH Lewis
+info,player,Sapphires,B de Leede
+info,player,Sapphires,EA Burns
+info,player,Sapphires,KH Sciver-Brunt
+info,player,Sapphires,Sana Mir
+info,player,Sapphires,S Ismail
+info,player,Sapphires,NE Farrant
+info,player,Sapphires,Maryam Omar
+info,player,Sapphires,G Kodali
+info,player,Sapphires,KY Chan
+info,player,Warriors,HK Matthews
+info,player,Warriors,P Litchfield
+info,player,Warriors,ER Oza
+info,player,Warriors,S Sriharsha
+info,player,Warriors,M du Preez
+info,player,Warriors,KE Bryce
+info,player,Warriors,E Johnston
+info,player,Warriors,SS Connell
+info,player,Warriors,A Wellington
+info,player,Warriors,Yasmeen Khan
+info,player,Warriors,JM Kerr
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,B de Leede,b3020075
+info,registry,people,E Johnston,3785e30d
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,G Kodali,f606177e
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JM Kerr,9af58032
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KH Sciver-Brunt,6a434bd3
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M du Preez,e219f17a
+info,registry,people,Maryam Omar,b4d08794
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Sriharsha,89f6c26f
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SR Bernard,800187dc
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,Sana Mir,b287e7b1
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Yasmeen Khan,ade5c0c0

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Los Angeles Knight Riders
+info,team,Texas Super Kings
+info,gender,male
+info,season,2024
+info,date,2024/07/05
+info,event,Major League Cricket
+info,match_number,2
+info,venue,"Grand Prairie Stadium, Dallas"
+info,city,Dallas
+info,toss_winner,Texas Super Kings
+info,toss_decision,field
+info,player_of_match,Ali Khan
+info,umpire,GO Brathwaite
+info,umpire,Jermaine Lindo
+info,reserve_umpire,BV Taylor
+info,tv_umpire,WR Knights
+info,match_referee,SJA Taufel
+info,winner,Los Angeles Knight Riders
+info,winner_runs,12
+info,player,Los Angeles Knight Riders,JJ Roy
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,UBT Chand
+info,player,Los Angeles Knight Riders,Shakib Al Hasan
+info,player,Los Angeles Knight Riders,NR Kumar
+info,player,Los Angeles Knight Riders,DA Miller
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,DYA Davis
+info,player,Los Angeles Knight Riders,CA Dry
+info,player,Los Angeles Knight Riders,SH Johnson
+info,player,Los Angeles Knight Riders,Ali Khan
+info,player,Texas Super Kings,DP Conway
+info,player,Texas Super Kings,F du Plessis
+info,player,Texas Super Kings,AM Hardie
+info,player,Texas Super Kings,J Tromp
+info,player,Texas Super Kings,MP Stoinis
+info,player,Texas Super Kings,Milind Kumar
+info,player,Texas Super Kings,CP Savage
+info,player,Texas Super Kings,G Coetzee
+info,player,Texas Super Kings,Mohammad Mohsin
+info,player,Texas Super Kings,Naveen-ul-Haq
+info,player,Texas Super Kings,Zia-ul-Haq
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BV Taylor,99760152
+info,registry,people,CA Dry,7bc29ffb
+info,registry,people,CP Savage,a55e0360
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DP Conway,df5a6881
+info,registry,people,DYA Davis,74b02e0c
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,J Tromp,fb501329
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Mohsin,79f8472d
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Zia-ul-Haq,99c81226

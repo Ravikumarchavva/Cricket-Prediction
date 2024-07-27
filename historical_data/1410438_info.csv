@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Leicestershire
+info,gender,male
+info,season,2024
+info,date,2024/06/21
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,bat
+info,umpire,JD Shantry
+info,umpire,NJ Llong
+info,match_referee,WR Smith
+info,outcome,tie
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,MP Breetzke
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,RS Bopara
+info,player,Northamptonshire,Sikandar Raza
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,FJ Heldreich
+info,player,Northamptonshire,RA Weatherall
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,BWM Mike
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,IG Holland
+info,player,Leicestershire,LP Goldsworthy
+info,player,Leicestershire,SW Currie
+info,player,Leicestershire,J Hull
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,DJ Willey,7f048519
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,IG Holland,4167f30b
+info,registry,people,J Broad,ec5160d7
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Weatherall,acb94221
+info,registry,people,RK Patel,4531f249
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,WR Smith,ad962377

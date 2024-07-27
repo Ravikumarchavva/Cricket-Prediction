@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kerala
+info,team,Assam
+info,gender,male
+info,season,2023/24
+info,date,2023/11/02
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+info,city,Chandigarh
+info,toss_winner,Assam
+info,toss_decision,field
+info,player_of_match,S Ghadigaonkar
+info,umpire,J Madanagopal
+info,umpire,HAS Khalid
+info,tv_umpire,R Pandit
+info,match_referee,Shakti Singh
+info,winner,Assam
+info,winner_wickets,6
+info,player,Kerala,Rohan Kunnummal
+info,player,Kerala,V Nayanar
+info,player,Kerala,Vishnu Vinod
+info,player,Kerala,SV Samson
+info,player,Kerala,Salman Nizar
+info,player,Kerala,S Gopal
+info,player,Kerala,Abdul Basith
+info,player,Kerala,Unnikrishnan Manukrishnan
+info,player,Kerala,Vinod Kumar
+info,player,Kerala,Jalaj S Saxena
+info,player,Kerala,KM Asif
+info,player,Kerala,Sijomon Joseph
+info,player,Assam,Rishav Das
+info,player,Assam,Denish Das
+info,player,Assam,S Ghadigaonkar
+info,player,Assam,R Parag
+info,player,Assam,Sibsankar Roy
+info,player,Assam,BA Roy
+info,player,Assam,Akash Sengupta
+info,player,Assam,Mukhtar Hussain
+info,player,Assam,Mrinmoy Dutta
+info,player,Assam,AA Choudhury
+info,player,Assam,Sourav Dey
+info,player,Assam,Pallav Kumar Das
+info,registry,people,AA Choudhury,b2c38dce
+info,registry,people,Abdul Basith,cc777ffa
+info,registry,people,Akash Sengupta,bb3ccb17
+info,registry,people,BA Roy,b7ab7aa9
+info,registry,people,Denish Das,9cd9e3f4
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,Jalaj S Saxena,249abedf
+info,registry,people,KM Asif,798cc28e
+info,registry,people,Mrinmoy Dutta,64959652
+info,registry,people,Mukhtar Hussain,97114e80
+info,registry,people,Pallav Kumar Das,c2294408
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,Rishav Das,8963ee49
+info,registry,people,Rohan Kunnummal,a6004ded
+info,registry,people,S Ghadigaonkar,d2c05733
+info,registry,people,S Gopal,7a8bd078
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Salman Nizar,47ff3985
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,Sibsankar Roy,3d8348d0
+info,registry,people,Sijomon Joseph,537d02f3
+info,registry,people,Sourav Dey,9bc4faa8
+info,registry,people,Unnikrishnan Manukrishnan,39dd4d6d
+info,registry,people,V Nayanar,ea3652ba
+info,registry,people,Vinod Kumar,8f77af6b
+info,registry,people,Vishnu Vinod,0494fa6e

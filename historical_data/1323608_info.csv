@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Melbourne Stars
+info,gender,female
+info,season,2022/23
+info,date,2022/11/20
+info,event,Women's Big Bash League
+info,match_number,55
+info,venue,"Ted Summerton Reserve, Moe"
+info,city,Moe
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,umpire,C Grant
+info,umpire,Mattis van Eck
+info,match_referee,RW Stratford
+info,outcome,no result
+info,player,Brisbane Heat,DN Wyatt
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,E Johnston
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,JM Kerr
+info,player,Brisbane Heat,LK Hamilton
+info,player,Melbourne Stars,L Winfield-Hill
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,C Smith
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,O Henry
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,S Day
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AC Kerr,7673c908
+info,registry,people,C Grant,876ed858
+info,registry,people,C Smith,c160db98
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,E Johnston,3785e30d
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,JM Kerr,9af58032
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,L Harris,36e2dc83
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LK Hamilton,c347ffe6
+info,registry,people,Mattis van Eck,bf1a68c1
+info,registry,people,N Faltum,9a56c670
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,O Henry,21fc22bc
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SK Moloney,a0bc8dc1

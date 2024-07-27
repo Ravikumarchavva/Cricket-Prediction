@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Worcestershire
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,One-Day Cup
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,DJ Millns
+info,umpire,PJ Hartley
+info,match_referee,JJ Swift
+info,winner,Worcestershire
+info,winner_wickets,8
+info,player,Sussex,HD Ward
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,ZB Lion-Cachet
+info,player,Sussex,JM Coles
+info,player,Sussex,D Ibrahim
+info,player,Sussex,C Tear
+info,player,Sussex,AM Foreman
+info,player,Sussex,SF Hunt
+info,player,Sussex,JA Atkins
+info,player,Sussex,BJ Currie
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,Azhar Ali
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,RP Jones
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,LV van Beek
+info,player,Worcestershire,J Leach
+info,player,Worcestershire,JO Baker
+info,player,Worcestershire,DY Pennington
+info,registry,people,AM Foreman,bf659c0f
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,C Tear,7ffe4817
+info,registry,people,D Ibrahim,457cab44
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,J Leach,cd143bca
+info,registry,people,JA Atkins,787b56d6
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JO Baker,52c442e4
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,RP Jones,ad8cb396
+info,registry,people,SF Hunt,7f7f658b
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,ZB Lion-Cachet,d99de998

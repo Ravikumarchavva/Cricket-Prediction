@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Western Province
+info,team,North West
+info,gender,male
+info,season,2022/23
+info,date,2022/10/27
+info,event,CSA T20 Challenge
+info,match_number,19
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,North West
+info,toss_decision,field
+info,umpire,LB Gcuma
+info,umpire,RN Hendricks
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,BP Jele
+info,match_referee,GH Pienaar
+info,winner,Western Province
+info,winner_runs,27
+info,player,Western Province,G Kaplan
+info,player,Western Province,D Smith
+info,player,Western Province,GF Linde
+info,player,Western Province,K Verreynne
+info,player,Western Province,Abdullah Bayoumy
+info,player,Western Province,M Mpongwana
+info,player,Western Province,L Tywaku
+info,player,Western Province,TL Moreki
+info,player,Western Province,J Dawood
+info,player,Western Province,N Burger
+info,player,Western Province,D Paterson
+info,player,North West,WB Marshall
+info,player,North West,HG Kuhn
+info,player,North West,L Senokwane
+info,player,North West,S Pillay
+info,player,North West,D Potgieter
+info,player,North West,S Muthusamy
+info,player,North West,D Jansen
+info,player,North West,H Coetzer
+info,player,North West,C Seleka
+info,player,North West,R Meyer
+info,player,North West,K Mungroo
+info,registry,people,Abdullah Bayoumy,8ab49ad2
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Seleka,be8b147b
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,D Paterson,462d7c62
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,D Smith,5d69930d
+info,registry,people,G Kaplan,a5c3d564
+info,registry,people,GF Linde,e5437608
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Coetzer,bd25d145
+info,registry,people,HG Kuhn,ede05b97
+info,registry,people,J Dawood,a2316f90
+info,registry,people,K Mungroo,56feceb0
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Senokwane,7d9b4224
+info,registry,people,L Tywaku,80444ee7
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Mpongwana,547c5509
+info,registry,people,N Burger,465aa633
+info,registry,people,R Meyer,64f55c74
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,S Pillay,09497f5a
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,TL Moreki,36ea17c1
+info,registry,people,WB Marshall,2d7f2ba0

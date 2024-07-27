@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,West Indies
+info,gender,male
+info,season,2022/23
+info,date,2023/03/08
+info,date,2023/03/09
+info,date,2023/03/10
+info,date,2023/03/11
+info,event,West Indies tour of South Africa
+info,match_number,2
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,T Bavuma
+info,umpire,M Erasmus
+info,umpire,PR Reiffel
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_runs,284
+info,player,South Africa,D Elgar
+info,player,South Africa,AK Markram
+info,player,South Africa,T de Zorzi
+info,player,South Africa,T Bavuma
+info,player,South Africa,RD Rickelton
+info,player,South Africa,H Klaasen
+info,player,South Africa,PWA Mulder
+info,player,South Africa,SR Harmer
+info,player,South Africa,KA Maharaj
+info,player,South Africa,G Coetzee
+info,player,South Africa,K Rabada
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,T Chanderpaul
+info,player,West Indies,RA Reifer
+info,player,West Indies,J Blackwood
+info,player,West Indies,RL Chase
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Da Silva
+info,player,West Indies,JO Holder
+info,player,West Indies,AS Joseph
+info,player,West Indies,KAJ Roach
+info,player,West Indies,G Motie
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,D Elgar,33085ffb
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,G Motie,97bdec3d
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,KR Mayers,73c18486
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Chanderpaul,80c6ed7d
+info,registry,people,T de Zorzi,d3a1c63d

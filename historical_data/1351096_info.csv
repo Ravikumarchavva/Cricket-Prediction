@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Rangpur Riders
+info,gender,male
+info,season,2022/23
+info,date,2023/02/14
+info,event,Bangladesh Premier League
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Rangpur Riders
+info,toss_decision,field
+info,player_of_match,Tanzim Hasan Sakib
+info,umpire,RMPJ Rambukwella
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Ali Arman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Raqibul Hasan
+info,winner,Sylhet Strikers
+info,winner_runs,19
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,NLTC Perera
+info,player,Sylhet Strikers,GF Linde
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,player,Sylhet Strikers,L Wood
+info,player,Sylhet Strikers,Rubel Hossain
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,SW Billings
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,N Pooran
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,MD Shanaka
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,DJ Bravo
+info,player,Rangpur Riders,Robiul Haque
+info,player,Rangpur Riders,Hasan Mahmud
+info,player,Rangpur Riders,Rakibul Hasan
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,GF Linde,e5437608
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,L Wood,65b6943c
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Robiul Haque,2353b224
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Zakir Hasan,e3e09091

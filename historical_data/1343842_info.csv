@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Singapore
+info,gender,male
+info,season,2022/23
+info,date,2022/12/12
+info,event,CWC Challenge League
+info,match_number,43
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Singapore
+info,toss_decision,field
+info,umpire,Rahul Asher
+info,umpire,V Kalidas
+info,reserve_umpire,L Poobalan
+info,match_referee,V Narayan Kutty
+info,winner,Qatar
+info,winner_runs,17
+info,method,D/L
+info,player,Qatar,Kamran Khan
+info,player,Qatar,Akash Babu
+info,player,Qatar,I Liyanage
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Syed Tameem
+info,player,Qatar,Assad Borham
+info,player,Qatar,VN Veetil
+info,player,Qatar,Dharmang Patel
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Mohammed Nadeem
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,Avi Dixit
+info,player,Singapore,Aman Desai
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,A Kaul
+info,player,Singapore,IP Swaney
+info,player,Singapore,Janak Prakash
+info,player,Singapore,U Aryaman Sunil
+info,player,Singapore,J Santhanam
+info,player,Singapore,V Baskaran
+info,player,Singapore,AR Puri
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Akash Babu,fb59e5bc
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Assad Borham,219a417a
+info,registry,people,Avi Dixit,cf17c429
+info,registry,people,Dharmang Patel,643f2e6a
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,I Liyanage,826e1017
+info,registry,people,IP Swaney,430b7399
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,J Santhanam,4f1d3f68
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Mohammed Nadeem,856cbb1e
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Syed Tameem,50955fee
+info,registry,people,U Aryaman Sunil,13bc54a8
+info,registry,people,V Baskaran,dd5a9067
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,VN Veetil,3cf5a041

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Bangladesh
+info,gender,male
+info,season,2022/23
+info,date,2023/03/23
+info,event,Ireland tour of Bangladesh
+info,match_number,3
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Ireland
+info,toss_decision,bat
+info,player_of_match,Hasan Mahmud
+info,umpire,Masudur Rahman
+info,umpire,RJ Tucker
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,Gazi Sohel
+info,match_referee,DC Boon
+info,winner,Bangladesh
+info,winner_wickets,10
+info,player,Ireland,ST Doheny
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,HT Tector
+info,player,Ireland,L Tucker
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,AR McBrine
+info,player,Ireland,MR Adair
+info,player,Ireland,GI Hume
+info,player,Ireland,MJ Humphreys
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Ebadat Hossain
+info,player,Bangladesh,Nasum Ahmed
+info,player,Bangladesh,Hasan Mahmud
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,C Campher,478a63e7
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MJ Humphreys,2c54c49b
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414

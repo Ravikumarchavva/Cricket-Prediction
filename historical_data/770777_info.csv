@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Otago Volts
+info,gender,male
+info,season,2014/15
+info,date,2015/02/06
+info,date,2015/02/07
+info,date,2015/02/08
+info,date,2015/02/09
+info,event,Plunket Shield
+info,venue,"Queen's Park, Invercargill"
+info,city,Invercargill
+info,toss_winner,Otago Volts
+info,toss_decision,field
+info,umpire,SJ Nogajski
+info,umpire,WR Knights
+info,match_referee,GC Morris
+info,outcome,draw
+info,player,Otago Volts,RM Duffy
+info,player,Otago Volts,AJ Redmond
+info,player,Otago Volts,MG Bracewell
+info,player,Otago Volts,JD Ryder
+info,player,Otago Volts,SR Wells
+info,player,Otago Volts,DC de Boorder
+info,player,Otago Volts,IA Robertson
+info,player,Otago Volts,MD Craig
+info,player,Otago Volts,N Wagner
+info,player,Otago Volts,CM Smith
+info,player,Otago Volts,JA Duffy
+info,player,Central Stags,GH Worker
+info,player,Central Stags,DS Robinson
+info,player,Central Stags,GR Hay
+info,player,Central Stags,WA Young
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,BJ Small
+info,player,Central Stags,AY Patel
+info,player,Central Stags,SN Smidt
+info,player,Central Stags,AW Mathieson
+info,registry,people,AJ Redmond,48f177f5
+info,registry,people,AW Mathieson,c661789d
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BJ Small,b1b7b7de
+info,registry,people,CM Smith,61c03e7d
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DC de Boorder,bf573bfd
+info,registry,people,DS Robinson,0ec02f03
+info,registry,people,GC Morris,66a9b90f
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,IA Robertson,820599e3
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,MD Craig,c8574282
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,N Wagner,78adc879
+info,registry,people,RM Duffy,37fa7ef6
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SN Smidt,81d656d5
+info,registry,people,SR Wells,8fdfa195
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WR Knights,63cbf8d8

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Nepal
+info,gender,female
+info,season,2023/24
+info,date,2024/02/11
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,12
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,SR Magar
+info,umpire,N Perera
+info,umpire,Shathira Jakir
+info,reserve_umpire,Gayathri Venugopal
+info,match_referee,Ramesh Menon
+info,winner,Nepal
+info,winner_wickets,8
+info,player,Bhutan,N Choden
+info,player,Bhutan,Y Choden
+info,player,Bhutan,T Zangmo
+info,player,Bhutan,D Wangmo
+info,player,Bhutan,S Choden
+info,player,Bhutan,A Gurung
+info,player,Bhutan,Anjuli Ghalley
+info,player,Bhutan,Tshering Choden
+info,player,Bhutan,Chado Om
+info,player,Bhutan,K Dema
+info,player,Bhutan,Sonam
+info,player,Nepal,K Kunwar
+info,player,Nepal,SR Magar
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,B Rawal
+info,player,Nepal,K Shrestha
+info,player,Nepal,Puja Mahato
+info,player,Nepal,Apsari Begam
+info,player,Nepal,K Joshi
+info,player,Nepal,Roma Thapa
+info,player,Nepal,D Bhatta
+info,registry,people,A Gurung,10854c82
+info,registry,people,Anjuli Ghalley,cfb49f67
+info,registry,people,Apsari Begam,eb765b41
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,Chado Om,f53fa89c
+info,registry,people,D Bhatta,7d1a3ff7
+info,registry,people,D Wangmo,760fcf65
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,I Barma,521abce2
+info,registry,people,K Dema,0b211a32
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,N Choden,a904600a
+info,registry,people,N Perera,129709f9
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Ramesh Menon,4ed80d22
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,S Choden,e1e0775d
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Sonam,09cbca15
+info,registry,people,T Zangmo,b1f21c0f
+info,registry,people,Tshering Choden,3f38caff
+info,registry,people,Y Choden,6f17c546

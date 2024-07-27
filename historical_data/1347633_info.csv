@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Sussex
+info,gender,male
+info,season,2023
+info,date,2023/06/09
+info,event,Vitality Blast
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Sussex
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,M Burns
+info,match_referee,SJ Davis
+info,winner,Surrey
+info,winner_runs,124
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SM Curran
+info,player,Surrey,J Overton
+info,player,Surrey,TK Curran
+info,player,Surrey,SA Abbott
+info,player,Surrey,JL Smith
+info,player,Surrey,SP Narine
+info,player,Surrey,CJ Jordan
+info,player,Surrey,CT Steel
+info,player,Surrey,TE Lawes
+info,player,Sussex,TGR Clark
+info,player,Sussex,JM Coles
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,D Ibrahim
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,TS Mills
+info,player,Sussex,HT Crocombe
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,D Ibrahim,457cab44
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,J Overton,59559bc2
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TE Lawes,fe2ac1a8
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb
+info,registry,people,WG Jacks,9caf69a1

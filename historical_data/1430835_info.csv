@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Munster Reds
+info,team,Leinster Lightning
+info,gender,male
+info,season,2024
+info,date,2024/05/16
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,8
+info,venue,"Pembroke Cricket Club, Sandymount, Dublin"
+info,city,Dublin
+info,toss_winner,Munster Reds
+info,toss_decision,bat
+info,player_of_match,TH Tector
+info,umpire,Jonathan Kennedy
+info,umpire,R Black
+info,reserve_umpire,M Hawthorne
+info,match_referee,G McCrea
+info,winner,Leinster Lightning
+info,winner_wickets,6
+info,player,Munster Reds,B Kruger
+info,player,Munster Reds,AR Frost
+info,player,Munster Reds,ND Laegsgaard
+info,player,Munster Reds,OG Metcalfe
+info,player,Munster Reds,BF Calitz
+info,player,Munster Reds,J Neill
+info,player,Munster Reds,L McCarthy
+info,player,Munster Reds,CJB McCullough
+info,player,Munster Reds,J Manley
+info,player,Munster Reds,M Frost
+info,player,Munster Reds,Zubair Khan
+info,player,Leinster Lightning,S Modgil
+info,player,Leinster Lightning,TH Tector
+info,player,Leinster Lightning,C De Freitas
+info,player,Leinster Lightning,SJ Harbinson
+info,player,Leinster Lightning,G Hoey
+info,player,Leinster Lightning,S Lynch
+info,player,Leinster Lightning,A Sidhu
+info,player,Leinster Lightning,DC Delany
+info,player,Leinster Lightning,O Riley
+info,player,Leinster Lightning,N Stapleton
+info,player,Leinster Lightning,D Lues
+info,registry,people,A Sidhu,69b1224b
+info,registry,people,AR Frost,a7750ab4
+info,registry,people,B Kruger,103431a3
+info,registry,people,BF Calitz,24ad97e7
+info,registry,people,C De Freitas,22072cab
+info,registry,people,CJB McCullough,5d6364f0
+info,registry,people,D Lues,6f0111a6
+info,registry,people,DC Delany,0f9c9d1d
+info,registry,people,G Hoey,19d0a172
+info,registry,people,G McCrea,46f4a901
+info,registry,people,J Manley,05f85159
+info,registry,people,J Neill,8bb34d86
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,L McCarthy,8eb2e2e6
+info,registry,people,M Frost,96d56d32
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,N Stapleton,d6889bc1
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,O Riley,92e3e61e
+info,registry,people,OG Metcalfe,decd0bc4
+info,registry,people,R Black,156c8fb1
+info,registry,people,S Lynch,5ffe6225
+info,registry,people,S Modgil,b95f28af
+info,registry,people,SJ Harbinson,ccc17282
+info,registry,people,TH Tector,0348f9a5
+info,registry,people,Zubair Khan,724cecd0

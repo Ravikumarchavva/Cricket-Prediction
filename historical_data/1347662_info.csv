@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Derbyshire
+info,gender,male
+info,season,2023
+info,date,2023/06/21
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,bat
+info,umpire,DJ Millns
+info,umpire,Surendiran Shanmugam
+info,match_referee,AM Smith (2)
+info,winner,Derbyshire
+info,winner_wickets,6
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,FJ Heldreich
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Willey,7f048519
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,J Broad,ec5160d7
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11

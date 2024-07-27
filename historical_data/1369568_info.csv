@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Guyana Amazon Warriors
+info,team,Jamaica Tallawahs
+info,gender,male
+info,season,2023
+info,date,2023/08/27
+info,event,Caribbean Premier League
+info,match_number,11
+info,venue,"Warner Park, Basseterre, St Kitts"
+info,city,Basseterre
+info,toss_winner,Jamaica Tallawahs
+info,toss_decision,field
+info,player_of_match,R Shepherd
+info,umpire,DK Butler
+info,umpire,N Duguid
+info,reserve_umpire,LS Reifer
+info,tv_umpire,CF Wright
+info,match_referee,M Ragoonath
+info,winner,Guyana Amazon Warriors
+info,winner_runs,34
+info,player,Guyana Amazon Warriors,Saim Ayub
+info,player,Guyana Amazon Warriors,Hazratullah
+info,player,Guyana Amazon Warriors,SD Hope
+info,player,Guyana Amazon Warriors,Azam Khan
+info,player,Guyana Amazon Warriors,SO Hetmyer
+info,player,Guyana Amazon Warriors,KMA Paul
+info,player,Guyana Amazon Warriors,R Shepherd
+info,player,Guyana Amazon Warriors,D Pretorius
+info,player,Guyana Amazon Warriors,G Motie
+info,player,Guyana Amazon Warriors,Imran Tahir
+info,player,Guyana Amazon Warriors,JA Sinclair
+info,player,Jamaica Tallawahs,BA King
+info,player,Jamaica Tallawahs,KSA McKenzie
+info,player,Jamaica Tallawahs,SSJ Brooks
+info,player,Jamaica Tallawahs,AA Jangoo
+info,player,Jamaica Tallawahs,RA Reifer
+info,player,Jamaica Tallawahs,Imad Wasim
+info,player,Jamaica Tallawahs,FA Allen
+info,player,Jamaica Tallawahs,CJ Green
+info,player,Jamaica Tallawahs,HR Walsh
+info,player,Jamaica Tallawahs,Mohammad Amir
+info,player,Jamaica Tallawahs,Salman Irshad
+info,registry,people,AA Jangoo,88626ed2
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,BA King,7fca84b7
+info,registry,people,CF Wright,b795e2a9
+info,registry,people,CJ Green,19b9f399
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DK Butler,671398e3
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,G Motie,97bdec3d
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JA Sinclair,43057192
+info,registry,people,K Sinclair,314642ed
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KSA McKenzie,2b8f219a
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Ragoonath,6f596571
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,N Duguid,64495506
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RA Reifer,d7725664
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b

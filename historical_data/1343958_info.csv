@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Paarl Royals
+info,gender,male
+info,season,2022/23
+info,date,2023/01/22
+info,event,SA20
+info,match_number,18
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Pretoria Capitals
+info,toss_decision,bat
+info,player_of_match,DA Miller
+info,umpire,BP Jele
+info,umpire,Stephen Harris
+info,reserve_umpire,S George
+info,tv_umpire,LB Gcuma
+info,match_referee,SB Lambson
+info,winner,Paarl Royals
+info,winner_wickets,6
+info,player,Pretoria Capitals,BKG Mendis
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,A Nortje
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,FD Adams
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,FD Adams,f277f531
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,SB Lambson,4146063f
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,WJ Lubbe,10f42013

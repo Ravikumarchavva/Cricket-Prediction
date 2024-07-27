@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Emirates
+info,team,Gulf Giants
+info,gender,male
+info,season,2023/24
+info,date,2024/01/21
+info,event,International League T20
+info,match_number,4
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Gulf Giants
+info,toss_decision,field
+info,player_of_match,TH David
+info,umpire,Ahmed Shah Pakteen
+info,umpire,MJ Saggers
+info,reserve_umpire,RJ Tucker
+info,tv_umpire,LS Reifer
+info,match_referee,SJA Taufel
+info,winner,MI Emirates
+info,winner_runs,18
+info,player,MI Emirates,Waqar Salamkheil
+info,player,MI Emirates,Waseem Muhammad
+info,player,MI Emirates,WCF Smeed
+info,player,MI Emirates,ADS Fletcher
+info,player,MI Emirates,N Pooran
+info,player,MI Emirates,AT Rayudu
+info,player,MI Emirates,TH David
+info,player,MI Emirates,DJ Bravo
+info,player,MI Emirates,AJ Hosein
+info,player,MI Emirates,Asif Khan
+info,player,MI Emirates,Fazalhaq Farooqi
+info,player,MI Emirates,TA Boult
+info,player,Gulf Giants,RJ Gleeson
+info,player,Gulf Giants,JL Smith
+info,player,Gulf Giants,JM Vince
+info,player,Gulf Giants,JM Cox
+info,player,Gulf Giants,Usman Khan
+info,player,Gulf Giants,SO Hetmyer
+info,player,Gulf Giants,J Overton
+info,player,Gulf Giants,Karim Janat
+info,player,Gulf Giants,CJ Jordan
+info,player,Gulf Giants,DC Drakes
+info,player,Gulf Giants,Mujeeb Ur Rahman
+info,player,Gulf Giants,Aayan Afzal Khan
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,J Overton,59559bc2
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Karim Janat,62175638
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,Waqar Salamkheil,3f1066d0
+info,registry,people,Waseem Muhammad,6f02fe2a

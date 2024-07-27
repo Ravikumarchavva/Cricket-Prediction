@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Baroda
+info,gender,male
+info,season,2020/21
+info,date,2021/01/12
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Reliance Cricket Stadium
+info,city,
+info,toss_winner,Baroda
+info,toss_decision,field
+info,winner,Baroda
+info,winner_wickets,4
+info,player,Himachal,RI Thakur
+info,player,Himachal,P Chopra
+info,player,Himachal,AR Kumar
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,R Dhawan
+info,player,Himachal,EC Sen
+info,player,Himachal,N A Sharma
+info,player,Himachal,Akash Vasisht
+info,player,Himachal,Ayush Jamwal
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,VG Arora
+info,player,Baroda,A Sheth
+info,player,Baroda,LI Meriwala
+info,player,Baroda,KH Pandya
+info,player,Baroda,NA Rathva
+info,player,Baroda,BA Pathan
+info,player,Baroda,Chinta Gandhi
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,SK Patel
+info,player,Baroda,AV Rajput
+info,player,Baroda,Bhanu Pania
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AR Kumar,d1f63ad5
+info,registry,people,AV Rajput,c1d3515b
+info,registry,people,Akash Vasisht,35ccfdd4
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,BA Pathan,870e4cec
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,Chinta Gandhi,c5eff91b
+info,registry,people,EC Sen,8a0ae9da
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,R Dhawan,26a85969
+info,registry,people,RI Thakur,12ac8ca5
+info,registry,people,SK Patel,f93b43dd
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,Vishnu Solanki,2e802011

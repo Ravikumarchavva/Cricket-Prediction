@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,female
+info,season,2024
+info,date,2024/07/03
+info,event,New Zealand Women tour of England
+info,match_number,3
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,LK Bell
+info,umpire,AY Harris
+info,umpire,Rob White
+info,reserve_umpire,J Naeem
+info,tv_umpire,RJ Warren
+info,match_referee,Phil Whitticase
+info,winner,England
+info,winner_wickets,5
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,LR Down
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,MM Penfold
+info,player,New Zealand,EJ Carson
+info,player,England,TT Beaumont
+info,player,England,ME Bouchier
+info,player,England,HC Knight
+info,player,England,NR Sciver-Brunt
+info,player,England,SIR Dunkley
+info,player,England,AE Jones
+info,player,England,A Capsey
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,KL Cross
+info,player,England,LK Bell
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CE Dean,c6625a26
+info,registry,people,EJ Carson,7693851c
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,KL Cross,1ade138e
+info,registry,people,LK Bell,38b4583c
+info,registry,people,LR Down,19147fe0
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,Rob White,59b91222
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TT Beaumont,b2664905

@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,female
+info,season,2023
+info,date,2023/06/22
+info,date,2023/06/23
+info,date,2023/06/24
+info,date,2023/06/25
+info,date,2023/06/26
+info,event,Women's Ashes
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,A Gardner
+info,umpire,AY Harris
+info,umpire,S McLelland
+info,umpire,S Redfern
+info,reserve_umpire,S McLelland
+info,tv_umpire,J Naeem
+info,match_referee,DT Jukes
+info,winner,Australia
+info,winner_runs,89
+info,player,Australia,BL Mooney
+info,player,Australia,P Litchfield
+info,player,Australia,EA Perry
+info,player,Australia,TM McGrath
+info,player,Australia,JL Jonassen
+info,player,Australia,AJ Healy
+info,player,Australia,A Gardner
+info,player,Australia,A Sutherland
+info,player,Australia,A King
+info,player,Australia,KJ Garth
+info,player,Australia,D Brown
+info,player,England,EL Lamb
+info,player,England,TT Beaumont
+info,player,England,HC Knight
+info,player,England,NR Sciver-Brunt
+info,player,England,SIR Dunkley
+info,player,England,DN Wyatt
+info,player,England,AE Jones
+info,player,England,S Ecclestone
+info,player,England,KL Cross
+info,player,England,L Filer
+info,player,England,LK Bell
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AJ Healy,321644de
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,D Brown,2e81be88
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Filer,31adb911
+info,registry,people,LK Bell,38b4583c
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,S Redfern,5b038989
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,TT Beaumont,b2664905

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Knights
+info,team,North-West Warriors
+info,gender,male
+info,season,2024
+info,date,2024/05/09
+info,event,Cricket Ireland Inter-Provincial Limited Over Cup
+info,match_number,1
+info,venue,"Civil Service Cricket Club, Stormont, Belfast"
+info,city,Belfast
+info,toss_winner,North-West Warriors
+info,toss_decision,field
+info,player_of_match,R Pretorius
+info,umpire,AA Baig
+info,umpire,G Morrisey
+info,reserve_umpire,Jareth McCready
+info,match_referee,Philip Thompson
+info,winner,Northern Knights
+info,winner_runs,118
+info,player,Northern Knights,BF Calitz
+info,player,Northern Knights,SJ Topping
+info,player,Northern Knights,JA McCollum
+info,player,Northern Knights,C Carmichael
+info,player,Northern Knights,R Pretorius
+info,player,Northern Knights,JM Hunter
+info,player,Northern Knights,H Dyer
+info,player,Northern Knights,T Koen
+info,player,Northern Knights,T Mayes
+info,player,Northern Knights,MJ Humphreys
+info,player,Northern Knights,MT Foster
+info,player,North-West Warriors,ST Doheny
+info,player,North-West Warriors,Gavin Roulston
+info,player,North-West Warriors,K Hilton
+info,player,North-West Warriors,AR McBrine
+info,player,North-West Warriors,SJ MacBeth
+info,player,North-West Warriors,SC Getkate
+info,player,North-West Warriors,C Melly
+info,player,North-West Warriors,J Wilson
+info,player,North-West Warriors,H Zimmerman
+info,player,North-West Warriors,R MacBeth
+info,player,North-West Warriors,T McKeegan
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,BF Calitz,24ad97e7
+info,registry,people,C Carmichael,f3b158d9
+info,registry,people,C Melly,48641e31
+info,registry,people,G Morrisey,f442110f
+info,registry,people,Gavin Roulston,be5b02fa
+info,registry,people,H Dyer,0b48776e
+info,registry,people,H Zimmerman,b85fa1d4
+info,registry,people,J Wilson,20f9e6b1
+info,registry,people,JA McCollum,c7105dab
+info,registry,people,JM Hunter,a9d07868
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,K Hilton,9339830a
+info,registry,people,MJ Humphreys,2c54c49b
+info,registry,people,MT Foster,14e801aa
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R MacBeth,b4402d8a
+info,registry,people,R Pretorius,8ff85f5c
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,SJ MacBeth,5d4338a2
+info,registry,people,SJ Topping,5ee4759d
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,T Koen,806f03dd
+info,registry,people,T Mayes,9aedf23b
+info,registry,people,T McKeegan,2052d6f4

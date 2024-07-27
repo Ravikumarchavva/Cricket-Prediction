@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Thailand
+info,gender,female
+info,season,2023
+info,date,2023/04/23
+info,event,Zimbabwe Women tour of Thailand
+info,match_number,3
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,N Chaiwai
+info,umpire,AK Rana
+info,umpire,Tabarak Dar
+info,reserve_umpire,V Kalidas
+info,match_referee,KB Suresh
+info,winner,Thailand
+info,winner_wickets,6
+info,player,Zimbabwe,SM Mayers
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,C Chatonzwa
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,L Phiri
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,F Chipare
+info,player,Thailand,S Tippoch
+info,player,Thailand,N Chantam
+info,player,Thailand,T Putthawong
+info,player,Thailand,N Chaiwai
+info,player,Thailand,P Maya
+info,player,Thailand,R Kanoh
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,N Boochatham
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,S Laomi
+info,player,Thailand,B Leephatthana
+info,registry,people,AK Rana,562d74d0
+info,registry,people,B Leephatthana,aa0c5e01
+info,registry,people,C Chatonzwa,da61a9af
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,KB Suresh,40316210
+info,registry,people,L Phiri,cca8bdca
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,R Kanoh,5959370f
+info,registry,people,S Laomi,4b15618c
+info,registry,people,S Tippoch,9c4b58db
+info,registry,people,SM Mayers,91d9613e
+info,registry,people,T Putthawong,23e3f2d6
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Kalidas,42d76418

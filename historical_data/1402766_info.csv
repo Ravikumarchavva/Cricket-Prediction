@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Chile
+info,gender,female
+info,season,2023/24
+info,date,2023/10/15
+info,event,Chile Women tour of Argentina
+info,match_number,3
+info,venue,San Albano
+info,city,
+info,toss_winner,Argentina
+info,toss_decision,bat
+info,umpire,A Elliott
+info,umpire,Santiago Duggan
+info,winner,Argentina
+info,winner_runs,311
+info,player,Argentina,V Vasquez
+info,player,Argentina,A Galan
+info,player,Argentina,M Castineiras
+info,player,Argentina,A Stocks
+info,player,Argentina,L Taylor
+info,player,Argentina,JC Cullen
+info,player,Argentina,C Sosa
+info,player,Argentina,M Martinez
+info,player,Argentina,Martina Quinn
+info,player,Argentina,A Prince
+info,player,Argentina,N Patron Fuentes
+info,player,Chile,Camila Valdes
+info,player,Chile,Maria Salazar
+info,player,Chile,Yadhira Nunez
+info,player,Chile,Florencia Martinez
+info,player,Chile,Esperanza Rubio
+info,player,Chile,Franchesca Moya
+info,player,Chile,Constanza Oyarce
+info,player,Chile,Constanza Vergara
+info,player,Chile,Emilia Toro
+info,player,Chile,Sofia Araya
+info,player,Chile,Sofia Mardones
+info,registry,people,A Elliott,f48d5563
+info,registry,people,A Galan,ad5165c2
+info,registry,people,A Prince,da994dd7
+info,registry,people,A Stocks,c999c416
+info,registry,people,C Sosa,b2f4cb0d
+info,registry,people,Camila Valdes,dfe8ddeb
+info,registry,people,Constanza Oyarce,9b4b9ce3
+info,registry,people,Constanza Vergara,e712a65b
+info,registry,people,Emilia Toro,777f65cd
+info,registry,people,Esperanza Rubio,ae694554
+info,registry,people,Florencia Martinez,0626d312
+info,registry,people,Franchesca Moya,dd30467d
+info,registry,people,JC Cullen,22595a2d
+info,registry,people,L Taylor,8af91a3e
+info,registry,people,M Castineiras,b9094958
+info,registry,people,M Martinez,f0ddeafb
+info,registry,people,Maria Salazar,0e4abf0c
+info,registry,people,Martina Quinn,de18edc1
+info,registry,people,N Patron Fuentes,b29923b6
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Sofia Araya,e4d4c4e0
+info,registry,people,Sofia Mardones,f4e6469b
+info,registry,people,V Vasquez,f898a2c6
+info,registry,people,Yadhira Nunez,e654fe3d

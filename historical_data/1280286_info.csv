@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttarakhand
+info,team,Chandigarh
+info,gender,male
+info,season,2021/22
+info,date,2021/11/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Gurugram Cricket Ground (SRNCC)
+info,city,
+info,toss_winner,Chandigarh
+info,toss_decision,field
+info,winner,Chandigarh
+info,winner_wickets,6
+info,player,Uttarakhand,Tanush Gusain
+info,player,Uttarakhand,Jay Bista
+info,player,Uttarakhand,S Arora
+info,player,Uttarakhand,Kunal Chandela
+info,player,Uttarakhand,Swapnil Singh
+info,player,Uttarakhand,Dikshanshu Negi
+info,player,Uttarakhand,Saurabh Rawat
+info,player,Uttarakhand,Mayank Mishra
+info,player,Uttarakhand,Akash Madhwal
+info,player,Uttarakhand,Deepesh Nainwal
+info,player,Uttarakhand,Agrim Tiwari
+info,player,Chandigarh,Jaskaran Singh
+info,player,Chandigarh,Jagjit Singh
+info,player,Chandigarh,Gurinder Singh
+info,player,Chandigarh,Arpit Pannu
+info,player,Chandigarh,Sarul Kanwar
+info,player,Chandigarh,Yuvraj Chaudhary
+info,player,Chandigarh,M Vohra
+info,player,Chandigarh,Arjit Pannu
+info,player,Chandigarh,Ankit Kaushik
+info,player,Chandigarh,Gaurav Puri
+info,player,Chandigarh,Kunal Mahajan
+info,registry,people,Agrim Tiwari,beb2a972
+info,registry,people,Akash Madhwal,4bd09374
+info,registry,people,Ankit Kaushik,084708eb
+info,registry,people,Arjit Pannu,8281ca53
+info,registry,people,Arpit Pannu,76d0ac27
+info,registry,people,Deepesh Nainwal,5081cb4b
+info,registry,people,Dikshanshu Negi,1f3febed
+info,registry,people,Gaurav Puri,0834996c
+info,registry,people,Gurinder Singh,911d04ad
+info,registry,people,Jagjit Singh,d221c0cf
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,Jay Bista,f079e8fe
+info,registry,people,Kunal Chandela,d38c03d4
+info,registry,people,Kunal Mahajan,b83ef011
+info,registry,people,M Vohra,c03e2850
+info,registry,people,Mayank Mishra,de00b96c
+info,registry,people,S Arora,7aa74830
+info,registry,people,Sarul Kanwar,10d64f7c
+info,registry,people,Saurabh Rawat,839b6d2e
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Tanush Gusain,e2290574
+info,registry,people,Yuvraj Chaudhary,1730e08e

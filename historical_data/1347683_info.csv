@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Kent
+info,gender,male
+info,season,2023
+info,date,2023/06/30
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,NL Bainton
+info,umpire,NJ Llong
+info,match_referee,H Pack
+info,winner,Sussex
+info,winner_runs,11
+info,method,D/L
+info,player,Sussex,HD Ward
+info,player,Sussex,TGR Clark
+info,player,Sussex,OJ Carter
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,A Karvelas
+info,player,Sussex,TS Mills
+info,player,Sussex,BJ Currie
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,AJ Blake
+info,player,Kent,SW Billings
+info,player,Kent,GF Linde
+info,player,Kent,JM Cox
+info,player,Kent,JA Leaning
+info,player,Kent,G Stewart
+info,player,Kent,JDM Evison
+info,player,Kent,MR Quinn
+info,player,Kent,MG Hogan
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AJ Blake,ea27a674
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Pack,fed53c91
+info,registry,people,HD Ward,9f7932a7
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,MG Hogan,5da34add
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MR Quinn,b082d112
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TS Mills,245c97cb
+info,registry,people,TS Muyeye,10b79140

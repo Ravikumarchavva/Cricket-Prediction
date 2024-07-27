@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Chhattisgarh
+info,gender,male
+info,season,2019/20
+info,date,2019/11/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"GSSS, Sector 26"
+info,city,
+info,toss_winner,Chhattisgarh
+info,toss_decision,field
+info,winner,Chhattisgarh
+info,winner_wickets,8
+info,player,Himachal,AKS Bains
+info,player,Himachal,P Chopra
+info,player,Himachal,EC Sen
+info,player,Himachal,AR Kumar
+info,player,Himachal,R Dhawan
+info,player,Himachal,Nikhil Gangta
+info,player,Himachal,N A Sharma
+info,player,Himachal,Ayush Jamwal
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,Kanwar Abhinay
+info,player,Chhattisgarh,Pankaj Rao
+info,player,Chhattisgarh,Puneet Datey
+info,player,Chhattisgarh,Shashank Singh
+info,player,Chhattisgarh,Shakeeb Ahmed
+info,player,Chhattisgarh,Shubham Singh
+info,player,Chhattisgarh,Ajay Mandal
+info,player,Chhattisgarh,Shashank Chandrakar
+info,player,Chhattisgarh,Ashutosh Singh
+info,player,Chhattisgarh,Harpreet Singh
+info,player,Chhattisgarh,Amandeep Khare
+info,player,Chhattisgarh,Vishal Kushwah
+info,registry,people,AKS Bains,cb932841
+info,registry,people,AR Kumar,d1f63ad5
+info,registry,people,Ajay Mandal,31ee319e
+info,registry,people,Amandeep Khare,6c6cc94c
+info,registry,people,Ashutosh Singh,5c766d24
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,EC Sen,8a0ae9da
+info,registry,people,Harpreet Singh,28c78fb3
+info,registry,people,Kanwar Abhinay,7c2e7c17
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,Nikhil Gangta,8812869d
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,Pankaj Rao,13dd2a4b
+info,registry,people,Puneet Datey,389ae08a
+info,registry,people,R Dhawan,26a85969
+info,registry,people,Shakeeb Ahmed,21b9e62b
+info,registry,people,Shashank Chandrakar,9c20688d
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Shubham Singh,dd6f4040
+info,registry,people,Sumit Ruikar,f4ef0fd7
+info,registry,people,Vishal Kushwah,cc8531c2

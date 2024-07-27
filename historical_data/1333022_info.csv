@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Andhra
+info,team,Gujarat
+info,gender,male
+info,season,2022/23
+info,date,2022/10/20
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Holkar Cricket Stadium, Indore"
+info,city,Indore
+info,toss_winner,Gujarat
+info,toss_decision,field
+info,umpire,A Bengeri
+info,umpire,Saurabh Dhote
+info,tv_umpire,A Totre
+info,match_referee,A Kripal Singh
+info,winner,Gujarat
+info,winner_wickets,5
+info,player,Andhra,AM Reddy
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,KS Bharat
+info,player,Andhra,GH Vihari
+info,player,Andhra,RK Bhui
+info,player,Andhra,Manish Golamaru
+info,player,Andhra,Karan Shinde
+info,player,Andhra,Shoaib Mohammed Khan
+info,player,Andhra,Girinath Reddy
+info,player,Andhra,K V Sasikanth
+info,player,Andhra,Harishankar Reddy
+info,player,Andhra,Lalith Mohan
+info,player,Gujarat,HP Patel
+info,player,Gujarat,Urvil Patel
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,Priyesh Patel
+info,player,Gujarat,Saurav Chauhan
+info,player,Gujarat,Het Patel
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,RV Patel
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,Roosh Kalaria
+info,player,Gujarat,Chintan Gaja
+info,player,Gujarat,A Nagwaswalla
+info,registry,people,A Bengeri,c109497d
+info,registry,people,A Kripal Singh,8f559207
+info,registry,people,A Nagwaswalla,01ada0ed
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AM Reddy,8360c9b9
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,Chintan Gaja,63bfb5fc
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,GH Vihari,94253925
+info,registry,people,Girinath Reddy,5d3d423a
+info,registry,people,HP Patel,8254ea06
+info,registry,people,Harishankar Reddy,791c088d
+info,registry,people,Het Patel,f543b251
+info,registry,people,K V Sasikanth,bf6e03ea
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Karan Shinde,08a349ac
+info,registry,people,Lalith Mohan,c206d8dc
+info,registry,people,Manish Golamaru,327c7253
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,Priyesh Patel,93b5bd93
+info,registry,people,RK Bhui,b63e358a
+info,registry,people,RV Patel,60500956
+info,registry,people,Roosh Kalaria,779b7f4d
+info,registry,people,Saurabh Dhote,afe4ec5a
+info,registry,people,Saurav Chauhan,9e7225b0
+info,registry,people,Shoaib Mohammed Khan,8dfc706f
+info,registry,people,Urvil Patel,cf59b3f0

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Paarl Royals
+info,gender,male
+info,season,2022/23
+info,date,2023/01/13
+info,event,SA20
+info,match_number,4
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Joburg Super Kings
+info,toss_decision,bat
+info,player_of_match,BC Fortuin
+info,umpire,DJ Smith
+info,umpire,LB Gcuma
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,M Erasmus
+info,match_referee,GH Pienaar
+info,winner,Paarl Royals
+info,winner_wickets,7
+info,player,Joburg Super Kings,JN Malan
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,K Verreynne
+info,player,Joburg Super Kings,L Gregory
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,GHS Garton
+info,player,Joburg Super Kings,AS Joseph
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,AM Phangiso
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,EJG Morgan
+info,player,Paarl Royals,FD Adams
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,T Shamsi
+info,player,Paarl Royals,L Ngidi
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FD Adams,f277f531
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Verreynne,bf814547
+info,registry,people,L Gregory,06c2de82
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023/24
+info,date,2024/03/13
+info,event,Scotland tour of United Arab Emirates
+info,match_number,2
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,J Jarvis
+info,umpire,Aasif Iqbal
+info,umpire,Akbar Ali
+info,reserve_umpire,Nadeem Anjum
+info,tv_umpire,Shiju Sam
+info,match_referee,Muhammad Javed
+info,winner,Scotland
+info,winner_runs,9
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,BJ McMullen
+info,player,Scotland,C Tear
+info,player,Scotland,MH Cross
+info,player,Scotland,J Jarvis
+info,player,Scotland,MA Leask
+info,player,Scotland,J Dickinson
+info,player,Scotland,GT Main
+info,player,Scotland,BJ Currie
+info,player,Scotland,Hamza Tahir
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,T Suri
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,Hazrat Luqman
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Junaid Siddique
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,C Tear,7ffe4817
+info,registry,people,GT Main,4ebc70ca
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Hamza Tahir,34cb2f69
+info,registry,people,Hazrat Luqman,fdc1ac0f
+info,registry,people,J Dickinson,0b37840b
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Nadeem Anjum,7ccbae86
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,T Suri,a76d4082
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zuhaib Zubair,9124aa4c

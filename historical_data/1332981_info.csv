@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mizoram
+info,team,Assam
+info,gender,male
+info,season,2022/23
+info,date,2022/10/16
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Saurashtra Cricket Association Stadium, Rajkot"
+info,city,Rajkot
+info,toss_winner,Assam
+info,toss_decision,field
+info,umpire,M Krishnadas
+info,umpire,S Ravi
+info,match_referee,F Ghayas
+info,winner,Assam
+info,winner_wickets,7
+info,player,Mizoram,SP Goswami
+info,player,Mizoram,Lalhmangaiha
+info,player,Mizoram,T Kohli
+info,player,Mizoram,Joseph Lalthankhuma
+info,player,Mizoram,Avinash Yadav
+info,player,Mizoram,Vikash Kumar
+info,player,Mizoram,F Lalmuanzuala
+info,player,Mizoram,G Lalbiakvela
+info,player,Mizoram,Bobby Zothansanga
+info,player,Mizoram,Remruatdika Ralte
+info,player,Mizoram,Rinsangzela Hmamte
+info,player,Assam,Denish Das
+info,player,Assam,RG Hazarika
+info,player,Assam,SN Mandal
+info,player,Assam,R Parag
+info,player,Assam,NR Narah
+info,player,Assam,Mrinmoy Dutta
+info,player,Assam,Wasiqur Rahman
+info,player,Assam,Rishav Das
+info,player,Assam,Roshan Alam
+info,player,Assam,D Rabha
+info,player,Assam,Mukhtar Hussain
+info,player,Assam,Rajjakuddin Ahmed
+info,registry,people,Avinash Yadav,f879ff6b
+info,registry,people,Bobby Zothansanga,6b4ce914
+info,registry,people,D Rabha,f67fe815
+info,registry,people,Denish Das,9cd9e3f4
+info,registry,people,F Ghayas,02d55e76
+info,registry,people,F Lalmuanzuala,054fc648
+info,registry,people,G Lalbiakvela,66ea7420
+info,registry,people,Joseph Lalthankhuma,d644b8b2
+info,registry,people,Lalhmangaiha,15bbe51b
+info,registry,people,Lalhriatrenga,21527bc1
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,Mrinmoy Dutta,64959652
+info,registry,people,Mukhtar Hussain,97114e80
+info,registry,people,NR Narah,eb7c5965
+info,registry,people,R Parag,04a418e8
+info,registry,people,RG Hazarika,ef33e040
+info,registry,people,Rajjakuddin Ahmed,69cbffb8
+info,registry,people,Remruatdika Ralte,895a0ead
+info,registry,people,Rinsangzela Hmamte,63798865
+info,registry,people,Rishav Das,8963ee49
+info,registry,people,Roshan Alam,7cc093f4
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,SN Mandal,fac3af0f
+info,registry,people,SP Goswami,541f85c9
+info,registry,people,T Kohli,40caa465
+info,registry,people,Vikash Kumar,fd25e20c
+info,registry,people,Wasiqur Rahman,645eaa96

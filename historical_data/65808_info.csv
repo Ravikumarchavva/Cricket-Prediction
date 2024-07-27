@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Kenya
+info,gender,male
+info,season,2002/03
+info,date,2003/04/08
+info,event,Cherry Blossom Sharjah Cup
+info,match_number,6
+info,venue,Sharjah Cricket Association Stadium
+info,city,Sharjah
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Shoaib Malik
+info,umpire,AV Jayaprakash
+info,umpire,KC Barbour
+info,tv_umpire,BR Doctrove
+info,match_referee,AM Ebrahim
+info,winner,Pakistan
+info,winner_runs,143
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Faisal Iqbal
+info,player,Pakistan,Misbah-ul-Haq
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Naved-ul-Hasan
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Danish Kaneria
+info,player,Pakistan,Umar Gul
+info,player,Kenya,KO Otieno
+info,player,Kenya,DO Obuya
+info,player,Kenya,BJ Patel
+info,player,Kenya,SO Tikolo
+info,player,Kenya,TM Odoyo
+info,player,Kenya,MO Odumbe
+info,player,Kenya,HS Modi
+info,player,Kenya,CO Obuya
+info,player,Kenya,JK Kamande
+info,player,Kenya,PJ Ongondo
+info,player,Kenya,Joseph Angara
+info,registry,people,AM Ebrahim,814fafa7
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,BJ Patel,0b7930ed
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,DO Obuya,6ed3d5ac
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,Faisal Iqbal,267269e1
+info,registry,people,HS Modi,5abdfd23
+info,registry,people,JK Kamande,270b3f8e
+info,registry,people,Joseph Angara,744b6ab0
+info,registry,people,KC Barbour,4359f89a
+info,registry,people,KO Otieno,fbaa61d2
+info,registry,people,MO Odumbe,45477249
+info,registry,people,Misbah-ul-Haq,7eae4418
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Naved-ul-Hasan,33f28243
+info,registry,people,PJ Ongondo,27cc4361
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,SO Tikolo,00d69fa4
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,TM Odoyo,2c13defe
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Yousuf Youhana,e237b28c

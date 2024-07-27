@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Sikkim
+info,gender,male
+info,season,2018/19
+info,date,2019/02/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Mumbai
+info,toss_decision,bat
+info,winner,Mumbai
+info,winner_runs,154
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,SS Iyer
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,SD Lad
+info,player,Mumbai,AP Tare
+info,player,Mumbai,SN Thakur
+info,player,Mumbai,Shubham Ranjane
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,TU Deshpande
+info,player,Sikkim,Bipul Sharma
+info,player,Sikkim,Ishwar Chaudhary
+info,player,Sikkim,Palzor Tamang
+info,player,Sikkim,KN Luitel
+info,player,Sikkim,Amos Rai
+info,player,Sikkim,Milind Kumar
+info,player,Sikkim,Tashi Bhalla
+info,player,Sikkim,Lee Yong Lepcha
+info,player,Sikkim,Nilesh Lamichaney
+info,player,Sikkim,Bibek Diyali
+info,player,Sikkim,Ashish Thapa
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AP Tare,855a210c
+info,registry,people,Amos Rai,821403b6
+info,registry,people,Ashish Thapa,60c6038a
+info,registry,people,Bibek Diyali,54d9489d
+info,registry,people,Bipul Sharma,c18496e1
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Ishwar Chaudhary,fe473dc2
+info,registry,people,KN Luitel,d6e2a10e
+info,registry,people,Lee Yong Lepcha,dd967d0d
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Nilesh Lamichaney,dc501d26
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,Palzor Tamang,61a3c20c
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tashi Bhalla,3c703eee

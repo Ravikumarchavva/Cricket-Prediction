@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Assam
+info,team,Baroda
+info,gender,male
+info,season,2023/24
+info,date,2023/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+info,city,Chandigarh
+info,toss_winner,Baroda
+info,toss_decision,field
+info,player_of_match,AV Rajput
+info,umpire,KN Ananthapadmanabhan
+info,umpire,HAS Khalid
+info,tv_umpire,MV Saidharshan Kumar
+info,match_referee,Shakti Singh
+info,winner,Baroda
+info,winner_wickets,6
+info,player,Assam,Rishav Das
+info,player,Assam,Denish Das
+info,player,Assam,S Ghadigaonkar
+info,player,Assam,R Parag
+info,player,Assam,Sibsankar Roy
+info,player,Assam,BA Roy
+info,player,Assam,Pallav Kumar Das
+info,player,Assam,Akash Sengupta
+info,player,Assam,Mukhtar Hussain
+info,player,Assam,Sourav Dey
+info,player,Assam,Mrinmoy Dutta
+info,player,Assam,AA Choudhury
+info,player,Baroda,SI Sopariya
+info,player,Baroda,Jyotsnil Singh
+info,player,Baroda,NA Rathva
+info,player,Baroda,KH Pandya
+info,player,Baroda,SS Sharma
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,Bhanu Pania
+info,player,Baroda,AV Rajput
+info,player,Baroda,MV Pithiya
+info,player,Baroda,A Sheth
+info,player,Baroda,LI Meriwala
+info,player,Baroda,Dhruv Patel
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AA Choudhury,b2c38dce
+info,registry,people,AV Rajput,c1d3515b
+info,registry,people,Akash Sengupta,bb3ccb17
+info,registry,people,BA Roy,b7ab7aa9
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,Denish Das,9cd9e3f4
+info,registry,people,Dhruv Patel,e85f3659
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Jyotsnil Singh,b32b1661
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,MV Pithiya,1c29d51f
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Mrinmoy Dutta,64959652
+info,registry,people,Mukhtar Hussain,97114e80
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,Pallav Kumar Das,c2294408
+info,registry,people,R Parag,04a418e8
+info,registry,people,Rishav Das,8963ee49
+info,registry,people,S Ghadigaonkar,d2c05733
+info,registry,people,SI Sopariya,d477678c
+info,registry,people,SS Sharma,0ebaa16a
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,Sibsankar Roy,3d8348d0
+info,registry,people,Sourav Dey,9bc4faa8
+info,registry,people,Vishnu Solanki,2e802011

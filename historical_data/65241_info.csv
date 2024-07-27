@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Netherlands
+info,gender,male
+info,season,2002/03
+info,date,2003/02/12
+info,event,ICC World Cup
+info,match_number,7
+info,venue,"Boland Bank Park, Paarl"
+info,city,Paarl
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,TBM de Leede
+info,umpire,DJ Harper
+info,umpire,P Willey
+info,tv_umpire,Nadeem Ghauri
+info,match_referee,DT Lindsay
+info,winner,India
+info,winner_runs,68
+info,player,India,SC Ganguly
+info,player,India,SR Tendulkar
+info,player,India,V Sehwag
+info,player,India,R Dravid
+info,player,India,Yuvraj Singh
+info,player,India,M Kaif
+info,player,India,D Mongia
+info,player,India,Harbhajan Singh
+info,player,India,A Kumble
+info,player,India,Z Khan
+info,player,India,J Srinath
+info,player,Netherlands,JF Kloppenburg
+info,player,Netherlands,DLS van Bunge
+info,player,Netherlands,HJC Mol
+info,player,Netherlands,B Zuiderent
+info,player,Netherlands,TBM de Leede
+info,player,Netherlands,LP van Troost
+info,player,Netherlands,RH Scholte
+info,player,Netherlands,RP Lefebvre
+info,player,Netherlands,E Schiferli
+info,player,Netherlands,J Smits
+info,player,Netherlands,Adeel Raja
+info,registry,people,A Kumble,0c2730df
+info,registry,people,Adeel Raja,79004151
+info,registry,people,B Zuiderent,d953ed6a
+info,registry,people,D Mongia,99663fa5
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DLS van Bunge,3185266a
+info,registry,people,DT Lindsay,a6a32a61
+info,registry,people,E Schiferli,cefe0886
+info,registry,people,HJC Mol,e33616eb
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,J Smits,7c681ee9
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JF Kloppenburg,51080a1f
+info,registry,people,LP van Troost,34d2ca48
+info,registry,people,M Kaif,d84378a4
+info,registry,people,Nadeem Ghauri,8387d138
+info,registry,people,P Willey,1b647f99
+info,registry,people,R Dravid,0184dc35
+info,registry,people,RH Scholte,67875075
+info,registry,people,RP Lefebvre,12b59324
+info,registry,people,SC Ganguly,725529bc
+info,registry,people,SR Tendulkar,d2c2b2d5
+info,registry,people,TBM de Leede,d2f72b19
+info,registry,people,V Sehwag,8ba8195d
+info,registry,people,Yuvraj Singh,1c914163
+info,registry,people,Z Khan,91a4a398

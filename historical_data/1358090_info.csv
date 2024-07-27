@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Nepal
+info,gender,male
+info,season,2022/23
+info,date,2023/03/13
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,138
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,S Lamichhane
+info,umpire,RR Wimalasiri
+info,umpire,VK Jha
+info,reserve_umpire,BB Pradhan
+info,match_referee,M Nayyar
+info,winner,Nepal
+info,winner_wickets,9
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,CA Soper
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,HGV Vare
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,SI Kamea
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,Kushal Malla
+info,player,Nepal,DS Airee
+info,player,Nepal,Karan KC
+info,player,Nepal,Sompal Kami
+info,player,Nepal,RK Paudel
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,B Sharki
+info,player,Nepal,LN Rajbanshi
+info,player,Nepal,S Lamichhane
+info,registry,people,A Vala,72e60730
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,CA Soper,9920dd86
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,DS Airee,1747ea18
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,HGV Vare,98299b67
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Doriga,365229a8
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,N Vanua,a36915ce
+info,registry,people,R Hekure,c70448aa
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Bau,9a95bebb
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SI Kamea,0730a707
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,VK Jha,5d46eb72

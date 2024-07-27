@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Northamptonshire
+info,gender,male
+info,season,2024
+info,date,2024/06/30
+info,date,2024/07/01
+info,date,2024/07/02
+info,event,County Championship
+info,match_number,36
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,field
+info,umpire,AC Harris
+info,umpire,Hassan Adnan
+info,match_referee,AJ Swann
+info,winner,Sussex
+info,winner_runs,63
+info,player,Sussex,TJ Haines
+info,player,Sussex,DP Hughes
+info,player,Sussex,TP Alsop
+info,player,Sussex,JM Coles
+info,player,Sussex,OJ Carter
+info,player,Sussex,JA Simpson
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,OE Robinson
+info,player,Sussex,SF Hunt
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,PP Shaw
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,MP Breetzke
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,RA Weatherall
+info,player,Northamptonshire,CJ White
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CJ White,5a74e559
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Broad,ec5160d7
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Weatherall,acb94221
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SF Hunt,7f7f658b
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Yorkshire
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,date,2024/04/13
+info,date,2024/04/14
+info,date,2024/04/15
+info,event,County Championship
+info,match_number,6
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,PJ Hartley
+info,match_referee,PM Such
+info,outcome,draw
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,FJ Bean
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,GCH Hill
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,ME Milnes
+info,player,Yorkshire,MD Fisher
+info,player,Yorkshire,BO Coad
+info,player,Yorkshire,D Moriarty
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,AS Dale
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BO Coad,a37b5c0a
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,FJ Bean,1e0d4dcb
+info,registry,people,GCH Hill,214f6461
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JE Root,a343262c
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Fisher,8f2dfebf
+info,registry,people,ME Milnes,3dcd1e8d
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,PM Such,c9f1892c
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Zaman Akhter,63e1e352

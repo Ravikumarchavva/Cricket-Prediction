@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Colombo Strikers
+info,team,Dambulla Sixers
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,Lanka Premier League
+info,match_number,10
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Dambulla Sixers
+info,toss_decision,field
+info,player_of_match,MDKJ Perera
+info,umpire,RSA Palliyaguruge
+info,umpire,BSP Fernando
+info,reserve_umpire,R Dulsiri
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,BCMS Mendis
+info,winner,Dambulla Sixers
+info,winner_wickets,8
+info,player,Colombo Strikers,Rahmanullah Gurbaz
+info,player,Colombo Strikers,AK Perera
+info,player,Colombo Strikers,GD Phillips
+info,player,Colombo Strikers,S Samarawickrama
+info,player,Colombo Strikers,Shadab Khan
+info,player,Colombo Strikers,NLTC Perera
+info,player,Colombo Strikers,C Karunaratne
+info,player,Colombo Strikers,DN Wellalage
+info,player,Colombo Strikers,Taskin Ahmed
+info,player,Colombo Strikers,M Pathirana
+info,player,Colombo Strikers,B Fernando
+info,player,Dambulla Sixers,RR Hendricks
+info,player,Dambulla Sixers,MDKJ Perera
+info,player,Dambulla Sixers,LU Igalagamage
+info,player,Dambulla Sixers,MS Chapman
+info,player,Dambulla Sixers,MNK Fernando
+info,player,Dambulla Sixers,Mohammad Nabi
+info,player,Dambulla Sixers,C Wickramasinghe
+info,player,Dambulla Sixers,MADI Hemantha
+info,player,Dambulla Sixers,D Madushanka
+info,player,Dambulla Sixers,Mustafizur Rahman
+info,player,Dambulla Sixers,N Pradeep
+info,registry,people,AK Perera,c8ad0749
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BCMS Mendis,e3f6e4ac
+info,registry,people,BSP Fernando,8a49883f
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,C Wickramasinghe,a5c48ed1
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GS Dinusha,4bbfddd5
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,R Dulsiri,a7d3d23c
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Taskin Ahmed,ef18b66e

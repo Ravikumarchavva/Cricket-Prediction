@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South East Stars
+info,team,Thunder
+info,gender,female
+info,season,2023
+info,date,2023/04/22
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,2
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,South East Stars
+info,toss_decision,bat
+info,umpire,AY Harris
+info,umpire,Hassan Adnan
+info,match_referee,JJ Whitaker
+info,winner,South East Stars
+info,winner_runs,131
+info,player,South East Stars,KM Chathli
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,BF Smith
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,E Jones
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,J Spence
+info,player,South East Stars,FR Davies
+info,player,South East Stars,D Gregory
+info,player,South East Stars,B Miles
+info,player,Thunder,EL Lamb
+info,player,Thunder,ND Dattani
+info,player,Thunder,FMK Morris
+info,player,Thunder,E Threlkeld
+info,player,Thunder,DJS Dottin
+info,player,Thunder,DL Collins
+info,player,Thunder,L Heap
+info,player,Thunder,KL Cross
+info,player,Thunder,Olivia Thomas
+info,player,Thunder,TG Norris
+info,player,Thunder,A Hartley
+info,registry,people,A Hartley,53d50717
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,AY Harris,90d95b82
+info,registry,people,B Miles,39155047
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Jones,4cf60e73
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,FR Davies,2479daa6
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Spence,79dd743c
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,KL Cross,1ade138e
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,L Heap,8d26dfab
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,Olivia Thomas,dbdec8e0
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,TG Norris,8ae7bb3e

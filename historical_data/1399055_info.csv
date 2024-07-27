@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Malaysia
+info,gender,female
+info,season,2023
+info,date,2023/09/21
+info,event,Asian Games Women's Cricket Competition
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,umpire,A Natarajan
+info,umpire,Asif Yaqoob
+info,reserve_umpire,Arif Ansari
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,outcome,no result
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,RM Ghosh
+info,player,India,KS Ahuja
+info,player,India,DB Sharma
+info,player,India,DP Vaidya
+info,player,India,AB Kaur
+info,player,India,P Vastrakar
+info,player,India,M Mani
+info,player,India,RS Gayakwad
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Wan Nor Zulaika
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,Nik Nur Atiela
+info,registry,people,A Natarajan,a2b73ae0
+info,registry,people,AB Kaur,9565fda6
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Arif Ansari,95957b9e
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DP Vaidya,f9ded29b
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,KS Ahuja,58593620
+info,registry,people,M Mani,8d1ade08
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,Nik Nur Atiela,cfdfe39c
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c
+info,registry,people,Wan Nor Zulaika,ae99724d

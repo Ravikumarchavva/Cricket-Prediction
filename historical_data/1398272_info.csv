@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,England
+info,gender,female
+info,season,2024
+info,date,2024/05/26
+info,event,Pakistan Women tour of England
+info,match_number,2
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,umpire,AY Harris
+info,umpire,S Redfern
+info,reserve_umpire,J Naeem
+info,tv_umpire,Kim Cotton
+info,match_referee,H Pack
+info,outcome,no result
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Ayesha Zafar
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Najiha Alvi
+info,player,Pakistan,Umm-e-Hani
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,England,ME Bouchier
+info,player,England,TT Beaumont
+info,player,England,HC Knight
+info,player,England,NR Sciver-Brunt
+info,player,England,DN Wyatt
+info,player,England,AE Jones
+info,player,England,A Capsey
+info,player,England,CE Dean
+info,player,England,S Ecclestone
+info,player,England,KL Cross
+info,player,England,L Filer
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Ayesha Zafar,e15f4fa4
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,H Pack,fed53c91
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,KL Cross,1ade138e
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Filer,31adb911
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Najiha Alvi,faef39c1
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Redfern,5b038989
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,TT Beaumont,b2664905
+info,registry,people,Umm-e-Hani,6ee11109

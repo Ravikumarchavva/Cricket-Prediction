@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Munster Reds
+info,team,North-West Warriors
+info,gender,male
+info,season,2023
+info,date,2023/07/14
+info,event,Cricket Ireland Inter-Provincial Twenty20 Trophy
+info,match_number,7
+info,venue,"Bready Cricket Club, Magheramason, Bready"
+info,city,Bready
+info,toss_winner,North-West Warriors
+info,toss_decision,field
+info,umpire,Jonathan Kennedy
+info,umpire,M Hawthorne
+info,match_referee,G McCrea
+info,outcome,no result
+info,player,Munster Reds,M Commins
+info,player,Munster Reds,PJ Moor
+info,player,Munster Reds,AR Frost
+info,player,Munster Reds,C Campher
+info,player,Munster Reds,TE Kane
+info,player,Munster Reds,M Ford
+info,player,Munster Reds,NJ McGuire
+info,player,Munster Reds,R Joyce
+info,player,Munster Reds,CJB McCullough
+info,player,Munster Reds,M Frost
+info,player,Munster Reds,J Manley
+info,player,North-West Warriors,ST Doheny
+info,player,North-West Warriors,LC Doherty
+info,player,North-West Warriors,SJ MacBeth
+info,player,North-West Warriors,SC Getkate
+info,player,North-West Warriors,C Melly
+info,player,North-West Warriors,AR McBrine
+info,player,North-West Warriors,J Wilson
+info,player,North-West Warriors,C Robertson
+info,player,North-West Warriors,R MacBeth
+info,player,North-West Warriors,CA Young
+info,player,North-West Warriors,T McKeegan
+info,registry,people,AR Frost,a7750ab4
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,C Campher,478a63e7
+info,registry,people,C Melly,48641e31
+info,registry,people,C Robertson,d26de4de
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,CJB McCullough,5d6364f0
+info,registry,people,G McCrea,46f4a901
+info,registry,people,J Manley,05f85159
+info,registry,people,J Wilson,20f9e6b1
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,LC Doherty,6d5fceb7
+info,registry,people,M Commins,c537cf4d
+info,registry,people,M Ford,4fd0c3a6
+info,registry,people,M Frost,96d56d32
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,NJ McGuire,f8748f79
+info,registry,people,PJ Moor,a1d3540a
+info,registry,people,R Joyce,5caf0bcc
+info,registry,people,R MacBeth,b4402d8a
+info,registry,people,SC Getkate,c8065f31
+info,registry,people,SJ MacBeth,5d4338a2
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,T McKeegan,2052d6f4
+info,registry,people,TE Kane,af28816c

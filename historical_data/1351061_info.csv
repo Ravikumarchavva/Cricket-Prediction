@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Khulna Tigers
+info,team,Rangpur Riders
+info,gender,male
+info,season,2022/23
+info,date,2023/01/13
+info,event,Bangladesh Premier League
+info,match_number,10
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Rangpur Riders
+info,toss_decision,field
+info,player_of_match,Robiul Haque
+info,umpire,RMPJ Rambukwella
+info,umpire,Tanvir Ahmed
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Debabrata Paul
+info,winner,Rangpur Riders
+info,winner_wickets,4
+info,player,Khulna Tigers,Habibur Rahman
+info,player,Khulna Tigers,Tamim Iqbal
+info,player,Khulna Tigers,Sharjeel Khan
+info,player,Khulna Tigers,Azam Khan
+info,player,Khulna Tigers,Yasir Ali Chowdhury
+info,player,Khulna Tigers,Sabbir Rahman
+info,player,Khulna Tigers,Amad Butt
+info,player,Khulna Tigers,Mohammad Saifuddin
+info,player,Khulna Tigers,Nahidul Islam
+info,player,Khulna Tigers,Wahab Riaz
+info,player,Khulna Tigers,Nasum Ahmed
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Saim Ayub
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Mohammad Naim
+info,player,Rangpur Riders,Shoaib Malik
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Azmatullah Omarzai
+info,player,Rangpur Riders,Hasan Mahmud
+info,player,Rangpur Riders,Robiul Haque
+info,player,Rangpur Riders,Rakibul Hasan
+info,registry,people,Amad Butt,c6a1b1bb
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Debabrata Paul,a77f51d0
+info,registry,people,Habibur Rahman,cee2fbd8
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Nahidul Islam,8c7b16c8
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Robiul Haque,2353b224
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Sharjeel Khan,193ef196
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Yasir Ali Chowdhury,5791b840

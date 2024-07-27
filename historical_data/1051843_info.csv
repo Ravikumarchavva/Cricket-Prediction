@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Central Stags
+info,gender,male
+info,season,2016/17
+info,date,2017/02/25
+info,date,2017/02/26
+info,date,2017/02/27
+info,date,2017/02/28
+info,event,Plunket Shield
+info,venue,Colin Maiden Park
+info,city,
+info,toss_winner,Auckland Aces
+info,toss_decision,bat
+info,umpire,TJ Parlane
+info,umpire,AL Gillies
+info,match_referee,GAV Baxter
+info,outcome,draw
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,C Munro
+info,player,Auckland Aces,RJ Nicol
+info,player,Auckland Aces,TS Nethula
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,RS Sandhu
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,Aniket Parikh
+info,player,Central Stags,BS Smith
+info,player,Central Stags,GH Worker
+info,player,Central Stags,JD Ryder
+info,player,Central Stags,WA Young
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,NA Patel
+info,player,Central Stags,SHA Rance
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,GR Hay
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,Aniket Parikh,650f9d3c
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,BS Smith,556df4f9
+info,registry,people,C Munro,af2c687b
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,NA Patel,9123301a
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,RS Sandhu,2f55509e
+info,registry,people,SHA Rance,69c994e4
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,WA Young,8afe73e2

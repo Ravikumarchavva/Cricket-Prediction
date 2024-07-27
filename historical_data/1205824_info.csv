@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kerala
+info,team,Uttar Pradesh
+info,gender,male
+info,season,2019/20
+info,date,2019/11/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Greenfield Stadium
+info,city,
+info,toss_winner,Kerala
+info,toss_decision,bat
+info,winner,Kerala
+info,winner_runs,1
+info,method,VJD
+info,player,Kerala,Vishnu Vinod
+info,player,Kerala,Rohan Kunnummal
+info,player,Kerala,SV Samson
+info,player,Kerala,Sachin Baby
+info,player,Kerala,RV Uthappa
+info,player,Kerala,Akshay Chandran
+info,player,Kerala,Jalaj S Saxena
+info,player,Kerala,S Midhun
+info,player,Kerala,MD Nidheesh
+info,player,Kerala,KM Asif
+info,player,Kerala,S Sandeep Warrier
+info,player,Uttar Pradesh,B Kumar
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,Shanu Saini
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,Upendra Yadav
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Shubham Chaubey
+info,player,Uttar Pradesh,Sameer Choudhary
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Akshay Chandran,f0f5b2aa
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,Jalaj S Saxena,249abedf
+info,registry,people,KM Asif,798cc28e
+info,registry,people,MD Nidheesh,96513a65
+info,registry,people,Mohit Jangra,4052ab5c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,Rohan Kunnummal,a6004ded
+info,registry,people,S Midhun,ade90de7
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sachin Baby,dc9dd038
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Sameer Choudhary,9e67cfd0
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shanu Saini,61d1a3d3
+info,registry,people,Shubham Chaubey,58588e5a
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,Vishnu Vinod,0494fa6e

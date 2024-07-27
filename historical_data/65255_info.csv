@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,male
+info,season,2002/03
+info,date,2003/02/22
+info,event,ICC World Cup
+info,match_number,23
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JM Anderson
+info,umpire,BG Jerling
+info,umpire,RE Koertzen
+info,tv_umpire,SA Bucknor
+info,match_referee,MJ Procter
+info,winner,England
+info,winner_runs,112
+info,player,England,ME Trescothick
+info,player,England,NV Knight
+info,player,England,MP Vaughan
+info,player,England,N Hussain
+info,player,England,AJ Stewart
+info,player,England,PD Collingwood
+info,player,England,A Flintoff
+info,player,England,C White
+info,player,England,AF Giles
+info,player,England,AR Caddick
+info,player,England,JM Anderson
+info,player,Pakistan,Saeed Anwar
+info,player,Pakistan,Shahid Afridi
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Wasim Akram
+info,player,Pakistan,Saqlain Mushtaq
+info,player,Pakistan,Waqar Younis
+info,player,Pakistan,Shoaib Akhtar
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Stewart,a8ce3491
+info,registry,people,AR Caddick,25020f9d
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BG Jerling,26457e41
+info,registry,people,C White,f44af07f
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MJ Procter,32e65048
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,N Hussain,f76ffa81
+info,registry,people,NV Knight,d2f3829d
+info,registry,people,PD Collingwood,a386e91b
+info,registry,people,RE Koertzen,0265fab2
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,Saeed Anwar,0aa14354
+info,registry,people,Saqlain Mushtaq,047c67ba
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Waqar Younis,d8906a73
+info,registry,people,Wasim Akram,126e56a1
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

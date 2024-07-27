@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Denmark
+info,gender,male
+info,season,2023
+info,date,2023/07/25
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,13
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,HJ Manenti
+info,umpire,N Bathi
+info,umpire,R Black
+info,reserve_umpire,DH Mclean
+info,match_referee,Phil Whitticase
+info,winner,Italy
+info,winner_runs,26
+info,player,Italy,BAD Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,WL Madsen
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,G Stewart
+info,player,Italy,Jaspreet Singh
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,Manpreet Singh
+info,player,Italy,S di Bartolomeo
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,T Bharaj
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,SA Ahmad
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Lucky Ali
+info,player,Denmark,Saran Aslam
+info,player,Denmark,Surya Anand
+info,player,Denmark,Saud Munir
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,E Karimi
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,DH Mclean,281d4749
+info,registry,people,E Karimi,95bd9407
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Black,156c8fb1
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Saran Aslam,2a00735b
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,WL Madsen,86e0f3f0

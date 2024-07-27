@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Kenya
+info,gender,male
+info,season,2002/03
+info,date,2003/04/06
+info,event,Cherry Blossom Sharjah Cup
+info,match_number,4
+info,venue,Sharjah Cricket Association Stadium
+info,city,Sharjah
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,KC Sangakkara
+info,umpire,AV Jayaprakash
+info,umpire,KC Barbour
+info,tv_umpire,BR Doctrove
+info,match_referee,AM Ebrahim
+info,winner,Sri Lanka
+info,winner_runs,129
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,DA Gunawardene
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,KS Lokuarachchi
+info,player,Sri Lanka,HDPK Dharmasena
+info,player,Sri Lanka,HAPW Jayawardene
+info,player,Sri Lanka,TCB Fernando
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,RAP Nissanka
+info,player,Kenya,KO Otieno
+info,player,Kenya,DO Obuya
+info,player,Kenya,BJ Patel
+info,player,Kenya,SO Tikolo
+info,player,Kenya,TM Odoyo
+info,player,Kenya,MO Odumbe
+info,player,Kenya,HS Modi
+info,player,Kenya,CO Obuya
+info,player,Kenya,AO Suji
+info,player,Kenya,PJ Ongondo
+info,player,Kenya,AS Luseno
+info,registry,people,AM Ebrahim,814fafa7
+info,registry,people,AO Suji,b15eaf77
+info,registry,people,AS Luseno,2b76eb00
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,BJ Patel,0b7930ed
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,DA Gunawardene,cff25ee1
+info,registry,people,DO Obuya,6ed3d5ac
+info,registry,people,HAPW Jayawardene,4a25c894
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,HS Modi,5abdfd23
+info,registry,people,KC Barbour,4359f89a
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,KO Otieno,fbaa61d2
+info,registry,people,KS Lokuarachchi,3b50c63a
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MO Odumbe,45477249
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,PJ Ongondo,27cc4361
+info,registry,people,RAP Nissanka,6cc006ef
+info,registry,people,SO Tikolo,00d69fa4
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,TCB Fernando,717e803a
+info,registry,people,TM Odoyo,2c13defe

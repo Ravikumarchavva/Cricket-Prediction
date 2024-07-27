@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Paarl Royals
+info,gender,male
+info,season,2023/24
+info,date,2024/01/24
+info,event,SA20
+info,match_number,17
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Paarl Royals
+info,toss_decision,field
+info,player_of_match,RR Hendricks
+info,umpire,DJ Smith
+info,umpire,RJ Warren
+info,reserve_umpire,PJ Vosloo
+info,tv_umpire,Stephen Harris
+info,match_referee,ZTA Ndamane
+info,winner,Paarl Royals
+info,winner_wickets,5
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,KI Simmonds
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,DJ Vilas
+info,player,Paarl Royals,FA Allen
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,T Shamsi
+info,player,Paarl Royals,OC McCoy
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Burger,465aa633
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,ZTA Ndamane,545cc6db

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/18
+info,event,Vitality Blast
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,ID Blackwell
+info,umpire,RK Illingworth
+info,match_referee,DE Malcolm
+info,winner,Glamorgan
+info,winner_runs,32
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AG Salter
+info,player,Glamorgan,Callum Taylor
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,BJJ Wells
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,TJ Price
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,TMJ Smith
+info,registry,people,AG Salter,1a45b864
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJJ Wells,ad9a3160
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,Callum Taylor,5a42a396
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DE Malcolm,29c7ca03
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MD Taylor,01a95383
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,RK Illingworth,20672246
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TJ Price,269ff06e
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,WT Root,72898514
+info,registry,people,Zaman Akhter,63e1e352

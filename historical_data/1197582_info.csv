@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Canterbury
+info,gender,male
+info,season,2019/20
+info,date,2019/10/29
+info,date,2019/10/30
+info,date,2019/10/31
+info,date,2019/11/01
+info,event,Plunket Shield
+info,venue,Cello Basin Reserve
+info,city,
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,GA Stirrat
+info,match_referee,K Pulley
+info,winner,Wellington Firebirds
+info,winner_runs,44
+info,player,Wellington Firebirds,FJ Colson
+info,player,Wellington Firebirds,AT Fletcher
+info,player,Wellington Firebirds,DP Conway
+info,player,Wellington Firebirds,MG Bracewell
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,MJ Nofal
+info,player,Wellington Firebirds,JD Gibson
+info,player,Wellington Firebirds,PF Younghusband
+info,player,Wellington Firebirds,LV van Beek
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,MW Snedden
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,SJ Murdoch
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,TD Astle
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,WSA Williams
+info,player,Canterbury,ATE Hazeldine
+info,player,Canterbury,EJ Nuttall
+info,registry,people,AJ Leonard,b501ed14
+info,registry,people,AT Fletcher,d4e6fc0a
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DP Conway,df5a6881
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,FJ Colson,c2327c5d
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GA Stirrat,6c46022b
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JD Gibson,57f520ee
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Nofal,ac762575
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TD Astle,383dd431
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WSA Williams,861eed37

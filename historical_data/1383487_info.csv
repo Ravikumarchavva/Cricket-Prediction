@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tripura
+info,team,Tamil Nadu
+info,gender,male
+info,season,2023/24
+info,date,2023/10/19
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Abhimanyu Cricket Academy, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Tripura
+info,toss_decision,bat
+info,umpire,A Nand Kishore
+info,umpire,VM Dhokre
+info,tv_umpire,HAS Khalid
+info,match_referee,Sanjay Verma
+info,winner,Tamil Nadu
+info,winner_wickets,8
+info,player,Tripura,Amit Ali
+info,player,Tripura,Bikramkumar Das
+info,player,Tripura,WP Saha
+info,player,Tripura,Sudip Chatterjee
+info,player,Tripura,Ganesh Satish
+info,player,Tripura,SS Ghosh
+info,player,Tripura,Rajat Dey
+info,player,Tripura,Parvez Sultan
+info,player,Tripura,Manisankar Murasingh
+info,player,Tripura,Sankar Paul
+info,player,Tripura,AK Sarkar
+info,player,Tripura,Ajay Sarkar
+info,player,Tamil Nadu,T Natarajan
+info,player,Tamil Nadu,G Ajitesh
+info,player,Tamil Nadu,Hari Nishaanth
+info,player,Tamil Nadu,B Sai Sudharsan
+info,player,Tamil Nadu,M Shahrukh Khan
+info,player,Tamil Nadu,KR Sen
+info,player,Tamil Nadu,R Sai Kishore
+info,player,Tamil Nadu,B Aparajith
+info,player,Tamil Nadu,CV Varun
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,S Sandeep Warrier
+info,player,Tamil Nadu,Washington Sundar
+info,registry,people,A Nand Kishore,84424f4f
+info,registry,people,AK Sarkar,92cadfe2
+info,registry,people,Ajay Sarkar,10636efb
+info,registry,people,Amit Ali,b54d8acf
+info,registry,people,B Aparajith,5b627626
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,Bikramkumar Das,601398c4
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,G Ajitesh,09a341f9
+info,registry,people,Ganesh Satish,0ed1a112
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Hari Nishaanth,c3f37533
+info,registry,people,KR Sen,2e78f685
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,Manisankar Murasingh,52cb36a0
+info,registry,people,Parvez Sultan,00335246
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,Rajat Dey,ccc04a61
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,SS Ghosh,02b25ee4
+info,registry,people,Sanjay Verma,bc19a37f
+info,registry,people,Sankar Paul,34cbc9d2
+info,registry,people,Sudip Chatterjee,0cb8626f
+info,registry,people,T Natarajan,ce794613
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,VM Dhokre,67df71c9
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,Washington Sundar,f19ccfad

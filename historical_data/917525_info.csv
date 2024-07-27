@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Auckland Aces
+info,gender,male
+info,season,2015/16
+info,date,2015/10/23
+info,date,2015/10/24
+info,date,2015/10/25
+info,date,2015/10/26
+info,event,Plunket Shield
+info,venue,"Bay Oval, Mount Maunganui"
+info,city,Mount Maunganui
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,BG Frost
+info,umpire,AL Gillies
+info,winner,Auckland Aces
+info,winner_wickets,3
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,NF Kelly
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,JJ Boult
+info,player,Northern Districts,JD Baker
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,RJ Nicol
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,C de Grandhomme
+info,player,Auckland Aces,C Munro
+info,player,Auckland Aces,B Cachopa
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,TS Nethula
+info,player,Auckland Aces,MD Bates
+info,player,Auckland Aces,MJ McClenaghan
+info,player,Auckland Aces,LH Ferguson
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,B Cachopa,e9a44f08
+info,registry,people,B Popli,848487cf
+info,registry,people,BG Frost,fd8ffc13
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,C Munro,af2c687b
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JJ Boult,3b298ff2
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MD Bates,1b3acd33
+info,registry,people,MJ McClenaghan,51a3c5ef
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TS Nethula,e82dc4c5

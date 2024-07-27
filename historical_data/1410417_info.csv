@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Surrey
+info,gender,male
+info,season,2024
+info,date,2024/06/14
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,M Burns
+info,match_referee,AM Smith
+info,outcome,tie
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,J Shaw
+info,player,Surrey,DW Lawrence
+info,player,Surrey,LJ Evans
+info,player,Surrey,JJ Roy
+info,player,Surrey,OJ Pope
+info,player,Surrey,JL Smith
+info,player,Surrey,TK Curran
+info,player,Surrey,DP Sibley
+info,player,Surrey,J Clark
+info,player,Surrey,SA Abbott
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,SH Johnson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Smith,c834c290
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,TK Curran,e86754b2

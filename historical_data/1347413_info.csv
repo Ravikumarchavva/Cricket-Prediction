@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sunrisers
+info,team,Northern Diamonds
+info,gender,female
+info,season,2023
+info,date,2023/05/01
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,11
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Sunrisers
+info,toss_decision,bat
+info,umpire,J Ibbotson
+info,umpire,Rob White
+info,match_referee,SG Hinks
+info,winner,Northern Diamonds
+info,winner_wickets,5
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,CL Griffith
+info,player,Sunrisers,J Grewcock
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,S Horley
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,E Gray
+info,player,Sunrisers,KS Castle
+info,player,Sunrisers,KL Coppack
+info,player,Sunrisers,AH Maqsood
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,CL Tryon
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,A Glen
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,JA Woolston
+info,registry,people,A Glen,9da0d1e5
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,E Gray,58717de2
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Grewcock,92b94582
+info,registry,people,J Ibbotson,7318fdbf
+info,registry,people,JA Woolston,c1f3ae44
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,KS Castle,67045de6
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,Rob White,59b91222
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SL Kalis,2b150c6b

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Lahore Qalandars
+info,gender,male
+info,season,2022/23
+info,date,2023/03/07
+info,event,Pakistan Super League
+info,match_number,23
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Peshawar Zalmi
+info,toss_decision,bat
+info,player_of_match,Saim Ayub
+info,umpire,AG Wharf
+info,umpire,Asif Yaqoob
+info,reserve_umpire,Nasir Hussain
+info,tv_umpire,Ahsan Raza
+info,match_referee,Muhammad Javed
+info,winner,Peshawar Zalmi
+info,winner_runs,35
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,Haseebullah Khan
+info,player,Peshawar Zalmi,Aamer Jamal
+info,player,Peshawar Zalmi,Azmatullah Omarzai
+info,player,Peshawar Zalmi,Wahab Riaz
+info,player,Peshawar Zalmi,Mujeeb Ur Rahman
+info,player,Peshawar Zalmi,Arshad Iqbal
+info,player,Lahore Qalandars,Shawaiz Irfan
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,Abdullah Shafique
+info,player,Lahore Qalandars,SW Billings
+info,player,Lahore Qalandars,Hussain Talat
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,D Wiese
+info,player,Lahore Qalandars,Rashid Khan
+info,player,Lahore Qalandars,Haris Rauf
+info,player,Lahore Qalandars,Zaman Khan
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Arshad Iqbal,ed031922
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Haseebullah Khan,5691931a
+info,registry,people,Hussain Talat,bb4b445b
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Nasir Hussain,5b2fe85b
+info,registry,people,R Powell,650d5e49
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shawaiz Irfan,019ca34a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Zaman Khan,28392e11

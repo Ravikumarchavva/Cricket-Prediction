@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Surrey
+info,gender,male
+info,season,2023
+info,date,2023/07/15
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Surrey
+info,toss_decision,field
+info,player_of_match,C Overton
+info,umpire,GD Lloyd
+info,umpire,SJ O'Shaughnessy
+info,reserve_umpire,RJ Warren
+info,tv_umpire,MJ Saggers
+info,match_referee,DA Cosker
+info,winner,Somerset
+info,winner_runs,24
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,C Overton
+info,player,Somerset,MJ Henry
+info,player,Somerset,IS Sodhi
+info,player,Somerset,Shoaib Bashir
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,JJ Roy
+info,player,Surrey,SM Curran
+info,player,Surrey,JL Smith
+info,player,Surrey,TK Curran
+info,player,Surrey,J Overton
+info,player,Surrey,CJ Jordan
+info,player,Surrey,SA Abbott
+info,player,Surrey,CT Steel
+info,player,Surrey,AAP Atkinson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,BGF Green,34b37279
+info,registry,people,C Overton,e9987a94
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Smith,c834c290
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,Shoaib Bashir,e36e9dd3
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,WG Jacks,9caf69a1

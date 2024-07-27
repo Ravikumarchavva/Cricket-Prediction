@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Oman
+info,gender,male
+info,season,2023
+info,date,2023/06/21
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,8
+info,venue,Bulawayo Athletic Club
+info,city,Bulawayo
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,Shoaib Khan
+info,umpire,BP Jele
+info,umpire,GO Brathwaite
+info,reserve_umpire,I Chabi
+info,tv_umpire,Aleem Dar
+info,match_referee,S Wadvalla
+info,winner,Oman
+info,winner_wickets,5
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Shoaib Khan
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Ayan Khan
+info,player,Oman,Naseem Khushi
+info,player,Oman,Jay Odedra
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,I Chabi,5e39110e
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Jay Odedra,526e006d
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0
+info,registry,people,Zeeshan Maqsood,34464143

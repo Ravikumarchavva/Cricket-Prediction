@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Papua New Guinea
+info,gender,male
+info,season,2023
+info,date,2023/03/27
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,2
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,player_of_match,Aayan Afzal Khan
+info,umpire,A Louw
+info,umpire,Patric Makumbi
+info,reserve_umpire,Claus Schumacher
+info,match_referee,GH Pienaar
+info,winner,United Arab Emirates
+info,winner_runs,21
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,SM Sharma
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,G Toka
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,CA Soper
+info,player,Papua New Guinea,HGV Vare
+info,player,Papua New Guinea,SI Kamea
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Vala,72e60730
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,CA Soper,9920dd86
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,G Toka,c3564c2d
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HGV Vare,98299b67
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Doriga,365229a8
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,N Vanua,a36915ce
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Hekure,c70448aa
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,S Bau,9a95bebb
+info,registry,people,SI Kamea,0730a707
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

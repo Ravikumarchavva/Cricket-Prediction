@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Durdanto Dhaka
+info,gender,male
+info,season,2023/24
+info,date,2024/02/10
+info,event,Bangladesh Premier League
+info,match_number,28
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Fortune Barishal
+info,toss_decision,bat
+info,player_of_match,Soumya Sarkar
+info,umpire,DJ Millns
+info,umpire,Mahfuzur Rahman
+info,reserve_umpire,Shafeen Shareef
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Showkatur Rahman
+info,winner,Fortune Barishal
+info,winner_runs,40
+info,player,Fortune Barishal,Ahmed Shehzad
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Shoaib Malik
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Mohammad Saifuddin
+info,player,Fortune Barishal,Taijul Islam
+info,player,Fortune Barishal,OC McCoy
+info,player,Fortune Barishal,Akif Javed
+info,player,Durdanto Dhaka,Sabbir Hossain
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,Saif Hassan
+info,player,Durdanto Dhaka,AI Ross
+info,player,Durdanto Dhaka,SM Meherob
+info,player,Durdanto Dhaka,PC de Silva
+info,player,Durdanto Dhaka,Tahjibul Islam
+info,player,Durdanto Dhaka,SMLD Samarakoon
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Shoriful Islam
+info,player,Durdanto Dhaka,Arafat Sunny
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Akif Javed,99d7d5b7
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,Pritom Kumar,b960524d
+info,registry,people,SM Meherob,f146c339
+info,registry,people,SMLD Samarakoon,d28f4d1c
+info,registry,people,Sabbir Hossain,047e80ca
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shafeen Shareef,bd616323
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Showkatur Rahman,5340a1c1
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tahjibul Islam,5efbe408
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Taskin Ahmed,ef18b66e

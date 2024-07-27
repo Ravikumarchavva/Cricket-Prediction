@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Odisha
+info,team,Puducherry
+info,gender,male
+info,season,2021/22
+info,date,2021/11/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+info,city,
+info,toss_winner,Puducherry
+info,toss_decision,field
+info,winner,Puducherry
+info,winner_wickets,6
+info,player,Odisha,Rajesh Dhuper
+info,player,Odisha,Sandeep Pattnaik
+info,player,Odisha,Subhransu Senapati
+info,player,Odisha,Pratik Das
+info,player,Odisha,Abhishek Yadav
+info,player,Odisha,AS Raut
+info,player,Odisha,Prayas Singh
+info,player,Odisha,Bikash K Rout
+info,player,Odisha,Harshit Rathod
+info,player,Odisha,Rajesh Mohanty
+info,player,Odisha,B Shiva
+info,player,Puducherry,Ashith Rajiv
+info,player,Puducherry,Suboth Bhati
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,Sagar Trivedi
+info,player,Puducherry,Bharat Sharma
+info,player,Puducherry,Ramachandran Ragupathy
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,P Dogra
+info,player,Puducherry,Iqlas Naha
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,S Karthik
+info,registry,people,AS Raut,c69a7b5c
+info,registry,people,Abhishek Yadav,bca46fdb
+info,registry,people,Ashith Rajiv,502056e3
+info,registry,people,B Shiva,eec98aed
+info,registry,people,Bharat Sharma,2314745e
+info,registry,people,Bikash K Rout,25284a3c
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Harshit Rathod,4666d699
+info,registry,people,Iqlas Naha,44cc7766
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,Pratik Das,d4d4adcd
+info,registry,people,Prayas Singh,d8fee704
+info,registry,people,Rajesh Dhuper,0861a8d6
+info,registry,people,Rajesh Mohanty,a73f1f24
+info,registry,people,Ramachandran Ragupathy,bdecece1
+info,registry,people,S Karthik,14c90152
+info,registry,people,Sagar Trivedi,8da6dbf1
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Sandeep Pattnaik,7db2113f
+info,registry,people,Subhransu Senapati,0edcb652
+info,registry,people,Suboth Bhati,bee290b6

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2023
+info,date,2023/09/08
+info,event,New Zealand tour of England
+info,match_number,1
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,DP Conway
+info,umpire,AG Wharf
+info,umpire,PR Reiffel
+info,reserve_umpire,MJ Saggers
+info,tv_umpire,AT Holdstock
+info,match_referee,BC Broad
+info,winner,New Zealand
+info,winner_wickets,8
+info,player,England,HC Brook
+info,player,England,DJ Malan
+info,player,England,JE Root
+info,player,England,BA Stokes
+info,player,England,JC Buttler
+info,player,England,LS Livingstone
+info,player,England,CR Woakes
+info,player,England,DJ Willey
+info,player,England,AU Rashid
+info,player,England,AAP Atkinson
+info,player,England,RJW Topley
+info,player,New Zealand,DP Conway
+info,player,New Zealand,WA Young
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,TG Southee
+info,player,New Zealand,LH Ferguson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DP Conway,df5a6881
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JE Root,a343262c
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WA Young,8afe73e2

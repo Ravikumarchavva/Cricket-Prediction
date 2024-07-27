@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI New York
+info,team,Los Angeles Knight Riders
+info,gender,male
+info,season,2023
+info,date,2023/07/16
+info,event,Major League Cricket
+info,match_number,6
+info,venue,Grand Prairie Stadium
+info,city,Dallas
+info,toss_winner,MI New York
+info,toss_decision,bat
+info,player_of_match,TH David
+info,umpire,Aleem Dar
+info,umpire,BV Taylor
+info,reserve_umpire,O Brown
+info,tv_umpire,WR Knights
+info,match_referee,Reon King
+info,winner,MI New York
+info,winner_runs,105
+info,player,MI New York,D Brevis
+info,player,MI New York,Shayan Jahangir
+info,player,MI New York,MD Patel
+info,player,MI New York,Hammad Azam
+info,player,MI New York,N Pooran
+info,player,MI New York,KA Pollard
+info,player,MI New York,TH David
+info,player,MI New York,K Rabada
+info,player,MI New York,NP Kenjige
+info,player,MI New York,TA Boult
+info,player,MI New York,Ehsan Adil
+info,player,Los Angeles Knight Riders,MJ Guptill
+info,player,Los Angeles Knight Riders,UBT Chand
+info,player,Los Angeles Knight Riders,RR Rossouw
+info,player,Los Angeles Knight Riders,NR Kumar
+info,player,Los Angeles Knight Riders,JS Malhotra
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,CA Dry
+info,player,Los Angeles Knight Riders,A Zampa
+info,player,Los Angeles Knight Riders,Ali Khan
+info,player,Los Angeles Knight Riders,LH Ferguson
+info,registry,people,A Zampa,14f96089
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BV Taylor,99760152
+info,registry,people,CA Dry,7bc29ffb
+info,registry,people,D Brevis,844e79d1
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,Hammad Azam,57bd3ecc
+info,registry,people,JS Malhotra,9633359f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,O Brown,22fe51d7
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,WR Knights,63cbf8d8

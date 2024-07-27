@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2022/23
+info,date,2023/01/24
+info,event,New Zealand tour of India
+info,match_number,3
+info,venue,"Holkar Cricket Stadium, Indore"
+info,city,Indore
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,SN Thakur
+info,umpire,J Madanagopal
+info,umpire,Nitin Menon
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,AK Chaudhary
+info,match_referee,J Srinath
+info,winner,India
+info,winner_runs,90
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,V Kohli
+info,player,India,Ishan Kishan
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,Washington Sundar
+info,player,India,SN Thakur
+info,player,India,Kuldeep Yadav
+info,player,India,Umran Malik
+info,player,India,YS Chahal
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,JA Duffy
+info,player,New Zealand,BM Tickner
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YS Chahal,57ee1fde

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Kent
+info,gender,male
+info,season,2023
+info,date,2023/09/19
+info,date,2023/09/20
+info,date,2023/09/21
+info,date,2023/09/22
+info,event,County Championship
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,MJ Saggers
+info,umpire,Tom Lungley
+info,match_referee,Phil Whitticase
+info,outcome,draw
+info,player,Somerset,TA Lammonby
+info,player,Somerset,TB Abell
+info,player,Somerset,LP Goldsworthy
+info,player,Somerset,ARI Umeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,JEK Rew
+info,player,Somerset,T Banton
+info,player,Somerset,L Gregory
+info,player,Somerset,JH Davey
+info,player,Somerset,N Wagner
+info,player,Somerset,JA Brooks
+info,player,Kent,BG Compton
+info,player,Kent,TS Muyeye
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JA Leaning
+info,player,Kent,JL Denly
+info,player,Kent,HZ Finch
+info,player,Kent,MK O'Riordan
+info,player,Kent,JDM Evison
+info,player,Kent,Jaskaran Singh
+info,player,Kent,Arafat Bhuiyan
+info,player,Kent,MG Hogan
+info,registry,people,ARI Umeed,7a32c1c1
+info,registry,people,Arafat Bhuiyan,71183382
+info,registry,people,BG Compton,52d884b9
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,HZ Finch,6b16f8ba
+info,registry,people,JA Brooks,8bf61e65
+info,registry,people,JA Leaning,f2ab7a69
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JEK Rew,521595e7
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,Jaskaran Singh,ec178b04
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,MG Hogan,5da34add
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,N Wagner,78adc879
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,Tom Lungley,75169b8c

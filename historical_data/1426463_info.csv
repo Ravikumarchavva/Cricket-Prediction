@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Cambodia
+info,gender,male
+info,season,2024
+info,date,2024/04/14
+info,event,ACC Men's Premier Cup
+info,match_number,9
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+info,city,Al Amarat
+info,toss_winner,Cambodia
+info,toss_decision,field
+info,player_of_match,Aqib Ilyas
+info,umpire,Ahmed Shah Durrani
+info,umpire,N D'Souza
+info,reserve_umpire,Abdul Jabbar
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,Prakash Bhatt
+info,winner,Oman
+info,winner_runs,63
+info,player,Oman,KH Prajapati
+info,player,Oman,Naseem Khushi
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Ayan Khan
+info,player,Oman,Khalid Kail
+info,player,Oman,Rafiullah
+info,player,Oman,PS Athavale
+info,player,Oman,Mehran Khan
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,RR Sharan
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,RV Viraj
+info,player,Cambodia,E Beukes
+info,player,Cambodia,S Godara
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,Salvin Stanly
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,Prasad Anish
+info,player,Cambodia,GC Murtaza
+info,registry,people,Abdul Jabbar,3f4b9ae5
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Khalid Kail,3ee90b67
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,N D'Souza,4b7f60af
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Sharan,7cff331d
+info,registry,people,RV Viraj,a744d530
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,S Godara,dd7dd27a
+info,registry,people,Salvin Stanly,a6631b55
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,Zeeshan Maqsood,34464143

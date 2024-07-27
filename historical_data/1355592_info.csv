@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,London Spirit
+info,team,Oval Invincibles
+info,gender,female
+info,season,2023
+info,date,2023/08/15
+info,event,The Hundred Women's Competition
+info,match_number,21
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Oval Invincibles
+info,toss_decision,field
+info,player_of_match,TG Norris
+info,umpire,NL Bainton
+info,umpire,S Redfern
+info,reserve_umpire,WRP Fernando
+info,tv_umpire,AY Harris
+info,match_referee,SM Bartlett
+info,winner,London Spirit
+info,winner_runs,21
+info,player,London Spirit,N Holland
+info,player,London Spirit,DR Gibson
+info,player,London Spirit,HC Knight
+info,player,London Spirit,GM Harris
+info,player,London Spirit,AC Kerr
+info,player,London Spirit,RM Ghosh
+info,player,London Spirit,S Glenn
+info,player,London Spirit,CE Dean
+info,player,London Spirit,AZ Monaghan
+info,player,London Spirit,TG Norris
+info,player,London Spirit,L Filer
+info,player,Oval Invincibles,L Winfield-Hill
+info,player,Oval Invincibles,SW Bates
+info,player,Oval Invincibles,A Capsey
+info,player,Oval Invincibles,M Kapp
+info,player,Oval Invincibles,PJ Scholfield
+info,player,Oval Invincibles,CL Griffith
+info,player,Oval Invincibles,MK Villiers
+info,player,Oval Invincibles,KM Chathli
+info,player,Oval Invincibles,R MacDonald-Gay
+info,player,Oval Invincibles,E Gray
+info,player,Oval Invincibles,Sophia Smale
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AY Harris,90d95b82
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,DR Gibson,d2763568
+info,registry,people,E Gray,58717de2
+info,registry,people,GM Harris,72166006
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,L Filer,31adb911
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,N Holland,aefd0567
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sophia Smale,c296dba1
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,WRP Fernando,7d98d385

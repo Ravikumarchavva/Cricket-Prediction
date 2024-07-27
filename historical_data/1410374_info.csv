@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Northamptonshire
+info,gender,male
+info,season,2024
+info,date,2024/05/30
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,RJ Bailey
+info,match_referee,AJ Swann
+info,winner,Northamptonshire
+info,winner_wickets,5
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,DL Lloyd
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,SR Patel
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,RA Whiteley
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,PR Brown
+info,player,Derbyshire,BM Tickner
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,MP Breetzke
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,RS Bopara
+info,player,Northamptonshire,Sikandar Raza
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,GA Bartlett
+info,player,Northamptonshire,RA Weatherall
+info,player,Northamptonshire,GLS Scrimshaw
+info,player,Northamptonshire,FJ Heldreich
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,GA Bartlett,e2caec46
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Weatherall,acb94221
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SR Patel,18fac429
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367

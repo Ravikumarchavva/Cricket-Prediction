@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/06/20
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,PR Pollard
+info,match_referee,JJ Whitaker
+info,winner,Surrey
+info,winner_runs,81
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SP Narine
+info,player,Surrey,SM Curran
+info,player,Surrey,J Overton
+info,player,Surrey,TK Curran
+info,player,Surrey,J Blake
+info,player,Surrey,SA Abbott
+info,player,Surrey,CJ Jordan
+info,player,Surrey,CT Steel
+info,player,Surrey,AAP Atkinson
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,CD Fletcher
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,player,Glamorgan,JP McIlroy
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,J Blake,3385b875
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,NJ Llong,573fb985
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,WT Root,72898514
+info,registry,people,WT Smale,97da28bd

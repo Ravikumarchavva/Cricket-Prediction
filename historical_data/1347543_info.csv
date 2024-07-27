@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Warwickshire
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/08/18
+info,event,One-Day Cup
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Northamptonshire
+info,toss_decision,field
+info,umpire,GD Lloyd
+info,umpire,RA Kettleborough
+info,match_referee,SG Hinks
+info,winner,Warwickshire
+info,winner_runs,24
+info,player,Warwickshire,EG Barnard
+info,player,Warwickshire,RM Yates
+info,player,Warwickshire,JG Bethell
+info,player,Warwickshire,WMH Rhodes
+info,player,Warwickshire,MGK Burgess
+info,player,Warwickshire,EA Brookes
+info,player,Warwickshire,K Smith
+info,player,Warwickshire,JB Lintott
+info,player,Warwickshire,HJH Brookes
+info,player,Warwickshire,CN Miles
+info,player,Warwickshire,OJ Hannon-Dalby
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,SM Whiteman
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,SC Kerrigan
+info,player,Northamptonshire,CJ White
+info,player,Northamptonshire,BW Sanderson
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,CJ White,5a74e559
+info,registry,people,CN Miles,5fed6272
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,EN Gay,aa710a58
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,J Broad,ec5160d7
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,K Smith,ee6ebf47
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,OJ Hannon-Dalby,e0ac7144
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,RM Yates,3581a798
+info,registry,people,SC Kerrigan,b20f423b
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,WMH Rhodes,f54dbda7

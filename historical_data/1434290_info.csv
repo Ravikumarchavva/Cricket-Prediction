@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,female
+info,season,2024
+info,date,2024/06/28
+info,date,2024/06/29
+info,date,2024/06/30
+info,date,2024/07/01
+info,event,South Africa Women tour of India
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,S Rana
+info,umpire,Gayathri Venugopal
+info,umpire,VK Sharma
+info,reserve_umpire,VG Rathi
+info,tv_umpire,J Madanagopal
+info,match_referee,GS Lakshmi
+info,winner,India
+info,winner_wickets,10
+info,player,India,Shafali Verma
+info,player,India,S Mandhana
+info,player,India,S Shubha
+info,player,India,JI Rodrigues
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,S Rana
+info,player,India,Renuka Singh
+info,player,India,RS Gayakwad
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,M Kapp
+info,player,South Africa,D Tucker
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Jafta
+info,player,South Africa,A Dercksen
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,M Klaas
+info,player,South Africa,N Mlaba
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,D Tucker,2b425403
+info,registry,people,DB Sharma,201fef33
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Rana,c4c374d9
+info,registry,people,S Shubha,6f9170c6
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,TS Sekhukhune,6e28e586
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,VK Sharma,a7a49df4

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Islamabad United
+info,team,Multan Sultans
+info,gender,male
+info,season,2023/24
+info,date,2024/02/20
+info,event,Pakistan Super League
+info,match_number,5
+info,venue,Multan Cricket Stadium
+info,city,Multan
+info,toss_winner,Multan Sultans
+info,toss_decision,field
+info,player_of_match,Mohammad Ali
+info,umpire,CB Gaffaney
+info,umpire,Faisal Afridi
+info,reserve_umpire,Abdul Muqeet
+info,tv_umpire,Rashid Riaz
+info,match_referee,Ali Naqvi
+info,winner,Multan Sultans
+info,winner_wickets,5
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,Agha Salman
+info,player,Islamabad United,JM Cox
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,Imad Wasim
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Naseem Shah
+info,player,Islamabad United,Ubaid Shah
+info,player,Islamabad United,TS Mills
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,DJ Malan
+info,player,Multan Sultans,RR Hendricks
+info,player,Multan Sultans,Yasir Khan
+info,player,Multan Sultans,Iftikhar Ahmed
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,DJ Willey
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,Abbas Afridi
+info,player,Multan Sultans,Mohammad Ali
+info,player,Multan Sultans,OP Stone
+info,registry,people,AD Hales,92aeac25
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Abdul Muqeet,37cb317b
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,C Munro,af2c687b
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Willey,7f048519
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Mohammad Ali,a86a37ab
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,OP Stone,3f659464
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TS Mills,245c97cb
+info,registry,people,Ubaid Shah,cc535250
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Yasir Khan,4f1bb625

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Worcestershire
+info,gender,male
+info,season,2024
+info,date,2024/05/31
+info,event,Vitality Blast
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Worcestershire
+info,toss_decision,field
+info,umpire,Chris Watts
+info,umpire,PR Pollard
+info,match_referee,SG Hinks
+info,winner,Worcestershire
+info,winner_wickets,5
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,TC Bruce
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,CJ Green
+info,player,Lancashire,TH Aspinwall
+info,player,Lancashire,L Wood
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,MT Stanley
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,JJ Cobb
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,NG Smith
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,AW Finch
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CJ Green,19b9f399
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GH Roderick,7081848a
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,L Wood,65b6943c
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,MT Stanley,faa8cfba
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SJ Croft,ab474682
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TH Aspinwall,00b195ae

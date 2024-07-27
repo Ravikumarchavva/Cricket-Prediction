@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Canterbury
+info,gender,male
+info,season,2016/17
+info,date,2017/03/06
+info,date,2017/03/07
+info,date,2017/03/08
+info,date,2017/03/09
+info,event,Plunket Shield
+info,venue,Eden Park
+info,city,
+info,toss_winner,Canterbury
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,WR Knights
+info,match_referee,RA Dykes
+info,outcome,draw
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,C Munro
+info,player,Auckland Aces,RJ Nicol
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,TS Nethula
+info,player,Auckland Aces,LH Ferguson
+info,player,Auckland Aces,MJ McClenaghan
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,JCT Boyle
+info,player,Canterbury,PG Fulton
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,TD Astle
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,HB Shipley
+info,player,Canterbury,TG Johnston
+info,registry,people,AM Ellis,f987245c
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,C Munro,af2c687b
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HB Shipley,5426de63
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ McClenaghan,51a3c5ef
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TD Astle,383dd431
+info,registry,people,TG Johnston,a1a5192e
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,WR Knights,63cbf8d8

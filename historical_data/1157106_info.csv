@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maharashtra
+info,team,Uttar Pradesh
+info,gender,male
+info,season,2018/19
+info,date,2019/02/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_runs,12
+info,player,Maharashtra,Yash Nahar
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,SM Gugale
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,AR Bawne
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,MD Ingale
+info,player,Maharashtra,VV Gite
+info,player,Maharashtra,SM Fallah
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Uttar Pradesh,Yash Dayal
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,Bobby Yadav
+info,player,Uttar Pradesh,Shiva Singh
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,Upendra Yadav
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,SK Raina
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,PK Garg
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,Bobby Yadav,a671ad8b
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,MD Ingale,a584021c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SM Gugale,fdf8d681
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shiva Singh,3b63b5cc
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,VV Gite,c15706c8
+info,registry,people,Yash Dayal,7210d461
+info,registry,people,Yash Nahar,487f5721

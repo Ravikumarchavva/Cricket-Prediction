@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/09/10
+info,date,2023/09/11
+info,date,2023/09/12
+info,date,2023/09/13
+info,event,County Championship
+info,venue,"County Ground, Hove"
+info,city,Brighton
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,PK Baldwin
+info,match_referee,Wayne Noon
+info,winner,Sussex
+info,winner_runs,15
+info,player,Sussex,TGR Clark
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,CA Pujara
+info,player,Sussex,JM Coles
+info,player,Sussex,OJ Carter
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,JJ Carson
+info,player,Sussex,A Karvelas
+info,player,Sussex,HT Crocombe
+info,player,Sussex,JD Unadkat
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,Umar Amin
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,SW Currie
+info,player,Leicestershire,MET Salisbury
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,Umar Amin,3029e282
+info,registry,people,Wayne Noon,736e1761

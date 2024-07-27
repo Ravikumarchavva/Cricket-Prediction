@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Malaysia
+info,gender,male
+info,season,2023/24
+info,date,2023/10/30
+info,event,ICC Men’s T20 World Cup Asia Qualifier Final
+info,match_number,3
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Oman
+info,toss_decision,bat
+info,player_of_match,Zeeshan Maqsood
+info,umpire,LE Hannibal
+info,umpire,Rashid Riaz
+info,reserve_umpire,Gazi Sohel
+info,match_referee,Ali Naqvi
+info,winner,Oman
+info,winner_runs,32
+info,player,Oman,KH Prajapati
+info,player,Oman,PS Athavale
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Shoaib Khan
+info,player,Oman,Ayan Khan
+info,player,Oman,Mehran Khan
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Pavandeep Singh
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zeeshan Maqsood,34464143
+info,registry,people,Zubaidi Zulkifle,dca8273d

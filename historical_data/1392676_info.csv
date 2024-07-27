@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2023/24
+info,date,2024/01/31
+info,event,SA20
+info,match_number,25
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Sunrisers Eastern Cape
+info,toss_decision,field
+info,player_of_match,DJ Worrall
+info,umpire,A Jacobs
+info,umpire,PJ Vosloo
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,BM White
+info,match_referee,SA Fritz
+info,winner,Sunrisers Eastern Cape
+info,winner_wickets,9
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,WL Madsen
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,KI Simmonds
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,DAJ Bracewell
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,DJ Malan
+info,player,Sunrisers Eastern Cape,TB Abell
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,PE Kruger
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,LA Dawson
+info,player,Sunrisers Eastern Cape,B Swanepoel
+info,player,Sunrisers Eastern Cape,SR Harmer
+info,player,Sunrisers Eastern Cape,DJ Worrall
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AK Markram,6a26221c
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,BM White,66c21d35
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Worrall,208f22ea
+info,registry,people,F du Plessis,3355b542
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Burger,465aa633
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WL Madsen,86e0f3f0

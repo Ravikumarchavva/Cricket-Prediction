@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Lancashire
+info,gender,male
+info,season,2023
+info,date,2023/07/25
+info,date,2023/07/26
+info,date,2023/07/27
+info,date,2023/07/28
+info,event,County Championship
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Northamptonshire
+info,toss_decision,bat
+info,umpire,GD Lloyd
+info,umpire,James Middlebrook
+info,match_referee,PM Such
+info,outcome,draw
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,SM Whiteman
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,DJ Leech
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,CJ White
+info,player,Northamptonshire,AK Russell
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,PD Salt
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,JP Morley
+info,registry,people,AK Russell,a6f2b2ef
+info,registry,people,CJ White,5a74e559
+info,registry,people,DJ Leech,2413a688
+info,registry,people,EN Gay,aa710a58
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,J Broad,ec5160d7
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PM Such,c9f1892c
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WSA Williams,861eed37

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lahore Qalandars
+info,team,Islamabad United
+info,gender,male
+info,season,2023/24
+info,date,2024/03/06
+info,event,Pakistan Super League
+info,match_number,23
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Islamabad United
+info,toss_decision,field
+info,player_of_match,HE van der Dussen
+info,umpire,Ahsan Raza
+info,umpire,AG Wharf
+info,reserve_umpire,Mohammad Asif
+info,tv_umpire,Asif Yaqoob
+info,match_referee,RS Mahanama
+info,winner,Lahore Qalandars
+info,winner_runs,17
+info,player,Lahore Qalandars,Sahibzada Farhan
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,HE van der Dussen
+info,player,Lahore Qalandars,SD Hope
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,Ahsan Hafeez
+info,player,Lahore Qalandars,D Wiese
+info,player,Lahore Qalandars,Jahandad Khan
+info,player,Lahore Qalandars,Tayyab Abbas
+info,player,Lahore Qalandars,Zaman Khan
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,Agha Salman
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,JM Cox
+info,player,Islamabad United,Imad Wasim
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Naseem Shah
+info,player,Islamabad United,Hunain Shah
+info,player,Islamabad United,Rumman Raees
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahsan Hafeez,86229495
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,C Munro,af2c687b
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Hunain Shah,3b8679bf
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,Jahandad Khan,22d73540
+info,registry,people,Mohammad Asif,b7b6790a
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Rumman Raees,1c790f4f
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Tayyab Abbas,6b972db7
+info,registry,people,Zaman Khan,28392e11

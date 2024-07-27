@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Belgium
+info,gender,male
+info,season,2024
+info,date,2024/05/11
+info,event,Mdina Cup
+info,match_number,5
+info,venue,Dreux Sport Cricket Club
+info,city,Dreux
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,F Khaliq
+info,umpire,Niaz Chaudhry
+info,umpire,Waseem Dar
+info,reserve_umpire,Atif Zahir
+info,match_referee,Asif Zahir
+info,winner,Belgium
+info,winner_wickets,7
+info,player,Malta,SSM Stanislaus
+info,player,Malta,Zeeshan Khan
+info,player,Malta,B George
+info,player,Malta,Jaspal Singh
+info,player,Malta,C Sudarsanan
+info,player,Malta,VP Thamotharam
+info,player,Malta,B Arora
+info,player,Malta,Fanyan Mughal
+info,player,Malta,Washeem Abbas
+info,player,Malta,Jaswinder Singh
+info,player,Malta,J Shaju
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,Sazzad Hosen
+info,player,Belgium,F Khaliq
+info,player,Belgium,B Niaz
+info,player,Belgium,S Jamil
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,D Dewald
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Zaki Ul Hassan
+info,player,Belgium,Adnan Razzaq
+info,registry,people,Adnan Razzaq,91c0d39f
+info,registry,people,Asif Zahir,2f4f7785
+info,registry,people,Atif Zahir,bdebac8a
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,B Niaz,b7824537
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,D Dewald,f97e4db3
+info,registry,people,F Khaliq,c17dcc29
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,Niaz Chaudhry,5abe5d27
+info,registry,people,S Jamil,3d6617c6
+info,registry,people,SSM Stanislaus,34dd3fd9
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sazzad Hosen,4dd6a707
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Waseem Dar,1a335960
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zaki Ul Hassan,1d6d8a8b
+info,registry,people,Zeeshan Khan,3f9b1a96

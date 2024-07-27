@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durdanto Dhaka
+info,team,Chattogram Challengers
+info,gender,male
+info,season,2023/24
+info,date,2024/01/22
+info,event,Bangladesh Premier League
+info,match_number,5
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Chattogram Challengers
+info,toss_decision,field
+info,player_of_match,Tanzid Hasan
+info,umpire,Asif Yaqoob
+info,umpire,Mohammad Kamruzzaman
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,Ali Arman
+info,match_referee,Raqibul Hasan
+info,winner,Chattogram Challengers
+info,winner_wickets,6
+info,player,Durdanto Dhaka,MD Gunathilaka
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,Saif Hassan
+info,player,Durdanto Dhaka,Mosaddek Hossain
+info,player,Durdanto Dhaka,AI Ross
+info,player,Durdanto Dhaka,Irfan Sukkur
+info,player,Durdanto Dhaka,L Croospulle
+info,player,Durdanto Dhaka,PC de Silva
+info,player,Durdanto Dhaka,Usman Qadir
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Shoriful Islam
+info,player,Durdanto Dhaka,Arafat Sunny
+info,player,Chattogram Challengers,WIA Fernando
+info,player,Chattogram Challengers,Tanzid Hasan
+info,player,Chattogram Challengers,Imran Uzzaman
+info,player,Chattogram Challengers,Shahadat Hossain
+info,player,Chattogram Challengers,Najibullah Zadran
+info,player,Chattogram Challengers,Shuvagata Hom
+info,player,Chattogram Challengers,Nihaduzzaman
+info,player,Chattogram Challengers,Shohidul Islam
+info,player,Chattogram Challengers,Al-Amin Hossain
+info,player,Chattogram Challengers,Bilal Khan
+info,player,Chattogram Challengers,C Campher
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,C Campher,478a63e7
+info,registry,people,Imran Uzzaman,1eff4f98
+info,registry,people,Irfan Sukkur,3cc7dd5f
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,MD Gunathilaka,509a7ca1
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Nihaduzzaman,eca6dcb2
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shahadat Hossain,69e23303
+info,registry,people,Shohidul Islam,607ed7c2
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Usman Qadir,33742f04
+info,registry,people,WIA Fernando,9550470d

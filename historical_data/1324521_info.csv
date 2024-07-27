@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Aura
+info,team,Jaffna Kings
+info,gender,male
+info,season,2022/23
+info,date,2022/12/07
+info,event,Lanka Premier League
+info,match_number,3
+info,venue,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota"
+info,city,Hambantota
+info,toss_winner,Dambulla Aura
+info,toss_decision,bat
+info,player_of_match,S Samarawickrama
+info,umpire,LE Hannibal
+info,umpire,REJ Martinesz
+info,reserve_umpire,BCN Amarasinghe
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,winner,Jaffna Kings
+info,winner_wickets,9
+info,player,Dambulla Aura,JM Cox
+info,player,Dambulla Aura,S Daniel
+info,player,Dambulla Aura,PBB Rajapaksa
+info,player,Dambulla Aura,Sikandar Raza
+info,player,Dambulla Aura,MD Shanaka
+info,player,Dambulla Aura,RTM Mendis
+info,player,Dambulla Aura,PC de Silva
+info,player,Dambulla Aura,LD Madushanka
+info,player,Dambulla Aura,Noor Ahmad
+info,player,Dambulla Aura,PA van Meekeren
+info,player,Dambulla Aura,CBRLS Kumara
+info,player,Jaffna Kings,S Samarawickrama
+info,player,Jaffna Kings,WIA Fernando
+info,player,Jaffna Kings,DA Randika
+info,player,Jaffna Kings,DM de Silva
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,JK Fuller
+info,player,Jaffna Kings,Shoaib Malik
+info,player,Jaffna Kings,M Theekshana
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,Zaman Khan
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DA Randika,f6bb92c1
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,LD Madushanka,de063a39
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,WIA Fernando,9550470d
+info,registry,people,Zaman Khan,28392e11

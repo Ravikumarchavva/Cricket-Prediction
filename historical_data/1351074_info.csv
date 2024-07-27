@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Fortune Barishal
+info,gender,male
+info,season,2022/23
+info,date,2023/01/24
+info,event,Bangladesh Premier League
+info,match_number,23
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Fortune Barishal
+info,toss_decision,field
+info,player_of_match,Nazmul Hossain Shanto
+info,umpire,DJ Millns
+info,umpire,Masudur Rahman
+info,reserve_umpire,Ali Arman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Debabrata Paul
+info,winner,Sylhet Strikers
+info,winner_runs,2
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,TJ Moores
+info,player,Sylhet Strikers,NLTC Perera
+info,player,Sylhet Strikers,Imad Wasim
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Mohammad Amir
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Fortune Barishal,Saif Hassan
+info,player,Fortune Barishal,Ibrahim Zadran
+info,player,Fortune Barishal,Anamul Haque
+info,player,Fortune Barishal,Shakib Al Hasan
+info,player,Fortune Barishal,Iftikhar Ahmed
+info,player,Fortune Barishal,Karim Janat
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Mohammad Wasim
+info,player,Fortune Barishal,Kamrul Islam Rabbi
+info,player,Fortune Barishal,Khaled Ahmed
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Debabrata Paul,a77f51d0
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,Karim Janat,62175638
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Zakir Hasan,e3e09091

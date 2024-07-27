@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Leicestershire
+info,team,Birmingham Bears
+info,gender,male
+info,season,2023
+info,date,2023/05/26
+info,event,Vitality Blast
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,bat
+info,umpire,Chris Watts
+info,umpire,James Middlebrook
+info,match_referee,Phil Whitticase
+info,winner,Birmingham Bears
+info,winner_wickets,5
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,AM Lilley
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,HJ Swindells
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,Naseem Shah
+info,player,Leicestershire,WS Davis
+info,player,Birmingham Bears,PR Stirling
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,GJ Maxwell
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,CG Benjamin
+info,player,Birmingham Bears,CR Woakes
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,CN Miles
+info,player,Birmingham Bears,HJH Brookes
+info,player,Birmingham Bears,JB Lintott
+info,registry,people,AL Davies,29ede60b
+info,registry,people,AM Lilley,88a004e9
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,CN Miles,5fed6272
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HJ Swindells,95fd757d
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,JB Lintott,e5218454
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SR Hain,67b9536c
+info,registry,people,WS Davis,078ffbf2

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Kenya
+info,gender,male
+info,season,2023/24
+info,date,2023/11/30
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,19
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Kenya
+info,toss_decision,field
+info,player_of_match,Sikandar Raza
+info,umpire,LB Gcuma
+info,umpire,Stephen Harris
+info,reserve_umpire,A Louw
+info,match_referee,GH Pienaar
+info,winner,Zimbabwe
+info,winner_runs,110
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,CT Mumba
+info,player,Zimbabwe,W Madhevere
+info,player,Kenya,CO Obuya
+info,player,Kenya,P Sharma
+info,player,Kenya,S Singh
+info,player,Kenya,IA Karim
+info,player,Kenya,SR Bhudia
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,SO Ngoche
+info,player,Kenya,LN Oluoch
+info,player,Kenya,F Mutua
+info,player,Kenya,GM Muthui
+info,player,Kenya,Vraj Patel
+info,registry,people,A Louw,5eecae5d
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,C Madande,3560a786
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,CT Mumba,28496266
+info,registry,people,F Mutua,21b67523
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,IA Karim,ca92a578
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Sharma,d047f983
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,S Singh,612a395c
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,Vraj Patel,2af28253
+info,registry,people,W Madhevere,a879b92c

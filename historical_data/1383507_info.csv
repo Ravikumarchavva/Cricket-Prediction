@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Haryana
+info,team,Mizoram
+info,gender,male
+info,season,2023/24
+info,date,2023/10/23
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Mizoram
+info,toss_decision,field
+info,umpire,A Totre
+info,umpire,M Kuppuraj
+info,match_referee,P Dharmani
+info,winner,Haryana
+info,winner_runs,95
+info,player,Haryana,AS Kumar
+info,player,Haryana,HV Patel
+info,player,Haryana,Ankit Kumar
+info,player,Haryana,Himanshu Rana
+info,player,Haryana,N Sindhu
+info,player,Haryana,RP Sharma
+info,player,Haryana,R Tewatia
+info,player,Haryana,Sumit Kumar
+info,player,Haryana,J Yadav
+info,player,Haryana,A Mishra
+info,player,Haryana,YS Chahal
+info,player,Haryana,A Kamboj
+info,player,Mizoram,TC Vanlalremruata
+info,player,Mizoram,Lalhruaizela
+info,player,Mizoram,AD Chopra
+info,player,Mizoram,J Anderson
+info,player,Mizoram,Joseph Lalthankhuma
+info,player,Mizoram,Lalhriatrenga
+info,player,Mizoram,Vikash Kumar
+info,player,Mizoram,Mohit Jangra
+info,player,Mizoram,F Lalmuanzuala
+info,player,Mizoram,KC Cariappa
+info,player,Mizoram,Lalhruai Ralte
+info,player,Mizoram,Remruatdika Ralte
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mishra,6b19d823
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AD Chopra,40737b8d
+info,registry,people,AS Kumar,771f3267
+info,registry,people,Ankit Kumar,9765545f
+info,registry,people,F Lalmuanzuala,054fc648
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Himanshu Rana,9d3940b3
+info,registry,people,J Anderson,33001741
+info,registry,people,J Yadav,81049310
+info,registry,people,Joseph Lalthankhuma,d644b8b2
+info,registry,people,KC Cariappa,edb3d4f8
+info,registry,people,Lalhriatrenga,21527bc1
+info,registry,people,Lalhruai Ralte,c2ed5822
+info,registry,people,Lalhruaizela,4cfda770
+info,registry,people,M Kuppuraj,aa4063d0
+info,registry,people,Mohit Jangra,4052ab5c
+info,registry,people,N Sindhu,3cea23da
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RP Sharma,805b89d7
+info,registry,people,Remruatdika Ralte,895a0ead
+info,registry,people,Sumit Kumar,8998a68f
+info,registry,people,TC Vanlalremruata,e37053c4
+info,registry,people,Vikash Kumar,fd25e20c
+info,registry,people,YS Chahal,57ee1fde

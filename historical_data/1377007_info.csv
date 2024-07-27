@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,West Indies
+info,gender,male
+info,season,2023
+info,date,2023/06/09
+info,event,West Indies tour of United Arab Emirates
+info,match_number,3
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,United Arab Emirates
+info,toss_decision,bat
+info,player_of_match,K Sinclair
+info,umpire,Ahsan Raza
+info,umpire,Akbar Ali
+info,reserve_umpire,Shiju Sam
+info,tv_umpire,Aasif Iqbal
+info,match_referee,J Srinath
+info,winner,West Indies
+info,winner_wickets,4
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Lovepreet Singh
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Ethan D'Souza
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,West Indies,J Charles
+info,player,West Indies,A Athanaze
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,KU Carty
+info,player,West Indies,RL Chase
+info,player,West Indies,KAR Hodge
+info,player,West Indies,RA Reifer
+info,player,West Indies,KMA Paul
+info,player,West Indies,Y Cariah
+info,player,West Indies,K Sinclair
+info,player,West Indies,Akeem Jordan
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Akeem Jordan,77bf0483
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Ethan D'Souza,31ca7a9c
+info,registry,people,J Charles,09a9d073
+info,registry,people,J Srinath,bad31fac
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Sinclair,314642ed
+info,registry,people,KAR Hodge,49dc9cb4
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,Lovepreet Singh,3c00e140
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Y Cariah,78bb68d4

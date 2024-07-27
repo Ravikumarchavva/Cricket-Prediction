@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Hampshire
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,Surendiran Shanmugam
+info,match_referee,H Pack
+info,winner,Hampshire
+info,winner_wickets,4
+info,player,Essex,DW Lawrence
+info,player,Essex,FIN Khushi
+info,player,Essex,MS Pepper
+info,player,Essex,PI Walter
+info,player,Essex,DR Sams
+info,player,Essex,MJJ Critchley
+info,player,Essex,WEL Buttleman
+info,player,Essex,SR Harmer
+info,player,Essex,RJ Das
+info,player,Essex,BMJ Allison
+info,player,Essex,Aaron Beard
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TE Albert
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,CP Wood
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,JA Turner
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,H Pack,fed53c91
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RJ Das,734344b3
+info,registry,people,SR Harmer,23638956
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TE Albert,a6c17509
+info,registry,people,WEL Buttleman,e855546b

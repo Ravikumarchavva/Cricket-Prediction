@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Italy
+info,gender,female
+info,season,2024
+info,date,2024/05/28
+info,event,Italy Women tour of Netherlands
+info,match_number,1
+info,venue,"Sportpark Harga, Schiedam"
+info,city,Schiedam
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,umpire,AM Deshpande
+info,umpire,M Hancock
+info,reserve_umpire,Rizwan Akram
+info,winner,Netherlands
+info,winner_runs,94
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,M Landsman
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,S Khurana
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,C de Lange
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,S Siegers
+info,player,Netherlands,MIW van den Raad
+info,player,Italy,M Rathnayake
+info,player,Italy,D Nanayakkara
+info,player,Italy,Ilenia Sims
+info,player,Italy,EL Bartram
+info,player,Italy,K Peddrick
+info,player,Italy,C Mahamalage
+info,player,Italy,S Malwatta
+info,player,Italy,S Kanankege
+info,player,Italy,N Asuramanage
+info,player,Italy,HA Daluwatta
+info,player,Italy,T Araliya
+info,registry,people,AM Deshpande,2622742a
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HA Daluwatta,8bbfc744
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,Ilenia Sims,03c98aa6
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,M Hancock,deb8c9a5
+info,registry,people,M Landsman,eaa5cb7c
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,MIW van den Raad,dead3b10
+info,registry,people,N Asuramanage,46dff613
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,R Rijke,42e4b276
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Kanankege,01815edc
+info,registry,people,S Khurana,9a9a056d
+info,registry,people,S Malwatta,bc11f3a3
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,T Araliya,d423f390

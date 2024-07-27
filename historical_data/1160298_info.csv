@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Auckland Aces
+info,gender,male
+info,season,2018/19
+info,date,2019/03/09
+info,date,2019/03/10
+info,date,2019/03/11
+info,date,2019/03/12
+info,event,Plunket Shield
+info,venue,Mainpower Oval
+info,city,
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,AL Gillies
+info,umpire,WR Knights
+info,match_referee,GAV Baxter
+info,winner,Canterbury
+info,winner_runs,80
+info,player,Canterbury,JCT Boyle
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,SJ Murdoch
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,HB Shipley
+info,player,Canterbury,TF van Woerkom
+info,player,Canterbury,WSA Williams
+info,player,Canterbury,ATE Hazeldine
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,TD Astle
+info,player,Auckland Aces,MJ Guptill
+info,player,Auckland Aces,GK Beghin
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,FH Allen
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,WER Somerville
+info,player,Auckland Aces,MB McEwan
+info,player,Auckland Aces,JA Brown
+info,player,Auckland Aces,BG Lister
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,FH Allen,bf74b130
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GK Beghin,0d8f5fc6
+info,registry,people,HB Shipley,5426de63
+info,registry,people,JA Brown,30539beb
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TD Astle,383dd431
+info,registry,people,TF van Woerkom,70f2f922
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,WSA Williams,861eed37

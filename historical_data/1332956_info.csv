@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hyderabad (India)
+info,team,Goa
+info,gender,male
+info,season,2022/23
+info,date,2022/10/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Goa
+info,toss_decision,field
+info,umpire,BK Ravi
+info,umpire,P Joshi
+info,match_referee,P Ranganathan
+info,winner,Hyderabad (India)
+info,winner_runs,37
+info,player,Hyderabad (India),Trishank Gupta
+info,player,Hyderabad (India),Tanmay Agarwal
+info,player,Hyderabad (India),A Prateek Reddy
+info,player,Hyderabad (India),Tilak Varma
+info,player,Hyderabad (India),Rahul Buddhi
+info,player,Hyderabad (India),Ravi Teja
+info,player,Hyderabad (India),Mickil Jaiswal
+info,player,Hyderabad (India),Tanay Thyagarajan
+info,player,Hyderabad (India),CV Milind
+info,player,Hyderabad (India),K Bhagath Varma
+info,player,Hyderabad (India),G Anikethreddy
+info,player,Hyderabad (India),Jayram Reddy
+info,player,Goa,Felix Alemao
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,Aditya Kaushik
+info,player,Goa,TT Sawkar
+info,player,Goa,SD Lad
+info,player,Goa,Darshan Misal
+info,player,Goa,Eknath Kerkar
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,Arjun Tendulkar
+info,player,Goa,Amit Yadav
+info,player,Goa,Lakshay Garg
+info,registry,people,A Prateek Reddy,22850fa3
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Amit Yadav,907cb4c1
+info,registry,people,Arjun Tendulkar,44aac2f0
+info,registry,people,BK Ravi,ff8c3cfb
+info,registry,people,CV Milind,7b5b6311
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Felix Alemao,2d209101
+info,registry,people,G Anikethreddy,14d6a8d5
+info,registry,people,Jayram Reddy,1b46f11c
+info,registry,people,K Bhagath Varma,5438ffba
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,Mickil Jaiswal,763abbaf
+info,registry,people,P Joshi,ffc0e370
+info,registry,people,P Ranganathan,2a426535
+info,registry,people,Rahul Buddhi,70a9b353
+info,registry,people,Ravi Teja,5f39537c
+info,registry,people,SD Lad,9601c534
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,TT Sawkar,276b64d4
+info,registry,people,Tanay Thyagarajan,f1809c03
+info,registry,people,Tanmay Agarwal,e6e9b619
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Trishank Gupta,9805eb7e

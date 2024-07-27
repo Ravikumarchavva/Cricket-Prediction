@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Southern Vipers
+info,team,Northern Diamonds
+info,gender,female
+info,season,2023
+info,date,2023/06/04
+info,event,Charlotte Edwards Cup
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Southern Vipers
+info,toss_decision,bat
+info,umpire,J Ibbotson
+info,umpire,S Widdup
+info,match_referee,DE Malcolm
+info,winner,Southern Vipers
+info,winner_runs,16
+info,player,Southern Vipers,EM McCaughan
+info,player,Southern Vipers,ME Bouchier
+info,player,Southern Vipers,N Faltum
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,GA Elwiss
+info,player,Southern Vipers,FG Kemp
+info,player,Southern Vipers,E Windsor
+info,player,Southern Vipers,N Harman
+info,player,Southern Vipers,LCN Smith
+info,player,Southern Vipers,MLL Taylor
+info,player,Southern Vipers,A Shrubsole
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,CL Tryon
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,A Glen
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,GE Hall
+info,registry,people,A Glen,9da0d1e5
+info,registry,people,A Shrubsole,32497ecd
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DE Malcolm,29c7ca03
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,EM McCaughan,ed2711ea
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GE Hall,026135b1
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,J Ibbotson,7318fdbf
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,N Faltum,9a56c670
+info,registry,people,N Harman,ffdfa9ad
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SL Kalis,2b150c6b

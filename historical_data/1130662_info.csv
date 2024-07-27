@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gujarat
+info,team,Maharashtra
+info,gender,male
+info,season,2017/18
+info,date,2018/01/07
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Saurashtra Cricket Association Stadium
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_wickets,4
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,Dhruv Raval
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,Kshitij Patel
+info,player,Gujarat,RH Bhatt
+info,player,Gujarat,AR Patel
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,Rohit Dahiya
+info,player,Gujarat,SS Shinde
+info,player,Gujarat,Chintan Gaja
+info,player,Gujarat,Ishwar Chaudhary
+info,player,Maharashtra,SM Fallah
+info,player,Maharashtra,DJ Muthuswami
+info,player,Maharashtra,SS Mundhe
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,JP Zope
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,AR Bawne
+info,player,Maharashtra,PJ Bhati
+info,player,Maharashtra,NS Naik
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,AR Patel,2e171977
+info,registry,people,Chintan Gaja,63bfb5fc
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,DJ Muthuswami,2c76b512
+info,registry,people,Dhruv Raval,e635a5dd
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,Ishwar Chaudhary,fe473dc2
+info,registry,people,JP Zope,f3ff99aa
+info,registry,people,Kshitij Patel,9309e81f
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,PJ Bhati,278989a3
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RH Bhatt,fc8c6088
+info,registry,people,Rohit Dahiya,e57ded95
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SS Mundhe,0af3426f
+info,registry,people,SS Shinde,7cf7139e

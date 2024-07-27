@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,New Zealand
+info,gender,male
+info,season,2003
+info,date,2003/05/23
+info,event,Bank Alfalah Cup
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,SP Fleming
+info,umpire,EAR de Silva
+info,umpire,DJ Harper
+info,tv_umpire,MG Silva
+info,match_referee,GR Viswanath
+info,winner,New Zealand
+info,winner_wickets,4
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Faisal Athar
+info,player,Pakistan,Yasir Hameed
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Shabbir Ahmed
+info,player,Pakistan,Danish Kaneria
+info,player,New Zealand,CJ Nevin
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,L Vincent
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,CZ Harris
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,KD Mills
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,DR Tuffey
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,CJ Nevin,4d220a66
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CZ Harris,582e9baa
+info,registry,people,DJ Harper,0ec08b27
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Tuffey,43936951
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,Faisal Athar,03ce169b
+info,registry,people,GR Viswanath,9333bc07
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,KD Mills,7fb32e5b
+info,registry,people,L Vincent,2764133a
+info,registry,people,MG Silva,0f22d07b
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,Shabbir Ahmed,3d189742
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Yasir Hameed,f144d99b
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

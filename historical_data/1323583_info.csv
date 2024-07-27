@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Adelaide Strikers
+info,gender,female
+info,season,2022/23
+info,date,2022/11/05
+info,event,Women's Big Bash League
+info,match_number,30
+info,venue,"Lilac Hill Park, Perth"
+info,city,Perth
+info,toss_winner,Adelaide Strikers
+info,toss_decision,field
+info,player_of_match,M Penna
+info,umpire,Ashlee Gibbons
+info,umpire,J Buscall
+info,match_referee,SR Bernard
+info,winner,Adelaide Strikers
+info,winner_wickets,5
+info,player,Melbourne Stars,L Winfield-Hill
+info,player,Melbourne Stars,JI Rodrigues
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,T Flintoff
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,S Day
+info,player,Adelaide Strikers,DJS Dottin
+info,player,Adelaide Strikers,KM Mack
+info,player,Adelaide Strikers,L Wolvaardt
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,M Penna
+info,player,Adelaide Strikers,A O'Neil
+info,player,Adelaide Strikers,A Wellington
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,JL Barsby
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,D Brown
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A O'Neil,4f2cf3ed
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,Ashlee Gibbons,b81712f7
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,D Brown,2e81be88
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,J Buscall,abc082bf
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JL Barsby,47bcaf7a
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Penna,36453b99
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,N Faltum,9a56c670
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,SR Bernard,800187dc
+info,registry,people,T Flintoff,5471b94a
+info,registry,people,TJ McPharlin,595e1ee7

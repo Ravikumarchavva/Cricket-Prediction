@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,England
+info,gender,male
+info,season,2023/24
+info,date,2023/12/06
+info,event,England tour of West Indies
+info,match_number,2
+info,venue,"Sir Vivian Richards Stadium, North Sound, Antigua"
+info,city,North Sound
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,SM Curran
+info,umpire,N Duguid
+info,umpire,Nitin Menon
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,CM Brown
+info,match_referee,RB Richardson
+info,winner,England
+info,winner_wickets,6
+info,player,West Indies,A Athanaze
+info,player,West Indies,BA King
+info,player,West Indies,KU Carty
+info,player,West Indies,SD Hope
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,SE Rutherford
+info,player,West Indies,Y Cariah
+info,player,West Indies,R Shepherd
+info,player,West Indies,AS Joseph
+info,player,West Indies,G Motie
+info,player,West Indies,O Thomas
+info,player,England,PD Salt
+info,player,England,WG Jacks
+info,player,England,Z Crawley
+info,player,England,BM Duckett
+info,player,England,HC Brook
+info,player,England,JC Buttler
+info,player,England,LS Livingstone
+info,player,England,SM Curran
+info,player,England,BA Carse
+info,player,England,Rehan Ahmed
+info,player,England,AAP Atkinson
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA King,7fca84b7
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JC Buttler,99b75528
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,N Duguid,64495506
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,O Thomas,c6097d68
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,Y Cariah,78bb68d4
+info,registry,people,Z Crawley,922e1b19

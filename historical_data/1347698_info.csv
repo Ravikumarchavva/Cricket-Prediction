@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/07/15
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Essex
+info,toss_decision,field
+info,player_of_match,MJJ Critchley
+info,umpire,MJ Saggers
+info,umpire,RJ Warren
+info,reserve_umpire,SJ O'Shaughnessy
+info,tv_umpire,NJ Llong
+info,match_referee,DA Cosker
+info,winner,Essex
+info,winner_wickets,5
+info,method,D/L
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,CP Wood
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,JA Turner
+info,player,Essex,AM Rossington
+info,player,Essex,DW Lawrence
+info,player,Essex,MS Pepper
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,RJ Das
+info,player,Essex,S Snater
+info,player,Essex,Aaron Beard
+info,player,Essex,SJ Cook
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Wood,1cfac535
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RJ Das,734344b3
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Snater,a790df98
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,SR Harmer,23638956
+info,registry,people,TJ Prest,0207ff32

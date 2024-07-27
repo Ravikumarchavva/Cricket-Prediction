@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lahore Qalandars
+info,team,Quetta Gladiators
+info,gender,male
+info,season,2022/23
+info,date,2023/03/02
+info,event,Pakistan Super League
+info,match_number,18
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Quetta Gladiators
+info,toss_decision,field
+info,player_of_match,Sikandar Raza
+info,umpire,Ahsan Raza
+info,umpire,MJ Saggers
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,Faisal Afridi
+info,match_referee,Muhammad Javed
+info,winner,Lahore Qalandars
+info,winner_runs,17
+info,player,Lahore Qalandars,Mirza Baig
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,Abdullah Shafique
+info,player,Lahore Qalandars,SW Billings
+info,player,Lahore Qalandars,Hussain Talat
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,D Wiese
+info,player,Lahore Qalandars,Rashid Khan
+info,player,Lahore Qalandars,Haris Rauf
+info,player,Lahore Qalandars,Zaman Khan
+info,player,Quetta Gladiators,Yasir Khan
+info,player,Quetta Gladiators,WCF Smeed
+info,player,Quetta Gladiators,MJ Guptill
+info,player,Quetta Gladiators,Mohammad Hafeez
+info,player,Quetta Gladiators,Iftikhar Ahmed
+info,player,Quetta Gladiators,Sarfraz Ahmed
+info,player,Quetta Gladiators,OF Smith
+info,player,Quetta Gladiators,Mohammad Nawaz
+info,player,Quetta Gladiators,Umaid Asif
+info,player,Quetta Gladiators,Naseem Shah
+info,player,Quetta Gladiators,Naveen-ul-Haq
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hussain Talat,bb4b445b
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mirza Baig,96ce6752
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,OF Smith,23cca426
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Umaid Asif,f69f1d8a
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,Yasir Khan,4f1bb625
+info,registry,people,Zaman Khan,28392e11

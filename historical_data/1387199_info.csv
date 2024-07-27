@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sydney Sixers
+info,team,Melbourne Stars
+info,gender,female
+info,season,2023/24
+info,date,2023/11/08
+info,event,Women's Big Bash League
+info,match_number,28
+info,venue,"Jubilee Park, Ringwood, Melbourne"
+info,city,Melbourne
+info,toss_winner,Melbourne Stars
+info,toss_decision,field
+info,player_of_match,S Day
+info,umpire,D Brigham
+info,umpire,L McCabe
+info,match_referee,Kent Hannam
+info,winner,Sydney Sixers
+info,winner_runs,4
+info,method,D/L
+info,player,Sydney Sixers,EA Perry
+info,player,Sydney Sixers,M Brown
+info,player,Sydney Sixers,A Gardner
+info,player,Sydney Sixers,EA Burns
+info,player,Sydney Sixers,CL Tryon
+info,player,Sydney Sixers,SW Bates
+info,player,Sydney Sixers,M Carmichael
+info,player,Sydney Sixers,KM Pelle
+info,player,Sydney Sixers,K Peterson
+info,player,Sydney Sixers,LCN Smith
+info,player,Sydney Sixers,L Cheatle
+info,player,Melbourne Stars,MM Lanning
+info,player,Melbourne Stars,SIR Dunkley
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,ME Bouchier
+info,player,Melbourne Stars,N Faltum
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,R McKenna
+info,player,Melbourne Stars,S Day
+info,player,Melbourne Stars,MH Illingworth
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Brigham,464daf41
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EA Perry,be150fc8
+info,registry,people,K Peterson,5f377534
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,KM Pelle,ae28c962
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,L Cheatle,275dff85
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,LCN Smith,340202b0
+info,registry,people,M Brown,78bec461
+info,registry,people,M Carmichael,4b546c04
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MH Illingworth,99dc3877
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N Faltum,9a56c670
+info,registry,people,R McKenna,f7e41cd8
+info,registry,people,S Day,c3d27d76
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,SW Bates,89bbc67a

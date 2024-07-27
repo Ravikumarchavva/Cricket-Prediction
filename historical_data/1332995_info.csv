@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tripura
+info,team,Puducherry
+info,gender,male
+info,season,2022/23
+info,date,2022/10/18
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Puducherry
+info,toss_decision,field
+info,umpire,Mohamad Rafi
+info,umpire,VR Lund
+info,match_referee,P Ranganathan
+info,winner,Tripura
+info,winner_runs,23
+info,player,Tripura,Sankar Paul
+info,player,Tripura,BB Ghosh
+info,player,Tripura,Bikramkumar Das
+info,player,Tripura,WP Saha
+info,player,Tripura,Sudip Chatterjee
+info,player,Tripura,Rajat Dey
+info,player,Tripura,Manisankar Murasingh
+info,player,Tripura,D Khatri
+info,player,Tripura,Rana Dutta
+info,player,Tripura,Parvez Sultan
+info,player,Tripura,CK Paul
+info,player,Tripura,Ajay Sarkar
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,Ramachandran Ragupathy
+info,player,Puducherry,Y Avinash Jadhav
+info,player,Puducherry,Parameeswaran Sivaraman
+info,player,Puducherry,Ankit Sharma
+info,player,Puducherry,Mohit Mittan
+info,player,Puducherry,KB Arun Karthik
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,Bharat Sharma
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,Thivagar Gopal
+info,player,Puducherry,A Aravinddaraj
+info,registry,people,A Aravinddaraj,21d38d47
+info,registry,people,Ajay Sarkar,10636efb
+info,registry,people,Ankit Sharma,24d94623
+info,registry,people,BB Ghosh,7c8ce592
+info,registry,people,Bharat Sharma,2314745e
+info,registry,people,Bikramkumar Das,601398c4
+info,registry,people,CK Paul,35b67232
+info,registry,people,D Khatri,6a48fcbd
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,Manisankar Murasingh,52cb36a0
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,Mohamad Rafi,0479de6b
+info,registry,people,Mohit Mittan,deae3c43
+info,registry,people,P Ranganathan,2a426535
+info,registry,people,Parameeswaran Sivaraman,fdb68cc0
+info,registry,people,Parvez Sultan,00335246
+info,registry,people,Rajat Dey,ccc04a61
+info,registry,people,Ramachandran Ragupathy,bdecece1
+info,registry,people,Rana Dutta,6d981899
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Sankar Paul,34cbc9d2
+info,registry,people,Sudip Chatterjee,0cb8626f
+info,registry,people,Thivagar Gopal,e257c9a1
+info,registry,people,VR Lund,4aef038f
+info,registry,people,WP Saha,fe11caa6
+info,registry,people,Y Avinash Jadhav,6c0f82e6

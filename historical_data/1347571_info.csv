@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/05/24
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,PR Pollard
+info,umpire,RJ Warren
+info,match_referee,Wayne Noon
+info,winner,Worcestershire
+info,winner_runs,15
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MG Bracewell
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,MT Stanley
+info,player,Worcestershire,PR Brown
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,GG White
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,DJ Willey,7f048519
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GG White,0f21680d
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MT Stanley,faa8cfba
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Wayne Noon,736e1761

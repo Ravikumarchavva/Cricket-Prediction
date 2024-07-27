@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/09/03
+info,date,2023/09/04
+info,date,2023/09/05
+info,event,County Championship
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,Naeem Ashraf
+info,umpire,PJ Hartley
+info,match_referee,IL Herbert
+info,winner,Leicestershire
+info,winner_wickets,8
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,HT Tector
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,DC Goodman
+info,player,Gloucestershire,LA Charlesworth
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,Umar Amin
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,MET Salisbury
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DC Goodman,dbb15645
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,J Shaw,b82e3032
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LA Charlesworth,cfbce62e
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,Umar Amin,3029e282
+info,registry,people,Zafar Gohar,9fd3a210
+info,registry,people,Zaman Akhter,63e1e352

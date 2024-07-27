@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Puducherry
+info,gender,male
+info,season,2020/21
+info,date,2021/01/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Wankhede Stadium
+info,city,
+info,toss_winner,Puducherry
+info,toss_decision,field
+info,winner,Puducherry
+info,winner_wickets,6
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,AP Tare
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,SD Lad
+info,player,Mumbai,SN Khan
+info,player,Mumbai,S Dube
+info,player,Mumbai,Sujit Nayak
+info,player,Mumbai,Akash Parkar
+info,player,Mumbai,Atharva Ankolekar
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,Arjun Tendulkar
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,Ashith Rajiv
+info,player,Puducherry,Santha Moorthy
+info,player,Puducherry,A Aravinddaraj
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,S Karthik
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,SP Jackson
+info,player,Puducherry,P Dogra
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,Jayaprakash Manikandan
+info,registry,people,A Aravinddaraj,21d38d47
+info,registry,people,AP Tare,855a210c
+info,registry,people,Akash Parkar,f992200b
+info,registry,people,Arjun Tendulkar,44aac2f0
+info,registry,people,Ashith Rajiv,502056e3
+info,registry,people,Atharva Ankolekar,d6cd318e
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Jayaprakash Manikandan,88162e16
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Karthik,14c90152
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,SN Khan,f088b960
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Santha Moorthy,fa778d1b
+info,registry,people,Sujit Nayak,e06f7116
+info,registry,people,YBK Jaiswal,6c19c6e5

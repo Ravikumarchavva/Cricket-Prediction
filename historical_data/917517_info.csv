@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Auckland Aces
+info,gender,male
+info,season,2015/16
+info,date,2015/10/15
+info,date,2015/10/16
+info,date,2015/10/17
+info,date,2015/10/18
+info,event,Plunket Shield
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,BF Bowden
+info,umpire,AL Gillies
+info,winner,Auckland Aces
+info,winner_wickets,9
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,RM Hira
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,PG Fulton
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,LV van Beek
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,RJ McCone
+info,player,Canterbury,TF van Woerkom
+info,player,Auckland Aces,MJ Guptill
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,C de Grandhomme
+info,player,Auckland Aces,RJ Nicol
+info,player,Auckland Aces,B Cachopa
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,TS Nethula
+info,player,Auckland Aces,MD Bates
+info,player,Auckland Aces,MJ McClenaghan
+info,player,Auckland Aces,MR Quinn
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,AM Ellis,f987245c
+info,registry,people,B Cachopa,e9a44f08
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MD Bates,1b3acd33
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ McClenaghan,51a3c5ef
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,MR Quinn,b082d112
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RJ McCone,19cc9592
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RM Hira,2e966563
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,TF van Woerkom,70f2f922
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,TWM Latham,e824e6ee

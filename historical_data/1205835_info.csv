@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Railways
+info,gender,male
+info,season,2019/20
+info,date,2019/11/18
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Cricket Stadium, Sector-16"
+info,city,
+info,toss_winner,Himachal
+info,toss_decision,bat
+info,winner,Himachal
+info,winner_runs,54
+info,player,Himachal,Abhimanyu Rana
+info,player,Himachal,P Chopra
+info,player,Himachal,N A Sharma
+info,player,Himachal,AR Kumar
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,R Dhawan
+info,player,Himachal,Akash Vasisht
+info,player,Himachal,Nikhil Gangta
+info,player,Himachal,Ayush Jamwal
+info,player,Himachal,AKS Bains
+info,player,Himachal,Kanwar Abhinay
+info,player,Railways,K Upadhyay
+info,player,Railways,T Pradeep
+info,player,Railways,Himanshu Sangwan
+info,player,Railways,Harsh Tyagi
+info,player,Railways,KV Sharma
+info,player,Railways,Karthik Raman
+info,player,Railways,Mrunal Devdhar
+info,player,Railways,Pratham Singh
+info,player,Railways,Vikrant Rajput
+info,player,Railways,Dinesh Mor
+info,player,Railways,M Ahmed
+info,registry,people,AKS Bains,cb932841
+info,registry,people,AR Kumar,d1f63ad5
+info,registry,people,Abhimanyu Rana,c224c5ef
+info,registry,people,Akash Vasisht,35ccfdd4
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,Dinesh Mor,7f28f186
+info,registry,people,Gandhar Bhatawadekar,80beeaa1
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,Himanshu Sangwan,531f7ccc
+info,registry,people,K Upadhyay,27e71d47
+info,registry,people,KV Sharma,119678fd
+info,registry,people,Kanwar Abhinay,7c2e7c17
+info,registry,people,Karthik Raman,c55a5dff
+info,registry,people,M Ahmed,7ca476bf
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,Nikhil Gangta,8812869d
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,R Dhawan,26a85969
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,T Pradeep,a0d66374
+info,registry,people,Vikrant Rajput,b5f7bae6

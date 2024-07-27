@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Odisha
+info,gender,male
+info,season,2015/16
+info,date,2016/01/03
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Barabati Stadium
+info,city,
+info,toss_winner,Odisha
+info,toss_decision,field
+info,winner,Uttar Pradesh
+info,winner_runs,32
+info,player,Uttar Pradesh,Prashant Gupta
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,ER Dwivedi
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,PP Chawla
+info,player,Uttar Pradesh,Umang Sharma
+info,player,Uttar Pradesh,Saurabh Dubey
+info,player,Uttar Pradesh,Amit Mishra
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Kuldeep Yadav
+info,player,Uttar Pradesh,P Kumar
+info,player,Odisha,Deepak Behera
+info,player,Odisha,Basant Mohanty
+info,player,Odisha,Alok Sahoo
+info,player,Odisha,BB Samantray
+info,player,Odisha,Lagnajit Samal
+info,player,Odisha,Tukuna Sahoo
+info,player,Odisha,Bikas Pati
+info,player,Odisha,Govinda Poddar
+info,player,Odisha,Abhishek Yadav
+info,player,Odisha,Arabind Singh
+info,player,Odisha,Rosan Kumar Rao
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Abhishek Yadav,bca46fdb
+info,registry,people,Alok Sahoo,47f75983
+info,registry,people,Amit Mishra,40792cff
+info,registry,people,Arabind Singh,78d516fd
+info,registry,people,BB Samantray,53f27a35
+info,registry,people,Basant Mohanty,ccc4756d
+info,registry,people,Bikas Pati,6b94cc0b
+info,registry,people,Deepak Behera,09cb47d4
+info,registry,people,ER Dwivedi,b274dbbd
+info,registry,people,Govinda Poddar,145c2a1f
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Lagnajit Samal,473041ad
+info,registry,people,P Kumar,e938e1bc
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Prashant Gupta,ad1e02b4
+info,registry,people,Rosan Kumar Rao,e1fcde86
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Saurabh Dubey,66317b81
+info,registry,people,Tukuna Sahoo,83787fde
+info,registry,people,Umang Sharma,6f0f39fb

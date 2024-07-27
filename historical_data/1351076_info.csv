@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Rangpur Riders
+info,gender,male
+info,season,2022/23
+info,date,2023/01/27
+info,event,Bangladesh Premier League
+info,match_number,25
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Rangpur Riders
+info,toss_decision,field
+info,player_of_match,Azmatullah Omarzai
+info,umpire,Gazi Sohel
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,Ali Arman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Debabrata Paul
+info,winner,Rangpur Riders
+info,winner_wickets,6
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,TJ Moores
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,Imad Wasim
+info,player,Sylhet Strikers,NLTC Perera
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Mohammad Amir
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Rangpur Riders,Mohammad Naim
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Shoaib Malik
+info,player,Rangpur Riders,Azmatullah Omarzai
+info,player,Rangpur Riders,Mohammad Nawaz
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Robiul Haque
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,Haris Rauf
+info,player,Rangpur Riders,Hasan Mahmud
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Debabrata Paul,a77f51d0
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,Robiul Haque,2353b224
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Zakir Hasan,e3e09091

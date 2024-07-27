@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/02
+info,event,Vitality Blast
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,player_of_match,MD Taylor
+info,umpire,AG Wharf
+info,umpire,ID Blackwell
+info,tv_umpire,M Burns
+info,match_referee,AM Smith (2)
+info,winner,Gloucestershire
+info,winner_wickets,2
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,SM Curran
+info,player,Surrey,TK Curran
+info,player,Surrey,JL Smith
+info,player,Surrey,J Clark
+info,player,Surrey,SP Narine
+info,player,Surrey,CJ Jordan
+info,player,Surrey,J Overton
+info,player,Surrey,CT Steel
+info,player,Surrey,AAP Atkinson
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,DJ Lamb
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,DA Payne
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JL Smith,c834c290
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MD Taylor,01a95383
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TMJ Smith,0a12e736
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,Zafar Gohar,9fd3a210

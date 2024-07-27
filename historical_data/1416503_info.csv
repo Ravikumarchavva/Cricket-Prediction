@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Islamabad United
+info,team,Quetta Gladiators
+info,gender,male
+info,season,2023/24
+info,date,2024/03/15
+info,event,Pakistan Super League
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Islamabad United
+info,toss_decision,bat
+info,player_of_match,Imad Wasim
+info,umpire,Ahsan Raza
+info,umpire,CB Gaffaney
+info,reserve_umpire,Rashid Riaz
+info,tv_umpire,Asif Yaqoob
+info,match_referee,Muhammad Javed
+info,winner,Islamabad United
+info,winner_runs,39
+info,player,Islamabad United,MJ Guptill
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,Agha Salman
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Haider Ali
+info,player,Islamabad United,Imad Wasim
+info,player,Islamabad United,Naseem Shah
+info,player,Islamabad United,Hunain Shah
+info,player,Islamabad United,OC McCoy
+info,player,Quetta Gladiators,JJ Roy
+info,player,Quetta Gladiators,Saud Shakeel
+info,player,Quetta Gladiators,Omair Yousuf
+info,player,Quetta Gladiators,RR Rossouw
+info,player,Quetta Gladiators,Khawaja Nafay
+info,player,Quetta Gladiators,LJ Evans
+info,player,Quetta Gladiators,AJ Hosein
+info,player,Quetta Gladiators,Mohammad Wasim
+info,player,Quetta Gladiators,Mohammad Amir
+info,player,Quetta Gladiators,Abrar Ahmed
+info,player,Quetta Gladiators,Usman Tariq
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Hunain Shah,3b8679bf
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,Khawaja Nafay,3cf54e77
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,Omair Yousuf,f8e3c0f8
+info,registry,people,Qasim Akram,b6359668
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Usman Tariq,e94d1dcd

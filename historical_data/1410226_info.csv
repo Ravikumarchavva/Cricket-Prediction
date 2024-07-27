@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Warwickshire
+info,team,Lancashire
+info,gender,male
+info,season,2024
+info,date,2024/05/24
+info,date,2024/05/25
+info,date,2024/05/26
+info,date,2024/05/27
+info,event,County Championship
+info,match_number,34
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Warwickshire
+info,toss_decision,bat
+info,umpire,ID Blackwell
+info,umpire,Rob White
+info,match_referee,SJ Davis
+info,outcome,draw
+info,player,Warwickshire,RM Yates
+info,player,Warwickshire,AL Davies
+info,player,Warwickshire,WMH Rhodes
+info,player,Warwickshire,EG Barnard
+info,player,Warwickshire,DR Mousley
+info,player,Warwickshire,JG Bethell
+info,player,Warwickshire,MGK Burgess
+info,player,Warwickshire,JB Lintott
+info,player,Warwickshire,Hasan Ali
+info,player,Warwickshire,MD Rae
+info,player,Warwickshire,OJ Hannon-Dalby
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,TC Bruce
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,TH Aspinwall
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,NM Lyon
+info,player,Lancashire,JP Morley
+info,registry,people,AL Davies,29ede60b
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,OJ Hannon-Dalby,e0ac7144
+info,registry,people,RM Yates,3581a798
+info,registry,people,Rob White,59b91222
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TH Aspinwall,00b195ae
+info,registry,people,WMH Rhodes,f54dbda7

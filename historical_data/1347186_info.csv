@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Durham
+info,gender,male
+info,season,2023
+info,date,2023/07/19
+info,date,2023/07/20
+info,date,2023/07/21
+info,date,2023/07/22
+info,event,County Championship
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Durham
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,Mark Newell
+info,match_referee,SG Hinks
+info,outcome,draw
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,N Potts
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,SG Borthwick
+info,player,Durham,DG Bedingham
+info,player,Durham,M Pretorius
+info,player,Durham,MJ Potts
+info,player,Durham,OG Robinson
+info,player,Durham,G Clark
+info,player,Durham,BA Carse
+info,player,Durham,BA Raine
+info,player,Durham,MW Parkinson
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LM Reece,9789e56e
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MA Jones,05f96194
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MW Parkinson,19708692
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N Potts,37b12633
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,S Conners,067bda18
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367

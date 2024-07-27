@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Qatar
+info,gender,male
+info,season,2022/23
+info,date,2022/12/15
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,2
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,I Liyanage
+info,umpire,D Sevakumaran
+info,umpire,V Kalidas
+info,reserve_umpire,L Poobalan
+info,match_referee,B Ramani
+info,winner,Qatar
+info,winner_wickets,5
+info,player,Singapore,Avi Dixit
+info,player,Singapore,S Chandramohan
+info,player,Singapore,IP Swaney
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,Aman Desai
+info,player,Singapore,A Modi
+info,player,Singapore,Janak Prakash
+info,player,Singapore,Abdul Rahman
+info,player,Singapore,U Aryaman Sunil
+info,player,Singapore,V Baskaran
+info,player,Singapore,AR Puri
+info,player,Qatar,Kamran Khan
+info,player,Qatar,Akash Babu
+info,player,Qatar,I Liyanage
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Assad Borham
+info,player,Qatar,VN Veetil
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Mohammed Nadeem
+info,player,Qatar,Dharmang Patel
+info,player,Qatar,Ikramullah Khan
+info,registry,people,A Modi,4edfc785
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Abdul Rahman,12f53be7
+info,registry,people,Akash Babu,fb59e5bc
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Assad Borham,219a417a
+info,registry,people,Avi Dixit,cf17c429
+info,registry,people,B Ramani,92ad5353
+info,registry,people,D Sevakumaran,b235cb97
+info,registry,people,Dharmang Patel,643f2e6a
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,I Liyanage,826e1017
+info,registry,people,IP Swaney,430b7399
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Mohammed Nadeem,856cbb1e
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,U Aryaman Sunil,13bc54a8
+info,registry,people,V Baskaran,dd5a9067
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VN Veetil,3cf5a041

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Central Stags
+info,gender,male
+info,season,2017/18
+info,date,2018/03/09
+info,date,2018/03/10
+info,date,2018/03/11
+info,date,2018/03/12
+info,event,Plunket Shield
+info,venue,Kennards Hire Community Oval
+info,city,
+info,toss_winner,Central Stags
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,ED Sanders
+info,match_referee,RA Dykes
+info,outcome,draw
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,FH Allen
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,MB McEwan
+info,player,Auckland Aces,BG Lister
+info,player,Auckland Aces,SC Meaker
+info,player,Auckland Aces,JA Brown
+info,player,Central Stags,GR Hay
+info,player,Central Stags,BS Smith
+info,player,Central Stags,JD Ryder
+info,player,Central Stags,WA Young
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,AF Milne
+info,player,Central Stags,AY Patel
+info,player,Central Stags,BJ Small
+info,player,Central Stags,BM Wheeler
+info,player,Central Stags,GH Worker
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BJ Small,b1b7b7de
+info,registry,people,BM Wheeler,397f4d3a
+info,registry,people,BS Smith,556df4f9
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JA Brown,30539beb
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JD Ryder,91ffa6c6
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Meaker,eb9cb105
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WA Young,8afe73e2

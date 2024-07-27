@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karachi Kings
+info,team,Lahore Qalandars
+info,gender,male
+info,season,2022/23
+info,date,2023/03/12
+info,event,Pakistan Super League
+info,match_number,30
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Karachi Kings
+info,toss_decision,bat
+info,player_of_match,Muhammad Akhlaq
+info,umpire,Aleem Dar
+info,umpire,Rashid Riaz
+info,tv_umpire,Asif Yaqoob
+info,match_referee,RS Mahanama
+info,winner,Karachi Kings
+info,winner_runs,86
+info,player,Karachi Kings,Haider Ali
+info,player,Karachi Kings,Muhammad Akhlaq
+info,player,Karachi Kings,Tayyab Tahir
+info,player,Karachi Kings,Qasim Akram
+info,player,Karachi Kings,Imad Wasim
+info,player,Karachi Kings,BCJ Cutting
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,JK Fuller
+info,player,Karachi Kings,Mohammad Umar
+info,player,Karachi Kings,Imran Tahir
+info,player,Karachi Kings,Akif Javed
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,Abdullah Shafique
+info,player,Lahore Qalandars,Kamran Ghulam
+info,player,Lahore Qalandars,SW Billings
+info,player,Lahore Qalandars,Hussain Talat
+info,player,Lahore Qalandars,D Wiese
+info,player,Lahore Qalandars,S Dadswell
+info,player,Lahore Qalandars,Rashid Khan
+info,player,Lahore Qalandars,Haris Rauf
+info,player,Lahore Qalandars,Dilbar Hussain
+info,player,Lahore Qalandars,Zaman Khan
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Akif Javed,99d7d5b7
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,Dilbar Hussain,a968d8eb
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hussain Talat,bb4b445b
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,Kamran Ghulam,35f4cf7e
+info,registry,people,Mohammad Umar,feb6180d
+info,registry,people,Muhammad Akhlaq,9739e85c
+info,registry,people,Qasim Akram,b6359668
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Zaman Khan,28392e11

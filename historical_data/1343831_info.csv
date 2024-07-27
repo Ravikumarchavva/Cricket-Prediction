@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Malaysia
+info,gender,male
+info,season,2022/23
+info,date,2022/12/04
+info,event,CWC Challenge League
+info,match_number,32
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,S Muniandy
+info,umpire,Rahul Asher
+info,umpire,Sarika Prasad
+info,reserve_umpire,Tabarak Dar
+info,match_referee,V Narayan Kutty
+info,winner,Malaysia
+info,winner_wickets,2
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Surya Anand
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,OD Hald
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Saran Aslam
+info,player,Denmark,Saud Munir
+info,player,Denmark,Abdul Hashim
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,M Syahadat Ramli
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Syed Rehmatullah
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,Rizwan Haider
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,M Syahadat Ramli,5efa8af3
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OD Hald,38189be1
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Saran Aslam,2a00735b
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Syed Rehmatullah,fcbdc2b0
+info,registry,people,T Bharaj,49556abb
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Zubaidi Zulkifle,dca8273d

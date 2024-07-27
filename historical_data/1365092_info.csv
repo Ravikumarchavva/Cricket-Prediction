@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,Namibia
+info,gender,male
+info,season,2023
+info,date,2023/03/26
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,1
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,G Singh
+info,umpire,C Phiri
+info,umpire,D Odhiambo
+info,reserve_umpire,IO Oyieko
+info,match_referee,GH Pienaar
+info,winner,United States of America
+info,winner_runs,80
+info,player,United States of America,SR Taylor
+info,player,United States of America,SJ Modani
+info,player,United States of America,MD Patel
+info,player,United States of America,Aaron Jones
+info,player,United States of America,G Singh
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,NK Patel
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,Ali Khan
+info,player,Namibia,S Fouché
+info,player,Namibia,N Davin
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,MD du Preez
+info,player,Namibia,HN Ya France
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Phiri,ade73404
+info,registry,people,D Odhiambo,45994517
+info,registry,people,G Singh,e93b6c95
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HN Ya France,915264c2
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,MD du Preez,e5ad357a
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,NK Patel,c6e10e5c
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,SJ Modani,290cba17
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,ZE Green,8716233e

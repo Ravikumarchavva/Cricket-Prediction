@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Northern Superchargers
+info,team,Welsh Fire
+info,gender,male
+info,season,2023
+info,date,2023/08/22
+info,event,The Hundred Men's Competition
+info,match_number,30
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Northern Superchargers
+info,toss_decision,bat
+info,player_of_match,HC Brook
+info,umpire,MA Gough
+info,umpire,M Burns
+info,reserve_umpire,N Pratt
+info,tv_umpire,MJ Saggers
+info,match_referee,PM Such
+info,winner,Welsh Fire
+info,winner_wickets,8
+info,player,Northern Superchargers,A Lyth
+info,player,Northern Superchargers,MW Short
+info,player,Northern Superchargers,T Banton
+info,player,Northern Superchargers,AJ Hose
+info,player,Northern Superchargers,HC Brook
+info,player,Northern Superchargers,AU Rashid
+info,player,Northern Superchargers,BA Carse
+info,player,Northern Superchargers,D Wiese
+info,player,Northern Superchargers,MJ Potts
+info,player,Northern Superchargers,CF Parkinson
+info,player,Northern Superchargers,RJW Topley
+info,player,Welsh Fire,SS Eskinazi
+info,player,Welsh Fire,JM Bairstow
+info,player,Welsh Fire,JM Clarke
+info,player,Welsh Fire,LWP Wells
+info,player,Welsh Fire,TB Abell
+info,player,Welsh Fire,GD Phillips
+info,player,Welsh Fire,DJ Willey
+info,player,Welsh Fire,RE van der Merwe
+info,player,Welsh Fire,MJ Henry
+info,player,Welsh Fire,LH Ferguson
+info,player,Welsh Fire,DA Payne
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Willey,7f048519
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MW Short,a90e53ec
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TB Abell,ba9258a7

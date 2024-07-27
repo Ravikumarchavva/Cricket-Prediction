@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South East Stars
+info,team,Central Sparks
+info,gender,female
+info,season,2024
+info,date,2024/06/09
+info,event,Charlotte Edwards Cup
+info,match_number,26
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,South East Stars
+info,toss_decision,bat
+info,umpire,JC Tredwell
+info,umpire,J Jarvis
+info,match_referee,PM Such
+info,winner,Central Sparks
+info,winner_wickets,3
+info,player,South East Stars,BF Smith
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,K Moore
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,A Stonehouse
+info,player,South East Stars,D Gregory
+info,player,South East Stars,MR Corteen-Coleman
+info,player,Central Sparks,A Campbell
+info,player,Central Sparks,D Perrin
+info,player,Central Sparks,AJ Freeborn
+info,player,Central Sparks,E Jones
+info,player,Central Sparks,KL George
+info,player,Central Sparks,C Webb
+info,player,Central Sparks,EL Arlott
+info,player,Central Sparks,C Pavely
+info,player,Central Sparks,GK Davis
+info,player,Central Sparks,G Potts
+info,player,Central Sparks,HL Baker
+info,registry,people,A Campbell,4b788e61
+info,registry,people,A Stonehouse,c9366237
+info,registry,people,AJ Freeborn,c6da6ebf
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,C Pavely,907e5f6c
+info,registry,people,C Webb,1f4a8a2a
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,D Perrin,bfa0fa33
+info,registry,people,E Jones,971cb321
+info,registry,people,EL Arlott,78fd864b
+info,registry,people,G Potts,e3a93585
+info,registry,people,GK Davis,54719239
+info,registry,people,HL Baker,cefad9fd
+info,registry,people,J Jarvis,13187bb6
+info,registry,people,JC Tredwell,49b6c09f
+info,registry,people,K Moore,d12c8445
+info,registry,people,KL George,e69dbbef
+info,registry,people,MR Corteen-Coleman,9049ab63
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,PM Such,c9f1892c
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,SIR Dunkley,3a9e9cb2

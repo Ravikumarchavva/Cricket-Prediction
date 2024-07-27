@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rangpur Riders
+info,team,Fortune Barishal
+info,gender,male
+info,season,2023/24
+info,date,2024/01/20
+info,event,Bangladesh Premier League
+info,match_number,3
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Fortune Barishal
+info,toss_decision,field
+info,player_of_match,Khaled Ahmed
+info,umpire,Ali Arman
+info,umpire,Asif Yaqoob
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,Moniruzzaman
+info,match_referee,Raqibul Hasan
+info,winner,Fortune Barishal
+info,winner_wickets,5
+info,player,Rangpur Riders,BA King
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Shakib Al Hasan
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,Azmatullah Omarzai
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Mohammad Nabi
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Hasan Murad
+info,player,Rangpur Riders,Hasan Mahmud
+info,player,Rangpur Riders,Salman Irshad
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,Ibrahim Zadran
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,Shoaib Malik
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,DN Wellalage
+info,player,Fortune Barishal,Khaled Ahmed
+info,player,Fortune Barishal,Rakibul Hasan
+info,player,Fortune Barishal,Mohammad Imran
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,BA King,7fca84b7
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Hasan Murad,da9f58aa
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Imran,687e20b3
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tamim Iqbal,3b041a12

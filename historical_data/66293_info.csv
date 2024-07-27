@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Zimbabwe
+info,gender,male
+info,season,2003
+info,date,2003/06/26
+info,event,NatWest Series
+info,match_number,1
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,GW Flower
+info,umpire,P Willey
+info,umpire,SJA Taufel
+info,tv_umpire,NA Mallender
+info,match_referee,CH Lloyd
+info,winner,Zimbabwe
+info,winner_wickets,4
+info,player,England,ME Trescothick
+info,player,England,VS Solanki
+info,player,England,MP Vaughan
+info,player,England,RWT Key
+info,player,England,A Flintoff
+info,player,England,A McGrath
+info,player,England,R Clarke
+info,player,England,CMW Read
+info,player,England,RL Johnson
+info,player,England,AF Giles
+info,player,England,D Gough
+info,player,Zimbabwe,DA Marillier
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,TJ Friend
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,S Matsikenyeri
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,GB Brent
+info,player,Zimbabwe,RW Price
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,A McGrath,e8b5ea8d
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CMW Read,be4cefab
+info,registry,people,D Gough,fcbf5a30
+info,registry,people,DA Marillier,656202a7
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,GB Brent,da785bf8
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Streak,37f501d7
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MP Vaughan,6e1b1ec0
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,P Willey,1b647f99
+info,registry,people,R Clarke,8728a058
+info,registry,people,RL Johnson,3967930c
+info,registry,people,RW Price,67af6f81
+info,registry,people,RWT Key,bcb01d8c
+info,registry,people,S Matsikenyeri,e7ba1233
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Ervine,556302a7
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f
+info,registry,people,VS Solanki,7ee2ce62

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/04/13
+info,date,2023/04/14
+info,date,2023/04/15
+info,date,2023/04/16
+info,event,County Championship
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Lancashire
+info,toss_decision,bat
+info,umpire,BJ Debenham
+info,umpire,GD Lloyd
+info,match_referee,AM Smith (2)
+info,outcome,draw
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,C de Grandhomme
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,JM Anderson
+info,player,Essex,NLJ Browne
+info,player,Essex,AN Cook
+info,player,Essex,T Westley
+info,player,Essex,DW Lawrence
+info,player,Essex,MJJ Critchley
+info,player,Essex,AM Rossington
+info,player,Essex,SR Harmer
+info,player,Essex,DAJ Bracewell
+info,player,Essex,S Snater
+info,player,Essex,SJ Cook
+info,player,Essex,JA Porter
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AN Cook,f41598c1
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,NLJ Browne,81efec30
+info,registry,people,S Snater,a790df98
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SR Harmer,23638956
+info,registry,people,T Westley,25a42048
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WSA Williams,861eed37

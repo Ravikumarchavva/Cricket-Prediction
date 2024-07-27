@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Districts
+info,team,Otago Volts
+info,gender,male
+info,season,2020/21
+info,date,2020/10/28
+info,date,2020/10/29
+info,date,2020/10/30
+info,date,2020/10/31
+info,event,Plunket Shield
+info,match_number,4
+info,venue,"Bay Oval, Mount Maunganui"
+info,city,Mount Maunganui
+info,toss_winner,Northern Districts
+info,toss_decision,bat
+info,umpire,BF Bowden
+info,umpire,WR Knights
+info,match_referee,AL Hill
+info,winner,Northern Districts
+info,winner_runs,90
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,C de Grandhomme
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,TG Southee
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,N Wagner
+info,player,Otago Volts,MB Bacon
+info,player,Otago Volts,AK Kitchen
+info,player,Otago Volts,CT Hawkins
+info,player,Otago Volts,M Renwick
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,NF Kelly
+info,player,Otago Volts,NG Smith
+info,player,Otago Volts,MJG Rippon
+info,player,Otago Volts,MW Chu
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,T Muller
+info,player,Otago Volts,MD Rae
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AL Hill,4165ced0
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CT Hawkins,59013e14
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JG Walker,94734e80
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MB Bacon,90701232
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,N Wagner,78adc879
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,WR Knights,63cbf8d8

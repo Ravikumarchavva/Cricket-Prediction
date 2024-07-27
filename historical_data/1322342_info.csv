@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,New Zealand
+info,gender,female
+info,season,2022/23
+info,date,2022/12/14
+info,event,Bangladesh Women tour of New Zealand
+info,match_number,2
+info,venue,"McLean Park, Napier"
+info,city,Napier
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,umpire,JM Dempsey
+info,umpire,Kim Cotton
+info,reserve_umpire,C High
+info,tv_umpire,C Black
+info,match_referee,RE Hayward
+info,outcome,no result
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Sharmin Akhter
+info,player,Bangladesh,Fargana Hoque
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Lata Mondal
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,player,Bangladesh,Salma Khatun
+info,player,Bangladesh,Jahanara Alam
+info,player,New Zealand,SW Bates
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,ML Green
+info,player,New Zealand,LR Down
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,JT McFadyen
+info,player,New Zealand,HNK Jensen
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,FC Jonas
+info,registry,people,AC Kerr,7673c908
+info,registry,people,C Black,75b42f71
+info,registry,people,C High,ed55e0da
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fargana Hoque,6e96c956
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JM Kerr,9af58032
+info,registry,people,JT McFadyen,7072542f
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LR Down,19147fe0
+info,registry,people,Lata Mondal,5bf87532
+info,registry,people,ML Green,865eae1f
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,RE Hayward,57689d0b
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Salma Khatun,037f2b86
+info,registry,people,Sharmin Akhter,84fdd3cf

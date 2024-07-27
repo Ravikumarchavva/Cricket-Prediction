@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Madhya Pradesh
+info,team,Delhi
+info,gender,male
+info,season,2023/24
+info,date,2023/10/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Abhimanyu Cricket Academy, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Madhya Pradesh
+info,toss_decision,bat
+info,umpire,A Nand Kishore
+info,umpire,Tapan Sharma
+info,tv_umpire,HAS Khalid
+info,match_referee,Prakash Bhatt
+info,winner,Delhi
+info,winner_wickets,7
+info,player,Madhya Pradesh,VR Iyer
+info,player,Madhya Pradesh,Shubham Sharma
+info,player,Madhya Pradesh,S Solanki
+info,player,Madhya Pradesh,RM Patidar
+info,player,Madhya Pradesh,Parth Sahani
+info,player,Madhya Pradesh,Rakesh Thakur
+info,player,Madhya Pradesh,Rahul Batham
+info,player,Madhya Pradesh,Arshad Khan
+info,player,Madhya Pradesh,Rishabh Chouhan
+info,player,Madhya Pradesh,Saransh Jain
+info,player,Madhya Pradesh,Avesh Khan
+info,player,Madhya Pradesh,K Kartikeya
+info,player,Delhi,Priyansh Arya
+info,player,Delhi,Anuj Rawat
+info,player,Delhi,YV Dhull
+info,player,Delhi,A Badoni
+info,player,Delhi,Himmat Singh
+info,player,Delhi,Dev Lakra
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,Harshit Rana
+info,player,Delhi,Suyash Sharma
+info,player,Delhi,I Sharma
+info,player,Delhi,Navdeep Saini
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Nand Kishore,84424f4f
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,Arshad Khan,12314277
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,Dev Lakra,e41832f1
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,K Kartikeya,f6d8a7ab
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,Parth Sahani,239f7526
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rahul Batham,891b9757
+info,registry,people,Rakesh Thakur,2c5fb7f6
+info,registry,people,Rishabh Chouhan,a64608ec
+info,registry,people,S Solanki,ce2fa609
+info,registry,people,Saransh Jain,de33074a
+info,registry,people,Shubham Sharma,d1f8b722
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,VR Iyer,a24be938
+info,registry,people,YV Dhull,dd7e9b3b

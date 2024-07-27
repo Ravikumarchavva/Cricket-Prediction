@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Pakistan
+info,gender,female
+info,season,2022/23
+info,date,2023/02/19
+info,event,ICC Women's T20 World Cup
+info,match_number,16
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,HK Matthews
+info,umpire,Lauren Agenbag
+info,umpire,VG Rathi
+info,reserve_umpire,N James
+info,tv_umpire,S Redfern
+info,match_referee,SA Fritz
+info,winner,West Indies
+info,winner_runs,3
+info,player,West Indies,HK Matthews
+info,player,West Indies,RS Williams
+info,player,West Indies,SA Campbelle
+info,player,West Indies,CA Henry
+info,player,West Indies,S Gajnabi
+info,player,West Indies,AA Alleyne
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,T Holder
+info,player,West Indies,Z James
+info,player,West Indies,SS Connell
+info,player,West Indies,K Ramharack
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Aiman Anwer
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,Aiman Anwer,c736a96b
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,CA Henry,75820733
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N James,3de4511d
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,RS Williams,406de451
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,S Redfern,5b038989
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,T Holder,41fd2907
+info,registry,people,Tuba Hassan,0d56e9a5
+info,registry,people,Umaima Sohail,821d7d46
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Z James,816af623

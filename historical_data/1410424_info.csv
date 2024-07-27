@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kent
+info,team,Gloucestershire
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,Vitality Blast
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,DJ Millns
+info,umpire,Surendiran Shanmugam
+info,match_referee,JJ Swift
+info,winner,Gloucestershire
+info,winner_wickets,9
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,JL Denly
+info,player,Kent,MK O'Riordan
+info,player,Kent,SW Billings
+info,player,Kent,TS Muyeye
+info,player,Kent,JDM Evison
+info,player,Kent,G Stewart
+info,player,Kent,XC Bartlett
+info,player,Kent,NN Gilchrist
+info,player,Kent,MW Parkinson
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,MD Taylor
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Payne,6c79c098
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,MW Parkinson,19708692
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,NN Gilchrist,93cad673
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,Z Crawley,922e1b19

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Goa
+info,gender,male
+info,season,2018/19
+info,date,2019/02/28
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Punjab
+info,toss_decision,bat
+info,winner,Punjab
+info,winner_runs,79
+info,player,Punjab,M Vohra
+info,player,Punjab,Shubman Gill
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Sharad Lumba
+info,player,Punjab,P Simran Singh
+info,player,Punjab,MS Gony
+info,player,Punjab,BB Sran
+info,player,Punjab,Baltej Singh
+info,player,Punjab,Karan Kaila
+info,player,Punjab,Krishan Alang
+info,player,Goa,Krishna Das
+info,player,Goa,Vijesh Prabhudessai
+info,player,Goa,Felix Alemao
+info,player,Goa,Darshan Misal
+info,player,Goa,MG Sirur
+info,player,Goa,Amogh Desai
+info,player,Goa,Sagun Kamat
+info,player,Goa,Amit Verma
+info,player,Goa,SS Prabhudessai
+info,player,Goa,KA Vaz
+info,player,Goa,Rajashekhar Harikant
+info,registry,people,Amit Verma,3b30b8c4
+info,registry,people,Amogh Desai,017e2f0d
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,BB Sran,d8b2f218
+info,registry,people,Baltej Singh,0c0ef3fb
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Felix Alemao,2d209101
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,KA Vaz,2b126005
+info,registry,people,Karan Kaila,b19f1fe9
+info,registry,people,Krishan Alang,339bda40
+info,registry,people,Krishna Das,2009e01b
+info,registry,people,M Vohra,c03e2850
+info,registry,people,MG Sirur,a71b0bd3
+info,registry,people,MS Gony,ae78bc32
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Rajashekhar Harikant,b9228ad0
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Sagun Kamat,8a58cc2a
+info,registry,people,Sharad Lumba,03c29939
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Vijesh Prabhudessai,773bf733

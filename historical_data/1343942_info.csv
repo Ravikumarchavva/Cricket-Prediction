@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Durban's Super Giants
+info,gender,male
+info,season,2022/23
+info,date,2023/01/11
+info,event,SA20
+info,match_number,2
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Joburg Super Kings
+info,toss_decision,bat
+info,player_of_match,D Ferreira
+info,umpire,AT Holdstock
+info,umpire,LB Gcuma
+info,reserve_umpire,DJ Smith
+info,tv_umpire,S George
+info,match_referee,S Wadvalla
+info,winner,Joburg Super Kings
+info,winner_runs,16
+info,player,Joburg Super Kings,JN Malan
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,K Verreynne
+info,player,Joburg Super Kings,L Gregory
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,GHS Garton
+info,player,Joburg Super Kings,AS Joseph
+info,player,Joburg Super Kings,MP Siboto
+info,player,Joburg Super Kings,AM Phangiso
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,JO Holder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,P Subrayen
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,A Dananjaya
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GHS Garton,be869ccf
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JN Malan,f76d7466
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Wadvalla,c1a1acf3

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Western Australia
+info,team,South Australia
+info,gender,male
+info,season,2023/24
+info,date,2023/10/26
+info,date,2023/10/27
+info,date,2023/10/28
+info,date,2023/10/29
+info,event,Sheffield Shield
+info,match_number,9
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Western Australia
+info,toss_decision,bat
+info,player_of_match,JS Paris
+info,umpire,D Taylor
+info,umpire,PJ Gillespie
+info,match_referee,SJ Davis
+info,winner,Western Australia
+info,winner_runs,200
+info,player,Western Australia,CT Bancroft
+info,player,Western Australia,SM Whiteman
+info,player,Western Australia,T Wyllie
+info,player,Western Australia,HWR Cartwright
+info,player,Western Australia,AM Hardie
+info,player,Western Australia,JR Philippe
+info,player,Western Australia,AJ Turner
+info,player,Western Australia,JS Paris
+info,player,Western Australia,CJ Gannon
+info,player,Western Australia,CJ Rocchiccioli
+info,player,Western Australia,L Haskett
+info,player,South Australia,KR Smith
+info,player,South Australia,HJ Hunt
+info,player,South Australia,DR Drew
+info,player,South Australia,NA McSweeney
+info,player,South Australia,JS Lehmann
+info,player,South Australia,JM Carder
+info,player,South Australia,HJ Nielsen
+info,player,South Australia,BAD Manenti
+info,player,South Australia,N McAndrew
+info,player,South Australia,WA Agar
+info,player,South Australia,HNA Conway
+info,registry,people,AJ Turner,ff1e12a0
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,CH Stobo,098229a5
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,CJ Rocchiccioli,aa3c7a7a
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,DR Drew,88684a42
+info,registry,people,HJ Hunt,62ef4abe
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HNA Conway,272fc5ad
+info,registry,people,HWR Cartwright,ab965cad
+info,registry,people,JM Carder,782b4a8e
+info,registry,people,JR Philippe,39086549
+info,registry,people,JS Lehmann,c96a215f
+info,registry,people,JS Paris,7c8f533d
+info,registry,people,KR Smith,b816c2a5
+info,registry,people,L Haskett,037429dc
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NA McSweeney,e94d2d50
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,T Wyllie,2f624c02
+info,registry,people,WA Agar,15de1f5d

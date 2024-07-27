@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Peshawar Zalmi
+info,team,Multan Sultans
+info,gender,male
+info,season,2023/24
+info,date,2024/03/14
+info,event,Pakistan Super League
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Peshawar Zalmi
+info,toss_decision,bat
+info,player_of_match,Usama Mir
+info,umpire,Aleem Dar
+info,umpire,RK Illingworth
+info,reserve_umpire,Faisal Afridi
+info,tv_umpire,Rashid Riaz
+info,match_referee,RS Mahanama
+info,winner,Multan Sultans
+info,winner_wickets,7
+info,player,Peshawar Zalmi,Saim Ayub
+info,player,Peshawar Zalmi,Babar Azam
+info,player,Peshawar Zalmi,Mohammad Haris
+info,player,Peshawar Zalmi,Haseebullah Khan
+info,player,Peshawar Zalmi,T Kohler-Cadmore
+info,player,Peshawar Zalmi,R Powell
+info,player,Peshawar Zalmi,PI Walter
+info,player,Peshawar Zalmi,Aamer Jamal
+info,player,Peshawar Zalmi,L Wood
+info,player,Peshawar Zalmi,Mehran Mumtaz
+info,player,Peshawar Zalmi,Salman Irshad
+info,player,Multan Sultans,Yasir Khan
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,Usman Khan
+info,player,Multan Sultans,J Charles
+info,player,Multan Sultans,Iftikhar Ahmed
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,CJ Jordan
+info,player,Multan Sultans,DJ Willey
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,Abbas Afridi
+info,player,Multan Sultans,Mohammad Ali
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DJ Willey,7f048519
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Haseebullah Khan,5691931a
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,J Charles,09a9d073
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,L Wood,65b6943c
+info,registry,people,Mehran Mumtaz,373838de
+info,registry,people,Mohammad Ali,a86a37ab
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,PI Walter,57590dbb
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Yasir Khan,4f1bb625

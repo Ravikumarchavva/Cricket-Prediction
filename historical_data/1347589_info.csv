@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/05/29
+info,event,Vitality Blast
+info,venue,"Merchant Taylors' School Ground, Northwood"
+info,city,Northwood
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,RJ Bailey
+info,match_referee,SJ Davis
+info,winner,Gloucestershire
+info,winner_runs,2
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,TMJ Smith
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,registry,people,BC Cullen,39180894
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,DA Payne,6c79c098
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,N Fernandes,01561e94
+info,registry,people,NJ Llong,573fb985
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TMJ Smith,0a12e736

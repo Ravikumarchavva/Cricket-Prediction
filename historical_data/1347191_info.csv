@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/07/26
+info,date,2023/07/27
+info,date,2023/07/28
+info,date,2023/07/29
+info,event,County Championship
+info,venue,"College Ground, Cheltenham"
+info,city,Cheltenham
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,MJ Saggers
+info,match_referee,SG Hinks
+info,winner,Worcestershire
+info,winner_runs,110
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,JD Libby
+info,player,Worcestershire,Azhar Ali
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,J Leach
+info,player,Worcestershire,JO Baker
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,DY Pennington
+info,player,Gloucestershire,JP Phillips
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,TJ Price
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,PA van Meekeren
+info,player,Gloucestershire,MD Taylor
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,Azhar Ali,211de69f
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,GH Roderick,7081848a
+info,registry,people,J Leach,cd143bca
+info,registry,people,JD Libby,0d61d8f0
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,JO Baker,52c442e4
+info,registry,people,JP Phillips,0df43caf
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,TJ Price,269ff06e
+info,registry,people,Zafar Gohar,9fd3a210
+info,registry,people,Zaman Akhter,63e1e352

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Otago
+info,gender,male
+info,season,2023/24
+info,date,2023/12/21
+info,event,Super Smash
+info,match_number,2
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,player_of_match,TB Robinson
+info,umpire,C Black
+info,umpire,TJ Parlane
+info,reserve_umpire,Tyron Davies
+info,tv_umpire,KS Jagannathan
+info,match_referee,K Pulley
+info,winner,Wellington
+info,winner_runs,74
+info,player,Wellington,TB Robinson
+info,player,Wellington,NA Greenwood
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,JM Tashkoff
+info,player,Wellington,NG Smith
+info,player,Wellington,CR McLachlan
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,MW Snedden
+info,player,Wellington,IG McPeake
+info,player,Otago,HD Rutherford
+info,player,Otago,JM Gibson
+info,player,Otago,DN Phillips
+info,player,Otago,D Foxcroft
+info,player,Otago,MW Chu
+info,player,Otago,LC Johnson
+info,player,Otago,OJ White
+info,player,Otago,BNJ Lockrose
+info,player,Otago,ATE Hazeldine
+info,player,Otago,MB Bacon
+info,player,Otago,T Muller
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,C Black,75b42f71
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,JM Tashkoff,afe7d695
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MB Bacon,90701232
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,OJ White,a2e63eab
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TB Robinson,5d664346
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TM Johnson,917f66da
+info,registry,people,Tyron Davies,6ec463f4

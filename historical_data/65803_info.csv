@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Zimbabwe
+info,gender,male
+info,season,2002/03
+info,date,2003/04/03
+info,event,Cherry Blossom Sharjah Cup
+info,match_number,1
+info,venue,Sharjah Cricket Association Stadium
+info,city,Sharjah
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Abdul Razzaq
+info,umpire,AV Jayaprakash
+info,umpire,BR Doctrove
+info,tv_umpire,KC Barbour
+info,match_referee,AM Ebrahim
+info,winner,Pakistan
+info,winner_runs,68
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Mohammad Hafeez
+info,player,Pakistan,Naved Latif
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Shoaib Malik
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Mohammad Sami
+info,player,Pakistan,Umar Gul
+info,player,Pakistan,Danish Kaneria
+info,player,Zimbabwe,CB Wishart
+info,player,Zimbabwe,DA Marillier
+info,player,Zimbabwe,TJ Friend
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,GJ Rennie
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,DT Hondo
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,AM Ebrahim,814fafa7
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,BR Doctrove,cbebf805
+info,registry,people,CB Wishart,8319b9ea
+info,registry,people,DA Marillier,656202a7
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,Danish Kaneria,0be1b885
+info,registry,people,GJ Rennie,b863eae9
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Streak,37f501d7
+info,registry,people,KC Barbour,4359f89a
+info,registry,people,Mohammad Hafeez,9ab63e7b
+info,registry,people,Mohammad Sami,68ddabdb
+info,registry,people,Naved Latif,261d6559
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,SM Ervine,556302a7
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Umar Gul,16dfcc19
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

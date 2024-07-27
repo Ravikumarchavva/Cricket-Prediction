@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maharashtra
+info,team,Vidarbha
+info,gender,male
+info,season,2021/22
+info,date,2021/11/16
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Arun Jaitley Stadium
+info,city,
+info,toss_winner,Vidarbha
+info,toss_decision,field
+info,winner,Vidarbha
+info,winner_wickets,7
+info,player,Maharashtra,Yash Nahar
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,Ranjeet Nikam
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,Sunil Yadav
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,Mukesh Choudhary
+info,player,Maharashtra,A Palkar
+info,player,Vidarbha,DG Nalkande
+info,player,Vidarbha,Yash Thakur
+info,player,Vidarbha,Akshay Karnewar
+info,player,Vidarbha,LM Yadav
+info,player,Vidarbha,Akshay Wakhare
+info,player,Vidarbha,Siddhesh Wath
+info,player,Vidarbha,Atharva Taide
+info,player,Vidarbha,Akshay Wadkar
+info,player,Vidarbha,SB Dubey
+info,player,Vidarbha,JM Sharma
+info,player,Vidarbha,AV Wankhade
+info,registry,people,A Palkar,c4ab5dd8
+info,registry,people,AV Wankhade,5708d0b6
+info,registry,people,Akshay Karnewar,e1e7f950
+info,registry,people,Akshay Wadkar,c88c8a7d
+info,registry,people,Akshay Wakhare,ec9fc54b
+info,registry,people,Atharva Taide,1ac746c8
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,DG Nalkande,cd8d2859
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,LM Yadav,e0c30d35
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,Ranjeet Nikam,ca099aeb
+info,registry,people,SB Dubey,6b2ff18f
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Siddhesh Wath,5786f224
+info,registry,people,Sunil Yadav,76b0c2ac
+info,registry,people,Yash Nahar,487f5721
+info,registry,people,Yash Thakur,4b31f3a3

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/06/06
+info,event,Vitality Blast
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,BV Taylor
+info,umpire,PR Pollard
+info,match_referee,DE Malcolm
+info,winner,Essex
+info,winner_wickets,5
+info,player,Sussex,TGR Clark
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,RS Bopara
+info,player,Sussex,Shadab Khan
+info,player,Sussex,MGK Burgess
+info,player,Sussex,JM Coles
+info,player,Sussex,N McAndrew
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,TS Mills
+info,player,Sussex,HT Crocombe
+info,player,Essex,AM Rossington
+info,player,Essex,DW Lawrence
+info,player,Essex,MS Pepper
+info,player,Essex,RJ Das
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,BMJ Allison
+info,player,Essex,SJ Cook
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,BV Taylor,99760152
+info,registry,people,DE Malcolm,29c7ca03
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,MGK Burgess,715941c3
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RJ Das,734344b3
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,S Snater,a790df98
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SR Harmer,23638956
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb

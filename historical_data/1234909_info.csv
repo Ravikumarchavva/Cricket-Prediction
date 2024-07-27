@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Auckland Aces
+info,gender,male
+info,season,2020/21
+info,date,2020/10/20
+info,date,2020/10/21
+info,date,2020/10/22
+info,event,Plunket Shield
+info,match_number,3
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,TJ Parlane
+info,umpire,WR Knights
+info,match_referee,GAV Baxter
+info,winner,Auckland Aces
+info,winner_innings,1
+info,winner_runs,129
+info,player,Auckland Aces,BG Lister
+info,player,Auckland Aces,GK Beghin
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,MJ Guptill
+info,player,Auckland Aces,MS Chapman
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,KA Jamieson
+info,player,Auckland Aces,WER Somerville
+info,player,Auckland Aces,DK Ferns
+info,player,Auckland Aces,OMR Pringle
+info,player,Otago Volts,AK Kitchen
+info,player,Otago Volts,CT Hawkins
+info,player,Otago Volts,M Renwick
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,NF Kelly
+info,player,Otago Volts,NG Smith
+info,player,Otago Volts,MJG Rippon
+info,player,Otago Volts,MW Chu
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,T Muller
+info,player,Otago Volts,MD Rae
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,CT Hawkins,59013e14
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GK Beghin,0d8f5fc6
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,OMR Pringle,2649b254
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WR Knights,63cbf8d8

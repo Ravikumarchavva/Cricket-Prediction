@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,Malaysia
+info,gender,male
+info,season,2022/23
+info,date,2023/03/08
+info,event,Quadrangular Twenty20 Series (Hong Kong)
+info,match_number,1
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,Virandeep Singh
+info,umpire,S Vachha
+info,umpire,Tabarak Dar
+info,reserve_umpire,G Sankaranarayanan
+info,match_referee,N Hemlani
+info,winner,Malaysia
+info,winner_wickets,3
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,Adnan Idrees
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Ali Zaheer
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Yasin Patel
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Mohamed Arief
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Fitri Sham
+info,player,Malaysia,Muhammad Wafiq
+info,player,Malaysia,Rizwan Haider
+info,registry,people,Adnan Idrees,0e34c23a
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ali Zaheer,04ed04d2
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,Fitri Sham,d2ec068c
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Arief,1087dd78
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Muhammad Wafiq,f104c434
+info,registry,people,N Hemlani,bcc5904a
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vachha,4d156994
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Zubaidi Zulkifle,dca8273d

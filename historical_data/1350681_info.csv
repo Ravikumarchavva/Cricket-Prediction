@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Zimbabwe
+info,gender,male
+info,season,2022/23
+info,date,2023/02/04
+info,date,2023/02/05
+info,date,2023/02/06
+info,date,2023/02/07
+info,date,2023/02/08
+info,event,West Indies tour of Zimbabwe
+info,match_number,1
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,T Chanderpaul
+info,umpire,L Rusere
+info,umpire,PR Reiffel
+info,reserve_umpire,F Mutizwa
+info,tv_umpire,I Chabi
+info,match_referee,JJ Crowe
+info,outcome,draw
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,T Chanderpaul
+info,player,West Indies,KR Mayers
+info,player,West Indies,RA Reifer
+info,player,West Indies,J Blackwood
+info,player,West Indies,RL Chase
+info,player,West Indies,JO Holder
+info,player,West Indies,J Da Silva
+info,player,West Indies,AS Joseph
+info,player,West Indies,G Motie
+info,player,West Indies,KAJ Roach
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,T Makoni
+info,player,Zimbabwe,CJ Chibhabha
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,GS Ballance
+info,player,Zimbabwe,TE Tsiga
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,B Mavuta
+info,player,Zimbabwe,VM Nyauchi
+info,player,Zimbabwe,R Ngarava
+info,registry,people,AS Joseph,b0946605
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Mavuta,dadb9703
+info,registry,people,CJ Chibhabha,f32dbc84
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JO Holder,0f721006
+info,registry,people,KAJ Roach,78eb4223
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,T Chanderpaul,80c6ed7d
+info,registry,people,T Makoni,40d37b33
+info,registry,people,TE Tsiga,a1dcb5b9
+info,registry,people,VM Nyauchi,1bd16445
+info,registry,people,WP Masakadza,4bc0a378

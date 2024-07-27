@@ -1,0 +1,73 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,male
+info,season,2022/23
+info,date,2022/12/08
+info,date,2022/12/09
+info,date,2022/12/10
+info,date,2022/12/11
+info,event,West Indies tour of Australia
+info,match_number,2
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,TM Head
+info,umpire,HDPK Dharmasena
+info,umpire,RJ Tucker
+info,reserve_umpire,PJ Gillespie
+info,tv_umpire,RK Illingworth
+info,match_referee,BC Broad
+info,winner,Australia
+info,winner_runs,419
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,AT Carey
+info,player,Australia,MG Neser
+info,player,Australia,MA Starc
+info,player,Australia,NM Lyon
+info,player,Australia,SM Boland
+info,player,West Indies,KC Brathwaite
+info,player,West Indies,T Chanderpaul
+info,player,West Indies,SSJ Brooks
+info,player,West Indies,J Blackwood
+info,player,West Indies,DC Thomas
+info,player,West Indies,A Phillip
+info,player,West Indies,JO Holder
+info,player,West Indies,J Da Silva
+info,player,West Indies,RL Chase
+info,player,West Indies,AS Joseph
+info,player,West Indies,MJ Mindley
+info,registry,people,A Phillip,f2665768
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AT Carey,69d03465
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DC Thomas,08a4f9ad
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Blackwood,c3b93a03
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,JO Holder,0f721006
+info,registry,people,KC Brathwaite,7d5af2ea
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MG Neser,0164b064
+info,registry,people,MJ Mindley,b88fa6fe
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SM Boland,d167edd3
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,T Chanderpaul,80c6ed7d
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Railways
+info,team,Mumbai
+info,gender,male
+info,season,2018/19
+info,date,2019/02/27
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Mumbai
+info,toss_decision,field
+info,winner,Railways
+info,winner_runs,57
+info,player,Railways,Mrunal Devdhar
+info,player,Railways,Pratham Singh
+info,player,Railways,Prashant Awasthi
+info,player,Railways,Abhinav Dixit
+info,player,Railways,AG Paunikar
+info,player,Railways,Amit Chopra
+info,player,Railways,Ashish Yadav
+info,player,Railways,Anureet Singh
+info,player,Railways,Harsh Tyagi
+info,player,Railways,K Upadhyay
+info,player,Railways,Amit Mishra
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,SN Thakur
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,Shubham Ranjane
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,SD Lad
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,SS Iyer
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,AP Tare
+info,registry,people,AG Paunikar,3a02626a
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AP Tare,855a210c
+info,registry,people,Abhinav Dixit,f1a7f596
+info,registry,people,Amit Chopra,cc36706f
+info,registry,people,Amit Mishra,1d8388eb
+info,registry,people,Anureet Singh,69be866a
+info,registry,people,Ashish Yadav,254c7802
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,K Upadhyay,27e71d47
+info,registry,people,Mrunal Devdhar,a1765140
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,Prashant Awasthi,bbbc7d28
+info,registry,people,Pratham Singh,f9f21866
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,TU Deshpande,46a9bea1

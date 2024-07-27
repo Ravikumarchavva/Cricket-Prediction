@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/05/25
+info,event,Vitality Blast
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,bat
+info,player_of_match,WG Jacks
+info,umpire,NJ Llong
+info,umpire,Tom Lungley
+info,tv_umpire,NL Bainton
+info,match_referee,DA Cosker
+info,winner,Surrey
+info,winner_runs,73
+info,player,Surrey,WG Jacks
+info,player,Surrey,SP Narine
+info,player,Surrey,SM Curran
+info,player,Surrey,TK Curran
+info,player,Surrey,J Overton
+info,player,Surrey,LJ Evans
+info,player,Surrey,JL Smith
+info,player,Surrey,J Clark
+info,player,Surrey,SA Abbott
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,TE Lawes
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,TG Helm
+info,player,Middlesex,BC Cullen
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,BC Cullen,39180894
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,J Clark,c672e80e
+info,registry,people,J Overton,59559bc2
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JL Smith,c834c290
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,N Fernandes,01561e94
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TE Lawes,fe2ac1a8
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TK Curran,e86754b2
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WG Jacks,9caf69a1

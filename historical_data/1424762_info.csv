@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Zimbabwe
+info,gender,male
+info,season,2023/24
+info,date,2024/03/20
+info,event,African Games
+info,match_number,11
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,O Muzondo
+info,umpire,IO Oyieko
+info,umpire,Patric Makumbi
+info,reserve_umpire,A Kassam
+info,match_referee,O Chirombe
+info,winner,Zimbabwe
+info,winner_wickets,10
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,I Danladi
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,P Useni
+info,player,Nigeria,C Udekwe
+info,player,Nigeria,Joshua Asia
+info,player,Zimbabwe,R Mupfudza
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,J Campbell
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,T Gwandu
+info,player,Zimbabwe,WT Mubayiwa
+info,player,Zimbabwe,TZ Chataira
+info,player,Zimbabwe,O Muzondo
+info,registry,people,A Kassam,7d13b388
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Campbell,0e63259d
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,Joshua Asia,c4ecc42c
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Muzondo,ffc308ee
+info,registry,people,P Useni,71fa64d6
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Mupfudza,f4417987
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,TZ Chataira,2e4d5f94
+info,registry,people,VD Adewoye,45a34a2d
+info,registry,people,WT Mubayiwa,2343b4bf

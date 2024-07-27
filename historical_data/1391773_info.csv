@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Victoria
+info,team,Queensland
+info,gender,male
+info,season,2023/24
+info,date,2023/10/14
+info,date,2023/10/15
+info,date,2023/10/16
+info,date,2023/10/17
+info,event,Sheffield Shield
+info,match_number,4
+info,venue,"Great Barrier Reef Arena, Mackay"
+info,city,Mackay
+info,toss_winner,Queensland
+info,toss_decision,field
+info,player_of_match,MT Renshaw
+info,umpire,DM Koch
+info,umpire,Sharad Patel
+info,match_referee,Kepler Wessels
+info,winner,Queensland
+info,winner_innings,1
+info,winner_runs,104
+info,player,Victoria,TJ Dean
+info,player,Victoria,MS Harris
+info,player,Victoria,C Kellaway
+info,player,Victoria,PSP Handscomb
+info,player,Victoria,MW Short
+info,player,Victoria,W Sutherland
+info,player,Victoria,SB Harper
+info,player,Victoria,M Perry
+info,player,Victoria,T Murphy
+info,player,Victoria,PM Siddle
+info,player,Victoria,CL McClure
+info,player,Queensland,BE Street
+info,player,Queensland,MT Renshaw
+info,player,Queensland,JA Burns
+info,player,Queensland,J Clayton
+info,player,Queensland,BR McDermott
+info,player,Queensland,JJ Peirson
+info,player,Queensland,MG Neser
+info,player,Queensland,JD Wildermuth
+info,player,Queensland,GS Sandhu
+info,player,Queensland,MT Steketee
+info,player,Queensland,MJ Swepson
+info,registry,people,BE Street,3d4ad40e
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,C Kellaway,60c28835
+info,registry,people,CL McClure,b3267eaa
+info,registry,people,DM Koch,6d10c034
+info,registry,people,GS Sandhu,1558d83b
+info,registry,people,J Clayton,c56fc66d
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JD Wildermuth,f1c61793
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,M Perry,442461fa
+info,registry,people,MG Neser,0164b064
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MS Harris,9e85455c
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,MT Steketee,903560ed
+info,registry,people,MW Short,a90e53ec
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,SB Harper,a756e61a
+info,registry,people,Sharad Patel,8e6dd3ba
+info,registry,people,T Murphy,ac2e7ec0
+info,registry,people,TJ Dean,666936de
+info,registry,people,W Sutherland,bc2d4f2e

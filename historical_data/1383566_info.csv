@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Delhi
+info,team,Punjab
+info,gender,male
+info,season,2023/24
+info,date,2023/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+info,city,Chandigarh
+info,toss_winner,Punjab
+info,toss_decision,field
+info,umpire,J Madanagopal
+info,umpire,HAS Khalid
+info,tv_umpire,R Pandit
+info,match_referee,SS Raul
+info,winner,Punjab
+info,winner_wickets,6
+info,player,Delhi,Priyansh Arya
+info,player,Delhi,Anuj Rawat
+info,player,Delhi,YV Dhull
+info,player,Delhi,A Badoni
+info,player,Delhi,Himmat Singh
+info,player,Delhi,Harsh Tyagi
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,Dev Lakra
+info,player,Delhi,PJ Sangwan
+info,player,Delhi,Suyash Sharma
+info,player,Delhi,MP Yadav
+info,player,Delhi,Navdeep Saini
+info,player,Punjab,S Kaul
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Naman Dhir
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,N Wadhera
+info,player,Punjab,M Markande
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Arshdeep Singh
+info,registry,people,A Badoni,872b03f7
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Dev Lakra,e41832f1
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Harsh Tyagi,4a15018a
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,MP Yadav,b1ad996b
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PJ Sangwan,9fc0ef64
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,R Pandit,8a604384
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SS Raul,4cfdf1d0
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,YV Dhull,dd7e9b3b

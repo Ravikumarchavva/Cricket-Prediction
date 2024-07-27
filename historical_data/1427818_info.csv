@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,The Blaze
+info,gender,female
+info,season,2024
+info,date,2024/05/01
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,13
+info,venue,"North Marine Road Ground, Scarborough"
+info,city,Scarborough
+info,toss_winner,Northern Diamonds
+info,toss_decision,bat
+info,umpire,A Clark
+info,umpire,S Redfern
+info,match_referee,IL Herbert
+info,winner,The Blaze
+info,winner_wickets,2
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,R Duckworth
+info,player,Northern Diamonds,EA Burns
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,S Turner
+info,player,Northern Diamonds,A Glen
+info,player,Northern Diamonds,JA Woolston
+info,player,Northern Diamonds,KA Levick
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,T Graves
+info,player,The Blaze,D Mullan
+info,player,The Blaze,M Kelly
+info,player,The Blaze,N de Klerk
+info,player,The Blaze,S Munro
+info,player,The Blaze,B Gammon
+info,player,The Blaze,E Claridge
+info,player,The Blaze,CM McCarthy
+info,player,The Blaze,LF Higham
+info,player,The Blaze,G Ballinger
+info,registry,people,A Clark,8c73cd16
+info,registry,people,A Glen,9da0d1e5
+info,registry,people,B Gammon,2d45a2da
+info,registry,people,CM McCarthy,7ce7fb3c
+info,registry,people,D Mullan,e78964b8
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EK Marlow,ac574559
+info,registry,people,G Ballinger,2f485713
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JA Woolston,c1f3ae44
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,N de Klerk,ea544967
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,R Duckworth,8122c036
+info,registry,people,S Munro,b4e026de
+info,registry,people,S Redfern,5b038989
+info,registry,people,S Turner,7442f8dd
+info,registry,people,T Graves,e893fef7

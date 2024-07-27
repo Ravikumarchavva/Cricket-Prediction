@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Khulna Tigers
+info,gender,male
+info,season,2022/23
+info,date,2023/02/10
+info,event,Bangladesh Premier League
+info,match_number,42
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Fortune Barishal
+info,toss_decision,bat
+info,player_of_match,Mahmudul Hasan Joy
+info,umpire,Ali Arman
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Mahfuzur Rahman
+info,tv_umpire,Mohammad Kamruzzaman
+info,match_referee,Debabrata Paul
+info,winner,Khulna Tigers
+info,winner_wickets,6
+info,player,Fortune Barishal,Anamul Haque
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,PC de Silva
+info,player,Fortune Barishal,Shakib Al Hasan
+info,player,Fortune Barishal,D Pretorius
+info,player,Fortune Barishal,Ibrahim Zadran
+info,player,Fortune Barishal,Karim Janat
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Salman Hossain
+info,player,Fortune Barishal,Khaled Ahmed
+info,player,Fortune Barishal,Ebadat Hossain
+info,player,Khulna Tigers,A Balbirnie
+info,player,Khulna Tigers,Sabbir Rahman
+info,player,Khulna Tigers,SD Hope
+info,player,Khulna Tigers,Mahmudul Hasan Joy
+info,player,Khulna Tigers,Yasir Ali Chowdhury
+info,player,Khulna Tigers,Habibur Rahman
+info,player,Khulna Tigers,Hasan Murad
+info,player,Khulna Tigers,Shafiqul Islam
+info,player,Khulna Tigers,Nahidul Islam
+info,player,Khulna Tigers,Nasum Ahmed
+info,player,Khulna Tigers,Mohammad Saifuddin
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,D Pretorius,11614d87
+info,registry,people,Debabrata Paul,a77f51d0
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,Habibur Rahman,cee2fbd8
+info,registry,people,Hasan Murad,da9f58aa
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Karim Janat,62175638
+info,registry,people,Khaled Ahmed,5dbdecf1
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahmudul Hasan Joy,4b51bd51
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Nahidul Islam,8c7b16c8
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Sabbir Rahman,7147f314
+info,registry,people,Salman Hossain,03ff4a44
+info,registry,people,Shafiqul Islam,390c914c
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Yasir Ali Chowdhury,5791b840

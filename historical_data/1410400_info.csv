@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Surrey
+info,gender,male
+info,season,2024
+info,date,2024/06/07
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Surrey
+info,toss_decision,field
+info,umpire,DJ Millns
+info,umpire,NL Bainton
+info,match_referee,PM Such
+info,winner,Sussex
+info,winner_runs,36
+info,player,Sussex,OJ Carter
+info,player,Sussex,DP Hughes
+info,player,Sussex,JM Coles
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,JA Simpson
+info,player,Sussex,TP Alsop
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,OE Robinson
+info,player,Sussex,AC Lenham
+info,player,Sussex,TS Mills
+info,player,Surrey,LJ Evans
+info,player,Surrey,DW Lawrence
+info,player,Surrey,JJ Roy
+info,player,Surrey,OJ Pope
+info,player,Surrey,JL Smith
+info,player,Surrey,J Clark
+info,player,Surrey,TK Curran
+info,player,Surrey,SA Abbott
+info,player,Surrey,CT Steel
+info,player,Surrey,AAP Atkinson
+info,player,Surrey,SH Johnson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AC Lenham,8f9c5014
+info,registry,people,CT Steel,5899dceb
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,J Clark,c672e80e
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,PM Such,c9f1892c
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,TK Curran,e86754b2
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TS Mills,245c97cb

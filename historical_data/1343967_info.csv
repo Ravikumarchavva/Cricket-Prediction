@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,Sunrisers Eastern Cape
+info,gender,male
+info,season,2022/23
+info,date,2023/02/05
+info,event,SA20
+info,match_number,27
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,bat
+info,player_of_match,F du Plessis
+info,umpire,BP Jele
+info,umpire,LB Gcuma
+info,reserve_umpire,BM White
+info,tv_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,Joburg Super Kings
+info,winner_runs,24
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,MS Wade
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,G Coetzee
+info,player,Joburg Super Kings,KI Simmonds
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,M Theekshana
+info,player,Sunrisers Eastern Cape,AM Rossington
+info,player,Sunrisers Eastern Cape,T Bavuma
+info,player,Sunrisers Eastern Cape,J Hermann
+info,player,Sunrisers Eastern Cape,JT Smuts
+info,player,Sunrisers Eastern Cape,AK Markram
+info,player,Sunrisers Eastern Cape,T Stubbs
+info,player,Sunrisers Eastern Cape,M Jansen
+info,player,Sunrisers Eastern Cape,JK Fuller
+info,player,Sunrisers Eastern Cape,BA Carse
+info,player,Sunrisers Eastern Cape,RE van der Merwe
+info,player,Sunrisers Eastern Cape,SSB Magala
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MS Wade,afa7e784
+info,registry,people,N Burger,465aa633
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SSB Magala,8361e524
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Stubbs,85b3fab2

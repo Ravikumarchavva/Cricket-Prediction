@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2023/24
+info,date,2023/09/07
+info,event,Australia tour of South Africa
+info,match_number,1
+info,venue,"Mangaung Oval, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,M Labuschagne
+info,umpire,A Paleker
+info,umpire,RA Kettleborough
+info,reserve_umpire,BP Jele
+info,tv_umpire,Nitin Menon
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_wickets,3
+info,player,South Africa,Q de Kock
+info,player,South Africa,T Bavuma
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,G Coetzee
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,L Ngidi
+info,player,Australia,DA Warner
+info,player,Australia,TM Head
+info,player,Australia,MR Marsh
+info,player,Australia,C Green
+info,player,Australia,JP Inglis
+info,player,Australia,AT Carey
+info,player,Australia,MP Stoinis
+info,player,Australia,M Labuschagne
+info,player,Australia,SA Abbott
+info,player,Australia,AC Agar
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Zampa,14f96089
+info,registry,people,AC Agar,a2421394
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Carey,69d03465
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TM Head,12b610c2

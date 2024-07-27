@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Khulna Tigers
+info,gender,male
+info,season,2022/23
+info,date,2023/01/30
+info,event,Bangladesh Premier League
+info,match_number,30
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Khulna Tigers
+info,toss_decision,field
+info,player_of_match,Towhid Hridoy
+info,umpire,Morshed Ali Khan
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Mozahiduzzaman
+info,tv_umpire,Mohammad Kamruzzaman
+info,match_referee,Raqibul Hasan (2)
+info,winner,Sylhet Strikers
+info,winner_runs,31
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,NLTC Perera
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Imad Wasim
+info,player,Sylhet Strikers,Mohammad Amir
+info,player,Sylhet Strikers,Rubel Hossain
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Khulna Tigers,Tamim Iqbal
+info,player,Khulna Tigers,A Balbirnie
+info,player,Khulna Tigers,SD Hope
+info,player,Khulna Tigers,Mahmudul Hasan Joy
+info,player,Khulna Tigers,Azam Khan
+info,player,Khulna Tigers,Yasir Ali Chowdhury
+info,player,Khulna Tigers,M Deyal
+info,player,Khulna Tigers,Mohammad Saifuddin
+info,player,Khulna Tigers,Nahidul Islam
+info,player,Khulna Tigers,Nasum Ahmed
+info,player,Khulna Tigers,Nahid Rana
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,M Deyal,7183799b
+info,registry,people,Mahmudul Hasan Joy,4b51bd51
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mozahiduzzaman,a149de90
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nahid Rana,5318ee68
+info,registry,people,Nahidul Islam,8c7b16c8
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Yasir Ali Chowdhury,5791b840
+info,registry,people,Zakir Hasan,e3e09091

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bengal
+info,team,Assam
+info,gender,male
+info,season,2023/24
+info,date,2023/10/31
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh"
+info,city,Chandigarh
+info,toss_winner,Assam
+info,toss_decision,field
+info,umpire,KN Ananthapadmanabhan
+info,umpire,HAS Khalid
+info,tv_umpire,J Madanagopal
+info,match_referee,SS Raul
+info,winner,Assam
+info,winner_wickets,8
+info,player,Bengal,AR Easwaran
+info,player,Bengal,Abishek Porel
+info,player,Bengal,SK Gharami
+info,player,Bengal,RS Khaira
+info,player,Bengal,S Habib Gandhi
+info,player,Bengal,Ritwik Roy Chowdhury
+info,player,Bengal,Shahbaz Ahmed
+info,player,Bengal,Karan Lal
+info,player,Bengal,Kaushik Maity
+info,player,Bengal,Akash Deep
+info,player,Bengal,IC Porel
+info,player,Bengal,Mukesh Kumar
+info,player,Assam,Rishav Das
+info,player,Assam,Denish Das
+info,player,Assam,BA Roy
+info,player,Assam,R Parag
+info,player,Assam,Sibsankar Roy
+info,player,Assam,Pallav Kumar Das
+info,player,Assam,Akash Sengupta
+info,player,Assam,Sourav Dey
+info,player,Assam,Mukhtar Hussain
+info,player,Assam,AA Choudhury
+info,player,Assam,Mrinmoy Dutta
+info,player,Assam,S Ghadigaonkar
+info,registry,people,AA Choudhury,b2c38dce
+info,registry,people,AR Easwaran,10b58586
+info,registry,people,Abishek Porel,ad3b6e95
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Akash Sengupta,bb3ccb17
+info,registry,people,BA Roy,b7ab7aa9
+info,registry,people,Denish Das,9cd9e3f4
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,IC Porel,fdf7491e
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Karan Lal,72147266
+info,registry,people,Kaushik Maity,93b430e8
+info,registry,people,Mrinmoy Dutta,64959652
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,Mukhtar Hussain,97114e80
+info,registry,people,Pallav Kumar Das,c2294408
+info,registry,people,R Parag,04a418e8
+info,registry,people,RS Khaira,baec2e62
+info,registry,people,Rishav Das,8963ee49
+info,registry,people,Ritwik Roy Chowdhury,6033d30a
+info,registry,people,S Ghadigaonkar,d2c05733
+info,registry,people,S Habib Gandhi,ee96e425
+info,registry,people,SK Gharami,f7220198
+info,registry,people,SS Raul,4cfdf1d0
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Sibsankar Roy,3d8348d0
+info,registry,people,Sourav Dey,9bc4faa8

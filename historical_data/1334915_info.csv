@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Titans
+info,team,Knights
+info,gender,male
+info,season,2022/23
+info,date,2022/10/31
+info,event,CSA T20 Challenge
+info,match_number,25
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Knights
+info,toss_decision,field
+info,umpire,BM White
+info,umpire,DJ Smith
+info,reserve_umpire,RN Hendricks
+info,tv_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,Titans
+info,winner_runs,41
+info,player,Titans,D Brevis
+info,player,Titans,J Pillay
+info,player,Titans,D Ferreira
+info,player,Titans,Dayyaan Galiem
+info,player,Titans,TB de Bruyn
+info,player,Titans,BS Makhanya
+info,player,Titans,N Brand
+info,player,Titans,A Gqamane
+info,player,Titans,SR Harmer
+info,player,Titans,CJ Dala
+info,player,Titans,AM Phangiso
+info,player,Knights,GL Cloete
+info,player,Knights,GJ Snyman
+info,player,Knights,R van Tonder
+info,player,Knights,PE Kruger
+info,player,Knights,AR Swanepoel
+info,player,Knights,PJ van Biljon
+info,player,Knights,G Coetzee
+info,player,Knights,M Pretorius
+info,player,Knights,I Dikgale
+info,player,Knights,O Motlhoaring
+info,player,Knights,M Budaza
+info,registry,people,A Gqamane,a83c44b8
+info,registry,people,AM Phangiso,7f8ecc51
+info,registry,people,AR Swanepoel,cba5185d
+info,registry,people,BM White,66c21d35
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GJ Snyman,a3ae63f4
+info,registry,people,GL Cloete,3bf40832
+info,registry,people,I Dikgale,f3fe6653
+info,registry,people,J Pillay,230f5cea
+info,registry,people,M Budaza,1d105638
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,N Brand,68790da2
+info,registry,people,O Motlhoaring,1713d202
+info,registry,people,PE Kruger,39181592
+info,registry,people,PJ van Biljon,4025c262
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,SR Harmer,23638956
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,TB de Bruyn,90d6cdea

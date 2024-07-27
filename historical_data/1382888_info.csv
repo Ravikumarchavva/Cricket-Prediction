@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Aura
+info,team,Jaffna Kings
+info,gender,male
+info,season,2023
+info,date,2023/08/07
+info,event,Lanka Premier League
+info,match_number,11
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Jaffna Kings
+info,toss_decision,field
+info,player_of_match,Hasan Ali
+info,umpire,IC Soysa
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,BCN Amarasinghe
+info,tv_umpire,RR Wimalasiri
+info,match_referee,WC Labrooy
+info,winner,Dambulla Aura
+info,winner_runs,9
+info,player,Dambulla Aura,WIA Fernando
+info,player,Dambulla Aura,BKG Mendis
+info,player,Dambulla Aura,S Samarawickrama
+info,player,Dambulla Aura,MDKJ Perera
+info,player,Dambulla Aura,DM de Silva
+info,player,Dambulla Aura,AI Ross
+info,player,Dambulla Aura,J Liyanage
+info,player,Dambulla Aura,H Kerr
+info,player,Dambulla Aura,Hasan Ali
+info,player,Dambulla Aura,Noor Ahmad
+info,player,Dambulla Aura,B Fernando
+info,player,Jaffna Kings,Rahmanullah Gurbaz
+info,player,Jaffna Kings,KIC Asalanka
+info,player,Jaffna Kings,Towhid Hridoy
+info,player,Jaffna Kings,DA Miller
+info,player,Jaffna Kings,Shoaib Malik
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Jaffna Kings,M Theekshana
+info,player,Jaffna Kings,D Madushanka
+info,player,Jaffna Kings,N Thushara
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,H Kerr,f422728b
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,IC Soysa,717a7971
+info,registry,people,J Liyanage,84212ffb
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,WIA Fernando,9550470d

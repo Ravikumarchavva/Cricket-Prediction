@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Australia
+info,gender,male
+info,season,2023/24
+info,date,2024/02/02
+info,event,West Indies tour of Australia
+info,match_number,1
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,XC Bartlett
+info,umpire,SJ Nogajski
+info,umpire,Sharfuddoula
+info,reserve_umpire,MW Graham-Smith
+info,tv_umpire,AT Holdstock
+info,match_referee,DC Boon
+info,winner,Australia
+info,winner_wickets,8
+info,player,West Indies,A Athanaze
+info,player,West Indies,JP Greaves
+info,player,West Indies,KU Carty
+info,player,West Indies,SD Hope
+info,player,West Indies,KAR Hodge
+info,player,West Indies,RL Chase
+info,player,West Indies,HR Walsh
+info,player,West Indies,R Shepherd
+info,player,West Indies,MW Forde
+info,player,West Indies,G Motie
+info,player,West Indies,O Thomas
+info,player,Australia,TM Head
+info,player,Australia,JP Inglis
+info,player,Australia,C Green
+info,player,Australia,SPD Smith
+info,player,Australia,M Labuschagne
+info,player,Australia,MW Short
+info,player,Australia,AM Hardie
+info,player,Australia,SA Abbott
+info,player,Australia,XC Bartlett
+info,player,Australia,LR Morris
+info,player,Australia,A Zampa
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,A Zampa,14f96089
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,G Motie,97bdec3d
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,JP Greaves,74d12124
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KAR Hodge,49dc9cb4
+info,registry,people,KU Carty,6020a3c6
+info,registry,people,LR Morris,b08e58e2
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,MW Harvey,47dc9794
+info,registry,people,MW Short,a90e53ec
+info,registry,people,O Thomas,c6097d68
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,TM Head,12b610c2
+info,registry,people,XC Bartlett,3b53243a

@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI New York
+info,team,Washington Freedom
+info,gender,male
+info,season,2024
+info,date,2024/07/06
+info,event,Major League Cricket
+info,match_number,3
+info,venue,"Church Street Park, Morrisville"
+info,city,Morrisville
+info,toss_winner,Washington Freedom
+info,toss_decision,field
+info,player_of_match,SN Netravalkar
+info,umpire,M Erasmus
+info,umpire,R Samuels
+info,reserve_umpire,A Gajjar
+info,match_referee,JJ Crowe
+info,winner,Washington Freedom
+info,winner_runs,4
+info,method,D/L
+info,player,MI New York,R Clinton
+info,player,MI New York,MD Patel
+info,player,MI New York,Shayan Jahangir
+info,player,MI New York,N Pooran
+info,player,MI New York,TH David
+info,player,MI New York,KA Pollard
+info,player,MI New York,Rashid Khan
+info,player,MI New York,TA Boult
+info,player,MI New York,A Nortje
+info,player,MI New York,NP Kenjige
+info,player,MI New York,Ehsan Adil
+info,player,Washington Freedom,TM Head
+info,player,Washington Freedom,SPD Smith
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,GJ Maxwell
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,M Jansen
+info,player,Washington Freedom,JG Dill
+info,player,Washington Freedom,AJ Hosein
+info,player,Washington Freedom,LH Ferguson
+info,player,Washington Freedom,SN Netravalkar
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,Ehsan Adil,210b05cb
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,JG Dill,642e8af0
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,R Clinton,367e254b
+info,registry,people,R Samuels,8a8bc9f6
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2

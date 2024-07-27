@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2022/23
+info,date,2022/11/25
+info,event,India tour of New Zealand
+info,match_number,1
+info,venue,"Eden Park, Auckland"
+info,city,Auckland
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TWM Latham
+info,umpire,CM Brown
+info,umpire,CB Gaffaney
+info,reserve_umpire,SB Haig
+info,tv_umpire,WR Knights
+info,match_referee,JJ Crowe
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,India,S Dhawan
+info,player,India,Shubman Gill
+info,player,India,SS Iyer
+info,player,India,RR Pant
+info,player,India,SA Yadav
+info,player,India,SV Samson
+info,player,India,Washington Sundar
+info,player,India,SN Thakur
+info,player,India,Umran Malik
+info,player,India,Arshdeep Singh
+info,player,India,YS Chahal
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,AF Milne
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,TG Southee
+info,player,New Zealand,LH Ferguson
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,RR Pant,919a3be2
+info,registry,people,S Dhawan,0a476045
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SB Haig,811655b3
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YS Chahal,57ee1fde

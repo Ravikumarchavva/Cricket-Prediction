@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Cook Islands
+info,gender,female
+info,season,2023
+info,date,2023/09/02
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,4
+info,venue,Vanuatu Cricket Ground
+info,city,Port Vila
+info,toss_winner,Cook Islands
+info,toss_decision,field
+info,player_of_match,N Vare
+info,umpire,CA Polosak
+info,umpire,L McCabe
+info,reserve_umpire,M Kenni
+info,match_referee,RW Stratford
+info,winner,Papua New Guinea
+info,winner_runs,100
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,K Arua
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,K Frank
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,GP Tom
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,V Buruka
+info,player,Cook Islands,P Maruariki
+info,player,Cook Islands,Z Maeva
+info,player,Cook Islands,J George
+info,player,Cook Islands,P Kaveao
+info,player,Cook Islands,M Kaukura
+info,player,Cook Islands,D Kataina
+info,player,Cook Islands,T Maika
+info,player,Cook Islands,S Vaia
+info,player,Cook Islands,T Touna
+info,player,Cook Islands,S Samuels
+info,player,Cook Islands,T Piakura
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,D Kataina,3a370f15
+info,registry,people,GP Tom,88bcd09d
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,I Toua,83cde44d
+info,registry,people,J George,9044ee8e
+info,registry,people,K Arua,8ce69204
+info,registry,people,K Frank,f7e96532
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,M Kaukura,11d83c44
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,N Vare,20ace887
+info,registry,people,P Kaveao,f536e967
+info,registry,people,P Maruariki,dee2431f
+info,registry,people,P Siaka,595433d2
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Samuels,d852095e
+info,registry,people,S Vaia,78103121
+info,registry,people,T Maika,9782087e
+info,registry,people,T Piakura,5b329799
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,T Touna,a7a337b9
+info,registry,people,V Araa,040f11e8
+info,registry,people,V Buruka,62d92d76
+info,registry,people,Z Maeva,34f0c9ad

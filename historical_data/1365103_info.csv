@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Canada
+info,gender,male
+info,season,2023
+info,date,2023/04/04
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,12
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,S Fouché
+info,umpire,C Phiri
+info,umpire,IO Oyieko
+info,reserve_umpire,Patric Makumbi
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_runs,111
+info,player,Namibia,S Fouché
+info,player,Namibia,N Davin
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,MD du Preez
+info,player,Namibia,ZE Green
+info,player,Namibia,HN Ya France
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,B Shikongo
+info,player,Canada,A Johnson
+info,player,Canada,M Spoors
+info,player,Canada,Pargat Singh
+info,player,Canada,SA Wijeratne
+info,player,Canada,H Thaker
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,N Dutta
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,D Heyliger
+info,player,Canada,Kaleem Sana
+info,player,Canada,JOA Gordon
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Phiri,ade73404
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Thaker,c01d7726
+info,registry,people,HN Ya France,915264c2
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JOA Gordon,bb9b51f4
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,M Spoors,da4a1e46
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MD du Preez,e5ad357a
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,N Dutta,e258a603
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,ZE Green,8716233e

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Middlesex
+info,team,Somerset
+info,gender,male
+info,season,2023
+info,date,2023/06/02
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,umpire,BV Taylor
+info,umpire,Mark Newell
+info,match_referee,DE Malcolm
+info,winner,Somerset
+info,winner_wickets,9
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,N Fernandes
+info,player,Middlesex,TS Roland-Jones
+info,player,Middlesex,TG Helm
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,TA Lammonby
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,C Overton
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,JH Davey
+info,player,Somerset,PM Siddle
+info,registry,people,BGF Green,34b37279
+info,registry,people,BV Taylor,99760152
+info,registry,people,C Overton,e9987a94
+info,registry,people,DE Malcolm,29c7ca03
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,L Gregory,06c2de82
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,N Fernandes,01561e94
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,PM Siddle,bd93fea4
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TG Helm,74a274cc
+info,registry,people,TS Roland-Jones,6c6aca89
+info,registry,people,WCF Smeed,4e18e961

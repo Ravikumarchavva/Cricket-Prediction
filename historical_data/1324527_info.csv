@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Galle Gladiators
+info,team,Kandy Falcons
+info,gender,male
+info,season,2022/23
+info,date,2022/12/12
+info,event,Lanka Premier League
+info,match_number,9
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Galle Gladiators
+info,toss_decision,bat
+info,player_of_match,PTM Dabare
+info,umpire,RMPJ Rambukwella
+info,umpire,RA Kottahachchi
+info,reserve_umpire,IC Soysa
+info,tv_umpire,LE Hannibal
+info,match_referee,BCMS Mendis
+info,winner,Galle Gladiators
+info,winner_runs,12
+info,player,Galle Gladiators,PTM Dabare
+info,player,Galle Gladiators,BKG Mendis
+info,player,Galle Gladiators,LU Igalagamage
+info,player,Galle Gladiators,Azam Khan
+info,player,Galle Gladiators,Iftikhar Ahmed
+info,player,Galle Gladiators,MNK Fernando
+info,player,Galle Gladiators,Imad Wasim
+info,player,Galle Gladiators,Wahab Riaz
+info,player,Galle Gladiators,N Pradeep
+info,player,Galle Gladiators,N Thushara
+info,player,Galle Gladiators,PADLR Sandakan
+info,player,Kandy Falcons,P Nissanka
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,SMA Priyanjan
+info,player,Kandy Falcons,KNA Bandara
+info,player,Kandy Falcons,CR Brathwaite
+info,player,Kandy Falcons,C Karunaratne
+info,player,Kandy Falcons,I Udana
+info,player,Kandy Falcons,Zahoor Khan
+info,player,Kandy Falcons,A Daniel
+info,registry,people,A Daniel,9e3f1cc4
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,BCMS Mendis,e3f6e4ac
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,IC Soysa,717a7971
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PTM Dabare,a97fbc2c
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,SMA Priyanjan,fec50c96
+info,registry,people,Wahab Riaz,b3118300
+info,registry,people,Zahoor Khan,f0e293b0

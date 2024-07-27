@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jaffna Kings
+info,team,Galle Gladiators
+info,gender,male
+info,season,2022/23
+info,date,2022/12/18
+info,event,Lanka Premier League
+info,match_number,17
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Jaffna Kings
+info,toss_decision,bat
+info,player_of_match,Afif Hossain
+info,umpire,HDPK Dharmasena
+info,umpire,RA Kottahachchi
+info,reserve_umpire,LE Hannibal
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,GF Labrooy
+info,winner,Jaffna Kings
+info,winner_runs,16
+info,player,Jaffna Kings,Rahmanullah Gurbaz
+info,player,Jaffna Kings,WIA Fernando
+info,player,Jaffna Kings,Afif Hossain
+info,player,Jaffna Kings,S Samarawickrama
+info,player,Jaffna Kings,Shoaib Malik
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,JK Fuller
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,M Theekshana
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Jaffna Kings,B Fernando
+info,player,Galle Gladiators,PTM Dabare
+info,player,Galle Gladiators,BKG Mendis
+info,player,Galle Gladiators,LU Igalagamage
+info,player,Galle Gladiators,Asad Shafiq
+info,player,Galle Gladiators,MNK Fernando
+info,player,Galle Gladiators,Iftikhar Ahmed
+info,player,Galle Gladiators,Imad Wasim
+info,player,Galle Gladiators,Wahab Riaz
+info,player,Galle Gladiators,N Pradeep
+info,player,Galle Gladiators,PADLR Sandakan
+info,player,Galle Gladiators,N Thushara
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,Asad Shafiq,50250426
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LU Igalagamage,07b6c3c1
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,PADLR Sandakan,79aad751
+info,registry,people,PTM Dabare,a97fbc2c
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,WIA Fernando,9550470d
+info,registry,people,Wahab Riaz,b3118300

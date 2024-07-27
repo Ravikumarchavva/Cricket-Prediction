@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Lancashire
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,date,2024/04/13
+info,date,2024/04/14
+info,date,2024/04/15
+info,event,County Championship
+info,match_number,7
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Hampshire
+info,toss_decision,bat
+info,umpire,M Burns
+info,umpire,RJ Warren
+info,match_referee,SJ Davis
+info,outcome,draw
+info,player,Hampshire,AGH Orr
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,JM Vince
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,BC Brown
+info,player,Hampshire,IG Holland
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,KJ Abbott
+info,player,Hampshire,Mohammad Abbas
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,TC Bruce
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,JM Blatherwick
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,NM Lyon
+info,registry,people,AGH Orr,1ab18b25
+info,registry,people,BC Brown,8af86756
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,IG Holland,4167f30b
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Blatherwick,35c08a29
+info,registry,people,JM Vince,a15618fe
+info,registry,people,KJ Abbott,a9da7784
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,Mohammad Abbas,a089f93f
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,WSA Williams,861eed37

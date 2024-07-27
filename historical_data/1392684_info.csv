@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/02/08
+info,event,SA20
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,H Klaasen
+info,umpire,A Jacobs
+info,umpire,Stephen Harris
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,LB Gcuma
+info,match_referee,SB Lambson
+info,winner,Durban's Super Giants
+info,winner_runs,69
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,JT Smuts
+info,player,Durban's Super Giants,PBB Rajapaksa
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,CJ Dala
+info,player,Durban's Super Giants,Naveen-ul-Haq
+info,player,Durban's Super Giants,RJW Topley
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,DAJ Bracewell
+info,player,Joburg Super Kings,Dayyaan Galiem
+info,player,Joburg Super Kings,SJ Cook
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Imran Tahir
+info,registry,people,A Jacobs,70d117de
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,CJ Dala,1cb14aa4
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,Dayyaan Galiem,47c449c5
+info,registry,people,F du Plessis,3355b542
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,N Burger,465aa633
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa

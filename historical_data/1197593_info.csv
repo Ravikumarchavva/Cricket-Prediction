@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Northern Districts
+info,gender,male
+info,season,2019/20
+info,date,2020/03/01
+info,date,2020/03/02
+info,date,2020/03/03
+info,date,2020/03/04
+info,event,Plunket Shield
+info,venue,Kennards Hire Community Oval
+info,city,
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,A Mehrotra
+info,umpire,WR Knights
+info,match_referee,RA Dykes
+info,winner,Auckland Aces
+info,winner_wickets,1
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,MJ Guptill
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,MS Chapman
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,LH Ferguson
+info,player,Auckland Aces,BG Lister
+info,player,Auckland Aces,L Delport
+info,player,Auckland Aces,MB McEwan
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,PD Bocock
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,BG Randell
+info,player,Northern Districts,JD Baker
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,B Popli,848487cf
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,PD Bocock,329b08c2
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WR Knights,63cbf8d8

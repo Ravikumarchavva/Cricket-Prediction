@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/08/29
+info,event,One-Day Cup
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,NA Mallender
+info,match_referee,JJ Whitaker
+info,winner,Leicestershire
+info,winner_wickets,6
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,HT Tector
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,TJ Price
+info,player,Gloucestershire,Anwar Ali
+info,player,Gloucestershire,TMJ Smith
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,PA van Meekeren
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,CJC Wright
+info,player,Leicestershire,J Hull
+info,player,Leicestershire,MET Salisbury
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,CJC Wright,6c908ffc
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DA Payne,6c79c098
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MET Salisbury,e05b2a5b
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,TJ Price,269ff06e
+info,registry,people,TMJ Smith,0a12e736

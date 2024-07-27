@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Somerset
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Somerset
+info,toss_decision,field
+info,player_of_match,WCF Smeed
+info,umpire,ID Blackwell
+info,umpire,RJ Warren
+info,tv_umpire,PK Baldwin
+info,match_referee,AM Smith (2)
+info,winner,Somerset
+info,winner_wickets,4
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,BJJ Wells
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,AS Dale
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,BGF Green
+info,player,Somerset,Kasey Aldridge
+info,player,Somerset,C Overton
+info,player,Somerset,JH Davey
+info,player,Somerset,MJ Henry
+info,player,Somerset,Shoaib Bashir
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BGF Green,34b37279
+info,registry,people,BJJ Wells,ad9a3160
+info,registry,people,C Overton,e9987a94
+info,registry,people,DA Payne,6c79c098
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,J Shaw,b82e3032
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,Kasey Aldridge,31b01074
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,Shoaib Bashir,e36e9dd3
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,Zaman Akhter,63e1e352

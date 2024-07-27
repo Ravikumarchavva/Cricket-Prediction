@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mizoram
+info,team,Meghalaya
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"ACA Stadium,Mangalagiri"
+info,city,
+info,toss_winner,Mizoram
+info,toss_decision,bat
+info,winner,Meghalaya
+info,winner_wickets,9
+info,player,Mizoram,T Kohli
+info,player,Mizoram,Lalhmangaiha
+info,player,Mizoram,U Kaul
+info,player,Mizoram,Lalhruaizela
+info,player,Mizoram,Iqbal Abdulla
+info,player,Mizoram,G Lalbiakvela
+info,player,Mizoram,Joseph Lalthankhuma
+info,player,Mizoram,Lalhruai Ralte
+info,player,Mizoram,Remruatdika Ralte
+info,player,Mizoram,Bobby Zothansanga
+info,player,Mizoram,Vikash Kumar
+info,player,Meghalaya,Anish Charak
+info,player,Meghalaya,Chengkam Sangma
+info,player,Meghalaya,Akash Choudhary
+info,player,Meghalaya,Dippu Sangma
+info,player,Meghalaya,Chirag Khurana
+info,player,Meghalaya,Ram Gurung
+info,player,Meghalaya,Kishan Lyngdoh
+info,player,Meghalaya,Rohit Shah
+info,player,Meghalaya,Punit Bisht
+info,player,Meghalaya,DB Ravi Teja
+info,player,Meghalaya,Larry Sangma
+info,registry,people,Akash Choudhary,0f60513c
+info,registry,people,Anish Charak,62a48252
+info,registry,people,Bobby Zothansanga,6b4ce914
+info,registry,people,Chengkam Sangma,cf495041
+info,registry,people,Chirag Khurana,3d51cc7e
+info,registry,people,DB Ravi Teja,b720a5d6
+info,registry,people,Dippu Sangma,24ea8cf8
+info,registry,people,G Lalbiakvela,66ea7420
+info,registry,people,Iqbal Abdulla,85aae393
+info,registry,people,Joseph Lalthankhuma,d644b8b2
+info,registry,people,Kishan Lyngdoh,d11f0758
+info,registry,people,Lalhmangaiha,15bbe51b
+info,registry,people,Lalhruai Ralte,c2ed5822
+info,registry,people,Lalhruaizela,4cfda770
+info,registry,people,Larry Sangma,77f6fd61
+info,registry,people,Punit Bisht,310bddc0
+info,registry,people,Ram Gurung,85c80de3
+info,registry,people,Remruatdika Ralte,895a0ead
+info,registry,people,Rohit Shah,a6a04501
+info,registry,people,T Kohli,40caa465
+info,registry,people,U Kaul,622cc511
+info,registry,people,Vikash Kumar,fd25e20c

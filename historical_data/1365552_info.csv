@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Ireland
+info,gender,male
+info,season,2023
+info,date,2023/05/14
+info,event,ICC Men's Cricket World Cup Super League
+info,match_number,3
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,Mustafizur Rahman
+info,umpire,MA Gough
+info,umpire,R Black
+info,reserve_umpire,PA Reynolds
+info,tv_umpire,AT Holdstock
+info,match_referee,JJ Crowe
+info,winner,Bangladesh
+info,winner_runs,5
+info,player,Bangladesh,Tamim Iqbal
+info,player,Bangladesh,Rony Talukdar
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Mrittunjoy Chowdhury
+info,player,Bangladesh,Hasan Mahmud
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Ebadat Hossain
+info,player,Ireland,ST Doheny
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,HT Tector
+info,player,Ireland,L Tucker
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,AR McBrine
+info,player,Ireland,MR Adair
+info,player,Ireland,CA Young
+info,player,Ireland,J Little
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,J Little,9061a703
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mrittunjoy Chowdhury,21b97584
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Yasir Ali Chowdhury,5791b840

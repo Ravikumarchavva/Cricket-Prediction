@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rangpur Riders
+info,team,Fortune Barishal
+info,gender,male
+info,season,2023/24
+info,date,2024/02/28
+info,event,Bangladesh Premier League
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Fortune Barishal
+info,toss_decision,field
+info,player_of_match,Mushfiqur Rahim
+info,umpire,DK Butler
+info,umpire,Gazi Sohel
+info,reserve_umpire,Moniruzzaman
+info,tv_umpire,Sharfuddoula
+info,match_referee,Neeyamur Rashid
+info,winner,Fortune Barishal
+info,winner_wickets,6
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Shakib Al Hasan
+info,player,Rangpur Riders,JDS Neesham
+info,player,Rangpur Riders,N Pooran
+info,player,Rangpur Riders,Mohammad Nabi
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Abu Hider
+info,player,Rangpur Riders,Hasan Mahmud
+info,player,Rangpur Riders,Fazalhaq Farooqi
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,KR Mayers
+info,player,Fortune Barishal,DA Miller
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,JK Fuller
+info,player,Fortune Barishal,Mohammad Saifuddin
+info,player,Fortune Barishal,OC McCoy
+info,player,Fortune Barishal,Taijul Islam
+info,registry,people,Abu Hider,31803fac
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DK Butler,671398e3
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,KR Mayers,73c18486
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12

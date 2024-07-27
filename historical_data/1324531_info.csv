@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kandy Falcons
+info,team,Jaffna Kings
+info,gender,male
+info,season,2022/23
+info,date,2022/12/14
+info,event,Lanka Premier League
+info,match_number,13
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Kandy Falcons
+info,toss_decision,bat
+info,player_of_match,FA Allen
+info,umpire,IC Soysa
+info,umpire,GO Brathwaite
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,WC Labrooy
+info,winner,Kandy Falcons
+info,winner_runs,10
+info,player,Kandy Falcons,P Nissanka
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,KNA Bandara
+info,player,Kandy Falcons,CR Brathwaite
+info,player,Kandy Falcons,Najibullah Zadran
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,FA Allen
+info,player,Kandy Falcons,C Karunaratne
+info,player,Kandy Falcons,I Udana
+info,player,Kandy Falcons,C Wijesinghe
+info,player,Jaffna Kings,Rahmanullah Gurbaz
+info,player,Jaffna Kings,WIA Fernando
+info,player,Jaffna Kings,DM de Silva
+info,player,Jaffna Kings,S Samarawickrama
+info,player,Jaffna Kings,Shoaib Malik
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,JK Fuller
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Jaffna Kings,D Madushanka
+info,player,Jaffna Kings,Waqar Salamkheil
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,C Wijesinghe,0a2d45b0
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,IC Soysa,717a7971
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,V Viyaskanth,03a83c50
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,WIA Fernando,9550470d
+info,registry,people,Waqar Salamkheil,3f1066d0

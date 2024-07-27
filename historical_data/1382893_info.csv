@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Aura
+info,team,Colombo Strikers
+info,gender,male
+info,season,2023
+info,date,2023/08/12
+info,event,Lanka Premier League
+info,match_number,16
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Dambulla Aura
+info,toss_decision,bat
+info,player_of_match,BR McDermott
+info,umpire,LE Hannibal
+info,umpire,REJ Martinesz
+info,reserve_umpire,BCN Amarasinghe
+info,tv_umpire,RR Wimalasiri
+info,match_referee,WC Labrooy
+info,winner,Dambulla Aura
+info,winner_runs,50
+info,player,Dambulla Aura,WIA Fernando
+info,player,Dambulla Aura,BKG Mendis
+info,player,Dambulla Aura,S Samarawickrama
+info,player,Dambulla Aura,BR McDermott
+info,player,Dambulla Aura,DM de Silva
+info,player,Dambulla Aura,AI Ross
+info,player,Dambulla Aura,Hasan Ali
+info,player,Dambulla Aura,J Liyanage
+info,player,Dambulla Aura,MADI Hemantha
+info,player,Dambulla Aura,B Fernando
+info,player,Dambulla Aura,Noor Ahmad
+info,player,Colombo Strikers,P Nissanka
+info,player,Colombo Strikers,Babar Azam
+info,player,Colombo Strikers,N Dickwella
+info,player,Colombo Strikers,MNK Fernando
+info,player,Colombo Strikers,AK Perera
+info,player,Colombo Strikers,Iftikhar Ahmed
+info,player,Colombo Strikers,Mohammad Nawaz
+info,player,Colombo Strikers,C Karunaratne
+info,player,Colombo Strikers,Naseem Shah
+info,player,Colombo Strikers,M Pathirana
+info,player,Colombo Strikers,JDF Vandersay
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,AK Perera,c8ad0749
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,J Liyanage,84212ffb
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,WIA Fernando,9550470d

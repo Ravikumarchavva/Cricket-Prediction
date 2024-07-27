@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Andhra
+info,gender,male
+info,season,2023/24
+info,date,2023/10/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Punjab
+info,toss_decision,bat
+info,umpire,P Jayapal
+info,umpire,UV Gandhe
+info,match_referee,DS Manohar
+info,winner,Punjab
+info,winner_runs,105
+info,player,Punjab,P Dutta
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Naman Dhir
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Arshdeep Singh
+info,player,Punjab,M Markande
+info,player,Punjab,S Kaul
+info,player,Andhra,Cheepurapalli Stephen
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,KS Bharat
+info,player,Andhra,GH Vihari
+info,player,Andhra,SK Rasheed
+info,player,Andhra,RK Bhui
+info,player,Andhra,Y Sandeep
+info,player,Andhra,M Dheeraj Kumar
+info,player,Andhra,T Vijay
+info,player,Andhra,Harishankar Reddy
+info,player,Andhra,Lalith Mohan
+info,player,Andhra,Y Prithvi Raj
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,Cheepurapalli Stephen,48bf9d5c
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,GH Vihari,94253925
+info,registry,people,Harishankar Reddy,791c088d
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Lalith Mohan,c206d8dc
+info,registry,people,M Dheeraj Kumar,ca81c65c
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,P Dutta,0fdb1546
+info,registry,people,P Jayapal,209e51e8
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,RK Bhui,b63e358a
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SK Rasheed,cbf58a86
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,T Vijay,51ec3919
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Y Prithvi Raj,cfa4bd2b
+info,registry,people,Y Sandeep,91dedbbe

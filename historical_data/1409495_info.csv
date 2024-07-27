@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington
+info,team,Central Districts
+info,gender,male
+info,season,2023/24
+info,date,2024/01/13
+info,event,Super Smash
+info,match_number,22
+info,venue,"Basin Reserve, Wellington"
+info,city,Wellington
+info,toss_winner,Wellington
+info,toss_decision,bat
+info,player_of_match,DAJ Bracewell
+info,umpire,C Black
+info,umpire,Glen Walklin
+info,reserve_umpire,T Semmens
+info,tv_umpire,DJ Walker
+info,match_referee,K Pulley
+info,winner,Central Districts
+info,winner_wickets,6
+info,player,Wellington,NG Smith
+info,player,Wellington,NA Greenwood
+info,player,Wellington,NF Kelly
+info,player,Wellington,MA Abbas
+info,player,Wellington,JM Tashkoff
+info,player,Wellington,TM Johnson
+info,player,Wellington,CR McLachlan
+info,player,Wellington,LV van Beek
+info,player,Wellington,PF Younghusband
+info,player,Wellington,IG McPeake
+info,player,Wellington,MW Snedden
+info,player,Central Districts,WA Young
+info,player,Central Districts,JCT Boyle
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,TC Bruce
+info,player,Central Districts,W Clark
+info,player,Central Districts,DAJ Bracewell
+info,player,Central Districts,BJ Small
+info,player,Central Districts,AY Patel
+info,player,Central Districts,BM Tickner
+info,player,Central Districts,JR Lennox
+info,player,Central Districts,JFA Field
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BJ Small,b1b7b7de
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,C Black,75b42f71
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,Glen Walklin,0070ed27
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JFA Field,0085a7ce
+info,registry,people,JM Tashkoff,afe7d695
+info,registry,people,JR Lennox,07793daf
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,T Semmens,3b471aa4
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TM Johnson,917f66da
+info,registry,people,W Clark,4f78497c
+info,registry,people,WA Young,8afe73e2

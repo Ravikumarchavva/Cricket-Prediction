@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chhattisgarh
+info,team,Baroda
+info,gender,male
+info,season,2023/24
+info,date,2023/10/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Baroda
+info,toss_decision,field
+info,umpire,M Kuppuraj
+info,umpire,GR Sadashiv Iyer
+info,match_referee,P Dharmani
+info,winner,Baroda
+info,winner_wickets,7
+info,player,Chhattisgarh,Sanidhya Hurkat
+info,player,Chhattisgarh,Amandeep Khare
+info,player,Chhattisgarh,Harpreet Singh
+info,player,Chhattisgarh,Shashank Singh
+info,player,Chhattisgarh,Ajay Mandal
+info,player,Chhattisgarh,Eknath Kerkar
+info,player,Chhattisgarh,Shashank Chandrakar
+info,player,Chhattisgarh,Sanjeet Desai
+info,player,Chhattisgarh,SS Agarwal
+info,player,Chhattisgarh,PS Painkra
+info,player,Chhattisgarh,Sumit Ruikar
+info,player,Chhattisgarh,Sourabh Majumdar
+info,player,Baroda,SI Sopariya
+info,player,Baroda,Jyotsnil Singh
+info,player,Baroda,A Bharwad
+info,player,Baroda,KH Pandya
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,Bhanu Pania
+info,player,Baroda,AV Rajput
+info,player,Baroda,SS Sharma
+info,player,Baroda,A Sheth
+info,player,Baroda,NA Rathva
+info,player,Baroda,LI Meriwala
+info,player,Baroda,MV Pithiya
+info,registry,people,A Bharwad,3cc96a05
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AV Rajput,c1d3515b
+info,registry,people,Ajay Mandal,31ee319e
+info,registry,people,Amandeep Khare,6c6cc94c
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,GR Sadashiv Iyer,0be62e31
+info,registry,people,Harpreet Singh,28c78fb3
+info,registry,people,Jyotsnil Singh,b32b1661
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,M Kuppuraj,aa4063d0
+info,registry,people,MV Pithiya,1c29d51f
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,PS Painkra,6cdc3215
+info,registry,people,SI Sopariya,d477678c
+info,registry,people,SS Agarwal,b51f72a5
+info,registry,people,SS Sharma,0ebaa16a
+info,registry,people,Sanidhya Hurkat,083c2d59
+info,registry,people,Sanjeet Desai,9b0d5e52
+info,registry,people,Shashank Chandrakar,9c20688d
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Sourabh Majumdar,30225730
+info,registry,people,Sumit Ruikar,f4ef0fd7
+info,registry,people,Vishnu Solanki,2e802011

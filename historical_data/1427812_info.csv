@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,Sunrisers
+info,gender,female
+info,season,2024
+info,date,2024/04/24
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,7
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Sunrisers
+info,toss_decision,field
+info,umpire,A Clark
+info,umpire,S Widdup
+info,match_referee,Wayne Noon
+info,winner,Thunder
+info,winner_runs,142
+info,player,Thunder,EL Lamb
+info,player,Thunder,S Smale
+info,player,Thunder,KM Mack
+info,player,Thunder,FMK Morris
+info,player,Thunder,E Threlkeld
+info,player,Thunder,S Ecclestone
+info,player,Thunder,ND Dattani
+info,player,Thunder,TG Norris
+info,player,Thunder,KL Cross
+info,player,Thunder,PC Graham
+info,player,Thunder,HE Jones
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,A Dowse
+info,player,Sunrisers,CL Griffith
+info,player,Sunrisers,J Grewcock
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,F Miller
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,NM Hancock
+info,player,Sunrisers,EI MacGregor
+info,player,Sunrisers,KL Coppack
+info,registry,people,A Clark,8c73cd16
+info,registry,people,A Dowse,6506e13d
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EI MacGregor,c812dfa3
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,F Miller,9d9edf14
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Grewcock,92b94582
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,KL Cross,1ade138e
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,ND Dattani,13c19f32
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Smale,3247d54e
+info,registry,people,S Widdup,65bf2837
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,Wayne Noon,736e1761

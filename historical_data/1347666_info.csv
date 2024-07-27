@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Worcestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/22
+info,event,Vitality Blast
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Worcestershire
+info,toss_decision,field
+info,umpire,Hassan Adnan
+info,umpire,PK Baldwin
+info,match_referee,PM Such
+info,winner,Worcestershire
+info,winner_wickets,5
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,Shaheen Shah Afridi
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,M Carter
+info,player,Nottinghamshire,JT Ball
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,MJ Santner
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,PR Brown
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CG Harrison,f655d740
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Carter,1ca7c00f
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,PM Such,c9f1892c
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,Usama Mir,6dd8b88c

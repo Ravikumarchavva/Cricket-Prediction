@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Kent
+info,gender,male
+info,season,2024
+info,date,2024/06/14
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Kent
+info,toss_decision,field
+info,umpire,ID Blackwell
+info,umpire,Mark Newell
+info,match_referee,SG Hinks
+info,winner,Somerset
+info,winner_runs,14
+info,method,D/L
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,SR Dickson
+info,player,Somerset,TB Abell
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,JH Davey
+info,player,Somerset,JT Ball
+info,player,Somerset,RP Meredith
+info,player,Kent,Z Crawley
+info,player,Kent,DJ Bell-Drummond
+info,player,Kent,MK O'Riordan
+info,player,Kent,SW Billings
+info,player,Kent,JL Denly
+info,player,Kent,JDM Evison
+info,player,Kent,G Stewart
+info,player,Kent,TS Muyeye
+info,player,Kent,XC Bartlett
+info,player,Kent,CH Stobo
+info,player,Kent,NN Gilchrist
+info,registry,people,BGF Green,34b37279
+info,registry,people,CH Stobo,098229a5
+info,registry,people,DJ Bell-Drummond,8f938a32
+info,registry,people,G Stewart,a77472dc
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JDM Evison,00cada13
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JL Denly,bdadf7da
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,L Gregory,06c2de82
+info,registry,people,MK O'Riordan,94db3502
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,NN Gilchrist,93cad673
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RP Meredith,64775749
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,SW Billings,c16d4035
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TS Muyeye,10b79140
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,Z Crawley,922e1b19

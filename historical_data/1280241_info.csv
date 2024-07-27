@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chhattisgarh
+info,team,Baroda
+info,gender,male
+info,season,2021/22
+info,date,2021/11/06
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Nehru Stadium
+info,city,
+info,toss_winner,Chhattisgarh
+info,toss_decision,bat
+info,winner,Baroda
+info,winner_wickets,6
+info,player,Chhattisgarh,AA Herwadkar
+info,player,Chhattisgarh,Shashank Chandrakar
+info,player,Chhattisgarh,Sanjeet Desai
+info,player,Chhattisgarh,Amandeep Khare
+info,player,Chhattisgarh,Shashank Singh
+info,player,Chhattisgarh,Ajay Mandal
+info,player,Chhattisgarh,Aishwary Mourya
+info,player,Chhattisgarh,Sumit Ruikar
+info,player,Chhattisgarh,SS Agarwal
+info,player,Chhattisgarh,Ravi Kiran
+info,player,Chhattisgarh,Sourabh Majumdar
+info,player,Baroda,A Sheth
+info,player,Baroda,KH Pandya
+info,player,Baroda,NA Rathva
+info,player,Baroda,KR Kakade
+info,player,Baroda,LI Meriwala
+info,player,Baroda,Ansh Patel
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,Bhanu Pania
+info,player,Baroda,Parth Kohli
+info,player,Baroda,Dhruv Patel
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AA Herwadkar,4ed49d3d
+info,registry,people,Aishwary Mourya,ea3a41e0
+info,registry,people,Ajay Mandal,31ee319e
+info,registry,people,Amandeep Khare,6c6cc94c
+info,registry,people,Ansh Patel,9e76cdb3
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,Dhruv Patel,e85f3659
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,KR Kakade,ba86aae4
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,Parth Kohli,8e5a4e1d
+info,registry,people,Ravi Kiran,0ff9728b
+info,registry,people,SS Agarwal,b51f72a5
+info,registry,people,Sanjeet Desai,9b0d5e52
+info,registry,people,Shashank Chandrakar,9c20688d
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Sourabh Majumdar,30225730
+info,registry,people,Sumit Ruikar,f4ef0fd7
+info,registry,people,Vishnu Solanki,2e802011

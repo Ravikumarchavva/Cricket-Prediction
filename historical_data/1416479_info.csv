@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Islamabad United
+info,team,Quetta Gladiators
+info,gender,male
+info,season,2023/24
+info,date,2024/02/22
+info,event,Pakistan Super League
+info,match_number,8
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Quetta Gladiators
+info,toss_decision,field
+info,player_of_match,RR Rossouw
+info,umpire,Aleem Dar
+info,umpire,RK Illingworth
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,MA Gough
+info,match_referee,Muhammad Javed
+info,winner,Quetta Gladiators
+info,winner_wickets,3
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,Agha Salman
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,JM Cox
+info,player,Islamabad United,Imad Wasim
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Hunain Shah
+info,player,Islamabad United,Rumman Raees
+info,player,Islamabad United,Naseem Shah
+info,player,Quetta Gladiators,JJ Roy
+info,player,Quetta Gladiators,Saud Shakeel
+info,player,Quetta Gladiators,Khawaja Nafay
+info,player,Quetta Gladiators,RR Rossouw
+info,player,Quetta Gladiators,Sarfraz Ahmed
+info,player,Quetta Gladiators,SE Rutherford
+info,player,Quetta Gladiators,AJ Hosein
+info,player,Quetta Gladiators,Mohammad Wasim
+info,player,Quetta Gladiators,Mohammad Amir
+info,player,Quetta Gladiators,Mohammad Hasnain
+info,player,Quetta Gladiators,Abrar Ahmed
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Agha Salman,89c16049
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,C Munro,af2c687b
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Hunain Shah,3b8679bf
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,Khawaja Nafay,3cf54e77
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Rumman Raees,1c790f4f
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Sarfraz Ahmed,2254ab79
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Tariq Rasheed,1008518c

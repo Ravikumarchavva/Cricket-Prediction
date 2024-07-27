@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durdanto Dhaka
+info,team,Sylhet Strikers
+info,gender,male
+info,season,2023/24
+info,date,2024/02/07
+info,event,Bangladesh Premier League
+info,match_number,24
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Sylhet Strikers
+info,toss_decision,field
+info,player_of_match,BAC Howell
+info,umpire,Mahfuzur Rahman
+info,umpire,Tanvir Ahmed
+info,reserve_umpire,Kamruzzaman Limon
+info,tv_umpire,Asif Yaqoob
+info,match_referee,Akhtar Ahmad
+info,winner,Sylhet Strikers
+info,winner_wickets,5
+info,player,Durdanto Dhaka,Sabbir Hossain
+info,player,Durdanto Dhaka,Mohammad Naim
+info,player,Durdanto Dhaka,Saif Hassan
+info,player,Durdanto Dhaka,AI Ross
+info,player,Durdanto Dhaka,Saim Ayub
+info,player,Durdanto Dhaka,L Croospulle
+info,player,Durdanto Dhaka,Irfan Sukkur
+info,player,Durdanto Dhaka,Taskin Ahmed
+info,player,Durdanto Dhaka,Shoriful Islam
+info,player,Durdanto Dhaka,Arafat Sunny
+info,player,Durdanto Dhaka,Usman Qadir
+info,player,Sylhet Strikers,HT Tector
+info,player,Sylhet Strikers,SR Patel
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mohammad Mithun
+info,player,Sylhet Strikers,BAC Howell
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,Ariful Haque
+info,player,Sylhet Strikers,Nayeem Hasan
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,Irfan Sukkur,3cc7dd5f
+info,registry,people,Kamruzzaman Limon,2ae7a044
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Nayeem Hasan,1670dcfd
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,SR Patel,18fac429
+info,registry,people,Sabbir Hossain,047e80ca
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Usman Qadir,33742f04
+info,registry,people,Zakir Hasan,e3e09091

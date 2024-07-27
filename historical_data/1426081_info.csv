@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Pakistan
+info,gender,female
+info,season,2024
+info,date,2024/04/18
+info,event,West Indies Women tour of Pakistan
+info,match_number,1
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,HK Matthews
+info,umpire,CA Polosak
+info,umpire,Nasir Hussain
+info,reserve_umpire,Saleema Imtiaz
+info,tv_umpire,Abdul Muqeet
+info,match_referee,Ali Naqvi
+info,winner,West Indies
+info,winner_runs,113
+info,player,West Indies,HK Matthews
+info,player,West Indies,RS Williams
+info,player,West Indies,SA Campbelle
+info,player,West Indies,SR Taylor
+info,player,West Indies,CN Nation
+info,player,West Indies,CA Henry
+info,player,West Indies,AA Alleyne
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,Z James
+info,player,West Indies,K Ramharack
+info,player,West Indies,SS Connell
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Najiha Alvi
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Sadia Iqbal
+info,player,Pakistan,Nashra Sandhu
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,Abdul Muqeet,e1ac7789
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,CA Henry,75820733
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CN Nation,639000b6
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Najiha Alvi,faef39c1
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nasir Hussain,5b2fe85b
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,RS Williams,406de451
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Tuba Hassan,0d56e9a5
+info,registry,people,Z James,816af623

@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,male
+info,season,2023/24
+info,date,2024/02/13
+info,date,2024/02/14
+info,date,2024/02/15
+info,date,2024/02/16
+info,event,South Africa tour of New Zealand
+info,match_number,2
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,W O'Rourke
+info,umpire,Ahsan Raza
+info,umpire,RK Illingworth
+info,reserve_umpire,Kim Cotton
+info,tv_umpire,RA Kettleborough
+info,match_referee,J Srinath
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,South Africa,N Brand
+info,player,South Africa,C Fortuin
+info,player,South Africa,R van Tonder
+info,player,South Africa,Zubayr Hamza
+info,player,South Africa,DG Bedingham
+info,player,South Africa,KD Petersen
+info,player,South Africa,R de Swardt
+info,player,South Africa,S von Berg
+info,player,South Africa,DL Piedt
+info,player,South Africa,TL Moreki
+info,player,South Africa,D Paterson
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,DP Conway
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,WA Young
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,TG Southee
+info,player,New Zealand,N Wagner
+info,player,New Zealand,W O'Rourke
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,DP Conway,df5a6881
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,N Brand,68790da2
+info,registry,people,N Wagner,78adc879
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,R de Swardt,57e1d7e4
+info,registry,people,R van Tonder,0ba03cec
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RK Illingworth,20672246
+info,registry,people,S von Berg,ffd3fc37
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TL Moreki,36ea17c1
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,WA Young,8afe73e2
+info,registry,people,Zubayr Hamza,22feee04

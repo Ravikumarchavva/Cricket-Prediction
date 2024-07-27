@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,South East Stars
+info,gender,female
+info,season,2024
+info,date,2024/05/31
+info,event,Charlotte Edwards Cup
+info,match_number,15
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Northern Diamonds
+info,toss_decision,bat
+info,umpire,J Naeem
+info,umpire,Naeem Ashraf
+info,match_referee,SM Bartlett
+info,winner,South East Stars
+info,winner_wickets,6
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,EA Burns
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,GE Hall
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,R Slater
+info,player,South East Stars,BF Smith
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,K Moore
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,D Gregory
+info,player,South East Stars,MR Corteen-Coleman
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EK Marlow,ac574559
+info,registry,people,GE Hall,026135b1
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,K Fraser,a0a65375
+info,registry,people,K Moore,d12c8445
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,MR Corteen-Coleman,9049ab63
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,R Slater,8a452195
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SM Bartlett,7ba18406

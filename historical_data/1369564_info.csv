@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,St Kitts and Nevis Patriots
+info,team,Jamaica Tallawahs
+info,gender,male
+info,season,2023
+info,date,2023/08/23
+info,event,Caribbean Premier League
+info,match_number,7
+info,venue,"Warner Park, Basseterre, St Kitts"
+info,city,Basseterre
+info,toss_winner,Jamaica Tallawahs
+info,toss_decision,field
+info,player_of_match,Salman Irshad
+info,umpire,CO Wright
+info,umpire,DK Butler
+info,reserve_umpire,N Duguid
+info,tv_umpire,LS Reifer
+info,match_referee,Reon King
+info,winner,Jamaica Tallawahs
+info,winner_wickets,8
+info,player,St Kitts and Nevis Patriots,ADS Fletcher
+info,player,St Kitts and Nevis Patriots,E Lewis
+info,player,St Kitts and Nevis Patriots,J Da Silva
+info,player,St Kitts and Nevis Patriots,C Bosch
+info,player,St Kitts and Nevis Patriots,AT Rayudu
+info,player,St Kitts and Nevis Patriots,SE Rutherford
+info,player,St Kitts and Nevis Patriots,GF Linde
+info,player,St Kitts and Nevis Patriots,DC Drakes
+info,player,St Kitts and Nevis Patriots,SS Cottrell
+info,player,St Kitts and Nevis Patriots,B Muzarabani
+info,player,St Kitts and Nevis Patriots,O Thomas
+info,player,Jamaica Tallawahs,BA King
+info,player,Jamaica Tallawahs,KSA McKenzie
+info,player,Jamaica Tallawahs,SSJ Brooks
+info,player,Jamaica Tallawahs,AA Jangoo
+info,player,Jamaica Tallawahs,RA Reifer
+info,player,Jamaica Tallawahs,FA Allen
+info,player,Jamaica Tallawahs,Imad Wasim
+info,player,Jamaica Tallawahs,CJ Green
+info,player,Jamaica Tallawahs,Mohammad Amir
+info,player,Jamaica Tallawahs,NA Gordon
+info,player,Jamaica Tallawahs,Salman Irshad
+info,registry,people,AA Jangoo,88626ed2
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BA King,7fca84b7
+info,registry,people,C Bosch,172dff15
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CO Wright,a541fc41
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DK Butler,671398e3
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,GF Linde,e5437608
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,J Da Silva,bab78fa2
+info,registry,people,KSA McKenzie,2b8f219a
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,N Duguid,64495506
+info,registry,people,NA Gordon,59377a7f
+info,registry,people,O Thomas,c6097d68
+info,registry,people,RA Reifer,d7725664
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SS Cottrell,a1d053dd
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Salman Irshad,30afc92b

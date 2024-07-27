@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Delhi
+info,team,Goa
+info,gender,male
+info,season,2015/16
+info,date,2016/01/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Motibaug Cricket Ground
+info,city,
+info,toss_winner,Goa
+info,toss_decision,field
+info,winner,Delhi
+info,winner_runs,2
+info,player,Delhi,UBT Chand
+info,player,Delhi,G Gambhir
+info,player,Delhi,PJ Sangwan
+info,player,Delhi,Aditya Kaushik
+info,player,Delhi,N Rana
+info,player,Delhi,Milind Kumar
+info,player,Delhi,P Negi
+info,player,Delhi,Akash Sudan
+info,player,Delhi,Shivam Sharma
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,P Awana
+info,player,Goa,RR Singh
+info,player,Goa,SS Bandekar
+info,player,Goa,Lakshay Garg
+info,player,Goa,Deepraj Gaonkar
+info,player,Goa,SB Jakati
+info,player,Goa,Srinivas Fadte
+info,player,Goa,Darshan Misal
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,SA Asnodkar
+info,player,Goa,Sagun Kamat
+info,player,Goa,Kashyap Bakhale
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Akash Sudan,3d930abb
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,Kashyap Bakhale,aa39eaa3
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Awana,1a0c3177
+info,registry,people,P Negi,f62772e5
+info,registry,people,PJ Sangwan,9fc0ef64
+info,registry,people,RR Singh,4fbb35dd
+info,registry,people,SA Asnodkar,ae091d39
+info,registry,people,SB Jakati,c8179c68
+info,registry,people,SS Bandekar,031b389c
+info,registry,people,Sagun Kamat,8a58cc2a
+info,registry,people,Shivam Sharma,6f49cc6e
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,Srinivas Fadte,4af69c7c
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,UBT Chand,0c94f480

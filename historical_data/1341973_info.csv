@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,Papua New Guinea
+info,gender,male
+info,season,2022/23
+info,date,2022/11/25
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,113
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,United States of America
+info,toss_decision,bat
+info,player_of_match,SR Taylor
+info,umpire,A Louw
+info,umpire,Claus Schumacher
+info,reserve_umpire,BP Jele
+info,match_referee,ET Dube
+info,winner,United States of America
+info,winner_runs,35
+info,player,United States of America,SR Taylor
+info,player,United States of America,SJ Modani
+info,player,United States of America,MD Patel
+info,player,United States of America,Aaron Jones
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,G Singh
+info,player,United States of America,IG Holland
+info,player,United States of America,NK Patel
+info,player,United States of America,NP Kenjige
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,SN Netravalkar
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,G Toka
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,SI Kamea
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CAH Stevenson,7239b60d
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,G Singh,e93b6c95
+info,registry,people,G Toka,c3564c2d
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,IG Holland,4167f30b
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,K Doriga,365229a8
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,NK Patel,c6e10e5c
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,R Hekure,c70448aa
+info,registry,people,S Bau,9a95bebb
+info,registry,people,SI Kamea,0730a707
+info,registry,people,SJ Modani,290cba17
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,TP Ura,a82eb3fb

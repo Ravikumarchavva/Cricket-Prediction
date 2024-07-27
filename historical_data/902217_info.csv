@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rajasthan
+info,team,Tripura
+info,gender,male
+info,season,2015/16
+info,date,2016/01/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Jawaharlal Nehru Stadium
+info,city,
+info,toss_winner,Tripura
+info,toss_decision,field
+info,winner,Tripura
+info,winner_wickets,1
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,MN Singh
+info,player,Rajasthan,SS Dobal
+info,player,Rajasthan,AL Menaria
+info,player,Rajasthan,R Bhatia
+info,player,Rajasthan,R Bishnoi
+info,player,Rajasthan,DH Yagnik
+info,player,Rajasthan,CP Singh
+info,player,Rajasthan,Manjeet Singh
+info,player,Rajasthan,Pankaj Singh
+info,player,Rajasthan,NB Singh
+info,player,Tripura,Manisankar Murasingh
+info,player,Tripura,Rana Dutta
+info,player,Tripura,VK Saha
+info,player,Tripura,SS Majumder
+info,player,Tripura,CK Paul
+info,player,Tripura,BB Roy
+info,player,Tripura,SM Singha
+info,player,Tripura,RD Banik
+info,player,Tripura,Rajat Dey
+info,player,Tripura,NN Sen Chowdhary
+info,player,Tripura,NN Sen
+info,registry,people,AL Menaria,8291f939
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,BB Roy,09ea761c
+info,registry,people,CK Paul,35b67232
+info,registry,people,CP Singh,077da288
+info,registry,people,DH Yagnik,063b3673
+info,registry,people,MN Singh,7ba6ef29
+info,registry,people,Manisankar Murasingh,52cb36a0
+info,registry,people,Manjeet Singh,c2c97df0
+info,registry,people,NB Singh,b822e99c
+info,registry,people,NN Sen,497b05f4
+info,registry,people,NN Sen Chowdhary,08a11820
+info,registry,people,Pankaj Singh,e32d22f6
+info,registry,people,R Bhatia,33a364a6
+info,registry,people,R Bishnoi,4d5a1617
+info,registry,people,RD Banik,6794586e
+info,registry,people,Rajat Dey,ccc04a61
+info,registry,people,Rana Dutta,6d981899
+info,registry,people,SM Singha,7ca04294
+info,registry,people,SS Dobal,0b40a82a
+info,registry,people,SS Majumder,76307fc7
+info,registry,people,VK Saha,8c5b0ce7

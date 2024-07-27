@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,India
+info,gender,male
+info,season,2022/23
+info,date,2023/01/12
+info,event,Sri Lanka tour of India
+info,match_number,2
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,Kuldeep Yadav
+info,umpire,KN Ananthapadmanabhan
+info,umpire,Nitin Menon
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,J Madanagopal
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,4
+info,player,Sri Lanka,WIA Fernando
+info,player,Sri Lanka,MNK Fernando
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,DN Wellalage
+info,player,Sri Lanka,C Karunaratne
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,CBRLS Kumara
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,V Kohli
+info,player,India,SS Iyer
+info,player,India,KL Rahul
+info,player,India,HH Pandya
+info,player,India,AR Patel
+info,player,India,Kuldeep Yadav
+info,player,India,Mohammed Shami
+info,player,India,Mohammed Siraj
+info,player,India,Umran Malik
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AR Patel,2e171977
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WIA Fernando,9550470d

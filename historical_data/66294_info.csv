@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,England
+info,gender,male
+info,season,2003
+info,date,2003/06/28
+info,event,NatWest Series
+info,match_number,2
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,VS Solanki
+info,umpire,DR Shepherd
+info,umpire,SJA Taufel
+info,tv_umpire,JW Lloyds
+info,match_referee,CH Lloyd
+info,winner,England
+info,winner_wickets,6
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,JH Kallis
+info,player,South Africa,JA Rudolph
+info,player,South Africa,MV Boucher
+info,player,South Africa,M van Jaarsveld
+info,player,South Africa,SM Pollock
+info,player,South Africa,AJ Hall
+info,player,South Africa,N Boje
+info,player,South Africa,AC Dawson
+info,player,South Africa,M Ntini
+info,player,England,ME Trescothick
+info,player,England,VS Solanki
+info,player,England,RWT Key
+info,player,England,A McGrath
+info,player,England,A Flintoff
+info,player,England,JO Troughton
+info,player,England,CMW Read
+info,player,England,AF Giles
+info,player,England,JM Anderson
+info,player,England,RL Johnson
+info,player,England,D Gough
+info,registry,people,A Flintoff,ddc0828d
+info,registry,people,A McGrath,e8b5ea8d
+info,registry,people,AC Dawson,62decd8e
+info,registry,people,AF Giles,a4af4849
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CMW Read,be4cefab
+info,registry,people,D Gough,fcbf5a30
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JO Troughton,af2cc80a
+info,registry,people,JW Lloyds,112b8472
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M van Jaarsveld,f407e354
+info,registry,people,ME Trescothick,ea42ddb9
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,N Boje,6a0537aa
+info,registry,people,RL Johnson,3967930c
+info,registry,people,RWT Key,bcb01d8c
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,VS Solanki,7ee2ce62

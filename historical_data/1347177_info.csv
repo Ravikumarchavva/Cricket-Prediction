@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Sussex
+info,gender,male
+info,season,2023
+info,date,2023/06/25
+info,date,2023/06/26
+info,date,2023/06/27
+info,date,2023/06/28
+info,event,County Championship
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Glamorgan
+info,toss_decision,bat
+info,umpire,Hassan Adnan
+info,umpire,NL Bainton
+info,match_referee,JJ Swift
+info,outcome,draw
+info,player,Glamorgan,Zain-ul-Hassan
+info,player,Glamorgan,AG Salter
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,JAR Harris
+info,player,Glamorgan,MJ Swepson
+info,player,Glamorgan,JP McIlroy
+info,player,Sussex,TGR Clark
+info,player,Sussex,TJ Haines
+info,player,Sussex,TP Alsop
+info,player,Sussex,JM Coles
+info,player,Sussex,OJ Carter
+info,player,Sussex,D Ibrahim
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,N McAndrew
+info,player,Sussex,JJ Carson
+info,player,Sussex,HB Shipley
+info,player,Sussex,A Karvelas
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AG Salter,1a45b864
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,D Ibrahim,457cab44
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HB Shipley,5426de63
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JAR Harris,f1ba9ed7
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,WT Root,72898514
+info,registry,people,Zain-ul-Hassan,d12cead8

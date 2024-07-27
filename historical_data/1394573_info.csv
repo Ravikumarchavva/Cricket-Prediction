@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Boland
+info,gender,male
+info,season,2023/24
+info,date,2024/03/08
+info,event,CSA T20 Challenge
+info,match_number,3
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Boland
+info,toss_decision,field
+info,player_of_match,RD Rickelton
+info,umpire,Siphelele Gasa
+info,umpire,Stephen Harris
+info,reserve_umpire,RN Hendricks
+info,match_referee,SB Lambson
+info,winner,Lions
+info,winner_runs,44
+info,player,Lions,RR Hendricks
+info,player,Lions,RD Rickelton
+info,player,Lions,T Bavuma
+info,player,Lions,HE van der Dussen
+info,player,Lions,M Van Buuren
+info,player,Lions,PWA Mulder
+info,player,Lions,E Jones
+info,player,Lions,BC Fortuin
+info,player,Lions,K Rabada
+info,player,Lions,KT Maphaka
+info,player,Lions,TL Moreki
+info,player,Boland,PJ Malan
+info,player,Boland,JN Malan
+info,player,Boland,KD Petersen
+info,player,Boland,C Fortuin
+info,player,Boland,M Copeland
+info,player,Boland,C Jonker
+info,player,Boland,FD Adams
+info,player,Boland,GC Viljoen
+info,player,Boland,I Manack
+info,player,Boland,Siyabonga Mahima
+info,player,Boland,A Mnyaka
+info,registry,people,A Mnyaka,bd36db2c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,C Fortuin,f25cebec
+info,registry,people,C Jonker,a81d6706
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,FD Adams,f277f531
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,I Manack,5ec126fa
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,M Copeland,9943b637
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SB Lambson,4146063f
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Siyabonga Mahima,1062bebb
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TL Moreki,36ea17c1

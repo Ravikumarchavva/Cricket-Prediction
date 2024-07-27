@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,India
+info,gender,male
+info,season,2023
+info,date,2023/07/27
+info,event,India tour of West Indies
+info,match_number,1
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Kuldeep Yadav
+info,umpire,MA Gough
+info,umpire,N Duguid
+info,reserve_umpire,GO Brathwaite
+info,tv_umpire,M Erasmus
+info,match_referee,RB Richardson
+info,winner,India
+info,winner_wickets,5
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,A Athanaze
+info,player,West Indies,SD Hope
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,R Powell
+info,player,West Indies,R Shepherd
+info,player,West Indies,DC Drakes
+info,player,West Indies,Y Cariah
+info,player,West Indies,G Motie
+info,player,West Indies,JNT Seales
+info,player,India,Ishan Kishan
+info,player,India,Shubman Gill
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,RA Jadeja
+info,player,India,SN Thakur
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,Kuldeep Yadav
+info,player,India,Umran Malik
+info,player,India,Mukesh Kumar
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,BA King,7fca84b7
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JNT Seales,ded9ff1e
+info,registry,people,KR Mayers,73c18486
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,N Duguid,64495506
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Y Cariah,78bb68d4

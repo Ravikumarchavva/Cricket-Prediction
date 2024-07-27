@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Baroda
+info,team,Saurashtra
+info,gender,male
+info,season,2022/23
+info,date,2022/10/12
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Holkar Cricket Stadium, Indore"
+info,city,Indore
+info,toss_winner,Saurashtra
+info,toss_decision,field
+info,umpire,A Bengeri
+info,umpire,P Jayapal
+info,tv_umpire,A Totre
+info,match_referee,A Kripal Singh
+info,winner,Saurashtra
+info,winner_wickets,4
+info,player,Baroda,SD Patel
+info,player,Baroda,Dhruv Patel
+info,player,Baroda,Mitesh Patel
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,KH Pandya
+info,player,Baroda,AT Rayudu
+info,player,Baroda,Bhanu Pania
+info,player,Baroda,NA Rathva
+info,player,Baroda,A Sheth
+info,player,Baroda,LI Meriwala
+info,player,Baroda,Chinta Gandhi
+info,player,Baroda,VR Aaron
+info,player,Saurashtra,Tarang Gohel
+info,player,Saurashtra,CA Pujara
+info,player,Saurashtra,Samarth Vyas
+info,player,Saurashtra,SP Jackson
+info,player,Saurashtra,PN Mankad
+info,player,Saurashtra,Jay Gohil
+info,player,Saurashtra,JD Unadkat
+info,player,Saurashtra,Chirag Jani
+info,player,Saurashtra,Dharmendrasinh Jadeja
+info,player,Saurashtra,K D Patel
+info,player,Saurashtra,Yuvraj Chudasama
+info,registry,people,A Bengeri,c109497d
+info,registry,people,A Kripal Singh,8f559207
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Bhanu Pania,af863475
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,Chinta Gandhi,c5eff91b
+info,registry,people,Chirag Jani,783e6111
+info,registry,people,Dharmendrasinh Jadeja,d330f9b9
+info,registry,people,Dhruv Patel,e85f3659
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,Jay Gohil,efd1a0ef
+info,registry,people,K D Patel,76cc7070
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,Mitesh Patel,ab636882
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,P Jayapal,209e51e8
+info,registry,people,PN Mankad,663b5e34
+info,registry,people,SD Patel,6d797d07
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Samarth Vyas,34819e70
+info,registry,people,Tarang Gohel,3b16788a
+info,registry,people,VR Aaron,0a3d54b9
+info,registry,people,Vishnu Solanki,2e802011
+info,registry,people,Yuvraj Chudasama,20666746

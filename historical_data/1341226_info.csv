@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Northern Districts
+info,gender,female
+info,season,2022/23
+info,date,2022/12/23
+info,event,Women's Super Smash
+info,match_number,1
+info,venue,"Bay Oval, Mount Maunganui"
+info,city,Mount Maunganui
+info,toss_winner,Canterbury
+info,toss_decision,bat
+info,umpire,C Black
+info,umpire,Damian Morrow
+info,reserve_umpire,GG Pennell
+info,tv_umpire,PJ Pasco
+info,match_referee,GB Troup
+info,winner,Canterbury
+info,winner_runs,14
+info,player,Canterbury,KG Anderson
+info,player,Canterbury,NB Cox
+info,player,Canterbury,LEV Hughes
+info,player,Canterbury,AE Satterthwaite
+info,player,Canterbury,J Dean
+info,player,Canterbury,AG Gerken
+info,player,Canterbury,LMM Tahuhu
+info,player,Canterbury,JL Savage
+info,player,Canterbury,MJ Banks
+info,player,Canterbury,SR Asmussen
+info,player,Canterbury,GES Sullivan
+info,player,Northern Districts,CA Gurrey
+info,player,Northern Districts,B Bezuidenhout
+info,player,Northern Districts,SRH Curtis
+info,player,Northern Districts,EAJ Richardson
+info,player,Northern Districts,A Wellington
+info,player,Northern Districts,LF Boucher
+info,player,Northern Districts,NH Patel
+info,player,Northern Districts,PC Graham
+info,player,Northern Districts,MW Downes
+info,player,Northern Districts,SR Naidu
+info,player,Northern Districts,HE Topp
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AE Satterthwaite,72b7ed1e
+info,registry,people,AG Gerken,a7fcf627
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,C Black,75b42f71
+info,registry,people,CA Gurrey,1e579ad5
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,GB Troup,94f0e744
+info,registry,people,GES Sullivan,165b9097
+info,registry,people,GG Pennell,d9376677
+info,registry,people,HE Topp,d9b3ff0a
+info,registry,people,J Dean,2e018b14
+info,registry,people,JL Savage,7938c793
+info,registry,people,KG Anderson,ae79a86f
+info,registry,people,LEV Hughes,5b43fe48
+info,registry,people,LF Boucher,51afe432
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,MJ Banks,1e17a238
+info,registry,people,MW Downes,d8e8179f
+info,registry,people,NB Cox,219f1323
+info,registry,people,NH Patel,d945db3e
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,SR Asmussen,31972229
+info,registry,people,SR Naidu,f41d1a02
+info,registry,people,SRH Curtis,aa89a853

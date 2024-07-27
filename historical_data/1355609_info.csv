@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Birmingham Phoenix
+info,team,Northern Superchargers
+info,gender,male
+info,season,2023
+info,date,2023/08/03
+info,event,The Hundred Men's Competition
+info,match_number,4
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Northern Superchargers
+info,toss_decision,field
+info,umpire,RA Kettleborough
+info,umpire,RJ Warren
+info,reserve_umpire,N Pratt
+info,tv_umpire,NJ Llong
+info,match_referee,DA Cosker
+info,outcome,no result
+info,player,Birmingham Phoenix,WCF Smeed
+info,player,Birmingham Phoenix,JG Bethell
+info,player,Birmingham Phoenix,BM Duckett
+info,player,Birmingham Phoenix,JL Smith
+info,player,Birmingham Phoenix,DR Mousley
+info,player,Birmingham Phoenix,Shadab Khan
+info,player,Birmingham Phoenix,CG Benjamin
+info,player,Birmingham Phoenix,BAC Howell
+info,player,Birmingham Phoenix,AF Milne
+info,player,Birmingham Phoenix,TG Helm
+info,player,Birmingham Phoenix,KW Richardson
+info,player,Northern Superchargers,A Lyth
+info,player,Northern Superchargers,T Banton
+info,player,Northern Superchargers,MW Short
+info,player,Northern Superchargers,HC Brook
+info,player,Northern Superchargers,AJ Hose
+info,player,Northern Superchargers,D Wiese
+info,player,Northern Superchargers,WD Parnell
+info,player,Northern Superchargers,AU Rashid
+info,player,Northern Superchargers,RJW Topley
+info,player,Northern Superchargers,BA Carse
+info,player,Northern Superchargers,SA Zaib
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JL Smith,c834c290
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,MW Short,a90e53ec
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NJ Llong,573fb985
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TG Helm,74a274cc
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,WD Parnell,3a60e0b5

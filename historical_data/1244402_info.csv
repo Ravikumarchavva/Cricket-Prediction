@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Tamil Nadu
+info,gender,male
+info,season,2020/21
+info,date,2021/01/26
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Narendra Modi Stadium Ground 'A', Motera"
+info,city,
+info,toss_winner,Tamil Nadu
+info,toss_decision,field
+info,winner,Tamil Nadu
+info,winner_wickets,5
+info,player,Himachal,Abhimanyu Rana
+info,player,Himachal,P Chopra
+info,player,Himachal,N A Sharma
+info,player,Himachal,RI Thakur
+info,player,Himachal,R Dhawan
+info,player,Himachal,Ayush Jamwal
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,EC Sen
+info,player,Himachal,Digvijay Rangi
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,VG Arora
+info,player,Tamil Nadu,S Sandeep Warrier
+info,player,Tamil Nadu,Sonu Yadav
+info,player,Tamil Nadu,B Aparajith
+info,player,Tamil Nadu,R Sai Kishore
+info,player,Tamil Nadu,M Ashwin
+info,player,Tamil Nadu,M Mohammed
+info,player,Tamil Nadu,Hari Nishaanth
+info,player,Tamil Nadu,N Jagadeesan
+info,player,Tamil Nadu,KB Arun Karthik
+info,player,Tamil Nadu,KD Karthik
+info,player,Tamil Nadu,M Shahrukh Khan
+info,registry,people,Abhimanyu Rana,c224c5ef
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,B Aparajith,5b627626
+info,registry,people,Digvijay Rangi,8be38ec4
+info,registry,people,EC Sen,8a0ae9da
+info,registry,people,Hari Nishaanth,c3f37533
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,M Mohammed,1b7c4d69
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,R Dhawan,26a85969
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,RI Thakur,12ac8ca5
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,Sonu Yadav,6ab96cc2
+info,registry,people,VG Arora,7c3b3b78

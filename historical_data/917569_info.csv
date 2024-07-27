@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Otago Volts
+info,gender,male
+info,season,2015/16
+info,date,2016/03/23
+info,date,2016/03/24
+info,date,2016/03/25
+info,date,2016/03/26
+info,event,Plunket Shield
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,Otago Volts
+info,toss_decision,field
+info,umpire,A Mehrotra
+info,umpire,AL Gillies
+info,outcome,draw
+info,player,Central Stags,GR Hay
+info,player,Central Stags,BS Smith
+info,player,Central Stags,M Renwick
+info,player,Central Stags,WA Young
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,DAJ Bracewell
+info,player,Central Stags,NA Patel
+info,player,Central Stags,AY Patel
+info,player,Central Stags,KD Richards
+info,player,Central Stags,LR Dudding
+info,player,Otago Volts,RM Duffy
+info,player,Otago Volts,BS Wilson
+info,player,Otago Volts,CM Smith
+info,player,Otago Volts,MG Bracewell
+info,player,Otago Volts,AK Kitchen
+info,player,Otago Volts,JDS Neesham
+info,player,Otago Volts,DC de Boorder
+info,player,Otago Volts,JL Finnie
+info,player,Otago Volts,C Viljoen
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,BE Soper
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BE Soper,5b84460a
+info,registry,people,BS Smith,556df4f9
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,C Viljoen,f7b2cbe8
+info,registry,people,CM Smith,61c03e7d
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DC de Boorder,bf573bfd
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JL Finnie,1ccf9e7e
+info,registry,people,KD Richards,94526a2a
+info,registry,people,LR Dudding,678a8133
+info,registry,people,M Renwick,b862ef08
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,NA Patel,9123301a
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,RM Duffy,37fa7ef6
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WA Young,8afe73e2

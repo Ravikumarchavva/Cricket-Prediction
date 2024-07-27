@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Sri Lanka
+info,gender,male
+info,season,2023
+info,date,2023/07/02
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,24
+info,venue,"Queens Sports Club, Bulawayo"
+info,city,Bulawayo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,M Theekshana
+info,umpire,LS Reifer
+info,umpire,R Black
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,A Paleker
+info,match_referee,Muhammad Javed
+info,winner,Sri Lanka
+info,winner_wickets,9
+info,player,Zimbabwe,J Gumbie
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,D Madushanka
+info,player,Sri Lanka,M Pathirana
+info,registry,people,A Paleker,634b11ac
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,J Gumbie,c8d74c21
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378

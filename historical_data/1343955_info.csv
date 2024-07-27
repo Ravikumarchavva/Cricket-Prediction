@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2022/23
+info,date,2023/01/20
+info,event,SA20
+info,match_number,15
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Durban's Super Giants
+info,toss_decision,bat
+info,player_of_match,S Muthusamy
+info,umpire,DJ Smith
+info,umpire,Siphelele Gasa
+info,reserve_umpire,S George
+info,tv_umpire,M Erasmus
+info,match_referee,GH Pienaar
+info,winner,Pretoria Capitals
+info,winner_wickets,8
+info,player,Durban's Super Giants,KR Mayers
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,JO Holder
+info,player,Durban's Super Giants,C Jonker
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,GC Viljoen
+info,player,Durban's Super Giants,P Subrayen
+info,player,Durban's Super Giants,RJW Topley
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,A Nortje
+info,player,Pretoria Capitals,S Muthusamy
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,C Jonker,a81d6706
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,GC Viljoen,a316d663
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JO Holder,0f721006
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KR Mayers,73c18486
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,S George,6d9e5a54
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1

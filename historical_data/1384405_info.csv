@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Australia
+info,gender,male
+info,season,2023/24
+info,date,2023/10/16
+info,event,ICC Cricket World Cup
+info,match_number,14
+info,venue,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+info,city,Lucknow
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,A Zampa
+info,umpire,CB Gaffaney
+info,umpire,JS Wilson
+info,tv_umpire,CM Brown
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_wickets,5
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,DN Wellalage
+info,player,Sri Lanka,C Karunaratne
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CBRLS Kumara
+info,player,Sri Lanka,D Madushanka
+info,player,Australia,MR Marsh
+info,player,Australia,DA Warner
+info,player,Australia,SPD Smith
+info,player,Australia,M Labuschagne
+info,player,Australia,JP Inglis
+info,player,Australia,GJ Maxwell
+info,player,Australia,MP Stoinis
+info,player,Australia,MA Starc
+info,player,Australia,PJ Cummins
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,registry,people,A Zampa,14f96089
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SPD Smith,30a45b23

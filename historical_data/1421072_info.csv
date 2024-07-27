@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023/24
+info,date,2024/03/05
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,10
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,H Thaker
+info,umpire,RR Wimalasiri
+info,umpire,Shiju Sam
+info,reserve_umpire,Aasif Iqbal
+info,match_referee,Muhammad Javed
+info,winner,Canada
+info,winner_runs,8
+info,method,D/L
+info,player,Canada,A Johnson
+info,player,Canada,SA Wijeratne
+info,player,Canada,Pargat Singh
+info,player,Canada,NS Dhaliwal
+info,player,Canada,H Thaker
+info,player,Canada,NR Kirton
+info,player,Canada,S Movva
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Ammar Khalid
+info,player,Canada,U Bhagwan
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,T Suri
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,CP Rizwan
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Zuhaib Zubair
+info,player,United Arab Emirates,SM Sharma
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Zahoor Khan
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ammar Khalid,af98bf5b
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,CP Rizwan,e5309baa
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Movva,ee229588
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,T Suri,a76d4082
+info,registry,people,U Bhagwan,44a2bb4f
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0
+info,registry,people,Zuhaib Zubair,9124aa4c

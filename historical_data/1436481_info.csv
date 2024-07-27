@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Turkey
+info,gender,male
+info,season,2024
+info,date,2024/06/12
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,11
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Turkey
+info,toss_decision,field
+info,player_of_match,TC Barker
+info,umpire,Adeel Ashiq
+info,umpire,WPM van Liemt
+info,reserve_umpire,M Jameson
+info,match_referee,G McCrea
+info,winner,Luxembourg
+info,winner_runs,73
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,T Martin
+info,player,Luxembourg,M Cope
+info,player,Luxembourg,S Kushretha
+info,player,Luxembourg,Milad Momend
+info,player,Luxembourg,A Nanda
+info,player,Turkey,Abdullah Khan Lodhi
+info,player,Turkey,Shamsullah Ehsan
+info,player,Turkey,I Elec
+info,player,Turkey,A Turkmen
+info,player,Turkey,Muhammet Bicer
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,Ibrahim Kursad Dalyan
+info,player,Turkey,GG Alta
+info,player,Turkey,R Nath
+info,player,Turkey,M Ozturk
+info,player,Turkey,Zafer Durmaz
+info,registry,people,A Nanda,704e0160
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,Abdullah Khan Lodhi,6d8b7ac4
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GG Alta,c7bb2416
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,Ibrahim Kursad Dalyan,f0f20cf8
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Mees,ab1445ea
+info,registry,people,M Cope,c83c594d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,Milad Momend,84880baf
+info,registry,people,Muhammet Bicer,7990dc16
+info,registry,people,R Nath,126f1e28
+info,registry,people,S Kushretha,4e3fd330
+info,registry,people,SKS Gill,faef026c
+info,registry,people,Shamsullah Ehsan,356bf068
+info,registry,people,T Martin,32e97806
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,Zafer Durmaz,755819f4

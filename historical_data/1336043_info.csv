@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,male
+info,season,2023
+info,date,2023/06/16
+info,date,2023/06/17
+info,date,2023/06/18
+info,date,2023/06/19
+info,date,2023/06/20
+info,event,The Ashes
+info,match_number,1
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,UT Khawaja
+info,umpire,Ahsan Raza
+info,umpire,M Erasmus
+info,reserve_umpire,M Burns
+info,tv_umpire,CB Gaffaney
+info,match_referee,AJ Pycroft
+info,winner,Australia
+info,winner_wickets,2
+info,player,England,Z Crawley
+info,player,England,BM Duckett
+info,player,England,OJ Pope
+info,player,England,JE Root
+info,player,England,HC Brook
+info,player,England,BA Stokes
+info,player,England,JM Bairstow
+info,player,England,MM Ali
+info,player,England,SCJ Broad
+info,player,England,OE Robinson
+info,player,England,JM Anderson
+info,player,Australia,DA Warner
+info,player,Australia,UT Khawaja
+info,player,Australia,M Labuschagne
+info,player,Australia,SPD Smith
+info,player,Australia,TM Head
+info,player,Australia,C Green
+info,player,Australia,AT Carey
+info,player,Australia,PJ Cummins
+info,player,Australia,NM Lyon
+info,player,Australia,SM Boland
+info,player,Australia,JR Hazlewood
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AT Carey,69d03465
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,JE Root,a343262c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MM Ali,bb351c23
+info,registry,people,NM Lyon,96a6a7ad
+info,registry,people,OE Robinson,0f3ee070
+info,registry,people,OJ Pope,e94bc520
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SM Boland,d167edd3
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,TM Head,12b610c2
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,Z Crawley,922e1b19

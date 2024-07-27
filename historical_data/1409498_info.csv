@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Districts
+info,team,Auckland
+info,gender,male
+info,season,2023/24
+info,date,2024/01/16
+info,event,Super Smash
+info,match_number,25
+info,venue,"Eden Park Outer Oval, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland
+info,toss_decision,field
+info,player_of_match,D Cleaver
+info,umpire,Damian Morrow
+info,umpire,TJ Parlane
+info,reserve_umpire,BA O'Brien
+info,tv_umpire,BF Bowden
+info,match_referee,SRM Morris
+info,winner,Central Districts
+info,winner_runs,15
+info,player,Central Districts,JCT Boyle
+info,player,Central Districts,CG Heaphy
+info,player,Central Districts,D Cleaver
+info,player,Central Districts,TC Bruce
+info,player,Central Districts,W Clark
+info,player,Central Districts,DAJ Bracewell
+info,player,Central Districts,BJ Small
+info,player,Central Districts,JFA Field
+info,player,Central Districts,AY Patel
+info,player,Central Districts,BM Tickner
+info,player,Central Districts,JR Lennox
+info,player,Auckland,GH Worker
+info,player,Auckland,SM Solia
+info,player,Auckland,CJ Briggs
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,CD Fletcher
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,RD Harrison
+info,player,Auckland,J McKenzie
+info,player,Auckland,DK Ferns
+info,player,Auckland,L Delport
+info,player,Auckland,BG Lister
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BA O'Brien,d7fe80b4
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Small,b1b7b7de
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CG Heaphy,fcbd6eb8
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,DAJ Bracewell,2e9fdf9b
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,J McKenzie,a1ad8978
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JFA Field,0085a7ce
+info,registry,people,JR Lennox,07793daf
+info,registry,people,L Delport,2c1438ef
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,W Clark,4f78497c
+info,registry,people,WT O'Donnell,730b57de

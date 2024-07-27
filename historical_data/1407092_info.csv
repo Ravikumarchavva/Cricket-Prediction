@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Kenya
+info,gender,male
+info,season,2023/24
+info,date,2023/11/23
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,4
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Kenya
+info,toss_decision,field
+info,player_of_match,P Useni
+info,umpire,F Mutizwa
+info,umpire,L Rusere
+info,reserve_umpire,D Odhiambo
+info,match_referee,GH Pienaar
+info,winner,Kenya
+info,winner_wickets,4
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,AA Onikoyi
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,I Danladi
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,P Useni
+info,player,Nigeria,P Aho
+info,player,Nigeria,C Udekwe
+info,player,Nigeria,SA Okpe
+info,player,Kenya,RN Patel
+info,player,Kenya,CO Obuya
+info,player,Kenya,IA Karim
+info,player,Kenya,Sukhdeep Singh
+info,player,Kenya,P Sharma
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,LN Oluoch
+info,player,Kenya,SO Ngoche
+info,player,Kenya,EB Ringera
+info,player,Kenya,Vishil Patel
+info,player,Kenya,Vraj Patel
+info,registry,people,AA Onikoyi,409ce380
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,D Odhiambo,45994517
+info,registry,people,EB Ringera,6cedad99
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IA Karim,ca92a578
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Sharma,d047f983
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,Sukhdeep Singh,612a395c
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,Vishil Patel,3df8f9d5
+info,registry,people,Vraj Patel,2af28253

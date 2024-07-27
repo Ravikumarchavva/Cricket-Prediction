@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,female
+info,season,2023/24
+info,date,2024/04/07
+info,event,England Women tour of New Zealand
+info,match_number,3
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,SFM Devine
+info,umpire,Eloise Sheridan
+info,umpire,Kim Cotton
+info,reserve_umpire,GG Pennell
+info,tv_umpire,CM Brown
+info,match_referee,TL Anderson
+info,winner,New Zealand
+info,winner_wickets,7
+info,player,England,TT Beaumont
+info,player,England,ME Bouchier
+info,player,England,HC Knight
+info,player,England,NR Sciver-Brunt
+info,player,England,SIR Dunkley
+info,player,England,DN Wyatt
+info,player,England,AE Jones
+info,player,England,CE Dean
+info,player,England,S Ecclestone
+info,player,England,KL Cross
+info,player,England,L Filer
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,EJ Carson,7693851c
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GG Pennell,d9376677
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JM Kerr,9af58032
+info,registry,people,KL Cross,1ade138e
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Filer,31adb911
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,ML Green,865eae1f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,TT Beaumont,b2664905

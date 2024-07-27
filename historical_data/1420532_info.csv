@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Namibia
+info,gender,male
+info,season,2023/24
+info,date,2024/02/21
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,4
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,BM Scholtz
+info,umpire,Asif Yaqoob
+info,umpire,BB Pradhan
+info,reserve_umpire,VK Jha
+info,match_referee,Neeyamur Rashid
+info,winner,Namibia
+info,winner_wickets,2
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,AK Sah
+info,player,Nepal,D Khanal
+info,player,Nepal,Kushal Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,B Sharki
+info,player,Nepal,DS Airee
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Karan KC
+info,player,Nepal,LN Rajbanshi
+info,player,Namibia,JP Kotze
+info,player,Namibia,N Davin
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JJ Smit
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,JT Brassell
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,B Sharki,fbdc8309
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,D Khanal,c4bc3b59
+info,registry,people,DS Airee,1747ea18
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,ZE Green,8716233e

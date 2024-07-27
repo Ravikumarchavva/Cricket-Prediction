@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kerala
+info,team,Rajasthan
+info,gender,male
+info,season,2019/20
+info,date,2019/11/15
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Greenfield Stadium
+info,city,
+info,toss_winner,Rajasthan
+info,toss_decision,field
+info,winner,Rajasthan
+info,winner_wickets,7
+info,player,Kerala,Vishnu Vinod
+info,player,Kerala,Jalaj S Saxena
+info,player,Kerala,SV Samson
+info,player,Kerala,Sachin Baby
+info,player,Kerala,RV Uthappa
+info,player,Kerala,Mohammed Azharuddeen
+info,player,Kerala,Akshay Chandran
+info,player,Kerala,S Sandeep Warrier
+info,player,Kerala,KM Asif
+info,player,Kerala,Basil Thampi
+info,player,Kerala,S Midhun
+info,player,Rajasthan,Tanveer Ul-Haq
+info,player,Rajasthan,DL Chahar
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,KK Ahmed
+info,player,Rajasthan,CP Singh
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,MN Singh
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,R Bishnoi
+info,player,Rajasthan,Arjit Gupta
+info,player,Rajasthan,Robin Bist
+info,registry,people,Akshay Chandran,f0f5b2aa
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,Basil Thampi,871e9faf
+info,registry,people,CP Singh,077da288
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,Jalaj S Saxena,249abedf
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KM Asif,798cc28e
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MN Singh,7ba6ef29
+info,registry,people,Mohammed Azharuddeen,4ae89f36
+info,registry,people,R Bishnoi,4d5a1617
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,Robin Bist,bc761d00
+info,registry,people,S Midhun,ade90de7
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sachin Baby,dc9dd038
+info,registry,people,Tanveer Ul-Haq,2795b0f6
+info,registry,people,Vishnu Vinod,0494fa6e

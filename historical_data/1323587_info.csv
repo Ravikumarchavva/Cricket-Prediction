@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Perth Scorchers
+info,team,Adelaide Strikers
+info,gender,female
+info,season,2022/23
+info,date,2022/11/06
+info,event,Women's Big Bash League
+info,match_number,34
+info,venue,"Lilac Hill Park, Perth"
+info,city,Perth
+info,toss_winner,Perth Scorchers
+info,toss_decision,bat
+info,player_of_match,ML Schutt
+info,umpire,J Buscall
+info,umpire,T Steenholdt
+info,match_referee,SR Bernard
+info,winner,Adelaide Strikers
+info,winner_wickets,7
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,ML Green
+info,player,Perth Scorchers,M Kapp
+info,player,Perth Scorchers,M Carmichael
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,L Mills
+info,player,Perth Scorchers,T Peschel
+info,player,Adelaide Strikers,DJS Dottin
+info,player,Adelaide Strikers,KM Mack
+info,player,Adelaide Strikers,L Wolvaardt
+info,player,Adelaide Strikers,BE Patterson
+info,player,Adelaide Strikers,M Penna
+info,player,Adelaide Strikers,A O'Neil
+info,player,Adelaide Strikers,A Wellington
+info,player,Adelaide Strikers,TJ McPharlin
+info,player,Adelaide Strikers,JL Barsby
+info,player,Adelaide Strikers,ML Schutt
+info,player,Adelaide Strikers,D Brown
+info,registry,people,A King,83558266
+info,registry,people,A O'Neil,4f2cf3ed
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AL Edgar,795ff893
+info,registry,people,BE Patterson,7dfbcfff
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,D Brown,2e81be88
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,J Buscall,abc082bf
+info,registry,people,JL Barsby,47bcaf7a
+info,registry,people,KM Mack,ef13bd20
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Carmichael,4b546c04
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Penna,36453b99
+info,registry,people,ML Green,865eae1f
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,P Cleary,507acf2e
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SR Bernard,800187dc
+info,registry,people,T Peschel,923402d8
+info,registry,people,T Steenholdt,715959cd
+info,registry,people,TJ McPharlin,595e1ee7

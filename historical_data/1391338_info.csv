@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Estonia
+info,team,Gibraltar
+info,gender,male
+info,season,2023
+info,date,2023/09/30
+info,event,Estonia tour of Gibraltar
+info,match_number,1
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Gibraltar
+info,toss_decision,field
+info,player_of_match,L Bruce
+info,umpire,SG Chandiramani
+info,umpire,T Atoloye
+info,winner,Gibraltar
+info,winner_wickets,2
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,Aditya Panwar
+info,player,Estonia,Ali Masood
+info,player,Estonia,Ben Jones
+info,player,Estonia,Bilal Masud
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,D Robson
+info,player,Estonia,S Hook
+info,player,Estonia,P Gheewala
+info,player,Estonia,K Vislapuu
+info,player,Estonia,A Paul
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,JD Freyone
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,P Hatchman
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,M Whelan
+info,player,Gibraltar,RJ Hatchman
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,S Bodha
+info,registry,people,A Paul,fa308279
+info,registry,people,Aditya Panwar,77e321db
+info,registry,people,Ali Masood,a138f597
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,BA Pai,716bf559
+info,registry,people,Ben Jones,f0568f9b
+info,registry,people,Bilal Masud,643e4882
+info,registry,people,D Robson,fa39ad19
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,JD Freyone,7cd7eb50
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Vislapuu,04855b85
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Whelan,d613f046
+info,registry,people,P Gheewala,3b22ee4e
+info,registry,people,P Hatchman,b504e8b8
+info,registry,people,RJ Hatchman,01c05b6c
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Hook,eba871dd
+info,registry,people,SG Chandiramani,4fa795d2
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,T Atoloye,9d4f3a74

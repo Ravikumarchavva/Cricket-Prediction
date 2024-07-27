@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Kenya
+info,gender,male
+info,season,2023/24
+info,date,2023/11/29
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,18
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,S Sesazi
+info,umpire,F Mutizwa
+info,umpire,Kehinde Olanbiwonnu
+info,reserve_umpire,S Dambanevana
+info,match_referee,GH Pienaar
+info,winner,Uganda
+info,winner_runs,33
+info,player,Uganda,S Sesazi
+info,player,Uganda,RB Patel
+info,player,Uganda,RG Mukasa
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,AR Ramjani
+info,player,Uganda,DM Nakrani
+info,player,Uganda,K Waiswa
+info,player,Uganda,CN Kakuru
+info,player,Uganda,B Masaba
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,F Nsubuga
+info,player,Kenya,RR Patel
+info,player,Kenya,CO Obuya
+info,player,Kenya,RN Patel
+info,player,Kenya,IA Karim
+info,player,Kenya,P Sharma
+info,player,Kenya,SR Bhudia
+info,player,Kenya,SO Ngoche
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,LN Oluoch
+info,player,Kenya,EB Ringera
+info,player,Kenya,Vraj Patel
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,EB Ringera,6cedad99
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,IA Karim,ca92a578
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Sharma,d047f983
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Vraj Patel,2af28253

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South East Stars
+info,team,Northern Diamonds
+info,gender,female
+info,season,2023
+info,date,2023/05/10
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,18
+info,venue,"North Marine Road Ground, Scarborough"
+info,city,Scarborough
+info,toss_winner,Northern Diamonds
+info,toss_decision,field
+info,umpire,J Naeem
+info,umpire,P Mustard
+info,match_referee,Phil Whitticase
+info,winner,Northern Diamonds
+info,winner_wickets,3
+info,method,D/L
+info,player,South East Stars,KM Chathli
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,BF Smith
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,FR Davies
+info,player,South East Stars,D Gregory
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,CL Tryon
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,A Glen
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,JA Woolston
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Glen,9da0d1e5
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,FR Davies,2479daa6
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,JA Woolston,c1f3ae44
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KM Chathli,6ffbf04c
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,P Mustard,1b6fef02
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SL Kalis,2b150c6b

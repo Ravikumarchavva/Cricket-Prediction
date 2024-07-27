@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Puducherry
+info,gender,male
+info,season,2018/19
+info,date,2019/02/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam II"
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,bat
+info,winner,Uttar Pradesh
+info,winner_runs,77
+info,player,Uttar Pradesh,Upendra Yadav
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,SK Raina
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Yash Dayal
+info,player,Uttar Pradesh,Shiva Singh
+info,player,Uttar Pradesh,Bobby Yadav
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,Ankit Chaudhary
+info,player,Puducherry,Pankaj Singh
+info,player,Puducherry,A Aravinddaraj
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,Pratik Sargade
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,P Thamaraikannan
+info,player,Puducherry,S Karthik
+info,player,Puducherry,P Dogra
+info,player,Puducherry,X Thalaivan Sargunam
+info,player,Puducherry,RV Gomez
+info,registry,people,A Aravinddaraj,21d38d47
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,Ankit Chaudhary,c0e59e39
+info,registry,people,Bobby Yadav,a671ad8b
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,P Thamaraikannan,df72675b
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,Pankaj Singh,e32d22f6
+info,registry,people,Pratik Sargade,6a1fc8dd
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RV Gomez,b2570b38
+info,registry,people,S Karthik,14c90152
+info,registry,people,SK Raina,1dc12ab9
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shiva Singh,3b63b5cc
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,X Thalaivan Sargunam,1763bc6c
+info,registry,people,Yash Dayal,7210d461

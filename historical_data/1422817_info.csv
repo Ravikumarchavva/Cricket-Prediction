@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Kuwait
+info,gender,male
+info,season,2023/24
+info,date,2024/03/11
+info,event,Malaysia Open T20 Championship
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,Shiraz Khan
+info,umpire,N Sivan
+info,umpire,V Kalidas
+info,reserve_umpire,Nasir Ali
+info,tv_umpire,Tabarak Dar
+info,match_referee,Edwin Seah
+info,winner,Kuwait
+info,winner_wickets,7
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,PK Matautaava
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,JD Allan
+info,player,Vanuatu,J Vira
+info,player,Vanuatu,W Wotu
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,TL Cutler
+info,player,Vanuatu,AL Stephen
+info,player,Vanuatu,D Wotu
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Mohammad Amin
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Nimish Lathief
+info,player,Kuwait,Parvindar Kumar
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Mohamed Shafeeq
+info,registry,people,AL Stephen,49f6d023
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,D Wotu,9585854d
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,J Vira,2090e94d
+info,registry,people,JD Allan,3758028b
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Mohammad Amin,01b45044
+info,registry,people,N Nipiko,c498c510
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,Nimish Lathief,b561e8ea
+info,registry,people,PK Matautaava,af19aa66
+info,registry,people,Parvindar Kumar,7a27bee5
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,R Tari,c4d19735
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,TL Cutler,384fa385
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Kalidas,42d76418
+info,registry,people,W Nalisa,673be48f
+info,registry,people,W Wotu,6b25ef46
+info,registry,people,Yasin Patel,ecdd8d60

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tamil Nadu
+info,team,Delhi
+info,gender,male
+info,season,2017/18
+info,date,2018/01/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Eden Gardens
+info,city,
+info,toss_winner,Delhi
+info,toss_decision,field
+info,winner,Delhi
+info,winner_wickets,8
+info,player,Tamil Nadu,K Bharath Shankar
+info,player,Tamil Nadu,Washington Sundar
+info,player,Tamil Nadu,GS Raju
+info,player,Tamil Nadu,B Aparajith
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,N Jagadeesan
+info,player,Tamil Nadu,R Sanjay Yadav
+info,player,Tamil Nadu,M Mohammed
+info,player,Tamil Nadu,R Sai Kishore
+info,player,Tamil Nadu,V Athisayaraj Davidson
+info,player,Tamil Nadu,Krishnamoorthy Vignesh
+info,player,Delhi,PJ Sangwan
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,P Negi
+info,player,Delhi,K Khejroliya
+info,player,Delhi,V Tokas
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,G Gambhir
+info,player,Delhi,RR Pant
+info,player,Delhi,DR Shorey
+info,player,Delhi,N Rana
+info,player,Delhi,Milind Kumar
+info,registry,people,B Aparajith,5b627626
+info,registry,people,DR Shorey,faa7365d
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,GS Raju,c07799c6
+info,registry,people,K Bharath Shankar,6099fd3f
+info,registry,people,K Khejroliya,fa2f1dde
+info,registry,people,Krishnamoorthy Vignesh,529fbf1b
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,M Mohammed,1b7c4d69
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,N Jagadeesan,bd54eef5
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Negi,f62772e5
+info,registry,people,PJ Sangwan,9fc0ef64
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,R Sanjay Yadav,33ffc3dd
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,V Athisayaraj Davidson,70eb694b
+info,registry,people,V Shankar,0994d0ae
+info,registry,people,V Tokas,cce2bcb2
+info,registry,people,Washington Sundar,f19ccfad

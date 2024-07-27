@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Glamorgan
+info,gender,male
+info,season,2024
+info,date,2024/06/23
+info,date,2024/06/24
+info,date,2024/06/25
+info,date,2024/06/26
+info,event,County Championship
+info,match_number,29
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Northamptonshire
+info,toss_decision,bat
+info,umpire,Hassan Adnan
+info,umpire,S Redfern
+info,match_referee,JJ Swift
+info,outcome,draw
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,PP Shaw
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,LA Patterson-White
+info,player,Northamptonshire,AH Miller
+info,player,Northamptonshire,RA Weatherall
+info,player,Northamptonshire,AK Russell
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,HW Podmore
+info,player,Glamorgan,JAR Harris
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,AW Gorvin
+info,registry,people,AH Miller,693af62a
+info,registry,people,AK Russell,a6f2b2ef
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,EN Gay,aa710a58
+info,registry,people,HW Podmore,43205dad
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,J Broad,ec5160d7
+info,registry,people,JAR Harris,f1ba9ed7
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Weatherall,acb94221
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,S Redfern,5b038989
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,WT Root,72898514

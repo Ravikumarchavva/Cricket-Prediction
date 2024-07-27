@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Hampshire
+info,gender,male
+info,season,2024
+info,date,2024/06/07
+info,event,Vitality Blast
+info,venue,"County Ground, Bristol"
+info,city,Bristol
+info,toss_winner,Hampshire
+info,toss_decision,field
+info,umpire,M Burns
+info,umpire,NJ Llong
+info,match_referee,AM Smith
+info,winner,Hampshire
+info,winner_wickets,5
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,CT Bancroft
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,BJ Webster
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,DA Payne
+info,player,Gloucestershire,AS Dale
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,JM Vince
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,TE Albert
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,MG Neser
+info,player,Hampshire,CP Wood
+info,player,Hampshire,JA Turner
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CP Wood,1cfac535
+info,registry,people,CT Bancroft,399b0b94
+info,registry,people,DA Payne,6c79c098
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MG Neser,0164b064
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,TE Albert,a6c17509

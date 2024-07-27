@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Kerala
+info,gender,male
+info,season,2021/22
+info,date,2021/11/16
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam"
+info,city,
+info,toss_winner,Kerala
+info,toss_decision,field
+info,winner,Kerala
+info,winner_wickets,8
+info,player,Himachal,Raghav Dhawan
+info,player,Himachal,AKS Bains
+info,player,Himachal,P Chopra
+info,player,Himachal,Nikhil Gangta
+info,player,Himachal,Akash Vasisht
+info,player,Himachal,R Dhawan
+info,player,Himachal,Digvijay Rangi
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,VG Arora
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,Ayush Jamwal
+info,player,Kerala,Unnikrishnan Manukrishnan
+info,player,Kerala,Suresh Vishweshwar
+info,player,Kerala,S Midhun
+info,player,Kerala,Basil Thampi
+info,player,Kerala,Jalaj S Saxena
+info,player,Kerala,MS Akhil
+info,player,Kerala,Rohan Kunnummal
+info,player,Kerala,Mohammed Azharuddeen
+info,player,Kerala,SV Samson
+info,player,Kerala,Sachin Baby
+info,player,Kerala,Vishnu Vinod
+info,registry,people,AKS Bains,cb932841
+info,registry,people,Akash Vasisht,35ccfdd4
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,Basil Thampi,871e9faf
+info,registry,people,Digvijay Rangi,8be38ec4
+info,registry,people,Jalaj S Saxena,249abedf
+info,registry,people,MS Akhil,c133943b
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,Mohammed Azharuddeen,4ae89f36
+info,registry,people,Nikhil Gangta,8812869d
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,R Dhawan,26a85969
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,Rohan Kunnummal,a6004ded
+info,registry,people,S Midhun,ade90de7
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sachin Baby,dc9dd038
+info,registry,people,Suresh Vishweshwar,8b1137f7
+info,registry,people,Unnikrishnan Manukrishnan,39dd4d6d
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,Vishnu Vinod,0494fa6e

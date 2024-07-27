@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gulf Giants
+info,team,Sharjah Warriors
+info,gender,male
+info,season,2023/24
+info,date,2024/01/19
+info,event,International League T20
+info,match_number,1
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Sharjah Warriors
+info,toss_decision,field
+info,player_of_match,J Overton
+info,umpire,Aleem Dar
+info,umpire,SJA Taufel
+info,reserve_umpire,Aasif Iqbal
+info,tv_umpire,P Wilson
+info,match_referee,SR Bernard
+info,winner,Gulf Giants
+info,winner_runs,31
+info,player,Gulf Giants,RJ Gleeson
+info,player,Gulf Giants,JL Smith
+info,player,Gulf Giants,JM Vince
+info,player,Gulf Giants,JM Cox
+info,player,Gulf Giants,SO Hetmyer
+info,player,Gulf Giants,Usman Khan
+info,player,Gulf Giants,Karim Janat
+info,player,Gulf Giants,J Overton
+info,player,Gulf Giants,CJ Jordan
+info,player,Gulf Giants,Mujeeb Ur Rahman
+info,player,Gulf Giants,Aayan Afzal Khan
+info,player,Gulf Giants,DC Drakes
+info,player,Sharjah Warriors,Qais Ahmad
+info,player,Sharjah Warriors,MJ Guptill
+info,player,Sharjah Warriors,J Charles
+info,player,Sharjah Warriors,T Kohler-Cadmore
+info,player,Sharjah Warriors,DR Sams
+info,player,Sharjah Warriors,L Gregory
+info,player,Sharjah Warriors,N Dickwella
+info,player,Sharjah Warriors,Basil Hameed
+info,player,Sharjah Warriors,CR Woakes
+info,player,Sharjah Warriors,CB Sole
+info,player,Sharjah Warriors,Muhammad Jawadullah
+info,player,Sharjah Warriors,M Theekshana
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,CB Sole,469ccead
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DC Drakes,34b332d3
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,J Charles,09a9d073
+info,registry,people,J Overton,59559bc2
+info,registry,people,JL Smith,c834c290
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Karim Janat,62175638
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,P Wilson,68304a36
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,RJ Gleeson,402f8494
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SR Bernard,800187dc
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,Usman Khan,bafb9238

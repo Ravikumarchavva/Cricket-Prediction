@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Western Storm
+info,team,The Blaze
+info,gender,female
+info,season,2023
+info,date,2023/06/07
+info,event,Charlotte Edwards Cup
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,The Blaze
+info,toss_decision,field
+info,umpire,AY Harris
+info,umpire,BJ Peverall
+info,match_referee,AM Smith
+info,winner,The Blaze
+info,winner_wickets,7
+info,player,Western Storm,NAJ Wraith
+info,player,Western Storm,N Holland
+info,player,Western Storm,O Prendergast
+info,player,Western Storm,FC Wilson
+info,player,Western Storm,SN Luff
+info,player,Western Storm,E Corney
+info,player,Western Storm,A Griffiths
+info,player,Western Storm,Sophia Smale
+info,player,Western Storm,MJ Robbins
+info,player,Western Storm,C Skelton
+info,player,Western Storm,C Nicholas
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,B Harmer
+info,player,The Blaze,GEB Boyce
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,M Kelly
+info,player,The Blaze,ML Kirk
+info,player,The Blaze,N de Klerk
+info,player,The Blaze,S Munro
+info,player,The Blaze,LF Higham
+info,player,The Blaze,J Groves
+info,player,The Blaze,G Ballinger
+info,registry,people,A Griffiths,091001f8
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AY Harris,90d95b82
+info,registry,people,B Harmer,f113df44
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,C Nicholas,efc40724
+info,registry,people,C Skelton,db362015
+info,registry,people,E Corney,2406424c
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,G Ballinger,2f485713
+info,registry,people,GEB Boyce,5b1f15fc
+info,registry,people,J Groves,11ff23e3
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,MJ Robbins,f929cd04
+info,registry,people,ML Kirk,2dece89c
+info,registry,people,N Holland,aefd0567
+info,registry,people,N de Klerk,ea544967
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,S Munro,b4e026de
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,SN Luff,e19307f3
+info,registry,people,Sophia Smale,c296dba1

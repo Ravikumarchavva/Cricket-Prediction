@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jaffna Kings
+info,team,B-Love Kandy
+info,gender,male
+info,season,2023
+info,date,2023/08/05
+info,event,Lanka Premier League
+info,match_number,9
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,B-Love Kandy
+info,toss_decision,field
+info,player_of_match,PWH de Silva
+info,umpire,HDPK Dharmasena
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,LE Hannibal
+info,tv_umpire,RR Wimalasiri
+info,match_referee,RS Madugalle
+info,winner,B-Love Kandy
+info,winner_wickets,8
+info,player,Jaffna Kings,Rahmanullah Gurbaz
+info,player,Jaffna Kings,KIC Asalanka
+info,player,Jaffna Kings,Towhid Hridoy
+info,player,Jaffna Kings,DA Miller
+info,player,Jaffna Kings,PARP Perera
+info,player,Jaffna Kings,NLTC Perera
+info,player,Jaffna Kings,DN Wellalage
+info,player,Jaffna Kings,V Viyaskanth
+info,player,Jaffna Kings,M Theekshana
+info,player,Jaffna Kings,N Thushara
+info,player,Jaffna Kings,N Burger
+info,player,B-Love Kandy,Fakhar Zaman
+info,player,B-Love Kandy,LD Chandimal
+info,player,B-Love Kandy,PWH de Silva
+info,player,B-Love Kandy,SSD Arachchige
+info,player,B-Love Kandy,PHKD Mendis
+info,player,B-Love Kandy,AD Mathews
+info,player,B-Love Kandy,Asif Ali
+info,player,B-Love Kandy,PVD Chameera
+info,player,B-Love Kandy,N Pradeep
+info,player,B-Love Kandy,I Udana
+info,player,B-Love Kandy,Mujeeb Ur Rahman
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Burger,465aa633
+info,registry,people,N Pradeep,2af838ee
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,PARP Perera,5f75a7c5
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,SSD Arachchige,c05f9d20
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,V Viyaskanth,03a83c50

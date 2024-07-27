@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Durban's Super Giants
+info,team,Paarl Royals
+info,gender,male
+info,season,2023/24
+info,date,2024/01/26
+info,event,SA20
+info,match_number,19
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,Durban's Super Giants
+info,toss_decision,bat
+info,player_of_match,Q de Kock
+info,umpire,RN Hendricks
+info,umpire,Stephen Harris
+info,reserve_umpire,A Steenkamp
+info,tv_umpire,Siphelele Gasa
+info,match_referee,SA Fritz
+info,winner,Durban's Super Giants
+info,winner_runs,57
+info,player,Durban's Super Giants,T de Zorzi
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,JT Smuts
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,MP Stoinis
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,RJW Topley
+info,player,Durban's Super Giants,Noor Ahmad
+info,player,Durban's Super Giants,Naveen-ul-Haq
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,WJ Lubbe
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,FA Allen
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,L Ngidi
+info,player,Paarl Royals,OC McCoy
+info,player,Paarl Royals,T Shamsi
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,WJ Lubbe,10f42013

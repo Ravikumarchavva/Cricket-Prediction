@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Derbyshire
+info,gender,male
+info,season,2023
+info,date,2023/08/22
+info,event,One-Day Cup
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Derbyshire
+info,toss_decision,field
+info,umpire,NA Mallender
+info,umpire,S Redfern
+info,match_referee,JJ Whitaker
+info,winner,Somerset
+info,winner_runs,72
+info,player,Somerset,GW Thomas
+info,player,Somerset,ARI Umeed
+info,player,Somerset,LP Goldsworthy
+info,player,Somerset,JEK Rew
+info,player,Somerset,SR Dickson
+info,player,Somerset,GA Bartlett
+info,player,Somerset,JF Thomas
+info,player,Somerset,DJ Lamb
+info,player,Somerset,EO Leonard
+info,player,Somerset,JH Davey
+info,player,Somerset,Shoaib Bashir
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,MJ Lamb
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,Anuj Dal
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,HJ Moore
+info,player,Derbyshire,S Conners
+info,registry,people,ARI Umeed,7a32c1c1
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,Anuj Dal,e142c599
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,DJ Lamb,27c5a793
+info,registry,people,EO Leonard,660538af
+info,registry,people,GA Bartlett,e2caec46
+info,registry,people,GW Thomas,f2e28b0c
+info,registry,people,HJ Moore,7578b730
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JEK Rew,521595e7
+info,registry,people,JF Thomas,bdd4bc21
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,LM Reece,9789e56e
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,MJ Lamb,463ebce3
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,S Conners,067bda18
+info,registry,people,S Redfern,5b038989
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,Shoaib Bashir,e36e9dd3
+info,registry,people,TA Wood,884f72a1

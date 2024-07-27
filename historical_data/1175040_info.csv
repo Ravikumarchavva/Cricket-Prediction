@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Delhi
+info,gender,male
+info,season,2018/19
+info,date,2019/03/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Holkar Stadium
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,bat
+info,winner,Delhi
+info,winner_wickets,4
+info,player,Uttar Pradesh,Upendra Yadav
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Shubham Chaubey
+info,player,Uttar Pradesh,Shiva Singh
+info,player,Uttar Pradesh,Ankit Chaudhary
+info,player,Uttar Pradesh,Yash Dayal
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Delhi,I Sharma
+info,player,Delhi,Navdeep Saini
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,P Negi
+info,player,Delhi,Pranshu Vijayran
+info,player,Delhi,Manjot Kalra
+info,player,Delhi,Hiten Dalal
+info,player,Delhi,UBT Chand
+info,player,Delhi,DR Shorey
+info,player,Delhi,N Rana
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Ankit Chaudhary,c0e59e39
+info,registry,people,DR Shorey,faa7365d
+info,registry,people,Hiten Dalal,74bace71
+info,registry,people,I Sharma,5bb1a1c4
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,Manjot Kalra,f047e7ff
+info,registry,people,Mohit Jangra,4052ab5c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,P Negi,f62772e5
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,Pranshu Vijayran,f0380005
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Shiva Singh,3b63b5cc
+info,registry,people,Shubham Chaubey,58588e5a
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,Upendra Yadav,80ffea17
+info,registry,people,Yash Dayal,7210d461

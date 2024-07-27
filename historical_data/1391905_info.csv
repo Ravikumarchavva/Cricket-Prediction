@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Canterbury
+info,gender,male
+info,season,2023/24
+info,date,2023/10/20
+info,date,2023/10/21
+info,date,2023/10/22
+info,event,Plunket Shield
+info,match_number,3
+info,venue,Cello Basin Reserve
+info,city,
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,SB Haig
+info,umpire,Kim Cotton
+info,match_referee,SRM Morris
+info,winner,Wellington Firebirds
+info,winner_runs,129
+info,player,Wellington Firebirds,TM Johnson
+info,player,Wellington Firebirds,NA Greenwood
+info,player,Wellington Firebirds,GR Severin
+info,player,Wellington Firebirds,NF Kelly
+info,player,Wellington Firebirds,MA Abbas
+info,player,Wellington Firebirds,CR McLachlan
+info,player,Wellington Firebirds,NG Smith
+info,player,Wellington Firebirds,PF Younghusband
+info,player,Wellington Firebirds,BV Sears
+info,player,Wellington Firebirds,MW Snedden
+info,player,Wellington Firebirds,JW Hartshorn
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,DJ Hunter
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,MWT Boyle
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,MJG Rippon
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,MD Rae
+info,player,Canterbury,EJ Nuttall
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,BV Sears,e1891e00
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,DJ Hunter,5ad111e6
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GR Severin,b1549dc0
+info,registry,people,JW Hartshorn,9f395b45
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MW Snedden,236c8ffb
+info,registry,people,MWT Boyle,b42d5053
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,SB Haig,811655b3
+info,registry,people,SRM Morris,74b402c6
+info,registry,people,TM Johnson,917f66da
+info,registry,people,ZGF Foulkes,30f92334

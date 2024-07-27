@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chattogram Challengers
+info,team,Sylhet Strikers
+info,gender,male
+info,season,2022/23
+info,date,2023/01/06
+info,event,Bangladesh Premier League
+info,match_number,1
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Sylhet Strikers
+info,toss_decision,field
+info,player_of_match,Rejaur Rahman
+info,umpire,Gazi Sohel
+info,umpire,Mahfuzur Rahman
+info,reserve_umpire,Ali Arman
+info,tv_umpire,RR Wimalasiri
+info,match_referee,Raqibul Hasan
+info,winner,Sylhet Strikers
+info,winner_wickets,8
+info,player,Chattogram Challengers,Mehedi Maruf
+info,player,Chattogram Challengers,Darwish Rasooli
+info,player,Chattogram Challengers,Al-Amin
+info,player,Chattogram Challengers,Shuvagata Hom
+info,player,Chattogram Challengers,Afif Hossain
+info,player,Chattogram Challengers,Usman Khan
+info,player,Chattogram Challengers,UBT Chand
+info,player,Chattogram Challengers,Mrittunjoy Chowdhury
+info,player,Chattogram Challengers,Nihaduzzaman
+info,player,Chattogram Challengers,PM Pushpakumara
+info,player,Chattogram Challengers,Mehedi Hasan Rana
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,CN Ackermann
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Akbar Ali
+info,player,Sylhet Strikers,NLTC Perera
+info,player,Sylhet Strikers,Imad Wasim
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Mohammad Amir
+info,player,Sylhet Strikers,Rejaur Rahman
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Akbar Ali,abae26ad
+info,registry,people,Al-Amin,ec72efc5
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,Darwish Rasooli,3b2114a5
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mehedi Hasan Rana,0b7363da
+info,registry,people,Mehedi Maruf,3361993b
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mrittunjoy Chowdhury,21b97584
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,NLTC Perera,0f12f9df
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nihaduzzaman,eca6dcb2
+info,registry,people,PM Pushpakumara,b529630e
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Raqibul Hasan,4c64cc8d
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Zakir Hasan,e3e09091

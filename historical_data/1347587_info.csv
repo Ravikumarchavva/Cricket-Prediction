@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/05/29
+info,event,Vitality Blast
+info,venue,"County Ground, New Road, Worcester"
+info,city,Worcester
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,AG Wharf
+info,umpire,ID Blackwell
+info,match_referee,SG Hinks
+info,winner,Worcestershire
+info,winner_runs,33
+info,player,Worcestershire,MG Bracewell
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,PR Brown
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,AM Lilley
+info,player,Leicestershire,Rehan Ahmed
+info,player,Leicestershire,HJ Swindells
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,Naseem Shah
+info,player,Leicestershire,WS Davis
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AM Lilley,88a004e9
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,HJ Swindells,95fd757d
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,Rehan Ahmed,0ecb4de6
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,WS Davis,078ffbf2

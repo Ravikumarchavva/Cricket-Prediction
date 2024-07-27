@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Chattogram Challengers
+info,gender,male
+info,season,2023/24
+info,date,2024/02/13
+info,event,Bangladesh Premier League
+info,match_number,29
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Chattogram Challengers
+info,toss_decision,field
+info,player_of_match,WG Jacks
+info,umpire,DK Butler
+info,umpire,Masudur Rahman
+info,reserve_umpire,Ali Arman
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,Akhtar Ahmad
+info,winner,Comilla Victorians
+info,winner_runs,73
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,WG Jacks
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,BD Guest
+info,player,Comilla Victorians,MM Ali
+info,player,Comilla Victorians,Mahidul Islam Ankon
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,MW Forde
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Rishad Hossain
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Chattogram Challengers,J Brown
+info,player,Chattogram Challengers,Tanzid Hasan
+info,player,Chattogram Challengers,TC Bruce
+info,player,Chattogram Challengers,Shahadat Hossain
+info,player,Chattogram Challengers,Shykat Ali
+info,player,Chattogram Challengers,C Campher
+info,player,Chattogram Challengers,Shuvagata Hom
+info,player,Chattogram Challengers,Shohidul Islam
+info,player,Chattogram Challengers,Nihaduzzaman
+info,player,Chattogram Challengers,Al-Amin Hossain
+info,player,Chattogram Challengers,Bilal Khan
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,C Campher,478a63e7
+info,registry,people,DK Butler,671398e3
+info,registry,people,J Brown,647e7d44
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mahidul Islam Ankon,dac6aabc
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nihaduzzaman,eca6dcb2
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Shahadat Hossain,69e23303
+info,registry,people,Shohidul Islam,607ed7c2
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Shykat Ali,288dd46e
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,WG Jacks,9caf69a1

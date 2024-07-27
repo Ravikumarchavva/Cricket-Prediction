@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Singapore
+info,gender,male
+info,season,2023/24
+info,date,2023/10/31
+info,event,ICC Men's T20 World Cup Asia Qualifier Final
+info,match_number,5
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Singapore
+info,toss_decision,field
+info,player_of_match,Aqib Ilyas
+info,umpire,Gazi Sohel
+info,umpire,LE Hannibal
+info,reserve_umpire,Rashid Riaz
+info,match_referee,Ali Naqvi
+info,winner,Oman
+info,winner_runs,22
+info,player,Oman,KH Prajapati
+info,player,Oman,PS Athavale
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Ayan Khan
+info,player,Oman,Mehran Khan
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Shoaib Khan
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Rohan
+info,player,Singapore,AE Paraam
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,Janak Prakash
+info,player,Singapore,TO Thilappan
+info,player,Singapore,A Chaudhary
+info,player,Singapore,A Krishna
+info,player,Singapore,R Kalimuthu
+info,player,Singapore,AR Puri
+info,registry,people,A Chaudhary,465fd722
+info,registry,people,A Krishna,13598ebc
+info,registry,people,AE Paraam,b56f5b6f
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Rohan,baf0fc26
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,TO Thilappan,44482748
+info,registry,people,Zeeshan Maqsood,34464143

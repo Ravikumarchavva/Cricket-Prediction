@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Oman
+info,gender,male
+info,season,2023
+info,date,2023/06/25
+info,event,ICC Cricket World Cup Qualifier
+info,match_number,16
+info,venue,Bulawayo Athletic Club
+info,city,Bulawayo
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,BJ McMullen
+info,umpire,AG Wharf
+info,umpire,BP Jele
+info,reserve_umpire,LS Reifer
+info,tv_umpire,I Chabi
+info,match_referee,ET Dube
+info,winner,Scotland
+info,winner_runs,76
+info,player,Scotland,CM McBride
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,player,Scotland,A Neill
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Ayan Khan
+info,player,Oman,Shoaib Khan
+info,player,Oman,Naseem Khushi
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Jay Odedra
+info,player,Oman,Bilal Khan
+info,registry,people,A Neill,4957b300
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,I Chabi,5e39110e
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Jay Odedra,526e006d
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,TSS Mackintosh,f5ef7ac3
+info,registry,people,Zeeshan Maqsood,34464143

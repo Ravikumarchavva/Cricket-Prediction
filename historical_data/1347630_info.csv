@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Birmingham Bears
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/06/09
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Birmingham Bears
+info,toss_decision,bat
+info,umpire,N Pratt
+info,umpire,PR Pollard
+info,match_referee,AJ Swann
+info,winner,Birmingham Bears
+info,winner_runs,30
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,RM Yates
+info,player,Birmingham Bears,MM Ali
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,GJ Maxwell
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,CG Benjamin
+info,player,Birmingham Bears,EG Barnard
+info,player,Birmingham Bears,Hasan Ali
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,CN Miles
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,CA Lynn
+info,player,Northamptonshire,JJ Cobb
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,JJG Sales
+info,player,Northamptonshire,AJ Tye
+info,player,Northamptonshire,FJ Heldreich
+info,player,Northamptonshire,AK Russell
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,AK Russell,a6f2b2ef
+info,registry,people,AL Davies,29ede60b
+info,registry,people,CA Lynn,45eda7c8
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DJ Willey,7f048519
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,JJ Cobb,58c481c6
+info,registry,people,JJG Sales,a63dfe8a
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RM Yates,3581a798
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TAI Taylor,867a45a7

@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Knights
+info,team,North-West Warriors
+info,gender,male
+info,season,2017
+info,date,2017/08/06
+info,event,Cricket Ireland Inter-Provincial Limited Over Cup
+info,match_number,5
+info,venue,"The Lawn, Waringstown"
+info,city,Waringstown
+info,toss_winner,Northern Knights
+info,toss_decision,bat
+info,umpire,MT Ross
+info,umpire,R Black
+info,reserve_umpire,Jareth McCready
+info,winner,North-West Warriors
+info,winner_wickets,1
+info,player,Northern Knights,NL Smith
+info,player,Northern Knights,C Dougherty
+info,player,Northern Knights,JA McCollum
+info,player,Northern Knights,JNK Shannon
+info,player,Northern Knights,A Dennison
+info,player,Northern Knights,GJ Thompson
+info,player,Northern Knights,GJ McCarter
+info,player,Northern Knights,LT Nelson
+info,player,Northern Knights,Nathan Smith
+info,player,Northern Knights,J Mulder
+info,player,Northern Knights,GE Kidd
+info,player,North-West Warriors,D Barr
+info,player,North-West Warriors,DA Rankin
+info,player,North-West Warriors,WTS Porterfield
+info,player,North-West Warriors,SR Thompson
+info,player,North-West Warriors,J Thompson
+info,player,North-West Warriors,AR McBrine
+info,player,North-West Warriors,RL Dougherty
+info,player,North-West Warriors,SA Britton
+info,player,North-West Warriors,SV Lazars
+info,player,North-West Warriors,R Allen
+info,player,North-West Warriors,D Scanlon
+info,registry,people,A Dennison,72b95896
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,C Dougherty,a2a0fa9a
+info,registry,people,D Barr,fefc7d47
+info,registry,people,D Scanlon,51c90542
+info,registry,people,DA Rankin,ab859427
+info,registry,people,GE Kidd,bd48593c
+info,registry,people,GJ McCarter,6232e1ed
+info,registry,people,GJ Thompson,91f0792f
+info,registry,people,J Mulder,6b64e7a3
+info,registry,people,J Thompson,f31ce798
+info,registry,people,JA McCollum,c7105dab
+info,registry,people,JNK Shannon,6e161a33
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,LT Nelson,f3c786ea
+info,registry,people,MT Ross,8c59e656
+info,registry,people,NL Smith,547408c8
+info,registry,people,Nathan Smith,3147131e
+info,registry,people,R Allen,415e5c01
+info,registry,people,R Black,156c8fb1
+info,registry,people,RL Dougherty,a124a56b
+info,registry,people,SA Britton,de43472d
+info,registry,people,SR Thompson,7f3ad1ed
+info,registry,people,SV Lazars,00784913
+info,registry,people,WTS Porterfield,ec02b798

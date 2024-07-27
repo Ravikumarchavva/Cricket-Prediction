@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Nepal
+info,gender,male
+info,season,2022/23
+info,date,2023/02/18
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,124
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,Aasif Sheikh
+info,umpire,BB Pradhan
+info,umpire,Rashid Riaz
+info,reserve_umpire,DN Subedi
+info,match_referee,Muhammad Javed
+info,winner,Nepal
+info,winner_wickets,3
+info,player,Namibia,L Louwrens
+info,player,Namibia,K Birkenstock
+info,player,Namibia,M van Lingen
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,HN Ya France
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,BM Scholtz
+info,player,Namibia,T Lungameni
+info,player,Namibia,B Shikongo
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,G Malla
+info,player,Nepal,Kushal Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,S Jora
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Karan KC
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,DS Airee,1747ea18
+info,registry,people,G Malla,b2e1d224
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,HN Ya France,915264c2
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,K Birkenstock,27b8d7b6
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,L Louwrens,b018e1eb
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,ZE Green,8716233e

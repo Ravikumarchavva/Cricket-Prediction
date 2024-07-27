@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,United States of America
+info,gender,male
+info,season,2023
+info,date,2023/03/30
+info,event,ICC Cricket World Cup Qualifier Play-off
+info,match_number,7
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,United Arab Emirates
+info,toss_decision,bat
+info,player_of_match,SR Mukkamalla
+info,umpire,A Louw
+info,umpire,Claus Schumacher
+info,reserve_umpire,C Phiri
+info,match_referee,O Chirombe
+info,winner,United States of America
+info,winner_wickets,5
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Rameez Shahzad
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Matiullah Khan
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,SJ Modani
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,MD Patel
+info,player,United States of America,Aaron Jones
+info,player,United States of America,G Singh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NK Patel
+info,player,United States of America,NP Kenjige
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,Ali Khan
+info,registry,people,A Louw,5eecae5d
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,C Phiri,ade73404
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,G Singh,e93b6c95
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Matiullah Khan,083e01d9
+info,registry,people,NK Patel,c6e10e5c
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,O Chirombe,6345307f
+info,registry,people,Rameez Shahzad,e045c165
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SJ Modani,290cba17
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

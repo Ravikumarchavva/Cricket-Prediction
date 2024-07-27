@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Los Angeles Knight Riders
+info,team,Washington Freedom
+info,gender,male
+info,season,2023
+info,date,2023/07/20
+info,event,Major League Cricket
+info,match_number,9
+info,venue,"Church Street Park, Morrisville"
+info,city,Morrisville
+info,toss_winner,Washington Freedom
+info,toss_decision,field
+info,player_of_match,AD Russell
+info,umpire,BV Taylor
+info,umpire,P Wilson
+info,reserve_umpire,C Edwards
+info,tv_umpire,Jermaine Lindo
+info,match_referee,SJA Taufel
+info,winner,Washington Freedom
+info,winner_wickets,6
+info,player,Los Angeles Knight Riders,JJ Roy
+info,player,Los Angeles Knight Riders,UBT Chand
+info,player,Los Angeles Knight Riders,NR Kumar
+info,player,Los Angeles Knight Riders,RR Rossouw
+info,player,Los Angeles Knight Riders,JS Malhotra
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,CA Dry
+info,player,Los Angeles Knight Riders,A Zampa
+info,player,Los Angeles Knight Riders,Ali Khan
+info,player,Los Angeles Knight Riders,SH Johnson
+info,player,Washington Freedom,MW Short
+info,player,Washington Freedom,AGS Gous
+info,player,Washington Freedom,Mukhtar Ahmed
+info,player,Washington Freedom,GD Phillips
+info,player,Washington Freedom,MC Henriques
+info,player,Washington Freedom,AJ Pienaar
+info,player,Washington Freedom,M Jansen
+info,player,Washington Freedom,AJ Hosein
+info,player,Washington Freedom,DL Piedt
+info,player,Washington Freedom,SN Netravalkar
+info,player,Washington Freedom,A Nortje
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,A Zampa,14f96089
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pienaar,647a48da
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BV Taylor,99760152
+info,registry,people,C Edwards,a072f223
+info,registry,people,CA Dry,7bc29ffb
+info,registry,people,DL Piedt,537f5ab2
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JS Malhotra,9633359f
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MW Short,a90e53ec
+info,registry,people,Mukhtar Ahmed,456f6d99
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,P Wilson,68304a36
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SP Narine,9d430b40
+info,registry,people,UBT Chand,0c94f480

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,male
+info,season,2002/03
+info,date,2003/03/11
+info,event,ICC World Cup
+info,venue,"St George's Park, Port Elizabeth"
+info,city,Gqeberha
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,SE Bond
+info,umpire,EAR de Silva
+info,umpire,SA Bucknor
+info,tv_umpire,BG Jerling
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,96
+info,player,Australia,AC Gilchrist
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,DS Lehmann
+info,player,Australia,MG Bevan
+info,player,Australia,GB Hogg
+info,player,Australia,IJ Harvey
+info,player,Australia,AJ Bichel
+info,player,Australia,B Lee
+info,player,Australia,GD McGrath
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,L Vincent
+info,player,New Zealand,CZ Harris
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,AR Adams
+info,player,New Zealand,SE Bond
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AJ Bichel,3cf83487
+info,registry,people,AR Adams,525c3f54
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CZ Harris,582e9baa
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DR Martyn,69762509
+info,registry,people,DS Lehmann,53fe6ee4
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,IJ Harvey,3227beb4
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,L Vincent,2764133a
+info,registry,people,MG Bevan,c500ec39
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,NJ Astle,99639abf
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SP Fleming,eea6b7f1

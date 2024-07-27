@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Joburg Super Kings
+info,team,MI Cape Town
+info,gender,male
+info,season,2022/23
+info,date,2023/02/06
+info,event,SA20
+info,match_number,29
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,MI Cape Town
+info,toss_decision,field
+info,player_of_match,JL du Plooy
+info,umpire,AT Holdstock
+info,umpire,M Erasmus
+info,reserve_umpire,Siphelele Gasa
+info,tv_umpire,A Paleker
+info,match_referee,ZTA Ndamane
+info,winner,Joburg Super Kings
+info,winner_runs,76
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,BS Makhanya
+info,player,Joburg Super Kings,MS Wade
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,KI Simmonds
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,G Coetzee
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,M Theekshana
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,WB Marshall
+info,player,MI Cape Town,G Roelofsen
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TH David
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,JC Archer
+info,player,MI Cape Town,K Rabada
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,BS Makhanya,1b42a100
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JC Archer,5574750c
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,JN Malan,f76d7466
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MS Wade,afa7e784
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,TH David,f1f99156
+info,registry,people,WB Marshall,2d7f2ba0
+info,registry,people,ZTA Ndamane,545cc6db

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kandy Falcons
+info,team,Dambulla Aura
+info,gender,male
+info,season,2022/23
+info,date,2022/12/13
+info,event,Lanka Premier League
+info,match_number,11
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Kandy Falcons
+info,toss_decision,bat
+info,player_of_match,PHKD Mendis
+info,umpire,GO Brathwaite
+info,umpire,RA Kottahachchi
+info,reserve_umpire,IC Soysa
+info,tv_umpire,RR Wimalasiri
+info,match_referee,PS Jayaprakashdaran
+info,winner,Kandy Falcons
+info,winner_runs,77
+info,player,Kandy Falcons,P Nissanka
+info,player,Kandy Falcons,ADS Fletcher
+info,player,Kandy Falcons,PHKD Mendis
+info,player,Kandy Falcons,KNA Bandara
+info,player,Kandy Falcons,Najibullah Zadran
+info,player,Kandy Falcons,PWH de Silva
+info,player,Kandy Falcons,CR Brathwaite
+info,player,Kandy Falcons,C Karunaratne
+info,player,Kandy Falcons,FA Allen
+info,player,Kandy Falcons,C Wijesinghe
+info,player,Kandy Falcons,I Udana
+info,player,Dambulla Aura,S Daniel
+info,player,Dambulla Aura,L Croospulle
+info,player,Dambulla Aura,JM Cox
+info,player,Dambulla Aura,PBB Rajapaksa
+info,player,Dambulla Aura,RTM Mendis
+info,player,Dambulla Aura,MD Shanaka
+info,player,Dambulla Aura,Sikandar Raza
+info,player,Dambulla Aura,PC de Silva
+info,player,Dambulla Aura,PA van Meekeren
+info,player,Dambulla Aura,PM Liyanagamage
+info,player,Dambulla Aura,Noor Ahmad
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,C Wijesinghe,0a2d45b0
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,IC Soysa,717a7971
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,L Croospulle,e30c9b2d
+info,registry,people,M Bhanuka,684d21d7
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PM Liyanagamage,3ee0050f
+info,registry,people,PS Jayaprakashdaran,5e6c7237
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,S Daniel,a38e7be7
+info,registry,people,Sikandar Raza,26d041c4

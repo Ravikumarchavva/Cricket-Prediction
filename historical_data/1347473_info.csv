@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South East Stars
+info,team,Western Storm
+info,gender,female
+info,season,2023
+info,date,2023/05/28
+info,event,Charlotte Edwards Cup
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Western Storm
+info,toss_decision,field
+info,umpire,BJ Peverall
+info,umpire,WRP Fernando
+info,match_referee,SM Bartlett
+info,winner,South East Stars
+info,winner_runs,5
+info,player,South East Stars,BF Smith
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,A Capsey
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,FR Davies
+info,player,South East Stars,CAR Cooper
+info,player,South East Stars,D Gregory
+info,player,Western Storm,NAJ Wraith
+info,player,Western Storm,DR Gibson
+info,player,Western Storm,HC Knight
+info,player,Western Storm,FC Wilson
+info,player,Western Storm,O Prendergast
+info,player,Western Storm,SN Luff
+info,player,Western Storm,A Griffiths
+info,player,Western Storm,N Holland
+info,player,Western Storm,L Filer
+info,player,Western Storm,Sophia Smale
+info,player,Western Storm,C Skelton
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Griffiths,091001f8
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,C Skelton,db362015
+info,registry,people,CAR Cooper,20af5f5f
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,DR Gibson,d2763568
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,FR Davies,2479daa6
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,L Filer,31adb911
+info,registry,people,N Holland,aefd0567
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SN Luff,e19307f3
+info,registry,people,Sophia Smale,c296dba1
+info,registry,people,WRP Fernando,7d98d385

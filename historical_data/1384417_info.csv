@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,South Africa
+info,gender,male
+info,season,2023/24
+info,date,2023/10/27
+info,event,ICC Cricket World Cup
+info,match_number,26
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,T Shamsi
+info,umpire,AG Wharf
+info,umpire,PR Reiffel
+info,reserve_umpire,RA Kettleborough
+info,tv_umpire,RK Illingworth
+info,match_referee,RB Richardson
+info,winner,South Africa
+info,winner_wickets,1
+info,player,Pakistan,Usama Mir
+info,player,Pakistan,Abdullah Shafique
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Saud Shakeel
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Mohammad Wasim
+info,player,Pakistan,Haris Rauf
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,G Coetzee
+info,player,South Africa,KA Maharaj
+info,player,South Africa,L Ngidi
+info,player,South Africa,T Shamsi
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,Usama Mir,6dd8b88c

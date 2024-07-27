@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Worcestershire
+info,team,Derbyshire
+info,gender,male
+info,season,2023
+info,date,2023/07/02
+info,event,Vitality Blast
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Worcestershire
+info,toss_decision,bat
+info,umpire,MA Gough
+info,umpire,Tom Lungley
+info,match_referee,JJ Whitaker
+info,winner,Worcestershire
+info,winner_runs,28
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,JA Haynes
+info,player,Worcestershire,MJ Santner
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,Kashif Ali
+info,player,Worcestershire,OB Cox
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,Usama Mir
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,DY Pennington
+info,player,Worcestershire,PR Brown
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,DY Pennington,219cc59e
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,Kashif Ali,f3b26fe4
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,PR Brown,1efd12d1
+info,registry,people,TA Wood,884f72a1
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11

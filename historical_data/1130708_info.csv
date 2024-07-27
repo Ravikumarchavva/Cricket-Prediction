@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maharashtra
+info,team,Baroda
+info,gender,male
+info,season,2017/18
+info,date,2018/01/13
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Saurashtra Cricket Association Stadium
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,bat
+info,winner,Baroda
+info,winner_wickets,5
+info,player,Maharashtra,SM Gugale
+info,player,Maharashtra,VH Zol
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,SS Mundhe
+info,player,Maharashtra,AR Bawne
+info,player,Maharashtra,SM Kazi
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,DJ Muthuswami
+info,player,Maharashtra,SM Fallah
+info,player,Baroda,DJ Hooda
+info,player,Baroda,A Sheth
+info,player,Baroda,RT Arothe
+info,player,Baroda,LI Meriwala
+info,player,Baroda,Soaeb Tai
+info,player,Baroda,Swapnil Singh
+info,player,Baroda,KH Pandya
+info,player,Baroda,KH Devdhar
+info,player,Baroda,Urvil Patel
+info,player,Baroda,Vishnu Solanki
+info,player,Baroda,AS Karambelkar
+info,registry,people,A Sheth,4312e8f9
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,AS Karambelkar,79194080
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DJ Muthuswami,2c76b512
+info,registry,people,KH Devdhar,62e07f92
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,LI Meriwala,d3611425
+info,registry,people,NA Rathva,8f607eea
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RT Arothe,50455929
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SM Gugale,fdf8d681
+info,registry,people,SM Kazi,868e3639
+info,registry,people,SS Mundhe,0af3426f
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Soaeb Tai,c915ee65
+info,registry,people,Swapnil Singh,983f2f61
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,VH Zol,6dbcf855
+info,registry,people,Vishnu Solanki,2e802011

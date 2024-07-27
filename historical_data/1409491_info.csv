@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Northern Districts
+info,gender,male
+info,season,2023/24
+info,date,2024/01/09
+info,event,Super Smash
+info,match_number,18
+info,venue,"Hagley Oval, Christchurch"
+info,city,Christchurch
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,player_of_match,MJ Hay
+info,umpire,CM Brown
+info,umpire,SB Haig
+info,reserve_umpire,DJ Henderson
+info,tv_umpire,Damian Morrow
+info,match_referee,GAV Baxter
+info,winner,Canterbury
+info,winner_runs,33
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,TWM Latham
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,MJ Hay
+info,player,Canterbury,MJG Rippon
+info,player,Canterbury,BJ Jacobs
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,AW McKenzie
+info,player,Canterbury,MD Rae
+info,player,Canterbury,W O'Rourke
+info,player,Northern Districts,KD Clarke
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,JA Raval
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,BR Hampton
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,TJG Pringle
+info,player,Northern Districts,KDC Clarke
+info,player,Northern Districts,FL Walker
+info,player,Northern Districts,MJ Fisher
+info,registry,people,AW McKenzie,b53136ce
+info,registry,people,BJ Jacobs,972f217b
+info,registry,people,BR Hampton,93f25f4f
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DJ Henderson,76e3c08f
+info,registry,people,Damian Morrow,0fb1f503
+info,registry,people,FL Walker,e6e154e3
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JF Carter,125fa4de
+info,registry,people,KD Clarke,7a12be0a
+info,registry,people,KDC Clarke,1e1a8922
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MJ Fisher,7068c81e
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,SB Haig,811655b3
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,ZGF Foulkes,30f92334

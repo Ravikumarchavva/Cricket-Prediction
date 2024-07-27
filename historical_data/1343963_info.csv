@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Durban's Super Giants
+info,gender,male
+info,season,2022/23
+info,date,2023/02/02
+info,event,SA20
+info,match_number,23
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Durban's Super Giants
+info,toss_decision,field
+info,player_of_match,Q de Kock
+info,umpire,A Jacobs
+info,umpire,S George
+info,reserve_umpire,DJ Smith
+info,tv_umpire,Stephen Harris
+info,match_referee,ZTA Ndamane
+info,winner,Durban's Super Giants
+info,winner_wickets,5
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,G Roelofsen
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TH David
+info,player,MI Cape Town,OF Smith
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,D Jansen
+info,player,MI Cape Town,Rashid Khan
+info,player,MI Cape Town,BE Hendricks
+info,player,MI Cape Town,K Rabada
+info,player,Durban's Super Giants,Q de Kock
+info,player,Durban's Super Giants,BR McDermott
+info,player,Durban's Super Giants,MP Breetzke
+info,player,Durban's Super Giants,KMA Paul
+info,player,Durban's Super Giants,H Klaasen
+info,player,Durban's Super Giants,PWA Mulder
+info,player,Durban's Super Giants,DJ Willey
+info,player,Durban's Super Giants,D Pretorius
+info,player,Durban's Super Giants,SR Harmer
+info,player,Durban's Super Giants,KA Maharaj
+info,player,Durban's Super Giants,RJW Topley
+info,registry,people,A Jacobs,70d117de
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Jansen,8dc152d1
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DJ Willey,7f048519
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GF Linde,e5437608
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KMA Paul,75224f22
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,OF Smith,23cca426
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S George,6d9e5a54
+info,registry,people,SR Harmer,23638956
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,TH David,f1f99156
+info,registry,people,ZTA Ndamane,545cc6db

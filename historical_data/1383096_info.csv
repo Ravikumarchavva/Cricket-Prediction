@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Philippines
+info,gender,male
+info,season,2023
+info,date,2023/07/26
+info,event,ICC Men's T20 World Cup East Asia-Pacific Qualifier
+info,match_number,8
+info,venue,"Amini Park, Port Moresby"
+info,city,Port Moresby
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,S Ravichandran
+info,umpire,A Kapa
+info,umpire,SB Haig
+info,reserve_umpire,CA Polosak
+info,match_referee,WC Labrooy
+info,winner,Japan
+info,winner_runs,33
+info,player,Japan,A Patmore
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,I Takahashi
+info,player,Japan,S Ravichandran
+info,player,Japan,D Suzuki
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,W Miyauchi
+info,player,Japan,MM Siddique
+info,player,Japan,P Kumbhare
+info,player,Japan,R Drake
+info,player,Philippines,AS Samra
+info,player,Philippines,GR Russ
+info,player,Philippines,JEA Doctora
+info,player,Philippines,DC Smith
+info,player,Philippines,M Podosky
+info,player,Philippines,G Chohan
+info,player,Philippines,KDA Lukies
+info,player,Philippines,Huzaifa Mohammed
+info,player,Philippines,H Isorena
+info,player,Philippines,ASF Sirah
+info,player,Philippines,LJ Myott
+info,registry,people,A Kapa,7c9c0f18
+info,registry,people,A Patmore,85119526
+info,registry,people,AS Samra,bf976fb0
+info,registry,people,ASF Sirah,06bcade5
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,DC Smith,a968d39b
+info,registry,people,G Chohan,b978780e
+info,registry,people,GR Russ,1f28fdfd
+info,registry,people,H Isorena,243a2cf1
+info,registry,people,Huzaifa Mohammed,65a29a30
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,JEA Doctora,43449b1e
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,K Kubota,42581e6d
+info,registry,people,KDA Lukies,14af45c4
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,LJ Myott,3f9d95f9
+info,registry,people,M Podosky,c46999c7
+info,registry,people,MM Siddique,48024cf4
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,R Drake,57b3c398
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,SB Haig,811655b3
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,WC Labrooy,29d4e29b

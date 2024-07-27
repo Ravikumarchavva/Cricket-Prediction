@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,New Zealand
+info,gender,male
+info,season,2023
+info,date,2023/05/03
+info,event,New Zealand tour of Pakistan
+info,match_number,3
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,Imam-ul-Haq
+info,umpire,Faisal Afridi
+info,umpire,L Rusere
+info,reserve_umpire,Rashid Riaz
+info,tv_umpire,JS Wilson
+info,match_referee,BC Broad
+info,winner,Pakistan
+info,winner_runs,26
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Abdullah Shafique
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Agha Salman
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Mohammad Wasim
+info,player,Pakistan,Naseem Shah
+info,player,New Zealand,WA Young
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,CE McConchie
+info,player,New Zealand,AF Milne
+info,player,New Zealand,HB Shipley
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,MJ Henry
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,Agha Salman,89c16049
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HB Shipley,5426de63
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WA Young,8afe73e2

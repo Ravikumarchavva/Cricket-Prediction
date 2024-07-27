@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Zimbabwe
+info,gender,male
+info,season,2022/23
+info,date,2023/01/18
+info,event,Ireland tour of Zimbabwe
+info,match_number,1
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,RP Burl
+info,umpire,I Chabi
+info,umpire,MA Gough
+info,reserve_umpire,C Phiri
+info,tv_umpire,L Rusere
+info,match_referee,AJ Pycroft
+info,winner,Zimbabwe
+info,winner_wickets,3
+info,method,D/L
+info,player,Ireland,PR Stirling
+info,player,Ireland,ST Doheny
+info,player,Ireland,A Balbirnie
+info,player,Ireland,HT Tector
+info,player,Ireland,GH Dockrell
+info,player,Ireland,C Campher
+info,player,Ireland,L Tucker
+info,player,Ireland,AR McBrine
+info,player,Ireland,MR Adair
+info,player,Ireland,GI Hume
+info,player,Ireland,J Little
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,GS Ballance
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,VM Nyauchi
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,B Evans,e7e86505
+info,registry,people,C Campher,478a63e7
+info,registry,people,C Madande,3560a786
+info,registry,people,C Phiri,ade73404
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,GS Ballance,755a77c6
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,J Little,9061a703
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,ST Doheny,4992d6f6
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TE Kane,af28816c
+info,registry,people,VM Nyauchi,1bd16445
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378

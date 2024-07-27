@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Dolphins
+info,gender,male
+info,season,2022/23
+info,date,2022/10/26
+info,event,CSA T20 Challenge
+info,match_number,17
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Lions
+info,toss_decision,bat
+info,umpire,RN Hendricks
+info,umpire,Siphelele Gasa
+info,reserve_umpire,BM White
+info,tv_umpire,Stephen Harris
+info,match_referee,GH Pienaar
+info,winner,Dolphins
+info,winner_wickets,9
+info,player,Lions,RD Rickelton
+info,player,Lions,CS Delport
+info,player,Lions,M Van Buuren
+info,player,Lions,PWA Mulder
+info,player,Lions,E Jones
+info,player,Lions,MP Siboto
+info,player,Lions,M Manack
+info,player,Lions,Codi Yusuf
+info,player,Lions,A Myoli
+info,player,Lions,T Bokako
+info,player,Lions,TM Maphaka
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,KD Petersen
+info,player,Dolphins,JT Smuts
+info,player,Dolphins,TA Dithole
+info,player,Dolphins,K Zondo
+info,player,Dolphins,JF Smith
+info,player,Dolphins,A Simelane
+info,player,Dolphins,E Bosch
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,OEG Baartman
+info,player,Dolphins,DM Dupavillon
+info,registry,people,A Myoli,c50bfbc2
+info,registry,people,A Simelane,ebb74564
+info,registry,people,BM White,66c21d35
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KD Petersen,bf64dc29
+info,registry,people,M Manack,2cd3b457
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bokako,032e4384
+info,registry,people,TA Dithole,876bec53
+info,registry,people,TM Maphaka,595f565e

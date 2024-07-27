@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hobart Hurricanes
+info,team,Brisbane Heat
+info,gender,female
+info,season,2023/24
+info,date,2023/11/04
+info,event,Women's Big Bash League
+info,match_number,24
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Brisbane Heat
+info,toss_decision,field
+info,player_of_match,AC Kerr
+info,umpire,MW Graham-Smith
+info,umpire,M Qureshi
+info,match_referee,David Johnston
+info,winner,Brisbane Heat
+info,winner_wickets,6
+info,player,Hobart Hurricanes,L Lee
+info,player,Hobart Hurricanes,EJ Villani
+info,player,Hobart Hurricanes,BF Smith
+info,player,Hobart Hurricanes,H Graham
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,NE Stalenberg
+info,player,Hobart Hurricanes,R Johnston
+info,player,Hobart Hurricanes,H Silver-holmes
+info,player,Hobart Hurricanes,M Strano
+info,player,Hobart Hurricanes,A Smith
+info,player,Hobart Hurricanes,S Ismail
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,M du Preez
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,BAM Heath
+info,player,Brisbane Heat,M Hinkley
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,registry,people,A Smith,b125ce63
+info,registry,people,AC Kerr,7673c908
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,David Johnston,92cef862
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,H Graham,99812d10
+info,registry,people,H Silver-holmes,2bfc7199
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,L Lee,7b01ce83
+info,registry,people,M Hinkley,3812165d
+info,registry,people,M Qureshi,cf34fbef
+info,registry,people,M Strano,f57d5dbb
+info,registry,people,M du Preez,e219f17a
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,R Johnston,3cd107a7
+info,registry,people,S Ismail,108c4c09

@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Leicestershire
+info,gender,male
+info,season,2024
+info,date,2024/07/05
+info,event,Vitality Blast
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,Naeem Ashraf
+info,umpire,NA Mallender
+info,match_referee,AM Smith
+info,outcome,no result
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,BJR Martindale
+info,player,Nottinghamshire,BM Duckett
+info,player,Nottinghamshire,JA Haynes
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,CG Harrison
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,Fazalhaq Farooqi
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,PR Stirling
+info,player,Leicestershire,SG Budinger
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,JDS Neesham
+info,player,Leicestershire,BWM Mike
+info,player,Leicestershire,OB Cox
+info,player,Leicestershire,LP Goldsworthy
+info,player,Leicestershire,J Hull
+info,player,Leicestershire,RI Walker
+info,player,Leicestershire,SB Wood
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,BJR Martindale,a81cac82
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,BWM Mike,ed12fcd7
+info,registry,people,CG Harrison,f655d740
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,J Hull,1cc0a83d
+info,registry,people,JA Haynes,fe4ebca0
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LP Goldsworthy,ed47cb25
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,OB Cox,324a6ee1
+info,registry,people,OP Stone,3f659464
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RI Walker,c78a879c
+info,registry,people,RK Patel,4531f249
+info,registry,people,SB Wood,c2d9b9cd
+info,registry,people,SG Budinger,bfc60227
+info,registry,people,TJ Moores,85dcb721

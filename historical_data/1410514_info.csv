@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thunder
+info,team,South East Stars
+info,gender,female
+info,season,2024
+info,date,2024/05/24
+info,event,Charlotte Edwards Cup
+info,match_number,7
+info,venue,"Kent County Cricket Ground, Beckenham"
+info,city,Beckenham
+info,toss_winner,South East Stars
+info,toss_decision,field
+info,umpire,BJ Peverall
+info,umpire,WRP Fernando
+info,match_referee,SM Bartlett
+info,winner,South East Stars
+info,winner_wickets,5
+info,player,Thunder,EL Lamb
+info,player,Thunder,FMK Morris
+info,player,Thunder,S Smale
+info,player,Thunder,E Threlkeld
+info,player,Thunder,DL Collins
+info,player,Thunder,A Lister
+info,player,Thunder,L Heap
+info,player,Thunder,TG Norris
+info,player,Thunder,L Jackson
+info,player,Thunder,PC Graham
+info,player,Thunder,HE Jones
+info,player,South East Stars,BF Smith
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,K Moore
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,D Gregory
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,A Lister,090c0213
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,BJ Peverall,3e04e05a
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,DL Collins,246ba42c
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,HE Jones,f7b74efa
+info,registry,people,K Moore,d12c8445
+info,registry,people,L Heap,8d26dfab
+info,registry,people,L Jackson,68ac12a0
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,S Smale,3247d54e
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,TG Norris,8ae7bb3e
+info,registry,people,WRP Fernando,7d98d385

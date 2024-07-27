@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Barmy Army
+info,team,Spirit
+info,gender,female
+info,season,2023
+info,date,2023/04/16
+info,event,FairBreak Invitational Tournament
+info,venue,Kowloon Cricket Club
+info,city,Kowloon
+info,toss_winner,Spirit
+info,toss_decision,field
+info,player_of_match,DJS Dottin
+info,umpire,John Prakash
+info,umpire,Sarika Prasad
+info,reserve_umpire,Humaira Farah
+info,tv_umpire,Tabarak Dar
+info,match_referee,SR Bernard
+info,winner,Barmy Army
+info,winner_runs,22
+info,player,Barmy Army,L Winfield-Hill
+info,player,Barmy Army,KKN Egodage
+info,player,Barmy Army,RMAM Avery
+info,player,Barmy Army,DJS Dottin
+info,player,Barmy Army,KK Gill
+info,player,Barmy Army,SA Campbelle
+info,player,Barmy Army,Rumana Ahmed
+info,player,Barmy Army,Fatima Sana
+info,player,Barmy Army,RC Belbashi
+info,player,Barmy Army,Ruchitha Venkatesh
+info,player,Barmy Army,L Cardoso
+info,player,Spirit,SJ Bryce
+info,player,Spirit,N Chantam
+info,player,Spirit,N Chaiwai
+info,player,Spirit,GC Bhogle
+info,player,Spirit,KA Tomlinson
+info,player,Spirit,NJ Carey
+info,player,Spirit,Y Daswani
+info,player,Spirit,M Gaur
+info,player,Spirit,A Khaka
+info,player,Spirit,S Miyaji
+info,player,Spirit,Chan Ka Man
+info,registry,people,A Khaka,0d518f89
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GC Bhogle,a1965ce2
+info,registry,people,Humaira Farah,6b6d6623
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,KA Tomlinson,83d6e306
+info,registry,people,KK Gill,b3f390aa
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,L Cardoso,5777d460
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,RMAM Avery,4cf645c9
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,Rumana Ahmed,a92763ea
+info,registry,people,S Miyaji,3aca2ed5
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,SR Bernard,800187dc
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Y Daswani,2038a273

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bengal
+info,team,Maharashtra
+info,gender,male
+info,season,2018/19
+info,date,2019/03/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_wickets,7
+info,player,Bengal,SP Goswami
+info,player,Bengal,WP Saha
+info,player,Bengal,AR Easwaran
+info,player,Bengal,MK Tiwary
+info,player,Bengal,Vivek Singh
+info,player,Bengal,Ritwik Roy Chowdhury
+info,player,Bengal,Shahbaz Ahmed
+info,player,Bengal,Akash Deep
+info,player,Bengal,AB Dinda
+info,player,Bengal,IC Porel
+info,player,Bengal,Sayan Ghosh
+info,player,Maharashtra,SM Fallah
+info,player,Maharashtra,DJ Muthuswami
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,RH Motwani
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,AR Bawne
+info,registry,people,AB Dinda,66b30f71
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,AR Easwaran,10b58586
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,DJ Muthuswami,2c76b512
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,IC Porel,fdf7491e
+info,registry,people,MK Tiwary,26e5cabf
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RH Motwani,40fd2e48
+info,registry,people,Ritwik Roy Chowdhury,6033d30a
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SP Goswami,541f85c9
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Sayan Ghosh,d4b8ea98
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Vivek Singh,a446c7be
+info,registry,people,WP Saha,fe11caa6

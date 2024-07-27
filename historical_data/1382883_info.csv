@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Dambulla Aura
+info,team,B-Love Kandy
+info,gender,male
+info,season,2023
+info,date,2023/08/04
+info,event,Lanka Premier League
+info,match_number,6
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,Dambulla Aura
+info,toss_decision,bat
+info,player_of_match,Mujeeb Ur Rahman
+info,umpire,Gazi Sohel
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,RA Kottahachchi
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,BCMS Mendis
+info,winner,B-Love Kandy
+info,winner_wickets,7
+info,player,Dambulla Aura,WIA Fernando
+info,player,Dambulla Aura,BKG Mendis
+info,player,Dambulla Aura,S Samarawickrama
+info,player,Dambulla Aura,MDKJ Perera
+info,player,Dambulla Aura,DM de Silva
+info,player,Dambulla Aura,AI Ross
+info,player,Dambulla Aura,H Kerr
+info,player,Dambulla Aura,B Fernando
+info,player,Dambulla Aura,Shahnawaz Dhani
+info,player,Dambulla Aura,RS Fernando
+info,player,Dambulla Aura,Noor Ahmad
+info,player,B-Love Kandy,Fakhar Zaman
+info,player,B-Love Kandy,LD Chandimal
+info,player,B-Love Kandy,PHKD Mendis
+info,player,B-Love Kandy,AD Mathews
+info,player,B-Love Kandy,Asif Ali
+info,player,B-Love Kandy,KNA Bandara
+info,player,B-Love Kandy,PWH de Silva
+info,player,B-Love Kandy,PVD Chameera
+info,player,B-Love Kandy,Mohammad Hasnain
+info,player,B-Love Kandy,I Udana
+info,player,B-Love Kandy,Mujeeb Ur Rahman
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AI Ross,fb0d68b4
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BCMS Mendis,e3f6e4ac
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,H Kerr,f422728b
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RS Fernando,24d72446
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Shahnawaz Dhani,7ccbb09f
+info,registry,people,WIA Fernando,9550470d

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Seattle Orcas
+info,team,Los Angeles Knight Riders
+info,gender,male
+info,season,2023
+info,date,2023/07/23
+info,event,Major League Cricket
+info,match_number,12
+info,venue,"Church Street Park, Morrisville"
+info,city,Morrisville
+info,toss_winner,Los Angeles Knight Riders
+info,toss_decision,field
+info,player_of_match,RR Rossouw
+info,umpire,BV Taylor
+info,umpire,Reon King
+info,reserve_umpire,Vijaya Mallela
+info,tv_umpire,WR Knights
+info,match_referee,C Edwards
+info,winner,Los Angeles Knight Riders
+info,winner_wickets,2
+info,player,Seattle Orcas,Q de Kock
+info,player,Seattle Orcas,Nauman Anwar
+info,player,Seattle Orcas,GSNFG Jayasuriya
+info,player,Seattle Orcas,H Klaasen
+info,player,Seattle Orcas,Shubham Ranjane
+info,player,Seattle Orcas,MD Shanaka
+info,player,Seattle Orcas,Imad Wasim
+info,player,Seattle Orcas,AJ Tye
+info,player,Seattle Orcas,CJ Gannon
+info,player,Seattle Orcas,WD Parnell
+info,player,Seattle Orcas,Harmeet Singh
+info,player,Los Angeles Knight Riders,JJ Roy
+info,player,Los Angeles Knight Riders,JS Malhotra
+info,player,Los Angeles Knight Riders,G Singh
+info,player,Los Angeles Knight Riders,RR Rossouw
+info,player,Los Angeles Knight Riders,Saif Badar
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,SC van Schalkwyk
+info,player,Los Angeles Knight Riders,A Zampa
+info,player,Los Angeles Knight Riders,SH Johnson
+info,player,Los Angeles Knight Riders,Ali Khan
+info,registry,people,A Zampa,14f96089
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Tye,7c7d63a2
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BV Taylor,99760152
+info,registry,people,C Edwards,a072f223
+info,registry,people,CJ Gannon,519c30cb
+info,registry,people,G Singh,e93b6c95
+info,registry,people,GSNFG Jayasuriya,b58b7db6
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JS Malhotra,9633359f
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Nauman Anwar,d0540390
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Saif Badar,e5d452d7
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WR Knights,63cbf8d8

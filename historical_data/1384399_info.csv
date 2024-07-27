@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Pakistan
+info,gender,male
+info,season,2023/24
+info,date,2023/10/10
+info,event,ICC Cricket World Cup
+info,match_number,8
+info,venue,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+info,city,Hyderabad
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,Mohammad Rizwan
+info,umpire,AG Wharf
+info,umpire,CB Gaffaney
+info,reserve_umpire,RJ Tucker
+info,tv_umpire,Nitin Menon
+info,match_referee,AJ Pycroft
+info,winner,Pakistan
+info,winner_wickets,6
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,DN Wellalage
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,D Madushanka
+info,player,Pakistan,Abdullah Shafique
+info,player,Pakistan,Imam-ul-Haq
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Saud Shakeel
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Hasan Ali
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Abdullah Shafique,fc2fffb5
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hasan Ali,2911de16
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imam-ul-Haq,40c041ea
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Saud Shakeel,d07c1b2f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761

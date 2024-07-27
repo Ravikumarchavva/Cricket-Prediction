@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Middlesex
+info,gender,male
+info,season,2024
+info,date,2024/06/13
+info,event,Vitality Blast
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,BJ Debenham
+info,umpire,Chris Watts
+info,match_referee,AM Smith
+info,winner,Essex
+info,winner_runs,16
+info,method,D/L
+info,player,Essex,AM Rossington
+info,player,Essex,D Elgar
+info,player,Essex,MS Pepper
+info,player,Essex,JM Cox
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,LM Benkenstein
+info,player,Essex,S Snater
+info,player,Essex,Aaron Beard
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,JB Cracknell
+info,player,Middlesex,JLB Davies
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,TG Helm
+info,player,Middlesex,HJH Brookes
+info,player,Middlesex,BC Cullen
+info,player,Middlesex,NB Cornwell
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BC Cullen,39180894
+info,registry,people,BJ Debenham,524a3a82
+info,registry,people,Chris Watts,3cfb1554
+info,registry,people,D Elgar,33085ffb
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,JB Cracknell,dd6e32da
+info,registry,people,JLB Davies,76dc16d4
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,NB Cornwell,8f08313a
+info,registry,people,PI Walter,57590dbb
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,S Snater,a790df98
+info,registry,people,SR Harmer,23638956
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TG Helm,74a274cc

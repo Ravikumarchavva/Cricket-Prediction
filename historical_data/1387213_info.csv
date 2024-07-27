@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Melbourne Stars
+info,team,Hobart Hurricanes
+info,gender,female
+info,season,2023/24
+info,date,2023/11/17
+info,event,Women's Big Bash League
+info,match_number,42
+info,venue,"Allan Border Field, Brisbane"
+info,city,Brisbane
+info,toss_winner,Hobart Hurricanes
+info,toss_decision,field
+info,player_of_match,L Lee
+info,umpire,D Taylor
+info,umpire,N James
+info,tv_umpire,SE Dionysius
+info,match_referee,Kepler Wessels
+info,winner,Hobart Hurricanes
+info,winner_wickets,8
+info,player,Melbourne Stars,MM Lanning
+info,player,Melbourne Stars,ME Bouchier
+info,player,Melbourne Stars,A Capsey
+info,player,Melbourne Stars,A Sutherland
+info,player,Melbourne Stars,SIR Dunkley
+info,player,Melbourne Stars,T Flintoff
+info,player,Melbourne Stars,S Reid
+info,player,Melbourne Stars,KJ Garth
+info,player,Melbourne Stars,SK Moloney
+info,player,Melbourne Stars,MH Illingworth
+info,player,Melbourne Stars,S Day
+info,player,Hobart Hurricanes,L Lee
+info,player,Hobart Hurricanes,BF Smith
+info,player,Hobart Hurricanes,EJ Villani
+info,player,Hobart Hurricanes,NJ Carey
+info,player,Hobart Hurricanes,H Graham
+info,player,Hobart Hurricanes,NE Stalenberg
+info,player,Hobart Hurricanes,R Johnston
+info,player,Hobart Hurricanes,M Strano
+info,player,Hobart Hurricanes,A Smith
+info,player,Hobart Hurricanes,S Ismail
+info,player,Hobart Hurricanes,ML Gibson
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Smith,b125ce63
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,EJ Villani,cde96d97
+info,registry,people,H Graham,99812d10
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,Kepler Wessels,3bedaff0
+info,registry,people,L Lee,7b01ce83
+info,registry,people,M Strano,f57d5dbb
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MH Illingworth,99dc3877
+info,registry,people,ML Gibson,27fa592f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N James,3de4511d
+info,registry,people,NE Stalenberg,609c519e
+info,registry,people,NJ Carey,dff806f4
+info,registry,people,R Johnston,3cd107a7
+info,registry,people,S Day,c3d27d76
+info,registry,people,S Ismail,108c4c09
+info,registry,people,S Reid,1380c4c2
+info,registry,people,SE Dionysius,ac886e6f
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SK Moloney,a0bc8dc1
+info,registry,people,T Flintoff,5471b94a

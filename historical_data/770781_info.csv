@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Northern Districts
+info,gender,male
+info,season,2014/15
+info,date,2015/02/06
+info,date,2015/02/07
+info,date,2015/02/08
+info,date,2015/02/09
+info,event,Plunket Shield
+info,venue,"Colin Maiden Park, Auckland"
+info,city,Auckland
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,BG Frost
+info,umpire,TJ Parlane
+info,outcome,draw
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,AP Devcich
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,MJ Santner
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,GW Aldridge
+info,player,Northern Districts,JD Baker
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,AK Kitchen
+info,player,Auckland Aces,Carl Cachopa
+info,player,Auckland Aces,C Munro
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,C de Grandhomme
+info,player,Auckland Aces,B Cachopa
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,MD Bates
+info,player,Auckland Aces,V Jeet
+info,player,Auckland Aces,DJ Bartlett
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,AP Devcich,ed90abe4
+info,registry,people,B Cachopa,e9a44f08
+info,registry,people,BG Frost,fd8ffc13
+info,registry,people,BJ Watling,928670cc
+info,registry,people,C Munro,af2c687b
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,Carl Cachopa,7112662b
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Bartlett,6ede8cb6
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,GW Aldridge,42a05795
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,MD Bates,1b3acd33
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,V Jeet,95025a4a

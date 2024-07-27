@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Southern Vipers
+info,team,Sunrisers
+info,gender,female
+info,season,2024
+info,date,2024/05/08
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,22
+info,venue,"Radlett Cricket Club, Radlett"
+info,city,Radlett
+info,toss_winner,Sunrisers
+info,toss_decision,field
+info,umpire,G Brown
+info,umpire,JD Shantry
+info,match_referee,AM Smith
+info,winner,Sunrisers
+info,winner_wickets,3
+info,player,Southern Vipers,EM McCaughan
+info,player,Southern Vipers,A Norgrove
+info,player,Southern Vipers,CR Knott
+info,player,Southern Vipers,GL Adams
+info,player,Southern Vipers,GA Elwiss
+info,player,Southern Vipers,E Windsor
+info,player,Southern Vipers,N Harman
+info,player,Southern Vipers,R Southby
+info,player,Southern Vipers,AZ Monaghan
+info,player,Southern Vipers,FR Davies
+info,player,Southern Vipers,MLL Taylor
+info,player,Sunrisers,G Scrivens
+info,player,Sunrisers,AD Carr
+info,player,Sunrisers,CL Griffith
+info,player,Sunrisers,J Grewcock
+info,player,Sunrisers,MK Villiers
+info,player,Sunrisers,A Surenkumar
+info,player,Sunrisers,F Miller
+info,player,Sunrisers,J Gardner
+info,player,Sunrisers,NM Hancock
+info,player,Sunrisers,EI MacGregor
+info,player,Sunrisers,KL Coppack
+info,registry,people,A Norgrove,c9439c2e
+info,registry,people,A Surenkumar,cf9338c9
+info,registry,people,AD Carr,c3f4dc55
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AZ Monaghan,0c694738
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,E Windsor,1d7f8759
+info,registry,people,EI MacGregor,c812dfa3
+info,registry,people,EM McCaughan,ed2711ea
+info,registry,people,F Miller,9d9edf14
+info,registry,people,FR Davies,2479daa6
+info,registry,people,G Brown,4b781bd0
+info,registry,people,G Scrivens,7306c48d
+info,registry,people,GA Elwiss,287ed3a0
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,J Gardner,184512d1
+info,registry,people,J Grewcock,92b94582
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,KL Coppack,24596e4d
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,MLL Taylor,014cfac4
+info,registry,people,N Harman,ffdfa9ad
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,R Southby,bbe1525d

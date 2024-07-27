@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Pretoria Capitals
+info,gender,male
+info,season,2023/24
+info,date,2024/02/01
+info,event,SA20
+info,match_number,26
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,MI Cape Town
+info,toss_decision,bat
+info,player_of_match,K Verreynne
+info,umpire,DJ Smith
+info,umpire,Siphelele Gasa
+info,reserve_umpire,PJ Vosloo
+info,tv_umpire,LB Gcuma
+info,match_referee,LH Matroos
+info,winner,MI Cape Town
+info,winner_runs,34
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,LS Livingstone
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,KA Pollard
+info,player,MI Cape Town,N van Heerden
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TP Kaber
+info,player,MI Cape Town,K Rabada
+info,player,MI Cape Town,N Thushara
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,WG Jacks
+info,player,Pretoria Capitals,K Verreynne
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CN Ackermann
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,S Dadswell
+info,player,Pretoria Capitals,WD Parnell
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,DM Dupavillon
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,DM Dupavillon,7cb2d9d2
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,K Verreynne,bf814547
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,N van Heerden,ad19dda3
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Dadswell,0ecf791e
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,TB de Bruyn,90d6cdea
+info,registry,people,TP Kaber,0773c16a
+info,registry,people,WD Parnell,3a60e0b5
+info,registry,people,WG Jacks,9caf69a1

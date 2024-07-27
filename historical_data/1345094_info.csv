@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,female
+info,season,2022/23
+info,date,2023/01/21
+info,event,Pakistan Women tour of Australia
+info,match_number,3
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,BL Mooney
+info,umpire,CA Polosak
+info,umpire,MW Graham-Smith
+info,reserve_umpire,SAJ Craig
+info,tv_umpire,Eloise Sheridan
+info,match_referee,RW Stratford
+info,winner,Australia
+info,winner_runs,101
+info,player,Australia,BL Mooney
+info,player,Australia,P Litchfield
+info,player,Australia,MM Lanning
+info,player,Australia,EA Perry
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,A Sutherland
+info,player,Australia,JL Jonassen
+info,player,Australia,A King
+info,player,Australia,KJ Garth
+info,player,Australia,ML Schutt
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Ayesha Naseem
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Diana Baig
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,Ayesha Naseem,8c2c0a03
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,RW Stratford,85489579
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Sidra Nawaz,ca3ded6f
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Tuba Hassan,0d56e9a5
+info,registry,people,Umaima Sohail,821d7d46

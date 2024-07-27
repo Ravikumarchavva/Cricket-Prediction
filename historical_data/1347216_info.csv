@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Middlesex
+info,gender,male
+info,season,2023
+info,date,2023/04/20
+info,date,2023/04/21
+info,date,2023/04/22
+info,date,2023/04/23
+info,event,County Championship
+info,venue,"Lord's, London"
+info,city,London
+info,toss_winner,Middlesex
+info,toss_decision,field
+info,umpire,AG Wharf
+info,umpire,MJ Saggers
+info,match_referee,DA Cosker
+info,winner,Middlesex
+info,winner_wickets,4
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,BM Duckett
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,BA Hutton
+info,player,Nottinghamshire,SCJ Broad
+info,player,Nottinghamshire,D Paterson
+info,player,Middlesex,MD Stoneman
+info,player,Middlesex,SD Robson
+info,player,Middlesex,PJ Malan
+info,player,Middlesex,SS Eskinazi
+info,player,Middlesex,MDE Holden
+info,player,Middlesex,JA Simpson
+info,player,Middlesex,RF Higgins
+info,player,Middlesex,LBK Hollman
+info,player,Middlesex,MK Andersson
+info,player,Middlesex,TS Roland-Jones
+info,player,Middlesex,ER Bamber
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,BA Hutton,b3544c5d
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,D Paterson,462d7c62
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,ER Bamber,948beb1f
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JA Simpson,f05fe9b1
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LBK Hollman,bdc0670a
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MD Stoneman,1b77f62b
+info,registry,people,MDE Holden,d34a2268
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MK Andersson,d26e0405
+info,registry,people,PJ Malan,f32d890a
+info,registry,people,RF Higgins,ad212f96
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SD Robson,76cb1a7f
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,SS Eskinazi,75cbed9b
+info,registry,people,TS Roland-Jones,6c6aca89

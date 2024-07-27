@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Karnataka
+info,gender,male
+info,season,2023/24
+info,date,2023/10/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Abhimanyu Cricket Academy, Dehradun"
+info,city,Dehra Dun
+info,toss_winner,Karnataka
+info,toss_decision,field
+info,umpire,Abhijit Bhattacharya
+info,umpire,VM Dhokre
+info,tv_umpire,Tapan Sharma
+info,match_referee,Sanjay Verma
+info,winner,Uttar Pradesh
+info,winner_runs,40
+info,player,Uttar Pradesh,Abhishek Goswami
+info,player,Uttar Pradesh,KS Sharma
+info,player,Uttar Pradesh,N Rana
+info,player,Uttar Pradesh,Sameer Rizvi
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Dhruv Jurel
+info,player,Uttar Pradesh,B Kumar
+info,player,Uttar Pradesh,Shiva Singh
+info,player,Uttar Pradesh,Yash Dayal
+info,player,Uttar Pradesh,Kartik Tyagi
+info,player,Uttar Pradesh,Jasmer Dhankhar
+info,player,Uttar Pradesh,Mohsin Khan (2)
+info,player,Karnataka,M Prasidh Krishna
+info,player,Karnataka,D Padikkal
+info,player,Karnataka,MA Agarwal
+info,player,Karnataka,K L Shrijith
+info,player,Karnataka,MK Pandey
+info,player,Karnataka,BR Sharath
+info,player,Karnataka,MS Bhandage
+info,player,Karnataka,A Manohar
+info,player,Karnataka,K Gowtham
+info,player,Karnataka,S Hegde
+info,player,Karnataka,Vijaykumar Vyshak
+info,player,Karnataka,V Kaverappa
+info,registry,people,A Manohar,0890552f
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Abhishek Goswami,53c5c146
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,BR Sharath,c2dd89ea
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,Jasmer Dhankhar,a7e1f127
+info,registry,people,K Gowtham,90de905a
+info,registry,people,K L Shrijith,0372c4c5
+info,registry,people,KS Sharma,39ed0d2f
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MS Bhandage,e96801ea
+info,registry,people,Mohsin Khan (2),c33d8116
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,S Hegde,4fc7fc34
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,Sanjay Verma,bc19a37f
+info,registry,people,Shiva Singh,3b63b5cc
+info,registry,people,Tapan Sharma,b9aa2b6e
+info,registry,people,V Kaverappa,d4d929b0
+info,registry,people,VM Dhokre,67df71c9
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,Yash Dayal,7210d461

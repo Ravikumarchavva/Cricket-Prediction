@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Glamorgan
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,Vitality Blast
+info,venue,"The Cooper Associates County Ground, Taunton"
+info,city,Taunton
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,M Burns
+info,match_referee,AM Smith
+info,winner,Somerset
+info,winner_runs,108
+info,player,Somerset,T Banton
+info,player,Somerset,WCF Smeed
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,TB Abell
+info,player,Somerset,SR Dickson
+info,player,Somerset,L Gregory
+info,player,Somerset,BGF Green
+info,player,Somerset,C Overton
+info,player,Somerset,RE van der Merwe
+info,player,Somerset,RP Meredith
+info,player,Somerset,JT Ball
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,M Labuschagne
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,JP McIlroy
+info,registry,people,AM Smith,a0bc360f
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BGF Green,34b37279
+info,registry,people,C Overton,e9987a94
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,JT Ball,3d0ed2f9
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,L Gregory,06c2de82
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Labuschagne,fa433be6
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RP Meredith,64775749
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SR Dickson,2344bdd1
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,WCF Smeed,4e18e961

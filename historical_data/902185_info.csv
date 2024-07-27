@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gujarat
+info,team,Tamil Nadu
+info,gender,male
+info,season,2015/16
+info,date,2016/01/07
+info,event,Syed Mushtaq Ali Trophy
+info,venue,VCA Ground
+info,city,
+info,toss_winner,Gujarat
+info,toss_decision,bat
+info,winner,Tamil Nadu
+info,winner_wickets,9
+info,player,Gujarat,PA Patel
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,MC Juneja
+info,player,Gujarat,RH Bhatt
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,RR Taylor
+info,player,Gujarat,Rohit Dahiya
+info,player,Gujarat,Roosh Kalaria
+info,player,Gujarat,RP Singh
+info,player,Gujarat,HP Patel
+info,player,Gujarat,JJ Bumrah
+info,player,Tamil Nadu,R Sathish
+info,player,Tamil Nadu,J Kousik
+info,player,Tamil Nadu,M Ashwin
+info,player,Tamil Nadu,Antony Dhas
+info,player,Tamil Nadu,Rahil Shah
+info,player,Tamil Nadu,A Mukund
+info,player,Tamil Nadu,KD Karthik
+info,player,Tamil Nadu,B Aparajith
+info,player,Tamil Nadu,M Shahrukh Khan
+info,player,Tamil Nadu,V Shankar
+info,player,Tamil Nadu,B Indrajith
+info,registry,people,A Mukund,6165bca6
+info,registry,people,Antony Dhas,b792bf93
+info,registry,people,B Aparajith,5b627626
+info,registry,people,B Indrajith,ff1e68fa
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,HP Patel,8254ea06
+info,registry,people,J Kousik,398be4ed
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,M Ashwin,e2db2409
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MC Juneja,605b7efa
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,R Sathish,626c5379
+info,registry,people,RH Bhatt,fc8c6088
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RR Taylor,ec65ae8a
+info,registry,people,Rahil Shah,7c30f4d0
+info,registry,people,Rohit Dahiya,e57ded95
+info,registry,people,Roosh Kalaria,779b7f4d
+info,registry,people,V Shankar,0994d0ae

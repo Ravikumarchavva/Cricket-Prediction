@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rajasthan
+info,team,Madhya Pradesh
+info,gender,male
+info,season,2020/21
+info,date,2021/01/13
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Holkar Stadium
+info,city,
+info,toss_winner,Madhya Pradesh
+info,toss_decision,field
+info,winner,Rajasthan
+info,winner_runs,10
+info,player,Rajasthan,MN Singh
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,R Bishnoi
+info,player,Rajasthan,AL Menaria
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,Arjit Gupta
+info,player,Rajasthan,DL Chahar
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,Ravi Bishnoi
+info,player,Rajasthan,A Choudhary
+info,player,Rajasthan,KK Ahmed
+info,player,Madhya Pradesh,IC Pandey
+info,player,Madhya Pradesh,Avesh Khan
+info,player,Madhya Pradesh,KR Sen
+info,player,Madhya Pradesh,VR Iyer
+info,player,Madhya Pradesh,Ankit Sharma
+info,player,Madhya Pradesh,Mihir Hirwani
+info,player,Madhya Pradesh,Arpit Gaud
+info,player,Madhya Pradesh,RM Patidar
+info,player,Madhya Pradesh,Parth Sahani
+info,player,Madhya Pradesh,Rakesh Thakur
+info,player,Madhya Pradesh,Rishabh Chouhan
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,AL Menaria,8291f939
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,Ankit Sharma,24d94623
+info,registry,people,Arjit Gupta,145903a5
+info,registry,people,Arpit Gaud,a6a50969
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,CP Singh,077da288
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,IC Pandey,e0407c01
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KR Sen,2e78f685
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MN Singh,7ba6ef29
+info,registry,people,Mihir Hirwani,49bacd0f
+info,registry,people,Parth Sahani,239f7526
+info,registry,people,R Bishnoi,4d5a1617
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rakesh Thakur,2c5fb7f6
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Rishabh Chouhan,a64608ec
+info,registry,people,VR Iyer,a24be938

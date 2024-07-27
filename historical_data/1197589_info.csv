@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Wellington Firebirds
+info,gender,male
+info,season,2019/20
+info,date,2020/02/22
+info,date,2020/02/23
+info,date,2020/02/24
+info,date,2020/02/25
+info,event,Plunket Shield
+info,venue,Mainpower Oval
+info,city,
+info,toss_winner,Canterbury
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,TJ Parlane
+info,match_referee,GAV Baxter
+info,winner,Canterbury
+info,winner_innings,1
+info,winner_runs,134
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,JCT Boyle
+info,player,Canterbury,SJ Murdoch
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,TF van Woerkom
+info,player,Canterbury,WSA Williams
+info,player,Canterbury,ATE Hazeldine
+info,player,Canterbury,FW Sheat
+info,player,Canterbury,EJ Nuttall
+info,player,Wellington Firebirds,R Ravindra
+info,player,Wellington Firebirds,FJ Colson
+info,player,Wellington Firebirds,DP Conway
+info,player,Wellington Firebirds,MG Bracewell
+info,player,Wellington Firebirds,JDS Neesham
+info,player,Wellington Firebirds,LR Johns
+info,player,Wellington Firebirds,JD Gibson
+info,player,Wellington Firebirds,TM Johnson
+info,player,Wellington Firebirds,LV van Beek
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,HK Bennett
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DP Conway,df5a6881
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,FJ Colson,c2327c5d
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GAV Baxter,cb4b3ab0
+info,registry,people,HK Bennett,94238673
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JD Gibson,57f520ee
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,LR Johns,8ba20313
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,TF van Woerkom,70f2f922
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TM Johnson,917f66da
+info,registry,people,WSA Williams,861eed37

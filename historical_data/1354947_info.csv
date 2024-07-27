@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Multan Sultans
+info,team,Islamabad United
+info,gender,male
+info,season,2022/23
+info,date,2023/03/07
+info,event,Pakistan Super League
+info,match_number,24
+info,venue,Rawalpindi Cricket Stadium
+info,city,Rawalpindi
+info,toss_winner,Islamabad United
+info,toss_decision,field
+info,player_of_match,Faheem Ashraf
+info,umpire,Faisal Afridi
+info,umpire,Rashid Riaz
+info,reserve_umpire,Nasir Hussain
+info,tv_umpire,AG Wharf
+info,match_referee,RS Mahanama
+info,winner,Islamabad United
+info,winner_wickets,2
+info,player,Multan Sultans,Shan Masood
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,RR Rossouw
+info,player,Multan Sultans,TH David
+info,player,Multan Sultans,DA Miller
+info,player,Multan Sultans,KA Pollard
+info,player,Multan Sultans,Anwar Ali
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,Abbas Afridi
+info,player,Multan Sultans,Mohammad Ilyas
+info,player,Multan Sultans,Ihsanullah
+info,player,Islamabad United,Rahmanullah Gurbaz
+info,player,Islamabad United,AD Hales
+info,player,Islamabad United,C Munro
+info,player,Islamabad United,Shadab Khan
+info,player,Islamabad United,Azam Khan
+info,player,Islamabad United,Faheem Ashraf
+info,player,Islamabad United,Asif Ali
+info,player,Islamabad United,Mubasir Khan
+info,player,Islamabad United,Mohammad Wasim
+info,player,Islamabad United,Rumman Raees
+info,player,Islamabad United,Fazalhaq Farooqi
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,C Munro,af2c687b
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Ihsanullah,c290033d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Mohammad Ilyas,bbfa0b42
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Mubasir Khan,7264b765
+info,registry,people,Nasir Hussain,5b2fe85b
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RS Mahanama,57910393
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Rumman Raees,1c790f4f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TH David,f1f99156
+info,registry,people,Usama Mir,6dd8b88c

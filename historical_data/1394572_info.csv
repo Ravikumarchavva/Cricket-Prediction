@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Western Province
+info,team,Dolphins
+info,gender,male
+info,season,2023/24
+info,date,2024/03/08
+info,event,CSA T20 Challenge
+info,match_number,2
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Western Province
+info,toss_decision,bat
+info,player_of_match,JA Bird
+info,umpire,A Steenkamp
+info,umpire,BP Jele
+info,reserve_umpire,DJ Smith
+info,match_referee,SA Fritz
+info,winner,Western Province
+info,winner_runs,2
+info,player,Western Province,DG Bedingham
+info,player,Western Province,T de Zorzi
+info,player,Western Province,K Verreynne
+info,player,Western Province,JA Bird
+info,player,Western Province,M Mpongwana
+info,player,Western Province,KI Simmonds
+info,player,Western Province,Abdullah Bayoumy
+info,player,Western Province,O Nyaku
+info,player,Western Province,BE Hendricks
+info,player,Western Province,M Nabe
+info,player,Western Province,N Burger
+info,player,Dolphins,B Parsons
+info,player,Dolphins,G Roelofsen
+info,player,Dolphins,JT Smuts
+info,player,Dolphins,BG Porteous
+info,player,Dolphins,K Zondo
+info,player,Dolphins,JF Smith
+info,player,Dolphins,AL Phehlukwayo
+info,player,Dolphins,KA Maharaj
+info,player,Dolphins,P Subrayen
+info,player,Dolphins,O Cele
+info,player,Dolphins,OEG Baartman
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,Abdullah Bayoumy,8ab49ad2
+info,registry,people,B Parsons,fc60e81a
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BG Porteous,3a661be2
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,JA Bird,572f55fb
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,JT Smuts,42172c3c
+info,registry,people,K Verreynne,bf814547
+info,registry,people,K Zondo,4aad78d3
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,M Mpongwana,547c5509
+info,registry,people,M Nabe,6ed11905
+info,registry,people,N Burger,465aa633
+info,registry,people,O Cele,6e5840e3
+info,registry,people,O Nyaku,9b442f95
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Subrayen,7ec9711d
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T de Zorzi,d3a1c63d

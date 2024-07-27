@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Sri Lanka
+info,gender,male
+info,season,2023
+info,date,2023/06/07
+info,event,Afghanistan tour of Sri Lanka
+info,match_number,3
+info,venue,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota"
+info,city,Hambantota
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,PVD Chameera
+info,umpire,Nitin Menon
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RMPJ Rambukwella
+info,tv_umpire,MA Gough
+info,match_referee,RS Madugalle
+info,winner,Sri Lanka
+info,winner_wickets,9
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,Afghanistan,Fareed Ahmad
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,CBRLS Kumara
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,Fareed Ahmad,67b7bad4
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Samarawickrama,9ab2914d

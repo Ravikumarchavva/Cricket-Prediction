@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland
+info,team,Otago
+info,gender,male
+info,season,2023/24
+info,date,2024/01/01
+info,event,Super Smash
+info,match_number,10
+info,venue,"Molyneux Park, Alexandra"
+info,city,Alexandra
+info,toss_winner,Otago
+info,toss_decision,field
+info,player_of_match,T Muller
+info,umpire,DJ Walker
+info,umpire,PJ Pasco
+info,reserve_umpire,N Louw
+info,tv_umpire,KS Jagannathan
+info,match_referee,TL Anderson
+info,winner,Otago
+info,winner_wickets,3
+info,player,Auckland,SM Solia
+info,player,Auckland,MJ Guptill
+info,player,Auckland,CJ Briggs
+info,player,Auckland,RR O'Donnell
+info,player,Auckland,CD Fletcher
+info,player,Auckland,WT O'Donnell
+info,player,Auckland,RD Harrison
+info,player,Auckland,DK Ferns
+info,player,Auckland,L Delport
+info,player,Auckland,BG Lister
+info,player,Auckland,NS Perera
+info,player,Otago,HD Rutherford
+info,player,Otago,JM Gibson
+info,player,Otago,D Foxcroft
+info,player,Otago,MW Chu
+info,player,Otago,DN Phillips
+info,player,Otago,LC Johnson
+info,player,Otago,OJ White
+info,player,Otago,BNJ Lockrose
+info,player,Otago,T Muller
+info,player,Otago,ATE Hazeldine
+info,player,Otago,JA Duffy
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CJ Briggs,6c3dd24e
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LC Johnson,a573ad7a
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,N Louw,465c4770
+info,registry,people,NS Perera,94fb837c
+info,registry,people,OJ White,a2e63eab
+info,registry,people,PJ Pasco,fd92a10c
+info,registry,people,RD Harrison,8f3f2d61
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,WT O'Donnell,730b57de

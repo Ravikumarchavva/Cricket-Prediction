@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Guyana Amazon Warriors
+info,team,Barbados Royals
+info,gender,male
+info,season,2023
+info,date,2023/09/17
+info,event,Caribbean Premier League
+info,match_number,30
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,Barbados Royals
+info,toss_decision,field
+info,player_of_match,SD Hope
+info,umpire,CO Wright
+info,umpire,N Duguid
+info,reserve_umpire,LS Reifer
+info,tv_umpire,DK Butler
+info,match_referee,Reon King
+info,winner,Guyana Amazon Warriors
+info,winner_runs,88
+info,player,Guyana Amazon Warriors,Saim Ayub
+info,player,Guyana Amazon Warriors,OF Smith
+info,player,Guyana Amazon Warriors,SD Hope
+info,player,Guyana Amazon Warriors,KA Anderson
+info,player,Guyana Amazon Warriors,Azam Khan
+info,player,Guyana Amazon Warriors,SO Hetmyer
+info,player,Guyana Amazon Warriors,D Pretorius
+info,player,Guyana Amazon Warriors,S Joseph
+info,player,Guyana Amazon Warriors,G Motie
+info,player,Guyana Amazon Warriors,RR Beaton
+info,player,Guyana Amazon Warriors,Imran Tahir
+info,player,Barbados Royals,RRS Cornwall
+info,player,Barbados Royals,JP Greaves
+info,player,Barbados Royals,LJ Evans
+info,player,Barbados Royals,A Athanaze
+info,player,Barbados Royals,R Powell
+info,player,Barbados Royals,JO Holder
+info,player,Barbados Royals,RA Clarke
+info,player,Barbados Royals,CR Brathwaite
+info,player,Barbados Royals,OC McCoy
+info,player,Barbados Royals,Akeem Jordan
+info,player,Barbados Royals,Qais Ahmad
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,Akeem Jordan,77bf0483
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,CO Wright,a541fc41
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DK Butler,671398e3
+info,registry,people,G Motie,97bdec3d
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JO Holder,0f721006
+info,registry,people,JP Greaves,74d12124
+info,registry,people,KA Anderson,672d7379
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,N Duguid,64495506
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,OF Smith,23cca426
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,R Powell,650d5e49
+info,registry,people,RA Clarke,de098678
+info,registry,people,RR Beaton,684a56df
+info,registry,people,RRS Cornwall,c4d9634c
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Joseph,97290faf
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,Saim Ayub,33609a8c

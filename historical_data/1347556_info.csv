@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nottinghamshire
+info,team,Lancashire
+info,gender,male
+info,season,2023
+info,date,2023/08/22
+info,event,One-Day Cup
+info,venue,"The John Fretwell Sporting Complex, Sookholme"
+info,city,Sookholme
+info,toss_winner,Nottinghamshire
+info,toss_decision,bat
+info,umpire,PJ Hartley
+info,umpire,S Widdup
+info,match_referee,SG Hinks
+info,winner,Lancashire
+info,winner_wickets,7
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,BJR Martindale
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,SIM King
+info,player,Nottinghamshire,LA Patterson-White
+info,player,Nottinghamshire,D Schadendorf
+info,player,Nottinghamshire,TW Loten
+info,player,Nottinghamshire,BA Hutton
+info,player,Nottinghamshire,D Paterson
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,KK Jennings
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,GID Lavelle
+info,player,Lancashire,MF Hurst
+info,player,Lancashire,TH Aspinwall
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,JP Morley
+info,registry,people,BA Hutton,b3544c5d
+info,registry,people,BJR Martindale,a81cac82
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,D Paterson,462d7c62
+info,registry,people,D Schadendorf,ae7d3bc1
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,GID Lavelle,c2988809
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JP Morley,7a8a0237
+info,registry,people,KK Jennings,8479a24a
+info,registry,people,LA Patterson-White,d48c0f40
+info,registry,people,LW James,2baad3bd
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MF Hurst,40e4cf47
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SIM King,2ae8618a
+info,registry,people,SJ Croft,ab474682
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TH Aspinwall,00b195ae
+info,registry,people,TW Loten,3b4f3099
+info,registry,people,WSA Williams,861eed37

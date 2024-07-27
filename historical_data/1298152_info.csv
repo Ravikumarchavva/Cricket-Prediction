@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,South Africa
+info,gender,male
+info,season,2022/23
+info,date,2022/10/24
+info,event,ICC Men's T20 World Cup
+info,match_number,18
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,umpire,Ahsan Raza
+info,umpire,MA Gough
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,CB Gaffaney
+info,match_referee,DC Boon
+info,outcome,no result
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,M Shumba
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,B Muzarabani
+info,player,South Africa,Q de Kock
+info,player,South Africa,T Bavuma
+info,player,South Africa,RR Rossouw
+info,player,South Africa,AK Markram
+info,player,South Africa,DA Miller
+info,player,South Africa,T Stubbs
+info,player,South Africa,WD Parnell
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,L Ngidi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M Shumba,6766ca00
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WD Parnell,3a60e0b5

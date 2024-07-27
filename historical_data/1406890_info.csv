@@ -1,0 +1,74 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Emirates
+info,team,Dubai Capitals
+info,gender,male
+info,season,2023/24
+info,date,2024/01/20
+info,event,International League T20
+info,match_number,2
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Dubai Capitals
+info,toss_decision,field
+info,player_of_match,Sikandar Raza
+info,umpire,RJ Tucker
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Ahmed Shah Pakteen
+info,tv_umpire,LS Reifer
+info,match_referee,SJA Taufel
+info,winner,Dubai Capitals
+info,winner_wickets,7
+info,player,MI Emirates,Fazalhaq Farooqi
+info,player,MI Emirates,Waseem Muhammad
+info,player,MI Emirates,WCF Smeed
+info,player,MI Emirates,ADS Fletcher
+info,player,MI Emirates,N Pooran
+info,player,MI Emirates,AT Rayudu
+info,player,MI Emirates,TH David
+info,player,MI Emirates,CJ Anderson
+info,player,MI Emirates,DJ Bravo
+info,player,MI Emirates,AJ Hosein
+info,player,MI Emirates,TA Boult
+info,player,MI Emirates,Zahoor Khan
+info,player,Dubai Capitals,PA van Meekeren
+info,player,Dubai Capitals,DA Warner
+info,player,Dubai Capitals,Rahmanullah Gurbaz
+info,player,Dubai Capitals,J Fraser-McGurk
+info,player,Dubai Capitals,SW Billings
+info,player,Dubai Capitals,R Powell
+info,player,Dubai Capitals,Sikandar Raza
+info,player,Dubai Capitals,JO Holder
+info,player,Dubai Capitals,R Chopra
+info,player,Dubai Capitals,RE van der Merwe
+info,player,Dubai Capitals,Akif Raja
+info,player,Dubai Capitals,PVD Chameera
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Ahmed Shah Pakteen,43602937
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JO Holder,0f721006
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,R Powell,650d5e49
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SW Billings,c16d4035
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,WCF Smeed,4e18e961
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

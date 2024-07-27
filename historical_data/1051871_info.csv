@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Northern Districts
+info,gender,male
+info,season,2016/17
+info,date,2017/03/29
+info,date,2017/03/30
+info,date,2017/03/31
+info,date,2017/04/01
+info,event,Plunket Shield
+info,venue,University of Otago Oval
+info,city,
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,DJ Walker
+info,umpire,TJ Parlane
+info,match_referee,K Pulley
+info,winner,Northern Districts
+info,winner_wickets,3
+info,player,Otago Volts,BS Wilson
+info,player,Otago Volts,GW Croudis
+info,player,Otago Volts,JJ Tasman-Jones
+info,player,Otago Volts,SW Eathorne
+info,player,Otago Volts,DC de Boorder
+info,player,Otago Volts,AK Kitchen
+info,player,Otago Volts,SR Wells
+info,player,Otago Volts,C Viljoen
+info,player,Otago Volts,NG Smith
+info,player,Otago Volts,RM Phillips
+info,player,Otago Volts,MD Rae
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,CJ Anderson
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,IS Sodhi
+info,player,Northern Districts,JD Baker
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,BG Randell
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,B Popli,848487cf
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BS Wilson,ac3e14ed
+info,registry,people,C Viljoen,f7b2cbe8
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,DC de Boorder,bf573bfd
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Walker,d4aea8ac
+info,registry,people,GW Croudis,6b26688e
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JG Walker,94734e80
+info,registry,people,JJ Tasman-Jones,5ca4a6ff
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,RM Phillips,37d0c8b3
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SR Wells,8fdfa195
+info,registry,people,SW Eathorne,2c724f2c
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TL Seifert,4663bd23

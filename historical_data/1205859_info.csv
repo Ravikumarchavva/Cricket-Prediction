@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Punjab
+info,gender,male
+info,season,2019/20
+info,date,2019/11/27
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Lalbhai Contractor Stadium
+info,city,
+info,toss_winner,Punjab
+info,toss_decision,field
+info,winner,Mumbai
+info,winner_runs,22
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,AP Tare
+info,player,Mumbai,SS Iyer
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,S Dube
+info,player,Mumbai,Shubham Ranjane
+info,player,Mumbai,SD Lad
+info,player,Mumbai,Sujit Nayak
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,SN Thakur
+info,player,Mumbai,TU Deshpande
+info,player,Punjab,Baltej Singh
+info,player,Punjab,S Kaul
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Nikhil Chaudhary
+info,player,Punjab,Karan Kaila
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Shubman Gill
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Anmol Malhotra
+info,registry,people,AP Tare,855a210c
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmol Malhotra,f59e9ac9
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Baltej Singh,0c0ef3fb
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Karan Kaila,b19f1fe9
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,Nikhil Chaudhary,1f84183a
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Sujit Nayak,e06f7116
+info,registry,people,TU Deshpande,46a9bea1

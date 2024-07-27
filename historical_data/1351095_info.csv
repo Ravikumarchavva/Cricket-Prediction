@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Comilla Victorians
+info,gender,male
+info,season,2022/23
+info,date,2023/02/12
+info,event,Bangladesh Premier League
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Comilla Victorians
+info,toss_decision,field
+info,player_of_match,Tanvir Islam
+info,umpire,DJ Millns
+info,umpire,RR Wimalasiri
+info,reserve_umpire,Moniruzzaman
+info,tv_umpire,Mohammad Kamruzzaman
+info,match_referee,Neeyamur Rashid
+info,winner,Comilla Victorians
+info,winner_wickets,4
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Shafiqullah Ghafari
+info,player,Sylhet Strikers,Towhid Hridoy
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Mushfiqur Rahim
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,GF Linde
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,player,Sylhet Strikers,I Udana
+info,player,Sylhet Strikers,Rubel Hossain
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,SP Narine
+info,player,Comilla Victorians,J Charles
+info,player,Comilla Victorians,Imrul Kayes
+info,player,Comilla Victorians,Mosaddek Hossain
+info,player,Comilla Victorians,MM Ali
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,AD Russell
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Comilla Victorians,Mukidul Islam
+info,registry,people,AD Russell,bbd41817
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,GF Linde,e5437608
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,Imrul Kayes,5fbe14fc
+info,registry,people,J Charles,09a9d073
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mukidul Islam,a699488a
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rubel Hossain,f56cd097
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shafiqullah Ghafari,98d7059f
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Zakir Hasan,e3e09091

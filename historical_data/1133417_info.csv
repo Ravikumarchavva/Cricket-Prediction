@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Rajasthan
+info,gender,male
+info,season,2017/18
+info,date,2018/01/25
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Eden Gardens
+info,city,
+info,toss_winner,Rajasthan
+info,toss_decision,field
+info,winner,Punjab
+info,winner_runs,5
+info,player,Punjab,M Vohra
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,Harbhajan Singh
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Yuvraj Singh
+info,player,Punjab,Sharad Lumba
+info,player,Punjab,Abhishek Gupta
+info,player,Punjab,MS Gony
+info,player,Punjab,BB Sran
+info,player,Punjab,S Kaul
+info,player,Punjab,M Markande
+info,player,Rajasthan,A Choudhary
+info,player,Rajasthan,DL Chahar
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,KK Ahmed
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,Tajinder Singh
+info,player,Rajasthan,CP Singh
+info,player,Rajasthan,Aditya Garhwal
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,SF Khan
+info,player,Rajasthan,Chetan Bist
+info,registry,people,A Choudhary,18e6906e
+info,registry,people,Abhishek Gupta,22a2a635
+info,registry,people,Aditya Garhwal,8e02f42b
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,BB Sran,d8b2f218
+info,registry,people,CP Singh,077da288
+info,registry,people,Chetan Bist,cf9d3356
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harbhajan Singh,8b5b6769
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,M Vohra,c03e2850
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,MS Gony,ae78bc32
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,S Kaul,dcf81436
+info,registry,people,SF Khan,25986786
+info,registry,people,Sharad Lumba,03c29939
+info,registry,people,Tajinder Singh,f9d99806
+info,registry,people,Yuvraj Singh,1c914163

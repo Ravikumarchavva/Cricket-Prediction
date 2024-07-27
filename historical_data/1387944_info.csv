@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Greece
+info,team,Isle of Man
+info,gender,female
+info,season,2023
+info,date,2023/08/04
+info,event,Women's Continental Cup
+info,match_number,1
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Isle of Man
+info,toss_decision,field
+info,player_of_match,L Barnett
+info,winner,Isle of Man
+info,winner_wickets,10
+info,player,Greece,A Argyropoulou
+info,player,Greece,A Savvani
+info,player,Greece,M Syrioti
+info,player,Greece,S Georgota
+info,player,Greece,A Makri
+info,player,Greece,M Polimeri
+info,player,Greece,M Vervitsioti
+info,player,Greece,T Parisi-mesimeri
+info,player,Greece,DS Vlachopoulou
+info,player,Greece,ST Varzakakou
+info,player,Greece,C Kanta
+info,player,Isle of Man,L Barnett
+info,player,Isle of Man,K Carney
+info,player,Isle of Man,E Cleator
+info,player,Isle of Man,C Henery
+info,player,Isle of Man,R Webster
+info,player,Isle of Man,E Miller
+info,player,Isle of Man,A Thorpe
+info,player,Isle of Man,C Perry
+info,player,Isle of Man,B Murtagh
+info,player,Isle of Man,D Murphy
+info,player,Isle of Man,J Hicks
+info,registry,people,A Argyropoulou,3f1bfd19
+info,registry,people,A Makri,98affc04
+info,registry,people,A Savvani,5d006a1a
+info,registry,people,A Thorpe,6c54bd7a
+info,registry,people,B Murtagh,7bd61c82
+info,registry,people,C Henery,03d9e80f
+info,registry,people,C Kanta,96c936d7
+info,registry,people,C Perry,152d3c9d
+info,registry,people,D Murphy,c4f42529
+info,registry,people,DS Vlachopoulou,5c884c17
+info,registry,people,E Cleator,9c94176e
+info,registry,people,E Miller,6e6c769e
+info,registry,people,J Hicks,802febe2
+info,registry,people,K Carney,7097b37e
+info,registry,people,L Barnett,d9a2345a
+info,registry,people,M Polimeri,35ccd83f
+info,registry,people,M Syrioti,f9df0aa2
+info,registry,people,M Vervitsioti,6fd40892
+info,registry,people,R Webster,cdfb59b8
+info,registry,people,S Georgota,d07b6842
+info,registry,people,ST Varzakakou,9f17e86d
+info,registry,people,T Parisi-mesimeri,c002a904

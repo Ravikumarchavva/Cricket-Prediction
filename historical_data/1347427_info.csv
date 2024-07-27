@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,The Blaze
+info,gender,female
+info,season,2023
+info,date,2023/07/07
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,25
+info,venue,"Queen's Park, Chesterfield"
+info,city,Chesterfield
+info,toss_winner,Northern Diamonds
+info,toss_decision,bat
+info,umpire,F Richards
+info,umpire,James Middlebrook
+info,match_referee,IL Herbert
+info,winner,The Blaze
+info,winner_wickets,9
+info,player,Northern Diamonds,L Winfield-Hill
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,PE Turner
+info,player,Northern Diamonds,LE Scott
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,GE Hall
+info,player,Northern Diamonds,JA Woolston
+info,player,The Blaze,M Kelly
+info,player,The Blaze,TT Beaumont
+info,player,The Blaze,SJ Bryce
+info,player,The Blaze,GEB Boyce
+info,player,The Blaze,KE Bryce
+info,player,The Blaze,ML Kirk
+info,player,The Blaze,T Graves
+info,player,The Blaze,S Munro
+info,player,The Blaze,LF Higham
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,CM McCarthy
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,CM McCarthy,7ce7fb3c
+info,registry,people,EK Marlow,ac574559
+info,registry,people,F Richards,0313fec0
+info,registry,people,GE Hall,026135b1
+info,registry,people,GEB Boyce,5b1f15fc
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IL Herbert,125f9f05
+info,registry,people,JA Woolston,c1f3ae44
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,KA Levick,8f30d191
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Gordon,00823a96
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LE Scott,ab6573dc
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,ML Kirk,2dece89c
+info,registry,people,PE Turner,53e25aa3
+info,registry,people,S Munro,b4e026de
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,T Graves,e893fef7
+info,registry,people,TT Beaumont,b2664905

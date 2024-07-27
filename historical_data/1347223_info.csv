@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2023
+info,date,2023/05/04
+info,date,2023/05/05
+info,date,2023/05/06
+info,date,2023/05/07
+info,event,County Championship
+info,venue,"Trent Bridge, Nottingham"
+info,city,Nottingham
+info,toss_winner,Nottinghamshire
+info,toss_decision,field
+info,umpire,MJ Saggers
+info,umpire,RJ Bailey
+info,match_referee,SG Hinks
+info,outcome,draw
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,C de Grandhomme
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,TE Bailey
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,JM Anderson
+info,player,Nottinghamshire,H Hameed
+info,player,Nottinghamshire,BM Duckett
+info,player,Nottinghamshire,BT Slater
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,BA Hutton
+info,player,Nottinghamshire,OP Stone
+info,player,Nottinghamshire,SCJ Broad
+info,player,Nottinghamshire,LJ Fletcher
+info,registry,people,BA Hutton,b3544c5d
+info,registry,people,BM Duckett,5f26f677
+info,registry,people,BT Slater,c5f1d2a1
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,H Hameed,fe0c5457
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,LJ Fletcher,e423d162
+info,registry,people,LW James,2baad3bd
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,OP Stone,3f659464
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,SCJ Broad,eba6a852
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,TE Bailey,b9877635
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WSA Williams,861eed37

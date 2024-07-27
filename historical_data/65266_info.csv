@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,West Indies
+info,gender,male
+info,season,2002/03
+info,date,2003/02/28
+info,event,ICC World Cup
+info,match_number,34
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,WPUJC Vaas
+info,umpire,DL Orchard
+info,umpire,S Venkataraghavan
+info,tv_umpire,BG Jerling
+info,match_referee,DT Lindsay
+info,winner,Sri Lanka
+info,winner_runs,6
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,PA de Silva
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,PW Gunaratne
+info,player,West Indies,CH Gayle
+info,player,West Indies,WW Hinds
+info,player,West Indies,BC Lara
+info,player,West Indies,RR Sarwan
+info,player,West Indies,CL Hooper
+info,player,West Indies,S Chanderpaul
+info,player,West Indies,RD Jacobs
+info,player,West Indies,RL Powell
+info,player,West Indies,VC Drakes
+info,player,West Indies,M Dillon
+info,player,West Indies,PT Collins
+info,registry,people,BC Lara,d5403021
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CH Gayle,db584dad
+info,registry,people,CL Hooper,61dab16a
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DL Orchard,a7df1d20
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DT Lindsay,a6a32a61
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Dillon,5af87ad6
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,PA de Silva,34ff9e07
+info,registry,people,PT Collins,f1cb042f
+info,registry,people,PW Gunaratne,27410b17
+info,registry,people,RD Jacobs,c1f9b051
+info,registry,people,RL Powell,33a50ecf
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,RR Sarwan,36d33dd0
+info,registry,people,S Chanderpaul,881a9bdd
+info,registry,people,S Venkataraghavan,12453319
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,VC Drakes,b16b5eea
+info,registry,people,WPUJC Vaas,bcce309e
+info,registry,people,WW Hinds,60beb01b

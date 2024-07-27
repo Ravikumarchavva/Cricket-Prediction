@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,New Zealand
+info,gender,male
+info,season,2022/23
+info,date,2023/03/31
+info,event,Sri Lanka tour of New Zealand
+info,match_number,3
+info,venue,"Seddon Park, Hamilton"
+info,city,Hamilton
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,WA Young
+info,umpire,CM Brown
+info,umpire,WR Knights
+info,reserve_umpire,Kim Cotton
+info,tv_umpire,SB Haig
+info,match_referee,JJ Crowe
+info,winner,New Zealand
+info,winner_wickets,6
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,MNK Fernando
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,C Karunaratne
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,CBRLS Kumara
+info,player,New Zealand,CJ Bowes
+info,player,New Zealand,TA Blundell
+info,player,New Zealand,WA Young
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,HM Nicholls
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,HB Shipley
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,BM Tickner
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CBRLS Kumara,4751caa3
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,HB Shipley,5426de63
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SB Haig,811655b3
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WA Young,8afe73e2
+info,registry,people,WR Knights,63cbf8d8

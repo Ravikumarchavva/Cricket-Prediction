@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Northern Superchargers
+info,team,Manchester Originals
+info,gender,female
+info,season,2023
+info,date,2023/08/20
+info,event,The Hundred Women's Competition
+info,match_number,27
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Northern Superchargers
+info,toss_decision,bat
+info,player_of_match,KE Bryce
+info,umpire,J Naeem
+info,umpire,RA Kettleborough
+info,reserve_umpire,WRP Fernando
+info,tv_umpire,GD Lloyd
+info,match_referee,Phil Whitticase
+info,winner,Manchester Originals
+info,winner_wickets,3
+info,player,Northern Superchargers,M Kelly
+info,player,Northern Superchargers,JI Rodrigues
+info,player,Northern Superchargers,P Litchfield
+info,player,Northern Superchargers,HJ Armitage
+info,player,Northern Superchargers,AN Davidson-Richards
+info,player,Northern Superchargers,BAM Heath
+info,player,Northern Superchargers,G Wareham
+info,player,Northern Superchargers,KL Cross
+info,player,Northern Superchargers,LCN Smith
+info,player,Northern Superchargers,LF Higham
+info,player,Northern Superchargers,G Ballinger
+info,player,Manchester Originals,EL Lamb
+info,player,Manchester Originals,L Wolvaardt
+info,player,Manchester Originals,FMK Morris
+info,player,Manchester Originals,E Threlkeld
+info,player,Manchester Originals,DJS Dottin
+info,player,Manchester Originals,KE Bryce
+info,player,Manchester Originals,A Wellington
+info,player,Manchester Originals,S Ecclestone
+info,player,Manchester Originals,KL George
+info,player,Manchester Originals,M Gaur
+info,player,Manchester Originals,PC Graham
+info,registry,people,A Campbell,4b788e61
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,G Ballinger,2f485713
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL Cross,1ade138e
+info,registry,people,KL George,e69dbbef
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,LCN Smith,340202b0
+info,registry,people,LF Higham,fbd79b9b
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,PC Graham,b5c83d22
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,WRP Fernando,7d98d385

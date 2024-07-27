@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lions
+info,team,Western Province
+info,gender,male
+info,season,2022/23
+info,date,2022/10/31
+info,event,CSA T20 Challenge
+info,match_number,26
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Western Province
+info,toss_decision,field
+info,umpire,BP Jele
+info,umpire,Siphelele Gasa
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,LB Gcuma
+info,match_referee,S Wadvalla
+info,winner,Lions
+info,winner_runs,32
+info,player,Lions,RD Rickelton
+info,player,Lions,CS Delport
+info,player,Lions,DA Hendricks
+info,player,Lions,M Van Buuren
+info,player,Lions,PWA Mulder
+info,player,Lions,E Jones
+info,player,Lions,MP Siboto
+info,player,Lions,G Adams
+info,player,Lions,T Bokako
+info,player,Lions,A Myoli
+info,player,Lions,Codi Yusuf
+info,player,Western Province,G Kaplan
+info,player,Western Province,D Smith
+info,player,Western Province,M Mpongwana
+info,player,Western Province,K Verreynne
+info,player,Western Province,A Mgijima
+info,player,Western Province,GF Linde
+info,player,Western Province,Abdullah Bayoumy
+info,player,Western Province,BE Hendricks
+info,player,Western Province,TL Moreki
+info,player,Western Province,N Burger
+info,player,Western Province,J Dawood
+info,registry,people,A Mgijima,955e8e86
+info,registry,people,A Myoli,c50bfbc2
+info,registry,people,Abdullah Bayoumy,8ab49ad2
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,D Smith,5d69930d
+info,registry,people,DA Hendricks,f66f5343
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,G Adams,70fb2cc8
+info,registry,people,G Kaplan,a5c3d564
+info,registry,people,GF Linde,e5437608
+info,registry,people,J Dawood,a2316f90
+info,registry,people,K Verreynne,bf814547
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Mpongwana,547c5509
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,N Burger,465aa633
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bokako,032e4384
+info,registry,people,TL Moreki,36ea17c1

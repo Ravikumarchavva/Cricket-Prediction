@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Himachal
+info,team,Hyderabad (India)
+info,gender,male
+info,season,2019/20
+info,date,2019/11/11
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Cricket Stadium, Sector-16"
+info,city,
+info,toss_winner,Hyderabad (India)
+info,toss_decision,field
+info,winner,Himachal
+info,winner_runs,84
+info,player,Himachal,Abhimanyu Rana
+info,player,Himachal,P Chopra
+info,player,Himachal,EC Sen
+info,player,Himachal,AR Kumar
+info,player,Himachal,N A Sharma
+info,player,Himachal,R Dhawan
+info,player,Himachal,Kanwar Abhinay
+info,player,Himachal,Mayank Dagar
+info,player,Himachal,Pankaj Jaswal
+info,player,Himachal,AKS Bains
+info,player,Himachal,Ayush Jamwal
+info,player,Hyderabad (India),Mohammed Siraj
+info,player,Hyderabad (India),CV Milind
+info,player,Hyderabad (India),Ravi Kiran
+info,player,Hyderabad (India),Ravi Teja
+info,player,Hyderabad (India),Mehdi Hassan
+info,player,Hyderabad (India),Akash Bhandari
+info,player,Hyderabad (India),Tanmay Agarwal
+info,player,Hyderabad (India),AT Rayudu
+info,player,Hyderabad (India),PA Reddy
+info,player,Hyderabad (India),Bavanaka Sandeep
+info,player,Hyderabad (India),Himalay Agarwal
+info,registry,people,AKS Bains,cb932841
+info,registry,people,AR Kumar,d1f63ad5
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Abhimanyu Rana,c224c5ef
+info,registry,people,Akash Bhandari,c2ce55cb
+info,registry,people,Ayush Jamwal,fcd1dd35
+info,registry,people,Bavanaka Sandeep,bc67cc22
+info,registry,people,CV Milind,7b5b6311
+info,registry,people,EC Sen,8a0ae9da
+info,registry,people,Himalay Agarwal,8e48d9a3
+info,registry,people,Kanwar Abhinay,7c2e7c17
+info,registry,people,Mayank Dagar,a457cfb5
+info,registry,people,Mehdi Hassan,5876c626
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,N A Sharma,5663eaa5
+info,registry,people,P Chopra,8ac93ca2
+info,registry,people,PA Reddy,2461eef2
+info,registry,people,Pankaj Jaswal,3bc10d5b
+info,registry,people,R Dhawan,26a85969
+info,registry,people,Ravi Kiran,0ff9728b
+info,registry,people,Ravi Teja,5f39537c
+info,registry,people,Tanmay Agarwal,e6e9b619

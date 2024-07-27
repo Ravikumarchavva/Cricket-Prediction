@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Victoria
+info,team,Queensland
+info,gender,male
+info,season,2023/24
+info,date,2023/11/16
+info,date,2023/11/17
+info,date,2023/11/18
+info,date,2023/11/19
+info,event,Sheffield Shield
+info,match_number,14
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,Queensland
+info,toss_decision,field
+info,player_of_match,W Sutherland
+info,umpire,Eloise Sheridan
+info,umpire,GA Abood
+info,match_referee,RL Parry
+info,winner,Victoria
+info,winner_runs,113
+info,player,Victoria,TJ Dean
+info,player,Victoria,MS Harris
+info,player,Victoria,WJ Pucovski
+info,player,Victoria,PSP Handscomb
+info,player,Victoria,C Kellaway
+info,player,Victoria,W Sutherland
+info,player,Victoria,SB Harper
+info,player,Victoria,M Perry
+info,player,Victoria,F O'Neill
+info,player,Victoria,SM Boland
+info,player,Victoria,D Warren
+info,player,Queensland,BE Street
+info,player,Queensland,MT Renshaw
+info,player,Queensland,JA Burns
+info,player,Queensland,UT Khawaja
+info,player,Queensland,J Clayton
+info,player,Queensland,JJ Peirson
+info,player,Queensland,JD Wildermuth
+info,player,Queensland,GS Sandhu
+info,player,Queensland,JJ Bazley
+info,player,Queensland,L Guthrie
+info,player,Queensland,MJ Swepson
+info,registry,people,BE Street,3d4ad40e
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,C Kellaway,60c28835
+info,registry,people,D Warren,ef55b38c
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,F O'Neill,39d608d4
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GS Sandhu,1558d83b
+info,registry,people,J Clayton,c56fc66d
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JD Wildermuth,f1c61793
+info,registry,people,JJ Bazley,003d49e6
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,L Guthrie,b03303ca
+info,registry,people,M Perry,442461fa
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MS Harris,9e85455c
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,RL Parry,86d151dc
+info,registry,people,SB Harper,a756e61a
+info,registry,people,SM Boland,d167edd3
+info,registry,people,TJ Dean,666936de
+info,registry,people,UT Khawaja,331ea488
+info,registry,people,W Sutherland,bc2d4f2e
+info,registry,people,WJ Pucovski,c21d4f79

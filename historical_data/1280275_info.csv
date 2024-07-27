@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maharashtra
+info,team,Goa
+info,gender,male
+info,season,2021/22
+info,date,2021/11/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,bat
+info,winner,Maharashtra
+info,winner_runs,73
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,Yash Nahar
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Ranjeet Nikam
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,Mukesh Choudhary
+info,player,Maharashtra,A Palkar
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,Sunil Yadav
+info,player,Goa,Amit Yadav
+info,player,Goa,Lakshay Garg
+info,player,Goa,SB Wagh
+info,player,Goa,Darshan Misal
+info,player,Goa,Shubham Ranjane
+info,player,Goa,SS Prabhudessai
+info,player,Goa,Amulya Pandrekar
+info,player,Goa,Snehal Kauthankar
+info,player,Goa,Aditya Kaushik
+info,player,Goa,Eknath Kerkar
+info,player,Goa,Deepraj Gaonkar
+info,registry,people,A Palkar,c4ab5dd8
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Amit Yadav,907cb4c1
+info,registry,people,Amulya Pandrekar,47ccd2bb
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,Darshan Misal,ce2b42ae
+info,registry,people,Deepraj Gaonkar,d3c1f849
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,Lakshay Garg,4af886ed
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,Ranjeet Nikam,ca099aeb
+info,registry,people,SB Wagh,dddca1d6
+info,registry,people,SS Prabhudessai,9385de2e
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,Snehal Kauthankar,3a0dc16e
+info,registry,people,Sunil Yadav,76b0c2ac
+info,registry,people,Yash Nahar,487f5721

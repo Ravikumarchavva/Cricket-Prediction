@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Gloucestershire
+info,gender,male
+info,season,2023
+info,date,2023/05/11
+info,date,2023/05/12
+info,date,2023/05/13
+info,date,2023/05/14
+info,event,County Championship
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Gloucestershire
+info,toss_decision,field
+info,umpire,JD Shantry
+info,umpire,NL Bainton
+info,match_referee,SJ Davis
+info,outcome,draw
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,MD Wagstaff
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,HJH Brookes
+info,player,Derbyshire,S Conners
+info,player,Derbyshire,RAS Lakmal
+info,player,Gloucestershire,MS Harris
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,TJ Price
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,AS Dale
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,LM Reece,9789e56e
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MD Wagstaff,0a396666
+info,registry,people,MS Harris,9e85455c
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,RAS Lakmal,2f28dc94
+info,registry,people,S Conners,067bda18
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,TJ Price,269ff06e
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,Zafar Gohar,9fd3a210

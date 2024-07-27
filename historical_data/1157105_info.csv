@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Puducherry
+info,team,Hyderabad (India)
+info,gender,male
+info,season,2018/19
+info,date,2019/02/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Airforce Complex ground, Palam II"
+info,city,
+info,toss_winner,Hyderabad (India)
+info,toss_decision,field
+info,winner,Puducherry
+info,winner_runs,3
+info,player,Puducherry,S Karthik
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,X Thalaivan Sargunam
+info,player,Puducherry,P Dogra
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,P Thamaraikannan
+info,player,Puducherry,A Aravinddaraj
+info,player,Puducherry,S Santhosh Kumaran
+info,player,Puducherry,Pankaj Singh
+info,player,Puducherry,Akshay Jain
+info,player,Hyderabad (India),Bavanaka Sandeep
+info,player,Hyderabad (India),Mohammed Siraj
+info,player,Hyderabad (India),Mehdi Hassan
+info,player,Hyderabad (India),CV Milind
+info,player,Hyderabad (India),Akash Bhandari
+info,player,Hyderabad (India),A Ashish Reddy
+info,player,Hyderabad (India),Tanmay Agarwal
+info,player,Hyderabad (India),PA Reddy
+info,player,Hyderabad (India),Rohit Rayudu
+info,player,Hyderabad (India),AT Rayudu
+info,player,Hyderabad (India),Kolla Sumanth
+info,registry,people,A Aravinddaraj,21d38d47
+info,registry,people,A Ashish Reddy,1c2a64cd
+info,registry,people,AT Rayudu,70d205c9
+info,registry,people,Akash Bhandari,c2ce55cb
+info,registry,people,Akshay Jain,cd626284
+info,registry,people,Bavanaka Sandeep,bc67cc22
+info,registry,people,CV Milind,7b5b6311
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Kolla Sumanth,b93a5d0b
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,Mehdi Hassan,5876c626
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,P Thamaraikannan,df72675b
+info,registry,people,PA Reddy,2461eef2
+info,registry,people,Pankaj Singh,e32d22f6
+info,registry,people,Rohit Rayudu,b4587494
+info,registry,people,S Karthik,14c90152
+info,registry,people,S Santhosh Kumaran,e1d6a861
+info,registry,people,Tanmay Agarwal,e6e9b619
+info,registry,people,X Thalaivan Sargunam,1763bc6c

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Afghanistan
+info,gender,male
+info,season,2023
+info,date,2023/09/05
+info,event,Asia Cup
+info,match_number,6
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,BKG Mendis
+info,umpire,Asif Yaqoob
+info,umpire,CB Gaffaney
+info,reserve_umpire,Masudur Rahman
+info,tv_umpire,L Rusere
+info,match_referee,DC Boon
+info,winner,Sri Lanka
+info,winner_runs,2
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,FDM Karunaratne
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,DN Wellalage
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,M Pathirana
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Fazalhaq Farooqi
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,FDM Karunaratne,400e2d4d
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,Karim Janat,62175638
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Samarawickrama,9ab2914d

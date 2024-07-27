@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cambodia
+info,team,United Arab Emirates
+info,gender,male
+info,season,2024
+info,date,2024/04/17
+info,event,ACC Men's Premier Cup
+info,match_number,19
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Cambodia
+info,toss_decision,bat
+info,player_of_match,Aayan Afzal Khan
+info,umpire,RMPJ Rambukwella
+info,umpire,Tabarak Dar
+info,reserve_umpire,Rahul Asher
+info,tv_umpire,Tariq Rasheed
+info,match_referee,Prakash Bhatt
+info,winner,United Arab Emirates
+info,winner_wickets,9
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,RV Viraj
+info,player,Cambodia,RR Sharan
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,E Beukes
+info,player,Cambodia,S Godara
+info,player,Cambodia,KDACK Gunarathne
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,GC Murtaza
+info,player,Cambodia,Prasad Anish
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,V Sukumaran
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Muhammad Farooq
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Omid Shafi Rahman
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,KDACK Gunarathne,78ec6ff1
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,Muhammad Farooq,8f3c6b8a
+info,registry,people,Omid Shafi Rahman,edfe226f
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Sharan,7cff331d
+info,registry,people,RV Viraj,a744d530
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,S Godara,dd7dd27a
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,V Sukumaran,5eb51b97
+info,registry,people,Waseem Muhammad,6f02fe2a

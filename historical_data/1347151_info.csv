@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/04/06
+info,date,2023/04/07
+info,date,2023/04/08
+info,date,2023/04/09
+info,event,County Championship
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,SJ O'Shaughnessy
+info,match_referee,Phil Whitticase
+info,outcome,draw
+info,player,Gloucestershire,MS Harris
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,GL van Buuren
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,JMR Taylor
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,TJ Price
+info,player,Gloucestershire,M de Lange
+info,player,Gloucestershire,AS Dale
+info,player,Glamorgan,T van der Gugten
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,DL Lloyd
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,DA Douthwaite
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,JAR Harris
+info,player,Glamorgan,HW Podmore
+info,registry,people,AS Dale,27e60d6e
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,DA Douthwaite,03df7a25
+info,registry,people,DL Lloyd,0c7f11be
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,GL van Buuren,ba377b40
+info,registry,people,HW Podmore,43205dad
+info,registry,people,JAR Harris,f1ba9ed7
+info,registry,people,JMR Taylor,aed5be04
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,M de Lange,d4eef961
+info,registry,people,MS Harris,9e85455c
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,SJ O'Shaughnessy,4d4fdf4a
+info,registry,people,T van der Gugten,d99cc23a
+info,registry,people,TJ Price,269ff06e
+info,registry,people,WT Root,72898514
+info,registry,people,Zafar Gohar,9fd3a210

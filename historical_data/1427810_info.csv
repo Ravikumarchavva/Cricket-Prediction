@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,The Blaze
+info,team,South East Stars
+info,gender,female
+info,season,2024
+info,date,2024/04/24
+info,event,Rachael Heyhoe Flint Trophy
+info,match_number,5
+info,venue,"Grace Road, Leicester"
+info,city,Leicester
+info,toss_winner,The Blaze
+info,toss_decision,bat
+info,umpire,J Naeem
+info,umpire,PK Baldwin
+info,match_referee,Phil Whitticase
+info,winner,South East Stars
+info,winner_wickets,8
+info,player,The Blaze,M Kelly
+info,player,The Blaze,T Graves
+info,player,The Blaze,S Munro
+info,player,The Blaze,E Claridge
+info,player,The Blaze,N de Klerk
+info,player,The Blaze,S Glenn
+info,player,The Blaze,D Mullan
+info,player,The Blaze,B Harmer
+info,player,The Blaze,KL Gordon
+info,player,The Blaze,CM McCarthy
+info,player,The Blaze,G Ballinger
+info,player,South East Stars,BF Smith
+info,player,South East Stars,NE Farrant
+info,player,South East Stars,PJ Scholfield
+info,player,South East Stars,SIR Dunkley
+info,player,South East Stars,AN Davidson-Richards
+info,player,South East Stars,A Cranstone
+info,player,South East Stars,PA Franklin
+info,player,South East Stars,CAE Hill
+info,player,South East Stars,B Miles
+info,player,South East Stars,R MacDonald-Gay
+info,player,South East Stars,D Gregory
+info,registry,people,A Cranstone,b9a52291
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,B Harmer,f113df44
+info,registry,people,B Miles,39155047
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,CAE Hill,24ffb29f
+info,registry,people,CM McCarthy,7ce7fb3c
+info,registry,people,D Gregory,b3ccffff
+info,registry,people,D Mullan,e78964b8
+info,registry,people,E Claridge,d8c6a647
+info,registry,people,G Ballinger,2f485713
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,KL Gordon,00823a96
+info,registry,people,M Kelly,ebf683f9
+info,registry,people,N de Klerk,ea544967
+info,registry,people,NE Farrant,15f609ed
+info,registry,people,PA Franklin,d6a9af83
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,PK Baldwin,6bb53c12
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Munro,b4e026de
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,T Graves,e893fef7

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karnataka
+info,team,Kerala
+info,gender,male
+info,season,2017/18
+info,date,2018/01/14
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Dr P.V.G. Raju ACA Sports Complex
+info,city,
+info,toss_winner,Karnataka
+info,toss_decision,bat
+info,winner,Karnataka
+info,winner_runs,20
+info,player,Karnataka,MA Agarwal
+info,player,Karnataka,KK Nair
+info,player,Karnataka,MK Pandey
+info,player,Karnataka,Ravikumar Samarth
+info,player,Karnataka,STR Binny
+info,player,Karnataka,K Gowtham
+info,player,Karnataka,P Dubey
+info,player,Karnataka,CM Gautam
+info,player,Karnataka,S Aravind
+info,player,Karnataka,A Mithun
+info,player,Karnataka,R Vinay Kumar
+info,player,Kerala,Sijomon Joseph
+info,player,Kerala,KM Asif
+info,player,Kerala,S Sandeep Warrier
+info,player,Kerala,Abhishek Mohan
+info,player,Kerala,S Midhun
+info,player,Kerala,SV Samson
+info,player,Kerala,Vishnu Vinod
+info,player,Kerala,KB Arun Karthik
+info,player,Kerala,Salman Nizar
+info,player,Kerala,Daryl Ferrario
+info,player,Kerala,Fabid Ahmed
+info,registry,people,A Mithun,66cf56a5
+info,registry,people,Abhishek Mohan,cdc4604c
+info,registry,people,CM Gautam,30a2649b
+info,registry,people,Daryl Ferrario,16b5917d
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,K Gowtham,90de905a
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,KK Nair,944533a5
+info,registry,people,KM Asif,798cc28e
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,P Dubey,ed5a5510
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,Ravikumar Samarth,f2dbbff5
+info,registry,people,S Aravind,957532de
+info,registry,people,S Midhun,ade90de7
+info,registry,people,S Sandeep Warrier,cdc6bdba
+info,registry,people,STR Binny,bd17b45f
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Salman Nizar,47ff3985
+info,registry,people,Sijomon Joseph,537d02f3
+info,registry,people,Vishnu Vinod,0494fa6e

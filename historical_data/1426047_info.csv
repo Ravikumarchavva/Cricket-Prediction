@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Papua New Guinea
+info,gender,female
+info,season,2023/24
+info,date,2024/03/28
+info,event,Papua New Guinea Women tour of Zimbabwe
+info,match_number,3
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,player_of_match,J Nkomo
+info,umpire,S Dambanevana
+info,umpire,T Musakwa
+info,reserve_umpire,I Chabi
+info,match_referee,J Chibhabha
+info,winner,Zimbabwe
+info,winner_runs,35
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,L Phiri
+info,player,Zimbabwe,A Mazvishaya
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,L Mabhero
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,L Rajadurai
+info,player,Papua New Guinea,Melanie Ani
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,D Lohia
+info,registry,people,A Mazvishaya,09a58e2d
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,D Lohia,01341439
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Toua,83cde44d
+info,registry,people,J Chibhabha,4c5c47a4
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Phiri,cca8bdca
+info,registry,people,L Rajadurai,0d0d3eeb
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,Melanie Ani,ff05f9f8
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,N Vare,20ace887
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,P Siaka,595433d2
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,T Musakwa,5f925536
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,V Araa,040f11e8

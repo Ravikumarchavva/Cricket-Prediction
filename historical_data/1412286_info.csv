@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sylhet Strikers
+info,team,Chattogram Challengers
+info,gender,male
+info,season,2023/24
+info,date,2024/01/29
+info,event,Bangladesh Premier League
+info,match_number,13
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Sylhet Strikers
+info,toss_decision,bat
+info,player_of_match,Bilal Khan
+info,umpire,DJ Millns
+info,umpire,Moniruzzaman
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Showkatur Rahman
+info,winner,Chattogram Challengers
+info,winner_wickets,8
+info,player,Sylhet Strikers,Nazmul Hossain Shanto
+info,player,Sylhet Strikers,Mohammad Mithun
+info,player,Sylhet Strikers,HT Tector
+info,player,Sylhet Strikers,Zakir Hasan
+info,player,Sylhet Strikers,RP Burl
+info,player,Sylhet Strikers,Ariful Haque
+info,player,Sylhet Strikers,SR Patel
+info,player,Sylhet Strikers,MADI Hemantha
+info,player,Sylhet Strikers,Mashrafe Mortaza
+info,player,Sylhet Strikers,Tanzim Hasan Sakib
+info,player,Sylhet Strikers,Rejaur Rahman
+info,player,Chattogram Challengers,Tanzid Hasan
+info,player,Chattogram Challengers,WIA Fernando
+info,player,Chattogram Challengers,TC Bruce
+info,player,Chattogram Challengers,Shahadat Hossain
+info,player,Chattogram Challengers,Shuvagata Hom
+info,player,Chattogram Challengers,Najibullah Zadran
+info,player,Chattogram Challengers,Shykat Ali
+info,player,Chattogram Challengers,Nihaduzzaman
+info,player,Chattogram Challengers,Shohidul Islam
+info,player,Chattogram Challengers,Al-Amin Hossain
+info,player,Chattogram Challengers,Bilal Khan
+info,registry,people,Al-Amin Hossain,3f5f39cd
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,MADI Hemantha,58431ca0
+info,registry,people,Mashrafe Mortaza,e186f49c
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nihaduzzaman,eca6dcb2
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Rejaur Rahman,267be846
+info,registry,people,SR Patel,18fac429
+info,registry,people,Shahadat Hossain,69e23303
+info,registry,people,Shohidul Islam,607ed7c2
+info,registry,people,Showkatur Rahman,5340a1c1
+info,registry,people,Shuvagata Hom,bb01f9e0
+info,registry,people,Shykat Ali,288dd46e
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,WIA Fernando,9550470d
+info,registry,people,Zakir Hasan,e3e09091

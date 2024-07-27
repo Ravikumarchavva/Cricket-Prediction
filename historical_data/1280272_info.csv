@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tripura
+info,team,Meghalaya
+info,gender,male
+info,season,2021/22
+info,date,2021/11/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"ACA Stadium,Mangalagiri"
+info,city,
+info,toss_winner,Tripura
+info,toss_decision,bat
+info,winner,Meghalaya
+info,winner_wickets,10
+info,player,Tripura,Bikramkumar Das
+info,player,Tripura,Arkaprabha Sinha
+info,player,Tripura,KB Pawan
+info,player,Tripura,Dipayan Debbarma
+info,player,Tripura,Rajat Dey
+info,player,Tripura,Sankar Paul
+info,player,Tripura,Manisankar Murasingh
+info,player,Tripura,Amit Ali
+info,player,Tripura,Saurabh Das
+info,player,Tripura,Ajay Sarkar
+info,player,Tripura,Rahil Shah
+info,player,Meghalaya,Chirag Khurana
+info,player,Meghalaya,Anish Charak
+info,player,Meghalaya,Akash Choudhary
+info,player,Meghalaya,Dippu Sangma
+info,player,Meghalaya,Himan Phukan
+info,player,Meghalaya,Chengkam Sangma
+info,player,Meghalaya,Kishan Lyngdoh
+info,player,Meghalaya,Larry Sangma
+info,player,Meghalaya,Yogesh Tiwari
+info,player,Meghalaya,Punit Bisht
+info,player,Meghalaya,DB Ravi Teja
+info,registry,people,Ajay Sarkar,10636efb
+info,registry,people,Akash Choudhary,0f60513c
+info,registry,people,Amit Ali,b54d8acf
+info,registry,people,Anish Charak,62a48252
+info,registry,people,Arkaprabha Sinha,92673ce8
+info,registry,people,Bikramkumar Das,601398c4
+info,registry,people,Chengkam Sangma,cf495041
+info,registry,people,Chirag Khurana,3d51cc7e
+info,registry,people,DB Ravi Teja,b720a5d6
+info,registry,people,Dipayan Debbarma,eb5dddc8
+info,registry,people,Dippu Sangma,24ea8cf8
+info,registry,people,Himan Phukan,9335178c
+info,registry,people,KB Pawan,62dad180
+info,registry,people,Kishan Lyngdoh,d11f0758
+info,registry,people,Larry Sangma,77f6fd61
+info,registry,people,Manisankar Murasingh,52cb36a0
+info,registry,people,Punit Bisht,310bddc0
+info,registry,people,Rahil Shah,7c30f4d0
+info,registry,people,Rajat Dey,ccc04a61
+info,registry,people,Sankar Paul,34cbc9d2
+info,registry,people,Saurabh Das,38f548aa
+info,registry,people,Yogesh Tiwari,144fdfd4

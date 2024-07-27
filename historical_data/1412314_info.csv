@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Fortune Barishal
+info,gender,male
+info,season,2023/24
+info,date,2024/02/23
+info,event,Bangladesh Premier League
+info,match_number,41
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Fortune Barishal
+info,toss_decision,field
+info,player_of_match,Tamim Iqbal
+info,umpire,DK Butler
+info,umpire,Gazi Sohel
+info,reserve_umpire,Mahfuzur Rahman
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Showkatur Rahman
+info,winner,Fortune Barishal
+info,winner_wickets,6
+info,player,Comilla Victorians,SP Narine
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,Mahidul Islam Ankon
+info,player,Comilla Victorians,MM Ali
+info,player,Comilla Victorians,AD Russell
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,MW Forde
+info,player,Comilla Victorians,Enamul Haque
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Musfik Hasan
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,Ahmed Shehzad
+info,player,Fortune Barishal,KR Mayers
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,OC McCoy
+info,player,Fortune Barishal,Mohammad Saifuddin
+info,player,Fortune Barishal,Taijul Islam
+info,player,Fortune Barishal,Akif Javed
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Ahmed Shehzad,f8fd6e3f
+info,registry,people,Akif Javed,99d7d5b7
+info,registry,people,DK Butler,671398e3
+info,registry,people,Enamul Haque,7d6c0891
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,KR Mayers,73c18486
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahidul Islam Ankon,dac6aabc
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Musfik Hasan,1afcbb60
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Showkatur Rahman,5340a1c1
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taijul Islam,9d1d34bd
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Towhid Hridoy,9e52a414

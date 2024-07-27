@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Birmingham Bears
+info,gender,male
+info,season,2023
+info,date,2023/06/02
+info,event,Vitality Blast
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Birmingham Bears
+info,toss_decision,field
+info,umpire,Naeem Ashraf
+info,umpire,PR Pollard
+info,match_referee,Wayne Noon
+info,winner,Derbyshire
+info,winner_runs,17
+info,player,Derbyshire,LM Reece
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,MRJ Watt
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,MM Ali
+info,player,Birmingham Bears,GJ Maxwell
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,CG Benjamin
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,EG Barnard
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,HJH Brookes
+info,player,Birmingham Bears,JB Lintott
+info,player,Birmingham Bears,CN Miles
+info,registry,people,AL Davies,29ede60b
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LM Reece,9789e56e
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Naeem Ashraf,1866938c
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TA Wood,884f72a1
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,Wayne Noon,736e1761
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11

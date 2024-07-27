@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Hampshire
+info,gender,male
+info,season,2023
+info,date,2023/08/08
+info,event,One-Day Cup
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Essex
+info,toss_decision,bat
+info,umpire,JD Shantry
+info,umpire,NJ Llong
+info,match_referee,SG Hinks
+info,winner,Hampshire
+info,winner_wickets,4
+info,player,Essex,JS Rymell
+info,player,Essex,RJ Das
+info,player,Essex,T Westley
+info,player,Essex,BJ Webster
+info,player,Essex,NRM Thain
+info,player,Essex,SR Harmer
+info,player,Essex,CWJ Allison
+info,player,Essex,WEL Buttleman
+info,player,Essex,Aaron Beard
+info,player,Essex,BMJ Allison
+info,player,Essex,JA Porter
+info,player,Hampshire,FS Middleton
+info,player,Hampshire,NRT Gubbins
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,BC Brown
+info,player,Hampshire,AHT Donald
+info,player,Hampshire,FS Organ
+info,player,Hampshire,IG Holland
+info,player,Hampshire,KHD Barker
+info,player,Hampshire,JR Eckland
+info,player,Hampshire,SW Currie
+info,player,Hampshire,DC Kelly
+info,registry,people,AHT Donald,72918338
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BC Brown,8af86756
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,CWJ Allison,42ee1d76
+info,registry,people,DC Kelly,5f031dc9
+info,registry,people,FS Middleton,8492a4de
+info,registry,people,FS Organ,819ae1ad
+info,registry,people,IG Holland,4167f30b
+info,registry,people,JA Porter,5b6d248a
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,JR Eckland,6fecec77
+info,registry,people,JS Rymell,ecf9fb2e
+info,registry,people,KHD Barker,2223b920
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NRM Thain,f8a63b6f
+info,registry,people,NRT Gubbins,c1a89821
+info,registry,people,RJ Das,734344b3
+info,registry,people,SG Hinks,0bb4dc0d
+info,registry,people,SR Harmer,23638956
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,T Westley,25a42048
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,WEL Buttleman,e855546b

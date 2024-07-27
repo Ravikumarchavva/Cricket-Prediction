@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Surrey
+info,team,Essex
+info,gender,male
+info,season,2023
+info,date,2023/07/02
+info,event,Vitality Blast
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Essex
+info,toss_decision,field
+info,umpire,RJ Bailey
+info,umpire,Surendiran Shanmugam
+info,match_referee,PM Such
+info,winner,Essex
+info,winner_wickets,3
+info,player,Surrey,WG Jacks
+info,player,Surrey,LJ Evans
+info,player,Surrey,JJ Roy
+info,player,Surrey,SM Curran
+info,player,Surrey,SP Narine
+info,player,Surrey,J Overton
+info,player,Surrey,TK Curran
+info,player,Surrey,CJ Jordan
+info,player,Surrey,JL Smith
+info,player,Surrey,SA Abbott
+info,player,Surrey,AAP Atkinson
+info,player,Essex,AM Rossington
+info,player,Essex,DW Lawrence
+info,player,Essex,MS Pepper
+info,player,Essex,FIN Khushi
+info,player,Essex,PI Walter
+info,player,Essex,MJJ Critchley
+info,player,Essex,DR Sams
+info,player,Essex,SR Harmer
+info,player,Essex,S Snater
+info,player,Essex,Aaron Beard
+info,player,Essex,SJ Cook
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AM Rossington,7bcde3fe
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DR Sams,caf69bf7
+info,registry,people,DW Lawrence,4b685e2d
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JL Smith,c834c290
+info,registry,people,LJ Evans,1c513d54
+info,registry,people,MJJ Critchley,c5cc48bc
+info,registry,people,MS Pepper,270e4c23
+info,registry,people,PI Walter,57590dbb
+info,registry,people,PM Such,c9f1892c
+info,registry,people,RJ Bailey,6bd04fa5
+info,registry,people,S Snater,a790df98
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SJ Cook,679cd31e
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Harmer,23638956
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TK Curran,e86754b2
+info,registry,people,WG Jacks,9caf69a1

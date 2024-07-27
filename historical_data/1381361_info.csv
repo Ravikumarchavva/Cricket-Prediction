@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Texas Super Kings
+info,team,Los Angeles Knight Riders
+info,gender,male
+info,season,2023
+info,date,2023/07/13
+info,event,Major League Cricket
+info,match_number,1
+info,venue,Grand Prairie Stadium
+info,city,Grand Prairie
+info,toss_winner,Los Angeles Knight Riders
+info,toss_decision,field
+info,player_of_match,DA Miller
+info,umpire,Jermaine Lindo
+info,umpire,P Wilson
+info,reserve_umpire,O Brown
+info,tv_umpire,WR Knights
+info,match_referee,SJA Taufel
+info,winner,Texas Super Kings
+info,winner_runs,69
+info,player,Texas Super Kings,DP Conway
+info,player,Texas Super Kings,F du Plessis
+info,player,Texas Super Kings,BKEL Milantha
+info,player,Texas Super Kings,DA Miller
+info,player,Texas Super Kings,Milind Kumar
+info,player,Texas Super Kings,MJ Santner
+info,player,Texas Super Kings,DJ Bravo
+info,player,Texas Super Kings,CP Savage
+info,player,Texas Super Kings,G Coetzee
+info,player,Texas Super Kings,Mohammad Mohsin
+info,player,Texas Super Kings,J Theron
+info,player,Los Angeles Knight Riders,MJ Guptill
+info,player,Los Angeles Knight Riders,UBT Chand
+info,player,Los Angeles Knight Riders,RR Rossouw
+info,player,Los Angeles Knight Riders,NR Kumar
+info,player,Los Angeles Knight Riders,JS Malhotra
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,CA Dry
+info,player,Los Angeles Knight Riders,A Zampa
+info,player,Los Angeles Knight Riders,LH Ferguson
+info,player,Los Angeles Knight Riders,Ali Khan
+info,registry,people,A Zampa,14f96089
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BKEL Milantha,dcabd6bc
+info,registry,people,CA Dry,7bc29ffb
+info,registry,people,CP Savage,a55e0360
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DJ Bravo,87e562a9
+info,registry,people,DP Conway,df5a6881
+info,registry,people,F du Plessis,3355b542
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,J Theron,dec8e038
+info,registry,people,JS Malhotra,9633359f
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Mohammad Mohsin,79f8472d
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,O Brown,22fe51d7
+info,registry,people,P Wilson,68304a36
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SP Narine,9d430b40
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,WR Knights,63cbf8d8

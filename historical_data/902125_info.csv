@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Delhi
+info,team,Andhra
+info,gender,male
+info,season,2015/16
+info,date,2016/01/03
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Alembic 1 Cricket Ground
+info,city,
+info,toss_winner,Andhra
+info,toss_decision,field
+info,winner,Delhi
+info,winner_runs,111
+info,player,Delhi,UBT Chand
+info,player,Delhi,G Gambhir
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,Aditya Kaushik
+info,player,Delhi,N Rana
+info,player,Delhi,Milind Kumar
+info,player,Delhi,P Negi
+info,player,Delhi,PJ Sangwan
+info,player,Delhi,Manan Sharma
+info,player,Delhi,Shivam Sharma
+info,player,Delhi,A Nehra
+info,player,Andhra,Bandaru Ayyappa
+info,player,Andhra,Cheepurapalli Stephen
+info,player,Andhra,K V Sasikanth
+info,player,Andhra,Bodavarapu Sudhakar
+info,player,Andhra,Sirla Srinivas
+info,player,Andhra,Prashanth Kumar
+info,player,Andhra,KS Bharat
+info,player,Andhra,Koripalli Sreekanth
+info,player,Andhra,A G Pradeep
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,Jyothi Sai Krishna
+info,registry,people,A G Pradeep,d5eed764
+info,registry,people,A Nehra,96fd40ae
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,Bandaru Ayyappa,cb4f31e2
+info,registry,people,Bodavarapu Sudhakar,748c4d3b
+info,registry,people,Cheepurapalli Stephen,48bf9d5c
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,Jyothi Sai Krishna,eb87663e
+info,registry,people,K V Sasikanth,bf6e03ea
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Koripalli Sreekanth,43b01577
+info,registry,people,Manan Sharma,bfcff6cd
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Negi,f62772e5
+info,registry,people,PJ Sangwan,9fc0ef64
+info,registry,people,Prashanth Kumar,1f0b8f44
+info,registry,people,Sarang Rawat,8dcae4c9
+info,registry,people,Shivam Sharma,6f49cc6e
+info,registry,people,Sirla Srinivas,2712898a
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,UBT Chand,0c94f480

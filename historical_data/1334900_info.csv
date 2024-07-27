@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Warriors
+info,team,Lions
+info,gender,male
+info,season,2022/23
+info,date,2022/10/21
+info,event,CSA T20 Challenge
+info,match_number,10
+info,venue,"Senwes Park, Potchefstroom"
+info,city,Potchefstroom
+info,toss_winner,Lions
+info,toss_decision,field
+info,umpire,A Steenkamp
+info,umpire,A Paleker
+info,reserve_umpire,A Jacobs
+info,tv_umpire,PJ Vosloo
+info,match_referee,LH Matroos
+info,winner,Lions
+info,winner_wickets,7
+info,method,D/L
+info,player,Warriors,LC Ngoepe
+info,player,Warriors,WJ Lubbe
+info,player,Warriors,MP Breetzke
+info,player,Warriors,RS Second
+info,player,Warriors,J Hermann
+info,player,Warriors,S Qeshile
+info,player,Warriors,B Swanepoel
+info,player,Warriors,GA Stuurman
+info,player,Warriors,K Molefe
+info,player,Warriors,Z Abrahams
+info,player,Warriors,Tsepo Ndwandwa
+info,player,Lions,RD Rickelton
+info,player,Lions,CS Delport
+info,player,Lions,M Van Buuren
+info,player,Lions,DA Hendricks
+info,player,Lions,PWA Mulder
+info,player,Lions,E Jones
+info,player,Lions,MP Siboto
+info,player,Lions,T Bokako
+info,player,Lions,L Sipamla
+info,player,Lions,TM Maphaka
+info,player,Lions,M Manack
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,B Swanepoel,6e0a2209
+info,registry,people,CS Delport,afa78c3a
+info,registry,people,DA Hendricks,f66f5343
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,GA Stuurman,d4d37c31
+info,registry,people,J Hermann,e87aeca2
+info,registry,people,K Molefe,f51c1a3b
+info,registry,people,L Sipamla,f892fcf9
+info,registry,people,LC Ngoepe,51355a30
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,M Manack,2cd3b457
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MP Siboto,9d50c7e1
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RS Second,13d0b3d6
+info,registry,people,S Qeshile,94268960
+info,registry,people,T Bokako,032e4384
+info,registry,people,TM Maphaka,595f565e
+info,registry,people,Tsepo Ndwandwa,be3ffb65
+info,registry,people,WJ Lubbe,10f42013
+info,registry,people,Z Abrahams,7eb7d5d4

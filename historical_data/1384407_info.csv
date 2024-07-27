@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Afghanistan
+info,gender,male
+info,season,2023/24
+info,date,2023/10/18
+info,event,ICC Cricket World Cup
+info,match_number,16
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Afghanistan
+info,toss_decision,field
+info,player_of_match,GD Phillips
+info,umpire,JS Wilson
+info,umpire,P Wilson
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,RK Illingworth
+info,match_referee,J Srinath
+info,winner,New Zealand
+info,winner_runs,149
+info,player,New Zealand,DP Conway
+info,player,New Zealand,WA Young
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Rahmat Shah
+info,player,Afghanistan,Hashmatullah Shahidi
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Ikram Alikhil
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Fazalhaq Farooqi
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,Hashmatullah Shahidi,c2a46cb4
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Ikram Alikhil,f67c958d
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,P Wilson,68304a36
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rahmat Shah,f9c29fcd
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,WA Young,8afe73e2

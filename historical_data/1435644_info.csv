@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Malawi
+info,gender,female
+info,season,2024
+info,date,2024/06/07
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,26
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Malawi
+info,toss_decision,field
+info,player_of_match,L Piety
+info,umpire,Gaston Niyibizi
+info,umpire,T Musakwa
+info,reserve_umpire,R Singinzwa
+info,winner,Nigeria
+info,winner_runs,90
+info,player,Nigeria,V Igbinedion
+info,player,Nigeria,P Agboya
+info,player,Nigeria,A Igbobie
+info,player,Nigeria,L Piety
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,S Sunday
+info,player,Nigeria,C Chukwuonye
+info,player,Nigeria,R Samson
+info,player,Nigeria,L Udeh
+info,player,Nigeria,A Adekunle
+info,player,Nigeria,S Etim
+info,player,Malawi,S Chinawa
+info,player,Malawi,S Kananji
+info,player,Malawi,T Luka
+info,player,Malawi,LL Dimba
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,P Maziya
+info,player,Malawi,M Kudimba
+info,player,Malawi,L Malino
+info,player,Malawi,T Mpandakwaya
+info,player,Malawi,T Chabila
+info,player,Malawi,V Phiri
+info,registry,people,A Adekunle,1b0ce76e
+info,registry,people,A Igbobie,8e75f2c7
+info,registry,people,C Chukwuonye,bb0aac11
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,L Malino,7a81836e
+info,registry,people,L Piety,46a29dd0
+info,registry,people,L Udeh,8451562a
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,M Kudimba,24ce1fcb
+info,registry,people,P Agboya,532ddb12
+info,registry,people,P Maziya,4f85f02c
+info,registry,people,R Samson,e63c08e9
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Etim,aa197946
+info,registry,people,S Kananji,23917bf0
+info,registry,people,S Sunday,594a0dec
+info,registry,people,T Chabila,f18b67a3
+info,registry,people,T Luka,44e008a5
+info,registry,people,T Mpandakwaya,3fd351ed
+info,registry,people,T Musakwa,5f925536
+info,registry,people,V Igbinedion,9525b9e5
+info,registry,people,V Phiri,8ffa1b3c

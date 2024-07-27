@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Sri Lanka
+info,gender,female
+info,season,2023
+info,date,2023/06/30
+info,event,ICC Women's Championship
+info,venue,Galle International Stadium
+info,city,Galle
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,SFM Devine
+info,umpire,LDVV Silva
+info,umpire,PSR Fonseka
+info,reserve_umpire,N Perera
+info,match_referee,V Bowen
+info,winner,New Zealand
+info,winner_runs,116
+info,player,New Zealand,SW Bates
+info,player,New Zealand,B Bezuidenhout
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,K Kavindi
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,I Ranaweera
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AC Kerr,7673c908
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,H Madavi,85021bcd
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,K Kavindi,2fa916b3
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ML Green,865eae1f
+info,registry,people,N Perera,129709f9
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,PSR Fonseka,8fd2cea5
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,V Bowen,7297ac4d
+info,registry,people,WK Dilhari,c34a15e6

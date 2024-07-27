@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/01/13
+info,event,SA20
+info,match_number,4
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,HE van der Dussen
+info,umpire,DJ Smith
+info,umpire,LB Gcuma
+info,reserve_umpire,MN Gampu
+info,tv_umpire,Lauren Agenbag
+info,match_referee,SB Lambson
+info,winner,MI Cape Town
+info,winner_runs,98
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,LS Livingstone
+info,player,MI Cape Town,KA Pollard
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,C Esterhuizen
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,K Rabada
+info,player,MI Cape Town,BE Hendricks
+info,player,MI Cape Town,OP Stone
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,R Herrmann
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,R Shepherd
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,Zahir Khan
+info,player,Joburg Super Kings,Imran Tahir
+info,registry,people,BE Hendricks,b56dc5f7
+info,registry,people,C Esterhuizen,ef9acbcc
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DJ Smith,d17bec15
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MN Gampu,41597619
+info,registry,people,N Burger,465aa633
+info,registry,people,OP Stone,3f659464
+info,registry,people,R Herrmann,a9d595ee
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SB Lambson,4146063f
+info,registry,people,SM Curran,e94915e6
+info,registry,people,Zahir Khan,786b7fe8

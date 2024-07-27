@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,India
+info,gender,male
+info,season,2023/24
+info,date,2023/12/17
+info,event,India tour of South Africa
+info,match_number,1
+info,venue,"The Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,Arshdeep Singh
+info,umpire,BP Jele
+info,umpire,RA Kettleborough
+info,reserve_umpire,A Paleker
+info,tv_umpire,Ahsan Raza
+info,match_referee,BC Broad
+info,winner,India
+info,winner_wickets,8
+info,player,South Africa,RR Hendricks
+info,player,South Africa,T de Zorzi
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,PWA Mulder
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,KA Maharaj
+info,player,South Africa,N Burger
+info,player,South Africa,T Shamsi
+info,player,India,RD Gaikwad
+info,player,India,B Sai Sudharsan
+info,player,India,SS Iyer
+info,player,India,Tilak Varma
+info,player,India,KL Rahul
+info,player,India,SV Samson
+info,player,India,AR Patel
+info,player,India,Arshdeep Singh
+info,player,India,Avesh Khan
+info,player,India,Kuldeep Yadav
+info,player,India,Mukesh Kumar
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AR Patel,2e171977
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,N Burger,465aa633
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T de Zorzi,d3a1c63d
+info,registry,people,Tilak Varma,b0482a1d

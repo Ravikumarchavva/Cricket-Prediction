@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Cayman Islands
+info,gender,male
+info,season,2023/24
+info,date,2023/09/30
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,2
+info,venue,"White Hill Field, Sandys Parish"
+info,city,Hamilton
+info,toss_winner,Panama
+info,toss_decision,bat
+info,player_of_match,A Morris
+info,umpire,Emmerson Carrington
+info,umpire,Vijaya Mallela
+info,reserve_umpire,JM Williams
+info,match_referee,Reon King
+info,winner,Cayman Islands
+info,winner_wickets,7
+info,player,Panama,Mahmud Jasat
+info,player,Panama,M Sohel Patel
+info,player,Panama,LR Gaonkar
+info,player,Panama,Yusuf Ebrahim
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,JKC Ahir
+info,player,Panama,RDB Ahir
+info,player,Panama,FL Patel
+info,player,Panama,N Ahir
+info,player,Panama,Abdullah Jasat
+info,player,Panama,KB Ahir
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,P Heron
+info,player,Cayman Islands,P Manning
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,T Taylor
+info,player,Cayman Islands,P Chin
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,AF Ifill
+info,registry,people,A Morris,04cf2e94
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,Abdullah Jasat,5a42db78
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,C Wright,d465c6d7
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,FL Patel,e205ce8b
+info,registry,people,JKC Ahir,3c5df172
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,KB Ahir,214cf493
+info,registry,people,LR Gaonkar,e51abd5e
+info,registry,people,M Sohel Patel,40a5bcf9
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,N Ahir,c2ecd4a7
+info,registry,people,P Chin,21267b60
+info,registry,people,P Heron,30b902a3
+info,registry,people,P Manning,f06b5585
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Reon King,20fbf68c
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Yusuf Ebrahim,2d5c6e88

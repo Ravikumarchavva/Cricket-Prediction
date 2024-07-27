@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,South Africa
+info,gender,male
+info,season,2002/03
+info,date,2003/02/22
+info,event,ICC World Cup
+info,match_number,22
+info,venue,"Goodyear Park, Bloemfontein"
+info,city,Bloemfontein
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,M Ntini
+info,umpire,BF Bowden
+info,umpire,S Venkataraghavan
+info,tv_umpire,TH Wijewardene
+info,match_referee,CH Lloyd
+info,winner,South Africa
+info,winner_wickets,10
+info,player,Bangladesh,Al Sahariar
+info,player,Bangladesh,Ehsanul Haque
+info,player,Bangladesh,Mohammad Ashraful
+info,player,Bangladesh,Sanwar Hossain
+info,player,Bangladesh,Alok Kapali
+info,player,Bangladesh,Tushar Imran
+info,player,Bangladesh,Khaled Mashud
+info,player,Bangladesh,Khaled Mahmud
+info,player,Bangladesh,Mohammad Rafique
+info,player,Bangladesh,Manjural Islam
+info,player,Bangladesh,Talha Jubair
+info,player,South Africa,HH Gibbs
+info,player,South Africa,G Kirsten
+info,player,South Africa,JH Kallis
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,AJ Hall
+info,player,South Africa,L Klusener
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,RJ Peterson
+info,player,South Africa,M Ntini
+info,player,South Africa,M Zondeki
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,Al Sahariar,fdd414ab
+info,registry,people,Alok Kapali,54279e23
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,Ehsanul Haque,688b2d58
+info,registry,people,G Kirsten,ad48eb56
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,Khaled Mahmud,0c8a1d51
+info,registry,people,Khaled Mashud,ade071c5
+info,registry,people,L Klusener,c0790f82
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M Zondeki,9b75e4f1
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,Manjural Islam,2cfa6534
+info,registry,people,Mohammad Ashraful,2bb09eb2
+info,registry,people,Mohammad Rafique,7ff3fcaa
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,S Venkataraghavan,12453319
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,Sanwar Hossain,2cccba8f
+info,registry,people,TH Wijewardene,6a6be119
+info,registry,people,Talha Jubair,0e9af639
+info,registry,people,Tushar Imran,b58af144

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Auckland Aces
+info,team,Northern Districts
+info,gender,male
+info,season,2017/18
+info,date,2018/03/01
+info,date,2018/03/02
+info,date,2018/03/03
+info,date,2018/03/04
+info,event,Plunket Shield
+info,venue,Kennards Hire Community Oval
+info,city,
+info,toss_winner,Northern Districts
+info,toss_decision,field
+info,umpire,JM Dempsey
+info,umpire,TJ Parlane
+info,match_referee,RA Dykes
+info,winner,Auckland Aces
+info,winner_runs,140
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,GD Phillips
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,MJ Barry
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,MB McEwan
+info,player,Auckland Aces,BG Lister
+info,player,Auckland Aces,SC Meaker
+info,player,Auckland Aces,JA Brown
+info,player,Northern Districts,HR Cooper
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,BJ Watling
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,JD Baker
+info,player,Northern Districts,BJ Arnel
+info,registry,people,B Popli,848487cf
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,BJ Watling,928670cc
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HR Cooper,99528b4b
+info,registry,people,JA Brown,30539beb
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JG Walker,94734e80
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,MJ Barry,8a6ba092
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SC Meaker,eb9cb105
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TL Seifert,4663bd23

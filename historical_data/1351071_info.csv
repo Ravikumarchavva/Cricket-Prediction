@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Dhaka Dominators
+info,gender,male
+info,season,2022/23
+info,date,2023/01/20
+info,event,Bangladesh Premier League
+info,match_number,20
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Dhaka Dominators
+info,toss_decision,field
+info,player_of_match,Iftikhar Ahmed
+info,umpire,DJ Millns
+info,umpire,Masudur Rahman
+info,reserve_umpire,Mahfuzur Rahman
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,Akhtar Ahmad
+info,winner,Fortune Barishal
+info,winner_runs,13
+info,player,Fortune Barishal,Saif Hassan
+info,player,Fortune Barishal,Anamul Haque
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,PC de Silva
+info,player,Fortune Barishal,Shakib Al Hasan
+info,player,Fortune Barishal,Iftikhar Ahmed
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Kamrul Islam Rabbi
+info,player,Fortune Barishal,Fazle Mahmud
+info,player,Fortune Barishal,Karim Janat
+info,player,Fortune Barishal,Mohammad Wasim
+info,player,Dhaka Dominators,Usman Ghani
+info,player,Dhaka Dominators,Soumya Sarkar
+info,player,Dhaka Dominators,Mohammad Mithun
+info,player,Dhaka Dominators,Mohammad Imran
+info,player,Dhaka Dominators,Nasir Hossain
+info,player,Dhaka Dominators,Ariful Haque
+info,player,Dhaka Dominators,Jubair Hossain
+info,player,Dhaka Dominators,Arafat Sunny
+info,player,Dhaka Dominators,Taskin Ahmed
+info,player,Dhaka Dominators,Muktar Ali
+info,player,Dhaka Dominators,Salman Irshad
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,Arafat Sunny,1f7adc8a
+info,registry,people,Ariful Haque,ad1730bc
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Fazle Mahmud,b4bef2ed
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Jubair Hossain,902d916b
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,Karim Janat,62175638
+info,registry,people,Mahfuzur Rahman,3275b68b
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Imran,65a2fff5
+info,registry,people,Mohammad Mithun,77191792
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Muktar Ali,4a491652
+info,registry,people,Nasir Hossain,6eea0b32
+info,registry,people,PC de Silva,b40ee8a8
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Salman Hossain,03ff4a44
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Usman Ghani,e3829b2a

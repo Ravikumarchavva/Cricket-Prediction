@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hampshire
+info,team,Glamorgan
+info,gender,male
+info,season,2023
+info,date,2023/06/30
+info,event,Vitality Blast
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Glamorgan
+info,toss_decision,field
+info,umpire,Mark Newell
+info,umpire,M Burns
+info,match_referee,JJ Swift
+info,winner,Hampshire
+info,winner_runs,21
+info,method,D/L
+info,player,Hampshire,JM Vince
+info,player,Hampshire,BR McDermott
+info,player,Hampshire,TJ Prest
+info,player,Hampshire,JJ Weatherley
+info,player,Hampshire,LA Dawson
+info,player,Hampshire,RA Whiteley
+info,player,Hampshire,JK Fuller
+info,player,Hampshire,BAC Howell
+info,player,Hampshire,CP Wood
+info,player,Hampshire,NT Ellis
+info,player,Hampshire,JA Turner
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,AW Gorvin
+info,player,Glamorgan,WT Smale
+info,player,Glamorgan,JP McIlroy
+info,player,Glamorgan,P Sisodiya
+info,player,Glamorgan,RAJ Smith
+info,player,Glamorgan,P Hatzoglou
+info,registry,people,AW Gorvin,7d7233a9
+info,registry,people,BAC Howell,0bec3a6c
+info,registry,people,BR McDermott,c41043e6
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,CP Wood,1cfac535
+info,registry,people,JA Turner,cdd875d9
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JJ Weatherley,a05d0552
+info,registry,people,JK Fuller,dda5aae5
+info,registry,people,JM Vince,a15618fe
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Burns,b3bd0666
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,P Sisodiya,dd9de7ad
+info,registry,people,RA Whiteley,d346d939
+info,registry,people,RAJ Smith,6daf5e8c
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,TJ Prest,0207ff32
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,WT Smale,97da28bd

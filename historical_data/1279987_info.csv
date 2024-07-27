@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Auckland Aces
+info,gender,male
+info,season,2021/22
+info,date,2022/04/12
+info,date,2022/04/13
+info,date,2022/04/14
+info,date,2022/04/15
+info,event,Plunket Shield
+info,match_number,24
+info,venue,"Bert Sutcliffe Oval, Lincoln"
+info,city,Lincoln
+info,toss_winner,Canterbury
+info,toss_decision,bat
+info,umpire,JM Dempsey
+info,umpire,WR Knights
+info,winner,Canterbury
+info,winner_runs,98
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,HM Nicholls
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,LJ Carter
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,ZGF Foulkes
+info,player,Canterbury,SB Davey
+info,player,Canterbury,TF van Woerkom
+info,player,Canterbury,WSA Williams
+info,player,Canterbury,W O'Rourke
+info,player,Auckland Aces,MJ Guptill
+info,player,Auckland Aces,GH Worker
+info,player,Auckland Aces,WT O'Donnell
+info,player,Auckland Aces,MS Chapman
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,WER Somerville
+info,player,Auckland Aces,SB Keene
+info,player,Auckland Aces,L Delport
+info,player,Auckland Aces,BG Lister
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,FW Sheat,56d471f2
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,L Delport,2c1438ef
+info,registry,people,LJ Carter,dfb51f40
+info,registry,people,MJ Guptill,2be41edb
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SB Davey,f45cd5c8
+info,registry,people,SB Keene,6fb2d3a2
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TF van Woerkom,70f2f922
+info,registry,people,W O'Rourke,cb9b8664
+info,registry,people,WER Somerville,74a1c1e3
+info,registry,people,WR Knights,63cbf8d8
+info,registry,people,WSA Williams,861eed37
+info,registry,people,WT O'Donnell,730b57de
+info,registry,people,ZGF Foulkes,30f92334

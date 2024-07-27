@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Uttar Pradesh
+info,gender,male
+info,season,2018/19
+info,date,2019/03/12
+info,event,Syed Mushtaq Ali Trophy
+info,venue, Emerald Heights International School Ground
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,field
+info,winner,Mumbai
+info,winner_runs,46
+info,player,Mumbai,Jay Bista
+info,player,Mumbai,Eknath Kerkar
+info,player,Mumbai,SD Lad
+info,player,Mumbai,SS Iyer
+info,player,Mumbai,SA Yadav
+info,player,Mumbai,S Dube
+info,player,Mumbai,Akash Parkar
+info,player,Mumbai,Shubham Ranjane
+info,player,Mumbai,SN Thakur
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,SZ Mulani
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Mohit Jangra
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,Shubham Chaubey
+info,player,Uttar Pradesh,Ankit Chaudhary
+info,player,Uttar Pradesh,Madhav Kaushik
+info,player,Uttar Pradesh,Samarth Singh
+info,player,Uttar Pradesh,Aryan Juyal
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,RK Singh
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Akash Parkar,f992200b
+info,registry,people,Ankit Chaudhary,c0e59e39
+info,registry,people,Aryan Juyal,5f2732f7
+info,registry,people,Eknath Kerkar,84085032
+info,registry,people,Jay Bista,f079e8fe
+info,registry,people,Madhav Kaushik,49110249
+info,registry,people,Mohit Jangra,4052ab5c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SD Lad,9601c534
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Samarth Singh,9889da93
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shiva Singh,3b63b5cc
+info,registry,people,Shubham Chaubey,58588e5a
+info,registry,people,Shubham Ranjane,6c7a68d0
+info,registry,people,TU Deshpande,46a9bea1

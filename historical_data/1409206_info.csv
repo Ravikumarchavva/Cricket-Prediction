@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brisbane Heat
+info,team,Perth Scorchers
+info,gender,female
+info,season,2023/24
+info,date,2023/11/29
+info,event,Women's Big Bash League
+info,venue,"Western Australia Cricket Association Ground, Perth"
+info,city,Perth
+info,toss_winner,Brisbane Heat
+info,toss_decision,bat
+info,player_of_match,GM Harris
+info,umpire,D Taylor
+info,umpire,Troy Penman
+info,tv_umpire,CA Polosak
+info,match_referee,RW Stratford
+info,winner,Brisbane Heat
+info,winner_runs,67
+info,player,Brisbane Heat,GM Harris
+info,player,Brisbane Heat,G Redmayne
+info,player,Brisbane Heat,AC Kerr
+info,player,Brisbane Heat,M du Preez
+info,player,Brisbane Heat,L Harris
+info,player,Brisbane Heat,CR Knott
+info,player,Brisbane Heat,JL Jonassen
+info,player,Brisbane Heat,BAM Heath
+info,player,Brisbane Heat,G Voll
+info,player,Brisbane Heat,NM Hancock
+info,player,Brisbane Heat,CG Sippel
+info,player,Perth Scorchers,L Winfield-Hill
+info,player,Perth Scorchers,BL Mooney
+info,player,Perth Scorchers,C Piparo
+info,player,Perth Scorchers,NR Sciver-Brunt
+info,player,Perth Scorchers,SFM Devine
+info,player,Perth Scorchers,M Darke
+info,player,Perth Scorchers,P Cleary
+info,player,Perth Scorchers,A King
+info,player,Perth Scorchers,AL Edgar
+info,player,Perth Scorchers,CC Ainsworth
+info,player,Perth Scorchers,L Mills
+info,registry,people,A King,83558266
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AL Edgar,795ff893
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,C Piparo,276f3dde
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CC Ainsworth,4b69c598
+info,registry,people,CG Sippel,c2ac0db5
+info,registry,people,CR Knott,d7ff1adc
+info,registry,people,D Taylor,b940a2b2
+info,registry,people,G Redmayne,324b9eee
+info,registry,people,G Voll,5c30d455
+info,registry,people,GM Harris,72166006
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,L Harris,36e2dc83
+info,registry,people,L Mills,c35a0b8a
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,M Darke,57a90666
+info,registry,people,M du Preez,e219f17a
+info,registry,people,NM Hancock,af8c3a85
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,P Cleary,507acf2e
+info,registry,people,RW Stratford,85489579
+info,registry,people,SFM Devine,de69af96
+info,registry,people,Troy Penman,0aa42c26

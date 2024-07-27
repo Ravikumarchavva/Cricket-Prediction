@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,South Africa
+info,gender,male
+info,season,2003
+info,date,2003/07/10
+info,event,NatWest Series
+info,match_number,9
+info,venue,"The Rose Bowl, Southampton"
+info,city,Southampton
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,M Ntini
+info,umpire,BF Bowden
+info,umpire,DR Shepherd
+info,tv_umpire,NA Mallender
+info,match_referee,CH Lloyd
+info,winner,South Africa
+info,winner_wickets,7
+info,player,Zimbabwe,GW Flower
+info,player,Zimbabwe,DD Ebrahim
+info,player,Zimbabwe,TJ Friend
+info,player,Zimbabwe,T Taibu
+info,player,Zimbabwe,SM Ervine
+info,player,Zimbabwe,S Matsikenyeri
+info,player,Zimbabwe,RW Sims
+info,player,Zimbabwe,HH Streak
+info,player,Zimbabwe,AM Blignaut
+info,player,Zimbabwe,RW Price
+info,player,Zimbabwe,DT Hondo
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,M van Jaarsveld
+info,player,South Africa,JA Rudolph
+info,player,South Africa,MV Boucher
+info,player,South Africa,AJ Hall
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,SM Pollock
+info,player,South Africa,PR Adams
+info,player,South Africa,A Nel
+info,player,South Africa,M Ntini
+info,registry,people,A Nel,2503e881
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,AM Blignaut,80ec5dfd
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,DD Ebrahim,b590a4d8
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,DT Hondo,7fe5deb8
+info,registry,people,GC Smith,72861603
+info,registry,people,GW Flower,348195ea
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HH Streak,37f501d7
+info,registry,people,JA Rudolph,42537f07
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M van Jaarsveld,f407e354
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,PR Adams,ae1bd901
+info,registry,people,RW Price,67af6f81
+info,registry,people,RW Sims,ecaad7d2
+info,registry,people,S Matsikenyeri,e7ba1233
+info,registry,people,SM Ervine,556302a7
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,T Taibu,75de770f
+info,registry,people,TJ Friend,3e91a87f

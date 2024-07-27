@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Punjab
+info,team,Maharashtra
+info,gender,male
+info,season,2021/22
+info,date,2021/11/05
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,field
+info,winner,Maharashtra
+info,winner_wickets,7
+info,player,Punjab,Shubman Gill
+info,player,Punjab,P Simran Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,Gurkeerat Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Harpreet Brar
+info,player,Punjab,Arshdeep Singh
+info,player,Punjab,S Kaul
+info,player,Punjab,M Markande
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,Mukesh Choudhary
+info,player,Maharashtra,A Palkar
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,Sunil Yadav
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,Yash Nahar
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,Ranjeet Nikam
+info,player,Maharashtra,KM Jadhav
+info,registry,people,A Palkar,c4ab5dd8
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,Gurkeerat Singh,6eb146d2
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,Karan Kaila,b19f1fe9
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,Ranjeet Nikam,ca099aeb
+info,registry,people,S Kaul,dcf81436
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Sunil Yadav,76b0c2ac
+info,registry,people,Yash Nahar,487f5721

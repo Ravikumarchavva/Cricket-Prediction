@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Bangladesh
+info,gender,male
+info,season,2023/24
+info,date,2023/10/24
+info,event,ICC Cricket World Cup
+info,match_number,23
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,Q de Kock
+info,umpire,Ahsan Raza
+info,umpire,JS Wilson
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,P Wilson
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_runs,149
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,G Coetzee
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,LB Williams
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mushfiqur Rahim
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Nasum Ahmed
+info,player,Bangladesh,Hasan Mahmud
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Shoriful Islam
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,P Wilson,68304a36
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Tanzid Hasan,80fe764d

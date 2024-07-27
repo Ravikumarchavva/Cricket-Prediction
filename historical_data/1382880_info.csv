@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Colombo Strikers
+info,team,B-Love Kandy
+info,gender,male
+info,season,2023
+info,date,2023/07/31
+info,event,Lanka Premier League
+info,match_number,3
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Colombo Strikers
+info,toss_decision,bat
+info,player_of_match,Babar Azam
+info,umpire,BCN Amarasinghe
+info,umpire,Gazi Sohel
+info,reserve_umpire,AG Dissanayake
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,GF Labrooy
+info,winner,Colombo Strikers
+info,winner_runs,27
+info,player,Colombo Strikers,N Dickwella
+info,player,Colombo Strikers,Babar Azam
+info,player,Colombo Strikers,P Nissanka
+info,player,Colombo Strikers,MNK Fernando
+info,player,Colombo Strikers,D Lakshan
+info,player,Colombo Strikers,Mohammad Nawaz
+info,player,Colombo Strikers,C Karunaratne
+info,player,Colombo Strikers,RTM Mendis
+info,player,Colombo Strikers,Naseem Shah
+info,player,Colombo Strikers,JDF Vandersay
+info,player,Colombo Strikers,M Pathirana
+info,player,B-Love Kandy,PTM Dabare
+info,player,B-Love Kandy,LD Chandimal
+info,player,B-Love Kandy,PHKD Mendis
+info,player,B-Love Kandy,AD Mathews
+info,player,B-Love Kandy,KNA Bandara
+info,player,B-Love Kandy,PWH de Silva
+info,player,B-Love Kandy,Sarfraz Ahmed
+info,player,B-Love Kandy,Aamer Jamal
+info,player,B-Love Kandy,I Udana
+info,player,B-Love Kandy,Mohammad Hasnain
+info,player,B-Love Kandy,Mujeeb Ur Rahman
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AG Dissanayake,cf209c55
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,BCN Amarasinghe,ccd560d6
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,D Lakshan,0a2184d9
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,I Udana,ac5ae4af
+info,registry,people,JDF Vandersay,aceb7654
+info,registry,people,KNA Bandara,585dda5d
+info,registry,people,LD Chandimal,8dd02a98
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MNK Fernando,ba603555
+info,registry,people,Mohammad Hasnain,8596fe80
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,N Dickwella,45963d9e
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PTM Dabare,a97fbc2c
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RTM Mendis,1be67d37
+info,registry,people,Sarfraz Ahmed,2254ab79

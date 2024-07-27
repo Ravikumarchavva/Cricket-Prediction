@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Birmingham Bears
+info,gender,male
+info,season,2023
+info,date,2023/05/29
+info,event,Vitality Blast
+info,venue,"Edgbaston, Birmingham"
+info,city,Birmingham
+info,toss_winner,Lancashire
+info,toss_decision,bat
+info,umpire,PR Pollard
+info,umpire,RK Illingworth
+info,match_referee,JJ Swift
+info,winner,Birmingham Bears
+info,winner_wickets,7
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Mitchell
+info,player,Lancashire,LS Livingstone
+info,player,Lancashire,C de Grandhomme
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,L Wood
+info,player,Lancashire,S Mahmood
+info,player,Lancashire,MW Parkinson
+info,player,Birmingham Bears,RM Yates
+info,player,Birmingham Bears,AL Davies
+info,player,Birmingham Bears,GJ Maxwell
+info,player,Birmingham Bears,SR Hain
+info,player,Birmingham Bears,DR Mousley
+info,player,Birmingham Bears,EG Barnard
+info,player,Birmingham Bears,CG Benjamin
+info,player,Birmingham Bears,DR Briggs
+info,player,Birmingham Bears,CN Miles
+info,player,Birmingham Bears,HJH Brookes
+info,player,Birmingham Bears,JB Lintott
+info,registry,people,AL Davies,29ede60b
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,CG Benjamin,95a15317
+info,registry,people,CN Miles,5fed6272
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Briggs,f3abd0c9
+info,registry,people,DR Mousley,876dbe2d
+info,registry,people,EG Barnard,a510bdd3
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HJH Brookes,2085e1fa
+info,registry,people,JB Lintott,e5218454
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,L Wood,65b6943c
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MW Parkinson,19708692
+info,registry,people,PR Pollard,85d884bb
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RM Yates,3581a798
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SR Hain,67b9536c
+info,registry,people,TW Hartley,22b98d7c

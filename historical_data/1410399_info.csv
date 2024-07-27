@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northamptonshire
+info,team,Worcestershire
+info,gender,male
+info,season,2024
+info,date,2024/06/07
+info,event,Vitality Blast
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Northamptonshire
+info,toss_decision,bat
+info,player_of_match,SA Zaib
+info,umpire,James Middlebrook
+info,umpire,RJ Warren
+info,tv_umpire,Rob White
+info,match_referee,Wayne Noon
+info,winner,Northamptonshire
+info,winner_runs,6
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,MP Breetzke
+info,player,Northamptonshire,DJ Willey
+info,player,Northamptonshire,RS Bopara
+info,player,Northamptonshire,Sikandar Raza
+info,player,Northamptonshire,SA Zaib
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,GA Bartlett
+info,player,Northamptonshire,BW Sanderson
+info,player,Northamptonshire,FJ Heldreich
+info,player,Northamptonshire,RA Weatherall
+info,player,Worcestershire,BL D'Oliveira
+info,player,Worcestershire,MJ Waite
+info,player,Worcestershire,EJ Pollock
+info,player,Worcestershire,AJ Hose
+info,player,Worcestershire,EA Brookes
+info,player,Worcestershire,TAI Taylor
+info,player,Worcestershire,NG Smith
+info,player,Worcestershire,GH Roderick
+info,player,Worcestershire,HR Walsh
+info,player,Worcestershire,AW Finch
+info,player,Worcestershire,Shoaib Bashir
+info,registry,people,AJ Hose,104e88a4
+info,registry,people,AW Finch,fc63d916
+info,registry,people,BL D'Oliveira,9679838c
+info,registry,people,BW Sanderson,e871a7a1
+info,registry,people,DJ Willey,7f048519
+info,registry,people,EA Brookes,6ce9f3eb
+info,registry,people,EJ Pollock,d6663a9a
+info,registry,people,FJ Heldreich,56ef4f99
+info,registry,people,GA Bartlett,e2caec46
+info,registry,people,GH Roderick,7081848a
+info,registry,people,HR Walsh,1ac2a995
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,MJ Waite,a4b810d0
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RA Weatherall,acb94221
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RS Bopara,7ca5e05d
+info,registry,people,Rob White,59b91222
+info,registry,people,SA Zaib,ab01e323
+info,registry,people,Shoaib Bashir,e36e9dd3
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,Wayne Noon,736e1761

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Manipur
+info,team,Punjab
+info,gender,male
+info,season,2023/24
+info,date,2023/10/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JSCA International Stadium Complex, Ranchi"
+info,city,Ranchi
+info,toss_winner,Manipur
+info,toss_decision,bat
+info,umpire,P Jayapal
+info,umpire,PM Joshi
+info,match_referee,DS Manohar
+info,winner,Punjab
+info,winner_wickets,8
+info,player,Manipur,P Prafullomani
+info,player,Manipur,B Rahman
+info,player,Manipur,Al Bashid Muhammed
+info,player,Manipur,Kangabam Singh
+info,player,Manipur,Rex Rajkumar
+info,player,Manipur,BM Chingakham
+info,player,Manipur,Bikash Singh
+info,player,Manipur,L Kishan Singha
+info,player,Manipur,Sultan Karim
+info,player,Manipur,Bishworjit Konthoujam
+info,player,Manipur,Lamabam Singh
+info,player,Punjab,Abhishek Sharma
+info,player,Punjab,P Simran Singh
+info,player,Punjab,N Wadhera
+info,player,Punjab,Anmolpreet Singh
+info,player,Punjab,Mandeep Singh
+info,player,Punjab,M Markande
+info,player,Punjab,Arshdeep Singh
+info,player,Punjab,Sanvir Singh
+info,player,Punjab,Ramandeep Singh
+info,player,Punjab,S Kaul
+info,player,Punjab,Harpreet Brar
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Al Bashid Muhammed,1dc27b6b
+info,registry,people,Anmolpreet Singh,1399b39c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B Rahman,c707b358
+info,registry,people,BM Chingakham,90dd5193
+info,registry,people,Bikash Singh,2be0cc2f
+info,registry,people,Bishworjit Konthoujam,15deff66
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,Harpreet Brar,c05edf8e
+info,registry,people,Kangabam Singh,59da1e8a
+info,registry,people,L Kishan Singha,ca82673d
+info,registry,people,Lamabam Singh,76860ea3
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,Mandeep Singh,c3a96caf
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,P Jayapal,209e51e8
+info,registry,people,P Prafullomani,f9900488
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PM Joshi,0dcc9a8c
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,Rex Rajkumar,f3ba1bdc
+info,registry,people,S Kaul,dcf81436
+info,registry,people,Sanvir Singh,b0f2baf4
+info,registry,people,Sultan Karim,7ef0c030

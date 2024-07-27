@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,MI Cape Town
+info,team,Joburg Super Kings
+info,gender,male
+info,season,2023/24
+info,date,2024/01/29
+info,event,SA20
+info,match_number,23
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,Joburg Super Kings
+info,toss_decision,field
+info,player_of_match,F du Plessis
+info,umpire,BM White
+info,umpire,LB Gcuma
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,A Jacobs
+info,match_referee,LH Matroos
+info,winner,Joburg Super Kings
+info,winner_wickets,10
+info,method,D/L
+info,player,MI Cape Town,HE van der Dussen
+info,player,MI Cape Town,RD Rickelton
+info,player,MI Cape Town,LS Livingstone
+info,player,MI Cape Town,KA Pollard
+info,player,MI Cape Town,SM Curran
+info,player,MI Cape Town,D Brevis
+info,player,MI Cape Town,GF Linde
+info,player,MI Cape Town,TP Kaber
+info,player,MI Cape Town,D Potgieter
+info,player,MI Cape Town,N Thushara
+info,player,MI Cape Town,K Rabada
+info,player,Joburg Super Kings,JL du Plooy
+info,player,Joburg Super Kings,F du Plessis
+info,player,Joburg Super Kings,RR Hendricks
+info,player,Joburg Super Kings,WL Madsen
+info,player,Joburg Super Kings,MM Ali
+info,player,Joburg Super Kings,D Ferreira
+info,player,Joburg Super Kings,D Wiese
+info,player,Joburg Super Kings,LB Williams
+info,player,Joburg Super Kings,Imran Tahir
+info,player,Joburg Super Kings,N Burger
+info,player,Joburg Super Kings,KI Simmonds
+info,registry,people,A Jacobs,70d117de
+info,registry,people,BM White,66c21d35
+info,registry,people,D Brevis,844e79d1
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,D Potgieter,60fbf53a
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,F du Plessis,3355b542
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Imran Tahir,acee4cc4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,KI Simmonds,3122c016
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LH Matroos,6fa18157
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,MM Ali,bb351c23
+info,registry,people,N Burger,465aa633
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TP Kaber,0773c16a
+info,registry,people,WL Madsen,86e0f3f0

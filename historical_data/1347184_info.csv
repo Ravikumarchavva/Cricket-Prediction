@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gloucestershire
+info,team,Durham
+info,gender,male
+info,season,2023
+info,date,2023/07/10
+info,date,2023/07/11
+info,date,2023/07/12
+info,event,County Championship
+info,venue,"Riverside Ground, Chester-le-Street"
+info,city,Chester-le-Street
+info,toss_winner,Gloucestershire
+info,toss_decision,bat
+info,umpire,GD Lloyd
+info,umpire,NA Mallender
+info,match_referee,AJ Swann
+info,winner,Durham
+info,winner_wickets,9
+info,player,Gloucestershire,BG Charlesworth
+info,player,Gloucestershire,CDJ Dent
+info,player,Gloucestershire,OJ Price
+info,player,Gloucestershire,Miles Hammond
+info,player,Gloucestershire,G Roelofsen
+info,player,Gloucestershire,James Bracey
+info,player,Gloucestershire,Zafar Gohar
+info,player,Gloucestershire,J Shaw
+info,player,Gloucestershire,MD Taylor
+info,player,Gloucestershire,Zaman Akhter
+info,player,Gloucestershire,DC Goodman
+info,player,Durham,AZ Lees
+info,player,Durham,MA Jones
+info,player,Durham,SG Borthwick
+info,player,Durham,DG Bedingham
+info,player,Durham,OG Robinson
+info,player,Durham,G Clark
+info,player,Durham,BA Carse
+info,player,Durham,BA Raine
+info,player,Durham,M Pretorius
+info,player,Durham,MJ Potts
+info,player,Durham,MW Parkinson
+info,registry,people,AJ Swann,f9d218a7
+info,registry,people,AZ Lees,c9c0fe50
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BA Raine,4c0f3806
+info,registry,people,BG Charlesworth,ffdba4e2
+info,registry,people,CDJ Dent,10435ca2
+info,registry,people,DC Goodman,dbb15645
+info,registry,people,DG Bedingham,a1b69936
+info,registry,people,G Clark,4fd09cfc
+info,registry,people,G Roelofsen,ac688e55
+info,registry,people,GD Lloyd,36e0770d
+info,registry,people,J Shaw,b82e3032
+info,registry,people,James Bracey,5bfdc77a
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,MA Jones,05f96194
+info,registry,people,MD Taylor,01a95383
+info,registry,people,MJ Potts,894b2d25
+info,registry,people,MW Parkinson,19708692
+info,registry,people,Miles Hammond,c88bc84a
+info,registry,people,NA Mallender,3b5dfcd4
+info,registry,people,OG Robinson,60f4c586
+info,registry,people,OJ Price,dfc3f02d
+info,registry,people,SG Borthwick,51e1ed69
+info,registry,people,Zafar Gohar,9fd3a210
+info,registry,people,Zaman Akhter,63e1e352

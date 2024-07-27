@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,India
+info,gender,male
+info,season,2023/24
+info,date,2023/10/22
+info,event,ICC Cricket World Cup
+info,match_number,21
+info,venue,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
+info,city,Dharamsala
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,Mohammed Shami
+info,umpire,AT Holdstock
+info,umpire,MA Gough
+info,reserve_umpire,Praveen Sen
+info,tv_umpire,P Wilson
+info,match_referee,AJ Pycroft
+info,winner,India
+info,winner_wickets,4
+info,player,New Zealand,DP Conway
+info,player,New Zealand,WA Young
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,TWM Latham
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,player,India,RG Sharma
+info,player,India,Shubman Gill
+info,player,India,V Kohli
+info,player,India,SS Iyer
+info,player,India,KL Rahul
+info,player,India,SA Yadav
+info,player,India,RA Jadeja
+info,player,India,Mohammed Shami
+info,player,India,JJ Bumrah
+info,player,India,Kuldeep Yadav
+info,player,India,Mohammed Siraj
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,P Wilson,68304a36
+info,registry,people,Praveen Sen,a216a321
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TWM Latham,e824e6ee
+info,registry,people,V Kohli,ba607b88
+info,registry,people,WA Young,8afe73e2

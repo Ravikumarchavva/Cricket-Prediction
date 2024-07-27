@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Auckland Aces
+info,gender,male
+info,season,2014/15
+info,date,2015/03/17
+info,date,2015/03/18
+info,date,2015/03/19
+info,date,2015/03/20
+info,event,Plunket Shield
+info,venue,"Colin Maiden Park, Auckland"
+info,city,Auckland
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,TJ Parlane
+info,umpire,WR Knights
+info,match_referee,DB Cowie
+info,winner,Wellington Firebirds
+info,winner_runs,213
+info,player,Auckland Aces,AK Kitchen
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,Carl Cachopa
+info,player,Auckland Aces,C Munro
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,B Cachopa
+info,player,Auckland Aces,TS Nethula
+info,player,Auckland Aces,MD Bates
+info,player,Auckland Aces,DJ Bartlett
+info,player,Auckland Aces,LH Ferguson
+info,player,Wellington Firebirds,MHW Papps
+info,player,Wellington Firebirds,D Joon
+info,player,Wellington Firebirds,SJ Murdoch
+info,player,Wellington Firebirds,MA Pollard
+info,player,Wellington Firebirds,JEC Franklin
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,BJ Barnett
+info,player,Wellington Firebirds,JS Patel
+info,player,Wellington Firebirds,MB McEwan
+info,player,Wellington Firebirds,AJ McKay
+info,player,Wellington Firebirds,BJ Arnel
+info,registry,people,AJ McKay,de3acffe
+info,registry,people,AK Kitchen,63a1874a
+info,registry,people,B Cachopa,e9a44f08
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,BJ Barnett,92f59313
+info,registry,people,C Munro,af2c687b
+info,registry,people,Carl Cachopa,7112662b
+info,registry,people,D Joon,9bcc2b54
+info,registry,people,DB Cowie,36931357
+info,registry,people,DJ Bartlett,6ede8cb6
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JEC Franklin,cf73ad76
+info,registry,people,JS Patel,f5821615
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MA Pollard,d3b84c59
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,MD Bates,1b3acd33
+info,registry,people,MHW Papps,6c1beb66
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,WR Knights,63cbf8d8

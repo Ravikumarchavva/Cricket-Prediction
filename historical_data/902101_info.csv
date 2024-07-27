@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Railways
+info,team,Delhi
+info,gender,male
+info,season,2015/16
+info,date,2016/01/02
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Alembic 1 Cricket Ground
+info,city,
+info,toss_winner,Delhi
+info,toss_decision,field
+info,winner,Delhi
+info,winner_wickets,4
+info,player,Railways,AUK Pathan
+info,player,Railways,Praveen Deshetti
+info,player,Railways,Saurabh Wakaskar
+info,player,Railways,KV Sharma
+info,player,Railways,M Rawat
+info,player,Railways,KR Mahajan
+info,player,Railways,AN Ghosh
+info,player,Railways,Ashish Yadav
+info,player,Railways,AR Pandey
+info,player,Railways,Anureet Singh
+info,player,Railways,K Upadhyay
+info,player,Delhi,A Nehra
+info,player,Delhi,Manan Sharma
+info,player,Delhi,Milind Kumar
+info,player,Delhi,Suboth Bhati
+info,player,Delhi,P Negi
+info,player,Delhi,Navdeep Saini
+info,player,Delhi,UBT Chand
+info,player,Delhi,G Gambhir
+info,player,Delhi,Aditya Kaushik
+info,player,Delhi,N Rana
+info,player,Delhi,Sarthak Ranjan
+info,registry,people,A Nehra,96fd40ae
+info,registry,people,AN Ghosh,7023d182
+info,registry,people,AR Pandey,dd73b2ff
+info,registry,people,AUK Pathan,3ae3f034
+info,registry,people,Aditya Kaushik,9a2d95ac
+info,registry,people,Anureet Singh,69be866a
+info,registry,people,Ashish Yadav,254c7802
+info,registry,people,G Gambhir,bb345e0b
+info,registry,people,K Upadhyay,27e71d47
+info,registry,people,KR Mahajan,6ee6b491
+info,registry,people,KV Sharma,119678fd
+info,registry,people,M Rawat,de8d3876
+info,registry,people,Manan Sharma,bfcff6cd
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,P Negi,f62772e5
+info,registry,people,Praveen Deshetti,5407500f
+info,registry,people,Sarthak Ranjan,d7cdefa9
+info,registry,people,Saurabh Wakaskar,dd8439ed
+info,registry,people,Suboth Bhati,bee290b6
+info,registry,people,UBT Chand,0c94f480

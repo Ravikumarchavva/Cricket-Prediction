@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Queensland
+info,team,New South Wales
+info,gender,male
+info,season,2023/24
+info,date,2023/10/04
+info,date,2023/10/05
+info,date,2023/10/06
+info,date,2023/10/07
+info,event,Sheffield Shield
+info,match_number,2
+info,venue,"Cricket Central, Sydney"
+info,city,Sydney
+info,toss_winner,New South Wales
+info,toss_decision,field
+info,player_of_match,J Edwards
+info,umpire,NR Johnstone
+info,umpire,SA Lightbody
+info,match_referee,Dave Gilbert
+info,outcome,draw
+info,player,Queensland,BE Street
+info,player,Queensland,MT Renshaw
+info,player,Queensland,JA Burns
+info,player,Queensland,UT Khawaja
+info,player,Queensland,J Clayton
+info,player,Queensland,JJ Peirson
+info,player,Queensland,MG Neser
+info,player,Queensland,JD Wildermuth
+info,player,Queensland,GS Sandhu
+info,player,Queensland,MT Steketee
+info,player,Queensland,MJ Swepson
+info,player,New South Wales,DP Hughes
+info,player,New South Wales,R Hackney
+info,player,New South Wales,KR Patterson
+info,player,New South Wales,MC Henriques
+info,player,New South Wales,JJS Sangha
+info,player,New South Wales,M Gilkes
+info,player,New South Wales,J Edwards
+info,player,New South Wales,H Kerr
+info,player,New South Wales,CJ Green
+info,player,New South Wales,CP Tremain
+info,player,New South Wales,JM Bird
+info,registry,people,BE Street,3d4ad40e
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CP Tremain,96824e68
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,GS Sandhu,1558d83b
+info,registry,people,H Kerr,f422728b
+info,registry,people,J Clayton,c56fc66d
+info,registry,people,J Edwards,f787e0eb
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JD Wildermuth,f1c61793
+info,registry,people,JJ Peirson,2b55c3b4
+info,registry,people,JJS Sangha,8e3cb0e9
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,M Gilkes,d85b0f8b
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MG Neser,0164b064
+info,registry,people,MJ Swepson,86b4bf88
+info,registry,people,MT Renshaw,218d4d78
+info,registry,people,MT Steketee,903560ed
+info,registry,people,NR Johnstone,ce274b6a
+info,registry,people,R Hackney,d83448bf
+info,registry,people,SA Lightbody,680b8cbf
+info,registry,people,UT Khawaja,331ea488

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Comilla Victorians
+info,team,Khulna Tigers
+info,gender,male
+info,season,2023/24
+info,date,2024/02/07
+info,event,Bangladesh Premier League
+info,match_number,23
+info,venue,"Shere Bangla National Stadium, Mirpur"
+info,city,Dhaka
+info,toss_winner,Comilla Victorians
+info,toss_decision,bat
+info,player_of_match,Aamer Jamal
+info,umpire,DJ Millns
+info,umpire,Moniruzzaman
+info,reserve_umpire,Sajedul Islam
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Selim Shahid
+info,winner,Comilla Victorians
+info,winner_runs,34
+info,player,Comilla Victorians,Mohammad Rizwan
+info,player,Comilla Victorians,Liton Das
+info,player,Comilla Victorians,WG Jacks
+info,player,Comilla Victorians,Towhid Hridoy
+info,player,Comilla Victorians,Khushdil Shah
+info,player,Comilla Victorians,Jaker Ali
+info,player,Comilla Victorians,Mahidul Islam Ankon
+info,player,Comilla Victorians,Aamer Jamal
+info,player,Comilla Victorians,Tanvir Islam
+info,player,Comilla Victorians,Al Islam
+info,player,Comilla Victorians,Mustafizur Rahman
+info,player,Khulna Tigers,Anamul Haque
+info,player,Khulna Tigers,E Lewis
+info,player,Khulna Tigers,Afif Hossain
+info,player,Khulna Tigers,Akbar Ali
+info,player,Khulna Tigers,Parvez Hossain Emon
+info,player,Khulna Tigers,Nahidul Islam
+info,player,Khulna Tigers,Mohammad Nawaz
+info,player,Khulna Tigers,Faheem Ashraf
+info,player,Khulna Tigers,Mohammad Wasim
+info,player,Khulna Tigers,Nasum Ahmed
+info,player,Khulna Tigers,Mukidul Islam
+info,registry,people,Aamer Jamal,a8e54ef4
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Akbar Ali,abae26ad
+info,registry,people,Al Islam,45d38a84
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,Faheem Ashraf,bd4ea627
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahidul Islam Ankon,dac6aabc
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mukidul Islam,a699488a
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nahidul Islam,8c7b16c8
+info,registry,people,Nasum Ahmed,37654b75
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,Sajedul Islam,0443414a
+info,registry,people,Selim Shahid,b478bce3
+info,registry,people,Tanvir Islam,aa467af0
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,WG Jacks,9caf69a1

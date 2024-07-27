@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Auckland Aces
+info,gender,male
+info,season,2018/19
+info,date,2018/10/10
+info,date,2018/10/11
+info,date,2018/10/12
+info,date,2018/10/13
+info,event,Plunket Shield
+info,venue,Cello Basin Reserve
+info,city,
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,A Mehrotra
+info,umpire,AL Gillies
+info,match_referee,K Pulley
+info,outcome,draw
+info,player,Wellington Firebirds,LJ Woodcock
+info,player,Wellington Firebirds,AT Fletcher
+info,player,Wellington Firebirds,DP Conway
+info,player,Wellington Firebirds,MG Bracewell
+info,player,Wellington Firebirds,JDS Neesham
+info,player,Wellington Firebirds,MJ Nofal
+info,player,Wellington Firebirds,LV van Beek
+info,player,Wellington Firebirds,LR Johns
+info,player,Wellington Firebirds,JS Patel
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,HK Bennett
+info,player,Auckland Aces,JA Raval
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,SM Solia
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,GK Beghin
+info,player,Auckland Aces,FH Allen
+info,player,Auckland Aces,BJ Horne
+info,player,Auckland Aces,MB McEwan
+info,player,Auckland Aces,WER Somerville
+info,player,Auckland Aces,BG Lister
+info,player,Auckland Aces,DK Ferns
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,AL Gillies,1a1f45a4
+info,registry,people,AT Fletcher,d4e6fc0a
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BJ Horne,5d99a16a
+info,registry,people,DK Ferns,f28c7456
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GK Beghin,0d8f5fc6
+info,registry,people,HK Bennett,94238673
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JA Raval,5f966ec0
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JS Patel,f5821615
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,LJ Woodcock,9ba59a3c
+info,registry,people,LR Johns,8ba20313
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MB McEwan,b87fb772
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Nofal,ac762575
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,WER Somerville,74a1c1e3

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mumbai
+info,team,Jammu & Kashmir
+info,gender,male
+info,season,2023/24
+info,date,2023/10/21
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Jammu & Kashmir
+info,toss_decision,field
+info,umpire,A Totre
+info,umpire,GR Sadashiv Iyer
+info,match_referee,SS Raul
+info,winner,Mumbai
+info,winner_runs,37
+info,player,Mumbai,Atharva Ankolekar
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,A Raghuvanshi
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,S Dube
+info,player,Mumbai,SN Khan
+info,player,Mumbai,SZ Mulani
+info,player,Mumbai,PY Pawar
+info,player,Mumbai,Tanush Kotian
+info,player,Mumbai,DS Kulkarni
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,Mohit Avasthi
+info,player,Jammu & Kashmir,Umran Malik
+info,player,Jammu & Kashmir,Vivrant Sharma
+info,player,Jammu & Kashmir,Qamran Iqbal
+info,player,Jammu & Kashmir,Shubham Khajuria
+info,player,Jammu & Kashmir,Fazil Rashid
+info,player,Jammu & Kashmir,Shubham Pundir
+info,player,Jammu & Kashmir,Abdul Samad
+info,player,Jammu & Kashmir,Henan Nazir
+info,player,Jammu & Kashmir,Abid Mushtaq
+info,player,Jammu & Kashmir,Sahil Lotra
+info,player,Jammu & Kashmir,Yudhvir Singh
+info,player,Jammu & Kashmir,Rasikh Salam
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AM Rahane,29e95537
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abid Mushtaq,b10e8c85
+info,registry,people,Atharva Ankolekar,d6cd318e
+info,registry,people,DS Kulkarni,d2a989fc
+info,registry,people,Fazil Rashid,514a0408
+info,registry,people,GR Sadashiv Iyer,0be62e31
+info,registry,people,Henan Nazir,e95951b8
+info,registry,people,Mohit Avasthi,7e83cef2
+info,registry,people,PY Pawar,c9f2fc04
+info,registry,people,Qamran Iqbal,6375ef6a
+info,registry,people,Rasikh Salam,b8527c3d
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SN Khan,f088b960
+info,registry,people,SS Raul,4cfdf1d0
+info,registry,people,SZ Mulani,9d704f6f
+info,registry,people,Sahil Lotra,2c3643f8
+info,registry,people,Shubham Khajuria,d8a90827
+info,registry,people,Shubham Pundir,86a98b15
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tanush Kotian,5724e517
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,Vivrant Sharma,1b7b0fa7
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,Yudhvir Singh,4885bbe6

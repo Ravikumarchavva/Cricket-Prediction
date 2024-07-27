@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Ireland
+info,gender,male
+info,season,2023/24
+info,date,2023/12/17
+info,event,Ireland tour of Zimbabwe
+info,match_number,3
+info,venue,Harare Sports Club
+info,city,Harare
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,A Balbirnie
+info,umpire,AT Holdstock
+info,umpire,L Rusere
+info,reserve_umpire,I Chabi
+info,tv_umpire,F Mutizwa
+info,match_referee,AJ Pycroft
+info,winner,Ireland
+info,winner_wickets,7
+info,method,D/L
+info,player,Zimbabwe,J Gumbie
+info,player,Zimbabwe,TS Kamunhukamwe
+info,player,Zimbabwe,T Kaitano
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,B Mavuta
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,TL Chivanga
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,C Campher
+info,player,Ireland,HT Tector
+info,player,Ireland,L Tucker
+info,player,Ireland,GH Dockrell
+info,player,Ireland,AR McBrine
+info,player,Ireland,MR Adair
+info,player,Ireland,GI Hume
+info,player,Ireland,CA Young
+info,player,Ireland,TF van Woerkom
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AR McBrine,e957b38f
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,B Mavuta,dadb9703
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,C Campher,478a63e7
+info,registry,people,C Madande,3560a786
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,J Gumbie,c8d74c21
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Kaitano,df7ed601
+info,registry,people,TF van Woerkom,70f2f922
+info,registry,people,TL Chivanga,61fb296e
+info,registry,people,TS Kamunhukamwe,4e1b4323
+info,registry,people,WP Masakadza,4bc0a378

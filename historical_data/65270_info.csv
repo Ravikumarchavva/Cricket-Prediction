@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,New Zealand
+info,gender,male
+info,season,2002/03
+info,date,2003/03/03
+info,event,ICC World Cup
+info,match_number,38
+info,venue,"Willowmoore Park, Benoni"
+info,city,Benoni
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,JM Davison
+info,umpire,AV Jayaprakash
+info,umpire,BG Jerling
+info,tv_umpire,TH Wijewardene
+info,match_referee,DT Lindsay
+info,winner,New Zealand
+info,winner_wickets,5
+info,player,Canada,I Maraj
+info,player,Canada,JM Davison
+info,player,Canada,N Ifill
+info,player,Canada,IS Billcliff
+info,player,Canada,NA de Groot
+info,player,Canada,JV Harris
+info,player,Canada,A Bagai
+info,player,Canada,AM Samad
+info,player,Canada,A Codrington
+info,player,Canada,A Patel
+info,player,Canada,BB Seebaran
+info,player,New Zealand,CD McMillan
+info,player,New Zealand,SP Fleming
+info,player,New Zealand,NJ Astle
+info,player,New Zealand,CL Cairns
+info,player,New Zealand,AR Adams
+info,player,New Zealand,SB Styris
+info,player,New Zealand,CZ Harris
+info,player,New Zealand,JDP Oram
+info,player,New Zealand,DL Vettori
+info,player,New Zealand,BB McCullum
+info,player,New Zealand,SE Bond
+info,registry,people,A Bagai,112959b2
+info,registry,people,A Codrington,9cb022df
+info,registry,people,A Patel,06a9d298
+info,registry,people,AM Samad,513158ed
+info,registry,people,AR Adams,525c3f54
+info,registry,people,AV Jayaprakash,bde6e9ef
+info,registry,people,BB McCullum,b8a55852
+info,registry,people,BB Seebaran,fc54ef7a
+info,registry,people,BG Jerling,26457e41
+info,registry,people,CD McMillan,f5390243
+info,registry,people,CL Cairns,0b130202
+info,registry,people,CZ Harris,582e9baa
+info,registry,people,DL Vettori,d7c6af50
+info,registry,people,DT Lindsay,a6a32a61
+info,registry,people,I Maraj,2d783277
+info,registry,people,IS Billcliff,1fb2f362
+info,registry,people,JDP Oram,3eac9d95
+info,registry,people,JM Davison,5471024e
+info,registry,people,JV Harris,d1ac815a
+info,registry,people,N Ifill,1d5dd8a6
+info,registry,people,NA de Groot,15d1b59e
+info,registry,people,NJ Astle,99639abf
+info,registry,people,S Thuraisingam,28ed9134
+info,registry,people,SB Styris,57efa3be
+info,registry,people,SE Bond,4f629497
+info,registry,people,SP Fleming,eea6b7f1
+info,registry,people,TH Wijewardene,6a6be119

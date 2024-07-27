@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saurashtra
+info,team,Maharashtra
+info,gender,male
+info,season,2017/18
+info,date,2018/01/08
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Saurashtra Cricket Association Stadium
+info,city,
+info,toss_winner,Saurashtra
+info,toss_decision,bat
+info,winner,Saurashtra
+info,winner_runs,4
+info,player,Saurashtra,RV Uthappa
+info,player,Saurashtra,SP Jackson
+info,player,Saurashtra,Kishan Parmar M
+info,player,Saurashtra,Vishvaraj Jadeja
+info,player,Saurashtra,PN Mankad
+info,player,Saurashtra,Chirag Jani
+info,player,Saurashtra,JD Unadkat
+info,player,Saurashtra,S Sanandia
+info,player,Saurashtra,Dharmendrasinh Jadeja
+info,player,Saurashtra,Yuvraj Chudasama
+info,player,Saurashtra,K D Patel
+info,player,Maharashtra,SM Fallah
+info,player,Maharashtra,DJ Muthuswami
+info,player,Maharashtra,SS Mundhe
+info,player,Maharashtra,JP Zope
+info,player,Maharashtra,Divyang Hinganekar
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,AR Bawne
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,NS Naik
+info,player,Maharashtra,PJ Bhati
+info,registry,people,AR Bawne,afe3355a
+info,registry,people,Chirag Jani,783e6111
+info,registry,people,DJ Muthuswami,2c76b512
+info,registry,people,Dharmendrasinh Jadeja,d330f9b9
+info,registry,people,Divyang Hinganekar,cb461421
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JP Zope,f3ff99aa
+info,registry,people,K D Patel,76cc7070
+info,registry,people,Kishan Parmar M,6fa5314b
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,PJ Bhati,278989a3
+info,registry,people,PN Mankad,663b5e34
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RV Uthappa,1c17e270
+info,registry,people,S Sanandia,4c7543cf
+info,registry,people,SM Fallah,c8f697bd
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,SS Mundhe,0af3426f
+info,registry,people,Vishvaraj Jadeja,d30c6f81
+info,registry,people,Yuvraj Chudasama,20666746

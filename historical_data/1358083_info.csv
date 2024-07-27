@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Nepal
+info,gender,male
+info,season,2022/23
+info,date,2023/03/02
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,131
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,Rohan Mustafa
+info,umpire,Akbar Ali
+info,umpire,Bismillah Shinwari
+info,reserve_umpire,LE Hannibal
+info,match_referee,Ali Naqvi
+info,winner,United Arab Emirates
+info,winner_runs,68
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,CP Rizwan
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Aryan Lakra
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,KP Meiyappan
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Sabir Ali
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,G Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,Kushal Malla
+info,player,Nepal,Aarif Sheikh
+info,player,Nepal,DS Airee
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aarif Sheikh,cd4d7695
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aryan Lakra,099135ad
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CP Rizwan,e5309baa
+info,registry,people,DS Airee,1747ea18
+info,registry,people,G Malla,b2e1d224
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,KP Meiyappan,b91f2a31
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Sabir Ali,2a04400b
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

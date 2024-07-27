@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Australia
+info,gender,male
+info,season,2002/03
+info,date,2003/01/09
+info,event,VB Series
+info,match_number,6
+info,venue,Sydney Cricket Ground
+info,city,Sydney
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,ST Jayasuriya
+info,umpire,RB Tiffin
+info,umpire,SJA Taufel
+info,tv_umpire,DB Hair
+info,match_referee,CH Lloyd
+info,winner,Sri Lanka
+info,winner_runs,79
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,PA de Silva
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,PW Gunaratne
+info,player,Australia,AC Gilchrist
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,MG Bevan
+info,player,Australia,A Symonds
+info,player,Australia,B Lee
+info,player,Australia,JP Maher
+info,player,Australia,SR Watson
+info,player,Australia,GB Hogg
+info,player,Australia,AJ Bichel
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,AJ Bichel,3cf83487
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DB Hair,492e1a8e
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,DR Martyn,69762509
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,JP Maher,ec526fca
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,MG Bevan,c500ec39
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,PA de Silva,34ff9e07
+info,registry,people,PW Gunaratne,27410b17
+info,registry,people,RB Tiffin,89087a0d
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SR Watson,4329fbb5
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,WPUJC Vaas,bcce309e

@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Delhi
+info,team,Puducherry
+info,gender,male
+info,season,2020/21
+info,date,2021/01/19
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Sharad Pawar Cricket Academy BKC
+info,city,
+info,toss_winner,Puducherry
+info,toss_decision,field
+info,winner,Delhi
+info,winner_runs,110
+info,player,Delhi,Anuj Rawat
+info,player,Delhi,A Badoni
+info,player,Delhi,N Rana
+info,player,Delhi,Himmat Singh
+info,player,Delhi,Jonty Sidhu
+info,player,Delhi,Kshitiz Sharma
+info,player,Delhi,Lalit Yadav
+info,player,Delhi,Shivank Vashisth
+info,player,Delhi,Simarjeet Singh
+info,player,Delhi,P Suyal
+info,player,Delhi,Siddhant Sharma
+info,player,Puducherry,Ashith Rajiv
+info,player,Puducherry,Santha Moorthy
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,A Aravinddaraj
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,S Karthik
+info,player,Puducherry,SP Jackson
+info,player,Puducherry,P Dogra
+info,player,Puducherry,Subramanian Anand
+info,player,Puducherry,Premraj Rajavelu
+info,registry,people,A Aravinddaraj,21d38d47
+info,registry,people,A Badoni,872b03f7
+info,registry,people,Anuj Rawat,c8f5f961
+info,registry,people,Ashith Rajiv,502056e3
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,Jonty Sidhu,b3309131
+info,registry,people,Kshitiz Sharma,c910e89d
+info,registry,people,Lalit Yadav,ad427b5c
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,P Suyal,cedc1d9a
+info,registry,people,Premraj Rajavelu,9e031cfe
+info,registry,people,S Karthik,14c90152
+info,registry,people,SP Jackson,acc1aeda
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Santha Moorthy,fa778d1b
+info,registry,people,Shivank Vashisth,3a922344
+info,registry,people,Siddhant Sharma,ae85a996
+info,registry,people,Simarjeet Singh,30df8c66
+info,registry,people,Subramanian Anand,8b470bea

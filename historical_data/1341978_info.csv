@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Namibia
+info,gender,male
+info,season,2022/23
+info,date,2022/12/05
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,118
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,HN Ya France
+info,umpire,C Thorburn
+info,umpire,S George
+info,reserve_umpire,A Louw
+info,match_referee,ET Dube
+info,winner,Namibia
+info,winner_wickets,3
+info,player,Scotland,KJ Coetzer
+info,player,Scotland,HG Munsey
+info,player,Scotland,CM McBride
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,BJ McMullen
+info,player,Scotland,MRJ Watt
+info,player,Scotland,MA Leask
+info,player,Scotland,SM Sharif
+info,player,Scotland,CB Sole
+info,player,Scotland,Hamza Tahir
+info,player,Namibia,M van Lingen
+info,player,Namibia,D la Cock
+info,player,Namibia,L Louwrens
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,ZE Green
+info,player,Namibia,JJ Smit
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,HN Ya France
+info,player,Namibia,BM Scholtz
+info,player,Namibia,T Lungameni
+info,registry,people,A Louw,5eecae5d
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Thorburn,904288fe
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM McBride,9ec74db8
+info,registry,people,D la Cock,48301a4b
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,HN Ya France,915264c2
+info,registry,people,Hamza Tahir,34cb2f69
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,KJ Coetzer,85d8110a
+info,registry,people,L Louwrens,b018e1eb
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MA Leask,28131839
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,S George,6d9e5a54
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,ZE Green,8716233e

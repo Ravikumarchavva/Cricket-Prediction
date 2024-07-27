@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Haryana
+info,team,Gujarat
+info,gender,male
+info,season,2015/16
+info,date,2016/01/10
+info,event,Syed Mushtaq Ali Trophy
+info,venue,VCA Ground
+info,city,
+info,toss_winner,Gujarat
+info,toss_decision,field
+info,winner,Gujarat
+info,winner_wickets,9
+info,player,Haryana,N Saini
+info,player,Haryana,HV Patel
+info,player,Haryana,MS Hooda
+info,player,Haryana,Himanshu Rana
+info,player,Haryana,Chaitanya Bishnoi
+info,player,Haryana,SU Yadav
+info,player,Haryana,PB Mehta
+info,player,Haryana,A Mishra
+info,player,Haryana,J Yadav
+info,player,Haryana,YS Chahal
+info,player,Haryana,AH Hooda
+info,player,Gujarat,RP Singh
+info,player,Gujarat,Roosh Kalaria
+info,player,Gujarat,JJ Bumrah
+info,player,Gujarat,Rohit Dahiya
+info,player,Gujarat,HP Patel
+info,player,Gujarat,RH Bhatt
+info,player,Gujarat,PA Patel
+info,player,Gujarat,K Gadhavi
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,MC Juneja
+info,player,Gujarat,RR Taylor
+info,registry,people,A Mishra,6b19d823
+info,registry,people,AH Hooda,e4072aa1
+info,registry,people,Chaitanya Bishnoi,e793a8ed
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,HP Patel,8254ea06
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Himanshu Rana,9d3940b3
+info,registry,people,J Yadav,81049310
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Gadhavi,afdcd9c6
+info,registry,people,MC Juneja,605b7efa
+info,registry,people,MS Hooda,d851756a
+info,registry,people,N Saini,addbde6c
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,PB Mehta,2462f58c
+info,registry,people,RH Bhatt,fc8c6088
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,RR Taylor,ec65ae8a
+info,registry,people,Rohit Dahiya,e57ded95
+info,registry,people,Roosh Kalaria,779b7f4d
+info,registry,people,SU Yadav,199b02e4
+info,registry,people,YS Chahal,57ee1fde

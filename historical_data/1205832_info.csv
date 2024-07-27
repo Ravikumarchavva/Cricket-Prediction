@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Andhra
+info,team,Services
+info,gender,male
+info,season,2019/20
+info,date,2019/11/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Dr. Y.S. Rajasekhara Reddy ACA VDCA Cricket Stadium
+info,city,
+info,toss_winner,Andhra
+info,toss_decision,bat
+info,winner,Services
+info,winner_wickets,5
+info,player,Andhra,Ashwin Hebbar
+info,player,Andhra,KS Bharat
+info,player,Andhra,Prashanth Kumar
+info,player,Andhra,RK Bhui
+info,player,Andhra,Chintapalli Kranthi Kumar
+info,player,Andhra,Naren Reddy
+info,player,Andhra,K V Sasikanth
+info,player,Andhra,Harishankar Reddy
+info,player,Andhra,Bandaru Ayyappa
+info,player,Andhra,Cheepurapalli Stephen
+info,player,Andhra,Manish Golamaru
+info,player,Services,Diwesh Pathania
+info,player,Services,Varun Choudhary
+info,player,Services,Mohit Kumar
+info,player,Services,Vikas Yadav
+info,player,Services,Nitin Tanwar
+info,player,Services,Lakhan Singh
+info,player,Services,Ravi Chauhan
+info,player,Services,Rahul Singh
+info,player,Services,Rajat Paliwal
+info,player,Services,Nakul Sharma
+info,player,Services,NK Singh
+info,registry,people,Ashwin Hebbar,b11d8647
+info,registry,people,Bandaru Ayyappa,cb4f31e2
+info,registry,people,Cheepurapalli Stephen,48bf9d5c
+info,registry,people,Chintapalli Kranthi Kumar,cc9c8722
+info,registry,people,Dasari Swaroop Kumar,a082d97a
+info,registry,people,Diwesh Pathania,a63563c0
+info,registry,people,Harishankar Reddy,791c088d
+info,registry,people,K V Sasikanth,bf6e03ea
+info,registry,people,KS Bharat,44a89551
+info,registry,people,Lakhan Singh,ad72e8cc
+info,registry,people,Manish Golamaru,327c7253
+info,registry,people,Mohit Kumar,caabc8e4
+info,registry,people,NK Singh,78359d28
+info,registry,people,Nakul Sharma,f5cf7ae0
+info,registry,people,Naren Reddy,a7b20d59
+info,registry,people,Nitin Tanwar,7cc7fe19
+info,registry,people,Prashanth Kumar,1f0b8f44
+info,registry,people,RK Bhui,b63e358a
+info,registry,people,Rahul Singh,adf454e9
+info,registry,people,Rajat Paliwal,2fcb040c
+info,registry,people,Ravi Chauhan,f7ce1f24
+info,registry,people,Varun Choudhary,134bead2
+info,registry,people,Vikas Yadav,fa73f373

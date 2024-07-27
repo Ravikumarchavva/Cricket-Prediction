@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lahore Qalandars
+info,team,Multan Sultans
+info,gender,male
+info,season,2022/23
+info,date,2023/02/13
+info,event,Pakistan Super League
+info,match_number,1
+info,venue,Multan Cricket Stadium
+info,city,Multan
+info,toss_winner,Multan Sultans
+info,toss_decision,field
+info,player_of_match,Fakhar Zaman
+info,umpire,Asif Yaqoob
+info,umpire,MJ Saggers
+info,reserve_umpire,Shozab Raza
+info,tv_umpire,Faisal Afridi
+info,match_referee,Mohammed Anees
+info,winner,Lahore Qalandars
+info,winner_runs,1
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,Mirza Baig
+info,player,Lahore Qalandars,SD Hope
+info,player,Lahore Qalandars,Kamran Ghulam
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,Hussain Talat
+info,player,Lahore Qalandars,D Wiese
+info,player,Lahore Qalandars,LA Dawson
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,Haris Rauf
+info,player,Lahore Qalandars,Zaman Khan
+info,player,Multan Sultans,Shan Masood
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,DA Miller
+info,player,Multan Sultans,KA Pollard
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,Usman Khan
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,AJ Hosein
+info,player,Multan Sultans,Sameen Gul
+info,player,Multan Sultans,Shahnawaz Dhani
+info,player,Multan Sultans,Ihsanullah
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hussain Talat,bb4b445b
+info,registry,people,Ihsanullah,c290033d
+info,registry,people,KA Pollard,a757b0d8
+info,registry,people,Kamran Ghulam,35f4cf7e
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mirza Baig,96ce6752
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammed Anees,0d4da5c5
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,Sameen Gul,3be224b0
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shahnawaz Dhani,7ccbb09f
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shozab Raza,153c67dc
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Zaman Khan,28392e11

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Essex
+info,team,Surrey
+info,gender,male
+info,season,2023
+info,date,2023/08/22
+info,event,One-Day Cup
+info,venue,"County Ground, Chelmsford"
+info,city,Chelmsford
+info,toss_winner,Surrey
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,Tom Lungley
+info,match_referee,Phil Whitticase
+info,winner,Surrey
+info,winner_wickets,2
+info,player,Essex,FIN Khushi
+info,player,Essex,NLJ Browne
+info,player,Essex,LM Benkenstein
+info,player,Essex,BJ Webster
+info,player,Essex,CWJ Allison
+info,player,Essex,NRM Thain
+info,player,Essex,WEL Buttleman
+info,player,Essex,Aaron Beard
+info,player,Essex,BMJ Allison
+info,player,Essex,JA Richards
+info,player,Essex,ASS Nijjar
+info,player,Surrey,RS Patel
+info,player,Surrey,DP Sibley
+info,player,Surrey,J Blake
+info,player,Surrey,BBA Geddes
+info,player,Surrey,CT Steel
+info,player,Surrey,KK Patel
+info,player,Surrey,C McKerr
+info,player,Surrey,TM Ealham
+info,player,Surrey,LA Griffiths
+info,player,Surrey,D Moriarty
+info,player,Surrey,A Virdi
+info,registry,people,A Virdi,ea3d687a
+info,registry,people,ASS Nijjar,e43aa7ed
+info,registry,people,Aaron Beard,eab74985
+info,registry,people,BBA Geddes,305c31f2
+info,registry,people,BJ Webster,56b93d46
+info,registry,people,BMJ Allison,39e2c0fd
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,CT Steel,5899dceb
+info,registry,people,CWJ Allison,42ee1d76
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DP Sibley,97e434a6
+info,registry,people,FIN Khushi,4f034a50
+info,registry,people,J Blake,3385b875
+info,registry,people,JA Richards,04cd872b
+info,registry,people,KK Patel,b9093b04
+info,registry,people,LA Griffiths,0ddbefeb
+info,registry,people,LM Benkenstein,c2e5539b
+info,registry,people,NJ Llong,573fb985
+info,registry,people,NLJ Browne,81efec30
+info,registry,people,NRM Thain,f8a63b6f
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RS Patel,97905e64
+info,registry,people,TM Ealham,fb51fd55
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WEL Buttleman,e855546b

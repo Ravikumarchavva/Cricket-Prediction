@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rajasthan
+info,team,Karnataka
+info,gender,male
+info,season,2017/18
+info,date,2018/01/23
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"JU Second Campus, Salt Lake"
+info,city,
+info,toss_winner,Karnataka
+info,toss_decision,field
+info,winner,Rajasthan
+info,winner_runs,22
+info,player,Rajasthan,Aditya Garhwal
+info,player,Rajasthan,Ankit Lamba
+info,player,Rajasthan,SF Khan
+info,player,Rajasthan,Tajinder Singh
+info,player,Rajasthan,MK Lomror
+info,player,Rajasthan,DL Chahar
+info,player,Rajasthan,Chetan Bist
+info,player,Rajasthan,CP Singh
+info,player,Rajasthan,RD Chahar
+info,player,Rajasthan,AR Lamba
+info,player,Rajasthan,KK Ahmed
+info,player,Karnataka,STR Binny
+info,player,Karnataka,R Vinay Kumar
+info,player,Karnataka,S Aravind
+info,player,Karnataka,A Mithun
+info,player,Karnataka,P Dubey
+info,player,Karnataka,K Gowtham
+info,player,Karnataka,MA Agarwal
+info,player,Karnataka,KK Nair
+info,player,Karnataka,Ravikumar Samarth
+info,player,Karnataka,CM Gautam
+info,player,Karnataka,Aniruddha Joshi
+info,registry,people,A Mithun,66cf56a5
+info,registry,people,AR Lamba,e941cd33
+info,registry,people,Aditya Garhwal,8e02f42b
+info,registry,people,Aniruddha Joshi,40c1eeeb
+info,registry,people,Ankit Lamba,90a3c0dc
+info,registry,people,CM Gautam,30a2649b
+info,registry,people,CP Singh,077da288
+info,registry,people,Chetan Bist,cf9d3356
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,K Gowtham,90de905a
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KK Nair,944533a5
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MK Lomror,da934ee8
+info,registry,people,P Dubey,ed5a5510
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,RD Chahar,2ed569a0
+info,registry,people,Ravikumar Samarth,f2dbbff5
+info,registry,people,S Aravind,957532de
+info,registry,people,SF Khan,25986786
+info,registry,people,STR Binny,bd17b45f
+info,registry,people,Tajinder Singh,f9d99806

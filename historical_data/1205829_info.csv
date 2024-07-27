@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bengal
+info,team,Puducherry
+info,gender,male
+info,season,2019/20
+info,date,2019/11/17
+info,event,Syed Mushtaq Ali Trophy
+info,venue,BKC Ground
+info,city,
+info,toss_winner,Puducherry
+info,toss_decision,field
+info,winner,Puducherry
+info,winner_wickets,4
+info,player,Bengal,SP Goswami
+info,player,Bengal,Vivek Singh
+info,player,Bengal,AR Easwaran
+info,player,Bengal,MK Tiwary
+info,player,Bengal,Agniv Pan
+info,player,Bengal,Shahbaz Ahmed
+info,player,Bengal,Arnab Nandi
+info,player,Bengal,Ayan Bhattacharjee
+info,player,Bengal,IC Porel
+info,player,Bengal,Akash Deep
+info,player,Bengal,Sayan Ghosh
+info,player,Puducherry,Fabid Ahmed
+info,player,Puducherry,R Vinay Kumar
+info,player,Puducherry,Sagar Trivedi
+info,player,Puducherry,Ashith Rajiv
+info,player,Puducherry,Suresh Kumar
+info,player,Puducherry,Sagar Udeshi
+info,player,Puducherry,Marimuthu Vikneshwaran
+info,player,Puducherry,Damodaran Rohit
+info,player,Puducherry,KB Arun Karthik
+info,player,Puducherry,P Dogra
+info,player,Puducherry,Subramanian Anand
+info,registry,people,AR Easwaran,10b58586
+info,registry,people,Agniv Pan,6359ffe3
+info,registry,people,Akash Deep,0a67aec0
+info,registry,people,Arnab Nandi,cee8a83d
+info,registry,people,Ashith Rajiv,502056e3
+info,registry,people,Ayan Bhattacharjee,bae68b09
+info,registry,people,Damodaran Rohit,37fec668
+info,registry,people,Fabid Ahmed,f705d984
+info,registry,people,IC Porel,fdf7491e
+info,registry,people,KB Arun Karthik,7daedf2f
+info,registry,people,MK Tiwary,26e5cabf
+info,registry,people,Marimuthu Vikneshwaran,ee2ac9d7
+info,registry,people,P Dogra,2728e7e9
+info,registry,people,R Vinay Kumar,41eb4a4f
+info,registry,people,SP Goswami,541f85c9
+info,registry,people,Sagar Trivedi,8da6dbf1
+info,registry,people,Sagar Udeshi,8db0c0e1
+info,registry,people,Sayan Ghosh,d4b8ea98
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Subramanian Anand,8b470bea
+info,registry,people,Suresh Kumar,177eb92d
+info,registry,people,Vivek Singh,a446c7be

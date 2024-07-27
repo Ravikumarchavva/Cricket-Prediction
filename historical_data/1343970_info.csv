@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pretoria Capitals
+info,team,Paarl Royals
+info,gender,male
+info,season,2022/23
+info,date,2023/02/07
+info,event,SA20
+info,match_number,30
+info,venue,"SuperSport Park, Centurion"
+info,city,Centurion
+info,toss_winner,Paarl Royals
+info,toss_decision,field
+info,player_of_match,BKG Mendis
+info,umpire,BP Jele
+info,umpire,M Erasmus
+info,reserve_umpire,BM White
+info,tv_umpire,AT Holdstock
+info,match_referee,GH Pienaar
+info,winner,Pretoria Capitals
+info,winner_runs,59
+info,player,Pretoria Capitals,PD Salt
+info,player,Pretoria Capitals,BKG Mendis
+info,player,Pretoria Capitals,TB de Bruyn
+info,player,Pretoria Capitals,RR Rossouw
+info,player,Pretoria Capitals,CA Ingram
+info,player,Pretoria Capitals,JDS Neesham
+info,player,Pretoria Capitals,S Muthusamy
+info,player,Pretoria Capitals,M Pretorius
+info,player,Pretoria Capitals,E Bosch
+info,player,Pretoria Capitals,AU Rashid
+info,player,Pretoria Capitals,A Nortje
+info,player,Paarl Royals,JJ Roy
+info,player,Paarl Royals,PR Stirling
+info,player,Paarl Royals,JC Buttler
+info,player,Paarl Royals,M Van Buuren
+info,player,Paarl Royals,EJG Morgan
+info,player,Paarl Royals,DA Miller
+info,player,Paarl Royals,AL Phehlukwayo
+info,player,Paarl Royals,E Jones
+info,player,Paarl Royals,BC Fortuin
+info,player,Paarl Royals,Codi Yusuf
+info,player,Paarl Royals,L Ngidi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,BM White,66c21d35
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,CA Ingram,c995d726
+info,registry,people,Codi Yusuf,f2397e48
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,E Bosch,28d6c44d
+info,registry,people,E Jones,fbfea9c2
+info,registry,people,EJG Morgan,d2a6c0e6
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Pretorius,54c2b697
+info,registry,people,M Van Buuren,46e4a4e0
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,S Muthusamy,7dfb8890
+info,registry,people,TB de Bruyn,90d6cdea

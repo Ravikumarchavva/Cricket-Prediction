@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Australia
+info,team,New South Wales
+info,gender,male
+info,season,2023/24
+info,date,2023/10/15
+info,date,2023/10/16
+info,date,2023/10/17
+info,date,2023/10/18
+info,event,Sheffield Shield
+info,match_number,5
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,New South Wales
+info,toss_decision,field
+info,player_of_match,NA McSweeney
+info,umpire,MW Graham-Smith
+info,umpire,Troy Penman
+info,match_referee,SD Fry
+info,winner,South Australia
+info,winner_runs,186
+info,player,South Australia,HJ Hunt
+info,player,South Australia,KR Smith
+info,player,South Australia,DR Drew
+info,player,South Australia,NA McSweeney
+info,player,South Australia,JS Lehmann
+info,player,South Australia,J Fraser-McGurk
+info,player,South Australia,HJ Nielsen
+info,player,South Australia,BAD Manenti
+info,player,South Australia,N McAndrew
+info,player,South Australia,WA Agar
+info,player,South Australia,HNA Conway
+info,player,New South Wales,R Hackney
+info,player,New South Wales,DP Hughes
+info,player,New South Wales,KR Patterson
+info,player,New South Wales,MC Henriques
+info,player,New South Wales,JJS Sangha
+info,player,New South Wales,M Gilkes
+info,player,New South Wales,J Edwards
+info,player,New South Wales,CJ Green
+info,player,New South Wales,CP Tremain
+info,player,New South Wales,JM Bird
+info,player,New South Wales,J Nisbet
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CP Tremain,96824e68
+info,registry,people,DP Hughes,f3982af9
+info,registry,people,DR Drew,88684a42
+info,registry,people,HJ Hunt,62ef4abe
+info,registry,people,HJ Nielsen,0ea1455a
+info,registry,people,HNA Conway,272fc5ad
+info,registry,people,J Edwards,f787e0eb
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,J Nisbet,ccd4d679
+info,registry,people,JJS Sangha,8e3cb0e9
+info,registry,people,JM Bird,bc773eeb
+info,registry,people,JS Lehmann,c96a215f
+info,registry,people,KR Patterson,e3bf8356
+info,registry,people,KR Smith,b816c2a5
+info,registry,people,M Gilkes,d85b0f8b
+info,registry,people,MC Henriques,32198ae0
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,N McAndrew,38c276e1
+info,registry,people,NA McSweeney,e94d2d50
+info,registry,people,R Hackney,d83448bf
+info,registry,people,SD Fry,6b725ed1
+info,registry,people,Troy Penman,0aa42c26
+info,registry,people,WA Agar,15de1f5d

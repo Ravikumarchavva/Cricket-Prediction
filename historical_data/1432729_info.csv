@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Los Angeles Knight Riders
+info,team,San Francisco Unicorns
+info,gender,male
+info,season,2024
+info,date,2024/07/07
+info,event,Major League Cricket
+info,match_number,4
+info,venue,"Grand Prairie Stadium, Dallas"
+info,city,Dallas
+info,toss_winner,San Francisco Unicorns
+info,toss_decision,field
+info,player_of_match,FH Allen
+info,umpire,BV Taylor
+info,umpire,GO Brathwaite
+info,reserve_umpire,O Brown
+info,tv_umpire,WR Knights
+info,match_referee,SJA Taufel
+info,winner,San Francisco Unicorns
+info,winner_wickets,6
+info,player,Los Angeles Knight Riders,JJ Roy
+info,player,Los Angeles Knight Riders,SP Narine
+info,player,Los Angeles Knight Riders,UBT Chand
+info,player,Los Angeles Knight Riders,Shakib Al Hasan
+info,player,Los Angeles Knight Riders,NR Kumar
+info,player,Los Angeles Knight Riders,DA Miller
+info,player,Los Angeles Knight Riders,AD Russell
+info,player,Los Angeles Knight Riders,DYA Davis
+info,player,Los Angeles Knight Riders,CA Dry
+info,player,Los Angeles Knight Riders,SH Johnson
+info,player,Los Angeles Knight Riders,Ali Khan
+info,player,San Francisco Unicorns,FH Allen
+info,player,San Francisco Unicorns,J Fraser-McGurk
+info,player,San Francisco Unicorns,MW Short
+info,player,San Francisco Unicorns,JP Inglis
+info,player,San Francisco Unicorns,CJ Anderson
+info,player,San Francisco Unicorns,Hassan Khan
+info,player,San Francisco Unicorns,SP Krishnamurthi
+info,player,San Francisco Unicorns,BL Couch
+info,player,San Francisco Unicorns,LE Plunkett
+info,player,San Francisco Unicorns,Haris Rauf
+info,player,San Francisco Unicorns,Abrar Ahmed
+info,registry,people,AD Russell,bbd41817
+info,registry,people,Abrar Ahmed,abb7c76c
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,BL Couch,be69e09d
+info,registry,people,BV Taylor,99760152
+info,registry,people,CA Dry,7bc29ffb
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DYA Davis,74b02e0c
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hassan Khan,486065b3
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,JJ Roy,d1c36f5c
+info,registry,people,JP Inglis,989889ff
+info,registry,people,LE Plunkett,9a963804
+info,registry,people,MW Short,a90e53ec
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,O Brown,22fe51d7
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SJA Taufel,4b43d5ac
+info,registry,people,SP Krishnamurthi,3b8e7647
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,UBT Chand,0c94f480
+info,registry,people,WR Knights,63cbf8d8

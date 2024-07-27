@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Malaysia
+info,gender,male
+info,season,2022/23
+info,date,2022/12/09
+info,event,CWC Challenge League
+info,match_number,39
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,Mohammed Nadeem
+info,umpire,Ramasamy Venkatesh
+info,umpire,Sarika Prasad
+info,reserve_umpire,Rahul Asher
+info,match_referee,V Narayan Kutty
+info,winner,Qatar
+info,winner_runs,121
+info,player,Qatar,Kamran Khan
+info,player,Qatar,Akash Babu
+info,player,Qatar,I Liyanage
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Assad Borham
+info,player,Qatar,Dharmang Patel
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Mohammed Nadeem
+info,player,Qatar,Yousuf Ali
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Syed Rehmatullah
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Muhammad Wafiq
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Akash Babu,fb59e5bc
+info,registry,people,Assad Borham,219a417a
+info,registry,people,Dharmang Patel,643f2e6a
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Mohammed Nadeem,856cbb1e
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Muhammad Wafiq,f104c434
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Syed Rehmatullah,fcbdc2b0
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Yousuf Ali,a27d06d1
+info,registry,people,Zubaidi Zulkifle,dca8273d

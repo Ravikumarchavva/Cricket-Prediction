@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karachi Kings
+info,team,Multan Sultans
+info,gender,male
+info,season,2022/23
+info,date,2023/02/26
+info,event,Pakistan Super League
+info,match_number,14
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,Multan Sultans
+info,toss_decision,field
+info,player_of_match,T Shamsi
+info,umpire,Ahsan Raza
+info,umpire,AG Wharf
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,MJ Saggers
+info,match_referee,Iftikhar Ahmed
+info,winner,Karachi Kings
+info,winner_runs,66
+info,player,Karachi Kings,MS Wade
+info,player,Karachi Kings,JM Vince
+info,player,Karachi Kings,Tayyab Tahir
+info,player,Karachi Kings,Shoaib Malik
+info,player,Karachi Kings,Imad Wasim
+info,player,Karachi Kings,Irfan Khan
+info,player,Karachi Kings,BCJ Cutting
+info,player,Karachi Kings,Aamer Yamin
+info,player,Karachi Kings,Muhammad Musa
+info,player,Karachi Kings,T Shamsi
+info,player,Karachi Kings,Akif Javed
+info,player,Multan Sultans,Shan Masood
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,RR Rossouw
+info,player,Multan Sultans,DA Miller
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,Anwar Ali
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,CR Brathwaite
+info,player,Multan Sultans,AJ Hosein
+info,player,Multan Sultans,Abbas Afridi
+info,player,Multan Sultans,Ihsanullah
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Aamer Yamin,907d6e58
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Akif Javed,99d7d5b7
+info,registry,people,Anwar Ali,eb2d5fe7
+info,registry,people,BCJ Cutting,2e11c706
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Iftikhar Ahmed,973d561e
+info,registry,people,Ihsanullah,c290033d
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Irfan Khan,ee95065d
+info,registry,people,JM Vince,a15618fe
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Muhammad Musa,9b8a3c39
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usama Mir,6dd8b88c

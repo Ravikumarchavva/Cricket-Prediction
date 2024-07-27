@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gujarat
+info,team,Vidarbha
+info,gender,male
+info,season,2015/16
+info,date,2016/01/03
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"Vidarbha Cricket Association Stadium, Jamtha"
+info,city,
+info,toss_winner,Vidarbha
+info,toss_decision,field
+info,winner,Gujarat
+info,winner_runs,60
+info,player,Gujarat,PA Patel
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,MC Juneja
+info,player,Gujarat,RH Bhatt
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,Himalaya Barad
+info,player,Gujarat,Rohit Dahiya
+info,player,Gujarat,Roosh Kalaria
+info,player,Gujarat,RP Singh
+info,player,Gujarat,HP Patel
+info,player,Gujarat,JJ Bumrah
+info,player,Vidarbha,Ravikumar Thakur
+info,player,Vidarbha,RN Gurbani
+info,player,Vidarbha,AG Jungade
+info,player,Vidarbha,Akshay Karnewar
+info,player,Vidarbha,Akshay Wakhare
+info,player,Vidarbha,RL Jangid
+info,player,Vidarbha,JM Sharma
+info,player,Vidarbha,FY Fazal
+info,player,Vidarbha,Ganesh Satish
+info,player,Vidarbha,SU Shrivastava
+info,player,Vidarbha,AV Wankhade
+info,registry,people,AG Jungade,1d44cade
+info,registry,people,AV Wankhade,5708d0b6
+info,registry,people,Akshay Karnewar,e1e7f950
+info,registry,people,Akshay Wakhare,ec9fc54b
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,FY Fazal,c15e2193
+info,registry,people,Ganesh Satish,0ed1a112
+info,registry,people,HP Patel,8254ea06
+info,registry,people,Himalaya Barad,411cc6c6
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,MC Juneja,605b7efa
+info,registry,people,PA Patel,b5da6c24
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,RH Bhatt,fc8c6088
+info,registry,people,RL Jangid,fe5f2e48
+info,registry,people,RN Gurbani,bcaf7d33
+info,registry,people,RP Singh,c3d1402f
+info,registry,people,Ravikumar Thakur,1ea4fbd5
+info,registry,people,Rohit Dahiya,e57ded95
+info,registry,people,Roosh Kalaria,779b7f4d
+info,registry,people,SU Shrivastava,a392328e

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Multan Sultans
+info,team,Lahore Qalandars
+info,gender,male
+info,season,2023/24
+info,date,2024/02/27
+info,event,Pakistan Super League
+info,match_number,14
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Multan Sultans
+info,toss_decision,bat
+info,player_of_match,Usman Khan
+info,umpire,Ahsan Raza
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Nasir Hussain
+info,tv_umpire,Asif Yaqoob
+info,match_referee,RS Mahanama
+info,winner,Multan Sultans
+info,winner_runs,60
+info,player,Multan Sultans,Mohammad Rizwan
+info,player,Multan Sultans,RR Hendricks
+info,player,Multan Sultans,Usman Khan
+info,player,Multan Sultans,Tayyab Tahir
+info,player,Multan Sultans,Iftikhar Ahmed
+info,player,Multan Sultans,Khushdil Shah
+info,player,Multan Sultans,Usama Mir
+info,player,Multan Sultans,Aftab Ibrahim
+info,player,Multan Sultans,Faisal Akram
+info,player,Multan Sultans,Mohammad Ali
+info,player,Multan Sultans,Shahnawaz Dhani
+info,player,Lahore Qalandars,Sahibzada Farhan
+info,player,Lahore Qalandars,Fakhar Zaman
+info,player,Lahore Qalandars,HE van der Dussen
+info,player,Lahore Qalandars,Kamran Ghulam
+info,player,Lahore Qalandars,Sikandar Raza
+info,player,Lahore Qalandars,Shaheen Shah Afridi
+info,player,Lahore Qalandars,GF Linde
+info,player,Lahore Qalandars,CR Brathwaite
+info,player,Lahore Qalandars,Jahandad Khan
+info,player,Lahore Qalandars,Salman Fayyaz
+info,player,Lahore Qalandars,Zaman Khan
+info,registry,people,Aftab Ibrahim,8d42cee6
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,CR Brathwaite,e342e5fb
+info,registry,people,Faisal Akram,14661bf3
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,GF Linde,e5437608
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Jahandad Khan,22d73540
+info,registry,people,Kamran Ghulam,35f4cf7e
+info,registry,people,Khushdil Shah,fce581b5
+info,registry,people,Mohammad Ali,a86a37ab
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Nasir Hussain,5b2fe85b
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RS Mahanama,57910393
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Sahibzada Farhan,1aba45cd
+info,registry,people,Salman Fayyaz,73cbe848
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shahnawaz Dhani,7ccbb09f
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Tayyab Tahir,431f8af4
+info,registry,people,Usama Mir,6dd8b88c
+info,registry,people,Usman Khan,bafb9238
+info,registry,people,Zaman Khan,28392e11

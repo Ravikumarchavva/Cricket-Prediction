@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sussex
+info,team,Northamptonshire
+info,gender,male
+info,season,2023
+info,date,2023/08/06
+info,event,One-Day Cup
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,Sussex
+info,toss_decision,bat
+info,umpire,AC Harris
+info,umpire,Surendiran Shanmugam
+info,match_referee,JJ Swift
+info,winner,Northamptonshire
+info,winner_wickets,3
+info,method,D/L
+info,player,Sussex,TP Alsop
+info,player,Sussex,TJ Haines
+info,player,Sussex,CA Pujara
+info,player,Sussex,JM Coles
+info,player,Sussex,TGR Clark
+info,player,Sussex,FJ Hudson-Prentice
+info,player,Sussex,OJ Carter
+info,player,Sussex,JJ Carson
+info,player,Sussex,HT Crocombe
+info,player,Sussex,A Karvelas
+info,player,Sussex,BJ Currie
+info,player,Northamptonshire,PP Shaw
+info,player,Northamptonshire,EN Gay
+info,player,Northamptonshire,R Vasconcelos
+info,player,Northamptonshire,SM Whiteman
+info,player,Northamptonshire,LA Procter
+info,player,Northamptonshire,RI Keogh
+info,player,Northamptonshire,LD McManus
+info,player,Northamptonshire,TAI Taylor
+info,player,Northamptonshire,J Broad
+info,player,Northamptonshire,SC Kerrigan
+info,player,Northamptonshire,CJ White
+info,registry,people,A Karvelas,a5735bd3
+info,registry,people,AC Harris,ef14c0ec
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,CA Pujara,d4f9dbd4
+info,registry,people,CJ White,5a74e559
+info,registry,people,EN Gay,aa710a58
+info,registry,people,FJ Hudson-Prentice,932d3cc9
+info,registry,people,HT Crocombe,27fc5808
+info,registry,people,J Broad,ec5160d7
+info,registry,people,JJ Carson,344c6d55
+info,registry,people,JJ Swift,78deed6e
+info,registry,people,JM Coles,9c643d7b
+info,registry,people,LA Procter,07c8a2f4
+info,registry,people,LD McManus,6feb46a4
+info,registry,people,OJ Carter,26db69e6
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,R Vasconcelos,efe3fcc5
+info,registry,people,RI Keogh,e22d3b5c
+info,registry,people,SC Kerrigan,b20f423b
+info,registry,people,SM Whiteman,f4427cc6
+info,registry,people,Surendiran Shanmugam,2ef5fc2b
+info,registry,people,TAI Taylor,867a45a7
+info,registry,people,TGR Clark,ed8faea2
+info,registry,people,TJ Haines,bdadcca1
+info,registry,people,TP Alsop,961b8ff1

@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,France
+info,gender,male
+info,season,2024
+info,date,2024/05/10
+info,event,Mdina Cup
+info,match_number,3
+info,venue,Dreux Sport Cricket Club
+info,city,Dreux
+info,toss_winner,Belgium
+info,toss_decision,bat
+info,player_of_match,Zaheer Zahiri
+info,umpire,Atif Zahir
+info,umpire,Niaz Chaudhry
+info,reserve_umpire,Waseem Dar
+info,match_referee,Asif Zahir
+info,outcome,tie
+info,eliminator,France
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,A Raza
+info,player,Belgium,F Khaliq
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,D Dewald
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,Waqas Ali
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Murid Ekrami
+info,player,Belgium,Sajad Ahmadzai
+info,player,France,G Mckeon
+info,player,France,H Niaz
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,HA Jackson
+info,player,France,Usman Khan
+info,player,France,Kamran Ahmadzai
+info,player,France,Noman Amjad
+info,player,France,Zaheer Zahiri
+info,player,France,S Stanikzay
+info,player,France,Dawood Ahmadzai
+info,registry,people,A Raza,838bc6ab
+info,registry,people,Asif Zahir,2f4f7785
+info,registry,people,Atif Zahir,bdebac8a
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,D Dewald,f97e4db3
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,F Khaliq,c17dcc29
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,Murid Ekrami,76b19864
+info,registry,people,Niaz Chaudhry,5abe5d27
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,S Jamil,3d6617c6
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sajad Ahmadzai,6978bff0
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,Waqas Ali,2fd4669a
+info,registry,people,Waseem Dar,1a335960
+info,registry,people,Zaheer Zahiri,62f6d8ce

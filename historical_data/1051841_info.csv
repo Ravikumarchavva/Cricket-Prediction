@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canterbury
+info,team,Auckland Aces
+info,gender,male
+info,season,2016/17
+info,date,2016/11/22
+info,date,2016/11/23
+info,date,2016/11/24
+info,date,2016/11/25
+info,event,Plunket Shield
+info,venue,Mainpower Oval
+info,city,
+info,toss_winner,Auckland Aces
+info,toss_decision,field
+info,umpire,TJ Parlane
+info,umpire,WR Knights
+info,winner,Canterbury
+info,winner_runs,10
+info,player,Canterbury,CJ Bowes
+info,player,Canterbury,JCT Boyle
+info,player,Canterbury,PG Fulton
+info,player,Canterbury,KJ McClure
+info,player,Canterbury,CE McConchie
+info,player,Canterbury,AM Ellis
+info,player,Canterbury,CD Fletcher
+info,player,Canterbury,TG Johnston
+info,player,Canterbury,MJ Henry
+info,player,Canterbury,KA Jamieson
+info,player,Canterbury,EJ Nuttall
+info,player,Canterbury,LV van Beek
+info,player,Auckland Aces,ML Guptill-Bunce
+info,player,Auckland Aces,RJ Nicol
+info,player,Auckland Aces,RR O'Donnell
+info,player,Auckland Aces,C Munro
+info,player,Auckland Aces,MS Chapman
+info,player,Auckland Aces,B Cachopa
+info,player,Auckland Aces,DJ Grobbelaar
+info,player,Auckland Aces,TS Nethula
+info,player,Auckland Aces,CW Andrews
+info,player,Auckland Aces,LH Ferguson
+info,player,Auckland Aces,SM Solia
+info,registry,people,AM Ellis,f987245c
+info,registry,people,B Cachopa,e9a44f08
+info,registry,people,C Munro,af2c687b
+info,registry,people,CD Fletcher,4af9f5d4
+info,registry,people,CE McConchie,d285acaf
+info,registry,people,CJ Bowes,45df0e72
+info,registry,people,CW Andrews,e731bb66
+info,registry,people,DJ Grobbelaar,52d11798
+info,registry,people,EJ Nuttall,c9bb898a
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KJ McClure,4c895bc1
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,ML Guptill-Bunce,9f86e380
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,PG Fulton,10a2a1ff
+info,registry,people,RJ Nicol,8d8c24fd
+info,registry,people,RR O'Donnell,2742086d
+info,registry,people,SM Solia,fd9f43bb
+info,registry,people,TG Johnston,a1a5192e
+info,registry,people,TJ Parlane,3cfc24b0
+info,registry,people,TS Nethula,e82dc4c5
+info,registry,people,WR Knights,63cbf8d8

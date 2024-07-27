@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,South Africa
+info,gender,male
+info,season,2002/03
+info,date,2003/03/03
+info,event,ICC World Cup
+info,match_number,40
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,MS Atapattu
+info,umpire,S Venkataraghavan
+info,umpire,SA Bucknor
+info,tv_umpire,P Willey
+info,match_referee,CH Lloyd
+info,outcome,tie
+info,method,D/L
+info,player,Sri Lanka,MS Atapattu
+info,player,Sri Lanka,ST Jayasuriya
+info,player,Sri Lanka,HP Tillakaratne
+info,player,Sri Lanka,DPMD Jayawardene
+info,player,Sri Lanka,PA de Silva
+info,player,Sri Lanka,RP Arnold
+info,player,Sri Lanka,KC Sangakkara
+info,player,Sri Lanka,WPUJC Vaas
+info,player,Sri Lanka,M Muralitharan
+info,player,Sri Lanka,CRD Fernando
+info,player,Sri Lanka,PW Gunaratne
+info,player,South Africa,GC Smith
+info,player,South Africa,HH Gibbs
+info,player,South Africa,G Kirsten
+info,player,South Africa,JH Kallis
+info,player,South Africa,HH Dippenaar
+info,player,South Africa,MV Boucher
+info,player,South Africa,SM Pollock
+info,player,South Africa,L Klusener
+info,player,South Africa,M Ntini
+info,player,South Africa,M Zondeki
+info,player,South Africa,AJ Hall
+info,registry,people,AJ Hall,6b0c3a20
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,CRD Fernando,342d8ade
+info,registry,people,DPMD Jayawardene,d18f9182
+info,registry,people,G Kirsten,ad48eb56
+info,registry,people,GC Smith,72861603
+info,registry,people,HH Dippenaar,98ecf62a
+info,registry,people,HH Gibbs,e1d1b294
+info,registry,people,HP Tillakaratne,00ea9791
+info,registry,people,JH Kallis,86dc8f2e
+info,registry,people,KC Sangakkara,6b71e6cf
+info,registry,people,L Klusener,c0790f82
+info,registry,people,M Muralitharan,4ba44e19
+info,registry,people,M Ntini,20a941bb
+info,registry,people,M Zondeki,9b75e4f1
+info,registry,people,MS Atapattu,8a686d30
+info,registry,people,MV Boucher,f3cb53a1
+info,registry,people,P Willey,1b647f99
+info,registry,people,PA de Silva,34ff9e07
+info,registry,people,PW Gunaratne,27410b17
+info,registry,people,RJ Peterson,26ff4c29
+info,registry,people,RP Arnold,cccdde80
+info,registry,people,S Venkataraghavan,12453319
+info,registry,people,SA Bucknor,2ad22b51
+info,registry,people,SM Pollock,88fccd6c
+info,registry,people,ST Jayasuriya,f233bbb4
+info,registry,people,WPUJC Vaas,bcce309e

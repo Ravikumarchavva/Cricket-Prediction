@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,United States of America
+info,gender,female
+info,season,2024
+info,date,2024/04/14
+info,event,UAE Women's ODI Tri-Series
+info,match_number,3
+info,venue,"ICC Academy, Dubai"
+info,city,Dubai
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,AH Maqsood
+info,umpire,Aasif Iqbal
+info,umpire,Akbar Ali
+info,match_referee,Iftikhar Ali
+info,winner,Scotland
+info,winner_runs,41
+info,player,Scotland,SJ Bryce
+info,player,Scotland,DEM Carter
+info,player,Scotland,KE Bryce
+info,player,Scotland,A Lister
+info,player,Scotland,PA Chatterji
+info,player,Scotland,M McColl
+info,player,Scotland,L Jack
+info,player,Scotland,R Slater
+info,player,Scotland,K Fraser
+info,player,Scotland,C Abel
+info,player,Scotland,AH Maqsood
+info,player,United States of America,D Dhingra
+info,player,United States of America,Pooja Ganesh
+info,player,United States of America,A Kolan
+info,player,United States of America,S Sriharsha
+info,player,United States of America,GC Bhogle
+info,player,United States of America,IM Vaghela
+info,player,United States of America,JM Willathgamuwa
+info,player,United States of America,RP Singh
+info,player,United States of America,G Kodali
+info,player,United States of America,AI Chudasama
+info,player,United States of America,JL Aras
+info,registry,people,A Kolan,85f5735b
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AI Chudasama,9414a81c
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,C Abel,d92d3563
+info,registry,people,D Dhingra,b0dc5d0d
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,G Kodali,f606177e
+info,registry,people,GC Bhogle,a1965ce2
+info,registry,people,IM Vaghela,8d62fc14
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,JL Aras,e21475a5
+info,registry,people,JM Willathgamuwa,0a10b268
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,Pooja Ganesh,a186b627
+info,registry,people,R Slater,8a452195
+info,registry,people,RP Singh,0ab3c788
+info,registry,people,S Sriharsha,89f6c26f
+info,registry,people,SJ Bryce,2ca65aee

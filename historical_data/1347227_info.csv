@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Somerset
+info,team,Lancashire
+info,gender,male
+info,season,2023
+info,date,2023/05/11
+info,date,2023/05/12
+info,date,2023/05/13
+info,date,2023/05/14
+info,event,County Championship
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Lancashire
+info,toss_decision,field
+info,umpire,NJ Llong
+info,umpire,Tom Lungley
+info,match_referee,PM Such
+info,outcome,draw
+info,player,Somerset,TA Lammonby
+info,player,Somerset,SM Davies
+info,player,Somerset,TB Abell
+info,player,Somerset,GA Bartlett
+info,player,Somerset,T Kohler-Cadmore
+info,player,Somerset,JEK Rew
+info,player,Somerset,Kasey Aldridge
+info,player,Somerset,C Overton
+info,player,Somerset,JH Davey
+info,player,Somerset,MJ Henry
+info,player,Somerset,MJ Leach
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,GP Balderson
+info,player,Lancashire,JJ Bohannon
+info,player,Lancashire,WSA Williams
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Mitchell
+info,player,Lancashire,DJ Vilas
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,S Mahmood
+info,player,Lancashire,JM Anderson
+info,registry,people,C Overton,e9987a94
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DJ Vilas,087210b1
+info,registry,people,GA Bartlett,e2caec46
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,GP Balderson,23dee937
+info,registry,people,JEK Rew,521595e7
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,JJ Bohannon,fd96de7c
+info,registry,people,JM Anderson,d12143bf
+info,registry,people,Kasey Aldridge,31b01074
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Leach,3987e390
+info,registry,people,NJ Llong,573fb985
+info,registry,people,PM Such,c9f1892c
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SM Davies,8fc65c2b
+info,registry,people,T Kohler-Cadmore,f836b33d
+info,registry,people,TA Lammonby,73f1f6b0
+info,registry,people,TB Abell,ba9258a7
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WSA Williams,861eed37

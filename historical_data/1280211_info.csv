@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uttar Pradesh
+info,team,Chandigarh
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Gurugram Cricket Ground (SRNCC)
+info,city,
+info,toss_winner,Uttar Pradesh
+info,toss_decision,bat
+info,winner,Uttar Pradesh
+info,winner_runs,22
+info,player,Uttar Pradesh,Abhishek Goswami
+info,player,Uttar Pradesh,Madhav Kaushik
+info,player,Uttar Pradesh,KS Sharma
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,PK Garg
+info,player,Uttar Pradesh,AD Nath
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,Shivam Sharma
+info,player,Uttar Pradesh,Mohsin Khan
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Shivam Mavi
+info,player,Chandigarh,Jagjit Singh
+info,player,Chandigarh,Parmesh Vaidik
+info,player,Chandigarh,Jaskaran Singh
+info,player,Chandigarh,Gurinder Singh
+info,player,Chandigarh,Bhagmender Lather
+info,player,Chandigarh,M Vohra
+info,player,Chandigarh,Sarul Kanwar
+info,player,Chandigarh,Shivam Bhambri
+info,player,Chandigarh,Ankit Kaushik
+info,player,Chandigarh,Jaskaranvir Singh Sohi
+info,player,Chandigarh,Kunal Mahajan
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Abhishek Goswami,53c5c146
+info,registry,people,Ankit Kaushik,084708eb
+info,registry,people,Bhagmender Lather,44cb17b4
+info,registry,people,Gurinder Singh,911d04ad
+info,registry,people,Jagjit Singh,d221c0cf
+info,registry,people,Jaskaran Singh,d7b3a420
+info,registry,people,Jaskaranvir Singh Sohi,a030bba8
+info,registry,people,KS Sharma,39ed0d2f
+info,registry,people,Kunal Mahajan,b83ef011
+info,registry,people,M Vohra,c03e2850
+info,registry,people,Madhav Kaushik,49110249
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,PK Garg,bb965e9a
+info,registry,people,Parmesh Vaidik,cede9920
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Sarul Kanwar,10d64f7c
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shivam Bhambri,e4bfcaad
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,Shivam Sharma,982dc390

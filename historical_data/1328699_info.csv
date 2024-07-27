@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Otago Volts
+info,gender,male
+info,season,2022/23
+info,date,2023/03/21
+info,date,2023/03/22
+info,date,2023/03/23
+info,date,2023/03/24
+info,event,Plunket Shield
+info,match_number,23
+info,venue,Fitzherbert Park
+info,city,
+info,toss_winner,Central Stags
+info,toss_decision,field
+info,umpire,ED Sanders
+info,umpire,JM Dempsey
+info,match_referee,K Pulley
+info,winner,Central Stags
+info,winner_wickets,5
+info,player,Central Stags,JCT Boyle
+info,player,Central Stags,CG Heaphy
+info,player,Central Stags,GR Hay
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,JA Clarkson
+info,player,Central Stags,BJ Small
+info,player,Central Stags,BG Randell
+info,player,Central Stags,AY Patel
+info,player,Central Stags,RL Toole
+info,player,Central Stags,TA Findlay
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,BNJ Lockrose
+info,player,Otago Volts,D Foxcroft
+info,player,Otago Volts,JM Gibson
+info,player,Otago Volts,TK Parkes
+info,player,Otago Volts,DN Phillips
+info,player,Otago Volts,MW Chu
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,MD Rae
+info,player,Otago Volts,JM Cumming
+info,player,Otago Volts,ATE Hazeldine
+info,registry,people,ATE Hazeldine,33ad0ad9
+info,registry,people,AY Patel,fbd4f01f
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BG Randell,dbeb6733
+info,registry,people,BJ Small,b1b7b7de
+info,registry,people,BNJ Lockrose,aa8914ad
+info,registry,people,CG Heaphy,fcbd6eb8
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JCT Boyle,f7b3d625
+info,registry,people,JM Cumming,af4c6a6d
+info,registry,people,JM Dempsey,153c9f33
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,K Pulley,644bf4ad
+info,registry,people,MD Rae,1c06d60a
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,RL Toole,2fef3b0c
+info,registry,people,TA Findlay,e98787f5
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,TK Parkes,343407f3

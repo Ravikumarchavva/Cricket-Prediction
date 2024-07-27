@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lancashire
+info,team,Nottinghamshire
+info,gender,male
+info,season,2023
+info,date,2023/05/27
+info,event,Vitality Blast
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,Lancashire
+info,toss_decision,bat
+info,umpire,Hassan Adnan
+info,umpire,PJ Hartley
+info,match_referee,WR Smith
+info,winner,Lancashire
+info,winner_runs,22
+info,player,Lancashire,PD Salt
+info,player,Lancashire,LWP Wells
+info,player,Lancashire,SJ Croft
+info,player,Lancashire,DJ Mitchell
+info,player,Lancashire,LS Livingstone
+info,player,Lancashire,C de Grandhomme
+info,player,Lancashire,GJ Bell
+info,player,Lancashire,TW Hartley
+info,player,Lancashire,L Wood
+info,player,Lancashire,S Mahmood
+info,player,Lancashire,MW Parkinson
+info,player,Nottinghamshire,JM Clarke
+info,player,Nottinghamshire,AD Hales
+info,player,Nottinghamshire,C Munro
+info,player,Nottinghamshire,M Montgomery
+info,player,Nottinghamshire,TJ Moores
+info,player,Nottinghamshire,SJ Mullaney
+info,player,Nottinghamshire,LW James
+info,player,Nottinghamshire,SR Patel
+info,player,Nottinghamshire,Shaheen Shah Afridi
+info,player,Nottinghamshire,C McKerr
+info,player,Nottinghamshire,M Carter
+info,registry,people,AD Hales,92aeac25
+info,registry,people,C McKerr,5ccdb14f
+info,registry,people,C Munro,af2c687b
+info,registry,people,C de Grandhomme,94d7f855
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,GJ Bell,3e7534f7
+info,registry,people,Hassan Adnan,56ca7a8c
+info,registry,people,JM Clarke,2eca67f5
+info,registry,people,L Wood,65b6943c
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,LW James,2baad3bd
+info,registry,people,LWP Wells,1957c6b7
+info,registry,people,M Carter,1ca7c00f
+info,registry,people,M Montgomery,7671203a
+info,registry,people,MW Parkinson,19708692
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SJ Croft,ab474682
+info,registry,people,SJ Mullaney,0e0d43b4
+info,registry,people,SR Patel,18fac429
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,TW Hartley,22b98d7c
+info,registry,people,WR Smith,ad962377

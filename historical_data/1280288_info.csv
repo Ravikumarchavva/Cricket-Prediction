@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hyderabad (India)
+info,team,Uttar Pradesh
+info,gender,male
+info,season,2021/22
+info,date,2021/11/09
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Gurugram Cricket Ground (SRNCC)
+info,city,
+info,toss_winner,Hyderabad (India)
+info,toss_decision,bat
+info,winner,Hyderabad (India)
+info,winner_runs,29
+info,player,Hyderabad (India),Pragnay Reddy
+info,player,Hyderabad (India),Tanmay Agarwal
+info,player,Hyderabad (India),Tilak Varma
+info,player,Hyderabad (India),Himalay Agarwal
+info,player,Hyderabad (India),Bavanaka Sandeep
+info,player,Hyderabad (India),Rahul Buddhi
+info,player,Hyderabad (India),Ravi Teja
+info,player,Hyderabad (India),Tanay Thyagarajan
+info,player,Hyderabad (India),CV Milind
+info,player,Hyderabad (India),Trishank Gupta
+info,player,Hyderabad (India),E Sanketh
+info,player,Uttar Pradesh,Sameer Choudhary
+info,player,Uttar Pradesh,Yash Dayal
+info,player,Uttar Pradesh,AS Rajpoot
+info,player,Uttar Pradesh,Saurabh Kumar
+info,player,Uttar Pradesh,RK Singh
+info,player,Uttar Pradesh,Shivam Sharma
+info,player,Uttar Pradesh,Aryan Juyal
+info,player,Uttar Pradesh,Nalin Mishra
+info,player,Uttar Pradesh,Manik Beri
+info,player,Uttar Pradesh,KS Sharma
+info,player,Uttar Pradesh,AD Nath
+info,registry,people,AD Nath,f10e94c4
+info,registry,people,AS Rajpoot,db31895a
+info,registry,people,Aryan Juyal,5f2732f7
+info,registry,people,Bavanaka Sandeep,bc67cc22
+info,registry,people,CV Milind,7b5b6311
+info,registry,people,E Sanketh,2b22e709
+info,registry,people,Himalay Agarwal,8e48d9a3
+info,registry,people,KS Sharma,39ed0d2f
+info,registry,people,Manik Beri,b903f842
+info,registry,people,Nalin Mishra,8a336273
+info,registry,people,Pragnay Reddy,9e29431f
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Rahul Buddhi,70a9b353
+info,registry,people,Ravi Teja,5f39537c
+info,registry,people,Sameer Choudhary,9e67cfd0
+info,registry,people,Saurabh Kumar,2a6afc6f
+info,registry,people,Shivam Sharma,982dc390
+info,registry,people,Tanay Thyagarajan,f1809c03
+info,registry,people,Tanmay Agarwal,e6e9b619
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Trishank Gupta,9805eb7e
+info,registry,people,Yash Dayal,7210d461

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Derbyshire
+info,team,Leicestershire
+info,gender,male
+info,season,2023
+info,date,2023/06/30
+info,event,Vitality Blast
+info,venue,"County Ground, Derby"
+info,city,Derby
+info,toss_winner,Leicestershire
+info,toss_decision,field
+info,umpire,N Pratt
+info,umpire,Tom Lungley
+info,match_referee,WR Smith
+info,winner,Derbyshire
+info,winner_runs,71
+info,player,Derbyshire,HRC Came
+info,player,Derbyshire,TA Wood
+info,player,Derbyshire,WL Madsen
+info,player,Derbyshire,JL du Plooy
+info,player,Derbyshire,Haider Ali
+info,player,Derbyshire,BD Guest
+info,player,Derbyshire,MH McKiernan
+info,player,Derbyshire,ZJ Chappell
+info,player,Derbyshire,AT Thomson
+info,player,Derbyshire,GLS Scrimshaw
+info,player,Derbyshire,Zaman Khan
+info,player,Leicestershire,PSP Handscomb
+info,player,Leicestershire,PWA Mulder
+info,player,Leicestershire,RK Patel
+info,player,Leicestershire,CN Ackermann
+info,player,Leicestershire,NR Welch
+info,player,Leicestershire,LPJ Kimber
+info,player,Leicestershire,LJ Hill
+info,player,Leicestershire,TAR Scriven
+info,player,Leicestershire,MG Finan
+info,player,Leicestershire,CF Parkinson
+info,player,Leicestershire,E Barnes
+info,registry,people,AT Thomson,ad286dcc
+info,registry,people,BD Guest,8159d5fc
+info,registry,people,CF Parkinson,aa1210d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,E Barnes,fec369cd
+info,registry,people,GLS Scrimshaw,95a06106
+info,registry,people,HRC Came,0a7c6649
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,JL du Plooy,6e6fb538
+info,registry,people,LJ Hill,35f9a295
+info,registry,people,LPJ Kimber,9f812582
+info,registry,people,MG Finan,8c9d3000
+info,registry,people,MH McKiernan,9f701298
+info,registry,people,N Pratt,01f65cd3
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,PSP Handscomb,ada15e88
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,RK Patel,4531f249
+info,registry,people,TA Wood,884f72a1
+info,registry,people,TAR Scriven,ac3c3cab
+info,registry,people,Tom Lungley,75169b8c
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,WR Smith,ad962377
+info,registry,people,ZJ Chappell,fe5b4367
+info,registry,people,Zaman Khan,28392e11

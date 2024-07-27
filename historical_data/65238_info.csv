@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Pakistan
+info,gender,male
+info,season,2002/03
+info,date,2003/02/11
+info,event,ICC World Cup
+info,match_number,4
+info,venue,"New Wanderers Stadium, Johannesburg"
+info,city,Johannesburg
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,A Symonds
+info,umpire,EAR de Silva
+info,umpire,DR Shepherd
+info,tv_umpire,BF Bowden
+info,match_referee,CH Lloyd
+info,winner,Australia
+info,winner_runs,82
+info,player,Australia,AC Gilchrist
+info,player,Australia,ML Hayden
+info,player,Australia,RT Ponting
+info,player,Australia,DR Martyn
+info,player,Australia,JP Maher
+info,player,Australia,A Symonds
+info,player,Australia,GB Hogg
+info,player,Australia,IJ Harvey
+info,player,Australia,B Lee
+info,player,Australia,JN Gillespie
+info,player,Australia,GD McGrath
+info,player,Pakistan,Taufeeq Umar
+info,player,Pakistan,Shahid Afridi
+info,player,Pakistan,Saleem Elahi
+info,player,Pakistan,Inzamam-ul-Haq
+info,player,Pakistan,Yousuf Youhana
+info,player,Pakistan,Younis Khan
+info,player,Pakistan,Abdul Razzaq
+info,player,Pakistan,Rashid Latif
+info,player,Pakistan,Wasim Akram
+info,player,Pakistan,Waqar Younis
+info,player,Pakistan,Shoaib Akhtar
+info,registry,people,A Symonds,bd77eb62
+info,registry,people,AC Gilchrist,2b6e6dec
+info,registry,people,Abdul Razzaq,390ff45b
+info,registry,people,B Lee,dd09ff8e
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,CH Lloyd,5b445db0
+info,registry,people,DR Martyn,69762509
+info,registry,people,DR Shepherd,8a578048
+info,registry,people,EAR de Silva,dc63f509
+info,registry,people,GB Hogg,f708a0bc
+info,registry,people,GD McGrath,ee7d0c82
+info,registry,people,IJ Harvey,3227beb4
+info,registry,people,Inzamam-ul-Haq,b9a3d8c6
+info,registry,people,JN Gillespie,74234d66
+info,registry,people,JP Maher,ec526fca
+info,registry,people,ML Hayden,d8699ab7
+info,registry,people,RT Ponting,7d415ea5
+info,registry,people,Rashid Latif,d32782ae
+info,registry,people,Saleem Elahi,1e7b1aa7
+info,registry,people,Shahid Afridi,0dc00542
+info,registry,people,Shoaib Akhtar,10a91f35
+info,registry,people,Taufeeq Umar,c73bb037
+info,registry,people,Waqar Younis,d8906a73
+info,registry,people,Wasim Akram,126e56a1
+info,registry,people,Younis Khan,33cb3411
+info,registry,people,Yousuf Youhana,e237b28c

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Glamorgan
+info,team,Yorkshire
+info,gender,male
+info,season,2024
+info,date,2024/05/03
+info,date,2024/05/04
+info,date,2024/05/05
+info,date,2024/05/06
+info,event,County Championship
+info,match_number,18
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Glamorgan
+info,toss_decision,bat
+info,umpire,ID Blackwell
+info,umpire,Mark Newell
+info,match_referee,WR Smith
+info,outcome,draw
+info,player,Glamorgan,EJ Byrom
+info,player,Glamorgan,WT Root
+info,player,Glamorgan,SA Northeast
+info,player,Glamorgan,KS Carlson
+info,player,Glamorgan,CA Ingram
+info,player,Glamorgan,CB Cooke
+info,player,Glamorgan,TR Bevan
+info,player,Glamorgan,JAR Harris
+info,player,Glamorgan,MS Crane
+info,player,Glamorgan,JP McIlroy
+info,player,Glamorgan,Mir Hamza
+info,player,Yorkshire,A Lyth
+info,player,Yorkshire,FJ Bean
+info,player,Yorkshire,Shan Masood
+info,player,Yorkshire,JE Root
+info,player,Yorkshire,HC Brook
+info,player,Yorkshire,JA Tattersall
+info,player,Yorkshire,ML Revis
+info,player,Yorkshire,DM Bess
+info,player,Yorkshire,D Moriarty
+info,player,Yorkshire,BO Coad
+info,player,Yorkshire,MD Fisher
+info,registry,people,A Lyth,70b8fd28
+info,registry,people,BO Coad,a37b5c0a
+info,registry,people,CA Ingram,c995d726
+info,registry,people,CB Cooke,6755cd5c
+info,registry,people,D Moriarty,6ea2710f
+info,registry,people,DM Bess,ad46c747
+info,registry,people,EJ Byrom,9e1b7792
+info,registry,people,FJ Bean,1e0d4dcb
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,ID Blackwell,818e8bf2
+info,registry,people,JA Tattersall,793977d8
+info,registry,people,JAR Harris,f1ba9ed7
+info,registry,people,JE Root,a343262c
+info,registry,people,JP McIlroy,80e44dc5
+info,registry,people,KS Carlson,9e707e02
+info,registry,people,MD Fisher,8f2dfebf
+info,registry,people,ML Revis,28217d89
+info,registry,people,MS Crane,f0a0204e
+info,registry,people,Mark Newell,b33f0fa1
+info,registry,people,Mir Hamza,cb1a782a
+info,registry,people,SA Northeast,7e4c8ba3
+info,registry,people,Shan Masood,6843a783
+info,registry,people,TR Bevan,6c7349c4
+info,registry,people,WR Smith,ad962377
+info,registry,people,WT Root,72898514

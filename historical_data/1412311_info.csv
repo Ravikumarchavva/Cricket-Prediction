@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Rangpur Riders
+info,gender,male
+info,season,2023/24
+info,date,2024/02/19
+info,event,Bangladesh Premier League
+info,match_number,38
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Fortune Barishal
+info,toss_decision,bat
+info,player_of_match,Abu Hider
+info,umpire,DJ Millns
+info,umpire,Tanvir Ahmed
+info,reserve_umpire,Morshed Ali Khan
+info,tv_umpire,Moniruzzaman
+info,match_referee,Ehsanul Haque
+info,winner,Rangpur Riders
+info,winner_wickets,1
+info,player,Fortune Barishal,Tamim Iqbal
+info,player,Fortune Barishal,T Banton
+info,player,Fortune Barishal,KR Mayers
+info,player,Fortune Barishal,Mushfiqur Rahim
+info,player,Fortune Barishal,Soumya Sarkar
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Mohammad Saifuddin
+info,player,Fortune Barishal,KA Maharaj
+info,player,Fortune Barishal,OC McCoy
+info,player,Fortune Barishal,Kamrul Islam Rabbi
+info,player,Rangpur Riders,BA King
+info,player,Rangpur Riders,Mominul Haque
+info,player,Rangpur Riders,Shakib Al Hasan
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Nurul Hasan
+info,player,Rangpur Riders,TJ Moores
+info,player,Rangpur Riders,JDS Neesham
+info,player,Rangpur Riders,D Pretorius
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Abu Hider
+info,player,Rangpur Riders,Hasan Mahmud
+info,registry,people,Abu Hider,31803fac
+info,registry,people,BA King,7fca84b7
+info,registry,people,D Pretorius,11614d87
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Ehsanul Haque,688b2d58
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KR Mayers,73c18486
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Mominul Haque,de0a3209
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Mushfiqur Rahim,a94e08ea
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,Pritom Kumar,b960524d
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,TJ Moores,85dcb721
+info,registry,people,Tamim Iqbal,3b041a12
+info,registry,people,Tanvir Ahmed,ea2df1f1

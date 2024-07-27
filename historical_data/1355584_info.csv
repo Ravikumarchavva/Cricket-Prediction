@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,5
+info,team,Oval Invincibles
+info,team,Manchester Originals
+info,gender,female
+info,season,2023
+info,date,2023/08/09
+info,event,The Hundred Women's Competition
+info,match_number,13
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Manchester Originals
+info,toss_decision,field
+info,player_of_match,R MacDonald-Gay
+info,umpire,JD Shantry
+info,umpire,S McLelland
+info,reserve_umpire,S Widdup
+info,tv_umpire,NL Bainton
+info,match_referee,SJ Davis
+info,winner,Oval Invincibles
+info,winner_runs,5
+info,player,Oval Invincibles,L Winfield-Hill
+info,player,Oval Invincibles,SW Bates
+info,player,Oval Invincibles,A Capsey
+info,player,Oval Invincibles,D van Niekerk
+info,player,Oval Invincibles,M Kapp
+info,player,Oval Invincibles,PJ Scholfield
+info,player,Oval Invincibles,MK Villiers
+info,player,Oval Invincibles,CL Griffith
+info,player,Oval Invincibles,R MacDonald-Gay
+info,player,Oval Invincibles,E Gray
+info,player,Oval Invincibles,Sophia Smale
+info,player,Manchester Originals,L Wolvaardt
+info,player,Manchester Originals,EL Lamb
+info,player,Manchester Originals,A Campbell
+info,player,Manchester Originals,DJS Dottin
+info,player,Manchester Originals,A Wellington
+info,player,Manchester Originals,S Ecclestone
+info,player,Manchester Originals,FMK Morris
+info,player,Manchester Originals,KL George
+info,player,Manchester Originals,KE Bryce
+info,player,Manchester Originals,E Threlkeld
+info,player,Manchester Originals,M Gaur
+info,registry,people,A Campbell,4b788e61
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,CL Griffith,85ce4231
+info,registry,people,D van Niekerk,8c5775f3
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,E Gray,58717de2
+info,registry,people,E Threlkeld,c66c73f9
+info,registry,people,EL Lamb,02181d9a
+info,registry,people,FMK Morris,3a9b3866
+info,registry,people,JD Shantry,70fdd428
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,KL George,e69dbbef
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,NL Bainton,cd219cb3
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,R MacDonald-Gay,459a7b0a
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S McLelland,fcc653b8
+info,registry,people,S Widdup,65bf2837
+info,registry,people,SJ Davis,bc71b0b2
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sophia Smale,c296dba1

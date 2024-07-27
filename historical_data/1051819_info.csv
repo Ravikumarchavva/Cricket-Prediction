@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Wellington Firebirds
+info,team,Northern Districts
+info,gender,male
+info,season,2016/17
+info,date,2016/10/29
+info,date,2016/10/30
+info,date,2016/10/31
+info,date,2016/11/01
+info,event,Plunket Shield
+info,venue,Cello Basin Reserve
+info,city,
+info,toss_winner,Wellington Firebirds
+info,toss_decision,field
+info,umpire,A Mehrotra
+info,umpire,BF Bowden
+info,outcome,draw
+info,player,Wellington Firebirds,MHW Papps
+info,player,Wellington Firebirds,LJ Woodcock
+info,player,Wellington Firebirds,SJ Murdoch
+info,player,Wellington Firebirds,HJH Marshall
+info,player,Wellington Firebirds,MA Pollard
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,MJ Taylor
+info,player,Wellington Firebirds,JS Patel
+info,player,Wellington Firebirds,HK Bennett
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,BJ Arnel
+info,player,Northern Districts,DR Flynn
+info,player,Northern Districts,JD Baker
+info,player,Northern Districts,DG Brownlie
+info,player,Northern Districts,JF Carter
+info,player,Northern Districts,B Popli
+info,player,Northern Districts,NF Kelly
+info,player,Northern Districts,SC Kuggeleijn
+info,player,Northern Districts,DJ Mitchell
+info,player,Northern Districts,TL Seifert
+info,player,Northern Districts,JG Walker
+info,player,Northern Districts,TC Goodin
+info,registry,people,A Mehrotra,f336ff13
+info,registry,people,B Popli,848487cf
+info,registry,people,BF Bowden,efc0a862
+info,registry,people,BJ Arnel,a5ac694f
+info,registry,people,DG Brownlie,22bd731a
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DR Flynn,9d710afe
+info,registry,people,HJH Marshall,70542bef
+info,registry,people,HK Bennett,94238673
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JD Baker,10f7b52b
+info,registry,people,JF Carter,125fa4de
+info,registry,people,JG Walker,94734e80
+info,registry,people,JS Patel,f5821615
+info,registry,people,LJ Woodcock,9ba59a3c
+info,registry,people,MA Pollard,d3b84c59
+info,registry,people,MHW Papps,6c1beb66
+info,registry,people,MJ Taylor,87617f7a
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,SC Kuggeleijn,fef92afc
+info,registry,people,SJ Murdoch,2415a225
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TC Goodin,ae9e1240
+info,registry,people,TL Seifert,4663bd23

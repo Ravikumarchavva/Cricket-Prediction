@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jamaica Tallawahs
+info,team,St Lucia Kings
+info,gender,male
+info,season,2023
+info,date,2023/08/16
+info,event,Caribbean Premier League
+info,match_number,1
+info,venue,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+info,city,Gros Islet
+info,toss_winner,St Lucia Kings
+info,toss_decision,field
+info,player_of_match,BA King
+info,umpire,GO Brathwaite
+info,umpire,PA Gustard
+info,reserve_umpire,CM Tuckett
+info,tv_umpire,Zahid Bassarath
+info,match_referee,M Ragoonath
+info,winner,Jamaica Tallawahs
+info,winner_runs,11
+info,player,Jamaica Tallawahs,BA King
+info,player,Jamaica Tallawahs,KSA McKenzie
+info,player,Jamaica Tallawahs,SSJ Brooks
+info,player,Jamaica Tallawahs,AA Jangoo
+info,player,Jamaica Tallawahs,RA Reifer
+info,player,Jamaica Tallawahs,FA Allen
+info,player,Jamaica Tallawahs,Imad Wasim
+info,player,Jamaica Tallawahs,CJ Green
+info,player,Jamaica Tallawahs,Mohammad Amir
+info,player,Jamaica Tallawahs,NA Gordon
+info,player,Jamaica Tallawahs,Salman Irshad
+info,player,St Lucia Kings,J Charles
+info,player,St Lucia Kings,F du Plessis
+info,player,St Lucia Kings,SC Williams
+info,player,St Lucia Kings,RL Chase
+info,player,St Lucia Kings,Sikandar Raza
+info,player,St Lucia Kings,KS Melius
+info,player,St Lucia Kings,RS Primus
+info,player,St Lucia Kings,MW Forde
+info,player,St Lucia Kings,AS Joseph
+info,player,St Lucia Kings,P Hatzoglou
+info,player,St Lucia Kings,CB Sole
+info,registry,people,AA Jangoo,88626ed2
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA King,7fca84b7
+info,registry,people,CB Sole,469ccead
+info,registry,people,CJ Green,19b9f399
+info,registry,people,CM Tuckett,a67252f0
+info,registry,people,F du Plessis,3355b542
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,J Charles,09a9d073
+info,registry,people,KS Melius,efcd6d23
+info,registry,people,KSA McKenzie,2b8f219a
+info,registry,people,M Ragoonath,6f596571
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,NA Gordon,59377a7f
+info,registry,people,P Hatzoglou,6f95e5fa
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,RA Reifer,d7725664
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RS Primus,6f4c73ce
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SSJ Brooks,977b841a
+info,registry,people,Salman Irshad,30afc92b
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Zahid Bassarath,ca6bf044

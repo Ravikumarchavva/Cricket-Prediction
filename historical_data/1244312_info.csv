@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gujarat
+info,team,Maharashtra
+info,gender,male
+info,season,2020/21
+info,date,2021/01/10
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Motibaug Cricket Ground
+info,city,
+info,toss_winner,Maharashtra
+info,toss_decision,field
+info,winner,Gujarat
+info,winner_runs,29
+info,player,Gujarat,Dhruv Raval
+info,player,Gujarat,Priyank Panchal
+info,player,Gujarat,Urvil Patel
+info,player,Gujarat,AR Patel
+info,player,Gujarat,Chirag Gandhi
+info,player,Gujarat,PP Chawla
+info,player,Gujarat,RV Patel
+info,player,Gujarat,Roosh Kalaria
+info,player,Gujarat,Chintan Gaja
+info,player,Gujarat,A Nagwaswalla
+info,player,Gujarat,HP Patel
+info,player,Maharashtra,Mukesh Choudhary
+info,player,Maharashtra,MD Ingale
+info,player,Maharashtra,Pradeep Dadhe
+info,player,Maharashtra,Satyajeet Bachhav
+info,player,Maharashtra,SM Kazi
+info,player,Maharashtra,Azim Kazi
+info,player,Maharashtra,RD Gaikwad
+info,player,Maharashtra,RA Tripathi
+info,player,Maharashtra,KM Jadhav
+info,player,Maharashtra,Naushad Shaikh
+info,player,Maharashtra,NS Naik
+info,registry,people,A Nagwaswalla,01ada0ed
+info,registry,people,AR Patel,2e171977
+info,registry,people,Azim Kazi,ccae927b
+info,registry,people,Chintan Gaja,63bfb5fc
+info,registry,people,Chirag Gandhi,35eb75af
+info,registry,people,Dhruv Raval,e635a5dd
+info,registry,people,HP Patel,8254ea06
+info,registry,people,KM Jadhav,99d63244
+info,registry,people,MD Ingale,a584021c
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,NS Naik,aedc3b7c
+info,registry,people,Naushad Shaikh,9ed95736
+info,registry,people,PP Chawla,98ae73b1
+info,registry,people,Pradeep Dadhe,20081969
+info,registry,people,Priyank Panchal,ebf25cf2
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RV Patel,60500956
+info,registry,people,Roosh Kalaria,779b7f4d
+info,registry,people,SM Kazi,868e3639
+info,registry,people,Satyajeet Bachhav,09a71776
+info,registry,people,Urvil Patel,cf59b3f0

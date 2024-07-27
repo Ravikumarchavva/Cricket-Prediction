@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hyderabad (India)
+info,team,Jharkhand
+info,gender,male
+info,season,2020/21
+info,date,2021/01/18
+info,event,Syed Mushtaq Ali Trophy
+info,venue,Eden Gardens
+info,city,
+info,toss_winner,Jharkhand
+info,toss_decision,field
+info,outcome,tie
+info,eliminator,Jharkhand
+info,player,Hyderabad (India),Tanmay Agarwal
+info,player,Hyderabad (India),Pragnay Reddy
+info,player,Hyderabad (India),Tilak Varma
+info,player,Hyderabad (India),Bavanaka Sandeep
+info,player,Hyderabad (India),Himalay Agarwal
+info,player,Hyderabad (India),Rahul Buddhi
+info,player,Hyderabad (India),Ravi Teja
+info,player,Hyderabad (India),Tanay Thyagarajan
+info,player,Hyderabad (India),CV Milind
+info,player,Hyderabad (India),Ajay Dev Goud
+info,player,Hyderabad (India),Rakshan Readdi
+info,player,Jharkhand,Vikash Singh
+info,player,Jharkhand,Vivekanand Tiwari
+info,player,Jharkhand,Utkarsh Singh
+info,player,Jharkhand,Bal Krishna
+info,player,Jharkhand,S Nadeem
+info,player,Jharkhand,AS Roy
+info,player,Jharkhand,Ishan Kishan
+info,player,Jharkhand,Virat Singh
+info,player,Jharkhand,SS Tiwary
+info,player,Jharkhand,Kumar Suraj
+info,player,Jharkhand,KR Singh
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Ajay Dev Goud,9d7ad127
+info,registry,people,Bal Krishna,35dee2d1
+info,registry,people,Bavanaka Sandeep,bc67cc22
+info,registry,people,CV Milind,7b5b6311
+info,registry,people,Himalay Agarwal,8e48d9a3
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,KR Singh,fe608a7e
+info,registry,people,Kumar Suraj,2649de20
+info,registry,people,Pragnay Reddy,9e29431f
+info,registry,people,Rahul Buddhi,70a9b353
+info,registry,people,Rakshan Readdi,adee5bbd
+info,registry,people,Ravi Teja,5f39537c
+info,registry,people,S Nadeem,9d80c5e1
+info,registry,people,SS Tiwary,709b0bac
+info,registry,people,Tanay Thyagarajan,f1809c03
+info,registry,people,Tanmay Agarwal,e6e9b619
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Utkarsh Singh,b2a55ac1
+info,registry,people,Vikash Singh,8b018008
+info,registry,people,Virat Singh,26d76ad9
+info,registry,people,Vivekanand Tiwari,15745dbe

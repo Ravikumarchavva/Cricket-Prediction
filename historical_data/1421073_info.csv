@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Canada
+info,gender,male
+info,season,2023/24
+info,date,2024/03/07
+info,event,ICC Men's Cricket World Cup League 2
+info,match_number,11
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Canada
+info,toss_decision,field
+info,player_of_match,H Thaker
+info,umpire,Aasif Iqbal
+info,umpire,Shiju Sam
+info,tv_umpire,RR Wimalasiri
+info,match_referee,Muhammad Javed
+info,winner,Canada
+info,winner_wickets,5
+info,player,Scotland,HG Munsey
+info,player,Scotland,C Tear
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SW Currie
+info,player,Scotland,SM Sharif
+info,player,Scotland,BTJ Wheal
+info,player,Scotland,BJ Currie
+info,player,Canada,SA Wijeratne
+info,player,Canada,A Johnson
+info,player,Canada,Pargat Singh
+info,player,Canada,NS Dhaliwal
+info,player,Canada,H Thaker
+info,player,Canada,NR Kirton
+info,player,Canada,S Movva
+info,player,Canada,D Heyliger
+info,player,Canada,Kaleem Sana
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Ammar Khalid
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Ammar Khalid,af98bf5b
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,C Tear,7ffe4817
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,DS Bajwa,e3540b8c
+info,registry,people,H Thaker,c01d7726
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,S Movva,ee229588
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,SW Currie,c5f40e35
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shiju Sam,1e2f3eae

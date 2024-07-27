@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fortune Barishal
+info,team,Rangpur Riders
+info,gender,male
+info,season,2022/23
+info,date,2023/01/19
+info,event,Bangladesh Premier League
+info,match_number,18
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Rangpur Riders
+info,toss_decision,field
+info,player_of_match,Iftikhar Ahmed
+info,umpire,Masudur Rahman
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,Mohammad Kamruzzaman
+info,tv_umpire,DJ Millns
+info,match_referee,Showkatur Rahman
+info,winner,Fortune Barishal
+info,winner_runs,67
+info,player,Fortune Barishal,Anamul Haque
+info,player,Fortune Barishal,Mehedi Hasan Miraz
+info,player,Fortune Barishal,Ibrahim Zadran
+info,player,Fortune Barishal,Shakib Al Hasan
+info,player,Fortune Barishal,Mahmudullah
+info,player,Fortune Barishal,Iftikhar Ahmed
+info,player,Fortune Barishal,Ebadat Hossain
+info,player,Fortune Barishal,Kamrul Islam Rabbi
+info,player,Fortune Barishal,Fazle Mahmud
+info,player,Fortune Barishal,Karim Janat
+info,player,Fortune Barishal,Mohammad Wasim
+info,player,Rangpur Riders,Saim Ayub
+info,player,Rangpur Riders,Rony Talukdar
+info,player,Rangpur Riders,Parvez Hossain Emon
+info,player,Rangpur Riders,Shoaib Malik
+info,player,Rangpur Riders,Mohammad Naim
+info,player,Rangpur Riders,Mahedi Hasan
+info,player,Rangpur Riders,Mohammad Nawaz
+info,player,Rangpur Riders,Shamim Hossain
+info,player,Rangpur Riders,Robiul Haque
+info,player,Rangpur Riders,Haris Rauf
+info,player,Rangpur Riders,Hasan Mahmud
+info,registry,people,Anamul Haque,72b245dd
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,Ebadat Hossain,cb5100f1
+info,registry,people,Fazle Mahmud,b4bef2ed
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Kamrul Islam Rabbi,f7e9a562
+info,registry,people,Karim Janat,62175638
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mohammad Kamruzzaman,74eb8175
+info,registry,people,Mohammad Naim,7923a51d
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Robiul Haque,2353b224
+info,registry,people,Rony Talukdar,8bd614b2
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shamim Hossain,711249d1
+info,registry,people,Shoaib Malik,64c34cd0
+info,registry,people,Showkatur Rahman,5340a1c1

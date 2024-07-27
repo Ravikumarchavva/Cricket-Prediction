@@ -1,0 +1,58 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Karnataka
+info,team,Mumbai
+info,gender,male
+info,season,2021/22
+info,date,2021/11/04
+info,event,Syed Mushtaq Ali Trophy
+info,venue,"ACA Stadium, Barsapara"
+info,city,
+info,toss_winner,Mumbai
+info,toss_decision,field
+info,winner,Karnataka
+info,winner_runs,9
+info,player,Karnataka,MA Agarwal
+info,player,Karnataka,D Padikkal
+info,player,Karnataka,MK Pandey
+info,player,Karnataka,KK Nair
+info,player,Karnataka,K Gowtham
+info,player,Karnataka,Vidyadhar Patil
+info,player,Karnataka,Aniruddha Joshi
+info,player,Karnataka,M Prasidh Krishna
+info,player,Karnataka,Prateek Jain
+info,player,Karnataka,KC Cariappa
+info,player,Karnataka,BR Sharath
+info,player,Mumbai,Mohit Avasthi
+info,player,Mumbai,TU Deshpande
+info,player,Mumbai,Atharva Ankolekar
+info,player,Mumbai,Tanush Kotian
+info,player,Mumbai,S Dube
+info,player,Mumbai,YBK Jaiswal
+info,player,Mumbai,PP Shaw
+info,player,Mumbai,AM Rahane
+info,player,Mumbai,SD Lad
+info,player,Mumbai,AP Tare
+info,player,Mumbai,Aman Hakim Khan
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AP Tare,855a210c
+info,registry,people,Aman Hakim Khan,378daa89
+info,registry,people,Aniruddha Joshi,40c1eeeb
+info,registry,people,Atharva Ankolekar,d6cd318e
+info,registry,people,BR Sharath,c2dd89ea
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,K Gowtham,90de905a
+info,registry,people,KC Cariappa,edb3d4f8
+info,registry,people,KK Nair,944533a5
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MA Agarwal,00ea847a
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Mohit Avasthi,7e83cef2
+info,registry,people,PP Shaw,8b3e9c7c
+info,registry,people,Prateek Jain,53f45cb5
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SD Lad,9601c534
+info,registry,people,TU Deshpande,46a9bea1
+info,registry,people,Tanush Kotian,5724e517
+info,registry,people,Vidyadhar Patil,30fc60b5
+info,registry,people,YBK Jaiswal,6c19c6e5

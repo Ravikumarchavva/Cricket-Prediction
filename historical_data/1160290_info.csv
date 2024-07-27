@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Central Stags
+info,team,Wellington Firebirds
+info,gender,male
+info,season,2018/19
+info,date,2018/12/14
+info,date,2018/12/15
+info,date,2018/12/16
+info,date,2018/12/17
+info,event,Plunket Shield
+info,venue,Saxton Oval
+info,city,
+info,toss_winner,Wellington Firebirds
+info,toss_decision,field
+info,umpire,ED Sanders
+info,umpire,WR Knights
+info,match_referee,RA Dykes
+info,outcome,draw
+info,player,Central Stags,GR Hay
+info,player,Central Stags,GH Worker
+info,player,Central Stags,BD Schmulian
+info,player,Central Stags,TC Bruce
+info,player,Central Stags,D Cleaver
+info,player,Central Stags,D Foxcroft
+info,player,Central Stags,K Noema-Barnett
+info,player,Central Stags,WC Ludick
+info,player,Central Stags,RJ McCone
+info,player,Central Stags,BM Tickner
+info,player,Central Stags,NA Patel
+info,player,Wellington Firebirds,LJ Woodcock
+info,player,Wellington Firebirds,MJ Nofal
+info,player,Wellington Firebirds,DP Conway
+info,player,Wellington Firebirds,MG Bracewell
+info,player,Wellington Firebirds,JDS Neesham
+info,player,Wellington Firebirds,TA Blundell
+info,player,Wellington Firebirds,R Ravindra
+info,player,Wellington Firebirds,JS Patel
+info,player,Wellington Firebirds,OR Newton
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,HK Bennett
+info,registry,people,BD Schmulian,25dcd237
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,D Cleaver,e3a949be
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DP Conway,df5a6881
+info,registry,people,ED Sanders,25c6d6af
+info,registry,people,GH Worker,51a36d3e
+info,registry,people,GR Hay,5bcd48df
+info,registry,people,HK Bennett,94238673
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,JS Patel,f5821615
+info,registry,people,K Noema-Barnett,1ad0b441
+info,registry,people,LJ Woodcock,9ba59a3c
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Nofal,ac762575
+info,registry,people,NA Patel,9123301a
+info,registry,people,OR Newton,4e520f6c
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RA Dykes,e5c6f48b
+info,registry,people,RJ McCone,19cc9592
+info,registry,people,TA Blundell,21e5f325
+info,registry,people,TC Bruce,f92c9151
+info,registry,people,WC Ludick,2a802bfd
+info,registry,people,WR Knights,63cbf8d8

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Otago Volts
+info,team,Wellington Firebirds
+info,gender,male
+info,season,2022/23
+info,date,2023/02/25
+info,date,2023/02/26
+info,date,2023/02/27
+info,date,2023/02/28
+info,event,Plunket Shield
+info,match_number,15
+info,venue,University of Otago Oval
+info,city,
+info,toss_winner,Otago Volts
+info,toss_decision,field
+info,umpire,C Black
+info,umpire,SB Haig
+info,match_referee,TL Anderson
+info,outcome,draw
+info,player,Otago Volts,HD Rutherford
+info,player,Otago Volts,TK Parkes
+info,player,Otago Volts,D Foxcroft
+info,player,Otago Volts,GD Phillips
+info,player,Otago Volts,DN Phillips
+info,player,Otago Volts,JM Gibson
+info,player,Otago Volts,MJG Rippon
+info,player,Otago Volts,MW Chu
+info,player,Otago Volts,T Muller
+info,player,Otago Volts,JA Duffy
+info,player,Otago Volts,JD McKay
+info,player,Wellington Firebirds,LI Georgeson
+info,player,Wellington Firebirds,R Ravindra
+info,player,Wellington Firebirds,TM Johnson
+info,player,Wellington Firebirds,NF Kelly
+info,player,Wellington Firebirds,FH Allen
+info,player,Wellington Firebirds,MA Abbas
+info,player,Wellington Firebirds,NG Smith
+info,player,Wellington Firebirds,LV van Beek
+info,player,Wellington Firebirds,CR McLachlan
+info,player,Wellington Firebirds,IG McPeake
+info,player,Wellington Firebirds,KJ McComb
+info,registry,people,C Black,75b42f71
+info,registry,people,CR McLachlan,10da9f8b
+info,registry,people,D Foxcroft,ed6894af
+info,registry,people,DN Phillips,be0c9f5b
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HD Rutherford,0605de92
+info,registry,people,IG McPeake,f8e48647
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JD McKay,2767c22a
+info,registry,people,JM Gibson,e3aa97a2
+info,registry,people,KJ McComb,33b13a3c
+info,registry,people,LI Georgeson,6be7b49d
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Abbas,c3576908
+info,registry,people,MJG Rippon,b03db6fa
+info,registry,people,MW Chu,ef9f75f8
+info,registry,people,NF Kelly,97f437ed
+info,registry,people,NG Smith,05b1aef8
+info,registry,people,PF Younghusband,149d0c18
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,SB Haig,811655b3
+info,registry,people,T Muller,ebb1f8e8
+info,registry,people,TK Parkes,343407f3
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,TM Johnson,917f66da

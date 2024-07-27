@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Northern Diamonds
+info,team,Western Storm
+info,gender,female
+info,season,2024
+info,date,2024/06/16
+info,event,Charlotte Edwards Cup
+info,match_number,35
+info,venue,"Headingley, Leeds"
+info,city,Leeds
+info,toss_winner,Western Storm
+info,toss_decision,field
+info,umpire,A Clark
+info,umpire,PJ Hartley
+info,match_referee,JJ Whitaker
+info,winner,Northern Diamonds
+info,winner_runs,28
+info,player,Northern Diamonds,HJ Armitage
+info,player,Northern Diamonds,EK Marlow
+info,player,Northern Diamonds,SL Kalis
+info,player,Northern Diamonds,BAM Heath
+info,player,Northern Diamonds,R Duckworth
+info,player,Northern Diamonds,EA Burns
+info,player,Northern Diamonds,L Dobson
+info,player,Northern Diamonds,K Fraser
+info,player,Northern Diamonds,S Turner
+info,player,Northern Diamonds,KA Levick
+info,player,Northern Diamonds,R Slater
+info,player,Western Storm,DR Gibson
+info,player,Western Storm,E Corney
+info,player,Western Storm,NAJ Wraith
+info,player,Western Storm,FC Wilson
+info,player,Western Storm,SN Luff
+info,player,Western Storm,A Wellington
+info,player,Western Storm,IECM Wong
+info,player,Western Storm,Sophia Smale
+info,player,Western Storm,C Skelton
+info,player,Western Storm,L Filer
+info,player,Western Storm,E Anderson
+info,registry,people,A Clark,8c73cd16
+info,registry,people,A Wellington,9b3bcca4
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,C Skelton,db362015
+info,registry,people,DR Gibson,d2763568
+info,registry,people,E Anderson,5f86ce69
+info,registry,people,E Corney,2406424c
+info,registry,people,EA Burns,2e0b6638
+info,registry,people,EK Marlow,ac574559
+info,registry,people,FC Wilson,a28132bd
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,JJ Whitaker,4ea85016
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KA Levick,8f30d191
+info,registry,people,L Dobson,af4f5c77
+info,registry,people,L Filer,31adb911
+info,registry,people,NAJ Wraith,1ec1998e
+info,registry,people,PJ Hartley,17c7ff26
+info,registry,people,R Duckworth,8122c036
+info,registry,people,R Slater,8a452195
+info,registry,people,S Turner,7442f8dd
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SN Luff,e19307f3
+info,registry,people,Sophia Smale,c296dba1

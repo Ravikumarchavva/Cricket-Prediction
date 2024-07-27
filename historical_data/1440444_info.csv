@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Indonesia
+info,gender,female
+info,season,2024
+info,date,2024/07/02
+info,event,Indonesia Women's T20I Tri-Series
+info,match_number,2
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,NW Sariani
+info,umpire,Edi Agustinus
+info,umpire,V Kalidas
+info,reserve_umpire,IGS Arsa
+info,winner,Indonesia
+info,winner_wickets,9
+info,player,Singapore,RR Seth
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,GK Diviya
+info,player,Singapore,S Merican
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,Ananya Sarma
+info,player,Singapore,JT Pooranakaran
+info,player,Singapore,H Dhavina
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,JS Pooranakaran
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,NKF Rada Rani
+info,player,Indonesia,D Wulandari
+info,player,Indonesia,K Winda Prastini
+info,player,Indonesia,NMP Suwandewi
+info,player,Indonesia,NW Sariani
+info,player,Indonesia,RD Pangestuti
+info,player,Indonesia,L Qiao
+info,player,Indonesia,M Corazon
+info,player,Indonesia,DAL Paramitha
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Ananya Sarma,0bb03efc
+info,registry,people,D Wulandari,8c0d904e
+info,registry,people,DAL Paramitha,84f831c3
+info,registry,people,Edi Agustinus,6ee9fbb9
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,IGS Arsa,68d52634
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,JT Pooranakaran,3a743619
+info,registry,people,K Winda Prastini,bd6f7c24
+info,registry,people,L Qiao,2b0deff9
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,NKF Rada Rani,39f4084c
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NMP Suwandewi,52b57a65
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,RD Pangestuti,63fc4b92
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,S Merican,f3f6f5a0
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Vinu Kumar,3775b9f9
