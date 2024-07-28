@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,South Africa
+info,gender,male
+info,season,2022/23
+info,date,2022/11/06
+info,event,ICC Men's T20 World Cup
+info,match_number,40
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,CN Ackermann
+info,umpire,L Rusere
+info,umpire,MA Gough
+info,reserve_umpire,JS Wilson
+info,tv_umpire,RK Illingworth
+info,match_referee,BC Broad
+info,winner,Netherlands
+info,winner_runs,13
+info,player,Netherlands,SJ Myburgh
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,TLW Cooper
+info,player,Netherlands,CN Ackermann
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,RE van der Merwe
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,FJ Klaassen
+info,player,Netherlands,PA van Meekeren
+info,player,Netherlands,BD Glover
+info,player,South Africa,Q de Kock
+info,player,South Africa,T Bavuma
+info,player,South Africa,RR Rossouw
+info,player,South Africa,AK Markram
+info,player,South Africa,DA Miller
+info,player,South Africa,H Klaasen
+info,player,South Africa,WD Parnell
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,L Ngidi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BD Glover,0dbe27b8
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LV van Beek,782fb776
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RE van der Merwe,05c2ca46
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SJ Myburgh,18261c22
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,TLW Cooper,2318ba22
+info,registry,people,WD Parnell,3a60e0b5

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Romania
+info,team,Gibraltar
+info,gender,male
+info,season,2024
+info,date,2024/05/25
+info,event,Continental Cup
+info,match_number,6
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Romania
+info,toss_decision,bat
+info,player_of_match,S Bodha
+info,umpire,Dharmendra Manani
+info,umpire,Syed Atif Naqvi
+info,reserve_umpire,Imran Haider
+info,match_referee,A Begg
+info,winner,Gibraltar
+info,winner_wickets,6
+info,player,Romania,Taranjeet Singh
+info,player,Romania,A Rajshekara
+info,player,Romania,Muhammad Moiz
+info,player,Romania,V Saini
+info,player,Romania,S Periyalwar
+info,player,Romania,Asif Bevinje
+info,player,Romania,S Vashisht
+info,player,Romania,S Nadigotla
+info,player,Romania,KA Vimlesh
+info,player,Romania,R Athapaththu
+info,player,Romania,M Koli
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,H Pile
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,M Whelan
+info,player,Gibraltar,J Marples
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,M Gouws
+info,player,Gibraltar,S Bodha
+info,registry,people,A Begg,ef618cab
+info,registry,people,A Rajshekara,1f3e41fe
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,Asif Bevinje,9865ed99
+info,registry,people,C Pyle,d278b70b
+info,registry,people,Dharmendra Manani,6cd74704
+info,registry,people,H Pile,2f3b270e
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Imran Haider,1b8242f2
+info,registry,people,J Marples,9d75aec7
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,KA Vimlesh,6d2081aa
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Gouws,018f6488
+info,registry,people,M Koli,eb0f2802
+info,registry,people,M Whelan,d613f046
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,R Athapaththu,3465e307
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,Syed Atif Naqvi,1e2a1dff
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719

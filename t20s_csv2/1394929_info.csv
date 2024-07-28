@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Sierra Leone
+info,gender,female
+info,season,2023
+info,date,2023/09/06
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,S Mosweu
+info,umpire,Lauren Agenbag
+info,umpire,S Dambanevana
+info,reserve_umpire,P Sizara
+info,match_referee,SA Fritz
+info,winner,Botswana
+info,winner_runs,17
+info,player,Botswana,S Mosweu
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,L Mophakedi
+info,player,Botswana,F Samanyika
+info,player,Botswana,O Kgeresi
+info,player,Botswana,G Matome
+info,player,Botswana,T Shadrack
+info,player,Botswana,B Mpedi
+info,player,Botswana,W Moutswi
+info,player,Botswana,B Madimabe
+info,player,Botswana,M Phiase
+info,player,Sierra Leone,E Kamara
+info,player,Sierra Leone,F Conteh
+info,player,Sierra Leone,C Bull
+info,player,Sierra Leone,M Turay
+info,player,Sierra Leone,AM Kamara
+info,player,Sierra Leone,J Kowa
+info,player,Sierra Leone,Z Kamara
+info,player,Sierra Leone,F Parkinson
+info,player,Sierra Leone,F Pessima
+info,player,Sierra Leone,R Turay
+info,player,Sierra Leone,A Fillie
+info,registry,people,A Fillie,67412324
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,AM Kamara,4ca3d67d
+info,registry,people,B Madimabe,1e481de4
+info,registry,people,B Mpedi,8c712051
+info,registry,people,C Bull,a7b3bd26
+info,registry,people,E Kamara,3f8915a0
+info,registry,people,F Conteh,1dac0c4a
+info,registry,people,F Parkinson,9b819b10
+info,registry,people,F Pessima,9be80ea0
+info,registry,people,F Samanyika,c42eed38
+info,registry,people,G Matome,a6898f7a
+info,registry,people,J Kowa,9d80f576
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Phiase,537cc79f
+info,registry,people,M Turay,1eec6a0f
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Turay,c05e5d66
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mosweu,10726a80
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,W Moutswi,e8c42000
+info,registry,people,Z Kamara,a4e98e6b

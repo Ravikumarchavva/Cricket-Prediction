@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Norway
+info,gender,female
+info,season,2022/23
+info,date,2022/11/13
+info,event,Women's T20 Pentangular Series (in Spain)
+info,match_number,7
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Norway
+info,toss_decision,field
+info,player_of_match,NH Berejo
+info,winner,Spain
+info,winner_runs,35
+info,player,Spain,EMC Fowler
+info,player,Spain,P Chilongia
+info,player,Spain,Uswa Syed
+info,player,Spain,NH Berejo
+info,player,Spain,Wania Malik
+info,player,Spain,A Brown-Carrera
+info,player,Spain,Muskan Naseeb
+info,player,Spain,Rabia Iqbal
+info,player,Spain,Tashiba Mirza
+info,player,Spain,JG Kaur
+info,player,Spain,Zenab Iqbal
+info,player,Norway,Ayesha Hasan
+info,player,Norway,Farial Zia Safdar
+info,player,Norway,Pooja Kumari
+info,player,Norway,R Immadi
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,Mahnoor Akram
+info,player,Norway,Hina Hussain
+info,player,Norway,S Kunaratnam
+info,player,Norway,Lopamudra
+info,player,Norway,A Rautela
+info,player,Norway,Mirab Razwan
+info,registry,people,A Brown-Carrera,9e866d80
+info,registry,people,A Rautela,e113c6c7
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,EMC Fowler,4f88a917
+info,registry,people,Farial Zia Safdar,36f7682b
+info,registry,people,Hina Hussain,6501e421
+info,registry,people,JG Kaur,045e73c2
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,Mahnoor Akram,2b7c2d50
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,Muskan Naseeb,517e1077
+info,registry,people,NH Berejo,a9ec2608
+info,registry,people,P Chilongia,764d8336
+info,registry,people,Pooja Kumari,ff5051bd
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,Rabia Iqbal,a3a5072b
+info,registry,people,S Kunaratnam,911eb7a7
+info,registry,people,Tashiba Mirza,2020d4fd
+info,registry,people,Uswa Syed,cbc0e027
+info,registry,people,Wania Malik,1a35a2d3
+info,registry,people,Zenab Iqbal,4f3b43e2

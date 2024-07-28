@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Spain
+info,gender,male
+info,season,2022/23
+info,date,2022/11/06
+info,event,Spain Triangular T20I Series
+info,match_number,6
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Italy
+info,toss_decision,bat
+info,player_of_match,M Campopiano
+info,umpire,Adnan Khan
+info,umpire,Nilkesh Patel
+info,reserve_umpire,A Elliott
+info,winner,Italy
+info,winner_runs,33
+info,player,Italy,G Stewart
+info,player,Italy,Waleed Rana
+info,player,Italy,M Campopiano
+info,player,Italy,D Samarawickrama
+info,player,Italy,Anik Ahmed
+info,player,Italy,P Sadev
+info,player,Italy,Gurpreet Singh
+info,player,Italy,Anmoldeep Singh
+info,player,Italy,A Denuwan
+info,player,Italy,DKD Warnakulasuriya
+info,player,Italy,Ali Hasan
+info,player,Spain,D Doyle-Calle
+info,player,Spain,Muhammad Yasin
+info,player,Spain,Yasir Ali
+info,player,Spain,Mohammad Kamran
+info,player,Spain,Hamza Dar
+info,player,Spain,C Munoz-Mills
+info,player,Spain,P Dhiman
+info,player,Spain,LA Burns
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,C Rumistrzewicz
+info,player,Spain,Raja Adeel
+info,registry,people,A Denuwan,96912eac
+info,registry,people,A Elliott,f48d5563
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,Ali Hasan,cae17490
+info,registry,people,Anik Ahmed,ccda520f
+info,registry,people,Anmoldeep Singh,5db10a22
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,C Rumistrzewicz,3ed4e2ad
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,D Samarawickrama,6d4c2087
+info,registry,people,DKD Warnakulasuriya,832b77c6
+info,registry,people,G Stewart,a77472dc
+info,registry,people,Gurpreet Singh,1a5d690f
+info,registry,people,Hamza Dar,557550a4
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,Mohammad Kamran,1a628a92
+info,registry,people,Muhammad Yasin,57888f3c
+info,registry,people,Nilkesh Patel,194158ae
+info,registry,people,P Dhiman,16c50be4
+info,registry,people,P Sadev,7c4e8e13
+info,registry,people,Raja Adeel,7ee25c46
+info,registry,people,Waleed Rana,c4281e43
+info,registry,people,Yasir Ali,79209272

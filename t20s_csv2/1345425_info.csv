@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,female
+info,season,2022/23
+info,date,2022/12/11
+info,event,Australia Women tour of India
+info,match_number,2
+info,venue,"Dr DY Patil Sports Academy, Mumbai"
+info,city,Navi Mumbai
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,S Mandhana
+info,umpire,Gayathri Venugopal
+info,umpire,VG Rathi
+info,reserve_umpire,N Janani
+info,tv_umpire,A Nand Kishore
+info,match_referee,GS Lakshmi
+info,outcome,tie
+info,eliminator,India
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,EA Perry
+info,player,Australia,H Graham
+info,player,Australia,A Sutherland
+info,player,Australia,P Litchfield
+info,player,Australia,A King
+info,player,Australia,KJ Garth
+info,player,Australia,ML Schutt
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,DP Vaidya
+info,player,India,RP Yadav
+info,player,India,K Anjali Sarvani
+info,player,India,Meghna Singh
+info,player,India,Renuka Singh
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Nand Kishore,84424f4f
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AJ Healy,321644de
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DP Vaidya,f9ded29b
+info,registry,people,EA Perry,be150fc8
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,H Graham,99812d10
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,K Anjali Sarvani,fa0bf9d9
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,Meghna Singh,f176e421
+info,registry,people,N Janani,d06a665d
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,VG Rathi,144e5b16

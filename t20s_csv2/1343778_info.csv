@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ghana
+info,team,Tanzania
+info,gender,male
+info,season,2022/23
+info,date,2022/12/04
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,11
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,II Selemani
+info,umpire,Habib Enesi
+info,umpire,Stephen Harris
+info,reserve_umpire,Gasana Christian
+info,match_referee,SA Fritz
+info,winner,Tanzania
+info,winner_wickets,4
+info,player,Ghana,JK Vifah
+info,player,Ghana,SK Awiah
+info,player,Ghana,A Osei
+info,player,Ghana,R Bakum
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,Devender Singh
+info,player,Ghana,R Baaleri
+info,player,Ghana,DK Anefie
+info,player,Ghana,TK Joseph
+info,player,Ghana,KS Bagabena
+info,player,Ghana,G Bakiweyem
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,YM Nkanya
+info,registry,people,A Osei,375322d1
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,DK Anefie,f98c24ec
+info,registry,people,Devender Singh,68e21fb1
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,JK Vifah,a1448a10
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,R Baaleri,26c9b5be
+info,registry,people,R Bakum,c74c583b
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SK Awiah,bc3fc527
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,TK Joseph,4fafd79a
+info,registry,people,YM Nkanya,9238dd92

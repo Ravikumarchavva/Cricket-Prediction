@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Hungary
+info,gender,male
+info,season,2024
+info,date,2024/06/15
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,18
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Hungary
+info,toss_decision,field
+info,player_of_match,Bilal Zalmai
+info,umpire,MJ Saggers
+info,umpire,WPM van Liemt
+info,reserve_umpire,Adeel Ashiq
+info,match_referee,G McCrea
+info,winner,Austria
+info,winner_runs,14
+info,player,Austria,Amar Naeem
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Abrar Bilal
+info,player,Austria,A Randhawa
+info,player,Austria,I Asif
+info,player,Austria,Baseer Khan
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,Adeel Tariq
+info,player,Austria,Waqar Zalmai
+info,player,Hungary,V Ravindran
+info,player,Hungary,HV Mandhyan
+info,player,Hungary,Abhishek Ahuja
+info,player,Hungary,Sheikh Rasik
+info,player,Hungary,Ali Farasat
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,Danyal Akbar
+info,player,Hungary,M Fontaine
+info,player,Hungary,Muhammad Burhan
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Kamran Wahid
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Abhishek Ahuja,65cf74b4
+info,registry,people,Abrar Bilal,6ddaee2d
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Adeel Tariq,e56fb33a
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,Danyal Akbar,5757c506
+info,registry,people,G McCrea,46f4a901
+info,registry,people,HV Mandhyan,11f56b14
+info,registry,people,I Asif,663ad386
+info,registry,people,Kamran Wahid,5592153b
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,M Fontaine,1339f52a
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Burhan,a92609f2
+info,registry,people,Sheikh Rasik,5f25b104
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,Waqar Zalmai,74571ec4

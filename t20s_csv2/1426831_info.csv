@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Pakistan
+info,gender,male
+info,season,2024
+info,date,2024/05/12
+info,event,Pakistan tour of Ireland
+info,match_number,2
+info,venue,"Castle Avenue, Dublin"
+info,city,Dublin
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Mohammad Rizwan
+info,umpire,Aidan Seaver
+info,umpire,R Black
+info,reserve_umpire,Jonathan Kennedy
+info,tv_umpire,M Hawthorne
+info,match_referee,G McCrea
+info,winner,Pakistan
+info,winner_wickets,7
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,MR Adair
+info,player,Ireland,GI Hume
+info,player,Ireland,B White
+info,player,Ireland,CA Young
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Azam Khan
+info,player,Pakistan,Imad Wasim
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Mohammad Amir
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Abbas Afridi
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,Abbas Afridi,2cec2a92
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,B White,1a448be0
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GI Hume,25550d06
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shaheen Shah Afridi,45a7e761

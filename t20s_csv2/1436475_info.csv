@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Israel
+info,team,Austria
+info,gender,male
+info,season,2024
+info,date,2024/06/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,5
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Israel
+info,toss_decision,bat
+info,player_of_match,Aqib Iqbal
+info,umpire,Adeel Ashiq
+info,umpire,I McDonald
+info,reserve_umpire,M Jameson
+info,match_referee,G McCrea
+info,winner,Austria
+info,winner_wickets,7
+info,player,Israel,E Solomon
+info,player,Israel,WSLK Narayana
+info,player,Israel,S Bangera
+info,player,Israel,LSP Siriwardene
+info,player,Israel,Yair Nagavkar
+info,player,Israel,J Evans
+info,player,Israel,Niv Nagavkar
+info,player,Israel,E Bhonkar
+info,player,Israel,Y Divekar
+info,player,Israel,Virendra Kumar
+info,player,Israel,Elan Talker
+info,player,Austria,I Asif
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Amar Naeem
+info,player,Austria,Abrar Bilal
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,Baseer Khan
+info,player,Austria,Itibarshah Deedar
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Zeshan Arif
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Abrar Bilal,6ddaee2d
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,E Bhonkar,1dc3330f
+info,registry,people,E Solomon,8da9a284
+info,registry,people,Elan Talker,bb939fa3
+info,registry,people,G McCrea,46f4a901
+info,registry,people,I Asif,663ad386
+info,registry,people,I McDonald,37b55799
+info,registry,people,Itibarshah Deedar,711e73ac
+info,registry,people,J Evans,027662be
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,LSP Siriwardene,f2637e05
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,Niv Nagavkar,e2abcf16
+info,registry,people,S Bangera,856fc47a
+info,registry,people,Virendra Kumar,20988564
+info,registry,people,WSLK Narayana,4d21a67a
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Y Divekar,4e35e8ea
+info,registry,people,Yair Nagavkar,138e30ab
+info,registry,people,Zeshan Arif,6829b373

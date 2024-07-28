@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,China
+info,gender,female
+info,season,2023/24
+info,date,2024/02/13
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,18
+info,venue,"Selangor Turf Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,China
+info,toss_decision,field
+info,player_of_match,Xu Qian
+info,umpire,N Perera
+info,umpire,Nur Hijrah
+info,reserve_umpire,Ramasamy Venkatesh
+info,match_referee,B Ramani
+info,winner,China
+info,winner_wickets,8
+info,player,Oman,PE Mendonca
+info,player,Oman,N Joshi
+info,player,Oman,Javed Hina
+info,player,Oman,A Dcosta
+info,player,Oman,A Gunasekar
+info,player,Oman,TB Pawde
+info,player,Oman,SV Shetty
+info,player,Oman,Sameera Khan
+info,player,Oman,SK Shetty
+info,player,Oman,S Jeelany
+info,player,Oman,CM Saldanha
+info,player,China,Sun Meng Yao
+info,player,China,Zi Mei
+info,player,China,Huang Zhuo
+info,player,China,Han Lili
+info,player,China,Zheng Lili
+info,player,China,Yang Yu Xuan
+info,player,China,Zhang Xiangxue
+info,player,China,Zhi Xinyu
+info,player,China,Xu Qian
+info,player,China,Mengting Liu
+info,player,China,M Zhu
+info,registry,people,A Dcosta,3a4d914f
+info,registry,people,A Gunasekar,b5223cb0
+info,registry,people,B Ramani,92ad5353
+info,registry,people,CM Saldanha,aee1bc06
+info,registry,people,Han Lili,cd7134f5
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,Javed Hina,a487762e
+info,registry,people,M Zhu,36c3302e
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,N Joshi,cfece11f
+info,registry,people,N Perera,129709f9
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,PE Mendonca,70bab30b
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Jeelany,eed2d0be
+info,registry,people,SK Shetty,ab900b23
+info,registry,people,SV Shetty,db7a7301
+info,registry,people,Sameera Khan,237baa2c
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,TB Pawde,42d5be2e
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yang Yu Xuan,1d5273c9
+info,registry,people,Zhang Xiangxue,13fdbc7e
+info,registry,people,Zheng Lili,9c2bb7da
+info,registry,people,Zhi Xinyu,78ac71b0
+info,registry,people,Zi Mei,72070f05

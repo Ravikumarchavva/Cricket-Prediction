@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Cook Islands
+info,gender,female
+info,season,2023
+info,date,2023/09/04
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,8
+info,venue,Vanuatu Cricket Ground
+info,city,Port Vila
+info,toss_winner,Indonesia
+info,toss_decision,bat
+info,player_of_match,NLKWR Dewi
+info,umpire,CA Polosak
+info,umpire,L McCabe
+info,reserve_umpire,Ashlee Gibbons
+info,match_referee,RW Stratford
+info,winner,Indonesia
+info,winner_runs,66
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,M Corazon
+info,player,Indonesia,A Andriani
+info,player,Indonesia,KS Kasse
+info,player,Indonesia,NW Sariani
+info,player,Indonesia,RD Pangestuti
+info,player,Indonesia,NK Ariani
+info,player,Indonesia,NMP Suwandewi
+info,player,Indonesia,Mia Arda
+info,player,Indonesia,SAN Maypriani
+info,player,Cook Islands,M Kaukura
+info,player,Cook Islands,P Maruariki
+info,player,Cook Islands,K Mataora
+info,player,Cook Islands,J George
+info,player,Cook Islands,Z Maeva
+info,player,Cook Islands,D Kataina
+info,player,Cook Islands,P Kaveao
+info,player,Cook Islands,S Vaia
+info,player,Cook Islands,T Mato
+info,player,Cook Islands,T Touna
+info,player,Cook Islands,S Samuels
+info,registry,people,A Andriani,e697d88c
+info,registry,people,Ashlee Gibbons,b81712f7
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,D Kataina,3a370f15
+info,registry,people,J George,9044ee8e
+info,registry,people,K Mataora,281cc1e8
+info,registry,people,KS Kasse,007a3773
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,M Kaukura,11d83c44
+info,registry,people,Mia Arda,6e60d58c
+info,registry,people,NK Ariani,382377a4
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NMP Suwandewi,52b57a65
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,P Kaveao,f536e967
+info,registry,people,P Maruariki,dee2431f
+info,registry,people,RD Pangestuti,63fc4b92
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Samuels,d852095e
+info,registry,people,S Vaia,78103121
+info,registry,people,SAN Maypriani,ad135bde
+info,registry,people,T Mato,41f24f77
+info,registry,people,T Touna,a7a337b9
+info,registry,people,Z Maeva,34f0c9ad

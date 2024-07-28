@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Indonesia
+info,gender,female
+info,season,2023
+info,date,2023/09/08
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,20
+info,venue,Vanuatu Cricket Ground
+info,city,Port Vila
+info,toss_winner,Indonesia
+info,toss_decision,field
+info,winner,Papua New Guinea
+info,winner_runs,77
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,K Arua
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,K Frank
+info,player,Papua New Guinea,I Toua
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,V Buruka
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,M Corazon
+info,player,Indonesia,KS Kasse
+info,player,Indonesia,Mia Arda
+info,player,Indonesia,K Winda Prastini
+info,player,Indonesia,RD Pangestuti
+info,player,Indonesia,NMP Suwandewi
+info,player,Indonesia,SAN Maypriani
+info,player,Indonesia,NW Sariani
+info,player,Indonesia,L Qiao
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,I Toua,83cde44d
+info,registry,people,K Arua,8ce69204
+info,registry,people,K Frank,f7e96532
+info,registry,people,K Winda Prastini,bd6f7c24
+info,registry,people,KS Kasse,007a3773
+info,registry,people,L Qiao,2b0deff9
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,Mia Arda,6e60d58c
+info,registry,people,N Vare,20ace887
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NMP Suwandewi,52b57a65
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,P Siaka,595433d2
+info,registry,people,RD Pangestuti,63fc4b92
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,SAN Maypriani,ad135bde
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,V Araa,040f11e8
+info,registry,people,V Buruka,62d92d76

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Malawi
+info,gender,female
+info,season,2024
+info,date,2024/06/05
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,22
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Malawi
+info,toss_decision,field
+info,player_of_match,T Shadrack
+info,umpire,D Hagenimana
+info,umpire,Gasana Christian
+info,reserve_umpire,Gaston Niyibizi
+info,winner,Botswana
+info,winner_runs,93
+info,player,Botswana,L Mophakedi
+info,player,Botswana,P Mapotsane
+info,player,Botswana,T Shadrack
+info,player,Botswana,S Mosweu
+info,player,Botswana,O Kgeresi
+info,player,Botswana,G Matome
+info,player,Botswana,M Phiase
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,O Keitsemang
+info,player,Botswana,K Inakale
+info,player,Botswana,W Moutswi
+info,player,Malawi,P Maziya
+info,player,Malawi,S Chinawa
+info,player,Malawi,T Luka
+info,player,Malawi,LL Dimba
+info,player,Malawi,S Kananji
+info,player,Malawi,A Alfonso
+info,player,Malawi,M Kudimba
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,V Phiri
+info,player,Malawi,T Chabila
+info,player,Malawi,L Malino
+info,registry,people,A Alfonso,5088c217
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,D Hagenimana,de167462
+info,registry,people,G Matome,a6898f7a
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,K Inakale,eea862f6
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,L Malino,7a81836e
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,M Kudimba,24ce1fcb
+info,registry,people,M Phiase,537cc79f
+info,registry,people,O Keitsemang,5145239b
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,P Maziya,4f85f02c
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,S Mosweu,10726a80
+info,registry,people,T Chabila,f18b67a3
+info,registry,people,T Luka,44e008a5
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,V Phiri,8ffa1b3c
+info,registry,people,W Moutswi,e8c42000

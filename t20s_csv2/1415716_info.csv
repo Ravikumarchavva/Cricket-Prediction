@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,South Africa
+info,gender,male
+info,season,2024
+info,date,2024/06/08
+info,event,ICC Men's T20 World Cup
+info,match_number,16
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,DA Miller
+info,umpire,CB Gaffaney
+info,umpire,Sharfuddoula
+info,reserve_umpire,SJ Nogajski
+info,tv_umpire,RA Kettleborough
+info,match_referee,DC Boon
+info,winner,South Africa
+info,winner_wickets,4
+info,player,Netherlands,M Levitt
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,SA Engelbrecht
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,AT Nidamanuru
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,TJG Pringle
+info,player,Netherlands,PA van Meekeren
+info,player,Netherlands,VJ Kingma
+info,player,South Africa,RR Hendricks
+info,player,South Africa,Q de Kock
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,OEG Baartman
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Nidamanuru,a319edf8
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,LV van Beek,782fb776
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SA Engelbrecht,81a0e294
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,VJ Kingma,3a7ea906
+info,registry,people,Vikramjit Singh,2a9eee66

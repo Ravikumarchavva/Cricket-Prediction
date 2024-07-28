@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Ghana
+info,gender,female
+info,season,2022/23
+info,date,2023/03/27
+info,event,Nigeria Cricket Federation Women's T20I Tournament
+info,match_number,2
+info,venue,Tafawa Balewa Square (TBS) Cricket Oval
+info,city,
+info,toss_winner,Ghana
+info,toss_decision,field
+info,player_of_match,H Ishimwe
+info,umpire,D Imobighe
+info,umpire,O Akintokun
+info,winner,Rwanda
+info,winner_runs,117
+info,player,Rwanda,S Uwera
+info,player,Rwanda,C Uwase
+info,player,Rwanda,H Ishimwe
+info,player,Rwanda,G Ishimwe
+info,player,Rwanda,MD Bimenyimana
+info,player,Rwanda,M Vumiliya
+info,player,Rwanda,A Ikuzwe
+info,player,Rwanda,Rosine Irera
+info,player,Rwanda,B Murekatete
+info,player,Rwanda,Geovanis Uwase
+info,player,Rwanda,M Uwase
+info,player,Ghana,Rashidatu Salia
+info,player,Ghana,Miriam Ehsun
+info,player,Ghana,Cynthia Konadu
+info,player,Ghana,Komalpreet Grewal
+info,player,Ghana,Elizabeth Annor
+info,player,Ghana,Ellen Asante
+info,player,Ghana,Rhyda Ofori
+info,player,Ghana,Kate Awuah
+info,player,Ghana,Rozabel Asumadu
+info,player,Ghana,Ivy Yeboah
+info,player,Ghana,Emmanuella Nyaaba
+info,registry,people,A Ikuzwe,6762a445
+info,registry,people,B Murekatete,2d4317da
+info,registry,people,C Uwase,808bb510
+info,registry,people,Cynthia Konadu,b509e186
+info,registry,people,D Imobighe,e305bdde
+info,registry,people,Elizabeth Annor,8d59f15d
+info,registry,people,Ellen Asante,0207451a
+info,registry,people,Emmanuella Nyaaba,dc04a09c
+info,registry,people,G Ishimwe,b5ae57ee
+info,registry,people,Geovanis Uwase,088f22fd
+info,registry,people,H Ishimwe,ffa296f7
+info,registry,people,Ivy Yeboah,7aac64bb
+info,registry,people,Kate Awuah,b10e688b
+info,registry,people,Komalpreet Grewal,c1051042
+info,registry,people,M Uwase,7d6ce83f
+info,registry,people,M Vumiliya,0c00286e
+info,registry,people,MD Bimenyimana,c1a0cebe
+info,registry,people,Miriam Ehsun,fd67c5f0
+info,registry,people,O Akintokun,6293933e
+info,registry,people,Rashidatu Salia,ce39ca2c
+info,registry,people,Rhyda Ofori,25e6f0fa
+info,registry,people,Rosine Irera,b84718fd
+info,registry,people,Rozabel Asumadu,7297bacc
+info,registry,people,S Uwera,1ef174b8

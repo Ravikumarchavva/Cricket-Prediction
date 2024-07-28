@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Norway
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,Nordic T20 Cup
+info,match_number,6
+info,venue,Kerava National Cricket Ground
+info,city,Kerava
+info,toss_winner,Finland
+info,toss_decision,bat
+info,player_of_match,Khizer Ahmed
+info,umpire,SB Ravindra
+info,umpire,T Koralage
+info,reserve_umpire,S Samanta
+info,winner,Norway
+info,winner_wickets,9
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,VS Padhaal
+info,player,Finland,NM Salonen
+info,player,Finland,Atif Rasheed
+info,player,Finland,Areeb Quadir
+info,player,Finland,MB Tambe
+info,player,Finland,Amjad Sher
+info,player,Finland,Akhil Arjunan
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,H Dandapani
+info,player,Finland,Parveen Kumar
+info,player,Norway,Raza Iqbal
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Junaid Mehmood
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Wahidullah Sahak
+info,player,Norway,Ali Saleem
+info,player,Norway,Javed Maroofkhail
+info,player,Norway,D Abeyrathna
+info,player,Norway,Sher Sahak
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,AJ Parmar
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Ali Saleem,661e8a03
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Areeb Quadir,19845ff5
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,H Dandapani,9960a421
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,Javed Maroofkhail,909d9fac
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,Parveen Kumar,babc65d3
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,S Samanta,733f759a
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,T Koralage,f81e1875
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Wahidullah Sahak,6913e38e

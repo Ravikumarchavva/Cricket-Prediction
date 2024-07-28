@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2023
+info,date,2023/09/01
+info,event,New Zealand tour of England
+info,match_number,2
+info,venue,"Old Trafford, Manchester"
+info,city,Manchester
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JM Bairstow
+info,umpire,AG Wharf
+info,umpire,MJ Saggers
+info,reserve_umpire,M Burns
+info,tv_umpire,DJ Millns
+info,match_referee,BC Broad
+info,winner,England
+info,winner_runs,95
+info,player,England,JM Bairstow
+info,player,England,WG Jacks
+info,player,England,DJ Malan
+info,player,England,HC Brook
+info,player,England,MM Ali
+info,player,England,JC Buttler
+info,player,England,LS Livingstone
+info,player,England,SM Curran
+info,player,England,AU Rashid
+info,player,England,BA Carse
+info,player,England,AAP Atkinson
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,TL Seifert
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,AF Milne
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,TG Southee
+info,player,New Zealand,LH Ferguson
+info,registry,people,AAP Atkinson,70d57519
+info,registry,people,AF Milne,350bb1b1
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Millns,46ecfe40
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TG Southee,13c35c9e
+info,registry,people,TL Seifert,4663bd23
+info,registry,people,WG Jacks,9caf69a1

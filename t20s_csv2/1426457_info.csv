@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Nepal
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,event,ACC Men's Premier Cup
+info,match_number,3
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,DS Airee
+info,umpire,Shiju Sam
+info,umpire,Tariq Rasheed
+info,reserve_umpire,Abdul Jabbar
+info,tv_umpire,Tabarak Dar
+info,match_referee,Prakash Bhatt
+info,winner,Nepal
+info,winner_wickets,5
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Nazmus Sakib
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Muhammad Wafiq
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Ahmed Aqeel
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,RK Paudel
+info,player,Nepal,Kushal Malla
+info,player,Nepal,DS Airee
+info,player,Nepal,S Jora
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Karan KC
+info,player,Nepal,A Bohara
+info,player,Nepal,Sompal Kami
+info,player,Nepal,LN Rajbanshi
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Abdul Jabbar,3f4b9ae5
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Muhammad Wafiq,f104c434
+info,registry,people,Nazmus Sakib,53967e23
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Jora,156378d8
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d

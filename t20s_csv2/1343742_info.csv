@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,St Helena
+info,gender,male
+info,season,2022/23
+info,date,2022/11/17
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,3
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,St Helena
+info,toss_decision,field
+info,umpire,John Mayeku
+info,umpire,Patric Makumbi
+info,reserve_umpire,BM White
+info,match_referee,S Wadvalla
+info,outcome,no result
+info,player,Kenya,P Sharma
+info,player,Kenya,CO Obuya
+info,player,Kenya,LN Oluoch
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,Vraj Patel
+info,player,Kenya,RN Patel
+info,player,Kenya,IA Karim
+info,player,Kenya,SR Bhudia
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,SO Ngoche
+info,player,Kenya,P Koech
+info,player,St Helena,A Langham
+info,player,St Helena,CR Richards
+info,player,St Helena,A Yon
+info,player,St Helena,J Henry
+info,player,St Helena,R Francis
+info,player,St Helena,B Isaac
+info,player,St Helena,AR Leo
+info,player,St Helena,JKP Ellick
+info,player,St Helena,BK Stroud
+info,player,St Helena,S Crowie
+info,player,St Helena,G Johnson
+info,registry,people,A Langham,fe0b3bdf
+info,registry,people,A Yon,99bf1fb7
+info,registry,people,AR Leo,e13f8b16
+info,registry,people,B Isaac,2c14421f
+info,registry,people,BK Stroud,6577a6ad
+info,registry,people,BM White,66c21d35
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,CR Richards,c10a581f
+info,registry,people,G Johnson,ceec82cd
+info,registry,people,IA Karim,ca92a578
+info,registry,people,J Henry,68e7e8d5
+info,registry,people,JKP Ellick,77de6cfa
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Francis,06b766f4
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,S Crowie,4040951f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,Vraj Patel,2af28253

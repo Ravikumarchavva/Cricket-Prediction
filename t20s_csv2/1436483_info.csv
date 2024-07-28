@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hungary
+info,team,Romania
+info,gender,male
+info,season,2024
+info,date,2024/06/13
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,13
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,M Koli
+info,umpire,Adeel Ashiq
+info,umpire,WPM van Liemt
+info,reserve_umpire,MJ Saggers
+info,match_referee,G McCrea
+info,winner,Romania
+info,winner_wickets,8
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,V Ravindran
+info,player,Hungary,HV Mandhyan
+info,player,Hungary,Sheikh Rasik
+info,player,Hungary,Abhishek Ahuja
+info,player,Hungary,M Fontaine
+info,player,Hungary,Ali Farasat
+info,player,Hungary,Danyal Akbar
+info,player,Hungary,Muhammad Burhan
+info,player,Hungary,SA Mohandas
+info,player,Hungary,Amal Jacob
+info,player,Romania,Taranjeet Singh
+info,player,Romania,AN Lascu
+info,player,Romania,Muhammad Moiz
+info,player,Romania,V Saini
+info,player,Romania,S Vashisht
+info,player,Romania,Rameez Khan
+info,player,Romania,Ali Hussain
+info,player,Romania,A Rajshekara
+info,player,Romania,S Nadigotla
+info,player,Romania,P Hingorani
+info,player,Romania,M Koli
+info,registry,people,A Rajshekara,1f3e41fe
+info,registry,people,AN Lascu,e2c882d1
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Abhishek Ahuja,65cf74b4
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Ali Hussain,b8fe81be
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Danyal Akbar,5757c506
+info,registry,people,G McCrea,46f4a901
+info,registry,people,HV Mandhyan,11f56b14
+info,registry,people,M Fontaine,1339f52a
+info,registry,people,M Koli,eb0f2802
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Burhan,a92609f2
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,Rameez Khan,ee86a890
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,Sheikh Rasik,5f25b104
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,V Saini,0fa81719
+info,registry,people,WPM van Liemt,2bd48588

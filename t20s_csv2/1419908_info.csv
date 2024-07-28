@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Malaysia
+info,gender,female
+info,season,2023/24
+info,date,2024/02/10
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,3
+info,venue,"Royal Selangor Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,Mas Elysa
+info,umpire,Aasif Iqbal
+info,umpire,RK Yadav
+info,reserve_umpire,Shriya Kumari
+info,match_referee,V Bowen
+info,winner,Malaysia
+info,winner_wickets,6
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,M Corazon
+info,player,Indonesia,Mia Arda
+info,player,Indonesia,A Andriani
+info,player,Indonesia,NKF Rada Rani
+info,player,Indonesia,KS Kasse
+info,player,Indonesia,NMP Suwandewi
+info,player,Indonesia,D Wulandari
+info,player,Indonesia,NK Ariani
+info,player,Indonesia,NW Sariani
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Siow Tzin Yee
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,J Intan
+info,registry,people,A Andriani,e697d88c
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,D Wulandari,8c0d904e
+info,registry,people,J Intan,2dfdd316
+info,registry,people,KS Kasse,007a3773
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,Mia Arda,6e60d58c
+info,registry,people,NK Ariani,382377a4
+info,registry,people,NKF Rada Rani,39f4084c
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NMP Suwandewi,52b57a65
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,RK Yadav,a872bd90
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,Siow Tzin Yee,686b7194
+info,registry,people,V Bowen,7297ac4d
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c

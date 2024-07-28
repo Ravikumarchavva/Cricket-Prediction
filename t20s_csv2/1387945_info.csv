@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Greece
+info,gender,female
+info,season,2023
+info,date,2023/08/04
+info,event,Women's Continental Cup
+info,match_number,2
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Greece
+info,toss_decision,field
+info,player_of_match,A Savvani
+info,winner,Greece
+info,winner_wickets,9
+info,player,Malta,S Cholasseri
+info,player,Malta,JA Rymer
+info,player,Malta,A Rameshan
+info,player,Malta,P Bhandari
+info,player,Malta,S Khatri
+info,player,Malta,C Sammut
+info,player,Malta,S Iushchenko
+info,player,Malta,Bibina Baby
+info,player,Malta,T Calingin
+info,player,Malta,M Macelli
+info,player,Malta,J Neupane
+info,player,Greece,S Georgota
+info,player,Greece,A Makri
+info,player,Greece,M Syrioti
+info,player,Greece,A Savvani
+info,player,Greece,T Parisi-mesimeri
+info,player,Greece,DS Vlachopoulou
+info,player,Greece,M Polimeri
+info,player,Greece,M Vervitsioti
+info,player,Greece,A Argyropoulou
+info,player,Greece,ST Varzakakou
+info,player,Greece,ES Grammenou
+info,registry,people,A Argyropoulou,3f1bfd19
+info,registry,people,A Makri,98affc04
+info,registry,people,A Rameshan,f0f9d832
+info,registry,people,A Savvani,5d006a1a
+info,registry,people,Bibina Baby,9edc0abb
+info,registry,people,C Sammut,ea4f7003
+info,registry,people,DS Vlachopoulou,5c884c17
+info,registry,people,ES Grammenou,b931fc7b
+info,registry,people,J Neupane,b6dfa72f
+info,registry,people,JA Rymer,ae779954
+info,registry,people,M Macelli,9f2cca6b
+info,registry,people,M Polimeri,35ccd83f
+info,registry,people,M Syrioti,f9df0aa2
+info,registry,people,M Vervitsioti,6fd40892
+info,registry,people,P Bhandari,19499257
+info,registry,people,S Cholasseri,66e189ac
+info,registry,people,S Georgota,d07b6842
+info,registry,people,S Iushchenko,ce192a4c
+info,registry,people,S Khatri,e93f9604
+info,registry,people,ST Varzakakou,9f17e86d
+info,registry,people,T Calingin,542dc48f
+info,registry,people,T Parisi-mesimeri,c002a904

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Tanzania
+info,gender,male
+info,season,2022/23
+info,date,2022/12/05
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,13
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,K Nassoro
+info,umpire,R D'Mello
+info,umpire,S Kintu
+info,reserve_umpire,F Mutizwa
+info,winner,Tanzania
+info,winner_wickets,6
+info,player,Mozambique,J Bulele
+info,player,Mozambique,F Damiao Couana
+info,player,Mozambique,FA Cossa
+info,player,Mozambique,JJ Huo
+info,player,Mozambique,L Emilio
+info,player,Mozambique,DV Macome
+info,player,Mozambique,LF Mavume
+info,player,Mozambique,CB Roposo
+info,player,Mozambique,LA Simango
+info,player,Mozambique,AA Navicha
+info,player,Mozambique,ZE Matsinhe
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,YM Nkanya
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,S Thakor
+info,registry,people,AA Navicha,5c805a60
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,CB Roposo,31f01815
+info,registry,people,DV Macome,af4c15c5
+info,registry,people,F Damiao Couana,2c535f08
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,FA Cossa,3b52d247
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Bulele,2dde3e62
+info,registry,people,JJ Huo,d816fc1c
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,L Emilio,31adde7f
+info,registry,people,LA Simango,16084b50
+info,registry,people,LF Mavume,5b531900
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,S Kintu,ff387f93
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,ZE Matsinhe,03ef382c

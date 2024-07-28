@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Italy
+info,gender,male
+info,season,2023
+info,date,2023/07/20
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,2
+info,venue,"Goldenacre, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Italy
+info,toss_decision,field
+info,player_of_match,C Campher
+info,umpire,DA Haggo
+info,umpire,M Jameson
+info,reserve_umpire,N Bathi
+info,match_referee,Phil Whitticase
+info,winner,Ireland
+info,winner_runs,7
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,NA Rock
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,player,Italy,J Mosca
+info,player,Italy,BAD Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,GP Meade
+info,player,Italy,Jaspreet Singh
+info,player,Italy,GK Berg
+info,player,Italy,Syed Naqvi
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,S di Bartolomeo
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,B White,1a448be0
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NA Rock,43f4087c
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,Syed Naqvi,c520c3b9

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,India
+info,gender,female
+info,season,2023
+info,date,2023/09/24
+info,event,Asian Games Women's Cricket Competition
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,umpire,Asif Yaqoob
+info,umpire,Sarika Prasad
+info,reserve_umpire,Ramasamy Venkatesh
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,winner,India
+info,winner_wickets,8
+info,player,Bangladesh,S Rani
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Sultana Khatun
+info,player,Bangladesh,Marufa Akter
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,KS Ahuja
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,DP Vaidya
+info,player,India,AB Kaur
+info,player,India,P Vastrakar
+info,player,India,TR Sadhu
+info,player,India,RS Gayakwad
+info,registry,people,AB Kaur,9565fda6
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DP Vaidya,f9ded29b
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,KS Ahuja,58593620
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Mostary,94de63bf
+info,registry,people,S Rani,b3f7066c
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,Shamima Sultana,724645f5
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Sultana Khatun,fb0c0bcc
+info,registry,people,TR Sadhu,25ca0573

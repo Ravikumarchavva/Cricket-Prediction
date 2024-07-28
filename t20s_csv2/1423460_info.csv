@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Nigeria
+info,gender,female
+info,season,2023/24
+info,date,2024/03/07
+info,event,Women's African Games
+info,match_number,2
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,umpire,Patric Makumbi
+info,umpire,S Dambanevana
+info,match_referee,ET Dube
+info,outcome,no result
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,S Mtae
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,HM Omary
+info,player,Tanzania,AS Qwele
+info,player,Tanzania,MA Swedy
+info,player,Tanzania,Saidat Mbaki
+info,player,Tanzania,MH Ushanga
+info,player,Tanzania,SD Hussein
+info,player,Tanzania,SF Jerome
+info,player,Tanzania,A Mohamed
+info,player,Nigeria,C Chukwuonye
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,B Etim
+info,player,Nigeria,S Etim
+info,player,Nigeria,A Adekunle
+info,player,Nigeria,L Udeh
+info,player,Nigeria,L Piety
+info,player,Nigeria,P Agboya
+info,player,Nigeria,E Sandy
+info,player,Nigeria,S Sunday
+info,player,Nigeria,U Peace
+info,registry,people,A Adekunle,1b0ce76e
+info,registry,people,A Mohamed,86a68879
+info,registry,people,AS Qwele,26b3df21
+info,registry,people,B Etim,11d0079f
+info,registry,people,C Chukwuonye,bb0aac11
+info,registry,people,E Sandy,59063d6b
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,L Piety,46a29dd0
+info,registry,people,L Udeh,8451562a
+info,registry,people,MA Swedy,202ce08c
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,P Agboya,532ddb12
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Etim,aa197946
+info,registry,people,S Mtae,bb641155
+info,registry,people,S Sunday,594a0dec
+info,registry,people,SD Hussein,5f36cd39
+info,registry,people,SF Jerome,e393c6c1
+info,registry,people,Saidat Mbaki,91d279d9
+info,registry,people,U Peace,3798b336

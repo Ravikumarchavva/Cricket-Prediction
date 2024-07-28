@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Chile
+info,gender,female
+info,season,2023/24
+info,date,2023/10/14
+info,event,Chile Women tour of Argentina
+info,match_number,2
+info,venue,San Albano
+info,city,
+info,toss_winner,Chile
+info,toss_decision,field
+info,umpire,A Elliott
+info,umpire,Santiago Duggan
+info,winner,Argentina
+info,winner_runs,281
+info,player,Argentina,V Vasquez
+info,player,Argentina,A Stocks
+info,player,Argentina,M Castineiras
+info,player,Argentina,M Martinez
+info,player,Argentina,A Galan
+info,player,Argentina,L Taylor
+info,player,Argentina,N Patron Fuentes
+info,player,Argentina,C Sosa
+info,player,Argentina,T Basile
+info,player,Argentina,Francesca Galan
+info,player,Argentina,A Emch
+info,player,Chile,Constanza Oyarce
+info,player,Chile,Maria Salazar
+info,player,Chile,Camila Valdes
+info,player,Chile,Florencia Martinez
+info,player,Chile,JA Miranda
+info,player,Chile,Sofia Mardones
+info,player,Chile,Esperanza Rubio
+info,player,Chile,Franchesca Moya
+info,player,Chile,Yadhira Nunez
+info,player,Chile,Sofia Araya
+info,player,Chile,Emilia Toro
+info,registry,people,A Elliott,f48d5563
+info,registry,people,A Emch,24403a9f
+info,registry,people,A Galan,ad5165c2
+info,registry,people,A Stocks,c999c416
+info,registry,people,C Sosa,b2f4cb0d
+info,registry,people,Camila Valdes,dfe8ddeb
+info,registry,people,Constanza Oyarce,9b4b9ce3
+info,registry,people,Emilia Toro,777f65cd
+info,registry,people,Esperanza Rubio,ae694554
+info,registry,people,Florencia Martinez,0626d312
+info,registry,people,Francesca Galan,ccd38b40
+info,registry,people,Franchesca Moya,dd30467d
+info,registry,people,JA Miranda,8c8a3ac6
+info,registry,people,L Taylor,8af91a3e
+info,registry,people,M Castineiras,b9094958
+info,registry,people,M Martinez,f0ddeafb
+info,registry,people,Maria Salazar,0e4abf0c
+info,registry,people,N Patron Fuentes,b29923b6
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Sofia Araya,e4d4c4e0
+info,registry,people,Sofia Mardones,f4e6469b
+info,registry,people,T Basile,7a640d66
+info,registry,people,V Vasquez,f898a2c6
+info,registry,people,Yadhira Nunez,e654fe3d

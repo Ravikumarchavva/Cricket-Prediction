@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Canada
+info,gender,male
+info,season,2022/23
+info,date,2022/11/14
+info,event,Desert Cup T20I Series
+info,match_number,2
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Canada
+info,toss_decision,field
+info,player_of_match,Saad Bin Zafar
+info,umpire,Rahul Asher
+info,umpire,Vinod Babu
+info,tv_umpire,N Krishnan
+info,match_referee,Hanoz Iqbal
+info,winner,Canada
+info,winner_wickets,4
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,DK Mathias
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Shahid Mahmood
+info,player,Bahrain,Sachin Kumar
+info,player,Bahrain,Rizwan Butt
+info,player,Canada,A Johnson
+info,player,Canada,M Spoors
+info,player,Canada,Pargat Singh
+info,player,Canada,SA Wijeratne
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,H Thaker
+info,player,Canada,S Movva
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Salman Nazar
+info,player,Canada,Ammar Khalid
+info,player,Canada,Kaleem Sana
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ammar Khalid,af98bf5b
+info,registry,people,DK Mathias,bec5cab9
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Hanoz Iqbal,28f14bf7
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,M Spoors,da4a1e46
+info,registry,people,N Krishnan,b317852e
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Movva,ee229588
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Sachin Kumar,b76b2d25
+info,registry,people,Salman Nazar,679af2e2
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Shahid Mahmood,37753749
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Vinod Babu,37e6187d

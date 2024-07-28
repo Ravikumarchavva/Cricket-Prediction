@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lesotho
+info,team,Rwanda
+info,gender,female
+info,season,2024
+info,date,2024/04/22
+info,event,BCA Kalahari Women's T20 International Tournament
+info,match_number,3
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Lesotho
+info,toss_decision,bat
+info,player_of_match,MD Bimenyimana
+info,umpire,L Msemburi
+info,umpire,R Nehonde
+info,winner,Rwanda
+info,winner_wickets,10
+info,player,Lesotho,KM Molapo
+info,player,Lesotho,T Kobeli
+info,player,Lesotho,T Khabo
+info,player,Lesotho,K Mohanoe
+info,player,Lesotho,MM Mabathoana
+info,player,Lesotho,MA Tsemane
+info,player,Lesotho,MA Nyabela
+info,player,Lesotho,B Phelenyane
+info,player,Lesotho,NM Mokhachane
+info,player,Lesotho,R Limema
+info,player,Lesotho,M Mokoatsela
+info,player,Rwanda,C Uwase
+info,player,Rwanda,F Irakoze
+info,player,Rwanda,MD Bimenyimana
+info,player,Rwanda,JMV Ingabire
+info,player,Rwanda,J Nyirankundineza
+info,player,Rwanda,H Ishimwe
+info,player,Rwanda,S Niyomuhoza
+info,player,Rwanda,Rosine Irera
+info,player,Rwanda,R Shimwamana
+info,player,Rwanda,C Uwamahoro
+info,player,Rwanda,D Uwizeye
+info,registry,people,B Phelenyane,c982ad6f
+info,registry,people,C Uwamahoro,81dfc700
+info,registry,people,C Uwase,808bb510
+info,registry,people,D Uwizeye,1cd03c09
+info,registry,people,F Irakoze,14f0a5e3
+info,registry,people,H Ishimwe,ffa296f7
+info,registry,people,J Nyirankundineza,7e7d2fe5
+info,registry,people,JMV Ingabire,f4a96bfd
+info,registry,people,K Mohanoe,bf1f5ab0
+info,registry,people,KM Molapo,dc5934a6
+info,registry,people,L Msemburi,ef6037f8
+info,registry,people,M Mokoatsela,fc32e121
+info,registry,people,MA Nyabela,261fddca
+info,registry,people,MA Tsemane,71eb9780
+info,registry,people,MD Bimenyimana,c1a0cebe
+info,registry,people,MM Mabathoana,fb432bd3
+info,registry,people,NM Mokhachane,6083f332
+info,registry,people,R Limema,95fdfe7e
+info,registry,people,R Nehonde,4393e047
+info,registry,people,R Shimwamana,03fb10bd
+info,registry,people,Rosine Irera,b84718fd
+info,registry,people,S Niyomuhoza,a5424013
+info,registry,people,T Khabo,7be9cb29
+info,registry,people,T Kobeli,10f52b3a

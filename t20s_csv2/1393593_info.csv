@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Kuwait
+info,gender,female
+info,season,2023
+info,date,2023/08/23
+info,event,Women's T20 Quadrangular Series (in Malaysia)
+info,match_number,4
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,I Barma
+info,umpire,Nur Hijrah
+info,umpire,V Kalidas
+info,reserve_umpire,N Sivan
+info,match_referee,B Ramani
+info,winner,Nepal
+info,winner_runs,34
+info,player,Nepal,Puja Mahato
+info,player,Nepal,B Rawal
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,SR Magar
+info,player,Nepal,RC Belbashi
+info,player,Nepal,I Barma
+info,player,Nepal,K Joshi
+info,player,Nepal,K Kunwar
+info,player,Nepal,K Shrestha
+info,player,Nepal,K Dangol
+info,player,Nepal,I Bist
+info,player,Kuwait,Maryam Omar
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,B Shanti
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,Maryyam Ashraf
+info,player,Kuwait,Maria Jasvi
+info,player,Kuwait,Iqra Ishaq
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Ramani,92ad5353
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,I Barma,521abce2
+info,registry,people,I Bist,beccd5a1
+info,registry,people,Iqra Ishaq,59c770e7
+info,registry,people,K Dangol,db080f9d
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryam Omar,b4d08794
+info,registry,people,Maryyam Ashraf,1b9d3eb3
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,SL Gomez,02264be0
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Zeefa Jilani,3f2b40f0

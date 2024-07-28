@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ghana
+info,team,Kenya
+info,gender,male
+info,season,2023/24
+info,date,2024/03/20
+info,event,African Games
+info,match_number,10
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Ghana
+info,toss_decision,bat
+info,player_of_match,CO Obuya
+info,umpire,A Kassam
+info,umpire,Habib Enesi
+info,reserve_umpire,E Bruce-Okine
+info,match_referee,O Chirombe
+info,winner,Kenya
+info,winner_wickets,7
+info,player,Ghana,R Baaleri
+info,player,Ghana,JK Vifah
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,R Bakum
+info,player,Ghana,KM Awala
+info,player,Ghana,A Osei
+info,player,Ghana,P Yevugah
+info,player,Ghana,TK Joseph
+info,player,Ghana,KS Bagabena
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,L Nyarko
+info,player,Kenya,N Mugabe
+info,player,Kenya,CO Obuya
+info,player,Kenya,S Singh
+info,player,Kenya,RR Patel
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,LN Oluoch
+info,player,Kenya,F Mutua
+info,player,Kenya,SO Ngoche
+info,player,Kenya,Aarnav Patel
+info,player,Kenya,EB Ringera
+info,player,Kenya,GM Muthui
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Osei,375322d1
+info,registry,people,Aarnav Patel,b66201dd
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,E Bruce-Okine,ac0aae9a
+info,registry,people,EB Ringera,6cedad99
+info,registry,people,F Mutua,21b67523
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,JK Vifah,a1448a10
+info,registry,people,KM Awala,c6c7d01b
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,L Nyarko,c391d077
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,O Chirombe,6345307f
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,P Yevugah,5c842df4
+info,registry,people,R Baaleri,26c9b5be
+info,registry,people,R Bakum,c74c583b
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,TK Joseph,4fafd79a

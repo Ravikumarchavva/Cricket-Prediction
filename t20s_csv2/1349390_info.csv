@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Qatar
+info,gender,male
+info,season,2022/23
+info,date,2022/12/23
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,Mohammad Rizlan
+info,umpire,L Poobalan
+info,umpire,V Kalidas
+info,reserve_umpire,Zaidan Taha
+info,match_referee,Ramesh Menon
+info,winner,Qatar
+info,winner_wickets,9
+info,player,Singapore,A Kaul
+info,player,Singapore,Abdul Rahman
+info,player,Singapore,Aman Desai
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,Janak Prakash
+info,player,Singapore,U Aryaman Sunil
+info,player,Singapore,S Srikanth
+info,player,Singapore,NA Karnik
+info,player,Singapore,V Hampihallikar
+info,player,Singapore,V Baskaran
+info,player,Singapore,A Modi
+info,player,Qatar,Kamran Khan
+info,player,Qatar,I Liyanage
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Mohammed Nadeem
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Akash Babu
+info,player,Qatar,Assad Borham
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Yousuf Ali
+info,player,Qatar,VN Veetil
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,A Modi,4edfc785
+info,registry,people,Abdul Rahman,12f53be7
+info,registry,people,Akash Babu,fb59e5bc
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Assad Borham,219a417a
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Mohammed Nadeem,856cbb1e
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,NA Karnik,835a58da
+info,registry,people,Ramesh Menon,4ed80d22
+info,registry,people,S Srikanth,dc9135c6
+info,registry,people,U Aryaman Sunil,13bc54a8
+info,registry,people,V Baskaran,dd5a9067
+info,registry,people,V Hampihallikar,241a104c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VN Veetil,3cf5a041
+info,registry,people,Yousuf Ali,a27d06d1
+info,registry,people,Zaidan Taha,a29dd0ec

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Portugal
+info,team,Malta
+info,gender,male
+info,season,2023
+info,date,2023/05/05
+info,event,Gibraltar Tri-Nation T20I Series
+info,match_number,3
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Portugal
+info,toss_decision,bat
+info,player_of_match,F Stoman
+info,umpire,JJ Perez
+info,umpire,R Cunningham
+info,winner,Portugal
+info,winner_runs,17
+info,player,Portugal,Kuldeep
+info,player,Portugal,Azhar Andani
+info,player,Portugal,Suman Ghimire
+info,player,Portugal,M Machado
+info,player,Portugal,Amir Zaib
+info,player,Portugal,Najjam Shahzad
+info,player,Portugal,F Stoman
+info,player,Portugal,Zohaib Sarwar
+info,player,Portugal,ARA Chambers
+info,player,Portugal,Junaid Khan
+info,player,Portugal,Sirajullah Khadim
+info,player,Malta,DR Patankar
+info,player,Malta,Fanyan Mughal
+info,player,Malta,N Khanna
+info,player,Malta,RR Bastiansz
+info,player,Malta,Amar Sharma
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,VP Thamotharam
+info,player,Malta,B George
+info,player,Malta,A Bishnoi
+info,player,Malta,Fazil Rahman
+info,player,Malta,Jaison Jerome
+info,registry,people,A Bishnoi,376557f7
+info,registry,people,ARA Chambers,8db27a28
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,Amar Sharma,14e1fdab
+info,registry,people,Amir Zaib,973006cc
+info,registry,people,Azhar Andani,b5bd99da
+info,registry,people,B George,1bdbf53b
+info,registry,people,DR Patankar,e661915c
+info,registry,people,F Stoman,69e53eb3
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,Fazil Rahman,d18b7f34
+info,registry,people,JJ Perez,3378a304
+info,registry,people,Jaison Jerome,e57d25fa
+info,registry,people,Junaid Khan,be0077ba
+info,registry,people,Kuldeep,61c48027
+info,registry,people,M Machado,fd34bcb0
+info,registry,people,N Khanna,0ec6a7c3
+info,registry,people,Najjam Shahzad,58aa33cd
+info,registry,people,R Cunningham,6779e840
+info,registry,people,RR Bastiansz,5365f10f
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,Suman Ghimire,7d990412
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Zohaib Sarwar,bd3cecc6

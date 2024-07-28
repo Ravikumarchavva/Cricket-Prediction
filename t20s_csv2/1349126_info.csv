@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Rwanda
+info,gender,male
+info,season,2022/23
+info,date,2022/12/14
+info,event,Tri-Nation T20 Cup (Rwanda)
+info,match_number,3
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Rwanda
+info,toss_decision,field
+info,player_of_match,J Baguma
+info,umpire,EH Dusabemungu
+info,umpire,Patric Makumbi
+info,reserve_umpire,Itangishaka Olivier
+info,winner,Uganda
+info,winner_runs,85
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Lutaaya
+info,player,Uganda,K Waiswa
+info,player,Uganda,CN Kakuru
+info,player,Uganda,J Miyaji
+info,player,Uganda,J Baguma
+info,player,Uganda,B Masaba
+info,player,Uganda,F Nsubuga
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,H Ssenyondo
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,V Mitari
+info,player,Rwanda,Z Bimenyimana
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,EH Dusabemungu,ba3b4b09
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,J Baguma,8b46fc4f
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,V Mitari,3a82673c
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08

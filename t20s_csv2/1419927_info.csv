@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,United Arab Emirates
+info,gender,female
+info,season,2023/24
+info,date,2024/02/13
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,22
+info,venue,"Selangor Turf Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,KKN Egodage
+info,umpire,Nur Hijrah
+info,umpire,Ramasamy Venkatesh
+info,reserve_umpire,N Perera
+info,match_referee,B Ramani
+info,winner,United Arab Emirates
+info,winner_wickets,10
+info,player,Japan,H Goto
+info,player,Japan,Erika Oda
+info,player,Japan,M Yanagida
+info,player,Japan,A Chandel
+info,player,Japan,H Iwasaki
+info,player,Japan,S Kato
+info,player,Japan,Seika Sumi
+info,player,Japan,K Ota
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,E Kusuda-Nairn
+info,player,Japan,M Ogawa
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,H Hotchandani
+info,player,United Arab Emirates,Khushi Sharma
+info,player,United Arab Emirates,Mehak Thakur
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,S Gokhale
+info,player,United Arab Emirates,S Kotte
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,B Ramani,92ad5353
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Hotchandani,f537d39c
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,K Ota,211f48fe
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Khushi Sharma,a259c414
+info,registry,people,M Ogawa,93d65d0f
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,Mehak Thakur,cf712c6d
+info,registry,people,N Perera,129709f9
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Gokhale,62653085
+info,registry,people,S Kato,ef9ff861
+info,registry,people,S Kotte,6c8904c8
+info,registry,people,Seika Sumi,704b4c30
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,Vaishnave Mahesh,31c56f40

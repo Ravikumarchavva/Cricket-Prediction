@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023/24
+info,date,2023/10/27
+info,event,Nepal Tri-Nation T20I Series
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,Aayan Afzal Khan
+info,umpire,DN Subedi
+info,umpire,VK Jha
+info,reserve_umpire,Sanjay Gurung
+info,match_referee,Muhammad Javed
+info,winner,United Arab Emirates
+info,winner_wickets,4
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,Kushal Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,S Jora
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Karan KC
+info,player,Nepal,A Bohara
+info,player,Nepal,LN Rajbanshi
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,A Sharma,5661ef90
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Jora,156378d8
+info,registry,people,Sanjay Gurung,0ef792dc
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,V Aravind,cddafe26
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

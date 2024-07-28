@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Malaysia
+info,gender,female
+info,season,2023
+info,date,2023/08/31
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,1
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,SR Magar
+info,umpire,Sarika Prasad
+info,umpire,Tabarak Dar
+info,reserve_umpire,N Perera
+info,match_referee,M Nayyar
+info,winner,Nepal
+info,winner_runs,5
+info,player,Nepal,K Shrestha
+info,player,Nepal,SR Magar
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,I Barma
+info,player,Nepal,Puja Mahato
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Apsari Begam
+info,player,Nepal,K Joshi
+info,player,Nepal,K Kunwar
+info,player,Nepal,A Karmacharya
+info,player,Nepal,K Dangol
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Wan Nor Zulaika
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,Nik Nur Atiela
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Apsari Begam,eb765b41
+info,registry,people,I Barma,521abce2
+info,registry,people,K Dangol,db080f9d
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,N Perera,129709f9
+info,registry,people,Nik Nur Atiela,cfdfe39c
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c
+info,registry,people,Wan Nor Zulaika,ae99724d

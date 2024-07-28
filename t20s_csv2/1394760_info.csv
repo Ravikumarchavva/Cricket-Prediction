@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Nepal
+info,gender,female
+info,season,2023
+info,date,2023/09/01
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,10
+info,venue,"Selangor Turf Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Bahrain
+info,toss_decision,bat
+info,player_of_match,I Barma
+info,umpire,V Kalidas
+info,umpire,VG Rathi
+info,reserve_umpire,Shivani Mishra
+info,match_referee,M Nayyar
+info,winner,Nepal
+info,winner_wickets,10
+info,player,Bahrain,TI Gajanayake
+info,player,Bahrain,R Rodrigo
+info,player,Bahrain,HMD Rasangika
+info,player,Bahrain,Abeera Waris
+info,player,Bahrain,I Suhun
+info,player,Bahrain,A Samildeen
+info,player,Bahrain,Prajna Jagdeesha
+info,player,Bahrain,P Shetty
+info,player,Bahrain,Manal Malik
+info,player,Bahrain,Ashwini Govinda
+info,player,Bahrain,Sadamali Bhakshala
+info,player,Nepal,K Kunwar
+info,player,Nepal,SR Magar
+info,player,Nepal,RC Belbashi
+info,player,Nepal,I Barma
+info,player,Nepal,Apsari Begam
+info,player,Nepal,K Joshi
+info,player,Nepal,A Karmacharya
+info,player,Nepal,Puja Mahato
+info,player,Nepal,K Dangol
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,K Shrestha
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,A Samildeen,bc19544d
+info,registry,people,Abeera Waris,01396dc6
+info,registry,people,Apsari Begam,eb765b41
+info,registry,people,Ashwini Govinda,5581a471
+info,registry,people,HMD Rasangika,d6f9dfd6
+info,registry,people,I Barma,521abce2
+info,registry,people,I Suhun,41bfb2a9
+info,registry,people,K Dangol,db080f9d
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,Manal Malik,a8d0b86f
+info,registry,people,P Shetty,0dda36e7
+info,registry,people,Prajna Jagdeesha,b79932e1
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,R Rodrigo,fe676043
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Sadamali Bhakshala,89df3901
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,TI Gajanayake,d577d45a
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16

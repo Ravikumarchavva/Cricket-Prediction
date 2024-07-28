@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Uganda
+info,gender,male
+info,season,2023
+info,date,2023/06/11
+info,event,Africa Continental Cup
+info,match_number,6
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,H Ssenyondo
+info,umpire,D Odhiambo
+info,umpire,R D'Mello
+info,reserve_umpire,Charles Kariuki
+info,winner,Uganda
+info,winner_wickets,8
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Obuya
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,AR Ramjani
+info,player,Uganda,P Murungi
+info,player,Uganda,CN Kakuru
+info,player,Uganda,F Nsubuga
+info,player,Uganda,S Nsubuga
+info,player,Uganda,H Ssenyondo
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Nsubuga,58cb36aa
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08

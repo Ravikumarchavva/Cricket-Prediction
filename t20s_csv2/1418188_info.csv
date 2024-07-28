@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Indonesia
+info,gender,male
+info,season,2023/24
+info,date,2024/02/05
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,9
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Saudi Arabia
+info,toss_decision,bat
+info,player_of_match,Faisal Khan
+info,umpire,Arif Ansari
+info,umpire,Dorji
+info,reserve_umpire,MV Krishnakumar
+info,match_referee,G Sankaranarayanan
+info,winner,Saudi Arabia
+info,winner_runs,82
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Zuhair Muhammad
+info,player,Saudi Arabia,Waqar Ul Hassan
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Atif-Ur-Rehman
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Shahzaib
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,PR Surve
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,GD Arta
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,KC Ramamoorthy
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,DK Shetty
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,Arif Ansari,95957b9e
+info,registry,people,Atif-Ur-Rehman,d20e22f7
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,DK Shetty,65cfc56b
+info,registry,people,Dorji,a6b688ef
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,GD Arta,e969e580
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,KC Ramamoorthy,a89c270b
+info,registry,people,MV Krishnakumar,b99e3162
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,PR Surve,206efeb1
+info,registry,people,Shahzaib,befef38f
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Waqar Ul Hassan,b704da31
+info,registry,people,Zuhair Muhammad,22ae4973

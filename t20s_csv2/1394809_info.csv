@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Vanuatu
+info,gender,female
+info,season,2023
+info,date,2023/09/08
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,18
+info,venue,Vanuatu Cricket Ground
+info,city,Port Vila
+info,toss_winner,Vanuatu
+info,toss_decision,field
+info,umpire,CA Polosak
+info,umpire,L McCabe
+info,reserve_umpire,Kim Cotton
+info,match_referee,RW Stratford
+info,winner,Vanuatu
+info,winner_wickets,7
+info,player,Samoa,VM Andrew
+info,player,Samoa,A Iopu
+info,player,Samoa,J Sanele
+info,player,Samoa,T Lafai
+info,player,Samoa,RP Johnston
+info,player,Samoa,F Sisifo
+info,player,Samoa,Leitu Leong
+info,player,Samoa,A Sootaga
+info,player,Samoa,TH Semau
+info,player,Samoa,V Tafea
+info,player,Samoa,AM Kupito
+info,player,Vanuatu,R Andrew
+info,player,Vanuatu,V Langiatu
+info,player,Vanuatu,N Navaika
+info,player,Vanuatu,S Solman
+info,player,Vanuatu,M Carlot
+info,player,Vanuatu,A Chilia
+info,player,Vanuatu,R Ova
+info,player,Vanuatu,M Tarimiala
+info,player,Vanuatu,L Chilia
+info,player,Vanuatu,V Vira
+info,player,Vanuatu,V Mansale
+info,registry,people,A Chilia,a0d07fd6
+info,registry,people,A Iopu,e77d4107
+info,registry,people,A Sootaga,967984d0
+info,registry,people,AM Kupito,e97f6f96
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,F Sisifo,eff8319a
+info,registry,people,J Sanele,67bd483c
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Chilia,87ac786c
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,Leitu Leong,672e1aea
+info,registry,people,M Carlot,dac46b52
+info,registry,people,M Tarimiala,0030a57d
+info,registry,people,N Navaika,b0023708
+info,registry,people,R Andrew,66c1accf
+info,registry,people,R Ova,88bba252
+info,registry,people,RP Johnston,c110235a
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Solman,24ed1f75
+info,registry,people,T Lafai,10cfda7c
+info,registry,people,TH Semau,175d59dd
+info,registry,people,V Langiatu,fdd18ca0
+info,registry,people,V Mansale,7163637f
+info,registry,people,V Tafea,611298bd
+info,registry,people,V Vira,94271647
+info,registry,people,VM Andrew,ca9a7e09

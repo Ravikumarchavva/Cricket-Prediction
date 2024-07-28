@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Qatar
+info,gender,male
+info,season,2023/24
+info,date,2024/02/27
+info,event,Hong Kong tour of Qatar
+info,match_number,1
+info,venue,University of Doha for Science and Technology
+info,city,Doha
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,M Coetzee
+info,umpire,Abdul Salam
+info,umpire,Tahir Mehmood
+info,reserve_umpire,Abdul Jabbar
+info,winner,Hong Kong
+info,winner_runs,10
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Ehsan Nawaz
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,I Liyanage
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,MM Baig
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,R Theruvath
+info,player,Qatar,Amir Farooq
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Muhammad Jabir
+info,player,Qatar,Musawar Shah
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Abdul Jabbar,3f4b9ae5
+info,registry,people,Abdul Salam,ff2dd5e4
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Ehsan Nawaz,70456281
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,I Liyanage,826e1017
+info,registry,people,M Coetzee,3f149080
+info,registry,people,MM Baig,add288ea
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Musawar Shah,d482c8b8
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,R Theruvath,eb6d1f4d
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Tahir Mehmood,3b6e4c78
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

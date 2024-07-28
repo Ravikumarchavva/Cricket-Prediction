@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,India
+info,gender,male
+info,season,2022/23
+info,date,2023/01/05
+info,event,Sri Lanka tour of India
+info,match_number,2
+info,venue,"Maharashtra Cricket Association Stadium, Pune"
+info,city,Pune
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,MD Shanaka
+info,umpire,J Madanagopal
+info,umpire,Nitin Menon
+info,reserve_umpire,AK Chaudhary
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,J Srinath
+info,winner,Sri Lanka
+info,winner_runs,16
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,PBB Rajapaksa
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,C Karunaratne
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,CAK Rajitha
+info,player,Sri Lanka,D Madushanka
+info,player,India,Ishan Kishan
+info,player,India,Shubman Gill
+info,player,India,RA Tripathi
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,DJ Hooda
+info,player,India,AR Patel
+info,player,India,Shivam Mavi
+info,player,India,Umran Malik
+info,player,India,YS Chahal
+info,player,India,Arshdeep Singh
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Karunaratne,fb3e0d39
+info,registry,people,CAK Rajitha,8012d0b8
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,YS Chahal,57ee1fde

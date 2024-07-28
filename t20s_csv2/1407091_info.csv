@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Namibia
+info,gender,male
+info,season,2023/24
+info,date,2023/11/22
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,3
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,N Davin
+info,umpire,LB Gcuma
+info,umpire,Stephen Harris
+info,reserve_umpire,IO Oyieko
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_wickets,7
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,NR Welch
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,CT Mumba
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,player,Namibia,M van Lingen
+info,player,Namibia,N Davin
+info,player,Namibia,JN Frylinck
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,JP Kotze
+info,player,Namibia,BM Scholtz
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,D Wiese
+info,player,Namibia,T Lungameni
+info,player,Namibia,ZE Green
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Madande,3560a786
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,CT Mumba,28496266
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,WP Masakadza,4bc0a378
+info,registry,people,ZE Green,8716233e

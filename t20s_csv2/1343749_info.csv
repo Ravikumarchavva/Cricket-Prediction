@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mali
+info,team,Kenya
+info,gender,male
+info,season,2022/23
+info,date,2022/11/20
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,10
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Mali
+info,toss_decision,bat
+info,player_of_match,P Koech
+info,umpire,A Paleker
+info,umpire,John Mayeku
+info,reserve_umpire,R D'Mello
+info,match_referee,S Wadvalla
+info,winner,Kenya
+info,winner_wickets,10
+info,player,Mali,MT Diaby
+info,player,Mali,Mohamed Coulibaly
+info,player,Mali,M Sidibe
+info,player,Mali,L Berthe
+info,player,Mali,CA Keita
+info,player,Mali,MS Diawara
+info,player,Mali,TM Macalou
+info,player,Mali,S Kamate
+info,player,Mali,L Sanogo
+info,player,Mali,SG Diaby
+info,player,Mali,D Traore
+info,player,Kenya,P Sharma
+info,player,Kenya,CO Obuya
+info,player,Kenya,LN Oluoch
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,P Koech
+info,player,Kenya,IA Karim
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,SO Ngoche
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,Vraj Patel
+info,registry,people,A Paleker,634b11ac
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,D Traore,273be75a
+info,registry,people,IA Karim,ca92a578
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,L Berthe,8eb7c5a6
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Sidibe,78091b14
+info,registry,people,MS Diawara,8c95e2dd
+info,registry,people,MT Diaby,5d00cd6f
+info,registry,people,Mohamed Coulibaly,86ea6123
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SG Diaby,fe3e9880
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,Vraj Patel,2af28253

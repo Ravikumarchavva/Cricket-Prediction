@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Australia
+info,gender,male
+info,season,2023/24
+info,date,2023/09/01
+info,event,Australia tour of South Africa
+info,match_number,2
+info,venue,"Kingsmead, Durban"
+info,city,Durban
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,SA Abbott
+info,umpire,A Paleker
+info,umpire,Stephen Harris
+info,reserve_umpire,LB Gcuma
+info,tv_umpire,BP Jele
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_wickets,8
+info,player,South Africa,RR Hendricks
+info,player,South Africa,T Bavuma
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,AK Markram
+info,player,South Africa,D Brevis
+info,player,South Africa,T Stubbs
+info,player,South Africa,BC Fortuin
+info,player,South Africa,G Coetzee
+info,player,South Africa,L Ngidi
+info,player,South Africa,LB Williams
+info,player,South Africa,T Shamsi
+info,player,Australia,MW Short
+info,player,Australia,TM Head
+info,player,Australia,MR Marsh
+info,player,Australia,JP Inglis
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,AM Hardie
+info,player,Australia,SA Abbott
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,player,Australia,JP Behrendorff
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Zampa,14f96089
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,D Brevis,844e79d1
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MW Short,a90e53ec
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2

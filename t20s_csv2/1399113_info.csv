@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Nepal
+info,gender,male
+info,season,2023
+info,date,2023/10/03
+info,event,Asian Games Men's Cricket Competition
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,India
+info,toss_decision,bat
+info,umpire,Asif Yaqoob
+info,umpire,Mahmood Kharoti
+info,reserve_umpire,Sarika Prasad
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,winner,India
+info,winner_runs,23
+info,player,India,YBK Jaiswal
+info,player,India,RD Gaikwad
+info,player,India,Tilak Varma
+info,player,India,JM Sharma
+info,player,India,S Dube
+info,player,India,RK Singh
+info,player,India,R Sai Kishore
+info,player,India,Washington Sundar
+info,player,India,Ravi Bishnoi
+info,player,India,Avesh Khan
+info,player,India,Arshdeep Singh
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,Kushal Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,S Jora
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,player,Nepal,A Bohara
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,DS Airee,1747ea18
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,Mahmood Kharoti,d8ff8121
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YBK Jaiswal,6c19c6e5

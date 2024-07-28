@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gambia
+info,team,Eswatini
+info,gender,male
+info,season,2022/23
+info,date,2022/12/01
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,4
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Eswatini
+info,toss_decision,field
+info,player_of_match,T Sandeep
+info,umpire,BP Jele
+info,umpire,Gasana Christian
+info,reserve_umpire,C Phiri
+info,match_referee,SA Fritz
+info,winner,Eswatini
+info,winner_wickets,5
+info,player,Gambia,Andre Jarju
+info,player,Gambia,Mustapha Suwareh
+info,player,Gambia,Muhammed Manga
+info,player,Gambia,A Conteh
+info,player,Gambia,G Riley
+info,player,Gambia,Ismaila Tanba
+info,player,Gambia,F Campbell
+info,player,Gambia,Ousman Bah
+info,player,Gambia,ML Bojang
+info,player,Gambia,P Campbell
+info,player,Gambia,M Jobarteh
+info,player,Eswatini,T Sandeep
+info,player,Eswatini,C Forbes
+info,player,Eswatini,Naeem Gull
+info,player,Eswatini,Adil Butt
+info,player,Eswatini,W Dlamini
+info,player,Eswatini,H Rashid
+info,player,Eswatini,Umair Qasim
+info,player,Eswatini,M Jele
+info,player,Eswatini,Mohammed Alamgir
+info,player,Eswatini,M Magagula
+info,player,Eswatini,D Polpitiya
+info,registry,people,A Conteh,97b9cb64
+info,registry,people,Adil Butt,fde53ec1
+info,registry,people,Andre Jarju,53dd7d8e
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Forbes,8a9e3cd0
+info,registry,people,C Phiri,ade73404
+info,registry,people,D Polpitiya,b7062209
+info,registry,people,F Campbell,02c3024c
+info,registry,people,G Riley,af16cd9e
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,H Rashid,725c73f2
+info,registry,people,Ismaila Tanba,180e2c15
+info,registry,people,M Jele,1a8cedc8
+info,registry,people,M Jobarteh,4a2ce060
+info,registry,people,M Magagula,7a787b98
+info,registry,people,ML Bojang,c2409632
+info,registry,people,Mohammed Alamgir,e0f12392
+info,registry,people,Muhammed Manga,6084f6ee
+info,registry,people,Mustapha Suwareh,44116edc
+info,registry,people,Naeem Gull,4c49c917
+info,registry,people,Ousman Bah,95c214dd
+info,registry,people,P Campbell,3caaf69e
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Sandeep,b794a78d
+info,registry,people,Umair Qasim,e086735b
+info,registry,people,W Dlamini,d2ac882a

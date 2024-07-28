@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,England
+info,gender,male
+info,season,2022/23
+info,date,2022/10/26
+info,event,ICC Men's T20 World Cup
+info,match_number,20
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,A Balbirnie
+info,umpire,AT Holdstock
+info,umpire,PR Reiffel
+info,reserve_umpire,P Wilson
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,RS Madugalle
+info,winner,Ireland
+info,winner_runs,5
+info,method,D/L
+info,player,Ireland,PR Stirling
+info,player,Ireland,A Balbirnie
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,F Hand
+info,player,Ireland,J Little
+info,player,England,JC Buttler
+info,player,England,AD Hales
+info,player,England,DJ Malan
+info,player,England,BA Stokes
+info,player,England,HC Brook
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,SM Curran
+info,player,England,CR Woakes
+info,player,England,MA Wood
+info,player,England,AU Rashid
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Stokes,e087956b
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,F Hand,e3fe4b49
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,JC Buttler,99b75528
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MM Ali,bb351c23
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,P Wilson,68304a36
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SM Curran,e94915e6

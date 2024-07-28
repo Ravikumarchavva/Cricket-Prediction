@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Seychelles
+info,gender,male
+info,season,2022/23
+info,date,2022/11/17
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,4
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Seychelles
+info,toss_decision,field
+info,umpire,A Paleker
+info,reserve_umpire,D Odhiambo
+info,reserve_umpire,Itangishaka Olivier
+info,match_referee,S Wadvalla
+info,outcome,no result
+info,player,Botswana,K Motlanka
+info,player,Botswana,R Nehonde
+info,player,Botswana,T Perera
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,T Tshose
+info,player,Botswana,M Mooketsi
+info,player,Botswana,P Silas
+info,player,Botswana,V Mbazo
+info,player,Botswana,D Maisuria
+info,player,Botswana,K Piet
+info,player,Botswana,B Maphosa
+info,player,Seychelles,D Kalvin
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,N Krishna
+info,player,Seychelles,S Udhayan
+info,player,Seychelles,SKDT Madusanka
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,S Rana
+info,player,Seychelles,T Shanmugam
+info,player,Seychelles,S Rukmal
+info,registry,people,A Paleker,634b11ac
+info,registry,people,B Maphosa,20d948ae
+info,registry,people,D Kalvin,895ae8b6
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,D Odhiambo,45994517
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,N Krishna,c62a0327
+info,registry,people,P Silas,9f2e1944
+info,registry,people,R Nehonde,4393e047
+info,registry,people,S Rana,90edaaa9
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,S Udhayan,a8d6305d
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SKDT Madusanka,95c2d309
+info,registry,people,SR Mohan,58533699
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,T Perera,456397e5
+info,registry,people,T Shanmugam,60fc2c8c
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,V Mbazo,a2317d14

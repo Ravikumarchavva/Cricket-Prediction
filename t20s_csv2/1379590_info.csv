@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Kenya
+info,gender,male
+info,season,2023
+info,date,2023/06/15
+info,event,Africa Continental Cup
+info,match_number,12
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,V Balakrishnan
+info,umpire,Charles Kariuki
+info,umpire,D Odhiambo
+info,match_referee,IO Oyieko
+info,winner,Botswana
+info,winner_runs,30
+info,player,Botswana,Ameer Saiyed
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,K Motlanka
+info,player,Botswana,R Nehonde
+info,player,Botswana,T Tshose
+info,player,Botswana,V Mbazo
+info,player,Botswana,P Silas
+info,player,Botswana,D Maisuria
+info,player,Botswana,K Piet
+info,player,Botswana,M Mooketsi
+info,player,Botswana,B Khumalo
+info,player,Kenya,RN Patel
+info,player,Kenya,AA Obanda
+info,player,Kenya,S Singh
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,SO Ngoche
+info,player,Kenya,LN Oluoch
+info,player,Kenya,EB Ringera
+info,player,Kenya,P Koech
+info,player,Kenya,Vishil Patel
+info,registry,people,AA Obanda,7081491e
+info,registry,people,Ameer Saiyed,2f22325f
+info,registry,people,B Khumalo,33ab1f1c
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,D Odhiambo,45994517
+info,registry,people,EB Ringera,6cedad99
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Silas,9f2e1944
+info,registry,people,R Nehonde,4393e047
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,V Mbazo,a2317d14
+info,registry,people,Vishil Patel,3df8f9d5

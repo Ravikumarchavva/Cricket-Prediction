@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2023/24
+info,date,2023/12/12
+info,event,India tour of South Africa
+info,match_number,2
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,T Shamsi
+info,umpire,A Paleker
+info,umpire,LB Gcuma
+info,reserve_umpire,BP Jele
+info,tv_umpire,Stephen Harris
+info,match_referee,BC Broad
+info,winner,South Africa
+info,winner_wickets,5
+info,method,D/L
+info,player,India,YBK Jaiswal
+info,player,India,Shubman Gill
+info,player,India,Tilak Varma
+info,player,India,SA Yadav
+info,player,India,RK Singh
+info,player,India,JM Sharma
+info,player,India,RA Jadeja
+info,player,India,Arshdeep Singh
+info,player,India,Kuldeep Yadav
+info,player,India,Mohammed Siraj
+info,player,India,Mukesh Kumar
+info,player,South Africa,RR Hendricks
+info,player,South Africa,MP Breetzke
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,T Stubbs
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,M Jansen
+info,player,South Africa,G Coetzee
+info,player,South Africa,LB Williams
+info,player,South Africa,T Shamsi
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,YBK Jaiswal,6c19c6e5

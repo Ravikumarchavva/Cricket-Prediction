@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Botswana
+info,gender,female
+info,season,2024
+info,date,2024/06/07
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,28
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,C Muthoni
+info,umpire,Gaston Niyibizi
+info,umpire,R Singinzwa
+info,umpire,V Iriho
+info,winner,Kenya
+info,winner_runs,44
+info,player,Kenya,E Wachira
+info,player,Kenya,C Muthoni
+info,player,Kenya,Q Abel
+info,player,Kenya,V Ooko
+info,player,Kenya,V Abuga
+info,player,Kenya,L Idambo
+info,player,Kenya,JS Ndanu
+info,player,Kenya,A Wanjira
+info,player,Kenya,F Odhiambo
+info,player,Kenya,E Waithaka
+info,player,Kenya,J Ajiambo
+info,player,Botswana,L Mophakedi
+info,player,Botswana,P Mapotsane
+info,player,Botswana,S Mosweu
+info,player,Botswana,T Shadrack
+info,player,Botswana,G Matome
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,M Phiase
+info,player,Botswana,O Kgeresi
+info,player,Botswana,O Keitsemang
+info,player,Botswana,K Inakale
+info,player,Botswana,W Moutswi
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,A Wanjira,b6015231
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,E Waithaka,1e4c0204
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,G Matome,a6898f7a
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,J Ajiambo,c3a998fa
+info,registry,people,JS Ndanu,c27e0638
+info,registry,people,K Inakale,eea862f6
+info,registry,people,L Idambo,27339093
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,M Phiase,537cc79f
+info,registry,people,O Keitsemang,5145239b
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,Q Abel,2e988457
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Mosweu,10726a80
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Iriho,2853eafb
+info,registry,people,V Ooko,2ae76bf6
+info,registry,people,W Moutswi,e8c42000

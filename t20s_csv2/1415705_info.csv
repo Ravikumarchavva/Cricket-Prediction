@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Uganda
+info,gender,male
+info,season,2024
+info,date,2024/06/03
+info,event,ICC Men's T20 World Cup
+info,match_number,5
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,Fazalhaq Farooqi
+info,umpire,Ahsan Raza
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,Rashid Riaz
+info,tv_umpire,AT Holdstock
+info,match_referee,AJ Pycroft
+info,winner,Afghanistan
+info,winner_runs,125
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,Uganda,RB Patel
+info,player,Uganda,S Sesazi
+info,player,Uganda,RG Mukasa
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,AR Ramjani
+info,player,Uganda,R Obuya
+info,player,Uganda,B Masaba
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,C Kyewuta
+info,player,Uganda,H Ssenyondo
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Karim Janat,62175638
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Sesazi,c2c975f9

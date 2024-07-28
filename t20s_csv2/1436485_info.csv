@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Portugal
+info,team,Israel
+info,gender,male
+info,season,2024
+info,date,2024/06/13
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,15
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Portugal
+info,toss_decision,bat
+info,umpire,Adeel Ashiq
+info,umpire,MJ Saggers
+info,reserve_umpire,WPM van Liemt
+info,match_referee,G McCrea
+info,winner,Israel
+info,winner_wickets,2
+info,player,Portugal,J Vijay
+info,player,Portugal,Azhar Andani
+info,player,Portugal,Suman Ghimire
+info,player,Portugal,F Stoman
+info,player,Portugal,Amir Zaib
+info,player,Portugal,Amandeep Singh
+info,player,Portugal,Najjam Shahzad
+info,player,Portugal,JAM Henri
+info,player,Portugal,Sirajullah Khadim
+info,player,Portugal,Syed Maisam Ali
+info,player,Portugal,Adnan Gondal
+info,player,Israel,E Solomon
+info,player,Israel,WSLK Narayana
+info,player,Israel,Yogev Nagavkar
+info,player,Israel,LSP Siriwardene
+info,player,Israel,Niv Nagavkar
+info,player,Israel,J Evans
+info,player,Israel,Yair Nagavkar
+info,player,Israel,S Bangera
+info,player,Israel,E Bhonkar
+info,player,Israel,Y Divekar
+info,player,Israel,Elan Talker
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Adnan Gondal,79b2d37a
+info,registry,people,Amandeep Singh,d0d32c30
+info,registry,people,Amir Zaib,973006cc
+info,registry,people,Azhar Andani,b5bd99da
+info,registry,people,E Bhonkar,1dc3330f
+info,registry,people,E Solomon,8da9a284
+info,registry,people,Elan Talker,bb939fa3
+info,registry,people,F Stoman,69e53eb3
+info,registry,people,G McCrea,46f4a901
+info,registry,people,J Evans,027662be
+info,registry,people,J Vijay,709525fc
+info,registry,people,JAM Henri,04df9697
+info,registry,people,LSP Siriwardene,f2637e05
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Najjam Shahzad,58aa33cd
+info,registry,people,Niv Nagavkar,e2abcf16
+info,registry,people,S Bangera,856fc47a
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,Suman Ghimire,7d990412
+info,registry,people,Syed Maisam Ali,e204b898
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,WSLK Narayana,4d21a67a
+info,registry,people,Y Divekar,4e35e8ea
+info,registry,people,Yair Nagavkar,138e30ab
+info,registry,people,Yogev Nagavkar,c85bea6b

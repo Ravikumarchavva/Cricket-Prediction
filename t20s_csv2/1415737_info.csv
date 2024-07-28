@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Nepal
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,ICC Men's T20 World Cup
+info,match_number,37
+info,venue,"Arnos Vale Ground, Kingstown, St Vincent"
+info,city,Kingstown
+info,toss_winner,Nepal
+info,toss_decision,field
+info,player_of_match,Tanzim Hasan Sakib
+info,umpire,Ahsan Raza
+info,umpire,SJ Nogajski
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,J Madanagopal
+info,match_referee,RB Richardson
+info,winner,Bangladesh
+info,winner_runs,21
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,AK Sah
+info,player,Nepal,RK Paudel
+info,player,Nepal,S Jora
+info,player,Nepal,Kushal Malla
+info,player,Nepal,DS Airee
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,S Lamichhane
+info,player,Nepal,A Bohara
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414

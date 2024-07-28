@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Italy
+info,gender,male
+info,season,2023
+info,date,2023/07/28
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,19
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Italy
+info,toss_decision,field
+info,player_of_match,S di Bartolomeo
+info,umpire,DA Haggo
+info,umpire,M Jameson
+info,reserve_umpire,R Black
+info,match_referee,Phil Whitticase
+info,winner,Italy
+info,winner_wickets,4
+info,player,Germany,V Ganesan
+info,player,Germany,J van Heerden
+info,player,Germany,M Montgomery
+info,player,Germany,H Singh
+info,player,Germany,DA Blignaut
+info,player,Germany,Sahir Naqash
+info,player,Germany,Sachin Mandy
+info,player,Germany,Muslim Yar
+info,player,Germany,D Klein
+info,player,Germany,Zahid Zadran
+info,player,Germany,Ghulam Ahmadi
+info,player,Italy,J Mosca
+info,player,Italy,BAD Manenti
+info,player,Italy,AJ Mosca
+info,player,Italy,WL Madsen
+info,player,Italy,M Campopiano
+info,player,Italy,HJ Manenti
+info,player,Italy,G Stewart
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,Jaspreet Singh
+info,player,Italy,S di Bartolomeo
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,D Klein,aeab0d4f
+info,registry,people,DA Blignaut,cfcf189f
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,J van Heerden,01549705
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Montgomery,7671203a
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Black,156c8fb1
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,WL Madsen,86e0f3f0
+info,registry,people,Zahid Zadran,a819f6c8

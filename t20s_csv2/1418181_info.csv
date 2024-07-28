@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Bhutan
+info,gender,male
+info,season,2023/24
+info,date,2024/02/01
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,2
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,Anjar Tadarus
+info,umpire,Arif Ansari
+info,umpire,MV Krishnakumar
+info,reserve_umpire,Osama Saad Alnadwi
+info,tv_umpire,Hardeep Jadeja
+info,match_referee,G Sankaranarayanan
+info,winner,Indonesia
+info,winner_runs,16
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,KC Ramamoorthy
+info,player,Indonesia,PR Surve
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,GD Arta
+info,player,Indonesia,RM Koda
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,JN Dorji
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Tashi Phuntsho
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,N Chejay
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,S Loday
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,Ngawang Thinley
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,Arif Ansari,95957b9e
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,GD Arta,e969e580
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,JN Dorji,a73251ff
+info,registry,people,KC Ramamoorthy,a89c270b
+info,registry,people,MV Krishnakumar,b99e3162
+info,registry,people,N Chejay,a9e63549
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,Ngawang Thinley,cc62ec8a
+info,registry,people,Osama Saad Alnadwi,a7e2fb32
+info,registry,people,PR Surve,206efeb1
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,RM Koda,f0a45427
+info,registry,people,S Loday,448dab1a
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tashi Phuntsho,43d365ca
+info,registry,people,Tenjin Rabgey,1fed517a

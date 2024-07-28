@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Vanuatu
+info,gender,male
+info,season,2023
+info,date,2023/07/28
+info,event,ICC Men's T20 World Cup East Asia-Pacific Qualifier
+info,match_number,9
+info,venue,"Amini Park, Port Moresby"
+info,city,Port Moresby
+info,toss_winner,Vanuatu
+info,toss_decision,field
+info,player_of_match,N Nipiko
+info,umpire,A Kapa
+info,umpire,SB Haig
+info,reserve_umpire,PJ Gillespie
+info,match_referee,WC Labrooy
+info,winner,Vanuatu
+info,winner_wickets,5
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,I Takahashi
+info,player,Japan,S Ravichandran
+info,player,Japan,D Suzuki
+info,player,Japan,T Takada
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,W Miyauchi
+info,player,Japan,M Taniyama
+info,player,Japan,P Kumbhare
+info,player,Japan,K Kubota
+info,player,Vanuatu,JD Allan
+info,player,Vanuatu,C Tommy
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,A Mansale
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,AL Stephen
+info,player,Vanuatu,SH Obed
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,D Wotu
+info,registry,people,A Kapa,7c9c0f18
+info,registry,people,A Mansale,a22b4f3f
+info,registry,people,AL Stephen,49f6d023
+info,registry,people,C Tommy,c6d4cff0
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,D Wotu,9585854d
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,JD Allan,3758028b
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,K Kubota,42581e6d
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,N Nipiko,c498c510
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,R Tari,c4d19735
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,SB Haig,811655b3
+info,registry,people,SH Obed,f49c401e
+info,registry,people,T Takada,bd3c364d
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,W Nalisa,673be48f
+info,registry,people,WC Labrooy,29d4e29b

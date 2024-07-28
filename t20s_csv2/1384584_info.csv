@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Luxembourg
+info,gender,male
+info,season,2023
+info,date,2023/07/11
+info,event,Mdina Cup
+info,match_number,3
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Luxembourg
+info,toss_decision,field
+info,player_of_match,Zeeshan Khan
+info,umpire,J Hilhorst
+info,umpire,Vinay Malhotra
+info,match_referee,S Gowda
+info,winner,Malta
+info,winner_runs,42
+info,player,Malta,Zeeshan Khan
+info,player,Malta,Fanyan Mughal
+info,player,Malta,E Mathew
+info,player,Malta,Imran Ameer
+info,player,Malta,VP Thamotharam
+info,player,Malta,Waqas Ahmad
+info,player,Malta,Jaspal Singh
+info,player,Malta,B Arora
+info,player,Malta,Washeem Abbas
+info,player,Malta,C Sudarsanan
+info,player,Malta,J Shaju
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,E Jabarkhel
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,G Venkateswaran
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,A Dhingra
+info,registry,people,A Dhingra,753ada66
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Nanda,704e0160
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Jabarkhel,21526a38
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,G Venkateswaran,a4bcaba7
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,J Hilhorst,8a1350d4
+info,registry,people,J Mees,ab1445ea
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,SKS Gill,faef026c
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,WJ Cope,fb34b0ec
+info,registry,people,Waqas Ahmad,82623a3a
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zeeshan Khan,3f9b1a96

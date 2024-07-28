@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Cook Islands
+info,gender,female
+info,season,2023
+info,date,2023/09/08
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,19
+info,venue,Vanuatu Cricket Ground (Oval 2)
+info,city,Port Vila
+info,toss_winner,Cook Islands
+info,toss_decision,field
+info,umpire,Ashlee Gibbons
+info,umpire,M Kenni
+info,reserve_umpire,K Tanuvasa
+info,match_referee,RW Stratford
+info,winner,Cook Islands
+info,winner_wickets,8
+info,player,Fiji,I Waqavakatoga
+info,player,Fiji,M Ratuki
+info,player,Fiji,LE Lomani
+info,player,Fiji,R Muriyalo
+info,player,Fiji,S Vuni
+info,player,Fiji,S Sigaiwasa
+info,player,Fiji,MSC Erasito
+info,player,Fiji,AISD Kainoco
+info,player,Fiji,KV Vakuruivalu
+info,player,Fiji,M Biu
+info,player,Fiji,AK Gonerara
+info,player,Cook Islands,Z Maeva
+info,player,Cook Islands,D Kataina
+info,player,Cook Islands,J George
+info,player,Cook Islands,P Kaveao
+info,player,Cook Islands,P Maruariki
+info,player,Cook Islands,M Kaukura
+info,player,Cook Islands,S Samuels
+info,player,Cook Islands,S Vaia
+info,player,Cook Islands,T Maika
+info,player,Cook Islands,T Touna
+info,player,Cook Islands,K Mataora
+info,registry,people,AISD Kainoco,f3614f32
+info,registry,people,AK Gonerara,141ee9a0
+info,registry,people,Ashlee Gibbons,b81712f7
+info,registry,people,D Kataina,3a370f15
+info,registry,people,I Waqavakatoga,31d220f5
+info,registry,people,J George,9044ee8e
+info,registry,people,K Mataora,281cc1e8
+info,registry,people,K Tanuvasa,34fa0472
+info,registry,people,KV Vakuruivalu,98db3666
+info,registry,people,LE Lomani,9d785b30
+info,registry,people,M Biu,c386183b
+info,registry,people,M Kaukura,11d83c44
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,M Ratuki,ad78df1c
+info,registry,people,MSC Erasito,ce02e769
+info,registry,people,P Kaveao,f536e967
+info,registry,people,P Maruariki,dee2431f
+info,registry,people,R Muriyalo,a2fc9177
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Samuels,d852095e
+info,registry,people,S Sigaiwasa,b1414505
+info,registry,people,S Vaia,78103121
+info,registry,people,S Vuni,951e08f0
+info,registry,people,T Maika,9782087e
+info,registry,people,T Touna,a7a337b9
+info,registry,people,Z Maeva,34f0c9ad

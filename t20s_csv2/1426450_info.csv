@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Namibia
+info,gender,male
+info,season,2024
+info,date,2024/04/01
+info,event,Namibia tour of Oman
+info,match_number,1
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,T Lungameni
+info,umpire,Rahul Asher
+info,umpire,Vinod Babu
+info,reserve_umpire,P Balasubramanian
+info,tv_umpire,Harikrishna Pillai
+info,match_referee,WC Labrooy
+info,winner,Namibia
+info,winner_wickets,4
+info,player,Oman,KH Prajapati
+info,player,Oman,PS Athavale
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Khalid Kail
+info,player,Oman,Ayan Khan
+info,player,Oman,Mehran Khan
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Rafiullah
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,player,Namibia,JP Kotze
+info,player,Namibia,MB Kruger
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Frylinck
+info,player,Namibia,ZE Green
+info,player,Namibia,GJ van Rensburg
+info,player,Namibia,D Wiese
+info,player,Namibia,DO Leicher
+info,player,Namibia,BM Scholtz
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,T Lungameni
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,GJ van Rensburg,602db3d9
+info,registry,people,Harikrishna Pillai,ed918c90
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Khalid Kail,3ee90b67
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,P Balasubramanian,188dc81a
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,Vinod Babu,37e6187d
+info,registry,people,WC Labrooy,29d4e29b
+info,registry,people,ZE Green,8716233e
+info,registry,people,Zeeshan Maqsood,34464143

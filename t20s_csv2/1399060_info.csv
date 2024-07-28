@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Sri Lanka
+info,gender,female
+info,season,2023
+info,date,2023/09/24
+info,event,Asian Games Women's Cricket Competition
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,umpire,Mahmood Kharoti
+info,umpire,Masudur Rahman
+info,reserve_umpire,C Thurgate
+info,tv_umpire,VG Rathi
+info,match_referee,Prakash Bhatt
+info,winner,Sri Lanka
+info,winner_wickets,6
+info,player,Pakistan,Shawaal Zulfiqar
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Natalia Pervaiz
+info,player,Pakistan,Umm-e-Hani
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,I Ranaweera
+info,player,Sri Lanka,SIP Fernando
+info,player,Sri Lanka,WK Dilhari
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,C Thurgate,4d8ad58c
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,Mahmood Kharoti,d8ff8121
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Natalia Pervaiz,fa8a3eb0
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Shawaal Zulfiqar,adb2f55e
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Umaima Sohail,821d7d46
+info,registry,people,Umm-e-Hani,6ee11109
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

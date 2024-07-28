@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Italy
+info,gender,female
+info,season,2023
+info,date,2023/09/10
+info,event,ICC Women's T20 World Cup Europe Region Qualifier
+info,match_number,7
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,SJ Bryce
+info,umpire,Adnan Khan
+info,umpire,HE Kearns
+info,reserve_umpire,Rizwan Akram
+info,match_referee,DT Jukes
+info,winner,Scotland
+info,winner_runs,117
+info,player,Scotland,KE Bryce
+info,player,Scotland,M Faisal
+info,player,Scotland,PA Chatterji
+info,player,Scotland,SJ Bryce
+info,player,Scotland,L Jack
+info,player,Scotland,A Lister
+info,player,Scotland,DEM Carter
+info,player,Scotland,M McColl
+info,player,Scotland,AH Maqsood
+info,player,Scotland,NM Sheikh
+info,player,Scotland,N Robertson-Jack
+info,player,Italy,AS Withanage
+info,player,Italy,M Rathnayake
+info,player,Italy,C Mahamalage
+info,player,Italy,Regina Khan
+info,player,Italy,EL Bartram
+info,player,Italy,D Nanayakkara
+info,player,Italy,K Peddrick
+info,player,Italy,AS Warnakulasuriya
+info,player,Italy,S Kanankege
+info,player,Italy,S Toffoletto
+info,player,Italy,N Asuramanage
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AS Warnakulasuriya,05f1cff9
+info,registry,people,AS Withanage,078f166f
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M Faisal,48b74dc2
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,N Asuramanage,46dff613
+info,registry,people,N Robertson-Jack,a8c78834
+info,registry,people,NM Sheikh,23ef9b32
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,Regina Khan,862f4427
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Kanankege,01815edc
+info,registry,people,S Toffoletto,9e498eac
+info,registry,people,SJ Bryce,2ca65aee
