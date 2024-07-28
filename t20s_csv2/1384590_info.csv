@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Romania
+info,team,Switzerland
+info,gender,male
+info,season,2023
+info,date,2023/07/13
+info,event,Valletta Cup
+info,match_number,3
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Switzerland
+info,toss_decision,field
+info,player_of_match,Faheem Nazir
+info,umpire,S Fernando
+info,umpire,Vinay Malhotra
+info,reserve_umpire,S Harnal
+info,match_referee,S Gowda
+info,winner,Switzerland
+info,winner_wickets,6
+info,player,Romania,R Satheesan
+info,player,Romania,Taranjeet Singh
+info,player,Romania,S Nadigotla
+info,player,Romania,V Saini
+info,player,Romania,S Periyalwar
+info,player,Romania,R Kumar
+info,player,Romania,Abdul Shakoor
+info,player,Romania,S Vashisht
+info,player,Romania,M Koli
+info,player,Romania,S Thakur
+info,player,Romania,P Hingorani
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Izhar Hussain
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,MK Gnanasekaram
+info,player,Switzerland,K Fletcher
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,Asad Mahmood
+info,registry,people,Abdul Shakoor,d52b13a6
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Asad Mahmood,5038c022
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,Izhar Hussain,1bc71d98
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,M Koli,eb0f2802
+info,registry,people,MK Gnanasekaram,24b3651c
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,R Kumar,2df874e6
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Thakur,a073f2ff
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719
+info,registry,people,Vinay Malhotra,452837d1

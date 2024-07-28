@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Tanzania
+info,gender,male
+info,season,2022/23
+info,date,2022/12/16
+info,event,Tri-Nation T20 Cup (Rwanda)
+info,match_number,8
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,W Niyitanga
+info,umpire,EH Dusabemungu
+info,umpire,Patric Makumbi
+info,reserve_umpire,John Mayeku
+info,winner,Rwanda
+info,winner_runs,1
+info,method,D/L
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,E Kubwimana
+info,player,Rwanda,I Ntirenganya
+info,player,Rwanda,O Manishimwe
+info,player,Tanzania,II Selemani
+info,player,Tanzania,AJ Jabiri
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AA Hussein
+info,player,Tanzania,YM Nkanya
+info,registry,people,AA Hussein,60ef3ddb
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Kubwimana,bfc7799f
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,EH Dusabemungu,ba3b4b09
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,John Mayeku,9d819a32
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,Z Bimenyimana,ba57fb08

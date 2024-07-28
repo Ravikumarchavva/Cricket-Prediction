@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,China
+info,gender,female
+info,season,2023
+info,date,2023/08/31
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,4
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,China
+info,toss_decision,field
+info,player_of_match,Xiuli Jin
+info,umpire,N Perera
+info,umpire,Sarika Prasad
+info,reserve_umpire,Tabarak Dar
+info,match_referee,M Nayyar
+info,winner,Kuwait
+info,winner_runs,30
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Maryam Omar
+info,player,Kuwait,B Shanti
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,S Lita D'Sa
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,Maryyam Ashraf
+info,player,Kuwait,Maria Jasvi
+info,player,China,M Zhu
+info,player,China,Han Lili
+info,player,China,Chen Yue
+info,player,China,C Zhou
+info,player,China,Zheng Lili
+info,player,China,Xiuli Jin
+info,player,China,Yuanyuan Cai
+info,player,China,Mengting Liu
+info,player,China,Chen Xinyu
+info,player,China,Zi Mei
+info,player,China,Xu Qian
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,C Zhou,5b84f3bc
+info,registry,people,Chen Xinyu,b2cd8abe
+info,registry,people,Chen Yue,8b582549
+info,registry,people,Han Lili,cd7134f5
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Zhu,36c3302e
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryam Omar,b4d08794
+info,registry,people,Maryyam Ashraf,1b9d3eb3
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,N Perera,129709f9
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,S Lita D'Sa,a289cfa0
+info,registry,people,SL Gomez,02264be0
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Xiuli Jin,f1d76e6f
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yuanyuan Cai,39b12998
+info,registry,people,Zeefa Jilani,3f2b40f0
+info,registry,people,Zheng Lili,9c2bb7da
+info,registry,people,Zi Mei,72070f05

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Uganda
+info,gender,male
+info,season,2023/24
+info,date,2023/11/22
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,2
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,Riazat Ali Shah
+info,umpire,D Odhiambo
+info,umpire,Lauren Agenbag
+info,reserve_umpire,F Mutizwa
+info,match_referee,GH Pienaar
+info,winner,Uganda
+info,winner_wickets,8
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,S Thakor
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,YM Nkanya
+info,player,Uganda,S Sesazi
+info,player,Uganda,RB Patel
+info,player,Uganda,RG Mukasa
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,K Waiswa
+info,player,Uganda,DM Nakrani
+info,player,Uganda,R Obuya
+info,player,Uganda,B Masaba
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,AR Ramjani
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,YM Nkanya,9238dd92

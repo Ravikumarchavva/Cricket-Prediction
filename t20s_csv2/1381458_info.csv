@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Turkey
+info,team,Bulgaria
+info,gender,male
+info,season,2023
+info,date,2023/06/24
+info,event,Quadrangular Twenty20 Series (Bulgaria)
+info,match_number,6
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Bulgaria
+info,toss_decision,field
+info,player_of_match,Zaid Soulat
+info,winner,Bulgaria
+info,winner_wickets,8
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,I Elec
+info,player,Turkey,A Turkmen
+info,player,Turkey,R Nath
+info,player,Turkey,M Ozturk
+info,player,Turkey,Muhammed Turkmen
+info,player,Turkey,Cihan Altun
+info,player,Turkey,BC Sahin
+info,player,Turkey,Murat Yilmaz
+info,player,Turkey,Muhammet Kursat
+info,player,Turkey,Murat Ipek
+info,player,Bulgaria,Saim Hussain
+info,player,Bulgaria,Zain Asif
+info,player,Bulgaria,Zaid Soulat
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,A Ahmadhel
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,DV Varghese
+info,player,Bulgaria,Huzaif Yousuf
+info,registry,people,A Ahmadhel,55a5cffb
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,BC Sahin,57cb4044
+info,registry,people,Cihan Altun,b8396e67
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,DV Varghese,26f98ea3
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,Huzaif Yousuf,95e47073
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,Muhammed Turkmen,8e7e982c
+info,registry,people,Muhammet Kursat,dc53a969
+info,registry,people,Murat Ipek,86f471ae
+info,registry,people,Murat Yilmaz,f2990906
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,R Nath,126f1e28
+info,registry,people,Saim Hussain,d300d274
+info,registry,people,Zaid Soulat,14cbe9b7
+info,registry,people,Zain Asif,ef8eba13

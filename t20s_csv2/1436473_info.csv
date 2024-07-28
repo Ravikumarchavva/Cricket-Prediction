@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Isle of Man
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,3
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Isle of Man
+info,toss_decision,field
+info,umpire,I McDonald
+info,umpire,J Jensen
+info,reserve_umpire,Adeel Ashiq
+info,match_referee,G McCrea
+info,winner,France
+info,winner_runs,16
+info,player,France,H Niaz
+info,player,France,Zain Ahmad
+info,player,France,G Mckeon
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,Usman Khan
+info,player,France,Kamran Ahmadzai
+info,player,France,Noman Amjad
+info,player,France,Zaheer Zahiri
+info,player,France,Dawood Ahmadzai
+info,player,France,S Stanikzay
+info,player,Isle of Man,OJ Webster
+info,player,Isle of Man,S Barnett
+info,player,Isle of Man,EF Beard
+info,player,Isle of Man,A McAuley
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,H McAleer
+info,player,Isle of Man,CJ Langford
+info,player,Isle of Man,L Ward
+info,player,Isle of Man,JA Burrows
+info,player,Isle of Man,MJ Ansell
+info,player,Isle of Man,K Cawte
+info,registry,people,A McAuley,39e599c8
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,CJ Langford,3967b66f
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,EF Beard,68019a70
+info,registry,people,G Burrows,8bee668b
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,H McAleer,8b39d02a
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,JA Burrows,dba54d8e
+info,registry,people,K Cawte,a2dd9236
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,L Ward,98f33eed
+info,registry,people,MJ Ansell,6e60a792
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,OJ Webster,a69e2964
+info,registry,people,S Barnett,e09a869b
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zain Ahmad,ea2c0aff

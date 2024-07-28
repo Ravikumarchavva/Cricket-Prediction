@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,India
+info,gender,male
+info,season,2024
+info,date,2024/06/05
+info,event,ICC Men's T20 World Cup
+info,match_number,8
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,JJ Bumrah
+info,umpire,AG Wharf
+info,umpire,CB Gaffaney
+info,reserve_umpire,CM Brown
+info,tv_umpire,RA Kettleborough
+info,match_referee,DC Boon
+info,winner,India
+info,winner_wickets,8
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,GJ Delany
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,RR Pant
+info,player,India,SA Yadav
+info,player,India,S Dube
+info,player,India,HH Pandya
+info,player,India,RA Jadeja
+info,player,India,AR Patel
+info,player,India,JJ Bumrah
+info,player,India,Arshdeep Singh
+info,player,India,Mohammed Siraj
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B White,1a448be0
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GJ Delany,33b3d2df
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,V Kohli,ba607b88

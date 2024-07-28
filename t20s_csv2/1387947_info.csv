@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Greece
+info,team,Romania
+info,gender,female
+info,season,2023
+info,date,2023/08/05
+info,event,Women's Continental Cup
+info,match_number,4
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,A Savvani
+info,winner,Greece
+info,winner_runs,82
+info,player,Greece,A Argyropoulou
+info,player,Greece,A Savvani
+info,player,Greece,M Syrioti
+info,player,Greece,S Georgota
+info,player,Greece,A Makri
+info,player,Greece,T Parisi-mesimeri
+info,player,Greece,DS Vlachopoulou
+info,player,Greece,M Polimeri
+info,player,Greece,M Vervitsioti
+info,player,Greece,ST Varzakakou
+info,player,Greece,C Kanta
+info,player,Romania,A Dineshi
+info,player,Romania,RL Blake
+info,player,Romania,AEMP Durayalage
+info,player,Romania,CJ Ana
+info,player,Romania,M Chereches
+info,player,Romania,M Marin
+info,player,Romania,C Cirlig
+info,player,Romania,I Muntean
+info,player,Romania,S Tudorache
+info,player,Romania,S Moise
+info,player,Romania,R Andreea
+info,registry,people,A Argyropoulou,3f1bfd19
+info,registry,people,A Dineshi,42b0cc96
+info,registry,people,A Makri,98affc04
+info,registry,people,A Savvani,5d006a1a
+info,registry,people,AEMP Durayalage,0ead3a98
+info,registry,people,C Cirlig,9cfee623
+info,registry,people,C Kanta,96c936d7
+info,registry,people,CJ Ana,158a7d41
+info,registry,people,DS Vlachopoulou,5c884c17
+info,registry,people,I Muntean,9b88f80e
+info,registry,people,M Chereches,3af1511e
+info,registry,people,M Marin,2feef01b
+info,registry,people,M Polimeri,35ccd83f
+info,registry,people,M Syrioti,f9df0aa2
+info,registry,people,M Vervitsioti,6fd40892
+info,registry,people,R Andreea,75d2111a
+info,registry,people,RL Blake,e2b58daf
+info,registry,people,S Georgota,d07b6842
+info,registry,people,S Moise,074e37b9
+info,registry,people,S Tudorache,015ca83a
+info,registry,people,ST Varzakakou,9f17e86d
+info,registry,people,T Parisi-mesimeri,c002a904

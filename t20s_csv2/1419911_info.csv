@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Oman
+info,gender,female
+info,season,2023/24
+info,date,2024/02/10
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,6
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,M Yanagida
+info,umpire,Shivani Mishra
+info,umpire,Zahid Usman
+info,reserve_umpire,N Perera
+info,match_referee,Ramesh Menon
+info,winner,Japan
+info,winner_runs,14
+info,player,Japan,H Goto
+info,player,Japan,Erika Oda
+info,player,Japan,M Yanagida
+info,player,Japan,H Iwasaki
+info,player,Japan,A Chandel
+info,player,Japan,S Kato
+info,player,Japan,A Kano
+info,player,Japan,A Fujikawa
+info,player,Japan,K Ota
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,E Kusuda-Nairn
+info,player,Oman,SV Shetty
+info,player,Oman,N Joshi
+info,player,Oman,Javed Hina
+info,player,Oman,Sameera Khan
+info,player,Oman,PE Mendonca
+info,player,Oman,A Dcosta
+info,player,Oman,A Gunasekar
+info,player,Oman,Alifiya Sayed
+info,player,Oman,TB Pawde
+info,player,Oman,CM Saldanha
+info,player,Oman,SS Prabhu
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Dcosta,3a4d914f
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Gunasekar,b5223cb0
+info,registry,people,A Kano,e92841c0
+info,registry,people,Alifiya Sayed,81423620
+info,registry,people,CM Saldanha,aee1bc06
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,Javed Hina,a487762e
+info,registry,people,K Ota,211f48fe
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,N Joshi,cfece11f
+info,registry,people,N Perera,129709f9
+info,registry,people,PE Mendonca,70bab30b
+info,registry,people,Ramesh Menon,4ed80d22
+info,registry,people,S Kato,ef9ff861
+info,registry,people,SS Prabhu,7d2689c0
+info,registry,people,SV Shetty,db7a7301
+info,registry,people,Sameera Khan,237baa2c
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,TB Pawde,42d5be2e
+info,registry,people,Zahid Usman,5ee3b5bd

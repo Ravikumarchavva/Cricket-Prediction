@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Spain
+info,gender,male
+info,season,2024
+info,date,2024/04/14
+info,event,Jersey tour of Spain
+info,match_number,2
+info,venue,La Manga Club Top Ground
+info,city,Murcia
+info,toss_winner,Jersey
+info,toss_decision,bat
+info,umpire,MJ Chappell
+info,umpire,RL Stockton
+info,reserve_umpire,DJ Clark
+info,winner,Spain
+info,winner_wickets,1
+info,player,Jersey,H Carlyon
+info,player,Jersey,PB Gouge
+info,player,Jersey,ZM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,C Brennan
+info,player,Jersey,DG Blampied
+info,player,Jersey,J Sumerauer
+info,player,Jersey,CW Perchard
+info,player,Jersey,J Kemp
+info,player,Jersey,D Birrell
+info,player,Jersey,W Perchard
+info,player,Spain,Muhammad Yasin
+info,player,Spain,Yasir Ali
+info,player,Spain,D Doyle-Calle
+info,player,Spain,Hamza Dar
+info,player,Spain,LA Burns
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,C Munoz-Mills
+info,player,Spain,Atif Mehmood
+info,player,Spain,Mohammad Atif
+info,player,Spain,C Rumistrzewicz
+info,player,Spain,Muhammad Babar
+info,registry,people,Atif Mehmood,7fcc57bf
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,C Rumistrzewicz,3ed4e2ad
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,DJ Clark,d547fe55
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,Hamza Dar,557550a4
+info,registry,people,J Kemp,0ab42b8d
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,MJ Chappell,dfc007c0
+info,registry,people,Mohammad Atif,705b8c5c
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,Muhammad Babar,d54397b8
+info,registry,people,Muhammad Yasin,57888f3c
+info,registry,people,PB Gouge,fe2432c4
+info,registry,people,RL Stockton,6eb5f15e
+info,registry,people,W Perchard,511871c6
+info,registry,people,Yasir Ali,79209272
+info,registry,people,ZM Tribe,96fe3e9f

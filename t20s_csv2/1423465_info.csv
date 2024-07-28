@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Zimbabwe
+info,gender,female
+info,season,2023/24
+info,date,2024/03/08
+info,event,Women's African Games
+info,match_number,7
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,J Nkomo
+info,umpire,A Kassam
+info,umpire,IO Oyieko
+info,reserve_umpire,Habib Enesi
+info,match_referee,ET Dube
+info,winner,Zimbabwe
+info,winner_wickets,4
+info,player,Uganda,G Obukor
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,E Iloku
+info,player,Uganda,J Mbabazi
+info,player,Uganda,S Nampiina
+info,player,Uganda,R Musamali
+info,player,Uganda,K Awino
+info,player,Uganda,PE Kulume
+info,player,Uganda,S Walaza
+info,player,Uganda,C Aweko
+info,player,Uganda,L Anyait
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,SM Mayers
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,F Chipare
+info,player,Zimbabwe,P Marange
+info,player,Zimbabwe,N Sibanda
+info,registry,people,A Kassam,7d13b388
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,G Obukor,1b378842
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Anyait,cffeef53
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,PE Kulume,bb1a5f8a
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Walaza,f67ea6d2
+info,registry,people,SM Mayers,91d9613e

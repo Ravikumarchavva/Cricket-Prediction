@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Bahrain
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,event,ACC Men's Premier Cup
+info,match_number,1
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,Aqib Ilyas
+info,umpire,RMPJ Rambukwella
+info,umpire,S Ravi
+info,reserve_umpire,N D'Souza
+info,tv_umpire,VK Jha
+info,match_referee,Hamim Khan
+info,winner,Oman
+info,winner_runs,3
+info,player,Oman,KH Prajapati
+info,player,Oman,Naseem Khushi
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Rafiullah
+info,player,Oman,Khalid Kail
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,PS Athavale
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Sohail Ahmed
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Hamim Khan,f82540a3
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Khalid Kail,3ee90b67
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,N D'Souza,4b7f60af
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Zeeshan Maqsood,34464143

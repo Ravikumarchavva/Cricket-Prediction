@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Uganda
+info,gender,male
+info,season,2023/24
+info,date,2023/11/30
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,20
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,AR Ramjani
+info,umpire,F Mutizwa
+info,umpire,Lauren Agenbag
+info,reserve_umpire,Kehinde Olanbiwonnu
+info,match_referee,GH Pienaar
+info,winner,Uganda
+info,winner_wickets,9
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,E Kubwimana
+info,player,Uganda,S Sesazi
+info,player,Uganda,RB Patel
+info,player,Uganda,RG Mukasa
+info,player,Uganda,CN Kakuru
+info,player,Uganda,DM Nakrani
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,K Waiswa
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,B Masaba
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,AR Ramjani
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Kubwimana,bfc7799f
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,Z Bimenyimana,ba57fb08

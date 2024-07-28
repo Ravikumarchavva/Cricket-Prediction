@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Nigeria
+info,gender,female
+info,season,2023/24
+info,date,2024/03/13
+info,event,Women's African Games
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,player_of_match,S Sunday
+info,umpire,S Dambanevana
+info,umpire,S Lackay
+info,reserve_umpire,A Kassam
+info,match_referee,ET Dube
+info,winner,Nigeria
+info,winner_wickets,3
+info,player,Uganda,G Obukor
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,E Iloku
+info,player,Uganda,J Mbabazi
+info,player,Uganda,S Nampiina
+info,player,Uganda,R Musamali
+info,player,Uganda,K Awino
+info,player,Uganda,PE Kulume
+info,player,Uganda,S Walaza
+info,player,Uganda,L Anyait
+info,player,Uganda,C Aweko
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,P Agboya
+info,player,Nigeria,S Etim
+info,player,Nigeria,S Sunday
+info,player,Nigeria,A Igbobie
+info,player,Nigeria,L Piety
+info,player,Nigeria,L Udeh
+info,player,Nigeria,B Etim
+info,player,Nigeria,A Adekunle
+info,player,Nigeria,U Peace
+info,player,Nigeria,C Chukwuonye
+info,registry,people,A Adekunle,1b0ce76e
+info,registry,people,A Igbobie,8e75f2c7
+info,registry,people,A Kassam,7d13b388
+info,registry,people,B Etim,11d0079f
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,C Chukwuonye,bb0aac11
+info,registry,people,E Iloku,f1fa1c6b
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,G Obukor,1b378842
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,L Anyait,cffeef53
+info,registry,people,L Piety,46a29dd0
+info,registry,people,L Udeh,8451562a
+info,registry,people,P Agboya,532ddb12
+info,registry,people,PE Kulume,bb1a5f8a
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Etim,aa197946
+info,registry,people,S Lackay,d3a9aadd
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Sunday,594a0dec
+info,registry,people,S Walaza,f67ea6d2
+info,registry,people,U Peace,3798b336

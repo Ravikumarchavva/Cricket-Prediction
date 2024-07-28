@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,India
+info,gender,male
+info,season,2023/24
+info,date,2024/01/14
+info,event,Afghanistan tour of India
+info,match_number,2
+info,venue,"Holkar Cricket Stadium, Indore"
+info,city,Indore
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,AR Patel
+info,umpire,R Pandit
+info,umpire,VK Sharma
+info,reserve_umpire,HAS Khalid
+info,tv_umpire,J Madanagopal
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,6
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Noor Ahmad
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,India,YBK Jaiswal
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,S Dube
+info,player,India,JM Sharma
+info,player,India,RK Singh
+info,player,India,AR Patel
+info,player,India,Washington Sundar
+info,player,India,Ravi Bishnoi
+info,player,India,Arshdeep Singh
+info,player,India,Mukesh Kumar
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,Karim Janat,62175638
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,R Pandit,8a604384
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,V Kohli,ba607b88
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YBK Jaiswal,6c19c6e5

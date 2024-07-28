@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Zimbabwe
+info,gender,female
+info,season,2023/24
+info,date,2024/03/11
+info,event,Women's African Games
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Nigeria
+info,toss_decision,bat
+info,player_of_match,K Ndlovu
+info,umpire,IO Oyieko
+info,umpire,S Lackay
+info,reserve_umpire,Habib Enesi
+info,match_referee,ET Dube
+info,winner,Zimbabwe
+info,winner_wickets,5
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,E Sandy
+info,player,Nigeria,P Agboya
+info,player,Nigeria,S Sunday
+info,player,Nigeria,L Udeh
+info,player,Nigeria,L Piety
+info,player,Nigeria,B Etim
+info,player,Nigeria,S Etim
+info,player,Nigeria,C Chukwuonye
+info,player,Nigeria,A Adekunle
+info,player,Nigeria,U Peace
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,SM Mayers
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,P Marange
+info,player,Zimbabwe,L Mabhero
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,L Tshuma
+info,registry,people,A Adekunle,1b0ce76e
+info,registry,people,B Etim,11d0079f
+info,registry,people,C Chukwuonye,bb0aac11
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,E Sandy,59063d6b
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Piety,46a29dd0
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,L Udeh,8451562a
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,P Agboya,532ddb12
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,S Etim,aa197946
+info,registry,people,S Lackay,d3a9aadd
+info,registry,people,S Sunday,594a0dec
+info,registry,people,SM Mayers,91d9613e
+info,registry,people,U Peace,3798b336

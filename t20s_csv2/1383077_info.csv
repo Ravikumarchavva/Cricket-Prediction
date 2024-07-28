@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Italy
+info,gender,male
+info,season,2023
+info,date,2023/07/24
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,10
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Italy
+info,toss_decision,field
+info,player_of_match,OJ Hairs
+info,umpire,M Jameson
+info,umpire,R Black
+info,reserve_umpire,DA Haggo
+info,match_referee,Phil Whitticase
+info,winner,Scotland
+info,winner_runs,155
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,BJ McMullen
+info,player,Scotland,MA Leask
+info,player,Scotland,MH Cross
+info,player,Scotland,RD Berrington
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,GT Main
+info,player,Scotland,BJ Currie
+info,player,Italy,J Mosca
+info,player,Italy,BAD Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,WL Madsen
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,G Stewart
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,Jaspreet Singh
+info,player,Italy,CJPF Kalugamage
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,BAD Manenti,ab21795b
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,GT Main,4ebc70ca
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Black,156c8fb1
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,WL Madsen,86e0f3f0

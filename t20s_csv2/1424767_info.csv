@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Zimbabwe
+info,gender,male
+info,season,2023/24
+info,date,2024/03/23
+info,event,African Games
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,T Marumani
+info,umpire,A Kassam
+info,umpire,IO Oyieko
+info,reserve_umpire,S Lackay
+info,match_referee,O Chirombe
+info,winner,Zimbabwe
+info,winner_wickets,8
+info,player,Namibia,MB Kruger
+info,player,Namibia,N Davin
+info,player,Namibia,GJ van Rensburg
+info,player,Namibia,JP Kotze
+info,player,Namibia,DO Leicher
+info,player,Namibia,JC Balt
+info,player,Namibia,SPS Shikongo
+info,player,Namibia,H Klazinge
+info,player,Namibia,B Shikongo
+info,player,Namibia,PD Blignaut
+info,player,Namibia,JT Brassell
+info,player,Zimbabwe,R Mupfudza
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,J Campbell
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,O Muzondo
+info,player,Zimbabwe,T Gwandu
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,WT Mubayiwa
+info,player,Zimbabwe,K Macheka
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Munyonga
+info,registry,people,A Kassam,7d13b388
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,GJ van Rensburg,602db3d9
+info,registry,people,H Klazinge,e6bf8162
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Campbell,0e63259d
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,K Macheka,9124e5ee
+info,registry,people,MB Kruger,c51add25
+info,registry,people,N Davin,72e361fe
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Muzondo,ffc308ee
+info,registry,people,PD Blignaut,20ab5aad
+info,registry,people,R Mupfudza,f4417987
+info,registry,people,S Lackay,d3a9aadd
+info,registry,people,SPS Shikongo,4043e3b0
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,WT Mubayiwa,2343b4bf

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,Afghanistan
+info,gender,male
+info,season,2022/23
+info,date,2022/11/04
+info,event,ICC Men's T20 World Cup
+info,match_number,38
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,Afghanistan
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,Aleem Dar
+info,umpire,L Rusere
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,AT Holdstock
+info,match_referee,RS Madugalle
+info,winner,Australia
+info,winner_runs,4
+info,player,Australia,DA Warner
+info,player,Australia,C Green
+info,player,Australia,MR Marsh
+info,player,Australia,SPD Smith
+info,player,Australia,MP Stoinis
+info,player,Australia,GJ Maxwell
+info,player,Australia,MS Wade
+info,player,Australia,PJ Cummins
+info,player,Australia,KW Richardson
+info,player,Australia,A Zampa
+info,player,Australia,JR Hazlewood
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Usman Ghani
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Darwish Rasooli
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Mujeeb Ur Rahman
+info,player,Afghanistan,Fazalhaq Farooqi
+info,registry,people,A Zampa,14f96089
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,Darwish Rasooli,3b2114a5
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Mujeeb Ur Rahman,7d92277a
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SPD Smith,30a45b23
+info,registry,people,Usman Ghani,e3829b2a

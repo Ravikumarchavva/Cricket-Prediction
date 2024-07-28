@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brazil
+info,team,Argentina
+info,gender,female
+info,season,2023
+info,date,2023/09/07
+info,event,ICC Women's T20 World Cup Americas Region Qualifier
+info,match_number,6
+info,venue,"Woodley Cricket Field, Los Angeles"
+info,city,Los Angeles
+info,toss_winner,Argentina
+info,toss_decision,field
+info,player_of_match,RMAM Avery
+info,umpire,AR Maddela
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Emmerson Carrington
+info,match_referee,G McCrea
+info,winner,Brazil
+info,winner_runs,78
+info,player,Brazil,LV Boas
+info,player,Brazil,L Agatha
+info,player,Brazil,RMAM Avery
+info,player,Brazil,L Cardoso
+info,player,Brazil,RD de Sousa
+info,player,Brazil,CS Nascimento
+info,player,Brazil,MR Machado
+info,player,Brazil,NC Monteiro
+info,player,Brazil,MLG Silva
+info,player,Brazil,EC Muller
+info,player,Brazil,AC Sabino
+info,player,Argentina,L Taylor
+info,player,Argentina,A Galan
+info,player,Argentina,V Vasquez
+info,player,Argentina,M Martinez
+info,player,Argentina,A Stocks
+info,player,Argentina,M Castineiras
+info,player,Argentina,M Lollo
+info,player,Argentina,A Prince
+info,player,Argentina,JC Cullen
+info,player,Argentina,C Sosa
+info,player,Argentina,N Patron Fuentes
+info,registry,people,A Galan,ad5165c2
+info,registry,people,A Prince,da994dd7
+info,registry,people,A Stocks,c999c416
+info,registry,people,AC Sabino,dd45b04b
+info,registry,people,AR Maddela,5c861579
+info,registry,people,C Sosa,b2f4cb0d
+info,registry,people,CS Nascimento,df997334
+info,registry,people,EC Muller,e1461e39
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,G McCrea,46f4a901
+info,registry,people,JC Cullen,22595a2d
+info,registry,people,L Agatha,1aebb2fa
+info,registry,people,L Cardoso,5777d460
+info,registry,people,L Taylor,8af91a3e
+info,registry,people,LV Boas,3a00d34f
+info,registry,people,M Castineiras,b9094958
+info,registry,people,M Lollo,e6d1f4bb
+info,registry,people,M Martinez,f0ddeafb
+info,registry,people,MLG Silva,3b62a6b4
+info,registry,people,MR Machado,4a4f94fa
+info,registry,people,N Patron Fuentes,b29923b6
+info,registry,people,NC Monteiro,752af5a4
+info,registry,people,RD de Sousa,2901e489
+info,registry,people,RMAM Avery,4cf645c9
+info,registry,people,V Vasquez,f898a2c6
+info,registry,people,Vijaya Mallela,85b6244a

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Mongolia
+info,gender,male
+info,season,2024
+info,date,2024/05/08
+info,event,Mongolia tour of Japan
+info,match_number,2
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,K Kato-Stafford
+info,umpire,Adam Birss
+info,umpire,R Newman
+info,winner,Japan
+info,winner_runs,205
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,B Ito-Davis
+info,player,Japan,W Miyauchi
+info,player,Japan,S Ravichandran
+info,player,Japan,D Suzuki
+info,player,Japan,I Takahashi
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,K Kato-Stafford
+info,player,Japan,M Taniyama
+info,player,Japan,Abdul Samad
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,B Namsrai
+info,player,Mongolia,E Otgonbayar
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,H Upadhyay
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,T Sumiya
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,N Naranbaatar
+info,player,Mongolia,Z Shurentsetseg
+info,registry,people,Abdul Samad,21dbacff
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,B Ito-Davis,96275259
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,E Otgonbayar,3f9783fd
+info,registry,people,G Ganbold,947346d8
+info,registry,people,H Upadhyay,267cafb0
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,K Kato-Stafford,e03ca117
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,N Naranbaatar,b0e16d9b
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,R Newman,5a8f8619
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Sumiya,ae19375d
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,Z Shurentsetseg,45c6afaf

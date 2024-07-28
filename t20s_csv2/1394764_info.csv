@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,Hong Kong
+info,gender,female
+info,season,2023
+info,date,2023/09/03
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,14
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,KY Chan
+info,umpire,DN Subedi
+info,umpire,N Perera
+info,reserve_umpire,N Janani
+info,match_referee,M Nayyar
+info,winner,Hong Kong
+info,winner_wickets,8
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Maryam Omar
+info,player,Kuwait,B Shanti
+info,player,Kuwait,S Lita D'Sa
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,Maria Jasvi
+info,player,Kuwait,Iqra Ishaq
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,MBA Lamplough
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,SYD Chan
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,Iqra Ishaq,59c770e7
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryam Omar,b4d08794
+info,registry,people,N Janani,d06a665d
+info,registry,people,N Perera,129709f9
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,S Lita D'Sa,a289cfa0
+info,registry,people,SL Gomez,02264be0
+info,registry,people,SYD Chan,4839b023
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Y Daswani,2038a273
+info,registry,people,Zeefa Jilani,3f2b40f0

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Tanzania
+info,gender,male
+info,season,2022/23
+info,date,2022/12/22
+info,event,Tri-Nation T20 Cup (Rwanda)
+info,match_number,16
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,S Sesazi
+info,umpire,EH Dusabemungu
+info,umpire,Itangishaka Olivier
+info,reserve_umpire,Patric Makumbi
+info,winner,Uganda
+info,winner_runs,7
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,K Waiswa
+info,player,Uganda,CN Kakuru
+info,player,Uganda,P Murungi
+info,player,Uganda,C Kyewuta
+info,player,Uganda,B Masaba
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,F Nsubuga
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,J Baguma
+info,player,Tanzania,II Selemani
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AJ Jabiri
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,DA Mehta
+info,player,Tanzania,YM Nkanya
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,DA Mehta,61a7d6e9
+info,registry,people,EH Dusabemungu,ba3b4b09
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,J Baguma,8b46fc4f
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,YM Nkanya,9238dd92

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Cayman Islands
+info,gender,male
+info,season,2023/24
+info,date,2023/10/01
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,4
+info,venue,"White Hill Field, Sandys Parish"
+info,city,Hamilton
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,H Thaker
+info,umpire,JM Williams
+info,umpire,Jermaine Lindo
+info,reserve_umpire,Emmerson Carrington
+info,match_referee,Reon King
+info,winner,Canada
+info,winner_runs,108
+info,player,Canada,A Johnson
+info,player,Canada,NS Dhaliwal
+info,player,Canada,Pargat Singh
+info,player,Canada,H Thaker
+info,player,Canada,NR Kirton
+info,player,Canada,N Dutta
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Kaleem Sana
+info,player,Canada,JOA Gordon
+info,player,Canada,SA Wijeratne
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,P Heron
+info,player,Cayman Islands,P Manning
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,AF Ifill
+info,player,Cayman Islands,ROC Dunka
+info,player,Cayman Islands,P Chin
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,KA Bazil
+info,player,Cayman Islands,A Morris
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,A Morris,04cf2e94
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,H Thaker,c01d7726
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,JOA Gordon,bb9b51f4
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,KA Bazil,d22287a8
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,N Dutta,e258a603
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,P Chin,21267b60
+info,registry,people,P Heron,30b902a3
+info,registry,people,P Manning,f06b5585
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,ROC Dunka,762f43b7
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0

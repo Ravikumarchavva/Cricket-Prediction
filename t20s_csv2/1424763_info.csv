@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Namibia
+info,gender,male
+info,season,2023/24
+info,date,2024/03/20
+info,event,African Games
+info,match_number,12
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,B Shikongo
+info,umpire,I Chabi
+info,umpire,P Sizara
+info,reserve_umpire,S Lackay
+info,match_referee,O Chirombe
+info,winner,Namibia
+info,winner_wickets,7
+info,player,Tanzania,II Selemani
+info,player,Tanzania,J Masquater
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AJ Jabiri
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,JJ Nyambo
+info,player,Tanzania,YM Nkanya
+info,player,Namibia,MB Kruger
+info,player,Namibia,N Davin
+info,player,Namibia,GJ van Rensburg
+info,player,Namibia,JP Kotze
+info,player,Namibia,DO Leicher
+info,player,Namibia,SPS Shikongo
+info,player,Namibia,B Shikongo
+info,player,Namibia,JC Balt
+info,player,Namibia,H Klazinge
+info,player,Namibia,PD Blignaut
+info,player,Namibia,JT Brassell
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,GJ van Rensburg,602db3d9
+info,registry,people,H Klazinge,e6bf8162
+info,registry,people,I Chabi,5e39110e
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Masquater,f6d3cab2
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JJ Nyambo,ffb3b559
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,N Davin,72e361fe
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,PD Blignaut,20ab5aad
+info,registry,people,S Lackay,d3a9aadd
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SPS Shikongo,4043e3b0
+info,registry,people,YM Nkanya,9238dd92

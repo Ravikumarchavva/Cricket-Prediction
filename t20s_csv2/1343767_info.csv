@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Lesotho
+info,gender,male
+info,season,2022/23
+info,date,2022/11/25
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,28
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,umpire,A Paleker
+info,umpire,IO Oyieko
+info,reserve_umpire,Itangishaka Olivier
+info,match_referee,S Wadvalla
+info,outcome,no result
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,V Mitari
+info,player,Rwanda,K Irakoze
+info,player,Lesotho,TD Chaoana
+info,player,Lesotho,YYM Jakda
+info,player,Lesotho,Maaz Khan
+info,player,Lesotho,ME Leoela
+info,player,Lesotho,Sameer Patel
+info,player,Lesotho,TG Thamae
+info,player,Lesotho,C Tlali
+info,player,Lesotho,V Jayant
+info,player,Lesotho,LM Gabriel
+info,player,Lesotho,Waseem Yaqoob
+info,player,Lesotho,MV Matsau
+info,registry,people,A Paleker,634b11ac
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,C Tlali,70841eab
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,LM Gabriel,88a5adcf
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,ME Leoela,3b107df5
+info,registry,people,MV Matsau,dad64776
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Sameer Patel,2bae86b6
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,TG Thamae,d08fe309
+info,registry,people,V Jayant,6535cc7b
+info,registry,people,V Mitari,3a82673c
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Waseem Yaqoob,06b387f1
+info,registry,people,YYM Jakda,2e3dc859
+info,registry,people,Z Bimenyimana,ba57fb08

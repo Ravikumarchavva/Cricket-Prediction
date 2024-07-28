@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Japan
+info,gender,female
+info,season,2023/24
+info,date,2023/11/19
+info,event,Women's T20 Quadrangular Series (in Hong Kong)
+info,venue,Hong Kong Cricket Club
+info,city,Wong Nai Chung Gap
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,player_of_match,Puja Mahato
+info,umpire,Jayanth Babu
+info,umpire,Ramasamy Venkatesh
+info,match_referee,G Sankaranarayanan
+info,winner,Nepal
+info,winner_runs,45
+info,player,Nepal,Puja Mahato
+info,player,Nepal,SR Magar
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Roma Thapa
+info,player,Nepal,K Shrestha
+info,player,Nepal,A Karmacharya
+info,player,Nepal,K Dangol
+info,player,Nepal,S Pakhrin
+info,player,Nepal,B Rawal
+info,player,Nepal,Sangita Rai
+info,player,Japan,A Kano
+info,player,Japan,H Goto
+info,player,Japan,M Yanagida
+info,player,Japan,A Chandel
+info,player,Japan,Seika Sumi
+info,player,Japan,M Ogawa
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,A Fujikawa
+info,player,Japan,Nonoha Yasumoto
+info,player,Japan,E Kusuda-Nairn
+info,player,Japan,R Kanai
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,H Goto,b3af5bff
+info,registry,people,I Barma,521abce2
+info,registry,people,Jayanth Babu,e597f8e9
+info,registry,people,K Dangol,db080f9d
+info,registry,people,K Shrestha,119de50f
+info,registry,people,Kiyo Fujikawa,bb0dfa8c
+info,registry,people,M Ogawa,93d65d0f
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,R Kanai,54a3d69f
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,S Pakhrin,18377910
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Sangita Rai,ad580a96
+info,registry,people,Seika Sumi,704b4c30

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Rwanda
+info,gender,female
+info,season,2024
+info,date,2024/04/25
+info,event,BCA Kalahari Women's T20 International Tournament
+info,match_number,9
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Mozambique
+info,toss_decision,bat
+info,player_of_match,MD Bimenyimana
+info,umpire,J Mukandi
+info,umpire,ND Dhlamini
+info,reserve_umpire,R Nehonde
+info,winner,Rwanda
+info,winner_wickets,7
+info,player,Mozambique,IE Mulhovo
+info,player,Mozambique,FA Zavala
+info,player,Mozambique,AA Moiane
+info,player,Mozambique,O Mondlane
+info,player,Mozambique,R Haiong
+info,player,Mozambique,C Magaia
+info,player,Mozambique,I Chuma
+info,player,Mozambique,A Salomao
+info,player,Mozambique,AL Mundundo
+info,player,Mozambique,RO Mazumba
+info,player,Mozambique,L Chipanga
+info,player,Rwanda,MD Bimenyimana
+info,player,Rwanda,F Irakoze
+info,player,Rwanda,L Ufitinema
+info,player,Rwanda,G Ingabire
+info,player,Rwanda,H Ishimwe
+info,player,Rwanda,J Nyirankundineza
+info,player,Rwanda,Rosine Irera
+info,player,Rwanda,D Uwizeye
+info,player,Rwanda,N Nzayituriki
+info,player,Rwanda,R Shimwamana
+info,player,Rwanda,C Uwase
+info,registry,people,A Salomao,04e145f4
+info,registry,people,AA Moiane,80190078
+info,registry,people,AL Mundundo,c1edced9
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,C Uwase,808bb510
+info,registry,people,D Uwizeye,1cd03c09
+info,registry,people,F Irakoze,14f0a5e3
+info,registry,people,FA Zavala,2edfa6a8
+info,registry,people,G Ingabire,2c00691c
+info,registry,people,H Ishimwe,ffa296f7
+info,registry,people,I Chuma,b1021056
+info,registry,people,IE Mulhovo,ab750f1f
+info,registry,people,J Mukandi,b7954ae3
+info,registry,people,J Nyirankundineza,7e7d2fe5
+info,registry,people,L Chipanga,70722cc7
+info,registry,people,L Ufitinema,4c9f75f2
+info,registry,people,MD Bimenyimana,c1a0cebe
+info,registry,people,N Nzayituriki,78681948
+info,registry,people,ND Dhlamini,b82d94ff
+info,registry,people,O Mondlane,7f97139f
+info,registry,people,R Haiong,2832fbba
+info,registry,people,R Nehonde,4393e047
+info,registry,people,R Shimwamana,03fb10bd
+info,registry,people,RO Mazumba,2a753483
+info,registry,people,Rosine Irera,b84718fd

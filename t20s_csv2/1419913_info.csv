@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Maldives
+info,gender,female
+info,season,2023/24
+info,date,2024/02/10
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,8
+info,venue,"Selangor Turf Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Maldives
+info,toss_decision,field
+info,player_of_match,A Gurung
+info,umpire,L Poobalan
+info,umpire,Nur Hijrah
+info,match_referee,B Ramani
+info,winner,Bhutan
+info,winner_runs,94
+info,player,Bhutan,N Choden
+info,player,Bhutan,Y Choden
+info,player,Bhutan,T Zangmo
+info,player,Bhutan,K Dema
+info,player,Bhutan,D Wangmo
+info,player,Bhutan,S Choden
+info,player,Bhutan,A Gurung
+info,player,Bhutan,Sonam
+info,player,Bhutan,Chado Om
+info,player,Bhutan,Eva Somsel Yangzom
+info,player,Bhutan,Anjuli Ghalley
+info,player,Maldives,Nabaa Naseem
+info,player,Maldives,Sajaa Fathimath
+info,player,Maldives,Latsha Haleemath
+info,player,Maldives,Sumayya Abdul
+info,player,Maldives,Fathimath Malha
+info,player,Maldives,Hamza Niyaz
+info,player,Maldives,Hawwa Shaaiqa
+info,player,Maldives,Hafsaa Abdhulla
+info,player,Maldives,Aishath Meesa Rameez
+info,player,Maldives,Fathimath Anaal
+info,player,Maldives,Shamma Ali
+info,registry,people,A Gurung,10854c82
+info,registry,people,Aishath Meesa Rameez,659fc11f
+info,registry,people,Anjuli Ghalley,cfb49f67
+info,registry,people,B Ramani,92ad5353
+info,registry,people,Chado Om,f53fa89c
+info,registry,people,D Wangmo,760fcf65
+info,registry,people,Eva Somsel Yangzom,12cff704
+info,registry,people,Fathimath Anaal,e98606a2
+info,registry,people,Fathimath Malha,0c4c27d1
+info,registry,people,Hafsaa Abdhulla,7fa1e4a2
+info,registry,people,Hamza Niyaz,6795e49f
+info,registry,people,Hawwa Shaaiqa,46030558
+info,registry,people,K Dema,0b211a32
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Latsha Haleemath,2d99b12e
+info,registry,people,N Choden,a904600a
+info,registry,people,Nabaa Naseem,4f1208a8
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,S Choden,e1e0775d
+info,registry,people,Sajaa Fathimath,e793a951
+info,registry,people,Shamma Ali,012bd3f6
+info,registry,people,Sonam,09cbca15
+info,registry,people,Sumayya Abdul,a521ba3e
+info,registry,people,T Zangmo,b1f21c0f
+info,registry,people,Y Choden,6f17c546

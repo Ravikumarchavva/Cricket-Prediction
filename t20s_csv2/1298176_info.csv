@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Zimbabwe
+info,gender,male
+info,season,2022/23
+info,date,2022/11/06
+info,event,ICC Men's T20 World Cup
+info,match_number,42
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,SA Yadav
+info,umpire,RA Kettleborough
+info,umpire,RJ Tucker
+info,reserve_umpire,CM Brown
+info,tv_umpire,Aleem Dar
+info,match_referee,DC Boon
+info,winner,India
+info,winner_runs,71
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,RR Pant
+info,player,India,HH Pandya
+info,player,India,AR Patel
+info,player,India,R Ashwin
+info,player,India,B Kumar
+info,player,India,Mohammed Shami
+info,player,India,Arshdeep Singh
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,B Muzarabani
+info,registry,people,AR Patel,2e171977
+info,registry,people,Aleem Dar,f02778d1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Pant,919a3be2
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,V Kohli,ba607b88
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Israel
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Luxembourg
+info,toss_decision,bat
+info,player_of_match,E Solomon
+info,umpire,I McDonald
+info,umpire,WPM van Liemt
+info,reserve_umpire,J Jensen
+info,match_referee,G McCrea
+info,winner,Israel
+info,winner_wickets,2
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,T Martin
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,M Cope
+info,player,Luxembourg,P Malav
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,Milad Momend
+info,player,Israel,WSLK Narayana
+info,player,Israel,J Evans
+info,player,Israel,Niv Nagavkar
+info,player,Israel,E Solomon
+info,player,Israel,S Bangera
+info,player,Israel,E Bhonkar
+info,player,Israel,Y Divekar
+info,player,Israel,Virendra Kumar
+info,player,Israel,Yogev Nagavkar
+info,player,Israel,T Kahamker
+info,player,Israel,Elan Talker
+info,registry,people,A Nanda,704e0160
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,E Bhonkar,1dc3330f
+info,registry,people,E Solomon,8da9a284
+info,registry,people,Elan Talker,bb939fa3
+info,registry,people,G McCrea,46f4a901
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Evans,027662be
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Mees,ab1445ea
+info,registry,people,M Cope,c83c594d
+info,registry,people,Milad Momend,84880baf
+info,registry,people,Niv Nagavkar,e2abcf16
+info,registry,people,P Malav,02b078b1
+info,registry,people,S Bangera,856fc47a
+info,registry,people,SKS Gill,faef026c
+info,registry,people,T Kahamker,125853c3
+info,registry,people,T Martin,32e97806
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+info,registry,people,Virendra Kumar,20988564
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,WSLK Narayana,4d21a67a
+info,registry,people,Y Divekar,4e35e8ea
+info,registry,people,Yogev Nagavkar,c85bea6b

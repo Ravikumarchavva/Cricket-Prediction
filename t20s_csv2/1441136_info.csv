@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Kenya
+info,gender,male
+info,season,2024
+info,date,2024/07/01
+info,event,Twenty20 Quadrangular (in Kenya)
+info,match_number,5
+info,venue,"Sikh Union Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Kenya
+info,toss_decision,field
+info,player_of_match,S Singh
+info,umpire,D Odhiambo
+info,umpire,SJ Sanghani
+info,reserve_umpire,Asgarali Kassam
+info,winner,Kenya
+info,winner_wickets,9
+info,player,Malawi,D Kansonkho
+info,player,Malawi,G Kansonkho
+info,player,Malawi,Sami Sohail
+info,player,Malawi,A Limdawala
+info,player,Malawi,P Zuze
+info,player,Malawi,M Choamba
+info,player,Malawi,C Chete
+info,player,Malawi,D Jakiel
+info,player,Malawi,SZ Vayani
+info,player,Malawi,B Pondani
+info,player,Malawi,C Malaya
+info,player,Kenya,Tanzeel Sheikh
+info,player,Kenya,N Mugabe
+info,player,Kenya,S Singh
+info,player,Kenya,RR Patel
+info,player,Kenya,LN Oluoch
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,SR Bhudia
+info,player,Kenya,GM Muthui
+info,player,Kenya,SO Ngoche
+info,player,Kenya,Vraj Patel
+info,player,Kenya,F Mutua
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,Asgarali Kassam,88aaf2d7
+info,registry,people,B Pondani,e5117568
+info,registry,people,C Chete,ef4f539a
+info,registry,people,C Malaya,4f3f1ab7
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,D Odhiambo,45994517
+info,registry,people,F Mutua,21b67523
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Zuze,04420914
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SJ Sanghani,671e518d
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,Tanzeel Sheikh,5493ad5c
+info,registry,people,Vraj Patel,2af28253

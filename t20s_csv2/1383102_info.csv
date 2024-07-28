@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Myanmar
+info,gender,male
+info,season,2023
+info,date,2023/07/26
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,2
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Bhutan
+info,toss_decision,bat
+info,player_of_match,Tashi Phuntsho
+info,umpire,Ramasamy Venkatesh
+info,umpire,V Kalidas
+info,reserve_umpire,VG Rathi
+info,match_referee,JM Pereira
+info,winner,Bhutan
+info,winner_runs,31
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,Tashi Phuntsho
+info,player,Bhutan,K Ghalley
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,S Loday
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,S Chophel
+info,player,Bhutan,S Yeshi
+info,player,Bhutan,Karma Dorji
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,Y Naing Tun
+info,player,Myanmar,Nay Lin Htun
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,Aung Ko Ko
+info,registry,people,Aung Ko Ko,648d060e
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Ghalley,55d07946
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Karma Dorji,80058153
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,Nay Lin Htun,5319f95b
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Chophel,45f4af74
+info,registry,people,S Loday,448dab1a
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tashi Phuntsho,43d365ca
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Y Naing Tun,97b109d2

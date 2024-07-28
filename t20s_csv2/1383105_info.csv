@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Myanmar
+info,gender,male
+info,season,2023
+info,date,2023/07/28
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,5
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Myanmar
+info,toss_decision,field
+info,player_of_match,J Coetzee
+info,umpire,Ramasamy Venkatesh
+info,umpire,V Kalidas
+info,reserve_umpire,VG Rathi
+info,match_referee,JM Pereira
+info,winner,Thailand
+info,winner_runs,101
+info,player,Thailand,S Desungnoen
+info,player,Thailand,S Rungrueang
+info,player,Thailand,AP Yadav
+info,player,Thailand,N Nuntarach
+info,player,Thailand,J Coetzee
+info,player,Thailand,Robert Raina
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,P Suanchuai
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,N Senamontree
+info,player,Thailand,K Namchaikul
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,Y Naing Tun
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Nyeing Cham Soe
+info,player,Myanmar,Aung Ko Ko
+info,registry,people,AP Yadav,a5501504
+info,registry,people,Aung Ko Ko,648d060e
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Namchaikul,f4ccbe6f
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,Nyeing Cham Soe,45b5ce8d
+info,registry,people,P Suanchuai,e6948355
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Robert Raina,8e38d470
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,S Rungrueang,35ae9e8a
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Y Naing Tun,97b109d2

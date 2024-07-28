@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,West Indies
+info,gender,female
+info,season,2022/23
+info,date,2022/12/17
+info,event,England Women tour of West Indies
+info,match_number,3
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,CE Dean
+info,umpire,N Duguid
+info,umpire,PA Gustard
+info,tv_umpire,LS Reifer
+info,winner,England
+info,winner_runs,17
+info,player,England,L Winfield-Hill
+info,player,England,SIR Dunkley
+info,player,England,NR Sciver
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,AN Davidson-Richards
+info,player,England,ME Bouchier
+info,player,England,S Ecclestone
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,FR Davies
+info,player,West Indies,HK Matthews
+info,player,West Indies,AA Alleyne
+info,player,West Indies,Kycia A Knight
+info,player,West Indies,RS Williams
+info,player,West Indies,SA Campbelle
+info,player,West Indies,T Holder
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,S Gajnabi
+info,player,West Indies,CS Fraser
+info,player,West Indies,SS Grimmond
+info,player,West Indies,K Ramharack
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AN Davidson-Richards,35828bdd
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,CE Dean,c6625a26
+info,registry,people,CS Fraser,fb9a8cc3
+info,registry,people,FR Davies,2479daa6
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Kycia A Knight,552f664a
+info,registry,people,L Winfield-Hill,5230a33d
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,N Duguid,64495506
+info,registry,people,NR Sciver,f3a18a0c
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,RS Williams,406de451
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SS Grimmond,6bebf334
+info,registry,people,T Holder,41fd2907

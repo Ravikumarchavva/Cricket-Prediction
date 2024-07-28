@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,female
+info,season,2022/23
+info,date,2023/02/21
+info,event,ICC Women's T20 World Cup
+info,match_number,19
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,NR Sciver-Brunt
+info,umpire,Lauren Agenbag
+info,umpire,VG Rathi
+info,reserve_umpire,Eloise Sheridan
+info,tv_umpire,N Janani
+info,match_referee,GS Lakshmi
+info,winner,England
+info,winner_runs,114
+info,player,England,DN Wyatt
+info,player,England,SIR Dunkley
+info,player,England,A Capsey
+info,player,England,NR Sciver-Brunt
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,S Ecclestone
+info,player,England,KH Sciver-Brunt
+info,player,England,S Glenn
+info,player,England,CE Dean
+info,player,England,FR Davies
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Sidra Nawaz
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FR Davies,2479daa6
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,KH Sciver-Brunt,6a434bd3
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N Janani,d06a665d
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Sidra Nawaz,ca3ded6f
+info,registry,people,Tuba Hassan,0d56e9a5
+info,registry,people,Umaima Sohail,821d7d46
+info,registry,people,VG Rathi,144e5b16

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Papua New Guinea
+info,gender,male
+info,season,2023
+info,date,2023/07/29
+info,event,ICC Men's T20 World Cup East Asia-Pacific Qualifier
+info,match_number,12
+info,venue,"Amini Park, Port Moresby"
+info,city,Port Moresby
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,N Vanua
+info,umpire,PJ Gillespie
+info,umpire,SB Haig
+info,reserve_umpire,CA Polosak
+info,match_referee,WC Labrooy
+info,winner,Papua New Guinea
+info,winner_wickets,6
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,D Suzuki
+info,player,Japan,I Takahashi
+info,player,Japan,S Ravichandran
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,W Miyauchi
+info,player,Japan,T Takada
+info,player,Japan,P Kumbhare
+info,player,Japan,K Kubota
+info,player,Japan,R Drake
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,SI Kamea
+info,player,Papua New Guinea,J Kariko
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,J Kariko,cde067e1
+info,registry,people,K Doriga,365229a8
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,K Kubota,42581e6d
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,N Vanua,a36915ce
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,R Drake,57b3c398
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Bau,9a95bebb
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,SB Haig,811655b3
+info,registry,people,SI Kamea,0730a707
+info,registry,people,T Takada,bd3c364d
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,WC Labrooy,29d4e29b

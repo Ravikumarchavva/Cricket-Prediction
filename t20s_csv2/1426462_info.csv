@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Saudi Arabia
+info,gender,male
+info,season,2024
+info,date,2024/04/13
+info,event,ACC Men's Premier Cup
+info,match_number,8
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+info,city,Al Amarat
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,Ahmed Aqeel
+info,umpire,Morshed Ali Khan
+info,umpire,Tabarak Dar
+info,reserve_umpire,VK Jha
+info,tv_umpire,Abdul Jabbar
+info,match_referee,Hamim Khan
+info,winner,Malaysia
+info,winner_runs,12
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Nazmus Sakib
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Muhammad Wafiq
+info,player,Malaysia,Pavandeep Singh
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Kashif Abbas
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Ahmad Raza
+info,registry,people,Abdul Jabbar,3f4b9ae5
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmad Raza,6bfa638b
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Hamim Khan,f82540a3
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Kashif Abbas,63578359
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Muhammad Wafiq,f104c434
+info,registry,people,Nazmus Sakib,53967e23
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Zain Ul Abidin,b93b87ae

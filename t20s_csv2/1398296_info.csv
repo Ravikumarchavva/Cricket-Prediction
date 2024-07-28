@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Papua New Guinea
+info,gender,male
+info,season,2023
+info,date,2023/09/20
+info,event,Malaysia Tri-Nation T20I Series
+info,match_number,2
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,TP Ura
+info,umpire,Nasir Ali
+info,umpire,V Kalidas
+info,reserve_umpire,Rudy Ismandy
+info,match_referee,B Ramani
+info,winner,Papua New Guinea
+info,winner_runs,45
+info,method,D/L
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,C Smith
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,Rizwan Haider
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,SI Kamea
+info,player,Papua New Guinea,N Vanua
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,B Ramani,92ad5353
+info,registry,people,C Smith,c160db98
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,J Kariko,cde067e1
+info,registry,people,K Doriga,365229a8
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,N Vanua,a36915ce
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,R Hekure,c70448aa
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,SI Kamea,0730a707
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d

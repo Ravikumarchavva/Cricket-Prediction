@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Hong Kong
+info,gender,female
+info,season,2024
+info,date,2024/06/19
+info,event,Hong Kong Women tour of Netherlands
+info,match_number,4
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,R Rijke
+info,umpire,M Prabhudesa
+info,umpire,WPM van Liemt
+info,reserve_umpire,MA Din
+info,winner,Netherlands
+info,winner_runs,83
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,S Khurana
+info,player,Netherlands,CH van Koolwijk
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,C de Lange
+info,player,Netherlands,MM Dekeling
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,S Siegers
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,MBA Lamplough
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Joyleen Kaur
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,M Wai Siu
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CH van Koolwijk,27d5901c
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,Joyleen Kaur,8ea44a61
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,MA Din,3e285c0a
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,Maira Saleem,e3ae1e66
+info,registry,people,NT Miles,d27d0835
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Khurana,9a9a056d
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,WPM van Liemt,2bd48588

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Zimbabwe
+info,gender,male
+info,season,2023/24
+info,date,2023/10/30
+info,event,Zimbabwe tour of Namibia
+info,match_number,5
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,JJ Smit
+info,umpire,Claus Schumacher
+info,umpire,E Lassen
+info,reserve_umpire,A Louw
+info,winner,Namibia
+info,winner_runs,8
+info,player,Namibia,M van Lingen
+info,player,Namibia,N Davin
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JJ Smit
+info,player,Namibia,ZE Green
+info,player,Namibia,JP Kotze
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,BM Scholtz
+info,player,Namibia,H Klazinge
+info,player,Namibia,T Lungameni
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,NR Welch
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,A Ndlovu
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Ndlovu,3abe1ef6
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Madande,3560a786
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,H Klazinge,e6bf8162
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,NR Welch,74c6c6e0
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,TS Kamunhukamwe,4e1b4323
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,ZE Green,8716233e

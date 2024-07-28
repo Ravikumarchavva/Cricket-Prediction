@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Panama
+info,gender,male
+info,season,2023/24
+info,date,2023/10/03
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,5
+info,venue,"National Stadium, Hamilton"
+info,city,Hamilton
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,A Johnson
+info,umpire,Emmerson Carrington
+info,umpire,Jermaine Lindo
+info,reserve_umpire,Vijaya Mallela
+info,match_referee,Reon King
+info,winner,Canada
+info,winner_runs,163
+info,player,Canada,A Johnson
+info,player,Canada,NS Dhaliwal
+info,player,Canada,Pargat Singh
+info,player,Canada,H Thaker
+info,player,Canada,D Heyliger
+info,player,Canada,NR Kirton
+info,player,Canada,SA Wijeratne
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,N Dutta
+info,player,Canada,Kaleem Sana
+info,player,Canada,JOA Gordon
+info,player,Panama,LR Gaonkar
+info,player,Panama,M Sohel Patel
+info,player,Panama,Yusuf Ebrahim
+info,player,Panama,Mahmud Jasat
+info,player,Panama,N Ahir
+info,player,Panama,FL Patel
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,IIR Bhana
+info,player,Panama,JKC Ahir
+info,player,Panama,RDB Ahir
+info,player,Panama,Abdullah Jasat
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,Abdullah Jasat,5a42db78
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,FL Patel,e205ce8b
+info,registry,people,H Thaker,c01d7726
+info,registry,people,IIR Bhana,390721b3
+info,registry,people,JKC Ahir,3c5df172
+info,registry,people,JOA Gordon,bb9b51f4
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,LR Gaonkar,e51abd5e
+info,registry,people,M Sohel Patel,40a5bcf9
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,N Ahir,c2ecd4a7
+info,registry,people,N Dutta,e258a603
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Yusuf Ebrahim,2d5c6e88

@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Romania
+info,team,Isle of Man
+info,gender,female
+info,season,2023
+info,date,2023/08/04
+info,event,Women's Continental Cup
+info,match_number,3
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Isle of Man
+info,toss_decision,field
+info,player_of_match,L Barnett
+info,winner,Isle of Man
+info,winner_wickets,10
+info,player,Romania,A Dineshi
+info,player,Romania,RL Blake
+info,player,Romania,AEMP Durayalage
+info,player,Romania,CJ Ana
+info,player,Romania,M Chereches
+info,player,Romania,C Cirlig
+info,player,Romania,I Muntean
+info,player,Romania,C Sanda
+info,player,Romania,M Marin
+info,player,Romania,S Tudorache
+info,player,Romania,S Moise
+info,player,Isle of Man,L Barnett
+info,player,Isle of Man,K Carney
+info,player,Isle of Man,E Cleator
+info,player,Isle of Man,C Henery
+info,player,Isle of Man,R Webster
+info,player,Isle of Man,E Miller
+info,player,Isle of Man,A Thorpe
+info,player,Isle of Man,C Perry
+info,player,Isle of Man,B Murtagh
+info,player,Isle of Man,D Murphy
+info,player,Isle of Man,J Hicks
+info,registry,people,A Dineshi,42b0cc96
+info,registry,people,A Thorpe,6c54bd7a
+info,registry,people,AEMP Durayalage,0ead3a98
+info,registry,people,B Murtagh,7bd61c82
+info,registry,people,C Cirlig,9cfee623
+info,registry,people,C Henery,03d9e80f
+info,registry,people,C Perry,152d3c9d
+info,registry,people,C Sanda,164d706e
+info,registry,people,CJ Ana,158a7d41
+info,registry,people,D Murphy,c4f42529
+info,registry,people,E Cleator,9c94176e
+info,registry,people,E Miller,6e6c769e
+info,registry,people,I Muntean,9b88f80e
+info,registry,people,J Hicks,802febe2
+info,registry,people,K Carney,7097b37e
+info,registry,people,L Barnett,d9a2345a
+info,registry,people,M Chereches,3af1511e
+info,registry,people,M Marin,2feef01b
+info,registry,people,R Webster,cdfb59b8
+info,registry,people,RL Blake,e2b58daf
+info,registry,people,S Moise,074e37b9
+info,registry,people,S Tudorache,015ca83a

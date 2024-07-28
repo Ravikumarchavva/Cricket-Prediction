@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Malta
+info,gender,male
+info,season,2024
+info,date,2024/05/09
+info,event,Mdina Cup
+info,match_number,2
+info,venue,Dreux Sport Cricket Club
+info,city,Dreux
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,Dawood Ahmadzai
+info,winner,France
+info,winner_runs,86
+info,player,France,G Mckeon
+info,player,France,H Niaz
+info,player,France,Mukhtar Ghulami
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,Kamran Ahmadzai
+info,player,France,Usman Khan
+info,player,France,HA Jackson
+info,player,France,Dawood Ahmadzai
+info,player,France,Zaheer Zahiri
+info,player,France,S Stanikzay
+info,player,Malta,B George
+info,player,Malta,Zeeshan Khan
+info,player,Malta,SSM Stanislaus
+info,player,Malta,Jaspal Singh
+info,player,Malta,VP Thamotharam
+info,player,Malta,DR Patankar
+info,player,Malta,Fanyan Mughal
+info,player,Malta,B Arora
+info,player,Malta,C Sudarsanan
+info,player,Malta,Washeem Abbas
+info,player,Malta,J Shaju
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,DR Patankar,e661915c
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,SSM Stanislaus,34dd3fd9
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zeeshan Khan,3f9b1a96

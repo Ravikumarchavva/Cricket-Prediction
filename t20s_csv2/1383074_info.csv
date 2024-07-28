@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Austria
+info,gender,male
+info,season,2023
+info,date,2023/07/23
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,7
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,L Tucker
+info,umpire,DH Mclean
+info,umpire,M Jameson
+info,reserve_umpire,R Black
+info,match_referee,Phil Whitticase
+info,winner,Ireland
+info,winner_runs,128
+info,player,Ireland,GR Adair
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,NA Rock
+info,player,Ireland,GH Dockrell
+info,player,Ireland,C Campher
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,player,Austria,Iqbal Hossain
+info,player,Austria,M Simpson-Parker
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,A Randhawa
+info,player,Austria,Shahil Momin
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Mirza Ahsan
+info,player,Austria,MPS Cheema
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,Sahel Zadran
+info,player,Austria,A Nathwani
+info,registry,people,A Nathwani,f1c4f2ea
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,B White,1a448be0
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,DH Mclean,281d4749
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,GR Adair,4ec96094
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,Iqbal Hossain,e1824e7d
+info,registry,people,J Little,9061a703
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Simpson-Parker,fecd828e
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,Mirza Ahsan,6b74c13b
+info,registry,people,NA Rock,43f4087c
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Black,156c8fb1
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Shahil Momin,46821fbd

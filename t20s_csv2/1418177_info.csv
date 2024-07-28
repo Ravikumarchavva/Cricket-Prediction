@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cambodia
+info,team,China
+info,gender,male
+info,season,2023/24
+info,date,2024/01/28
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,2
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Cambodia
+info,toss_decision,bat
+info,player_of_match,S Godara
+info,umpire,MV Krishnakumar
+info,umpire,Osama Saad Alnadwi
+info,reserve_umpire,Dorji
+info,tv_umpire,N Sivan
+info,match_referee,G Sankaranarayanan
+info,winner,Cambodia
+info,winner_runs,93
+info,player,Cambodia,RR Sharan
+info,player,Cambodia,Manish Sharma
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,E Beukes
+info,player,Cambodia,S Godara
+info,player,Cambodia,Prasad Anish
+info,player,Cambodia,Phon Bunthean
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,GC Murtaza
+info,player,China,Zhuang Zelin
+info,player,China,Deng Jinqi
+info,player,China,Wei Guo Lei
+info,player,China,Huang Junjie
+info,player,China,Tian Sen Qun
+info,player,China,Chen Zhuo Yue
+info,player,China,Zou Kui
+info,player,China,Zhao Tianle
+info,player,China,Zong Yuechao
+info,player,China,Ma Qiancheng
+info,player,China,Luo Shilin
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,Deng Jinqi,871cf744
+info,registry,people,Dorji,a6b688ef
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,Huang Junjie,7a25958c
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,MV Krishnakumar,b99e3162
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,Manish Sharma,5473ec6f
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Osama Saad Alnadwi,a7e2fb32
+info,registry,people,Phon Bunthean,8981deb8
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,RR Sharan,7cff331d
+info,registry,people,S Godara,dd7dd27a
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Zhao Tianle,023c40b8
+info,registry,people,Zhuang Zelin,a03ee6e1
+info,registry,people,Zong Yuechao,f5932ad2
+info,registry,people,Zou Kui,d5ca4759

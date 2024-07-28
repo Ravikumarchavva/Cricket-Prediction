@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Germany
+info,gender,male
+info,season,2023
+info,date,2023/06/10
+info,event,Belgium tour of Germany
+info,match_number,3
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,Ghulam Ahmadi
+info,umpire,J Flannery
+info,umpire,M Jameson
+info,winner,Germany
+info,winner_wickets,4
+info,player,Belgium,A Raza
+info,player,Belgium,Faisal Mehmood
+info,player,Belgium,Omid Mailk Khel
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,B Niaz
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Shagharai Sefat
+info,player,Belgium,Murid Ekrami
+info,player,Belgium,Adnan Razzaq
+info,player,Germany,V Ganesan
+info,player,Germany,Mudassar Muhammad
+info,player,Germany,VB Chikkannaiah
+info,player,Germany,Shahid Afridi
+info,player,Germany,Sahir Naqash
+info,player,Germany,H Singh
+info,player,Germany,Sachin Mandy
+info,player,Germany,Abdul-Shakoor Rahimzei
+info,player,Germany,Muslim Yar
+info,player,Germany,SVE Bharathi
+info,player,Germany,Ghulam Ahmadi
+info,registry,people,A Raza,838bc6ab
+info,registry,people,Abdul-Shakoor Rahimzei,e45810ed
+info,registry,people,Adnan Razzaq,91c0d39f
+info,registry,people,B Niaz,b7824537
+info,registry,people,Faisal Mehmood,509a84de
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,J Flannery,22431c5a
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,Mudassar Muhammad,7dde58c9
+info,registry,people,Murid Ekrami,76b19864
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,Omid Mailk Khel,2d94751e
+info,registry,people,SVE Bharathi,6a63c29c
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,Shagharai Sefat,5e0bb751
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Shahid Afridi,5b2acc3f
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,VB Chikkannaiah,8e81b773

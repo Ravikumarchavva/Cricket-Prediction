@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Scotland
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,ICC Men's T20 World Cup
+info,match_number,20
+info,venue,"Sir Vivian Richards Stadium, North Sound, Antigua"
+info,city,North Sound
+info,toss_winner,Oman
+info,toss_decision,bat
+info,player_of_match,BJ McMullen
+info,umpire,A Paleker
+info,umpire,CM Brown
+info,reserve_umpire,AG Wharf
+info,tv_umpire,L Rusere
+info,match_referee,RB Richardson
+info,winner,Scotland
+info,winner_wickets,7
+info,player,Oman,PS Athavale
+info,player,Oman,Naseem Khushi
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Khalid Kail
+info,player,Oman,Ayan Khan
+info,player,Oman,Mehran Khan
+info,player,Oman,Rafiullah
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Kaleemullah
+info,player,Oman,Bilal Khan
+info,player,Scotland,HG Munsey
+info,player,Scotland,MA Jones
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CB Sole
+info,player,Scotland,BTJ Wheal
+info,player,Scotland,SM Sharif
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,CB Sole,469ccead
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,Khalid Kail,3ee90b67
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,MA Jones,05f96194
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Zeeshan Maqsood,34464143

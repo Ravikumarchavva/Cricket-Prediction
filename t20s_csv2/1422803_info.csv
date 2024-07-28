@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Qatar
+info,gender,male
+info,season,2023/24
+info,date,2024/02/29
+info,event,Hong Kong tour of Qatar
+info,match_number,2
+info,venue,University of Doha for Science and Technology
+info,city,Doha
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,Muhammad Tanveer
+info,umpire,Mohammad Nasim
+info,umpire,Riyaz Kurupkar
+info,reserve_umpire,Tahir Mehmood
+info,winner,Qatar
+info,winner_wickets,4
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Haroon Arshad
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,Dhananjay Rao
+info,player,Hong Kong,A Shukla
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,I Liyanage
+info,player,Qatar,MM Baig
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,Amir Farooq
+info,player,Qatar,H Rathod
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Muhammad Jabir
+info,player,Qatar,Musawar Shah
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Dhananjay Rao,6a11facf
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,H Rathod,1f943bef
+info,registry,people,Haroon Arshad,be0f9ce9
+info,registry,people,I Liyanage,826e1017
+info,registry,people,M Coetzee,3f149080
+info,registry,people,MM Baig,add288ea
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Musawar Shah,d482c8b8
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Riyaz Kurupkar,3ebebb18
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Tahir Mehmood,3b6e4c78
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Oman
+info,gender,male
+info,season,2023/24
+info,date,2023/11/03
+info,event,ICC Men's T20 World Cup Asia Qualifier Final
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Bahrain
+info,toss_decision,bat
+info,player_of_match,Aqib Ilyas
+info,umpire,BB Pradhan
+info,umpire,LE Hannibal
+info,reserve_umpire,Sarika Prasad
+info,match_referee,Ali Naqvi
+info,winner,Oman
+info,winner_wickets,10
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Ali Dawood
+info,player,Oman,KH Prajapati
+info,player,Oman,PS Athavale
+info,player,Oman,Ayan Khan
+info,player,Oman,Bilal Khan
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Mehran Khan
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Naseem Khushi
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Zeeshan Maqsood
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Zeeshan Maqsood,34464143

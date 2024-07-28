@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,female
+info,season,2023/24
+info,date,2023/10/02
+info,event,West Indies Women tour of Australia
+info,match_number,2
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,HK Matthews
+info,umpire,BC Treloar
+info,umpire,Eloise Sheridan
+info,reserve_umpire,CA Polosak
+info,tv_umpire,PJ Gillespie
+info,match_referee,Kent Hannam
+info,winner,West Indies
+info,winner_wickets,7
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,TM McGrath
+info,player,Australia,EA Perry
+info,player,Australia,A Gardner
+info,player,Australia,P Litchfield
+info,player,Australia,A Sutherland
+info,player,Australia,G Wareham
+info,player,Australia,JL Jonassen
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,player,West Indies,HK Matthews
+info,player,West Indies,S Gajnabi
+info,player,West Indies,SR Taylor
+info,player,West Indies,CA Henry
+info,player,West Indies,SA Campbelle
+info,player,West Indies,RS Williams
+info,player,West Indies,AA Alleyne
+info,player,West Indies,Z James
+info,player,West Indies,SS Connell
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,K Ramharack
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AJ Healy,321644de
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,CA Henry,75820733
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,D Brown,2e81be88
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,RS Williams,406de451
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Z James,816af623

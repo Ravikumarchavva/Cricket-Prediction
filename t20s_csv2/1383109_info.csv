@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,China
+info,gender,male
+info,season,2023
+info,date,2023/07/31
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,9
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,China
+info,toss_decision,field
+info,player_of_match,Chen Zhuo Yue
+info,umpire,V Kalidas
+info,umpire,VG Rathi
+info,reserve_umpire,Ramasamy Venkatesh
+info,match_referee,JM Pereira
+info,winner,China
+info,winner_wickets,5
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,Y Naing Tun
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Nyeing Cham Soe
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,Myat Thu Aung
+info,player,China,Wei Guo Lei
+info,player,China,Zhuang Zelin
+info,player,China,Xie Kunkun
+info,player,China,Wang Liuyang
+info,player,China,Tian Sen Qun
+info,player,China,Chen Zhuo Yue
+info,player,China,Wang Qi
+info,player,China,Yin Chenhao
+info,player,China,Ma Qiancheng
+info,player,China,Luo Shilin
+info,player,China,Zou Kui
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,Myat Thu Aung,cebbf3c9
+info,registry,people,Nyeing Cham Soe,45b5ce8d
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Wang Liuyang,f3c217a9
+info,registry,people,Wang Qi,12c9c558
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Xie Kunkun,1ebfbbe4
+info,registry,people,Y Naing Tun,97b109d2
+info,registry,people,Yin Chenhao,68408eff
+info,registry,people,Zhuang Zelin,a03ee6e1
+info,registry,people,Zou Kui,d5ca4759

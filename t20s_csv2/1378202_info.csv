@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Ireland
+info,gender,female
+info,season,2023
+info,date,2023/08/17
+info,event,Ireland Women tour of Netherlands
+info,match_number,3
+info,venue,"VRA Ground, Amstelveen"
+info,city,Amstelveen
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,R Stokell
+info,umpire,J Westerberg
+info,umpire,Rizwan Akram
+info,reserve_umpire,WPM van Liemt
+info,match_referee,Adriaan van den Dries
+info,winner,Ireland
+info,winner_wickets,6
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,C de Lange
+info,player,Netherlands,MM Dekeling
+info,player,Netherlands,CH van Koolwijk
+info,player,Netherlands,I van der Woning
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Delany
+info,player,Ireland,R Stokell
+info,player,Ireland,J Maguire
+info,player,Ireland,FA Sargent
+info,player,Ireland,S MacMahon
+info,player,Ireland,L Little
+info,player,Ireland,G Dempsey
+info,player,Ireland,AN Kelly
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AN Kelly,397369e0
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CH van Koolwijk,27d5901c
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,FA Sargent,fa6e2cb3
+info,registry,people,G Dempsey,940feccc
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,I van der Woning,5aa8574b
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,J Westerberg,eaad0353
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Little,4f86926b
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,R Rijke,42e4b276
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S MacMahon,ef2bcebf
+info,registry,people,WPM van Liemt,2bd48588

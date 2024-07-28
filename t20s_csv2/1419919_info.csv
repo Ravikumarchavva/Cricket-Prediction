@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,China
+info,team,Japan
+info,gender,female
+info,season,2023/24
+info,date,2024/02/11
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,14
+info,venue,"Royal Selangor Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,China
+info,toss_decision,bat
+info,player_of_match,A Chandel
+info,umpire,Ramasamy Venkatesh
+info,umpire,Zahid Usman
+info,reserve_umpire,Nur Hijrah
+info,match_referee,Edwin Seah
+info,winner,Japan
+info,winner_wickets,4
+info,player,China,Sun Meng Yao
+info,player,China,Zi Mei
+info,player,China,Han Lili
+info,player,China,Huang Zhuo
+info,player,China,M Zhu
+info,player,China,Zheng Lili
+info,player,China,Wenjing Yin
+info,player,China,Zhi Xinyu
+info,player,China,Mengting Liu
+info,player,China,Xu Qian
+info,player,China,Yang Yu Xuan
+info,player,Japan,H Goto
+info,player,Japan,Erika Oda
+info,player,Japan,S Kato
+info,player,Japan,M Yanagida
+info,player,Japan,H Iwasaki
+info,player,Japan,A Chandel
+info,player,Japan,K Ota
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,A Kano
+info,player,Japan,A Fujikawa
+info,player,Japan,Nonoha Yasumoto
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,Han Lili,cd7134f5
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,K Ota,211f48fe
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,M Zhu,36c3302e
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Kato,ef9ff861
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,Wenjing Yin,1342d7f6
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yang Yu Xuan,1d5273c9
+info,registry,people,Zahid Usman,5ee3b5bd
+info,registry,people,Zheng Lili,9c2bb7da
+info,registry,people,Zhi Xinyu,78ac71b0
+info,registry,people,Zi Mei,72070f05

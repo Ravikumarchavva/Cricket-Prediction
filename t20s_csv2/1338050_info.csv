@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Australia
+info,gender,female
+info,season,2022/23
+info,date,2023/02/16
+info,event,ICC Women's T20 World Cup
+info,match_number,11
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,AJ Healy
+info,umpire,AY Harris
+info,umpire,JM Williams
+info,reserve_umpire,S Redfern
+info,tv_umpire,Kim Cotton
+info,match_referee,GS Lakshmi
+info,winner,Australia
+info,winner_wickets,10
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,KADA Kanchana
+info,player,Sri Lanka,M Shehani
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,I Ranaweera
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,MM Lanning
+info,player,Australia,A Gardner
+info,player,Australia,EA Perry
+info,player,Australia,TM McGrath
+info,player,Australia,GM Harris
+info,player,Australia,G Wareham
+info,player,Australia,A King
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AJ Healy,321644de
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,D Brown,2e81be88
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GM Harris,72166006
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,KADA Kanchana,4ac6664d
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,M Shehani,e04fb55d
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,S Redfern,5b038989
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,WGAKK Kulasuriya,550373ea

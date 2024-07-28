@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Gibraltar
+info,gender,male
+info,season,2023/24
+info,date,2023/10/05
+info,event,Serbia tour of Gibraltar
+info,match_number,1
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Gibraltar
+info,toss_decision,field
+info,player_of_match,BA Pai
+info,umpire,A Elliott
+info,umpire,R Cunningham
+info,winner,Gibraltar
+info,winner_wickets,7
+info,player,Serbia,A Dizija
+info,player,Serbia,S Ivetic
+info,player,Serbia,LA Dunbar
+info,player,Serbia,WAE Burton
+info,player,Serbia,J Reb
+info,player,Serbia,N Zimonjic
+info,player,Serbia,AA Gajic
+info,player,Serbia,D Tresac
+info,player,Serbia,M Sarenac
+info,player,Serbia,A Djorovic
+info,player,Serbia,P Nedeljkovic
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,JD Freyone
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,K Mirpuri
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Djorovic,677c18f9
+info,registry,people,A Elliott,f48d5563
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,AA Gajic,a768a762
+info,registry,people,BA Pai,716bf559
+info,registry,people,D Tresac,6d9aa10a
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,J Reb,880eca04
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,JD Freyone,7cd7eb50
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,P Nedeljkovic,87e87dd2
+info,registry,people,R Cunningham,6779e840
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Ivetic,04ab1575
+info,registry,people,WAE Burton,b0358c6d

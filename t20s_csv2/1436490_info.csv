@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Romania
+info,team,Israel
+info,gender,male
+info,season,2024
+info,date,2024/06/15
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,20
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Israel
+info,toss_decision,field
+info,player_of_match,Taranjeet Singh
+info,umpire,Adeel Ashiq
+info,umpire,MJ Saggers
+info,reserve_umpire,WPM van Liemt
+info,match_referee,G McCrea
+info,winner,Romania
+info,winner_runs,24
+info,player,Romania,Taranjeet Singh
+info,player,Romania,A Rajshekara
+info,player,Romania,Muhammad Moiz
+info,player,Romania,V Saini
+info,player,Romania,Rameez Khan
+info,player,Romania,S Nadigotla
+info,player,Romania,S Vashisht
+info,player,Romania,Ali Hussain
+info,player,Romania,R Athapaththu
+info,player,Romania,P Hingorani
+info,player,Romania,M Koli
+info,player,Israel,WSLK Narayana
+info,player,Israel,S Bangera
+info,player,Israel,Niv Nagavkar
+info,player,Israel,J Evans
+info,player,Israel,E Solomon
+info,player,Israel,Yair Nagavkar
+info,player,Israel,LSP Siriwardene
+info,player,Israel,Virendra Kumar
+info,player,Israel,Aviel Warsulkar
+info,player,Israel,T Kahamker
+info,player,Israel,Elan Talker
+info,registry,people,A Rajshekara,1f3e41fe
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Ali Hussain,b8fe81be
+info,registry,people,Aviel Warsulkar,5b7efabe
+info,registry,people,E Solomon,8da9a284
+info,registry,people,Elan Talker,bb939fa3
+info,registry,people,G McCrea,46f4a901
+info,registry,people,J Evans,027662be
+info,registry,people,LSP Siriwardene,f2637e05
+info,registry,people,M Koli,eb0f2802
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,Niv Nagavkar,e2abcf16
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,R Athapaththu,3465e307
+info,registry,people,Rameez Khan,ee86a890
+info,registry,people,S Bangera,856fc47a
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,T Kahamker,125853c3
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719
+info,registry,people,Virendra Kumar,20988564
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,WSLK Narayana,4d21a67a
+info,registry,people,Yair Nagavkar,138e30ab

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,New Zealand
+info,gender,male
+info,season,2024
+info,date,2024/06/14
+info,event,ICC Men's T20 World Cup
+info,match_number,32
+info,venue,"Brian Lara Stadium, Tarouba, Trinidad"
+info,city,Tarouba
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,TG Southee
+info,umpire,PR Reiffel
+info,umpire,RK Illingworth
+info,reserve_umpire,Ahsan Raza
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,DC Boon
+info,winner,New Zealand
+info,winner_wickets,9
+info,player,Uganda,RB Patel
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Obuya
+info,player,Uganda,AR Ramjani
+info,player,Uganda,K Waiswa
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,B Masaba
+info,player,Uganda,F Achelam
+info,player,Uganda,J Miyaji
+info,player,Uganda,C Kyewuta
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,TG Southee
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,DP Conway,df5a6881
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RK Illingworth,20672246
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e

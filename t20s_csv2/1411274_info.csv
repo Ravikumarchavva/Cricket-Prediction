@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Tanzania
+info,gender,female
+info,season,2023/24
+info,date,2023/12/16
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,R Musamali
+info,umpire,N Perera
+info,umpire,P Sizara
+info,reserve_umpire,S Dambanevana
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_runs,10
+info,player,Uganda,K Awino
+info,player,Uganda,P Alako
+info,player,Uganda,J Mbabazi
+info,player,Uganda,S Nampiina
+info,player,Uganda,R Musamali
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,C Aweko
+info,player,Uganda,E Anyipo
+info,player,Uganda,M Ariokot
+info,player,Uganda,L Anyait
+info,player,Uganda,S Akiteng
+info,player,Tanzania,S Mtae
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,M Pascal
+info,player,Tanzania,HM Omary
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,A Mohamed
+info,player,Tanzania,AS Qwele
+info,player,Tanzania,SF Jerome
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,MH Ushanga
+info,registry,people,A Mohamed,86a68879
+info,registry,people,AS Qwele,26b3df21
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,L Anyait,cffeef53
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,M Pascal,729c5ab5
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,N Perera,129709f9
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mtae,bb641155
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,SF Jerome,e393c6c1
+info,registry,people,SH Mohamedi,10ab6a37

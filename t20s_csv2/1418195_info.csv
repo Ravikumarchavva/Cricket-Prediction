@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Cambodia
+info,gender,male
+info,season,2023/24
+info,date,2024/02/09
+info,event,Asian Cricket Council Men's Challenger Cup
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,RR Sharan
+info,umpire,Samad Akbar
+info,umpire,V Kalidas
+info,reserve_umpire,IGS Arsa
+info,tv_umpire,Dorji
+info,match_referee,Iftikhar Ahmed
+info,winner,Cambodia
+info,winner_wickets,6
+info,player,Singapore,Aman Desai
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Rohan
+info,player,Singapore,AE Paraam
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Avi Dixit
+info,player,Singapore,R Sharma
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,AR Puri
+info,player,Singapore,S Banamali
+info,player,Singapore,R Kalimuthu
+info,player,Cambodia,Salvin Stanly
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,RR Sharan
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,E Beukes
+info,player,Cambodia,GC Murtaza
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,Prasad Anish
+info,player,Cambodia,Phon Bunthean
+info,player,Cambodia,S Godara
+info,registry,people,AE Paraam,b56f5b6f
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Avi Dixit,cf17c429
+info,registry,people,Dorji,a6b688ef
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,IGS Arsa,68d52634
+info,registry,people,Iftikhar Ahmed,973d561e
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,Phon Bunthean,8981deb8
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Rohan,baf0fc26
+info,registry,people,R Sharma,2278c4ca
+info,registry,people,RR Sharan,7cff331d
+info,registry,people,S Banamali,4d9dfc7f
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,S Godara,dd7dd27a
+info,registry,people,Salvin Stanly,a6631b55
+info,registry,people,Samad Akbar,f05bd21b
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,V Kalidas,42d76418

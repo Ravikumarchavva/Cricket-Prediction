@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Malawi
+info,gender,female
+info,season,2024
+info,date,2024/06/01
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,9
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,F Odhiambo
+info,umpire,D Hagenimana
+info,umpire,TJ Onikoyi
+info,reserve_umpire,Gasana Christian
+info,winner,Kenya
+info,winner_runs,32
+info,player,Kenya,Q Abel
+info,player,Kenya,E Wachira
+info,player,Kenya,V Abuga
+info,player,Kenya,V Ooko
+info,player,Kenya,L Idambo
+info,player,Kenya,C Muthoni
+info,player,Kenya,A Wanjira
+info,player,Kenya,JS Ndanu
+info,player,Kenya,M Juma
+info,player,Kenya,F Odhiambo
+info,player,Kenya,J Ogolla
+info,player,Malawi,P Maziya
+info,player,Malawi,S Chinawa
+info,player,Malawi,T Luka
+info,player,Malawi,LL Dimba
+info,player,Malawi,S Kananji
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,M Kudimba
+info,player,Malawi,A Alfonso
+info,player,Malawi,V Phiri
+info,player,Malawi,T Chabila
+info,player,Malawi,L Malino
+info,registry,people,A Alfonso,5088c217
+info,registry,people,A Wanjira,b6015231
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,D Hagenimana,de167462
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,J Ogolla,a518b6c9
+info,registry,people,JS Ndanu,c27e0638
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,L Idambo,27339093
+info,registry,people,L Malino,7a81836e
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,M Juma,d5f3e608
+info,registry,people,M Kudimba,24ce1fcb
+info,registry,people,P Maziya,4f85f02c
+info,registry,people,Q Abel,2e988457
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,T Chabila,f18b67a3
+info,registry,people,T Luka,44e008a5
+info,registry,people,TJ Onikoyi,b68d9bc6
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Ooko,2ae76bf6
+info,registry,people,V Phiri,8ffa1b3c

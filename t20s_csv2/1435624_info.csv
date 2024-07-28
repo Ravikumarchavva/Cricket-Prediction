@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Cameroon
+info,gender,female
+info,season,2024
+info,date,2024/05/31
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,6
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,T Shadrack
+info,umpire,Gasana Christian
+info,umpire,R Singinzwa
+info,reserve_umpire,Gaston Niyibizi
+info,winner,Botswana
+info,winner_runs,44
+info,player,Botswana,O Kgeresi
+info,player,Botswana,L Mophakedi
+info,player,Botswana,T Shadrack
+info,player,Botswana,S Mosweu
+info,player,Botswana,P Mapotsane
+info,player,Botswana,G Matome
+info,player,Botswana,W Moutswi
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,K Inakale
+info,player,Botswana,A Letuba
+info,player,Botswana,A Motorwala
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,JAN Ngono
+info,player,Cameroon,CD Mboe
+info,player,Cameroon,B Waluma
+info,player,Cameroon,O Ranedoumoun
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,SA Nono
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,CN Messina
+info,player,Cameroon,E Guehoada
+info,registry,people,A Letuba,6c712276
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,A Motorwala,7b309c8a
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,CD Mboe,14198941
+info,registry,people,CN Messina,1afd0d5c
+info,registry,people,E Guehoada,8c03f3b8
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,G Matome,a6898f7a
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,JAN Ngono,0bc162c4
+info,registry,people,K Inakale,eea862f6
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,O Ranedoumoun,71ee8c8d
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Mosweu,10726a80
+info,registry,people,SA Nono,f6019e5d
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,W Moutswi,e8c42000

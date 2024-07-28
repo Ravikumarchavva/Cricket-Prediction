@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Vanuatu
+info,gender,female
+info,season,2024
+info,date,2024/04/27
+info,event,ICC Women's T20 World Cup Qualifier
+info,match_number,5
+info,venue,"Tolerance Oval, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,SL Kalis
+info,umpire,L McCabe
+info,umpire,SB Haig
+info,reserve_umpire,LDVV Silva
+info,match_referee,SM Bartlett
+info,winner,Netherlands
+info,winner_runs,100
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,C de Lange
+info,player,Netherlands,S Siegers
+info,player,Netherlands,MM Dekeling
+info,player,Vanuatu,R Andrew
+info,player,Vanuatu,V Langiatu
+info,player,Vanuatu,N Navaika
+info,player,Vanuatu,S Solman
+info,player,Vanuatu,A Chilia
+info,player,Vanuatu,M Carlot
+info,player,Vanuatu,L Chilia
+info,player,Vanuatu,G Chilia
+info,player,Vanuatu,V Mansale
+info,player,Vanuatu,V Vira
+info,player,Vanuatu,M Tarimiala
+info,registry,people,A Chilia,a0d07fd6
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,G Chilia,daf255ce
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,L Chilia,87ac786c
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,M Carlot,dac46b52
+info,registry,people,M Tarimiala,0030a57d
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,N Navaika,b0023708
+info,registry,people,R Andrew,66c1accf
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,S Solman,24ed1f75
+info,registry,people,SB Haig,811655b3
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,V Langiatu,fdd18ca0
+info,registry,people,V Mansale,7163637f
+info,registry,people,V Vira,94271647

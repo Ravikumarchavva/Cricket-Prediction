@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Sweden
+info,gender,male
+info,season,2024
+info,date,2024/07/08
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,4
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,Walid Ghauri
+info,umpire,Jonathan Kennedy
+info,umpire,Rizwan Akram
+info,reserve_umpire,M Jameson
+info,match_referee,H Pack
+info,winner,Norway
+info,winner_runs,53
+info,player,Norway,Raza Iqbal
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Walid Ghauri
+info,player,Norway,Mandeep Singh
+info,player,Norway,Ali Saleem
+info,player,Norway,Javed Maroofkhail
+info,player,Norway,Wahidullah Sahak
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,AJ Parmar
+info,player,Norway,Ahmadullah Shinwari
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Choudry Share Ali
+info,player,Sweden,Zabiullah Zahid
+info,player,Sweden,A Mundra
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,SKR Mallidi
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,Zaker Taqawi
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Ahmadullah Shinwari,e068d48e
+info,registry,people,Ali Saleem,661e8a03
+info,registry,people,Choudry Share Ali,5c037734
+info,registry,people,H Pack,fed53c91
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Javed Maroofkhail,909d9fac
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,Mandeep Singh,dc39e9ab
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,SKR Mallidi,74d82e24
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Wahidullah Sahak,6913e38e
+info,registry,people,Walid Ghauri,331e137f
+info,registry,people,Zabiullah Zahid,6d024ce3
+info,registry,people,Zaker Taqawi,d7074ddc
