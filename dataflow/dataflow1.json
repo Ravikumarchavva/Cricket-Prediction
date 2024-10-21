@@ -21,6 +21,10 @@
 			],
 			"sinks": [
 				{
+					"dataset": {
+						"referenceName": "joinedData",
+						"type": "DatasetReference"
+					},
 					"name": "sink1"
 				}
 			],
