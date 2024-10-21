@@ -1,0 +1,68 @@
+{
+	"name": "matches",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "matches.csv",
+				"container": "historicaldata"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "team1",
+				"type": "String"
+			},
+			{
+				"name": "team2",
+				"type": "String"
+			},
+			{
+				"name": "gender",
+				"type": "String"
+			},
+			{
+				"name": "season",
+				"type": "String"
+			},
+			{
+				"name": "date",
+				"type": "String"
+			},
+			{
+				"name": "venue",
+				"type": "String"
+			},
+			{
+				"name": "city",
+				"type": "String"
+			},
+			{
+				"name": "toss_winner",
+				"type": "String"
+			},
+			{
+				"name": "toss_decision",
+				"type": "String"
+			},
+			{
+				"name": "winner",
+				"type": "String"
+			},
+			{
+				"name": "match_id",
+				"type": "String"
+			}
+		]
+	}
+}
