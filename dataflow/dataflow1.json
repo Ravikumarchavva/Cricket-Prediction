@@ -77,7 +77,7 @@
 				"     allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     ignoreNoFilesFound: false) ~> matches",
-				"deliveries, matches join(ERROR_FUNCTION('') == ERROR_FUNCTION(''),",
+				"deliveries, matches join(deliveries@match_id == matches@match_id,",
 				"     joinType:'inner',",
 				"     matchType:'exact',",
 				"     ignoreSpaces: false,",
