@@ -22,7 +22,7 @@
 			"sinks": [
 				{
 					"dataset": {
-						"referenceName": "deliveries",
+						"referenceName": "mergeddata",
 						"type": "DatasetReference"
 					},
 					"name": "sink1"
@@ -84,30 +84,6 @@
 				"     broadcast: 'auto')~> mergeinfo",
 				"mergeinfo sink(allowSchemaDrift: true,",
 				"     validateSchema: false,",
-				"     input(",
-				"          match_id as string,",
-				"          season as string,",
-				"          start_date as string,",
-				"          venue as string,",
-				"          innings as string,",
-				"          ball as string,",
-				"          batting_team as string,",
-				"          bowling_team as string,",
-				"          striker as string,",
-				"          non_striker as string,",
-				"          bowler as string,",
-				"          runs_off_bat as string,",
-				"          extras as string,",
-				"          wides as string,",
-				"          noballs as string,",
-				"          byes as string,",
-				"          legbyes as string,",
-				"          penalty as string,",
-				"          wicket_type as string,",
-				"          player_dismissed as string,",
-				"          other_wicket_type as string,",
-				"          other_player_dismissed as string",
-				"     ),",
 				"     skipDuplicateMapInputs: true,",
 				"     skipDuplicateMapOutputs: true) ~> sink1"
 			]
