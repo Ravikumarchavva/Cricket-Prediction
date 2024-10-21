@@ -20,7 +20,11 @@
 				}
 			],
 			"sinks": [],
-			"transformations": [],
+			"transformations": [
+				{
+					"name": "join1"
+				}
+			],
 			"scriptLines": [
 				"source(output(",
 				"          match_id as string,",
@@ -64,7 +68,12 @@
 				"     ),",
 				"     allowSchemaDrift: true,",
 				"     validateSchema: false,",
-				"     ignoreNoFilesFound: false) ~> matches"
+				"     ignoreNoFilesFound: false) ~> matches",
+				"deliveries, matches join(ERROR_FUNCTION('') == ERROR_FUNCTION(''),",
+				"     joinType:'inner',",
+				"     matchType:'exact',",
+				"     ignoreSpaces: false,",
+				"     broadcast: 'auto')~> join1"
 			]
 		}
 	}
