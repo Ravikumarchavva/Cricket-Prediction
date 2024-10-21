@@ -1,0 +1,112 @@
+{
+	"name": "deliveries",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "deliveries.csv",
+				"container": "historicaldata"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"firstRowAsHeader": true,
+			"quoteChar": "\""
+		},
+		"schema": [
+			{
+				"name": "match_id",
+				"type": "String"
+			},
+			{
+				"name": "season",
+				"type": "String"
+			},
+			{
+				"name": "start_date",
+				"type": "String"
+			},
+			{
+				"name": "venue",
+				"type": "String"
+			},
+			{
+				"name": "innings",
+				"type": "String"
+			},
+			{
+				"name": "ball",
+				"type": "String"
+			},
+			{
+				"name": "batting_team",
+				"type": "String"
+			},
+			{
+				"name": "bowling_team",
+				"type": "String"
+			},
+			{
+				"name": "striker",
+				"type": "String"
+			},
+			{
+				"name": "non_striker",
+				"type": "String"
+			},
+			{
+				"name": "bowler",
+				"type": "String"
+			},
+			{
+				"name": "runs_off_bat",
+				"type": "String"
+			},
+			{
+				"name": "extras",
+				"type": "String"
+			},
+			{
+				"name": "wides",
+				"type": "String"
+			},
+			{
+				"name": "noballs",
+				"type": "String"
+			},
+			{
+				"name": "byes",
+				"type": "String"
+			},
+			{
+				"name": "legbyes",
+				"type": "String"
+			},
+			{
+				"name": "penalty",
+				"type": "String"
+			},
+			{
+				"name": "wicket_type",
+				"type": "String"
+			},
+			{
+				"name": "player_dismissed",
+				"type": "String"
+			},
+			{
+				"name": "other_wicket_type",
+				"type": "String"
+			},
+			{
+				"name": "other_player_dismissed",
+				"type": "String"
+			}
+		]
+	}
+}
