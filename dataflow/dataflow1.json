@@ -31,6 +31,9 @@
 			"transformations": [
 				{
 					"name": "mergeinfo"
+				},
+				{
+					"name": "selectFeatures"
 				}
 			],
 			"scriptLines": [
@@ -82,7 +85,39 @@
 				"     matchType:'exact',",
 				"     ignoreSpaces: false,",
 				"     broadcast: 'auto')~> mergeinfo",
-				"mergeinfo sink(allowSchemaDrift: true,",
+				"mergeinfo select(mapColumn(",
+				"          match_id = deliveries@match_id,",
+				"          season = deliveries@season,",
+				"          venue = deliveries@venue,",
+				"          innings,",
+				"          ball,",
+				"          batting_team,",
+				"          bowling_team,",
+				"          striker,",
+				"          non_striker,",
+				"          bowler,",
+				"          runs_off_bat,",
+				"          extras,",
+				"          wides,",
+				"          noballs,",
+				"          byes,",
+				"          legbyes,",
+				"          penalty,",
+				"          wicket_type,",
+				"          player_dismissed,",
+				"          other_wicket_type,",
+				"          other_player_dismissed,",
+				"          team1,",
+				"          team2,",
+				"          gender,",
+				"          city,",
+				"          toss_winner,",
+				"          toss_decision,",
+				"          winner",
+				"     ),",
+				"     skipDuplicateMapInputs: true,",
+				"     skipDuplicateMapOutputs: true) ~> selectFeatures",
+				"selectFeatures sink(allowSchemaDrift: true,",
 				"     validateSchema: false,",
 				"     skipDuplicateMapInputs: true,",
 				"     skipDuplicateMapOutputs: true) ~> sink1"
