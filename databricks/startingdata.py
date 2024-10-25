@@ -24,5 +24,3 @@ data = df.select(['match_id','innings','ball','batting_team','bowling_team','ven
 display(data)
 
 # COMMAND ----------
-
-
