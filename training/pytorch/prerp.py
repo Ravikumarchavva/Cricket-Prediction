@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 # Load the data using polars
-directory = r'D:\github\localt20\data\filteredData'
+directory = r'D:\github\Cricket-Prediction\data\filteredData'
 balltoball = pl.read_csv(os.path.join(directory, 'balltoball.csv'))
 teamStats = pl.read_csv(os.path.join(directory, 'team12Stats.csv'))
 playersStats = pl.read_csv(os.path.join(directory, 'playersStats.csv'))
@@ -85,11 +85,6 @@ val_dataset = CricketDataset(val_team_stats, val_player_stats, val_ball_stats)
 train_dataloader = DataLoader(train_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn)
 val_dataloader = DataLoader(val_dataset, batch_size=16, shuffle=False, collate_fn=collate_fn)
 
-# Create the Dataset and DataLoader with data augmentation
-def augment_data(team_input, player_input, ball_input):
-    # Implement data augmentation strategies if needed
-    # For example, adding noise or random transformations
-    return team_input, player_input, ball_input
 
 # Define the models
 class TeamStatsModel(nn.Module):
