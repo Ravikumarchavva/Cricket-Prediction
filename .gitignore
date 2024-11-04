@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+
+.log
+
+# wandb related files
+**/wandb/
+wandb-debug.log
