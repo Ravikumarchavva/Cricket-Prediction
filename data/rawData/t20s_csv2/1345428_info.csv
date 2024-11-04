@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,India
+info,gender,female
+info,season,2022/23
+info,date,2022/12/20
+info,event,Australia Women tour of India
+info,match_number,5
+info,venue,"Brabourne Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,A Gardner
+info,umpire,Gayathri Venugopal
+info,umpire,VG Rathi
+info,reserve_umpire,A Nand Kishore
+info,tv_umpire,N Janani
+info,match_referee,GS Lakshmi
+info,winner,Australia
+info,winner_runs,54
+info,player,Australia,BL Mooney
+info,player,Australia,P Litchfield
+info,player,Australia,TM McGrath
+info,player,Australia,EA Perry
+info,player,Australia,A Gardner
+info,player,Australia,GM Harris
+info,player,Australia,A Sutherland
+info,player,Australia,H Graham
+info,player,Australia,A King
+info,player,Australia,KJ Garth
+info,player,Australia,D Brown
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,H Deol
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,DP Vaidya
+info,player,India,RP Yadav
+info,player,India,K Anjali Sarvani
+info,player,India,Renuka Singh
+info,player,India,RS Gayakwad
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Nand Kishore,84424f4f
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,D Brown,2e81be88
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DP Vaidya,f9ded29b
+info,registry,people,EA Perry,be150fc8
+info,registry,people,GM Harris,72166006
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,H Deol,3664712e
+info,registry,people,H Graham,99812d10
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,K Anjali Sarvani,fa0bf9d9
+info,registry,people,KJ Garth,0b69a844
+info,registry,people,N Janani,d06a665d
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,VG Rathi,144e5b16

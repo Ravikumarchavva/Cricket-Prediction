@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mali
+info,team,Malawi
+info,gender,male
+info,season,2024
+info,date,2024/09/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,9
+info,venue,University of Dar-es-Salaam Ground
+info,city,Dar-es-Salaam
+info,toss_winner,Mali
+info,toss_decision,bat
+info,player_of_match,SZ Vayani
+info,umpire,A Kassam
+info,umpire,Habib Enesi
+info,reserve_umpire,A Premji
+info,match_referee,S Wadvalla
+info,winner,Malawi
+info,winner_wickets,9
+info,player,Mali,Mohamed Coulibaly
+info,player,Mali,MS Diakite
+info,player,Mali,L Sanogo
+info,player,Mali,TM Macalou
+info,player,Mali,S Kamate
+info,player,Mali,CA Keita
+info,player,Mali,Z Makadji
+info,player,Mali,Y Konate
+info,player,Mali,M Malle
+info,player,Mali,L Berthe
+info,player,Mali,AD Fofana
+info,player,Malawi,D Kansonkho
+info,player,Malawi,GM Ntambalika
+info,player,Malawi,Sami Sohail
+info,player,Malawi,G Kansonkho
+info,player,Malawi,M Choamba
+info,player,Malawi,P Zuze
+info,player,Malawi,D Jakiel
+info,player,Malawi,A Limdawala
+info,player,Malawi,SZ Vayani
+info,player,Malawi,K Thuchila
+info,player,Malawi,MA Baig
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,A Premji,40a68f89
+info,registry,people,AD Fofana,8d4a236d
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GM Ntambalika,8c8a3f08
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,K Thuchila,af42d9f2
+info,registry,people,L Berthe,8eb7c5a6
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,M Malle,e15c6692
+info,registry,people,MA Baig,89394502
+info,registry,people,MS Diakite,69795fcd
+info,registry,people,Mohamed Coulibaly,86ea6123
+info,registry,people,P Zuze,04420914
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,Y Konate,5934e1b2
+info,registry,people,Z Makadji,7fcaa9f4

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mali
+info,team,Cameroon
+info,gender,male
+info,season,2024
+info,date,2024/09/22
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,4
+info,venue,"Gymkhana Club Ground, Dar-es-Salaam"
+info,city,Dar-es-Salaam
+info,toss_winner,Mali
+info,toss_decision,bat
+info,player_of_match,I Tchakou
+info,umpire,A Kassam
+info,umpire,A Premji
+info,reserve_umpire,K Klaaste
+info,match_referee,S Wadvalla
+info,winner,Cameroon
+info,winner_wickets,6
+info,player,Mali,Mohamed Coulibaly
+info,player,Mali,TM Macalou
+info,player,Mali,S Kamate
+info,player,Mali,M Malle
+info,player,Mali,L Sanogo
+info,player,Mali,CA Keita
+info,player,Mali,Z Makadji
+info,player,Mali,Y Konate
+info,player,Mali,MS Diakite
+info,player,Mali,Mohamed Fadiga
+info,player,Mali,L Berthe
+info,player,Cameroon,BN Toube
+info,player,Cameroon,I Tchakou
+info,player,Cameroon,AR Balla
+info,player,Cameroon,AN Toube
+info,player,Cameroon,JB Abega
+info,player,Cameroon,DB Loic
+info,player,Cameroon,AN Aminou
+info,player,Cameroon,FJ Mpegna
+info,player,Cameroon,RD Atangana
+info,player,Cameroon,H Kinga
+info,player,Cameroon,VF Bomnyuy
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Premji,40a68f89
+info,registry,people,AN Aminou,6d9d2de7
+info,registry,people,AN Toube,7f929ebe
+info,registry,people,AR Balla,4b83e65a
+info,registry,people,BN Toube,75f3aa00
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,DB Loic,01679383
+info,registry,people,FJ Mpegna,d3893060
+info,registry,people,H Kinga,c9729534
+info,registry,people,I Tchakou,4d2b96b4
+info,registry,people,JB Abega,b7abb123
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,L Berthe,8eb7c5a6
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,M Malle,e15c6692
+info,registry,people,MS Diakite,69795fcd
+info,registry,people,Mohamed Coulibaly,86ea6123
+info,registry,people,Mohamed Fadiga,b6004a31
+info,registry,people,RD Atangana,490f475a
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,VF Bomnyuy,3bc18521
+info,registry,people,Y Konate,5934e1b2
+info,registry,people,Z Makadji,7fcaa9f4

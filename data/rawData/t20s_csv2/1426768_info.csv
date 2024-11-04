@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,India
+info,gender,female
+info,season,2024
+info,date,2024/07/26
+info,event,Women's Asia Cup
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Renuka Singh
+info,umpire,LDVV Silva
+info,umpire,N Perera
+info,reserve_umpire,Saleema Imtiaz
+info,tv_umpire,H Yerzal
+info,match_referee,JM Pereira
+info,winner,India
+info,winner_wickets,10
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Ishma Tanjim
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Rumana Ahmed
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,player,Bangladesh,Jahanara Alam
+info,player,India,Shafali Verma
+info,player,India,S Mandhana
+info,player,India,U Chetry
+info,player,India,H Kaur
+info,player,India,JI Rodrigues
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,RP Yadav
+info,player,India,TP Kanwar
+info,player,India,Renuka Singh
+info,registry,people,DB Sharma,201fef33
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,H Yerzal,86197ea5
+info,registry,people,Ishma Tanjim,5d428b3d
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,N Perera,129709f9
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rumana Ahmed,a92763ea
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,TP Kanwar,443c122f
+info,registry,people,U Chetry,8f8f94fd

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,India
+info,gender,female
+info,season,2024
+info,date,2024/07/07
+info,event,South Africa Women tour of India
+info,match_number,2
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,India
+info,toss_decision,field
+info,umpire,Gayathri Venugopal
+info,umpire,VK Sharma
+info,reserve_umpire,VG Rathi
+info,tv_umpire,J Madanagopal
+info,match_referee,GS Lakshmi
+info,outcome,no result
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,M Kapp
+info,player,South Africa,A Bosch
+info,player,South Africa,CL Tryon
+info,player,South Africa,N de Klerk
+info,player,South Africa,A Dercksen
+info,player,South Africa,E Marx
+info,player,South Africa,S Jafta
+info,player,South Africa,A Khaka
+info,player,South Africa,N Mlaba
+info,player,India,Shafali Verma
+info,player,India,S Mandhana
+info,player,India,S Sajana
+info,player,India,H Kaur
+info,player,India,JI Rodrigues
+info,player,India,U Chetry
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,RP Yadav
+info,player,India,SR Patil
+info,player,India,A Reddy
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,A Khaka,0d518f89
+info,registry,people,A Reddy,eadc8924
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DB Sharma,201fef33
+info,registry,people,E Marx,be592751
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,S Jafta,34304210
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Sajana,a4dcac97
+info,registry,people,SR Patil,33946d69
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,T Brits,06659caa
+info,registry,people,U Chetry,8f8f94fd
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,VK Sharma,a7a49df4

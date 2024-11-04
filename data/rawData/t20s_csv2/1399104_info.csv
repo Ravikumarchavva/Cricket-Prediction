@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Mongolia
+info,gender,male
+info,season,2023
+info,date,2023/09/27
+info,event,Asian Games Men's Cricket Competition
+info,match_number,1
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Mongolia
+info,toss_decision,field
+info,umpire,Arif Ansari
+info,umpire,C Thurgate
+info,reserve_umpire,VG Rathi
+info,tv_umpire,Masudur Rahman
+info,match_referee,Edwin Seah
+info,winner,Nepal
+info,winner_runs,273
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,Kushal Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,DS Airee
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,player,Nepal,A Bohara
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,S Jora
+info,player,Mongolia,N Naranbaatar
+info,player,Mongolia,B Terbish
+info,player,Mongolia,E Otgonbayar
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,D Jamyansuren
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,B Namsrai
+info,player,Mongolia,M Altankhuyag
+info,player,Mongolia,E Munkhbat
+info,player,Mongolia,T Tumursukh
+info,player,Mongolia,T Sumiya
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Arif Ansari,95957b9e
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,B Terbish,30c884c8
+info,registry,people,C Thurgate,4d8ad58c
+info,registry,people,D Jamyansuren,6ad7d184
+info,registry,people,DS Airee,1747ea18
+info,registry,people,E Munkhbat,acaf467d
+info,registry,people,E Otgonbayar,3f9783fd
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,M Altankhuyag,657c4b12
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,N Naranbaatar,b0e16d9b
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,T Sumiya,ae19375d
+info,registry,people,T Tumursukh,4758488e
+info,registry,people,VG Rathi,144e5b16

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Thailand
+info,gender,male
+info,season,2023/24
+info,date,2024/02/04
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,7
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,C Chatphaisan
+info,umpire,IGS Arsa
+info,umpire,V Kalidas
+info,reserve_umpire,Osama Saad Alnadwi
+info,tv_umpire,Dorji
+info,match_referee,Iftikhar Ahmed
+info,winner,Thailand
+info,winner_wickets,7
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Rohan
+info,player,Singapore,R Gaznavi
+info,player,Singapore,S Chandramohan
+info,player,Singapore,AE Paraam
+info,player,Singapore,Aman Desai
+info,player,Singapore,Avi Dixit
+info,player,Singapore,R Kalimuthu
+info,player,Singapore,S Banamali
+info,player,Singapore,AR Puri
+info,player,Singapore,H Bharadwaj
+info,player,Thailand,DF Jacobs
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,AP Yadav
+info,player,Thailand,AV Lazarus
+info,player,Thailand,J Coetzee
+info,player,Thailand,MK Thakur
+info,player,Thailand,C Pengkumta
+info,player,Thailand,N Nuntarach
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,N Senamontree
+info,registry,people,AE Paraam,b56f5b6f
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AR Puri,1f490b28
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Avi Dixit,cf17c429
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Pengkumta,b3540b2a
+info,registry,people,DF Jacobs,de896b79
+info,registry,people,Dorji,a6b688ef
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,IGS Arsa,68d52634
+info,registry,people,Iftikhar Ahmed,973d561e
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,Osama Saad Alnadwi,a7e2fb32
+info,registry,people,R Gaznavi,0079f139
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Rohan,baf0fc26
+info,registry,people,S Banamali,4d9dfc7f
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Y Saranonnakkun,9c93c0a3

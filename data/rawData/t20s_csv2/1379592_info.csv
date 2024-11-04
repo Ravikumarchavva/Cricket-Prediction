@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Kenya
+info,gender,male
+info,season,2023
+info,date,2023/06/21
+info,event,Africa Continental Cup
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,DM Nakrani
+info,umpire,D Odhiambo
+info,umpire,IO Oyieko
+info,reserve_umpire,R D'Mello
+info,winner,Uganda
+info,winner_runs,1
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Obuya
+info,player,Uganda,K Waiswa
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,B Masaba
+info,player,Uganda,CN Kakuru
+info,player,Uganda,P Murungi
+info,player,Uganda,F Nsubuga
+info,player,Uganda,S Nsubuga
+info,player,Uganda,H Ssenyondo
+info,player,Kenya,RN Patel
+info,player,Kenya,CO Obuya
+info,player,Kenya,AA Obanda
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,SO Ngoche
+info,player,Kenya,LN Oluoch
+info,player,Kenya,S Singh
+info,player,Kenya,Vraj Patel
+info,player,Kenya,GM Muthui
+info,registry,people,AA Obanda,7081491e
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Nsubuga,58cb36aa
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Vraj Patel,2af28253

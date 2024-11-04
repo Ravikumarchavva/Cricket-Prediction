@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Guernsey
+info,gender,male
+info,season,2023
+info,date,2023/08/14
+info,event,Germany tour of Netherlands
+info,match_number,2
+info,venue,"Sportpark Het Schootsveld, Deventer"
+info,city,Deventer
+info,toss_winner,Germany
+info,toss_decision,bat
+info,player_of_match,MWR Stokes
+info,umpire,AM Deshpande
+info,umpire,M Hancock
+info,reserve_umpire,M Prabhudesa
+info,match_referee,Adriaan van den Dries
+info,winner,Guernsey
+info,winner_wickets,5
+info,player,Germany,V Ganesan
+info,player,Germany,Shahid Afridi
+info,player,Germany,Talha Khan
+info,player,Germany,H Singh
+info,player,Germany,Faisal Mubashir
+info,player,Germany,Sahir Naqash
+info,player,Germany,Fayaz Khan
+info,player,Germany,Muslim Yar
+info,player,Germany,SVE Bharathi
+info,player,Germany,Sachin Mandy
+info,player,Germany,Ghulam Ahmadi
+info,player,Guernsey,GH Smit
+info,player,Guernsey,J Butler
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,MWR Stokes
+info,player,Guernsey,OB Nightingale
+info,player,Guernsey,LB Ferbrache
+info,player,Guernsey,A Martel
+info,player,Guernsey,LT Bichard
+info,player,Guernsey,DR Hooper
+info,player,Guernsey,A Bushell
+info,player,Guernsey,D Mullen
+info,registry,people,A Bushell,2d645c00
+info,registry,people,A Martel,65cd62a9
+info,registry,people,AM Deshpande,2622742a
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,D Mullen,61da7440
+info,registry,people,DR Hooper,0ac067e8
+info,registry,people,Faisal Mubashir,ad5342dc
+info,registry,people,Fayaz Khan,373954ca
+info,registry,people,GH Smit,24776ac5
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,J Butler,efcb778e
+info,registry,people,LB Ferbrache,0f72f582
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Hancock,deb8c9a5
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,MWR Stokes,c573d173
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,OB Nightingale,1deb4c0c
+info,registry,people,SVE Bharathi,6a63c29c
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,Shahid Afridi,5b2acc3f
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,Talha Khan,8e5a1a7a
+info,registry,people,V Ganesan,baa7dd37

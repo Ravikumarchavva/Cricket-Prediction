@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Hong Kong
+info,gender,female
+info,season,2022/23
+info,date,2022/10/27
+info,event,Women's East Asia Cup
+info,match_number,1
+info,venue,Kaizuka Cricket Ground
+info,city,Osaka
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,M Hill
+info,umpire,Adam Birss
+info,umpire,D Natarajan
+info,winner,Hong Kong
+info,winner_wickets,8
+info,player,Japan,S Miyaji
+info,player,Japan,H Goto
+info,player,Japan,A Chandel
+info,player,Japan,M Yanagida
+info,player,Japan,Erika Oda
+info,player,Japan,H Iwasaki
+info,player,Japan,A Kano
+info,player,Japan,S Kato
+info,player,Japan,M Munakata
+info,player,Japan,A Kanada
+info,player,Japan,Kiyo Fujikawa
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,TOW Chu
+info,player,Hong Kong,Chan Ka Man
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Kanada,ab50174b
+info,registry,people,A Kano,e92841c0
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,D Natarajan,aa3ea16d
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,Kiyo Fujikawa,bb0dfa8c
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Munakata,3d1ee80d
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,S Kato,ef9ff861
+info,registry,people,S Miyaji,3aca2ed5
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,TOW Chu,49693035
+info,registry,people,Y Daswani,2038a273

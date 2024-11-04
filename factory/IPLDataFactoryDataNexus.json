@@ -1,9 +1,0 @@
-{
-	"name": "IPLDataFactoryDataNexus",
-	"location": "centralindia",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "b224594e-5bad-452a-b650-3aa5bbdaa924",
-		"tenantId": "188384ff-81e0-4b25-b232-83913103656e"
-	}
-}

@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Romania
+info,team,Malta
+info,gender,female
+info,season,2023
+info,date,2023/08/05
+info,event,Women's Continental Cup
+info,match_number,6
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Romania
+info,toss_decision,bat
+info,player_of_match,RL Blake
+info,winner,Romania
+info,winner_runs,35
+info,player,Romania,AEMP Durayalage
+info,player,Romania,RL Blake
+info,player,Romania,CJ Ana
+info,player,Romania,M Chereches
+info,player,Romania,A Dineshi
+info,player,Romania,M Marin
+info,player,Romania,S Moise
+info,player,Romania,S Tudorache
+info,player,Romania,R Andreea
+info,player,Romania,C Cirlig
+info,player,Romania,I Muntean
+info,player,Malta,JA Rymer
+info,player,Malta,A Rameshan
+info,player,Malta,S Cholasseri
+info,player,Malta,P Bhandari
+info,player,Malta,S Khatri
+info,player,Malta,S Iushchenko
+info,player,Malta,T Calingin
+info,player,Malta,M Macelli
+info,player,Malta,A las Pinas
+info,player,Malta,C Sammut
+info,player,Malta,Bibina Baby
+info,registry,people,A Dineshi,42b0cc96
+info,registry,people,A Rameshan,f0f9d832
+info,registry,people,A las Pinas,f4775d89
+info,registry,people,AEMP Durayalage,0ead3a98
+info,registry,people,Bibina Baby,9edc0abb
+info,registry,people,C Cirlig,9cfee623
+info,registry,people,C Sammut,ea4f7003
+info,registry,people,CJ Ana,158a7d41
+info,registry,people,I Muntean,9b88f80e
+info,registry,people,JA Rymer,ae779954
+info,registry,people,M Chereches,3af1511e
+info,registry,people,M Macelli,9f2cca6b
+info,registry,people,M Marin,2feef01b
+info,registry,people,P Bhandari,19499257
+info,registry,people,R Andreea,75d2111a
+info,registry,people,RL Blake,e2b58daf
+info,registry,people,S Cholasseri,66e189ac
+info,registry,people,S Iushchenko,ce192a4c
+info,registry,people,S Khatri,e93f9604
+info,registry,people,S Moise,074e37b9
+info,registry,people,S Tudorache,015ca83a
+info,registry,people,T Calingin,542dc48f

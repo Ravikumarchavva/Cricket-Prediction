@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Vanuatu
+info,gender,female
+info,season,2024
+info,date,2024/05/03
+info,event,ICC Women's T20 World Cup Qualifier
+info,match_number,18
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Vanuatu
+info,toss_decision,field
+info,player_of_match,S Dharnidharka
+info,umpire,S Dambanevana
+info,umpire,SB Haig
+info,reserve_umpire,K Klaaste
+info,match_referee,GS Lakshmi
+info,winner,United Arab Emirates
+info,winner_runs,70
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,Khushi Sharma
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,H Hotchandani
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,United Arab Emirates,S Gokhale
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,United Arab Emirates,L Keny
+info,player,United Arab Emirates,I Nandakumar
+info,player,Vanuatu,S Solman
+info,player,Vanuatu,V Langiatu
+info,player,Vanuatu,N Navaika
+info,player,Vanuatu,R Andrew
+info,player,Vanuatu,A Chilia
+info,player,Vanuatu,V Mansale
+info,player,Vanuatu,M Carlot
+info,player,Vanuatu,G Chilia
+info,player,Vanuatu,R Ova
+info,player,Vanuatu,V Vira
+info,player,Vanuatu,M Tarimiala
+info,registry,people,A Chilia,a0d07fd6
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,G Chilia,daf255ce
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,H Hotchandani,f537d39c
+info,registry,people,I Nandakumar,9f87d0f0
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Khushi Sharma,a259c414
+info,registry,people,L Keny,aea89d48
+info,registry,people,M Carlot,dac46b52
+info,registry,people,M Tarimiala,0030a57d
+info,registry,people,N Navaika,b0023708
+info,registry,people,R Andrew,66c1accf
+info,registry,people,R Ova,88bba252
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Gokhale,62653085
+info,registry,people,S Solman,24ed1f75
+info,registry,people,SB Haig,811655b3
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,V Langiatu,fdd18ca0
+info,registry,people,V Mansale,7163637f
+info,registry,people,V Vira,94271647
+info,registry,people,Vaishnave Mahesh,31c56f40

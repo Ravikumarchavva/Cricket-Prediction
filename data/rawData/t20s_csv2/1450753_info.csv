@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mali
+info,team,Tanzania
+info,gender,male
+info,season,2024
+info,date,2024/09/21
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,3
+info,venue,University of Dar-es-Salaam Ground
+info,city,Dar-es-Salaam
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,S Thakor
+info,umpire,LB Gcuma
+info,umpire,Patric Makumbi
+info,reserve_umpire,Habib Enesi
+info,match_referee,S Wadvalla
+info,winner,Tanzania
+info,winner_wickets,10
+info,player,Mali,Mohamed Coulibaly
+info,player,Mali,TM Macalou
+info,player,Mali,S Kamate
+info,player,Mali,M Malle
+info,player,Mali,L Sanogo
+info,player,Mali,CA Keita
+info,player,Mali,Y Konate
+info,player,Mali,MS Diakite
+info,player,Mali,L Berthe
+info,player,Mali,A Nimaga
+info,player,Mali,Z Makadji
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,Muhammad Zafar Khan
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,S Thakor
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,K Juma
+info,registry,people,A Nimaga,bc304f82
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,L Berthe,8eb7c5a6
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Barkania,073126d6
+info,registry,people,M Malle,e15c6692
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,MS Diakite,69795fcd
+info,registry,people,Mohamed Coulibaly,86ea6123
+info,registry,people,Muhammad Zafar Khan,6d5e66b1
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,Y Konate,5934e1b2
+info,registry,people,Z Makadji,7fcaa9f4

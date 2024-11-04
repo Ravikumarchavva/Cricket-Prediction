@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,female
+info,season,2024
+info,date,2024/05/09
+info,event,India Women tour of Bangladesh
+info,match_number,5
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,RP Yadav
+info,umpire,Ali Arman
+info,umpire,Sajedul Islam
+info,reserve_umpire,Dolly Rani
+info,tv_umpire,Shathira Jakir
+info,match_referee,SR Das
+info,winner,India
+info,winner_runs,21
+info,player,India,Shafali Verma
+info,player,India,S Mandhana
+info,player,India,D Hemalatha
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,S Sajana
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,S Asha
+info,player,India,TR Sadhu
+info,player,India,RP Yadav
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Rubya Haider
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Shorifa Khatun
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Sultana Khatun
+info,player,Bangladesh,Fariha Trisna
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,D Hemalatha,1d6ff329
+info,registry,people,DB Sharma,201fef33
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,Dolly Rani,2821c99e
+info,registry,people,Fariha Trisna,7b51bfa4
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rubya Haider,5d095ee8
+info,registry,people,S Asha,77143581
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Mostary,94de63bf
+info,registry,people,S Sajana,a4dcac97
+info,registry,people,SR Das,f4e52218
+info,registry,people,Sajedul Islam,0443414a
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Shorifa Khatun,36d2face
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Sultana Khatun,fb0c0bcc
+info,registry,people,TR Sadhu,25ca0573

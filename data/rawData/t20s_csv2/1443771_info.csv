@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Greece
+info,gender,male
+info,season,2024
+info,date,2024/08/22
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,6
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Greece
+info,toss_decision,field
+info,player_of_match,HAM Shah
+info,umpire,AY Harris
+info,umpire,RJ Veillard
+info,reserve_umpire,S Wood
+info,match_referee,GH Pienaar
+info,winner,Denmark
+info,winner_runs,32
+info,player,Denmark,T Bharaj
+info,player,Denmark,HAM Shah
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,SA Ahmad
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,Surya Anand
+info,player,Denmark,OD Hald
+info,player,Denmark,Delawar Khan
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,E Karimi
+info,player,Denmark,Toqeer Ahmad
+info,player,Greece,Sajid Khan Afridi
+info,player,Greece,C Bogdanos
+info,player,Greece,AS Mehmi
+info,player,Greece,Sinan Khan
+info,player,Greece,GC Galanis
+info,player,Greece,Aslam Mohammad
+info,player,Greece,Ali Muaaz
+info,player,Greece,Samader Shadab
+info,player,Greece,A Gasteratos
+info,player,Greece,S Vasilakis
+info,player,Greece,N Katechis
+info,registry,people,A Gasteratos,e87c009a
+info,registry,people,AS Mehmi,4612619b
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,Ali Muaaz,52062ed6
+info,registry,people,Aslam Mohammad,67ae5a56
+info,registry,people,C Bogdanos,ecdfdd3c
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,E Karimi,95bd9407
+info,registry,people,GC Galanis,db218528
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HAM Shah,007113d7
+info,registry,people,N Katechis,495ded1c
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OD Hald,38189be1
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,S Vasilakis,e18e9598
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Sajid Khan Afridi,edc950ce
+info,registry,people,Samader Shadab,4289ccc9
+info,registry,people,Sinan Khan,251eb801
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,Toqeer Ahmad,d4f2a7b0

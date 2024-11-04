@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Japan
+info,gender,female
+info,season,2023/24
+info,date,2023/11/16
+info,event,Women's T20 Quadrangular Series (in Hong Kong)
+info,match_number,3
+info,venue,Hong Kong Cricket Club
+info,city,Wong Nai Chung Gap
+info,toss_winner,Japan
+info,toss_decision,field
+info,player_of_match,S Mtae
+info,umpire,Ramasamy Venkatesh
+info,umpire,SJ D'Cruz
+info,reserve_umpire,John Prakash
+info,match_referee,G Sankaranarayanan
+info,winner,Tanzania
+info,winner_runs,111
+info,player,Tanzania,S Mtae
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,M Pascal
+info,player,Tanzania,HM Omary
+info,player,Tanzania,A Mohamed
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,SF Jerome
+info,player,Tanzania,MH Ushanga
+info,player,Tanzania,SD Hussein
+info,player,Tanzania,M Salum
+info,player,Japan,A Kano
+info,player,Japan,A Chandel
+info,player,Japan,H Goto
+info,player,Japan,M Yanagida
+info,player,Japan,Seika Sumi
+info,player,Japan,A Fujikawa
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,R Kanai
+info,player,Japan,S Ranade
+info,player,Japan,E Kusuda-Nairn
+info,player,Japan,P Gundecha
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,A Mohamed,86a68879
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,H Goto,b3af5bff
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,M Pascal,729c5ab5
+info,registry,people,M Salum,67c83213
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,P Gundecha,af79635f
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,R Kanai,54a3d69f
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Mtae,bb641155
+info,registry,people,S Ranade,01404b98
+info,registry,people,SD Hussein,5f36cd39
+info,registry,people,SF Jerome,e393c6c1
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,Seika Sumi,704b4c30

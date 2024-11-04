@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,India
+info,gender,female
+info,season,2022/23
+info,date,2023/02/18
+info,event,ICC Women's T20 World Cup
+info,match_number,14
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,NR Sciver-Brunt
+info,umpire,JM Williams
+info,umpire,Kim Cotton
+info,reserve_umpire,AY Harris
+info,tv_umpire,N Perera
+info,match_referee,JM Pereira
+info,winner,England
+info,winner_runs,11
+info,player,England,SIR Dunkley
+info,player,England,DN Wyatt
+info,player,England,A Capsey
+info,player,England,NR Sciver-Brunt
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,S Ecclestone
+info,player,England,KH Sciver-Brunt
+info,player,England,S Glenn
+info,player,England,CE Dean
+info,player,England,LK Bell
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,P Vastrakar
+info,player,India,RP Yadav
+info,player,India,S Pandey
+info,player,India,RS Gayakwad
+info,player,India,Renuka Singh
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,KH Sciver-Brunt,6a434bd3
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LK Bell,38b4583c
+info,registry,people,N Perera,129709f9
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Pandey,5463cb7a
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,Shafali Verma,d8f59089

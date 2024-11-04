@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Sri Lanka
+info,gender,female
+info,season,2023
+info,date,2023/09/25
+info,event,Asian Games Women's Cricket Competition
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,India
+info,toss_decision,bat
+info,umpire,Mahmood Kharoti
+info,umpire,Masudur Rahman
+info,reserve_umpire,Sarika Prasad
+info,tv_umpire,Asif Yaqoob
+info,match_referee,GF Labrooy
+info,winner,India
+info,winner_runs,19
+info,player,India,S Mandhana
+info,player,India,Shafali Verma
+info,player,India,JI Rodrigues
+info,player,India,RM Ghosh
+info,player,India,H Kaur
+info,player,India,P Vastrakar
+info,player,India,DB Sharma
+info,player,India,AB Kaur
+info,player,India,DP Vaidya
+info,player,India,TR Sadhu
+info,player,India,RS Gayakwad
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,SIP Fernando
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,I Ranaweera
+info,registry,people,AB Kaur,9565fda6
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,DB Sharma,201fef33
+info,registry,people,DP Vaidya,f9ded29b
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,Mahmood Kharoti,d8ff8121
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,RS Gayakwad,237ec05b
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,TR Sadhu,25ca0573
+info,registry,people,WK Dilhari,c34a15e6

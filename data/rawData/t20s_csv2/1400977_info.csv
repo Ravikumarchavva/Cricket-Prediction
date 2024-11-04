@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Sierra Leone
+info,gender,male
+info,season,2023/24
+info,date,2023/10/06
+info,event,West Africa Trophy
+info,match_number,6
+info,venue,"Tafawa Balewa Square Cricket Oval, Lagos"
+info,city,Lagos
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,Hamza Khan
+info,umpire,O Adekoya
+info,umpire,O Akintokun
+info,reserve_umpire,M Bodie
+info,winner,Rwanda
+info,winner_runs,33
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,Hamza Khan
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Muhammad Nadir
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,A Turay
+info,player,Sierra Leone,I Kamara
+info,player,Sierra Leone,M Kpaka
+info,player,Sierra Leone,J Bangura
+info,player,Sierra Leone,L Lamin
+info,player,Sierra Leone,A Gbla
+info,player,Sierra Leone,S Conteh
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,G Sesay
+info,player,Sierra Leone,C Bah
+info,registry,people,A Gbla,34ab1e6e
+info,registry,people,A Turay,11a22126
+info,registry,people,C Bah,7213d757
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,Hamza Khan,44a5f2b2
+info,registry,people,I Kamara,38702fb5
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,L Lamin,5a970aab
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,M Bodie,66c7abe6
+info,registry,people,M Kpaka,c381cec5
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Adekoya,0c8bce52
+info,registry,people,O Akintokun,6293933e
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,R Coker,3239c8a9
+info,registry,people,S Conteh,8f70fff7
+info,registry,people,Z Bimenyimana,ba57fb08

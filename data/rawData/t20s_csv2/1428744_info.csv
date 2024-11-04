@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Costa Rica
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,event,Central American Cricket Championships
+info,match_number,3
+info,venue,Los Reyes Polo Club
+info,city,Guacima
+info,toss_winner,Mexico
+info,toss_decision,bat
+info,player_of_match,R Ankad
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,winner,Mexico
+info,winner_runs,42
+info,player,Mexico,SB Wagh
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,S Elayaperumal
+info,player,Mexico,R Ankad
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,A Tripathi
+info,player,Mexico,DV Devjani Mutreja
+info,player,Mexico,Seetharam Guruvayoorappan
+info,player,Mexico,Pratik Singh Bais
+info,player,Costa Rica,G Singhdeo
+info,player,Costa Rica,D Rawat
+info,player,Costa Rica,S Ravikumar
+info,player,Costa Rica,G Murali
+info,player,Costa Rica,S Pillai
+info,player,Costa Rica,K Shivam
+info,player,Costa Rica,Imran Ahmed Kaneez
+info,player,Costa Rica,RR Saun
+info,player,Costa Rica,S Murari
+info,player,Costa Rica,D Ganesh
+info,player,Costa Rica,JM Obando
+info,registry,people,A Tripathi,07160156
+info,registry,people,AR Maddela,5c861579
+info,registry,people,D Ganesh,84624717
+info,registry,people,D Rawat,cda3625c
+info,registry,people,DV Devjani Mutreja,c872d657
+info,registry,people,G Murali,76177951
+info,registry,people,G Singhdeo,4ae44aec
+info,registry,people,Imran Ahmed Kaneez,8c3cbee9
+info,registry,people,JM Obando,b24eed5e
+info,registry,people,K Shivam,f46fbe60
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Shah,3424e050
+info,registry,people,RR Saun,acb6ee37
+info,registry,people,S Elayaperumal,5c86b6ac
+info,registry,people,S Murari,3ed39f01
+info,registry,people,S Pillai,927b34c9
+info,registry,people,S Ravikumar,5597338d
+info,registry,people,SB Wagh,acf06e10
+info,registry,people,Seetharam Guruvayoorappan,9663115e
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Shoaib Rafiq,27df03d2

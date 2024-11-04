@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,Malaysia
+info,gender,female
+info,season,2023
+info,date,2023/08/22
+info,event,Women's T20 Quadrangular Series (in Malaysia)
+info,match_number,1
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,Ainna Hamizah Hashim
+info,umpire,D Sevakumaran
+info,umpire,N Sivan
+info,reserve_umpire,Rudy Ismandy
+info,match_referee,B Ramani
+info,winner,Malaysia
+info,winner_wickets,8
+info,player,Kuwait,Maryam Omar
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Maryyam Sheikh
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,B Shanti
+info,player,Kuwait,Iqra Ishaq
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,Maria Jasvi
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Nik Nur Atiela
+info,player,Malaysia,Musfirah Nur Ainaa
+info,player,Malaysia,Nur Aishah
+info,player,Malaysia,Wan Nor Zulaika
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Ramani,92ad5353
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,D Sevakumaran,b235cb97
+info,registry,people,Iqra Ishaq,59c770e7
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryam Omar,b4d08794
+info,registry,people,Maryyam Sheikh,4ae530cf
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,Musfirah Nur Ainaa,acd1fec7
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Nik Nur Atiela,cfdfe39c
+info,registry,people,Nur Aishah,f7301b56
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,SL Gomez,02264be0
+info,registry,people,Wan Julia,bee0c85c
+info,registry,people,Wan Nor Zulaika,ae99724d
+info,registry,people,Zeefa Jilani,3f2b40f0

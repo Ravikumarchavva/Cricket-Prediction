@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Czech Republic
+info,gender,male
+info,season,2024
+info,date,2024/08/21
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,3
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,HAM Shah
+info,umpire,AA Baig
+info,umpire,Jareth McCready
+info,reserve_umpire,AY Harris
+info,match_referee,GH Pienaar
+info,winner,Denmark
+info,winner_runs,118
+info,player,Denmark,T Bharaj
+info,player,Denmark,HAM Shah
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Surya Anand
+info,player,Denmark,OD Hald
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,Delawar Khan
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,E Karimi
+info,player,Denmark,Toqeer Ahmad
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,Dylan Steyn
+info,player,Czech Republic,Ritik Tomar
+info,player,Czech Republic,M Worndl
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,Riaz Afridi
+info,player,Czech Republic,Naveed Ahmed
+info,player,Czech Republic,Rahat Ali
+info,player,Czech Republic,Abul Farhad
+info,player,Czech Republic,S Chaudhary
+info,player,Czech Republic,S Davizi
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,Abul Farhad,f7cb7c3a
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Dylan Steyn,ff2b190e
+info,registry,people,E Karimi,95bd9407
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,M Worndl,e8d1c172
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,Naveed Ahmed,87609cbb
+info,registry,people,OD Hald,38189be1
+info,registry,people,Rahat Ali,3cc13c68
+info,registry,people,Riaz Afridi,281ce63c
+info,registry,people,Ritik Tomar,6de51a8e
+info,registry,people,S Chaudhary,24c1844e
+info,registry,people,S Davizi,5787be00
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Sazib Bhuiyan,e5464794
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,Toqeer Ahmad,d4f2a7b0

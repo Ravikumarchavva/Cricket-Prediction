@@ -1,2 +1,1 @@
-# Cricket-Prediction
-predicts cricket team's winning probability
+![Architecture Overview](./public/architectureOverview.png)

@@ -1,0 +1,32 @@
+data
+    cricksheetSource    - balltoball and other historical data
+    people.csv          - mapping from cricsheet to espncricinfo
+    t20_batting_stats   - batting data scrapped
+    t20_bowling_stats   - bowling data scrapped
+    t20_fielding_stats  - fielding data scrapped
+    t20_fielding_stats  - fielding data scrapped
+    t20_team_stats      - Country or team data scrapped
+
+preprocessedData
+    deliveries          - balltoball
+    matches             - every match result
+    batting             - batting scrapped data preprocessed
+    bowling             - bowling scrapped data preprocessed
+    fielding            - fielding scrapped data preprocessed
+    MatchPlayers        - team players of each match
+    players             - mapping player ids of cricksheetSource with cricinfo
+    playerStats         - data representing players
+    teamStats           - team scrapped data preprocessed
+
+output of preprocessed
+    deliveries          - balltoball
+    matches             - every match result
+    playerStats         - data representing players
+    team_stats          - data representing teams
+    MatchPlayers        - set of players of every match
+
+currentDataInHand
+    merged_data         - balltoball and match result join
+        team_stats          - data representing teams
+        MatchPlayers        - set of players of every match
+            playerStats         - data representing players

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Romania
+info,gender,male
+info,season,2023
+info,date,2023/07/13
+info,event,Valletta Cup
+info,match_number,4
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,L Canessane
+info,umpire,S Gowda
+info,umpire,V Sridhar
+info,reserve_umpire,J Hilhorst
+info,match_referee,S Harnal
+info,winner,France
+info,winner_runs,88
+info,player,France,G Mckeon
+info,player,France,HA Jackson
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Usman Khan
+info,player,France,Zain Ahmad
+info,player,France,Dawood Ahmadzai
+info,player,France,Noman Amjad
+info,player,France,Rahmatullah Mangal
+info,player,France,R Mangal
+info,player,France,SM Warnakulasuriya
+info,player,Romania,R Satheesan
+info,player,Romania,Taranjeet Singh
+info,player,Romania,S Nadigotla
+info,player,Romania,V Saini
+info,player,Romania,S Periyalwar
+info,player,Romania,Abdul Shakoor
+info,player,Romania,R Kumar
+info,player,Romania,S Vashisht
+info,player,Romania,S Thakur
+info,player,Romania,M Koli
+info,player,Romania,P Hingorani
+info,registry,people,Abdul Shakoor,d52b13a6
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,J Hilhorst,8a1350d4
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Koli,eb0f2802
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,R Kumar,2df874e6
+info,registry,people,R Mangal,5360c9be
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Thakur,a073f2ff
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,SM Warnakulasuriya,8a5a8cf0
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,V Saini,0fa81719
+info,registry,people,V Sridhar,42314166
+info,registry,people,Zain Ahmad,ea2c0aff

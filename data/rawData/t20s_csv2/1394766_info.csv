@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Bahrain
+info,gender,female
+info,season,2023
+info,date,2023/09/04
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,16
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,ER Oza
+info,umpire,DN Subedi
+info,umpire,Shivani Mishra
+info,reserve_umpire,Tabarak Dar
+info,match_referee,M Nayyar
+info,winner,United Arab Emirates
+info,winner_runs,69
+info,method,D/L
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,Chaya Mughal
+info,player,United Arab Emirates,Khushi Sharma
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,S Kotte
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,United Arab Emirates,Al Maseera Jahangir
+info,player,United Arab Emirates,AS Patil
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,Bahrain,TI Gajanayake
+info,player,Bahrain,Abeera Waris
+info,player,Bahrain,HMD Rasangika
+info,player,Bahrain,I Suhun
+info,player,Bahrain,G Fernando
+info,player,Bahrain,P Shetty
+info,player,Bahrain,Ashwini Govinda
+info,player,Bahrain,Prajna Jagdeesha
+info,player,Bahrain,R Rodrigo
+info,player,Bahrain,Sadamali Bhakshala
+info,player,Bahrain,S Nunna
+info,registry,people,AS Patil,ca707bdc
+info,registry,people,Abeera Waris,01396dc6
+info,registry,people,Al Maseera Jahangir,be47cb63
+info,registry,people,Ashwini Govinda,5581a471
+info,registry,people,Chaya Mughal,77b26349
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,G Fernando,4e2def5c
+info,registry,people,HMD Rasangika,d6f9dfd6
+info,registry,people,I Suhun,41bfb2a9
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Khushi Sharma,a259c414
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,P Shetty,0dda36e7
+info,registry,people,Prajna Jagdeesha,b79932e1
+info,registry,people,R Rodrigo,fe676043
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Kotte,6c8904c8
+info,registry,people,S Nunna,24903af6
+info,registry,people,Sadamali Bhakshala,89df3901
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,TI Gajanayake,d577d45a
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,Vaishnave Mahesh,31c56f40

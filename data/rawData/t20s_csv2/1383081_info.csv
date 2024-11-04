@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Austria
+info,gender,male
+info,season,2023
+info,date,2023/07/25
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,14
+info,venue,"Goldenacre, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,HG Munsey
+info,umpire,DA Haggo
+info,umpire,J Jensen
+info,reserve_umpire,M Jameson
+info,match_referee,Phil Whitticase
+info,winner,Scotland
+info,winner_runs,166
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,TSS Mackintosh
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,GT Main
+info,player,Scotland,BJ Currie
+info,player,Austria,N Wijesekera
+info,player,Austria,Iqbal Hossain
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,A Randhawa
+info,player,Austria,Shahil Momin
+info,player,Austria,MPS Cheema
+info,player,Austria,Umair Tariq
+info,player,Austria,Jaweed Sadran
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,Sahel Zadran
+info,player,Austria,A Nathwani
+info,registry,people,A Nathwani,f1c4f2ea
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,GT Main,4ebc70ca
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,Iqbal Hossain,e1824e7d
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,Jaweed Sadran,c1f05d1d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,MA Leask,28131839
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,N Wijesekera,85dcc96d
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Sahel Zadran,dae28050
+info,registry,people,Shahil Momin,46821fbd
+info,registry,people,TSS Mackintosh,f5ef7ac3
+info,registry,people,Umair Tariq,67ec2b09

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Kenya
+info,gender,male
+info,season,2023
+info,date,2023/06/17
+info,event,Africa Continental Cup
+info,match_number,14
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,LN Oluoch
+info,umpire,Charles Kariuki
+info,umpire,D Odhiambo
+info,reserve_umpire,J Karuri
+info,winner,Kenya
+info,winner_wickets,7
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,Bosco Tuyizere
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,I Ntirenganya
+info,player,Rwanda,E Kubwimana
+info,player,Kenya,RN Patel
+info,player,Kenya,S Singh
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,SR Bhudia
+info,player,Kenya,RR Patel
+info,player,Kenya,SO Ngoche
+info,player,Kenya,LN Oluoch
+info,player,Kenya,EB Ringera
+info,player,Kenya,Vishil Patel
+info,player,Kenya,Vraj Patel
+info,player,Kenya,GM Muthui
+info,registry,people,Bosco Tuyizere,3c370b92
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,D Odhiambo,45994517
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Kubwimana,bfc7799f
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,EB Ringera,6cedad99
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,J Karuri,5a9b694c
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Vishil Patel,3df8f9d5
+info,registry,people,Vraj Patel,2af28253

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Panama
+info,team,Bermuda
+info,gender,male
+info,season,2023/24
+info,date,2023/10/04
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,8
+info,venue,"National Stadium, Hamilton"
+info,city,Hamilton
+info,toss_winner,Bermuda
+info,toss_decision,field
+info,player_of_match,DMW Rawlins
+info,umpire,JM Williams
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Emmerson Carrington
+info,match_referee,Reon King
+info,winner,Bermuda
+info,winner_wickets,5
+info,player,Panama,LR Gaonkar
+info,player,Panama,M Sohel Patel
+info,player,Panama,Yusuf Ebrahim
+info,player,Panama,Mahmud Jasat
+info,player,Panama,Abdulla Bhoola
+info,player,Panama,N Ahir
+info,player,Panama,RDB Ahir
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,Mahmad Data
+info,player,Panama,KB Ahir
+info,player,Panama,JKC Ahir
+info,player,Bermuda,KS Leverock
+info,player,Bermuda,AC Douglas
+info,player,Bermuda,T Manders
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,D Sabir
+info,player,Bermuda,C Trott
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,TS Fray
+info,player,Bermuda,S Smith
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,M Walker
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,AC Douglas,f86ce673
+info,registry,people,Abdulla Bhoola,6ef9a32f
+info,registry,people,C Trott,ae624b05
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,JKC Ahir,3c5df172
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,KB Ahir,214cf493
+info,registry,people,KS Leverock,e1592949
+info,registry,people,LR Gaonkar,e51abd5e
+info,registry,people,M Sohel Patel,40a5bcf9
+info,registry,people,M Walker,6f79d514
+info,registry,people,Mahmad Data,0ee7ede5
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,N Ahir,c2ecd4a7
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Smith,18a0ba24
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Yusuf Ebrahim,2d5c6e88
+info,registry,people,Z Burgess,d0042e16

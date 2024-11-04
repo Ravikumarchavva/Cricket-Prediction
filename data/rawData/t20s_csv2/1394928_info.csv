@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Lesotho
+info,gender,female
+info,season,2023
+info,date,2023/09/05
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,12
+info,venue,"Botswana Cricket Association Oval 2, Gaborone"
+info,city,Gaborone
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,Q Abel
+info,umpire,Justine Muzungu
+info,umpire,S Dambanevana
+info,reserve_umpire,F Mutizwa
+info,match_referee,SA Fritz
+info,winner,Kenya
+info,winner_runs,208
+info,player,Kenya,Q Abel
+info,player,Kenya,D Njoroge
+info,player,Kenya,M Mwangi
+info,player,Kenya,E Wachira
+info,player,Kenya,L Idambo
+info,player,Kenya,V Ooko
+info,player,Kenya,MI Khagoitsa
+info,player,Kenya,C Muthoni
+info,player,Kenya,M Ahono
+info,player,Kenya,KV Mehta
+info,player,Kenya,J Ogolla
+info,player,Lesotho,T Kobeli
+info,player,Lesotho,KM Molapo
+info,player,Lesotho,TJ Mahe
+info,player,Lesotho,MM Mabathoana
+info,player,Lesotho,P Pheko
+info,player,Lesotho,MA Tsemane
+info,player,Lesotho,K Damane
+info,player,Lesotho,KC Phohlo
+info,player,Lesotho,MA Nyabela
+info,player,Lesotho,R Limema
+info,player,Lesotho,NM Mokhachane
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,D Njoroge,626fbc80
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,J Ogolla,a518b6c9
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,K Damane,5f8d4a63
+info,registry,people,KC Phohlo,1607f812
+info,registry,people,KM Molapo,dc5934a6
+info,registry,people,KV Mehta,f7ae66f3
+info,registry,people,L Idambo,27339093
+info,registry,people,M Ahono,8e0043dd
+info,registry,people,M Mwangi,72de0105
+info,registry,people,MA Nyabela,261fddca
+info,registry,people,MA Tsemane,71eb9780
+info,registry,people,MI Khagoitsa,2d772f77
+info,registry,people,MM Mabathoana,fb432bd3
+info,registry,people,NM Mokhachane,6083f332
+info,registry,people,P Pheko,24e0b90f
+info,registry,people,Q Abel,2e988457
+info,registry,people,R Limema,95fdfe7e
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Kobeli,10f52b3a
+info,registry,people,TJ Mahe,3c5b2e9e
+info,registry,people,V Ooko,2ae76bf6

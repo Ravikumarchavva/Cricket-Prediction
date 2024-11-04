@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Gibraltar
+info,gender,male
+info,season,2024
+info,date,2024/05/24
+info,event,Continental Cup
+info,match_number,1
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Gibraltar
+info,toss_decision,field
+info,player_of_match,BA Pai
+info,umpire,A Begg
+info,umpire,I Doekhie
+info,reserve_umpire,K Chavan
+info,match_referee,Abdul Shakoor
+info,winner,Gibraltar
+info,winner_wickets,5
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,Manan Bashir
+info,player,Bulgaria,Firas Hussain
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,Jakob Gul
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,Waleed Waqar
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,M Whelan
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,H Pile
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,M Gouws
+info,player,Gibraltar,S Bodha
+info,registry,people,A Begg,ef618cab
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,Abdul Shakoor,d52b13a6
+info,registry,people,BA Pai,716bf559
+info,registry,people,C Pyle,d278b70b
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Firas Hussain,261d591a
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,H Pile,2f3b270e
+info,registry,people,I Doekhie,b37e3c48
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,Jakob Gul,a4696d64
+info,registry,people,K Chavan,7ca4ac4f
+info,registry,people,K Mirpuri,441006af
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,M Gouws,018f6488
+info,registry,people,M Whelan,d613f046
+info,registry,people,Manan Bashir,5c14bd52
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,S Bodha,00467a76
+info,registry,people,Waleed Waqar,f9d26872
+info,registry,people,Zeerak Chughtai,ff0b1636

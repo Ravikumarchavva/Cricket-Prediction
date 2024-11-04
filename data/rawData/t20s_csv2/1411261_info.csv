@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Kenya
+info,gender,female
+info,season,2023/24
+info,date,2023/12/09
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,match_number,1
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Kenya
+info,toss_decision,field
+info,player_of_match,J Nkomo
+info,umpire,LDVV Silva
+info,umpire,N Perera
+info,reserve_umpire,Habib Enesi
+info,match_referee,O Chirombe
+info,winner,Zimbabwe
+info,winner_runs,62
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,A Ndiraya
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,P Marange
+info,player,Zimbabwe,L Mabhero
+info,player,Kenya,Q Abel
+info,player,Kenya,MI Khagoitsa
+info,player,Kenya,KV Mehta
+info,player,Kenya,V Ooko
+info,player,Kenya,E Wachira
+info,player,Kenya,M Mwangi
+info,player,Kenya,L Idambo
+info,player,Kenya,JS Ndanu
+info,player,Kenya,C Muthoni
+info,player,Kenya,M Ahono
+info,player,Kenya,F Odhiambo
+info,registry,people,A Ndiraya,c8e6bddd
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,JS Ndanu,c27e0638
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,KV Mehta,f7ae66f3
+info,registry,people,L Idambo,27339093
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,M Ahono,8e0043dd
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,M Mwangi,72de0105
+info,registry,people,MI Khagoitsa,2d772f77
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,N Perera,129709f9
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,Q Abel,2e988457
+info,registry,people,V Ooko,2ae76bf6

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Papua New Guinea
+info,gender,male
+info,season,2023
+info,date,2023/09/24
+info,event,Malaysia Tri-Nation T20I Series
+info,match_number,6
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,player_of_match,Nasrulla Rana
+info,umpire,L Poobalan
+info,umpire,V Kalidas
+info,reserve_umpire,Mathan Kumar
+info,match_referee,Suresh Singh
+info,winner,Papua New Guinea
+info,winner_wickets,1
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Muhammad Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,S Mathur
+info,player,Hong Kong,Akbar Khan
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Niaz Ali
+info,player,Hong Kong,Mohammad Ghazanfar
+info,player,Hong Kong,Anas Khan
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,M Charlie
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,SI Kamea
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,A Vala,72e60730
+info,registry,people,Akbar Khan,6113433c
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,J Kariko,cde067e1
+info,registry,people,K Doriga,365229a8
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,M Charlie,4631be71
+info,registry,people,Mathan Kumar,da596754
+info,registry,people,Mohammad Ghazanfar,00321fff
+info,registry,people,Muhammad Khan,f17ac7d0
+info,registry,people,N Vanua,a36915ce
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Niaz Ali,e33a357d
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,S Mathur,11378dda
+info,registry,people,SI Kamea,0730a707
+info,registry,people,Suresh Singh,073de6f9
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,V Kalidas,42d76418

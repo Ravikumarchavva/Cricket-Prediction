@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Kuwait
+info,gender,male
+info,season,2024
+info,date,2024/09/05
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,13
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,Usman Patel
+info,umpire,BB Pradhan
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Tabarak Dar
+info,match_referee,V Narayan Kutty
+info,winner,Kuwait
+info,winner_wickets,8
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,Aslam Khan
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Pavandeep Singh
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Adnan Idrees
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Mohamed Shafeeq
+info,registry,people,Adnan Idrees,0e34c23a
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Aslam Khan,31080a88
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Zubaidi Zulkifle,dca8273d

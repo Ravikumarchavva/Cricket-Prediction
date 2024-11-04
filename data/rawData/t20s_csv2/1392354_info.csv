@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,New Zealand
+info,gender,female
+info,season,2023/24
+info,date,2023/10/14
+info,event,New Zealand Women tour of South Africa
+info,match_number,4
+info,venue,"Willowmoore Park, Benoni"
+info,city,Benoni
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,AC Kerr
+info,umpire,A Jacobs
+info,umpire,Siphelele Gasa
+info,reserve_umpire,K Klaaste
+info,tv_umpire,Lauren Agenbag
+info,match_referee,GH Pienaar
+info,winner,New Zealand
+info,winner_wickets,8
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,CL Tryon
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Jafta
+info,player,South Africa,D Tucker
+info,player,South Africa,M Klaas
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,N Mlaba
+info,player,New Zealand,SW Bates
+info,player,New Zealand,KG Anderson
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,FC Jonas
+info,player,New Zealand,MM Penfold
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Jacobs,70d117de
+info,registry,people,AC Kerr,7673c908
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,D Tucker,2b425403
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,JM Kerr,9af58032
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KG Anderson,ae79a86f
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Siphelele Gasa,e50baa87
+info,registry,people,T Brits,06659caa
+info,registry,people,TS Sekhukhune,6e28e586

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Belgium
+info,team,Serbia
+info,gender,male
+info,season,2024
+info,date,2024/07/12
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,17
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Belgium
+info,toss_decision,bat
+info,player_of_match,Muhammad Muneeb
+info,umpire,DH Mclean
+info,umpire,M Burns
+info,reserve_umpire,N Bathi
+info,match_referee,H Pack
+info,winner,Belgium
+info,winner_runs,77
+info,player,Belgium,Muhammad Muneeb
+info,player,Belgium,Mansoor Malangzai
+info,player,Belgium,Shaheryar Butt
+info,player,Belgium,B Niaz
+info,player,Belgium,Saber Zakhil
+info,player,Belgium,Khalid Ahmadi
+info,player,Belgium,Adnan Razzaq
+info,player,Belgium,Sajad Ahmadzai
+info,player,Belgium,D Dewald
+info,player,Belgium,Sheraz Sheikh
+info,player,Belgium,Waqas Ali
+info,player,Serbia,A Dizija
+info,player,Serbia,S Ivetic
+info,player,Serbia,LA Dunbar
+info,player,Serbia,BM Pecic
+info,player,Serbia,V Zimonjic
+info,player,Serbia,M Sarenac
+info,player,Serbia,N Zimonjic
+info,player,Serbia,P Nedeljkovic
+info,player,Serbia,AA Gajic
+info,player,Serbia,S Tosic
+info,player,Serbia,MV Pavlovic
+info,registry,people,A Dizija,6483c062
+info,registry,people,AA Gajic,a768a762
+info,registry,people,Adnan Razzaq,91c0d39f
+info,registry,people,B Niaz,b7824537
+info,registry,people,BM Pecic,71093272
+info,registry,people,D Dewald,f97e4db3
+info,registry,people,DH Mclean,281d4749
+info,registry,people,H Pack,fed53c91
+info,registry,people,Khalid Ahmadi,cf0b9a0d
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,Mansoor Malangzai,6e84e207
+info,registry,people,Muhammad Muneeb,5338b9f5
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,P Nedeljkovic,87e87dd2
+info,registry,people,S Ivetic,04ab1575
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,Saber Zakhil,036dcf9b
+info,registry,people,Sajad Ahmadzai,6978bff0
+info,registry,people,Shaheryar Butt,b6bad765
+info,registry,people,Sheraz Sheikh,4aad6842
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,Waqas Ali,2fd4669a

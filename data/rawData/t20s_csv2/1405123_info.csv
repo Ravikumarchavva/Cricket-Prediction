@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Bangladesh
+info,gender,female
+info,season,2023/24
+info,date,2023/10/29
+info,event,Pakistan Women tour of Bangladesh
+info,match_number,3
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,Muneeba Ali
+info,umpire,Ali Arman
+info,umpire,Tanvir Ahmed
+info,reserve_umpire,Shathira Jakir
+info,tv_umpire,Moniruzzaman
+info,match_referee,Akhtar Ahmad
+info,winner,Pakistan
+info,winner_runs,31
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Natalia Pervaiz
+info,player,Pakistan,Najiha Alvi
+info,player,Pakistan,Umm-e-Hani
+info,player,Pakistan,Waheeda Akhtar
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,Sumaiya Akter
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Shorifa Khatun
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Sanjida Akter Meghla
+info,player,Bangladesh,Fariha Trisna
+info,registry,people,Akhtar Ahmad,29859e71
+info,registry,people,Ali Arman,1342d8d8
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Fariha Trisna,7b51bfa4
+info,registry,people,Moniruzzaman,075e9f9c
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Najiha Alvi,faef39c1
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Natalia Pervaiz,fa8a3eb0
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Mostary,94de63bf
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sanjida Akter Meghla,a6412417
+info,registry,people,Shamima Sultana,724645f5
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Shorifa Khatun,36d2face
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Sumaiya Akter,469eb822
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Umm-e-Hani,6ee11109
+info,registry,people,Waheeda Akhtar,792d0178

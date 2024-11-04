@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,England
+info,gender,male
+info,season,2024
+info,date,2024/06/23
+info,event,ICC Men's T20 World Cup
+info,match_number,49
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,AU Rashid
+info,umpire,CB Gaffaney
+info,umpire,JS Wilson
+info,reserve_umpire,A Paleker
+info,tv_umpire,PR Reiffel
+info,match_referee,DC Boon
+info,winner,England
+info,winner_wickets,10
+info,player,United States of America,SR Taylor
+info,player,United States of America,AGS Gous
+info,player,United States of America,NR Kumar
+info,player,United States of America,Aaron Jones
+info,player,United States of America,CJ Anderson
+info,player,United States of America,Milind Kumar
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,SC van Schalkwyk
+info,player,United States of America,Ali Khan
+info,player,United States of America,NP Kenjige
+info,player,United States of America,SN Netravalkar
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,JM Bairstow
+info,player,England,HC Brook
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,SM Curran
+info,player,England,CJ Jordan
+info,player,England,JC Archer
+info,player,England,AU Rashid
+info,player,England,RJW Topley
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JM Bairstow,abb83e27
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,SM Curran,e94915e6
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f

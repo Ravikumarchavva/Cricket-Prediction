@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Argentina
+info,gender,female
+info,season,2023
+info,date,2023/09/10
+info,event,ICC Women's T20 World Cup Americas Region Qualifier
+info,match_number,9
+info,venue,"Woodley Cricket Field, Los Angeles"
+info,city,Los Angeles
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,D Saxena
+info,umpire,AR Maddela
+info,umpire,Emmerson Carrington
+info,reserve_umpire,BV Taylor
+info,match_referee,G McCrea
+info,winner,Canada
+info,winner_runs,37
+info,player,Canada,D McGahey
+info,player,Canada,A Perera
+info,player,Canada,Amarpal Kaur
+info,player,Canada,D Saxena
+info,player,Canada,Habeeba Bader
+info,player,Canada,R Misra
+info,player,Canada,Saniyah Zia
+info,player,Canada,Rabbjyot Rajput
+info,player,Canada,N Gallagher
+info,player,Canada,K Kapadia
+info,player,Canada,M Hundal
+info,player,Argentina,L Taylor
+info,player,Argentina,V Vasquez
+info,player,Argentina,A Galan
+info,player,Argentina,M Castineiras
+info,player,Argentina,M Martinez
+info,player,Argentina,A Stocks
+info,player,Argentina,M Lollo
+info,player,Argentina,JC Cullen
+info,player,Argentina,C Sosa
+info,player,Argentina,CA Greloni
+info,player,Argentina,T Basile
+info,registry,people,A Galan,ad5165c2
+info,registry,people,A Perera,788afc32
+info,registry,people,A Stocks,c999c416
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Amarpal Kaur,3051fcc6
+info,registry,people,BV Taylor,99760152
+info,registry,people,C Sosa,b2f4cb0d
+info,registry,people,CA Greloni,f758a37b
+info,registry,people,D McGahey,b5ef8f19
+info,registry,people,D Saxena,cc7331d4
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,G McCrea,46f4a901
+info,registry,people,Habeeba Bader,18d53879
+info,registry,people,JC Cullen,22595a2d
+info,registry,people,K Kapadia,52fc5577
+info,registry,people,L Taylor,8af91a3e
+info,registry,people,M Castineiras,b9094958
+info,registry,people,M Hundal,213dc641
+info,registry,people,M Lollo,e6d1f4bb
+info,registry,people,M Martinez,f0ddeafb
+info,registry,people,N Gallagher,98c5ffef
+info,registry,people,R Misra,430f7ef9
+info,registry,people,Rabbjyot Rajput,8b1f5f91
+info,registry,people,Saniyah Zia,ffae3d12
+info,registry,people,T Basile,7a640d66
+info,registry,people,V Vasquez,f898a2c6

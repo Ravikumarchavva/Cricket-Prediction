@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Rwanda
+info,gender,female
+info,season,2024
+info,date,2024/04/22
+info,event,BCA Kalahari Women's T20 International Tournament
+info,match_number,2
+info,venue,"Botswana Cricket Association Oval 2, Gaborone"
+info,city,Gaborone
+info,toss_winner,Mozambique
+info,toss_decision,bat
+info,player_of_match,MD Bimenyimana
+info,umpire,Justine Muzungu
+info,umpire,R Nehonde
+info,winner,Rwanda
+info,winner_wickets,10
+info,player,Mozambique,IE Mulhovo
+info,player,Mozambique,AA Moiane
+info,player,Mozambique,FA Zavala
+info,player,Mozambique,R Haiong
+info,player,Mozambique,C Magaia
+info,player,Mozambique,I Chuma
+info,player,Mozambique,O Mondlane
+info,player,Mozambique,A Salomao
+info,player,Mozambique,AL Mundundo
+info,player,Mozambique,RO Mazumba
+info,player,Mozambique,L Chipanga
+info,player,Rwanda,MD Bimenyimana
+info,player,Rwanda,C Uwamahoro
+info,player,Rwanda,JMV Ingabire
+info,player,Rwanda,J Nyirankundineza
+info,player,Rwanda,F Irakoze
+info,player,Rwanda,C Uwase
+info,player,Rwanda,H Ishimwe
+info,player,Rwanda,S Niyomuhoza
+info,player,Rwanda,Rosine Irera
+info,player,Rwanda,MJ Tumukunde
+info,player,Rwanda,R Shimwamana
+info,registry,people,A Salomao,04e145f4
+info,registry,people,AA Moiane,80190078
+info,registry,people,AL Mundundo,c1edced9
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,C Uwamahoro,81dfc700
+info,registry,people,C Uwase,808bb510
+info,registry,people,F Irakoze,14f0a5e3
+info,registry,people,FA Zavala,2edfa6a8
+info,registry,people,H Ishimwe,ffa296f7
+info,registry,people,I Chuma,b1021056
+info,registry,people,IE Mulhovo,ab750f1f
+info,registry,people,J Nyirankundineza,7e7d2fe5
+info,registry,people,JMV Ingabire,f4a96bfd
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,L Chipanga,70722cc7
+info,registry,people,MD Bimenyimana,c1a0cebe
+info,registry,people,MJ Tumukunde,026b815f
+info,registry,people,O Mondlane,7f97139f
+info,registry,people,R Haiong,2832fbba
+info,registry,people,R Nehonde,4393e047
+info,registry,people,R Shimwamana,03fb10bd
+info,registry,people,RO Mazumba,2a753483
+info,registry,people,Rosine Irera,b84718fd
+info,registry,people,S Niyomuhoza,a5424013

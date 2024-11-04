@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Kenya
+info,gender,male
+info,season,2023
+info,date,2023/06/11
+info,event,Africa Continental Cup
+info,match_number,5
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,SO Ngoche
+info,umpire,IO Oyieko
+info,umpire,Nicholas Otieno
+info,reserve_umpire,R D'Mello
+info,winner,Kenya
+info,winner_wickets,8
+info,player,Botswana,Ameer Saiyed
+info,player,Botswana,K Motlanka
+info,player,Botswana,V Mbazo
+info,player,Botswana,R Nehonde
+info,player,Botswana,P Silas
+info,player,Botswana,T Tshose
+info,player,Botswana,D Maisuria
+info,player,Botswana,M Mooketsi
+info,player,Botswana,K Piet
+info,player,Botswana,B Kgosiemang
+info,player,Botswana,B Khumalo
+info,player,Kenya,RN Patel
+info,player,Kenya,CO Obuya
+info,player,Kenya,AA Obanda
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,S Singh
+info,player,Kenya,SR Bhudia
+info,player,Kenya,SO Ngoche
+info,player,Kenya,Vraj Patel
+info,player,Kenya,P Koech
+info,player,Kenya,RR Patel
+info,player,Kenya,GM Muthui
+info,registry,people,AA Obanda,7081491e
+info,registry,people,Ameer Saiyed,2f22325f
+info,registry,people,B Kgosiemang,059ec7a5
+info,registry,people,B Khumalo,33ab1f1c
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,Nicholas Otieno,130de2a7
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Silas,9f2e1944
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,R Nehonde,4393e047
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Mbazo,a2317d14
+info,registry,people,Vraj Patel,2af28253

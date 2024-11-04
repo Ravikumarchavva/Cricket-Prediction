@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Thailand
+info,gender,male
+info,season,2023/24
+info,date,2024/02/02
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,4
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Thailand
+info,toss_decision,field
+info,player_of_match,R Sakurano-Thomas
+info,umpire,Hardeep Jadeja
+info,umpire,Osama Saad Alnadwi
+info,reserve_umpire,MV Krishnakumar
+info,tv_umpire,N Sivan
+info,match_referee,Iftikhar Ahmed
+info,winner,Japan
+info,winner_runs,46
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,KH Abe
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,A Patmore
+info,player,Japan,S Ravichandran
+info,player,Japan,I Takahashi
+info,player,Japan,W Miyauchi
+info,player,Japan,D Suzuki
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,R Drake
+info,player,Japan,P Kumbhare
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,AV Lazarus
+info,player,Thailand,N Nuntarach
+info,player,Thailand,J Coetzee
+info,player,Thailand,MK Thakur
+info,player,Thailand,C Pengkumta
+info,player,Thailand,P Desungnoen
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,registry,people,A Patmore,85119526
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Pengkumta,b3540b2a
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,Iftikhar Ahmed,973d561e
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,MV Krishnakumar,b99e3162
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Osama Saad Alnadwi,a7e2fb32
+info,registry,people,P Desungnoen,e80ed014
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,R Drake,57b3c398
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,Y Saranonnakkun,9c93c0a3

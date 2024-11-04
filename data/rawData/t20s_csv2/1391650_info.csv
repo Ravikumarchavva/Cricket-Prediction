@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Myanmar
+info,gender,female
+info,season,2023
+info,date,2023/08/24
+info,event,Myanmar Women tour of Singapore
+info,match_number,1
+info,venue,"Indian Association Ground, Singapore"
+info,city,Singapore
+info,toss_winner,Myanmar
+info,toss_decision,field
+info,player_of_match,KM Myat
+info,umpire,Foyes Ahmed
+info,umpire,Ravi Putcha
+info,reserve_umpire,Shriya Kumari
+info,match_referee,Sarika Prasad
+info,winner,Myanmar
+info,winner_wickets,4
+info,player,Singapore,RR Seth
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,GK Diviya
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,Kamal Raja
+info,player,Singapore,Vathana Sreemurugavel
+info,player,Singapore,NL Jacinta Si Ping
+info,player,Singapore,Damini Ramesh
+info,player,Myanmar,KM Myat
+info,player,Myanmar,TT Soe
+info,player,Myanmar,MPP San
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,ZL Win
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,LL Htun
+info,player,Myanmar,Thae Thae Po
+info,player,Myanmar,AE Moe
+info,player,Myanmar,TT Aung
+info,player,Myanmar,HH Aung
+info,registry,people,AE Moe,aac82442
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,GK Diviya,992979fa
+info,registry,people,HH Aung,860042f6
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,Kamal Raja,8f2c2c58
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,MPP San,5bc290a2
+info,registry,people,NL Jacinta Si Ping,68c9a36f
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Ravi Putcha,ffecc5bc
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,Vathana Sreemurugavel,eb2d1983
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d

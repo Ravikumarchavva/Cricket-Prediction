@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gambia
+info,team,Sierra Leone
+info,gender,male
+info,season,2022/23
+info,date,2022/12/06
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,18
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Sierra Leone
+info,toss_decision,field
+info,player_of_match,G Ngegba
+info,umpire,BP Jele
+info,umpire,Lauren Agenbag
+info,reserve_umpire,Habib Enesi
+info,match_referee,SA Fritz
+info,winner,Sierra Leone
+info,winner_wickets,8
+info,player,Gambia,Andre Jarju
+info,player,Gambia,Muhammed Manga
+info,player,Gambia,Mustapha Suwareh
+info,player,Gambia,Ousman Bah
+info,player,Gambia,A Conteh
+info,player,Gambia,Abubacarr Kuyateh
+info,player,Gambia,Ismaila Tanba
+info,player,Gambia,ML Bojang
+info,player,Gambia,P Campbell
+info,player,Gambia,F Thorpe
+info,player,Gambia,M Jobarteh
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,L Lamin
+info,player,Sierra Leone,Mohamed Khan
+info,player,Sierra Leone,Zahid Khan
+info,player,Sierra Leone,A Gbla
+info,player,Sierra Leone,C Bah
+info,player,Sierra Leone,M Kpaka
+info,player,Sierra Leone,S Conteh
+info,player,Sierra Leone,J Bangura
+info,player,Sierra Leone,G Sesay
+info,registry,people,A Conteh,97b9cb64
+info,registry,people,A Gbla,34ab1e6e
+info,registry,people,Abubacarr Kuyateh,0ec45a9a
+info,registry,people,Andre Jarju,53dd7d8e
+info,registry,people,BP Jele,7bb1331e
+info,registry,people,C Bah,7213d757
+info,registry,people,F Thorpe,a7de8e39
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,Ismaila Tanba,180e2c15
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,L Lamin,5a970aab
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Jobarteh,4a2ce060
+info,registry,people,M Kpaka,c381cec5
+info,registry,people,ML Bojang,c2409632
+info,registry,people,Mohamed Khan,13501ff4
+info,registry,people,Muhammed Manga,6084f6ee
+info,registry,people,Mustapha Suwareh,44116edc
+info,registry,people,Ousman Bah,95c214dd
+info,registry,people,P Campbell,3caaf69e
+info,registry,people,R Coker,3239c8a9
+info,registry,people,S Conteh,8f70fff7
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,Zahid Khan,bf896894

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Lesotho
+info,gender,female
+info,season,2023
+info,date,2023/09/03
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,6
+info,venue,"Botswana Cricket Association Oval 2, Gaborone"
+info,city,Gaborone
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,S Mosweu
+info,umpire,F Mutizwa
+info,umpire,Lauren Agenbag
+info,winner,Botswana
+info,winner_runs,173
+info,player,Botswana,S Mosweu
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,L Mophakedi
+info,player,Botswana,G Matome
+info,player,Botswana,P Mapotsane
+info,player,Botswana,T Shadrack
+info,player,Botswana,F Samanyika
+info,player,Botswana,B Madimabe
+info,player,Botswana,O Kgeresi
+info,player,Botswana,G Setshwane
+info,player,Botswana,W Moutswi
+info,player,Lesotho,TJ Mahe
+info,player,Lesotho,KM Molapo
+info,player,Lesotho,MM Mabathoana
+info,player,Lesotho,KC Phohlo
+info,player,Lesotho,M Mokoatsela
+info,player,Lesotho,T Kobeli
+info,player,Lesotho,P Pheko
+info,player,Lesotho,MA Tsemane
+info,player,Lesotho,MA Nyabela
+info,player,Lesotho,NM Mokhachane
+info,player,Lesotho,R Limema
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,B Madimabe,1e481de4
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,F Samanyika,c42eed38
+info,registry,people,G Matome,a6898f7a
+info,registry,people,G Setshwane,3dbbe483
+info,registry,people,KC Phohlo,1607f812
+info,registry,people,KM Molapo,dc5934a6
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Mokoatsela,fc32e121
+info,registry,people,MA Nyabela,261fddca
+info,registry,people,MA Tsemane,71eb9780
+info,registry,people,MM Mabathoana,fb432bd3
+info,registry,people,NM Mokhachane,6083f332
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,P Pheko,24e0b90f
+info,registry,people,R Limema,95fdfe7e
+info,registry,people,S Mosweu,10726a80
+info,registry,people,T Kobeli,10f52b3a
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,TJ Mahe,3c5b2e9e
+info,registry,people,W Moutswi,e8c42000

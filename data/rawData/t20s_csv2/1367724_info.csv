@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Portugal
+info,gender,male
+info,season,2023
+info,date,2023/04/11
+info,event,Gibraltar tour of Portugal
+info,match_number,3
+info,venue,Santarem Cricket Ground
+info,city,Albergaria
+info,toss_winner,Gibraltar
+info,toss_decision,bat
+info,player_of_match,Azhar Andani
+info,winner,Portugal
+info,winner_wickets,5
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,JD Freyone
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,J Horrocks
+info,player,Portugal,Kuldeep
+info,player,Portugal,SP Gomes
+info,player,Portugal,Amir Zaib
+info,player,Portugal,Azhar Andani
+info,player,Portugal,Suman Ghimire
+info,player,Portugal,Najjam Shahzad
+info,player,Portugal,ARA Chambers
+info,player,Portugal,Amandeep Singh
+info,player,Portugal,Sirajullah Khadim
+info,player,Portugal,Junaid Khan
+info,player,Portugal,Syed Maisam Ali
+info,registry,people,ARA Chambers,8db27a28
+info,registry,people,Amandeep Singh,d0d32c30
+info,registry,people,Amir Zaib,973006cc
+info,registry,people,Azhar Andani,b5bd99da
+info,registry,people,BA Pai,716bf559
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,JD Freyone,7cd7eb50
+info,registry,people,Junaid Khan,be0077ba
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,Kuldeep,61c48027
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,Najjam Shahzad,58aa33cd
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,S Bodha,00467a76
+info,registry,people,SP Gomes,30acd4b7
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,Suman Ghimire,7d990412
+info,registry,people,Syed Maisam Ali,e204b898

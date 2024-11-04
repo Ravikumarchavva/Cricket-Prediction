@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Maldives
+info,gender,male
+info,season,2024
+info,date,2024/08/30
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,1
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Maldives
+info,toss_decision,field
+info,player_of_match,Syed Aziz
+info,umpire,Morshed Ali Khan
+info,umpire,Tabarak Dar
+info,reserve_umpire,Shiju Sam
+info,match_referee,V Narayan Kutty
+info,winner,Malaysia
+info,winner_runs,94
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Ainool Hafizs
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Ismail Ali
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,GPK Wijesingha
+info,player,Maldives,Mohamed Shiyam
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Shunan Ali
+info,player,Maldives,Ibrahim Rizan
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,GPK Wijesingha,91f4a6e5
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,Mohamed Shiyam,946d4d9a
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shunan Ali,3b2ca392
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d

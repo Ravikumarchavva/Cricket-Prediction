@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Sweden
+info,gender,female
+info,season,2023
+info,date,2023/08/25
+info,event,Nordic Women T20 Cup
+info,match_number,3
+info,venue,Tikkurila Cricket Ground
+info,city,Vantaa
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,SK Ravuri
+info,umpire,SB Ravindra
+info,umpire,UH Sahi
+info,reserve_umpire,T Koralage
+info,winner,Sweden
+info,winner_wickets,9
+info,player,Denmark,NP Dalgaard
+info,player,Denmark,S Brunsgaard
+info,player,Denmark,K Brock-Nielsen
+info,player,Denmark,L Leisner
+info,player,Denmark,S Ostergaard
+info,player,Denmark,RT Nielsen
+info,player,Denmark,D Golechha
+info,player,Denmark,AMN Andersen
+info,player,Denmark,LM Christensen
+info,player,Denmark,ML Karlsen
+info,player,Denmark,Samanvita Vijay
+info,player,Sweden,S Lundell
+info,player,Sweden,E Bogdanova
+info,player,Sweden,Kanchan Rana
+info,player,Sweden,G Shukla
+info,player,Sweden,A Vaidya
+info,player,Sweden,D Gangwani
+info,player,Sweden,E Thelander
+info,player,Sweden,Eman Asim
+info,player,Sweden,H Chamto
+info,player,Sweden,SK Ravuri
+info,player,Sweden,Maria Ahsan
+info,registry,people,A Vaidya,b7d8c07d
+info,registry,people,AMN Andersen,49589e51
+info,registry,people,D Gangwani,9ee105bc
+info,registry,people,D Golechha,c2c12f2a
+info,registry,people,E Bogdanova,c7859708
+info,registry,people,E Thelander,45cb4feb
+info,registry,people,Eman Asim,fd8038e1
+info,registry,people,G Shukla,6b4817d9
+info,registry,people,H Chamto,5e181be6
+info,registry,people,K Brock-Nielsen,c14ba87c
+info,registry,people,Kanchan Rana,d5d87f3f
+info,registry,people,L Leisner,ed614ded
+info,registry,people,LM Christensen,30dc80e6
+info,registry,people,ML Karlsen,4302af3d
+info,registry,people,Maria Ahsan,0efdea1f
+info,registry,people,NP Dalgaard,40283617
+info,registry,people,RT Nielsen,b4c38c22
+info,registry,people,S Brunsgaard,b15f8b0f
+info,registry,people,S Lundell,0d298cc9
+info,registry,people,S Ostergaard,a19e799b
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,SK Ravuri,0398fc0f
+info,registry,people,Samanvita Vijay,2e889952
+info,registry,people,T Koralage,f81e1875
+info,registry,people,UH Sahi,2a66cc06

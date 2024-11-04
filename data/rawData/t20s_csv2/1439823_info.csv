@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Serbia
+info,gender,male
+info,season,2024
+info,date,2024/07/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,9
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Serbia
+info,toss_decision,field
+info,player_of_match,ZXM Vukusic
+info,umpire,Jonathan Kennedy
+info,umpire,N Bathi
+info,reserve_umpire,DH Mclean
+info,match_referee,H Pack
+info,winner,Croatia
+info,winner_runs,28
+info,player,Croatia,CP Turkich
+info,player,Croatia,D Marsic
+info,player,Croatia,ZXM Vukusic
+info,player,Croatia,DJ Turkich
+info,player,Croatia,JM Vujinovich
+info,player,Croatia,M Grzinic
+info,player,Croatia,J Grzinic
+info,player,Croatia,PS Roberts
+info,player,Croatia,B Jerkovic
+info,player,Croatia,LW Potthoff
+info,player,Croatia,A Govorko
+info,player,Serbia,S Ivetic
+info,player,Serbia,A Dizija
+info,player,Serbia,Luka Woods
+info,player,Serbia,BM Pecic
+info,player,Serbia,LA Dunbar
+info,player,Serbia,MV Pavlovic
+info,player,Serbia,V Zimonjic
+info,player,Serbia,S Tosic
+info,player,Serbia,P Nedeljkovic
+info,player,Serbia,AA Gajic
+info,player,Serbia,M Sarenac
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Govorko,a6e4e6f9
+info,registry,people,AA Gajic,a768a762
+info,registry,people,B Jerkovic,63bd7086
+info,registry,people,BM Pecic,71093272
+info,registry,people,CP Turkich,6264d645
+info,registry,people,D Marsic,16fa34cf
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DJ Turkich,96013995
+info,registry,people,H Pack,fed53c91
+info,registry,people,J Grzinic,03c94c2f
+info,registry,people,JM Vujinovich,99ad98b0
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,LW Potthoff,02b87bde
+info,registry,people,Luka Woods,0996f198
+info,registry,people,M Grzinic,58fba7cb
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,P Nedeljkovic,87e87dd2
+info,registry,people,PS Roberts,fd43bb69
+info,registry,people,S Ivetic,04ab1575
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,ZXM Vukusic,78a3ae4b

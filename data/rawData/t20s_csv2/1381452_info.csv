@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Germany
+info,gender,male
+info,season,2023
+info,date,2023/06/30
+info,event,Austria tour of Netherlands
+info,match_number,2
+info,venue,"Sportpark Het Schootsveld, Deventer"
+info,city,Deventer
+info,toss_winner,Germany
+info,toss_decision,field
+info,umpire,N Bathi
+info,umpire,WPM van Liemt
+info,winner,Germany
+info,winner_wickets,8
+info,player,Austria,M Simpson-Parker
+info,player,Austria,Iqbal Hossain
+info,player,Austria,Razmal Shigiwal
+info,player,Austria,A Randhawa
+info,player,Austria,Shahil Momin
+info,player,Austria,Mirza Ahsan
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Umair Tariq
+info,player,Austria,Jaweed Sadran
+info,player,Austria,MPS Cheema
+info,player,Austria,A Nathwani
+info,player,Germany,V Ganesan
+info,player,Germany,J van Heerden
+info,player,Germany,MJ Richardson
+info,player,Germany,Faisal Mubashir
+info,player,Germany,Ghulam Ahmadi
+info,player,Germany,Muslim Yar
+info,player,Germany,SVE Bharathi
+info,player,Germany,Abdul Bashir
+info,player,Germany,Sachin Mandy
+info,player,Germany,Sahir Naqash
+info,player,Germany,H Singh
+info,registry,people,A Nathwani,f1c4f2ea
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Abdul Bashir,b6af1647
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Faisal Mubashir,ad5342dc
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,Iqbal Hossain,e1824e7d
+info,registry,people,J van Heerden,01549705
+info,registry,people,Jaweed Sadran,c1f05d1d
+info,registry,people,M Simpson-Parker,fecd828e
+info,registry,people,MJ Richardson,22176fe7
+info,registry,people,MPS Cheema,97181d1b
+info,registry,people,Mirza Ahsan,6b74c13b
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,Razmal Shigiwal,60cc80ac
+info,registry,people,SVE Bharathi,6a63c29c
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,Shahil Momin,46821fbd
+info,registry,people,Umair Tariq,67ec2b09
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,WPM van Liemt,2bd48588

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Papua New Guinea
+info,gender,male
+info,season,2023/24
+info,date,2024/03/12
+info,event,Hong Kong Men's T20I Series
+info,match_number,3
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,S Bau
+info,umpire,John Prakash
+info,umpire,SJ D'Cruz
+info,reserve_umpire,H Tukrul
+info,match_referee,G Sankaranarayanan
+info,winner,Papua New Guinea
+info,winner_wickets,10
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,CA Soper
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,HGV Vare
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,A Vala,72e60730
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,CA Soper,9920dd86
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,H Tukrul,a2880cb1
+info,registry,people,HGV Vare,98299b67
+info,registry,people,J Kariko,cde067e1
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,K Doriga,365229a8
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,S Bau,9a95bebb
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

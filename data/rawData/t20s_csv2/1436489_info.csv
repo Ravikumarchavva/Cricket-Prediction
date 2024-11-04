@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Turkey
+info,gender,male
+info,season,2024
+info,date,2024/06/15
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,19
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Turkey
+info,toss_decision,field
+info,player_of_match,Kamran Ahmadzai
+info,umpire,I McDonald
+info,umpire,J Jensen
+info,reserve_umpire,M Jameson
+info,match_referee,G McCrea
+info,winner,France
+info,winner_runs,40
+info,player,France,H Niaz
+info,player,France,Zain Ahmad
+info,player,France,L Canessane
+info,player,France,C Roberts
+info,player,France,HA Jackson
+info,player,France,Usman Khan
+info,player,France,Dawood Ahmadzai
+info,player,France,Kamran Ahmadzai
+info,player,France,Ikbal Hossain
+info,player,France,Mukhtar Ghulami
+info,player,France,S Stanikzay
+info,player,Turkey,Abdullah Khan Lodhi
+info,player,Turkey,Shamsullah Ehsan
+info,player,Turkey,R Nath
+info,player,Turkey,I Elec
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,A Turkmen
+info,player,Turkey,M Ozturk
+info,player,Turkey,Serdar Burak Emir
+info,player,Turkey,GG Alta
+info,player,Turkey,Muhammed Turkmen
+info,player,Turkey,T Turan
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,Abdullah Khan Lodhi,6d8b7ac4
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GG Alta,c7bb2416
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,I McDonald,37b55799
+info,registry,people,Ikbal Hossain,e01d2dae
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,Muhammed Turkmen,8e7e982c
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,R Nath,126f1e28
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,Serdar Burak Emir,6d9238ac
+info,registry,people,Shamsullah Ehsan,356bf068
+info,registry,people,T Turan,2e18b647
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,Zain Ahmad,ea2c0aff

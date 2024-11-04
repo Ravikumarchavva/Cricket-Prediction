@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Pakistan
+info,gender,female
+info,season,2024
+info,date,2024/09/16
+info,event,South Africa Women tour of Pakistan
+info,match_number,1
+info,venue,Multan Cricket Stadium
+info,city,Multan
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,T Brits
+info,umpire,Faisal Afridi
+info,umpire,Saleema Imtiaz
+info,reserve_umpire,Humaira Farah
+info,tv_umpire,Nasir Hussain
+info,match_referee,Muhammad Javed
+info,winner,South Africa
+info,winner_runs,10
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,M Kapp
+info,player,South Africa,S Luus
+info,player,South Africa,CL Tryon
+info,player,South Africa,A Dercksen
+info,player,South Africa,S Jafta
+info,player,South Africa,S Naidu
+info,player,South Africa,A Khaka
+info,player,South Africa,TS Sekhukhune
+info,player,Pakistan,Gull Feroza
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Sadia Iqbal
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Syeda Aroob Shah
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,A Khaka,0d518f89
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,Gull Feroza,9ff1e91e
+info,registry,people,Humaira Farah,6b6d6623
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nasir Hussain,5b2fe85b
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Naidu,ff20c3ed
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Syeda Aroob Shah,4cf8708b
+info,registry,people,T Brits,06659caa
+info,registry,people,TS Sekhukhune,6e28e586
+info,registry,people,Tuba Hassan,0d56e9a5

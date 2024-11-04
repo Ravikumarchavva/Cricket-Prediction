@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Malta
+info,gender,male
+info,season,2024
+info,date,2024/08/28
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Malta
+info,toss_decision,field
+info,player_of_match,S Burdekin
+info,umpire,Jareth McCready
+info,umpire,S Wood
+info,reserve_umpire,RJ Warren
+info,match_referee,GH Pienaar
+info,winner,Cyprus
+info,winner_runs,6
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,CPPM Sadun
+info,player,Cyprus,S Austin
+info,player,Cyprus,S Burdekin
+info,player,Cyprus,J Chialoufas
+info,player,Cyprus,R Siriwardena
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,P Deol
+info,player,Cyprus,SN Pathirana
+info,player,Cyprus,B Mahesh
+info,player,Malta,R Dianish
+info,player,Malta,Zeeshan Khan
+info,player,Malta,B George
+info,player,Malta,Jaspal Singh
+info,player,Malta,Jaswinder Singh
+info,player,Malta,DR Patankar
+info,player,Malta,E Mathew
+info,player,Malta,C Sudarsanan
+info,player,Malta,VRB Arachchige
+info,player,Malta,G Thakur
+info,player,Malta,J Shaju
+info,registry,people,B George,1bdbf53b
+info,registry,people,B Mahesh,90bd1f11
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,CPPM Sadun,2cf2fc9e
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Mathew,e00acf74
+info,registry,people,G Thakur,93720584
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,J Chialoufas,90eac542
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,P Deol,ecfa6005
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,R Siriwardena,c3ba4942
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Austin,40ee633c
+info,registry,people,S Burdekin,98e3f1de
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,SN Pathirana,f4000a7d
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,VRB Arachchige,70e1b3a8
+info,registry,people,Zeeshan Khan,3f9b1a96

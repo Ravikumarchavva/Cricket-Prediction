@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,male
+info,season,2022/23
+info,date,2022/11/01
+info,event,ICC Men's T20 World Cup
+info,match_number,33
+info,venue,"Brisbane Cricket Ground, Woolloongabba, Brisbane"
+info,city,Brisbane
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,JC Buttler
+info,umpire,L Rusere
+info,umpire,Nitin Menon
+info,reserve_umpire,Ahsan Raza
+info,tv_umpire,RJ Tucker
+info,match_referee,AJ Pycroft
+info,winner,England
+info,winner_runs,20
+info,player,England,JC Buttler
+info,player,England,AD Hales
+info,player,England,MM Ali
+info,player,England,LS Livingstone
+info,player,England,HC Brook
+info,player,England,BA Stokes
+info,player,England,SM Curran
+info,player,England,DJ Malan
+info,player,England,CR Woakes
+info,player,England,MA Wood
+info,player,England,AU Rashid
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,JDS Neesham
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,TG Southee
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,registry,people,AD Hales,92aeac25
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,BA Stokes,e087956b
+info,registry,people,CJ Jordan,ffe699c0
+info,registry,people,CR Woakes,4c5d73db
+info,registry,people,DJ Malan,ad9c32a2
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JDS Neesham,9219eff0
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,MA Wood,8d92a2c3
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MM Ali,bb351c23
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TG Southee,13c35c9e

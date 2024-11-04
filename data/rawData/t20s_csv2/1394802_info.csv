@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Japan
+info,gender,female
+info,season,2023
+info,date,2023/09/04
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,9
+info,venue,Vanuatu Cricket Ground (Oval 2)
+info,city,Port Vila
+info,toss_winner,Fiji
+info,toss_decision,bat
+info,player_of_match,Nonoha Yasumoto
+info,umpire,K Tanuvasa
+info,umpire,M Kenni
+info,reserve_umpire,Kim Cotton
+info,match_referee,RW Stratford
+info,winner,Japan
+info,winner_wickets,8
+info,player,Fiji,I Waqavakatoga
+info,player,Fiji,M Ratuki
+info,player,Fiji,R Muriyalo
+info,player,Fiji,LE Lomani
+info,player,Fiji,AISD Kainoco
+info,player,Fiji,MSC Erasito
+info,player,Fiji,M Biu
+info,player,Fiji,KV Vakuruivalu
+info,player,Fiji,S Sigaiwasa
+info,player,Fiji,AK Gonerara
+info,player,Fiji,S Vuni
+info,player,Japan,A Kano
+info,player,Japan,Erika Oda
+info,player,Japan,H Iwasaki
+info,player,Japan,A Chandel
+info,player,Japan,M Yanagida
+info,player,Japan,S Kato
+info,player,Japan,A Fujikawa
+info,player,Japan,K Ota
+info,player,Japan,Nonoha Yasumoto
+info,player,Japan,E Kusuda-Nairn
+info,player,Japan,E Toguchi-Quinn
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,AISD Kainoco,f3614f32
+info,registry,people,AK Gonerara,141ee9a0
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,I Waqavakatoga,31d220f5
+info,registry,people,K Ota,211f48fe
+info,registry,people,K Tanuvasa,34fa0472
+info,registry,people,KV Vakuruivalu,98db3666
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LE Lomani,9d785b30
+info,registry,people,M Biu,c386183b
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,M Ratuki,ad78df1c
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,MSC Erasito,ce02e769
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,R Muriyalo,a2fc9177
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Kato,ef9ff861
+info,registry,people,S Sigaiwasa,b1414505
+info,registry,people,S Vuni,951e08f0

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Kuwait
+info,gender,male
+info,season,2023/24
+info,date,2024/03/06
+info,event,Malaysia Open T20 Championship
+info,match_number,3
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,MNM Aslam
+info,umpire,N Sivan
+info,umpire,Nasir Ali
+info,reserve_umpire,Tabarak Dar
+info,tv_umpire,Sarika Prasad
+info,match_referee,Edwin Seah
+info,winner,Kuwait
+info,winner_wickets,5
+info,player,Tanzania,II Selemani
+info,player,Tanzania,J Masquater
+info,player,Tanzania,AJ Jabiri
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,S Thakor
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,Sefu Athumani
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,YM Nkanya
+info,player,Tanzania,AM Kimote
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Nimish Lathief
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Parvindar Kumar
+info,player,Kuwait,Sayed Monib
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Masquater,f6d3cab2
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MNM Aslam,20481563
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,Nimish Lathief,b561e8ea
+info,registry,people,Parvindar Kumar,7a27bee5
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Sefu Athumani,2df62c48
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,Yasin Patel,ecdd8d60

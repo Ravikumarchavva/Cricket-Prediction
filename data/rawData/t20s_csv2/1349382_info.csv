@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Qatar
+info,gender,male
+info,season,2022/23
+info,date,2022/12/18
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,5
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,Sarfaraz Ali
+info,umpire,Nasir Ali
+info,umpire,Tabarak Dar
+info,reserve_umpire,V Kalidas
+info,match_referee,Edwin Seah
+info,winner,Bahrain
+info,winner_runs,13
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Danish Jasnaik
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Waseeq Ahmed
+info,player,Bahrain,Shahid Mahmood
+info,player,Qatar,Kamran Khan
+info,player,Qatar,I Liyanage
+info,player,Qatar,Syed Tameem
+info,player,Qatar,VN Veetil
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Mohammad Rizlan
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Akash Babu
+info,player,Qatar,Assad Borham
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Mohammed Nadeem
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Akash Babu,fb59e5bc
+info,registry,people,Assad Borham,219a417a
+info,registry,people,Danish Jasnaik,d24ad3e5
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,Mohammad Rizlan,82afc034
+info,registry,people,Mohammed Nadeem,856cbb1e
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Shahid Mahmood,37753749
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Syed Tameem,50955fee
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VN Veetil,3cf5a041
+info,registry,people,Waseeq Ahmed,a7d6c101

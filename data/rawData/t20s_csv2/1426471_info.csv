@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Hong Kong
+info,gender,male
+info,season,2024
+info,date,2024/04/17
+info,event,ACC Men's Premier Cup
+info,match_number,17
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,Babar Hayat
+info,umpire,Shiju Sam
+info,umpire,S Ravi
+info,reserve_umpire,Tariq Rasheed
+info,tv_umpire,Ahmed Shah Durrani
+info,match_referee,Selim Shahid
+info,winner,Hong Kong
+info,winner_wickets,7
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,Nazmus Sakib
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Pavandeep Singh
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Ateeq Iqbal
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nazmus Sakib,53967e23
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Selim Shahid,b478bce3
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

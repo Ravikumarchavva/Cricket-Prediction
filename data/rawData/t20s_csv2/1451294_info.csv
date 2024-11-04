@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Greece
+info,team,Spain
+info,gender,female
+info,season,2024
+info,date,2024/09/22
+info,event,Spain Women tour of Greece
+info,match_number,5
+info,venue,"Marina Ground, Corfu"
+info,city,Corfu
+info,toss_winner,Greece
+info,toss_decision,bat
+info,player_of_match,A Davidson-Soler
+info,umpire,C Vassilas
+info,umpire,Ioannis Afthinos
+info,reserve_umpire,L Goustis
+info,winner,Spain
+info,winner_wickets,8
+info,player,Greece,M Syrioti
+info,player,Greece,M Polimeri
+info,player,Greece,A Argyropoulou
+info,player,Greece,A Gisdaki
+info,player,Greece,A Makri
+info,player,Greece,S Georgota
+info,player,Greece,DS Vlachopoulou
+info,player,Greece,N Dolianiti
+info,player,Greece,E Tzanavari
+info,player,Greece,M Vervitsioti
+info,player,Greece,A Savvani
+info,player,Spain,Uswa Syed
+info,player,Spain,KR Frost
+info,player,Spain,A Davidson-Soler
+info,player,Spain,P Chilongia
+info,player,Spain,NH Berejo
+info,player,Spain,A Brown-Carrera
+info,player,Spain,EMC Fowler
+info,player,Spain,Tashiba Mirza
+info,player,Spain,Memoona Riaz
+info,player,Spain,S Basharat
+info,player,Spain,LD Chukkapalli-Llinares
+info,registry,people,A Argyropoulou,3f1bfd19
+info,registry,people,A Brown-Carrera,9e866d80
+info,registry,people,A Davidson-Soler,71d6fd2c
+info,registry,people,A Gisdaki,f8fc699a
+info,registry,people,A Makri,98affc04
+info,registry,people,A Savvani,5d006a1a
+info,registry,people,C Vassilas,5fe71db5
+info,registry,people,DS Vlachopoulou,5c884c17
+info,registry,people,E Tzanavari,c68b8478
+info,registry,people,EMC Fowler,4f88a917
+info,registry,people,Ioannis Afthinos,953c72cb
+info,registry,people,KR Frost,160c90b1
+info,registry,people,L Goustis,f070d80e
+info,registry,people,LD Chukkapalli-Llinares,27b50a31
+info,registry,people,M Polimeri,35ccd83f
+info,registry,people,M Syrioti,f9df0aa2
+info,registry,people,M Vervitsioti,6fd40892
+info,registry,people,Memoona Riaz,3c5a7deb
+info,registry,people,N Dolianiti,096149b4
+info,registry,people,NH Berejo,a9ec2608
+info,registry,people,P Chilongia,764d8336
+info,registry,people,S Basharat,1356b739
+info,registry,people,S Georgota,d07b6842
+info,registry,people,Tashiba Mirza,2020d4fd
+info,registry,people,Uswa Syed,cbc0e027

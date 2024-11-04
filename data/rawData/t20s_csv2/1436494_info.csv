@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Romania
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,JA Burns
+info,umpire,M Jameson
+info,umpire,MJ Saggers
+info,reserve_umpire,Adeel Ashiq
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_runs,160
+info,player,Italy,J Mosca
+info,player,Italy,JA Burns
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,Jaspreet Singh
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,S di Bartolomeo
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,TJ Draca
+info,player,Romania,Taranjeet Singh
+info,player,Romania,AN Lascu
+info,player,Romania,V Saini
+info,player,Romania,Muhammad Moiz
+info,player,Romania,Rameez Khan
+info,player,Romania,S Nadigotla
+info,player,Romania,A Rajshekara
+info,player,Romania,S Vashisht
+info,player,Romania,Ali Hussain
+info,player,Romania,P Hingorani
+info,player,Romania,M Koli
+info,registry,people,A Rajshekara,1f3e41fe
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,AN Lascu,e2c882d1
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Ali Hussain,b8fe81be
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Koli,eb0f2802
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,Rameez Khan,ee86a890
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,TJ Draca,88fac705
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719

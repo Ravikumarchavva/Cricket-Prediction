@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Bulgaria
+info,gender,male
+info,season,2024
+info,date,2024/08/27
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,18
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Finland
+info,toss_decision,bat
+info,player_of_match,Atif Rasheed
+info,umpire,AY Harris
+info,umpire,Jareth McCready
+info,reserve_umpire,S Wood
+info,match_referee,GH Pienaar
+info,winner,Finland
+info,winner_runs,125
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,VS Padhaal
+info,player,Finland,Atif Rasheed
+info,player,Finland,Jordan O'Brien
+info,player,Finland,NM Salonen
+info,player,Finland,Amjad Sher
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,MB Tambe
+info,player,Finland,Ziaur Rehman
+info,player,Finland,Parveen Kumar
+info,player,Finland,Raaz Mohammad
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,Firas Hussain
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,Omar Rassol
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Ali Rasool
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,Huzaif Yousuf
+info,player,Bulgaria,P Mishra
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Ali Rasool,1a710f40
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,Firas Hussain,261d591a
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,Huzaif Yousuf,95e47073
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,Omar Rassol,6caae2dc
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,Parveen Kumar,babc65d3
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Zeerak Chughtai,ff0b1636
+info,registry,people,Ziaur Rehman,085c1a4c

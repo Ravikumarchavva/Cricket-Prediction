@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Sweden
+info,gender,female
+info,season,2022/23
+info,date,2022/11/14
+info,event,Women's T20 Pentangular Series (in Spain)
+info,match_number,10
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,A Brown-Carrera
+info,winner,Spain
+info,winner_runs,43
+info,player,Spain,P Chilongia
+info,player,Spain,EMC Fowler
+info,player,Spain,Uswa Syed
+info,player,Spain,NH Berejo
+info,player,Spain,Wania Malik
+info,player,Spain,A Brown-Carrera
+info,player,Spain,Hifsa Butt
+info,player,Spain,Muskan Naseeb
+info,player,Spain,JG Kaur
+info,player,Spain,Rabia Iqbal
+info,player,Spain,Tashiba Mirza
+info,player,Sweden,Kanchan Rana
+info,player,Sweden,S Lundell
+info,player,Sweden,G Shukla
+info,player,Sweden,RG Somashekhar
+info,player,Sweden,Jayasooriya
+info,player,Sweden,M Alugunoolla
+info,player,Sweden,Eman Asim
+info,player,Sweden,A Vaidya
+info,player,Sweden,S Linden
+info,player,Sweden,S Elmsjoo
+info,player,Sweden,N Kayani
+info,registry,people,A Brown-Carrera,9e866d80
+info,registry,people,A Vaidya,b7d8c07d
+info,registry,people,EMC Fowler,4f88a917
+info,registry,people,Eman Asim,fd8038e1
+info,registry,people,G Shukla,6b4817d9
+info,registry,people,Hifsa Butt,914d0a6e
+info,registry,people,JG Kaur,045e73c2
+info,registry,people,Jayasooriya,39183970
+info,registry,people,Kanchan Rana,d5d87f3f
+info,registry,people,M Alugunoolla,15f570b6
+info,registry,people,Muskan Naseeb,517e1077
+info,registry,people,N Kayani,ca3f2b64
+info,registry,people,NH Berejo,a9ec2608
+info,registry,people,P Chilongia,764d8336
+info,registry,people,RG Somashekhar,881cb071
+info,registry,people,Rabia Iqbal,a3a5072b
+info,registry,people,S Elmsjoo,ce5030d8
+info,registry,people,S Linden,35836baf
+info,registry,people,S Lundell,0d298cc9
+info,registry,people,Tashiba Mirza,2020d4fd
+info,registry,people,Uswa Syed,cbc0e027
+info,registry,people,Wania Malik,1a35a2d3

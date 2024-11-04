@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,West Indies
+info,gender,male
+info,season,2024
+info,date,2024/08/27
+info,event,South Africa tour of West Indies
+info,match_number,3
+info,venue,"Brian Lara Stadium, Tarouba, Trinidad"
+info,city,Tarouba
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,R Shepherd
+info,umpire,GO Brathwaite
+info,umpire,LS Reifer
+info,reserve_umpire,PA Gustard
+info,tv_umpire,N Duguid
+info,match_referee,AJ Pycroft
+info,winner,West Indies
+info,winner_wickets,8
+info,method,D/L
+info,player,South Africa,RD Rickelton
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,JF Smith
+info,player,South Africa,PWA Mulder
+info,player,South Africa,PE Kruger
+info,player,South Africa,BC Fortuin
+info,player,South Africa,LB Williams
+info,player,South Africa,KT Maphaka
+info,player,South Africa,OEG Baartman
+info,player,West Indies,A Athanaze
+info,player,West Indies,SD Hope
+info,player,West Indies,N Pooran
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,RL Chase
+info,player,West Indies,FA Allen
+info,player,West Indies,R Shepherd
+info,player,West Indies,AJ Hosein
+info,player,West Indies,G Motie
+info,player,West Indies,MW Forde
+info,player,West Indies,OC McCoy
+info,registry,people,A Athanaze,58c2fac4
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,JF Smith,91cd48e0
+info,registry,people,KT Maphaka,107c26fb
+info,registry,people,LB Williams,a1d95bd8
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,N Duguid,64495506
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,PE Kruger,39181592
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,T Stubbs,85b3fab2

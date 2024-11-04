@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Kuwait
+info,gender,female
+info,season,2023/24
+info,date,2024/02/11
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,9
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,N Chaiwai
+info,umpire,L Poobalan
+info,umpire,Shivani Mishra
+info,reserve_umpire,RK Yadav
+info,match_referee,B Ramani
+info,winner,Thailand
+info,winner_runs,96
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chaiwai
+info,player,Thailand,T Putthawong
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,N Boochatham
+info,player,Thailand,R Kanoh
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,P Maya
+info,player,Thailand,S Chaturongrattana
+info,player,Thailand,S Khiaoto
+info,player,Thailand,A Suwanchonrathi
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,B Shanti
+info,player,Kuwait,Maryam Omar
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,S Lita D'Sa
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Maryyam Ashraf
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,Maria Jasvi
+info,registry,people,A Suwanchonrathi,43a2244f
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Ramani,92ad5353
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryam Omar,b4d08794
+info,registry,people,Maryyam Ashraf,1b9d3eb3
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,R Kanoh,5959370f
+info,registry,people,RK Yadav,a872bd90
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Lita D'Sa,a289cfa0
+info,registry,people,SL Gomez,02264be0
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,T Putthawong,23e3f2d6
+info,registry,people,Zeefa Jilani,3f2b40f0

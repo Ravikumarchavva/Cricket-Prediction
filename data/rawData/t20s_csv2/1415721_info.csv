@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Bangladesh
+info,gender,male
+info,season,2024
+info,date,2024/06/10
+info,event,ICC Men's T20 World Cup
+info,match_number,21
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,H Klaasen
+info,umpire,RK Illingworth
+info,umpire,SJ Nogajski
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,MA Gough
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_runs,4
+info,player,South Africa,RR Hendricks
+info,player,South Africa,Q de Kock
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,OEG Baartman
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Ireland
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,India tour of Ireland
+info,match_number,2
+info,venue,"Malahide, Dublin"
+info,city,Dublin
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,RK Singh
+info,umpire,PA Reynolds
+info,umpire,R Black
+info,reserve_umpire,M Hawthorne
+info,tv_umpire,Jareth McCready
+info,match_referee,G McCrea
+info,winner,India
+info,winner_runs,33
+info,player,India,YBK Jaiswal
+info,player,India,RD Gaikwad
+info,player,India,Tilak Varma
+info,player,India,SV Samson
+info,player,India,RK Singh
+info,player,India,S Dube
+info,player,India,Washington Sundar
+info,player,India,Arshdeep Singh
+info,player,India,JJ Bumrah
+info,player,India,Ravi Bishnoi
+info,player,India,M Prasidh Krishna
+info,player,Ireland,A Balbirnie
+info,player,Ireland,PR Stirling
+info,player,Ireland,L Tucker
+info,player,Ireland,HT Tector
+info,player,Ireland,C Campher
+info,player,Ireland,GH Dockrell
+info,player,Ireland,MR Adair
+info,player,Ireland,BJ McCarthy
+info,player,Ireland,CA Young
+info,player,Ireland,J Little
+info,player,Ireland,B White
+info,registry,people,A Balbirnie,6ef13460
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,B White,1a448be0
+info,registry,people,BJ McCarthy,3766056b
+info,registry,people,C Campher,478a63e7
+info,registry,people,CA Young,bd0a4a7d
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GH Dockrell,99cddc5e
+info,registry,people,HT Tector,59ea70a4
+info,registry,people,J Little,9061a703
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,L Tucker,3979b5e0
+info,registry,people,M Hawthorne,ea123ee4
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MR Adair,fc55ec67
+info,registry,people,PA Reynolds,a416c9c3
+info,registry,people,PR Stirling,cf494ffe
+info,registry,people,R Black,156c8fb1
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YBK Jaiswal,6c19c6e5

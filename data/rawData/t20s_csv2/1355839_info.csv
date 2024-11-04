@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cambodia
+info,team,Singapore
+info,gender,female
+info,season,2022/23
+info,date,2023/02/10
+info,event,Singapore Women tour of Cambodia
+info,match_number,3
+info,venue,Morodok Techo National Stadium
+info,city,Phnom Penh
+info,toss_winner,Singapore
+info,toss_decision,field
+info,player_of_match,Shafina Mahesh
+info,umpire,PK Singh
+info,umpire,Prasad Anish
+info,winner,Singapore
+info,winner_wickets,8
+info,player,Cambodia,Pech Pisa
+info,player,Cambodia,Dok Da Nit
+info,player,Cambodia,LY Loch Srey
+info,player,Cambodia,Pen Samon
+info,player,Cambodia,Hor Siv na
+info,player,Cambodia,Phoup Srey Pheak
+info,player,Cambodia,Ly Saomakara
+info,player,Cambodia,Hon Sovannary
+info,player,Cambodia,Soung Seav
+info,player,Cambodia,Heal Theara
+info,player,Cambodia,Ouen Sophy
+info,player,Singapore,Vathana Sreemurugavel
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,NL Jacinta Si Ping
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,JT Pooranakaran
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,GK Diviya
+info,player,Singapore,H Dhavina
+info,player,Singapore,Damini Ramesh
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,Dok Da Nit,d6ca2714
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,Heal Theara,aae7b7f0
+info,registry,people,Hon Sovannary,75b65b7e
+info,registry,people,Hor Siv na,05d1964e
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,JT Pooranakaran,3a743619
+info,registry,people,LY Loch Srey,a994e18f
+info,registry,people,Ly Saomakara,a9668b5f
+info,registry,people,NL Jacinta Si Ping,68c9a36f
+info,registry,people,Ouen Sophy,4477b556
+info,registry,people,PK Singh,4bf8dd40
+info,registry,people,Pech Pisa,c7eb3b9c
+info,registry,people,Pen Samon,caa4444c
+info,registry,people,Phoup Srey Pheak,8c73dff5
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Soung Seav,5e80eb8e
+info,registry,people,Vathana Sreemurugavel,eb2d1983
+info,registry,people,Vinu Kumar,3775b9f9

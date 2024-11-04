@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Germany
+info,gender,female
+info,season,2023
+info,date,2023/05/30
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,5
+info,venue,"Grainville, St Saviour, Jersey"
+info,city,St Saviour
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,CM Gough
+info,umpire,DH Mclean
+info,umpire,Ryan Milne
+info,reserve_umpire,Jareth McCready
+info,match_referee,G McCrea
+info,winner,Germany
+info,winner_wickets,9
+info,player,Jersey,MD Rocha
+info,player,Jersey,C Miles
+info,player,Jersey,CM Greechan
+info,player,Jersey,T Smith
+info,player,Jersey,M Maguire
+info,player,Jersey,A Merritt
+info,player,Jersey,A Aikenhead
+info,player,Jersey,G Wetherall
+info,player,Jersey,G Mallett
+info,player,Jersey,E Duffy
+info,player,Jersey,E Gouge
+info,player,Germany,A Bierwisch
+info,player,Germany,CM Gough
+info,player,Germany,A Doddaballapur
+info,player,Germany,MS Beresford
+info,player,Germany,EC Bargna
+info,player,Germany,K Vijayaraghavan
+info,player,Germany,SR McAnanama-Brereton
+info,player,Germany,A Kohli
+info,player,Germany,S Mannan
+info,player,Germany,S Kolcharam
+info,player,Germany,Rameesha Shahid
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Bierwisch,b51d654f
+info,registry,people,A Doddaballapur,fe4f5d2b
+info,registry,people,A Kohli,eb9082b2
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,C Miles,80f16d29
+info,registry,people,CM Gough,f1328a90
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,DH Mclean,281d4749
+info,registry,people,E Duffy,52bbb9e5
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,EC Bargna,9908d470
+info,registry,people,G Mallett,95bf6b2a
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,MD Rocha,30aa04d2
+info,registry,people,MS Beresford,26eb73f9
+info,registry,people,Rameesha Shahid,b810425e
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S Kolcharam,761c929e
+info,registry,people,S Mannan,41b8a051
+info,registry,people,SR McAnanama-Brereton,bb1be934
+info,registry,people,T Smith,f24ffaab

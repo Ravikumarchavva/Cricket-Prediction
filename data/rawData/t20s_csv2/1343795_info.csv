@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Cameroon
+info,gender,male
+info,season,2022/23
+info,date,2022/12/09
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,28
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,YM Nkanya
+info,umpire,C Phiri
+info,umpire,Habib Enesi
+info,reserve_umpire,Stephen Harris
+info,match_referee,SA Fritz
+info,winner,Tanzania
+info,winner_runs,184
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,S Thakor
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,YM Nkanya
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,JJ Nyambo
+info,player,Cameroon,I Tchakou
+info,player,Cameroon,CB Ondoa
+info,player,Cameroon,P Abanda
+info,player,Cameroon,BN Toube
+info,player,Cameroon,AR Balla
+info,player,Cameroon,AN Toube
+info,player,Cameroon,RGA Amah
+info,player,Cameroon,JB Abega
+info,player,Cameroon,N Ndouteng
+info,player,Cameroon,AB Mengoumou
+info,player,Cameroon,RD Atangana
+info,registry,people,AB Mengoumou,8ad3d034
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AN Toube,7f929ebe
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Balla,4b83e65a
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,BN Toube,75f3aa00
+info,registry,people,C Phiri,ade73404
+info,registry,people,CB Ondoa,b3179e21
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,I Tchakou,4d2b96b4
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,JB Abega,b7abb123
+info,registry,people,JJ Nyambo,ffb3b559
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,N Ndouteng,25640e61
+info,registry,people,P Abanda,90a8dfec
+info,registry,people,RD Atangana,490f475a
+info,registry,people,RGA Amah,90f9aedf
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,YM Nkanya,9238dd92

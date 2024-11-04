@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Cyprus
+info,gender,female
+info,season,2024
+info,date,2024/09/14
+info,event,Cyprus Women tour of Serbia
+info,match_number,1
+info,venue,Lisicji Jarak Cricket Ground
+info,city,Belgrade
+info,toss_winner,Cyprus
+info,toss_decision,field
+info,player_of_match,N Liyanage
+info,winner,Cyprus
+info,winner_wickets,7
+info,player,Serbia,M Nikolic
+info,player,Serbia,T Trajkovic
+info,player,Serbia,A Mesarovic
+info,player,Serbia,N Nojic
+info,player,Serbia,M Perisic
+info,player,Serbia,T Martic
+info,player,Serbia,E Prokic
+info,player,Serbia,S Simic
+info,player,Serbia,N Jovicevic
+info,player,Serbia,M Trajkovi
+info,player,Serbia,M Jevdjenovic
+info,player,Cyprus,T Gedarage
+info,player,Cyprus,S Jayakodi
+info,player,Cyprus,A Taylor
+info,player,Cyprus,A Dirannehelage
+info,player,Cyprus,T De Silva
+info,player,Cyprus,D Koralalage
+info,player,Cyprus,S Dunukedeniya
+info,player,Cyprus,C Wijesinghe
+info,player,Cyprus,S Arachchige
+info,player,Cyprus,N Liyanage
+info,player,Cyprus,I Chathurani
+info,registry,people,A Dirannehelage,039168c7
+info,registry,people,A Mesarovic,15404b57
+info,registry,people,A Taylor,723f9bee
+info,registry,people,C Wijesinghe,db86ac96
+info,registry,people,D Koralalage,5e6041a4
+info,registry,people,E Prokic,6153ce0d
+info,registry,people,I Chathurani,85364088
+info,registry,people,M Jevdjenovic,3be2b0a3
+info,registry,people,M Nikolic,852f74c8
+info,registry,people,M Perisic,81599c08
+info,registry,people,M Trajkovi,2f208ab6
+info,registry,people,N Jovicevic,b7a608b0
+info,registry,people,N Liyanage,2ee5997e
+info,registry,people,N Nojic,ef537c2e
+info,registry,people,S Arachchige,e6681f88
+info,registry,people,S Dunukedeniya,3134e4a4
+info,registry,people,S Jayakodi,64875d5c
+info,registry,people,S Simic,c219a3c4
+info,registry,people,T De Silva,31821596
+info,registry,people,T Gedarage,5be7eb8a
+info,registry,people,T Martic,1acf530e
+info,registry,people,T Trajkovic,1e630426

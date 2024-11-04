@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Uganda
+info,gender,female
+info,season,2023
+info,date,2023/04/25
+info,event,Women's T20 Quadrangular Series (in Namibia)
+info,match_number,2
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,Khushi Sharma
+info,umpire,E Lassen
+info,umpire,H Hugo
+info,reserve_umpire,S Loftie-Eaton
+info,winner,United Arab Emirates
+info,winner_runs,50
+info,player,United Arab Emirates,Chaya Mughal
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,L Keny
+info,player,United Arab Emirates,Khushi Sharma
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,United Arab Emirates,Archara Supriya
+info,player,United Arab Emirates,I Nandakumar
+info,player,United Arab Emirates,AS Patil
+info,player,United Arab Emirates,Rishitha Rajith
+info,player,Uganda,K Awino
+info,player,Uganda,P Alako
+info,player,Uganda,J Mbabazi
+info,player,Uganda,S Nampiina
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,R Musamali
+info,player,Uganda,PE Kulume
+info,player,Uganda,E Anyipo
+info,player,Uganda,C Aweko
+info,player,Uganda,I Alumo
+info,player,Uganda,S Akiteng
+info,registry,people,AS Patil,ca707bdc
+info,registry,people,Archara Supriya,b245cd8b
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,Chaya Mughal,77b26349
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,H Hugo,48f9193f
+info,registry,people,I Alumo,6edd8b10
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,I Nandakumar,9f87d0f0
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Khushi Sharma,a259c414
+info,registry,people,L Keny,aea89d48
+info,registry,people,P Alako,fcf37e14
+info,registry,people,PE Kulume,bb1a5f8a
+info,registry,people,R Musamali,017cadb2
+info,registry,people,Rishitha Rajith,f9e02b27
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Loftie-Eaton,71cc38ef
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,Vaishnave Mahesh,31c56f40

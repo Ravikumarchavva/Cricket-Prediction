@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Cameroon
+info,gender,female
+info,season,2023
+info,date,2023/09/06
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,Q Abel
+info,umpire,F Mutizwa
+info,umpire,K Klaaste
+info,reserve_umpire,Justine Muzungu
+info,match_referee,SA Fritz
+info,winner,Kenya
+info,winner_runs,118
+info,player,Kenya,Q Abel
+info,player,Kenya,D Njoroge
+info,player,Kenya,M Mwangi
+info,player,Kenya,V Ooko
+info,player,Kenya,E Wachira
+info,player,Kenya,MI Khagoitsa
+info,player,Kenya,L Idambo
+info,player,Kenya,F Odhiambo
+info,player,Kenya,C Muthoni
+info,player,Kenya,J Abwom
+info,player,Kenya,KV Mehta
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,CD Mboe
+info,player,Cameroon,B Waluma
+info,player,Cameroon,CI Manidom
+info,player,Cameroon,BMA Mbida
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,O Ranedoumoun
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,SA Akenji
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,BMA Mbida,e3c23cef
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,CD Mboe,14198941
+info,registry,people,CI Manidom,f0396c01
+info,registry,people,D Njoroge,626fbc80
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,J Abwom,8d634767
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KV Mehta,f7ae66f3
+info,registry,people,L Idambo,27339093
+info,registry,people,M Mwangi,72de0105
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MI Khagoitsa,2d772f77
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,O Ranedoumoun,71ee8c8d
+info,registry,people,Q Abel,2e988457
+info,registry,people,SA Akenji,d1504c13
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,V Ooko,2ae76bf6

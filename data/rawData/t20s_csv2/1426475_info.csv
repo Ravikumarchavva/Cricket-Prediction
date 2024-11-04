@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,United Arab Emirates
+info,gender,male
+info,season,2024
+info,date,2024/04/19
+info,event,ACC Men's Premier Cup
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,A Sharafu
+info,umpire,Morshed Ali Khan
+info,umpire,Rahul Asher
+info,reserve_umpire,V Kalidas
+info,tv_umpire,Tabarak Dar
+info,match_referee,Selim Shahid
+info,winner,United Arab Emirates
+info,winner_wickets,6
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,RK Paudel
+info,player,Nepal,S Jora
+info,player,Nepal,Kushal Malla
+info,player,Nepal,DS Airee
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,Sompal Kami
+info,player,Nepal,Karan KC
+info,player,Nepal,A Bohara
+info,player,Nepal,LN Rajbanshi
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Sukumaran
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Muhammad Farooq
+info,player,United Arab Emirates,Omid Shafi Rahman
+info,player,United Arab Emirates,Junaid Siddique
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,DS Airee,1747ea18
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Farooq,8f3c6b8a
+info,registry,people,Omid Shafi Rahman,edfe226f
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,S Jora,156378d8
+info,registry,people,Selim Shahid,b478bce3
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Sukumaran,5eb51b97
+info,registry,people,Waseem Muhammad,6f02fe2a

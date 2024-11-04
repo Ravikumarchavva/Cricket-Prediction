@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Lesotho
+info,gender,female
+info,season,2023
+info,date,2023/09/02
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,2
+info,venue,"Botswana Cricket Association Oval 2, Gaborone"
+info,city,Gaborone
+info,toss_winner,Lesotho
+info,toss_decision,field
+info,player_of_match,LL Dimba
+info,umpire,Justine Muzungu
+info,umpire,K Klaaste
+info,reserve_umpire,IO Oyieko
+info,match_referee,SA Fritz
+info,winner,Malawi
+info,winner_runs,136
+info,player,Malawi,S Chinawa
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,T Luka
+info,player,Malawi,LL Dimba
+info,player,Malawi,S Kananji
+info,player,Malawi,F Malefula
+info,player,Malawi,M Kudimba
+info,player,Malawi,V Phiri
+info,player,Malawi,L Malino
+info,player,Malawi,T Mpandakwaya
+info,player,Malawi,N Gumaliyele
+info,player,Lesotho,M Mokoatsela
+info,player,Lesotho,KM Molapo
+info,player,Lesotho,MM Mabathoana
+info,player,Lesotho,TJ Mahe
+info,player,Lesotho,T Kobeli
+info,player,Lesotho,KC Phohlo
+info,player,Lesotho,P Pheko
+info,player,Lesotho,MA Tsemane
+info,player,Lesotho,MA Nyabela
+info,player,Lesotho,NM Mokhachane
+info,player,Lesotho,R Limema
+info,registry,people,F Malefula,6a405883
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KC Phohlo,1607f812
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,KM Molapo,dc5934a6
+info,registry,people,L Malino,7a81836e
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,M Kudimba,24ce1fcb
+info,registry,people,M Mokoatsela,fc32e121
+info,registry,people,MA Nyabela,261fddca
+info,registry,people,MA Tsemane,71eb9780
+info,registry,people,MM Mabathoana,fb432bd3
+info,registry,people,N Gumaliyele,eda9895d
+info,registry,people,NM Mokhachane,6083f332
+info,registry,people,P Pheko,24e0b90f
+info,registry,people,R Limema,95fdfe7e
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Kobeli,10f52b3a
+info,registry,people,T Luka,44e008a5
+info,registry,people,T Mpandakwaya,3fd351ed
+info,registry,people,TJ Mahe,3c5b2e9e
+info,registry,people,V Phiri,8ffa1b3c

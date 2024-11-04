@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Fiji
+info,gender,male
+info,season,2024
+info,date,2024/08/19
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,4
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Fiji
+info,toss_decision,field
+info,player_of_match,A Mansale
+info,umpire,Kim Cotton
+info,umpire,L McCabe
+info,reserve_umpire,L Oala
+info,match_referee,Kent Hannam
+info,winner,Vanuatu
+info,winner_runs,36
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,W Wotu
+info,player,Vanuatu,A Mansale
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,C Tommy
+info,player,Vanuatu,TL Cutler
+info,player,Vanuatu,SH Obed
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,D Wotu
+info,player,Fiji,M Beitaki
+info,player,Fiji,DR Tawake
+info,player,Fiji,PV Vuniwaqa
+info,player,Fiji,A Sokovagone
+info,player,Fiji,AZ Shah
+info,player,Fiji,J Cama
+info,player,Fiji,P Dakainivanua
+info,player,Fiji,P Kotoisuva
+info,player,Fiji,JMV Junior
+info,player,Fiji,JQK Moala
+info,player,Fiji,S Tabuisulu
+info,registry,people,A Mansale,a22b4f3f
+info,registry,people,A Sokovagone,10e34eef
+info,registry,people,AZ Shah,e0c5125f
+info,registry,people,BA Viraliliu,7d85b1e9
+info,registry,people,C Tommy,c6d4cff0
+info,registry,people,D Wotu,9585854d
+info,registry,people,DR Tawake,8c11c10a
+info,registry,people,J Cama,6a868271
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,JMV Junior,c38bf66d
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,JQK Moala,d77ddc9f
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,L Oala,48a506ab
+info,registry,people,M Beitaki,3d29b5fc
+info,registry,people,N Nipiko,c498c510
+info,registry,people,P Dakainivanua,5485c999
+info,registry,people,P Kotoisuva,b3e5205c
+info,registry,people,PV Vuniwaqa,653a7fa8
+info,registry,people,R Tari,c4d19735
+info,registry,people,S Tabuisulu,62708dce
+info,registry,people,SH Obed,f49c401e
+info,registry,people,TL Cutler,384fa385
+info,registry,people,W Nalisa,673be48f
+info,registry,people,W Wotu,6b25ef46

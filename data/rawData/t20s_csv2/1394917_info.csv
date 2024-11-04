@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Botswana
+info,gender,female
+info,season,2023
+info,date,2023/09/02
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,1
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,Q Abel
+info,umpire,Lauren Agenbag
+info,umpire,S Dambanevana
+info,reserve_umpire,P Sizara
+info,match_referee,SA Fritz
+info,winner,Kenya
+info,winner_runs,111
+info,player,Kenya,D Njoroge
+info,player,Kenya,Q Abel
+info,player,Kenya,M Mwangi
+info,player,Kenya,E Wachira
+info,player,Kenya,V Ooko
+info,player,Kenya,L Idambo
+info,player,Kenya,F Odhiambo
+info,player,Kenya,MI Khagoitsa
+info,player,Kenya,C Muthoni
+info,player,Kenya,J Abwom
+info,player,Kenya,K Ogola
+info,player,Botswana,S Mosweu
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,F Samanyika
+info,player,Botswana,L Mophakedi
+info,player,Botswana,G Matome
+info,player,Botswana,B Freeman
+info,player,Botswana,B Madimabe
+info,player,Botswana,O Kgeresi
+info,player,Botswana,T Shadrack
+info,player,Botswana,P Mapotsane
+info,player,Botswana,M Phiase
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,B Freeman,a47538d3
+info,registry,people,B Madimabe,1e481de4
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,D Njoroge,626fbc80
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,F Samanyika,c42eed38
+info,registry,people,G Matome,a6898f7a
+info,registry,people,J Abwom,8d634767
+info,registry,people,K Ogola,7f7dc2ee
+info,registry,people,L Idambo,27339093
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Mwangi,72de0105
+info,registry,people,M Phiase,537cc79f
+info,registry,people,MI Khagoitsa,2d772f77
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,Q Abel,2e988457
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mosweu,10726a80
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,V Ooko,2ae76bf6

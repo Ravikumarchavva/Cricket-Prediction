@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,West Indies
+info,gender,male
+info,season,2023
+info,date,2023/08/06
+info,event,India tour of West Indies and United States of America
+info,match_number,2
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,N Pooran
+info,umpire,LS Reifer
+info,umpire,N Duguid
+info,reserve_umpire,PA Gustard
+info,tv_umpire,GO Brathwaite
+info,match_referee,RB Richardson
+info,winner,West Indies
+info,winner_wickets,2
+info,player,India,Ishan Kishan
+info,player,India,Shubman Gill
+info,player,India,SA Yadav
+info,player,India,Tilak Varma
+info,player,India,SV Samson
+info,player,India,HH Pandya
+info,player,India,AR Patel
+info,player,India,Ravi Bishnoi
+info,player,India,Arshdeep Singh
+info,player,India,YS Chahal
+info,player,India,Mukesh Kumar
+info,player,West Indies,BA King
+info,player,West Indies,KR Mayers
+info,player,West Indies,J Charles
+info,player,West Indies,N Pooran
+info,player,West Indies,R Powell
+info,player,West Indies,SO Hetmyer
+info,player,West Indies,R Shepherd
+info,player,West Indies,JO Holder
+info,player,West Indies,AJ Hosein
+info,player,West Indies,AS Joseph
+info,player,West Indies,OC McCoy
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AR Patel,2e171977
+info,registry,people,AS Joseph,b0946605
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BA King,7fca84b7
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Charles,09a9d073
+info,registry,people,JO Holder,0f721006
+info,registry,people,KR Mayers,73c18486
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,N Duguid,64495506
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,PA Gustard,25bcf808
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SO Hetmyer,48a1d7b7
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,YS Chahal,57ee1fde

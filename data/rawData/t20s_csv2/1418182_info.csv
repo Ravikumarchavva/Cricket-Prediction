@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Maldives
+info,gender,male
+info,season,2023/24
+info,date,2024/02/02
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,3
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,S Chandramohan
+info,umpire,IGS Arsa
+info,umpire,Samad Akbar
+info,reserve_umpire,V Kalidas
+info,tv_umpire,Dorji
+info,match_referee,G Sankaranarayanan
+info,winner,Singapore
+info,winner_runs,41
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Rohan
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Aman Desai
+info,player,Singapore,A Kaul
+info,player,Singapore,R Sharma
+info,player,Singapore,Avi Dixit
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,S Banamali
+info,player,Singapore,IP Swaney
+info,player,Singapore,R Kalimuthu
+info,player,Maldives,Shaof Hassan
+info,player,Maldives,Umar Adam
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,KTK Rodrigo
+info,player,Maldives,Hassan Rasheed
+info,player,Maldives,Ismail Ali
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Nazwan Ismail
+info,player,Maldives,Mohamed Ishmath
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Avi Dixit,cf17c429
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,Dorji,a6b688ef
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,Hassan Rasheed,1ca51098
+info,registry,people,IGS Arsa,68d52634
+info,registry,people,IP Swaney,430b7399
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,KTK Rodrigo,a482add2
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Ishmath,8c7b9bfc
+info,registry,people,Nazwan Ismail,c8e5012c
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Rohan,baf0fc26
+info,registry,people,R Sharma,2278c4ca
+info,registry,people,S Banamali,4d9dfc7f
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,Samad Akbar,f05bd21b
+info,registry,people,Shaof Hassan,f6e160d7
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,V Kalidas,42d76418

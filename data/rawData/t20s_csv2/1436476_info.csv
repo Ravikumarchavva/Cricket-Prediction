@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Isle of Man
+info,team,Turkey
+info,gender,male
+info,season,2024
+info,date,2024/06/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,6
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Turkey
+info,toss_decision,field
+info,player_of_match,JA Burrows
+info,umpire,J Jensen
+info,umpire,MJ Saggers
+info,reserve_umpire,WPM van Liemt
+info,match_referee,G McCrea
+info,winner,Isle of Man
+info,winner_runs,81
+info,player,Isle of Man,OJ Webster
+info,player,Isle of Man,S Barnett
+info,player,Isle of Man,EF Beard
+info,player,Isle of Man,A McAuley
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,H McAleer
+info,player,Isle of Man,L Ward
+info,player,Isle of Man,CJ Langford
+info,player,Isle of Man,JA Burrows
+info,player,Isle of Man,MJ Ansell
+info,player,Isle of Man,K Cawte
+info,player,Turkey,Abdullah Khan Lodhi
+info,player,Turkey,Shamsullah Ehsan
+info,player,Turkey,I Elec
+info,player,Turkey,A Turkmen
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,R Nath
+info,player,Turkey,GG Alta
+info,player,Turkey,M Ozturk
+info,player,Turkey,Muhammed Turkmen
+info,player,Turkey,Muhammet Bicer
+info,player,Turkey,Ibrahim Kursad Dalyan
+info,registry,people,A McAuley,39e599c8
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,Abdullah Khan Lodhi,6d8b7ac4
+info,registry,people,CJ Langford,3967b66f
+info,registry,people,EF Beard,68019a70
+info,registry,people,G Burrows,8bee668b
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GG Alta,c7bb2416
+info,registry,people,H McAleer,8b39d02a
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,Ibrahim Kursad Dalyan,f0f20cf8
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,JA Burrows,dba54d8e
+info,registry,people,K Cawte,a2dd9236
+info,registry,people,L Ward,98f33eed
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,MJ Ansell,6e60a792
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammed Turkmen,8e7e982c
+info,registry,people,Muhammet Bicer,7990dc16
+info,registry,people,OJ Webster,a69e2964
+info,registry,people,R Nath,126f1e28
+info,registry,people,S Barnett,e09a869b
+info,registry,people,Shamsullah Ehsan,356bf068
+info,registry,people,WPM van Liemt,2bd48588

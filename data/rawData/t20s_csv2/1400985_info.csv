@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Rwanda
+info,gender,male
+info,season,2023/24
+info,date,2023/10/11
+info,event,West Africa Trophy
+info,match_number,14
+info,venue,"Tafawa Balewa Square Cricket Oval, Lagos"
+info,city,Lagos
+info,toss_winner,Sierra Leone
+info,toss_decision,bat
+info,player_of_match,E Rukiriza
+info,umpire,Kehinde Olanbiwonnu
+info,umpire,O Adekoya
+info,reserve_umpire,T Oladunjoye
+info,match_referee,Tonye Timinadi
+info,winner,Rwanda
+info,winner_wickets,5
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,A Kainessie
+info,player,Sierra Leone,A Turay
+info,player,Sierra Leone,J Bangura
+info,player,Sierra Leone,L Lamin
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,M Kpaka
+info,player,Sierra Leone,A Gbla
+info,player,Sierra Leone,C Bah
+info,player,Sierra Leone,I Kamara
+info,player,Sierra Leone,G Sesay
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,Hamza Khan
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,K Irakoze
+info,registry,people,A Gbla,34ab1e6e
+info,registry,people,A Kainessie,c7acf05f
+info,registry,people,A Turay,11a22126
+info,registry,people,C Bah,7213d757
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,Hamza Khan,44a5f2b2
+info,registry,people,I Kamara,38702fb5
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,L Lamin,5a970aab
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,M Kpaka,c381cec5
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Adekoya,0c8bce52
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,R Coker,3239c8a9
+info,registry,people,T Oladunjoye,a6348da2
+info,registry,people,Tonye Timinadi,5cc0fccb
+info,registry,people,Z Bimenyimana,ba57fb08

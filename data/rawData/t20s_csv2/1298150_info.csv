@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,India
+info,gender,male
+info,season,2022/23
+info,date,2022/10/23
+info,event,ICC Men's T20 World Cup
+info,match_number,16
+info,venue,Melbourne Cricket Ground
+info,city,Melbourne
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,V Kohli
+info,umpire,M Erasmus
+info,umpire,RJ Tucker
+info,reserve_umpire,JS Wilson
+info,tv_umpire,RA Kettleborough
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_wickets,4
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Haider Ali
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Asif Ali
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Naseem Shah
+info,player,India,KL Rahul
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,SA Yadav
+info,player,India,AR Patel
+info,player,India,HH Pandya
+info,player,India,KD Karthik
+info,player,India,R Ashwin
+info,player,India,Mohammed Shami
+info,player,India,B Kumar
+info,player,India,Arshdeep Singh
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KD Karthik,c03f1114
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,R Ashwin,495d42a5
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,V Kohli,ba607b88
