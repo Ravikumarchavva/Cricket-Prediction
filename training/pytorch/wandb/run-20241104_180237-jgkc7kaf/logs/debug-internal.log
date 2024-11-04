@@ -1,0 +1,19 @@
+{"time":"2024-11-04T18:02:37.133127+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T18:02:37.133127+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_180237-jgkc7kaf\\logs\\debug-core.log"}
+{"time":"2024-11-04T18:02:37.1338322+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T18:02:37.1665793+05:30","level":"INFO","msg":"created new stream","id":"jgkc7kaf"}
+{"time":"2024-11-04T18:02:37.1665793+05:30","level":"INFO","msg":"stream: started","id":"jgkc7kaf"}
+{"time":"2024-11-04T18:02:37.1665793+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"jgkc7kaf"}}
+{"time":"2024-11-04T18:02:37.1665793+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jgkc7kaf"}}
+{"time":"2024-11-04T18:02:37.1665793+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"jgkc7kaf"}}
+{"time":"2024-11-04T18:02:37.6205223+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T18:02:37.6273858+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T18:03:07.5598543+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T18:03:07.5653175+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T18:03:12.2835556+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T18:03:12.5633437+05:30","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-11-04T18:03:13.6972536+05:30","level":"INFO","msg":"stream: closing","id":"jgkc7kaf"}
+{"time":"2024-11-04T18:03:13.6972536+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"jgkc7kaf"}}
+{"time":"2024-11-04T18:03:13.6972536+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jgkc7kaf"}}
+{"time":"2024-11-04T18:03:13.6972536+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"jgkc7kaf"}}
+{"time":"2024-11-04T18:03:13.6972536+05:30","level":"INFO","msg":"stream: closed","id":"jgkc7kaf"}

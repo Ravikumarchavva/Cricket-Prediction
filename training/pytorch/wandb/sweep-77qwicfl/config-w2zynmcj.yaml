@@ -1,0 +1,20 @@
+wandb_version: 1
+
+batch_size:
+  value: 64
+dropout:
+  value: 0.5
+hidden_size:
+  value: 64
+learning_rate:
+  value: 1.000675415034197
+num_epochs:
+  value: 50
+patience:
+  value: 10
+scheduler_gamma:
+  value: 0.1
+scheduler_step_size:
+  value: 5
+weight_decay:
+  value: 0.0001

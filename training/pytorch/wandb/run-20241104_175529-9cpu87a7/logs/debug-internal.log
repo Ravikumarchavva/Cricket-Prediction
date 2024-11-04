@@ -1,0 +1,19 @@
+{"time":"2024-11-04T17:55:29.6364834+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T17:55:29.6364834+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_175529-9cpu87a7\\logs\\debug-core.log"}
+{"time":"2024-11-04T17:55:29.638054+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T17:55:29.6620585+05:30","level":"INFO","msg":"created new stream","id":"9cpu87a7"}
+{"time":"2024-11-04T17:55:29.6620585+05:30","level":"INFO","msg":"stream: started","id":"9cpu87a7"}
+{"time":"2024-11-04T17:55:29.6620585+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"9cpu87a7"}}
+{"time":"2024-11-04T17:55:29.6620585+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"9cpu87a7"}}
+{"time":"2024-11-04T17:55:29.6620585+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"9cpu87a7"}}
+{"time":"2024-11-04T17:55:30.3694583+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T17:55:30.3704945+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T17:57:29.8572464+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T17:57:29.8629925+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T17:57:34.7637095+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T17:57:34.8608256+05:30","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-11-04T17:57:36.1738971+05:30","level":"INFO","msg":"stream: closing","id":"9cpu87a7"}
+{"time":"2024-11-04T17:57:36.1738971+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"9cpu87a7"}}
+{"time":"2024-11-04T17:57:36.1738971+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"9cpu87a7"}}
+{"time":"2024-11-04T17:57:36.1738971+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"9cpu87a7"}}
+{"time":"2024-11-04T17:57:36.1738971+05:30","level":"INFO","msg":"stream: closed","id":"9cpu87a7"}

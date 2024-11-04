@@ -1,0 +1,18 @@
+{"time":"2024-11-04T17:40:24.0761942+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T17:40:24.0761942+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_174024-ze1u54a4\\logs\\debug-core.log"}
+{"time":"2024-11-04T17:40:24.0772659+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T17:40:24.1001464+05:30","level":"INFO","msg":"created new stream","id":"ze1u54a4"}
+{"time":"2024-11-04T17:40:24.1001464+05:30","level":"INFO","msg":"stream: started","id":"ze1u54a4"}
+{"time":"2024-11-04T17:40:24.1001464+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ze1u54a4"}}
+{"time":"2024-11-04T17:40:24.1001464+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ze1u54a4"}}
+{"time":"2024-11-04T17:40:24.1001464+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ze1u54a4"}}
+{"time":"2024-11-04T17:40:25.8017071+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T17:40:25.8022133+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T17:40:25.9738799+05:30","level":"INFO","msg":"stream: closing","id":"ze1u54a4"}
+{"time":"2024-11-04T17:40:25.9738799+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T17:40:25.9792503+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T17:40:28.1104784+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T17:40:28.526894+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ze1u54a4"}}
+{"time":"2024-11-04T17:40:28.526894+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ze1u54a4"}}
+{"time":"2024-11-04T17:40:28.526894+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ze1u54a4"}}
+{"time":"2024-11-04T17:40:28.526894+05:30","level":"INFO","msg":"stream: closed","id":"ze1u54a4"}

@@ -1,0 +1,70 @@
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Configure stats pid to 9580
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Loading settings from C:\Users\chavv\.config\wandb\settings
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Loading settings from D:\github\Cricket-Prediction\training\pytorch\wandb\settings
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'training\\pytorch\\prerp_augmented.py', 'program_abspath': 'D:\\github\\Cricket-Prediction\\training\\pytorch\\prerp_augmented.py', 'program': 'D:\\github\\Cricket-Prediction\\training\\pytorch\\prerp_augmented.py'}
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-04 17:21:31,312 INFO    MainThread:9580 [wandb_init.py:_log_setup():532] Logging user logs to D:\github\Cricket-Prediction\training\pytorch\wandb\run-20241104_172131-j1s5v2bu\logs\debug.log
+2024-11-04 17:21:31,313 INFO    MainThread:9580 [wandb_init.py:_log_setup():533] Logging internal logs to D:\github\Cricket-Prediction\training\pytorch\wandb\run-20241104_172131-j1s5v2bu\logs\debug-internal.log
+2024-11-04 17:21:31,313 INFO    MainThread:9580 [wandb_init.py:init():617] calling init triggers
+2024-11-04 17:21:31,313 INFO    MainThread:9580 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {'batch_size': 32, 'learning_rate': 0.0001, 'weight_decay': 1e-05, 'dropout': 0.5, 'hidden_size': 128, 'num_epochs': 50, 'patience': 10, 'scheduler_step_size': 10, 'scheduler_gamma': 0.1}
+2024-11-04 17:21:31,313 INFO    MainThread:9580 [wandb_init.py:init():667] starting backend
+2024-11-04 17:21:31,313 INFO    MainThread:9580 [wandb_init.py:init():671] sending inform_init request
+2024-11-04 17:21:31,314 INFO    MainThread:9580 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-11-04 17:21:31,315 INFO    MainThread:9580 [wandb_init.py:init():684] backend started and connected
+2024-11-04 17:21:31,318 INFO    MainThread:9580 [wandb_init.py:init():779] updated telemetry
+2024-11-04 17:21:31,374 INFO    MainThread:9580 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-11-04 17:21:31,885 INFO    MainThread:9580 [wandb_init.py:init():863] starting run threads in backend
+2024-11-04 17:21:32,050 INFO    MainThread:9580 [wandb_run.py:_console_start():2465] atexit reg
+2024-11-04 17:21:32,051 INFO    MainThread:9580 [wandb_run.py:_redirect():2313] redirect: wrap_raw
+2024-11-04 17:21:32,051 INFO    MainThread:9580 [wandb_run.py:_redirect():2378] Wrapping output streams.
+2024-11-04 17:21:32,051 INFO    MainThread:9580 [wandb_run.py:_redirect():2403] Redirects installed.
+2024-11-04 17:21:32,052 INFO    MainThread:9580 [wandb_init.py:init():907] run started, returning control to user process
+2024-11-04 17:21:43,681 INFO    MainThread:9580 [pyagent.py:run():322] Starting sweep agent: entity=None, project=None, count=None
+2024-11-04 17:21:44,595 WARNING MsgRouterThr:9580 [router.py:message_loop():77] message_loop has been closed
+2024-11-04 17:21:49,798 INFO    Thread-12 :9580 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_setup.py:_flush():79] Configure stats pid to 9580
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_setup.py:_flush():79] Loading settings from C:\Users\chavv\.config\wandb\settings
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_setup.py:_flush():79] Loading settings from D:\github\Cricket-Prediction\training\pytorch\wandb\settings
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'cricket-prediction', 'entity': 'ravikumarchavva-org', 'root_dir': 'D:\\github\\Cricket-Prediction\\training\\pytorch', 'sweep_id': '6tjgx83i', 'run_id': 'vb9dsbxv', 'sweep_param_path': 'D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\sweep-6tjgx83i\\config-vb9dsbxv.yaml'}
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'training\\pytorch\\prerp_augmented.py', 'program_abspath': 'D:\\github\\Cricket-Prediction\\training\\pytorch\\prerp_augmented.py', 'program': 'D:\\github\\Cricket-Prediction\\training\\pytorch\\prerp_augmented.py'}
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_init.py:_log_setup():532] Logging user logs to D:\github\Cricket-Prediction\training\pytorch\wandb\run-20241104_172149-vb9dsbxv\logs\debug.log
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_init.py:_log_setup():533] Logging internal logs to D:\github\Cricket-Prediction\training\pytorch\wandb\run-20241104_172149-vb9dsbxv\logs\debug-internal.log
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_init.py:init():617] calling init triggers
+2024-11-04 17:21:49,799 INFO    Thread-12 :9580 [wandb_init.py:init():624] wandb.init called with sweep_config: {'batch_size': 32, 'dropout': 0.3, 'hidden_size': 128, 'learning_rate': 1.3070030411612189e-05, 'num_epochs': 50, 'patience': 10, 'scheduler_gamma': 0.5, 'scheduler_step_size': 5, 'weight_decay': 0.0001}
+config: {}
+2024-11-04 17:21:49,800 INFO    Thread-12 :9580 [wandb_init.py:init():662] wandb.init() called when a run is still active
+2024-11-04 17:21:49,800 ERROR   Thread-12 :9580 [wandb_init.py:init():1262] error in wandb.init()
+Traceback (most recent call last):
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\wandb_init.py", line 1252, in init
+    return wi.init()
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\wandb_init.py", line 664, in init
+    tel.feature.init_return_run = True
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\lib\telemetry.py", line 42, in __exit__
+    self._run._telemetry_callback(self._obj)
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\wandb_run.py", line 806, in _telemetry_callback
+    self._telemetry_flush()
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\wandb_run.py", line 819, in _telemetry_flush
+    self._backend.interface._publish_telemetry(self._telemetry_obj)
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\interface\interface_shared.py", line 101, in _publish_telemetry
+    self._publish(rec)
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\interface\interface_sock.py", line 51, in _publish
+    self._sock_client.send_record_publish(record)
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\lib\sock_client.py", line 225, in send_record_publish
+    self.send_server_request(server_req)
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\lib\sock_client.py", line 157, in send_server_request
+    self._send_message(msg)
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\lib\sock_client.py", line 154, in _send_message
+    self._sendall_with_error_handle(header + data)
+  File "C:\Users\chavv\anaconda\envs\huggingface-torch\lib\site-packages\wandb\sdk\lib\sock_client.py", line 132, in _sendall_with_error_handle
+    sent = self._sock.send(data)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+2024-11-04 17:21:50,337 INFO    Thread-12 :9580 [wandb_run.py:_finish():2164] finishing run ravikumarchavva-org/cricket-prediction/j1s5v2bu
+2024-11-04 17:22:00,932 INFO    Thread-18 :9580 [wandb_run.py:_finish():2164] finishing run ravikumarchavva-org/cricket-prediction/j1s5v2bu
+2024-11-04 17:22:11,503 INFO    Thread-23 :9580 [wandb_run.py:_finish():2164] finishing run ravikumarchavva-org/cricket-prediction/j1s5v2bu
+2024-11-04 17:22:22,080 INFO    Thread-28 :9580 [wandb_run.py:_finish():2164] finishing run ravikumarchavva-org/cricket-prediction/j1s5v2bu
+2024-11-04 17:22:27,107 INFO    MainThread:9580 [wandb_run.py:_finish():2164] finishing run ravikumarchavva-org/cricket-prediction/j1s5v2bu

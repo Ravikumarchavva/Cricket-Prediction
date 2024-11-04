@@ -1,0 +1,1 @@
+Running with config: {'batch_size': 32, 'dropout': 0.5, 'hidden_size': 128, 'learning_rate': 1.0005304114500932, 'num_epochs': 50, 'patience': 10, 'scheduler_gamma': 0.5, 'scheduler_step_size': 10, 'weight_decay': 0}

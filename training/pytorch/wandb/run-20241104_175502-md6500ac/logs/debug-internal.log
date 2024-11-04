@@ -1,0 +1,19 @@
+{"time":"2024-11-04T17:55:02.886278+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T17:55:02.8868056+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_175502-md6500ac\\logs\\debug-core.log"}
+{"time":"2024-11-04T17:55:02.8873328+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T17:55:02.9188055+05:30","level":"INFO","msg":"created new stream","id":"md6500ac"}
+{"time":"2024-11-04T17:55:02.9188055+05:30","level":"INFO","msg":"stream: started","id":"md6500ac"}
+{"time":"2024-11-04T17:55:02.9188055+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"md6500ac"}}
+{"time":"2024-11-04T17:55:02.9188055+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"md6500ac"}}
+{"time":"2024-11-04T17:55:02.9188055+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"md6500ac"}}
+{"time":"2024-11-04T17:55:03.4010227+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T17:55:03.4015635+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T17:55:18.1408644+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T17:55:18.1461172+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T17:55:22.8338463+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T17:55:23.1443096+05:30","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-11-04T17:55:24.258892+05:30","level":"INFO","msg":"stream: closing","id":"md6500ac"}
+{"time":"2024-11-04T17:55:24.258892+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"md6500ac"}}
+{"time":"2024-11-04T17:55:24.258892+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"md6500ac"}}
+{"time":"2024-11-04T17:55:24.258892+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"md6500ac"}}
+{"time":"2024-11-04T17:55:24.258892+05:30","level":"INFO","msg":"stream: closed","id":"md6500ac"}

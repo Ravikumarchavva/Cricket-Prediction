@@ -1,0 +1,46 @@
+_wandb:
+    value:
+        cli_version: 0.18.3
+        m: []
+        python_version: 3.9.20
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 55
+            "2":
+                - 1
+                - 5
+                - 53
+                - 55
+            "3":
+                - 2
+                - 3
+                - 23
+                - 55
+            "4": 3.9.20
+            "5": 0.18.3
+            "8":
+                - 3
+                - 5
+            "12": 0.18.3
+            "13": windows-amd64
+batch_size:
+    value: 64
+dropout:
+    value: 0.7
+hidden_size:
+    value: 128
+learning_rate:
+    value: 1.000069700754833
+num_epochs:
+    value: 50
+patience:
+    value: 10
+scheduler_gamma:
+    value: 0.5
+scheduler_step_size:
+    value: 10
+weight_decay:
+    value: 1e-05
