@@ -10,9 +10,12 @@ from tqdm import tqdm
 import torch.nn.functional as F  # Import F module
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
+import wandb  # Import wandb
+from wandb import config  # Import config from wandb
+
 
 # Load the data using polars
-directory = r'D:\github\localt20\data\filteredData'
+directory = r'D:\github\Cricket-Prediction\data\filteredData'
 balltoball = pl.read_csv(os.path.join(directory, 'balltoball.csv'))
 teamStats = pl.read_csv(os.path.join(directory, 'team12Stats.csv'))
 playersStats = pl.read_csv(os.path.join(directory, 'playersStats.csv'))
@@ -102,23 +105,20 @@ def collate_fn(batch):
 train_dataset = CricketDataset(train_team_stats, train_player_stats, train_ball_stats)
 val_dataset = CricketDataset(val_team_stats, val_player_stats, val_ball_stats)
 
-train_dataloader = DataLoader(train_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn)
-val_dataloader = DataLoader(val_dataset, batch_size=16, shuffle=False, collate_fn=collate_fn)
-
 # Define the models
 class TeamStatsModel(nn.Module):
-    def __init__(self, input_size):
+    def __init__(self, input_size, hidden_size, dropout):
         super(TeamStatsModel, self).__init__()
         self.model = nn.Sequential(
-            nn.Linear(input_size, 64),
+            nn.Linear(input_size, hidden_size),
             nn.ReLU(),
-            nn.BatchNorm1d(64),
-            nn.Dropout(0.5),
-            nn.Linear(64, 32),
+            nn.BatchNorm1d(hidden_size),
+            nn.Dropout(dropout),
+            nn.Linear(hidden_size, hidden_size // 2),
             nn.ReLU(),
-            nn.BatchNorm1d(32),
-            nn.Dropout(0.5),
-            nn.Linear(32, 16),
+            nn.BatchNorm1d(hidden_size // 2),
+            nn.Dropout(dropout),
+            nn.Linear(hidden_size // 2, 16),
             nn.ReLU()
         )
 
@@ -126,16 +126,16 @@ class TeamStatsModel(nn.Module):
         return self.model(x)
 
 class PlayerStatsModel(nn.Module):
-    def __init__(self, input_size):
+    def __init__(self, input_size, hidden_size, dropout):
         super(PlayerStatsModel, self).__init__()
-        self.conv1 = nn.Conv1d(in_channels=input_size, out_channels=32, kernel_size=3)
-        self.bn1 = nn.BatchNorm1d(32)
+        self.conv1 = nn.Conv1d(in_channels=input_size, out_channels=hidden_size, kernel_size=3)
+        self.bn1 = nn.BatchNorm1d(hidden_size)
         self.pool1 = nn.MaxPool1d(2)
-        self.conv2 = nn.Conv1d(32, 64, kernel_size=3)
-        self.bn2 = nn.BatchNorm1d(64)
+        self.conv2 = nn.Conv1d(hidden_size, hidden_size * 2, kernel_size=3)
+        self.bn2 = nn.BatchNorm1d(hidden_size * 2)
         self.pool2 = nn.MaxPool1d(2)
         self.flatten = nn.Flatten()
-        self.fc = nn.Linear(64 * ((input_size - 4) // 4), 16)
+        self.fc = nn.Linear(hidden_size * 2 * ((input_size - 4) // 4), 16)
 
     def forward(self, x):
         x = x.permute(0, 2, 1)  # Convert to (batch, channels, seq_len)
@@ -148,11 +148,11 @@ class PlayerStatsModel(nn.Module):
         return x
 
 class BallToBallModel(nn.Module):
-    def __init__(self, input_dim):
+    def __init__(self, input_dim, hidden_size, dropout):
         super(BallToBallModel, self).__init__()
-        self.lstm = nn.LSTM(input_dim, 128, batch_first=True, bidirectional=True)
-        self.dropout = nn.Dropout(0.5)
-        self.fc = nn.Linear(256, 16)
+        self.lstm = nn.LSTM(input_dim, hidden_size, batch_first=True, bidirectional=True)
+        self.dropout = nn.Dropout(dropout)
+        self.fc = nn.Linear(hidden_size * 2, 16)
 
     def forward(self, x, lengths):
         # Pack the sequences
@@ -165,19 +165,19 @@ class BallToBallModel(nn.Module):
         return x
 
 class CombinedModel(nn.Module):
-    def __init__(self, team_input_size, player_input_size, ball_input_dim):
+    def __init__(self, team_input_size, player_input_size, ball_input_dim, hidden_size, dropout):
         super(CombinedModel, self).__init__()
-        self.team_model = TeamStatsModel(team_input_size)
-        self.player_model = PlayerStatsModel(player_input_size)
-        self.ball_model = BallToBallModel(ball_input_dim)
+        self.team_model = TeamStatsModel(team_input_size, hidden_size, dropout)
+        self.player_model = PlayerStatsModel(player_input_size, hidden_size, dropout)
+        self.ball_model = BallToBallModel(ball_input_dim, hidden_size, dropout)
         self.fc = nn.Sequential(
-            nn.Linear(16+16+16, 64),
+            nn.Linear(16+16+16, hidden_size),
             nn.ReLU(),
-            nn.Dropout(0.5),
-            nn.Linear(64, 32),
+            nn.Dropout(dropout),
+            nn.Linear(hidden_size, hidden_size // 2),
             nn.ReLU(),
-            nn.Dropout(0.5),
-            nn.Linear(32, 1),
+            nn.Dropout(dropout),
+            nn.Linear(hidden_size // 2, 1),
             nn.Sigmoid()
         )
 
@@ -197,106 +197,155 @@ team_input_size = team_stats_partitions[0].shape[1]
 player_input_size = player_stats_partitions[0].shape[1]
 ball_input_dim = ball_stats_partitions[0].shape[1] - 1  # Exclude label
 
-model = CombinedModel(team_input_size, player_input_size, ball_input_dim).to(device)  # Move model to GPU
-
-# Define the optimizer and loss function
-optimizer = optim.Adam(model.parameters(), lr=0.0001, weight_decay=1e-5)  # Weight decay for regularization
-criterion = nn.BCELoss()
-
-# Implement early stopping
-best_loss = np.inf
-patience = 10
-trigger_times = 0
-
-# Training loop with tqdm
-num_epochs = 50
 train_losses = []
 val_losses = []
 train_accuracies = []
 val_accuracies = []
 
-for epoch in range(num_epochs):
-    model.train()
-    running_loss = 0.0
-    correct_predictions = 0
-    total_predictions = 0
-    progress_bar = tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{num_epochs}")
-    for team_input, player_input, ball_input, labels, ball_lengths in progress_bar:
-        team_input, player_input, ball_input, labels = team_input.to(device), player_input.to(device), ball_input.to(device), labels.to(device)  # Move data to GPU
-        optimizer.zero_grad()
-        outputs = model(team_input, player_input, ball_input, ball_lengths)
-        loss = criterion(outputs, labels)
-        loss.backward()
-        optimizer.step()
-        running_loss += loss.item()
-        
-        # Calculate accuracy
-        predictions = (outputs > 0.5).float()
-        correct_predictions += (predictions == labels).sum().item()
-        total_predictions += labels.size(0)
-        
-        progress_bar.set_postfix(loss=loss.item())
-    avg_train_loss = running_loss / len(train_dataloader)
-    train_accuracy = correct_predictions / total_predictions
-    train_losses.append(avg_train_loss)
-    train_accuracies.append(train_accuracy)
-    print(f"Epoch [{epoch+1}/{num_epochs}], Train Loss: {avg_train_loss:.4f}, Train Accuracy: {train_accuracy:.4f}")
+def main():
+    # Initialize wandb with project name and config
+    wandb.init(project="cricket-prediction")
+    config = wandb.config
 
-    # Validation
-    model.eval()
-    val_running_loss = 0.0
-    val_correct_predictions = 0
-    val_total_predictions = 0
-    with torch.no_grad():
-        for team_input, player_input, ball_input, labels, ball_lengths in val_dataloader:
+    # Log the hyperparameters
+    print(f"Running with config: {config}")
+
+    # Load the data
+    # (Data loading code is already executed above)
+
+    # Update dataloaders to use hyperparameters from wandb.config
+    train_dataloader = DataLoader(train_dataset, batch_size=config.batch_size, shuffle=True, collate_fn=collate_fn)
+    val_dataloader = DataLoader(val_dataset, batch_size=config.batch_size, shuffle=False, collate_fn=collate_fn)
+
+    # Initialize the model with hyperparameters from wandb.config
+    model = CombinedModel(team_input_size, player_input_size, ball_input_dim, config.hidden_size, config.dropout).to(device)
+
+    # Define optimizer and scheduler with hyperparameters from wandb.config
+    optimizer = optim.Adam(model.parameters(), lr=config.learning_rate, weight_decay=config.weight_decay)
+    scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=config.scheduler_step_size, gamma=config.scheduler_gamma)
+    criterion = nn.BCELoss()
+
+    # Implement early stopping with patience from config
+    best_loss = np.inf
+    trigger_times = 0
+
+    # Training loop
+    for epoch in range(config.num_epochs):
+        # Training phase
+        model.train()
+        running_loss = 0.0
+        correct_predictions = 0
+        total_predictions = 0
+        progress_bar = tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{config.num_epochs}")
+        for team_input, player_input, ball_input, labels, ball_lengths in progress_bar:
             team_input, player_input, ball_input, labels = team_input.to(device), player_input.to(device), ball_input.to(device), labels.to(device)  # Move data to GPU
+            optimizer.zero_grad()
             outputs = model(team_input, player_input, ball_input, ball_lengths)
             loss = criterion(outputs, labels)
-            val_running_loss += loss.item()
+            loss.backward()
+            optimizer.step()
+            running_loss += loss.item()
             
             # Calculate accuracy
             predictions = (outputs > 0.5).float()
-            val_correct_predictions += (predictions == labels).sum().item()
-            val_total_predictions += labels.size(0)
-    avg_val_loss = val_running_loss / len(val_dataloader)
-    val_accuracy = val_correct_predictions / val_total_predictions
-    val_losses.append(avg_val_loss)
-    val_accuracies.append(val_accuracy)
-    print(f"Epoch [{epoch+1}/{num_epochs}], Val Loss: {avg_val_loss:.4f}, Val Accuracy: {val_accuracy:.4f}")
+            correct_predictions += (predictions == labels).sum().item()
+            total_predictions += labels.size(0)
+            
+            progress_bar.set_postfix(loss=loss.item())
+        avg_train_loss = running_loss / len(train_dataloader)
+        train_accuracy = correct_predictions / total_predictions
+        train_losses.append(avg_train_loss)
+        train_accuracies.append(train_accuracy)
+        print(f"Epoch [{epoch+1}/{config.num_epochs}], Train Loss: {avg_train_loss:.4f}, Train Accuracy: {train_accuracy:.4f}")
+    
+        # Log training metrics to wandb
+        wandb.log({"Train Loss": avg_train_loss, "Train Accuracy": train_accuracy})
+    
+        # Validation phase
+        model.eval()
+        val_running_loss = 0.0
+        val_correct_predictions = 0
+        val_total_predictions = 0
+        with torch.no_grad():
+            for team_input, player_input, ball_input, labels, ball_lengths in val_dataloader:
+                team_input, player_input, ball_input, labels = team_input.to(device), player_input.to(device), ball_input.to(device), labels.to(device)  # Move data to GPU
+                outputs = model(team_input, player_input, ball_input, ball_lengths)
+                loss = criterion(outputs, labels)
+                val_running_loss += loss.item()
+                
+                # Calculate accuracy
+                predictions = (outputs > 0.5).float()
+                val_correct_predictions += (predictions == labels).sum().item()
+                val_total_predictions += labels.size(0)
+        avg_val_loss = val_running_loss / len(val_dataloader)
+        val_accuracy = val_correct_predictions / val_total_predictions
+        val_losses.append(avg_val_loss)
+        val_accuracies.append(val_accuracy)
+        print(f"Epoch [{epoch+1}/{config.num_epochs}], Val Loss: {avg_val_loss:.4f}, Val Accuracy: {val_accuracy:.4f}")
+    
+        # Log validation metrics to wandb
+        wandb.log({"Val Loss": avg_val_loss, "Val Accuracy": val_accuracy})
+    
+        # Early stopping logic
+        if avg_val_loss < best_loss:
+            best_loss = avg_val_loss
+            trigger_times = 0
+            # Save the best model
+            torch.save(model.state_dict(), 'best_model.pth')
+            wandb.save('best_model.pth')
+        else:
+            trigger_times += 1
+            if trigger_times >= config.patience:
+                print('Early stopping!')
+                break
+    
+        # Step the scheduler
+        scheduler.step()
+    
+    # Save the final model
+    torch.save(model.state_dict(), 't20i.pth')
+    wandb.save('t20i.pth')
+    
+    # Finish the wandb run
+    wandb.finish()
 
-    # Early stopping logic
-    if avg_val_loss < best_loss:
-        best_loss = avg_val_loss
-        trigger_times = 0
-        # Save the best model
-        torch.save(model.state_dict(), 'best_model.pth')
-    else:
-        trigger_times += 1
-        if trigger_times >= patience:
-            print('Early stopping!')
-            break
+if __name__ == '__main__':
+    sweep_config = {
+        'method': 'random',
+        'metric': {
+            'name': 'Val Loss',
+            'goal': 'minimize'
+        },
+        'parameters': {
+            'batch_size': {
+                'values': [16, 32, 64]
+            },
+            'learning_rate': {
+                'values': [1e-3, 1e-4, 1e-2]
+            },
+            'dropout': {
+                'values': [0.3, 0.5, 0.7]
+            },
+            'hidden_size': {
+                'values': [64, 128, 256]
+            },
+            'weight_decay': {
+                'values': [0, 1e-5, 1e-4]
+            },
+            'scheduler_step_size': {
+                'values': [5, 10]
+            },
+            'scheduler_gamma': {
+                'values': [0.1, 0.5]
+            },
+            'patience': {
+                'values': [5, 10]
+            },
+            'num_epochs': {
+                'value': 50
+            }
+        }
+    }
 
-# Save the model
-torch.save(model.state_dict(), 't20i.pth')
-
-# Plot training and validation loss and accuracy
-plt.figure(figsize=(12, 4))
-plt.subplot(1, 2, 1)
-plt.plot(train_losses, label='Train Loss')
-plt.plot(val_losses, label='Val Loss')
-plt.xlabel('Epoch')
-plt.ylabel('Loss')
-plt.legend()
-plt.title('Loss over Epochs')
-
-plt.subplot(1, 2, 2)
-plt.plot(train_accuracies, label='Train Accuracy')
-plt.plot(val_accuracies, label='Val Accuracy')
-plt.xlabel('Epoch')
-plt.ylabel('Accuracy')
-plt.legend()
-plt.title('Accuracy over Epochs')
-
-plt.tight_layout()
-plt.savefig('training_validation_history.png')
-plt.show()
+    sweep_id = wandb.sweep(sweep_config, project="cricket-prediction")
+    wandb.agent(sweep_id, function=main)  # Run the sweep agent

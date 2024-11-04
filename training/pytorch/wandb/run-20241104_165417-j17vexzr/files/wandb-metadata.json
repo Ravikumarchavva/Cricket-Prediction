@@ -1,0 +1,17 @@
+{
+  "os": "Windows-10-10.0.22621-SP0",
+  "python": "3.9.20",
+  "startedAt": "2024-11-04T11:24:17.412288Z",
+  "program": "D:\\github\\Cricket-Prediction\\training\\pytorch\\prerp_augmented.py",
+  "codePath": "training\\pytorch\\prerp_augmented.py",
+  "git": {
+    "remote": "https://github.com/Ravikumarchavva/Cricket-Prediction.git",
+    "commit": "66b20a0cc11ba37e97f657e9cf7f7fadb3eba208"
+  },
+  "email": "ravikumarchavva@outlook.com",
+  "root": "D:\\github\\Cricket-Prediction\\training\\pytorch",
+  "host": "ravikumar",
+  "username": "chavv",
+  "executable": "C:\\Users\\chavv\\anaconda\\envs\\huggingface-torch\\python.exe",
+  "codePathLocal": "prerp_augmented.py"
+}

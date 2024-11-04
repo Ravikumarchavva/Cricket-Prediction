@@ -1,0 +1,19 @@
+{"time":"2024-11-04T18:29:16.0453268+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T18:29:16.0453268+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_182916-6vfyln6h\\logs\\debug-core.log"}
+{"time":"2024-11-04T18:29:16.046404+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T18:29:16.0747546+05:30","level":"INFO","msg":"created new stream","id":"6vfyln6h"}
+{"time":"2024-11-04T18:29:16.0747546+05:30","level":"INFO","msg":"stream: started","id":"6vfyln6h"}
+{"time":"2024-11-04T18:29:16.0752621+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"6vfyln6h"}}
+{"time":"2024-11-04T18:29:16.0747546+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6vfyln6h"}}
+{"time":"2024-11-04T18:29:16.0747546+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"6vfyln6h"}}
+{"time":"2024-11-04T18:29:16.5372371+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T18:29:16.5377451+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T18:32:40.5363349+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T18:32:40.5416378+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T18:32:43.7283016+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T18:32:45.1762577+05:30","level":"INFO","msg":"stream: closing","id":"6vfyln6h"}
+{"time":"2024-11-04T18:32:45.1762577+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"6vfyln6h"}}
+{"time":"2024-11-04T18:32:45.1762577+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"6vfyln6h"}}
+{"time":"2024-11-04T18:32:45.1762577+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"6vfyln6h"}}
+{"time":"2024-11-04T18:32:45.1762577+05:30","level":"INFO","msg":"stream: closed","id":"6vfyln6h"}
+{"time":"2024-11-04T18:32:45.5405408+05:30","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

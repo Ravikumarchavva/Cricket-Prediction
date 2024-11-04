@@ -1,0 +1,20 @@
+{"time":"2024-11-04T18:18:34.032506+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T18:18:34.0330102+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_181834-snyppr3y\\logs\\debug-core.log"}
+{"time":"2024-11-04T18:18:34.0335239+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T18:18:34.0606653+05:30","level":"INFO","msg":"created new stream","id":"snyppr3y"}
+{"time":"2024-11-04T18:18:34.061172+05:30","level":"INFO","msg":"stream: started","id":"snyppr3y"}
+{"time":"2024-11-04T18:18:34.061172+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"snyppr3y"}}
+{"time":"2024-11-04T18:18:34.0618163+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"snyppr3y"}}
+{"time":"2024-11-04T18:18:34.0613094+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"snyppr3y"}}
+{"time":"2024-11-04T18:18:34.5792721+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T18:18:34.5797775+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T18:18:41.2849004+05:30","level":"ERROR","msg":"file transfer: upload: failed to upload: 400 Bad Request","task":"DefaultUploadTask{FileKind: 0, Path: D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_181834-snyppr3y\\files\\best_model.pth, Name: best_model.pth, Url: https://storage.googleapis.com/wandb-production.appspot.com/ravikumarchavva-org/cricket-prediction/snyppr3y/best_model.pth?Expires=1730810917&GoogleAccessId=gorilla-files-url-signer-man%40wandb-production.iam.gserviceaccount.com&Signature=Zcaab74RfnCrk255TIAZCDW48XBgaDYg3zG5CjpMXZ9iqM41mMYJ1wK01Gr7oGk8lsDMY6OyiDAaRZKFqnc9retPjD6j8S9xnFMYYHelPCbJrJhE7O4f5dRQvNrPOFVfI3V8%2F%2BNPJkOmwBLWBXeyAEpNGl21%2Fca8%2F%2FnTyyQctCpwWr4PdYy7d15myRjgVMbvKSZOsSmXnNVPQkFB1QaO4X0wflTCoxx47ul7hFd5xNDrn5d7iUVeAbglkwUw7kayex7SYqlrO0Ap2lJh809FzPsaLelhoSfVmvSN89tSZm%2B0JJP%2BgTvWGnX3HTfnhNYlacA3bjL4DY2MYFGr7Sh1AA%3D%3D, Size: 1191714}"}
+{"time":"2024-11-04T18:20:35.0275847+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T18:20:35.0333547+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T18:20:39.7315851+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T18:20:40.0312292+05:30","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-11-04T18:20:41.7150959+05:30","level":"INFO","msg":"stream: closing","id":"snyppr3y"}
+{"time":"2024-11-04T18:20:41.7150959+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"snyppr3y"}}
+{"time":"2024-11-04T18:20:41.7150959+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"snyppr3y"}}
+{"time":"2024-11-04T18:20:41.7150959+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"snyppr3y"}}
+{"time":"2024-11-04T18:20:41.7150959+05:30","level":"INFO","msg":"stream: closed","id":"snyppr3y"}

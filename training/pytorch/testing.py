@@ -9,7 +9,7 @@ import torch.nn.functional as F  # Import F module
 from sklearn.model_selection import train_test_split
 
 # Load the data using polars
-directory = r'D:\github\localt20\data\filteredData'
+directory = r'D:\github\Cricket-Prediction\data\filteredData'
 balltoball = pl.read_csv(os.path.join(directory, 'balltoball.csv'))
 teamStats = pl.read_csv(os.path.join(directory, 'team12Stats.csv'))
 playersStats = pl.read_csv(os.path.join(directory, 'playersStats.csv'))

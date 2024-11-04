@@ -1,0 +1,19 @@
+{"time":"2024-11-04T18:24:47.3858793+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T18:24:47.3858793+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_182447-ahwvxo5m\\logs\\debug-core.log"}
+{"time":"2024-11-04T18:24:47.3869086+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T18:24:47.4093198+05:30","level":"INFO","msg":"created new stream","id":"ahwvxo5m"}
+{"time":"2024-11-04T18:24:47.4093198+05:30","level":"INFO","msg":"stream: started","id":"ahwvxo5m"}
+{"time":"2024-11-04T18:24:47.4093198+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ahwvxo5m"}}
+{"time":"2024-11-04T18:24:47.4093198+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"ahwvxo5m"}}
+{"time":"2024-11-04T18:24:47.4093198+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"ahwvxo5m"}}
+{"time":"2024-11-04T18:24:48.1814215+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T18:24:48.181932+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T18:27:38.220152+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T18:27:38.2305964+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T18:27:42.8495547+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T18:27:43.2293891+05:30","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-11-04T18:27:44.3647142+05:30","level":"INFO","msg":"stream: closing","id":"ahwvxo5m"}
+{"time":"2024-11-04T18:27:44.3647142+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"ahwvxo5m"}}
+{"time":"2024-11-04T18:27:44.3647142+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ahwvxo5m"}}
+{"time":"2024-11-04T18:27:44.3647142+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"ahwvxo5m"}}
+{"time":"2024-11-04T18:27:44.3647142+05:30","level":"INFO","msg":"stream: closed","id":"ahwvxo5m"}

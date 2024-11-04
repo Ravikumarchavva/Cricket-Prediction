@@ -1,0 +1,19 @@
+{"time":"2024-11-04T18:00:49.7973572+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T18:00:49.7973572+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_180049-xc9niri1\\logs\\debug-core.log"}
+{"time":"2024-11-04T18:00:49.798469+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T18:00:49.8302286+05:30","level":"INFO","msg":"created new stream","id":"xc9niri1"}
+{"time":"2024-11-04T18:00:49.8302286+05:30","level":"INFO","msg":"stream: started","id":"xc9niri1"}
+{"time":"2024-11-04T18:00:49.8302286+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"xc9niri1"}}
+{"time":"2024-11-04T18:00:49.8302286+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"xc9niri1"}}
+{"time":"2024-11-04T18:00:49.8302286+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xc9niri1"}}
+{"time":"2024-11-04T18:00:50.6326273+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T18:00:50.6331335+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T18:01:40.7685174+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T18:01:40.7732136+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T18:01:45.7714171+05:30","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-11-04T18:01:48.9883221+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T18:01:50.4183851+05:30","level":"INFO","msg":"stream: closing","id":"xc9niri1"}
+{"time":"2024-11-04T18:01:50.4183851+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"xc9niri1"}}
+{"time":"2024-11-04T18:01:50.4183851+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xc9niri1"}}
+{"time":"2024-11-04T18:01:50.4183851+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"xc9niri1"}}
+{"time":"2024-11-04T18:01:50.4183851+05:30","level":"INFO","msg":"stream: closed","id":"xc9niri1"}

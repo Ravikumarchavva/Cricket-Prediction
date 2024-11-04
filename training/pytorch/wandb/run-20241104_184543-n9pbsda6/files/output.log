@@ -1,0 +1,50 @@
+Running with config: {'batch_size': 16, 'dropout': 0.7, 'hidden_size': 256, 'learning_rate': 0.0001, 'num_epochs': 50, 'patience': 5, 'scheduler_gamma': 0.5, 'scheduler_step_size': 10, 'weight_decay': 0.0001}
+Epoch 1/50: 100%|█████████████████████████████████████████████████████████████████████████████████████████████| 347/347 [00:08<00:00, 39.35it/s, loss=0.66]
+Epoch [1/50], Train Loss: 0.6963, Train Accuracy: 0.4977
+Epoch [1/50], Val Loss: 0.6957, Val Accuracy: 0.5509
+Epoch 2/50: 100%|██████████████████████████████████████████████████████| 347/347 [00:09<00:00, 38.29it/s, loss=0.677]
+Epoch [2/50], Train Loss: 0.6937, Train Accuracy: 0.5140
+Epoch [2/50], Val Loss: 0.6888, Val Accuracy: 0.6159
+Epoch 3/50: 100%|███████████████████████████████████████████████████████| 347/347 [00:08<00:00, 41.88it/s, loss=0.89]
+Epoch [3/50], Train Loss: 0.6886, Train Accuracy: 0.5440
+Epoch [3/50], Val Loss: 0.6718, Val Accuracy: 0.6592
+Epoch 4/50: 100%|██████████████████████████████████████████████████████| 347/347 [00:08<00:00, 41.27it/s, loss=0.538]
+Epoch [4/50], Train Loss: 0.6615, Train Accuracy: 0.5992
+Epoch [4/50], Val Loss: 0.6270, Val Accuracy: 0.6852
+Epoch 5/50: 100%|██████████████████████████████████████████████████████| 347/347 [00:08<00:00, 42.82it/s, loss=0.399]
+Epoch [5/50], Train Loss: 0.6103, Train Accuracy: 0.6817
+Epoch [5/50], Val Loss: 0.5757, Val Accuracy: 0.7097
+Epoch 6/50: 100%|██████████████████████████████████████████████████████| 347/347 [00:07<00:00, 43.43it/s, loss=0.562]
+Epoch [6/50], Train Loss: 0.5482, Train Accuracy: 0.7299
+Epoch [6/50], Val Loss: 0.5142, Val Accuracy: 0.7466
+Epoch 7/50: 100%|██████████████████████████████████████████████████████| 347/347 [00:07<00:00, 43.83it/s, loss=0.237]
+Epoch [7/50], Train Loss: 0.4701, Train Accuracy: 0.7920
+Epoch [7/50], Val Loss: 0.4315, Val Accuracy: 0.8108
+Epoch 8/50: 100%|███████████████████████████████████████████████████████| 347/347 [00:07<00:00, 43.63it/s, loss=0.83]
+Epoch [8/50], Train Loss: 0.3513, Train Accuracy: 0.8547
+Epoch [8/50], Val Loss: 0.3370, Val Accuracy: 0.8614
+Epoch 9/50: 100%|██████████████████████████████████████████████████████| 347/347 [00:07<00:00, 44.23it/s, loss=0.194]
+Epoch [9/50], Train Loss: 0.2729, Train Accuracy: 0.8897
+Epoch [9/50], Val Loss: 0.2935, Val Accuracy: 0.8881
+Epoch 10/50: 100%|█████████████████████████████████████████████████████| 347/347 [00:07<00:00, 43.88it/s, loss=0.803]
+Epoch [10/50], Train Loss: 0.2029, Train Accuracy: 0.9242
+Epoch [10/50], Val Loss: 0.2632, Val Accuracy: 0.8939
+Epoch 11/50: 100%|█████████████████████████████████████████████████████| 347/347 [00:08<00:00, 42.03it/s, loss=0.202]
+Epoch [11/50], Train Loss: 0.1315, Train Accuracy: 0.9570
+Epoch [11/50], Val Loss: 0.1759, Val Accuracy: 0.9386
+Epoch 12/50: 100%|███████████████████████████████████████████████████| 347/347 [00:08<00:00, 42.87it/s, loss=0.00355]
+Epoch [12/50], Train Loss: 0.0992, Train Accuracy: 0.9693
+Epoch [12/50], Val Loss: 0.1659, Val Accuracy: 0.9437
+Epoch 13/50: 100%|████████████████████████████████████████████████████| 347/347 [00:08<00:00, 41.82it/s, loss=0.0708]
+Epoch [13/50], Train Loss: 0.0834, Train Accuracy: 0.9731
+Epoch [13/50], Val Loss: 0.1434, Val Accuracy: 0.9596
+Epoch 14/50: 100%|███████████████████████████| 347/347 [00:07<00:00, 45.11it/s, loss=0.0162]
+Epoch [14/50], Train Loss: 0.0694, Train Accuracy: 0.9818
+Epoch [14/50], Val Loss: 0.1305, Val Accuracy: 0.9610
+Epoch 15/50: 100%|███████████████████████████| 347/347 [00:08<00:00, 42.56it/s, loss=0.0168]
+Epoch [15/50], Train Loss: 0.0589, Train Accuracy: 0.9821
+Epoch [15/50], Val Loss: 0.1336, Val Accuracy: 0.9675
+Epoch 16/50: 100%|██████████████████████████| 347/347 [00:07<00:00, 46.06it/s, loss=0.00366]
+Epoch [16/50], Train Loss: 0.0436, Train Accuracy: 0.9883
+Epoch [16/50], Val Loss: 0.1264, Val Accuracy: 0.9733
+Epoch 17/50:   3%|▊                           | 10/347 [00:00<00:08, 41.60it/s, loss=0.0511]

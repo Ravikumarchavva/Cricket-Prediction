@@ -1,0 +1,18 @@
+{"time":"2024-11-04T17:21:31.3163658+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-11-04T17:21:31.3169102+05:30","level":"INFO","msg":"created symlink","path":"D:\\github\\Cricket-Prediction\\training\\pytorch\\wandb\\run-20241104_172131-j1s5v2bu\\logs\\debug-core.log"}
+{"time":"2024-11-04T17:21:31.317976+05:30","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-11-04T17:21:31.3447988+05:30","level":"INFO","msg":"created new stream","id":"j1s5v2bu"}
+{"time":"2024-11-04T17:21:31.3447988+05:30","level":"INFO","msg":"stream: started","id":"j1s5v2bu"}
+{"time":"2024-11-04T17:21:31.3447988+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"j1s5v2bu"}}
+{"time":"2024-11-04T17:21:31.3447988+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"j1s5v2bu"}}
+{"time":"2024-11-04T17:21:31.3447988+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"j1s5v2bu"}}
+{"time":"2024-11-04T17:21:31.8902805+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-11-04T17:21:31.8918477+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T17:21:44.5956307+05:30","level":"INFO","msg":"stream: closing","id":"j1s5v2bu"}
+{"time":"2024-11-04T17:21:44.5956307+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T17:21:44.6003445+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T17:21:48.3641382+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T17:21:48.7468237+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"j1s5v2bu"}}
+{"time":"2024-11-04T17:21:48.7468237+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"j1s5v2bu"}}
+{"time":"2024-11-04T17:21:48.7473585+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"j1s5v2bu"}}
+{"time":"2024-11-04T17:21:48.7473585+05:30","level":"INFO","msg":"stream: closed","id":"j1s5v2bu"}
