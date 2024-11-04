@@ -1,3 +1,0 @@
-Create sweep with ID: 6tjgx83i
-Sweep URL: https://wandb.ai/ravikumarchavva-org/cricket-prediction/sweeps/6tjgx83i
-[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
