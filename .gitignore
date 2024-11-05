@@ -5,3 +5,6 @@
 # wandb related files
 **/wandb/
 wandb-debug.log
+
+
+.pkl
