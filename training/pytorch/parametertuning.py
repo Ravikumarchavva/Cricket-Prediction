@@ -22,19 +22,17 @@ playersStats = pl.read_csv(os.path.join(directory, 'playersStats.csv'))
 
 # Preprocess the data
 def partition_data(df, group_keys):
-    partitions = df.partition_by(group_keys)
+    partitions = df.partition_by(group_keys, as_dict=True)
     partition_dict = {}
-    for partition in partitions:
-        match_id = partition[group_keys[0]][0]
-        flip = partition[group_keys[1]][0]
-        key = (match_id, flip)
+    for key, partition in partitions.items():
+        # 'key' is a tuple like (match_id, flip)
         partition_dict[key] = partition.drop(group_keys).to_numpy()
     return partition_dict
 
-# Update group_keys to ['match_id', 'flip', 'innings']
-team_stats_partitions = partition_data(teamStats, ['match_id', 'flip', 'innings'])
-player_stats_partitions = partition_data(playersStats, ['match_id', 'flip', 'innings'])
-ball_stats_partitions = partition_data(balltoball, ['match_id', 'flip', 'innings'])
+# Modify group_keys to exclude 'innings'
+team_stats_partitions = partition_data(teamStats, ['match_id', 'flip'])
+player_stats_partitions = partition_data(playersStats, ['match_id', 'flip'])
+ball_stats_partitions = partition_data(balltoball, ['match_id', 'flip'])
 
 # Split match IDs into training and validation sets
 match_ids = list(set([key[0] for key in team_stats_partitions.keys()]))
@@ -48,27 +46,26 @@ def prepare_data(matches, is_validation=False):
 
     for match_id in matches:
         for flip in [0, 1]:  # Team perspectives
-            for innings in [1, 2]:  # Innings numbers
-                key = (match_id, flip, innings)
-                if key in team_stats_partitions and key in player_stats_partitions and key in ball_stats_partitions:
-                    team_stats = team_stats_partitions[key]
-                    player_stats = player_stats_partitions[key]
-                    ball_stats = ball_stats_partitions[key]
+            key = (match_id, flip)
+            if key in team_stats_partitions and key in player_stats_partitions and key in ball_stats_partitions:
+                team_stats = team_stats_partitions[key]
+                player_stats = player_stats_partitions[key]
+                ball_stats = ball_stats_partitions[key]
 
-                    # Determine max overs
-                    if is_validation and innings == 2:
-                        max_overs = 16  # Limit second innings to 16 overs in validation data
-                    else:
-                        max_overs = 20  # Up to 20 overs
+                # Determine max overs
+                if is_validation:
+                    max_overs = 35  # Limit to 16 overs for validation
+                else:
+                    max_overs = 40  # Up to 20 overs
 
-                    total_overs = ball_stats.shape[0] // 6  # Assuming 6 balls per over
-                    max_overs = min(total_overs, max_overs)
-                    end_idx = max_overs * 6
+                total_overs = ball_stats.shape[0] // 6  # Assuming 6 balls per over
+                max_overs = min(total_overs, max_overs)
+                end_idx = max_overs * 6
 
-                    # Append the data
-                    team_stats_list.append(team_stats)
-                    player_stats_list.append(player_stats)
-                    ball_stats_list.append(ball_stats[:end_idx])
+                # Append the data
+                team_stats_list.append(team_stats)
+                player_stats_list.append(player_stats)
+                ball_stats_list.append(ball_stats[:end_idx])
 
     return team_stats_list, player_stats_list, ball_stats_list
 
@@ -172,14 +169,13 @@ class PlayerStatsModel(nn.Module):
         return x
 
 class BallToBallModel(nn.Module):
-    def __init__(self, input_dim, hidden_size, num_heads, num_layers, dropout):
+    def __init__(self, input_dim, hidden_size, num_layers, dropout):
         super(BallToBallModel, self).__init__()
         self.embedding = nn.Linear(input_dim, hidden_size)
-        self.transformer = nn.Transformer(
-            d_model=hidden_size,
-            nhead=num_heads,
-            num_encoder_layers=num_layers,
-            num_decoder_layers=num_layers,
+        self.rnn = nn.RNN(
+            input_size=hidden_size,
+            hidden_size=hidden_size,
+            num_layers=num_layers,
             dropout=dropout,
             batch_first=True
         )
@@ -187,20 +183,20 @@ class BallToBallModel(nn.Module):
 
     def forward(self, x, lengths):
         x = self.embedding(x)
-        # Create a mask to ignore padding tokens
-        mask = (torch.arange(x.size(1))[None, :] < lengths[:, None]).to(x.device)
-        mask = ~mask
-        x = self.transformer(x, x, src_key_padding_mask=mask, tgt_key_padding_mask=mask)
-        x = x.mean(dim=1)  # Average pooling over the sequence length
-        x = F.relu(self.fc(x))
-        return x
+        lengths = lengths.cpu()  # Move lengths to CPU
+        packed_input = nn.utils.rnn.pack_padded_sequence(x, lengths, batch_first=True, enforce_sorted=False)
+        packed_output, _ = self.rnn(packed_input)
+        output, _ = nn.utils.rnn.pad_packed_sequence(packed_output, batch_first=True)
+        output = output.mean(dim=1)  # Average pooling over the sequence length
+        output = F.relu(self.fc(output))
+        return output
 
 class CombinedModel(nn.Module):
     def __init__(self, team_input_size, player_input_size, ball_input_dim, hidden_size, num_heads, num_layers, dropout):
         super(CombinedModel, self).__init__()
         self.team_model = TeamStatsModel(team_input_size, hidden_size, dropout)
         self.player_model = PlayerStatsModel(player_input_size, hidden_size, dropout)
-        self.ball_model = BallToBallModel(ball_input_dim, hidden_size, num_heads, num_layers, dropout)
+        self.ball_model = BallToBallModel(ball_input_dim, hidden_size, num_layers, dropout)
         self.fc = nn.Sequential(
             nn.Linear(16+16+16, hidden_size),
             nn.ReLU(),
@@ -271,8 +267,12 @@ def main():
         progress_bar = tqdm(train_dataloader, desc=f"Epoch {epoch+1}/{config.num_epochs}")
         for team_input, player_input, ball_input, labels, ball_lengths in progress_bar:
             team_input, player_input, ball_input, labels = team_input.to(device), player_input.to(device), ball_input.to(device), labels.to(device)  # Move data to GPU
+            
+            # Convert ball_lengths from list to tensor
+            lengths = torch.tensor(ball_lengths, dtype=torch.long).to(device)
+            
             optimizer.zero_grad()
-            outputs = model(team_input, player_input, ball_input, ball_lengths)
+            outputs = model(team_input, player_input, ball_input, lengths)  # Use lengths tensor
             loss = criterion(outputs, labels)
             loss.backward()
             optimizer.step()
@@ -301,7 +301,11 @@ def main():
         with torch.no_grad():
             for team_input, player_input, ball_input, labels, ball_lengths in val_dataloader:
                 team_input, player_input, ball_input, labels = team_input.to(device), player_input.to(device), ball_input.to(device), labels.to(device)  # Move data to GPU
-                outputs = model(team_input, player_input, ball_input, ball_lengths)
+                
+                # Convert ball_lengths from list to tensor
+                lengths = torch.tensor(ball_lengths, dtype=torch.long).to(device)
+                
+                outputs = model(team_input, player_input, ball_input, lengths)  # Use lengths tensor
                 loss = criterion(outputs, labels)
                 val_running_loss += loss.item()
                 
