@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Switzerland
+info,gender,male
+info,season,2024
+info,date,2024/07/13
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,19
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Switzerland
+info,toss_decision,field
+info,player_of_match,K Fletcher
+info,umpire,Jonathan Kennedy
+info,umpire,Rizwan Akram
+info,reserve_umpire,M Burns
+info,match_referee,H Pack
+info,winner,Switzerland
+info,winner_wickets,7
+info,player,Croatia,CP Turkich
+info,player,Croatia,D Marsic
+info,player,Croatia,ZXM Vukusic
+info,player,Croatia,DJ Turkich
+info,player,Croatia,JM Vujinovich
+info,player,Croatia,Jaikumar Thakur
+info,player,Croatia,PS Roberts
+info,player,Croatia,M Grzinic
+info,player,Croatia,B Jerkovic
+info,player,Croatia,A Govorko
+info,player,Croatia,A Maheshwari
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Noorkhan Ahmedi
+info,player,Switzerland,Abdullah Rana
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,K Fletcher
+info,registry,people,A Govorko,a6e4e6f9
+info,registry,people,A Maheshwari,3ec513ea
+info,registry,people,Abdullah Rana,c4ab9b94
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,B Jerkovic,63bd7086
+info,registry,people,CP Turkich,6264d645
+info,registry,people,D Marsic,16fa34cf
+info,registry,people,DJ Turkich,96013995
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,H Pack,fed53c91
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,JM Vujinovich,99ad98b0
+info,registry,people,Jaikumar Thakur,18fcb85f
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Grzinic,58fba7cb
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Noorkhan Ahmedi,b5417394
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,PS Roberts,fd43bb69
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,ZXM Vukusic,78a3ae4b

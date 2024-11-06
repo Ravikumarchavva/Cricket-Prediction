@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Nepal
+info,gender,female
+info,season,2023/24
+info,date,2023/11/15
+info,event,Women's T20 Quadrangular Series (in Hong Kong)
+info,match_number,1
+info,venue,Hong Kong Cricket Club
+info,city,Wong Nai Chung Gap
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,SF Jerome
+info,umpire,John Prakash
+info,umpire,Ramasamy Venkatesh
+info,reserve_umpire,SJ D'Cruz
+info,match_referee,G Sankaranarayanan
+info,winner,Tanzania
+info,winner_runs,27
+info,player,Tanzania,S Mtae
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,M Pascal
+info,player,Tanzania,HM Omary
+info,player,Tanzania,A Mohamed
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,SF Jerome
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,MH Ushanga
+info,player,Tanzania,S Kizito
+info,player,Nepal,Puja Mahato
+info,player,Nepal,B Rawal
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,K Shrestha
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,SR Magar
+info,player,Nepal,A Karmacharya
+info,player,Nepal,Sangita Rai
+info,player,Nepal,S Bist
+info,player,Nepal,K Dangol
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,A Mohamed,86a68879
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,I Barma,521abce2
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,K Dangol,db080f9d
+info,registry,people,K Shrestha,119de50f
+info,registry,people,M Pascal,729c5ab5
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Bist,ec05df4e
+info,registry,people,S Kizito,d91a936b
+info,registry,people,S Mtae,bb641155
+info,registry,people,SF Jerome,e393c6c1
+info,registry,people,SH Mohamedi,10ab6a37
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,Sangita Rai,ad580a96

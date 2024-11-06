@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Singapore
+info,gender,female
+info,season,2023/24
+info,date,2024/02/13
+info,event,Asian Cricket Council Women's Premier Cup
+info,venue,"Royal Selangor Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Thailand
+info,toss_decision,bat
+info,player_of_match,S Khiaoto
+info,umpire,Aasif Iqbal
+info,umpire,Gayathri Venugopal
+info,reserve_umpire,Shivani Mishra
+info,match_referee,Ramesh Menon
+info,winner,Thailand
+info,winner_runs,86
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chaiwai
+info,player,Thailand,S Khiaoto
+info,player,Thailand,R Kanoh
+info,player,Thailand,N Boochatham
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,T Putthawong
+info,player,Thailand,S Chaturongrattana
+info,player,Thailand,A Suwanchonrathi
+info,player,Thailand,Chayanisa Phengpaen
+info,player,Singapore,DA Galia
+info,player,Singapore,S Merican
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,GK Diviya
+info,player,Singapore,RR Seth
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,Damini Ramesh
+info,player,Singapore,H Dhavina
+info,player,Singapore,JS Pooranakaran
+info,registry,people,A Suwanchonrathi,43a2244f
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,Chayanisa Phengpaen,ab45cae8
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,GK Diviya,992979fa
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,R Kanoh,5959370f
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Ramesh Menon,4ed80d22
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Merican,f3f6f5a0
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,T Putthawong,23e3f2d6
+info,registry,people,Vinu Kumar,3775b9f9

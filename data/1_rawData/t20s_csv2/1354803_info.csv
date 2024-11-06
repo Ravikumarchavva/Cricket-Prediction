@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Isle of Man
+info,team,Spain
+info,gender,male
+info,season,2022/23
+info,date,2023/02/26
+info,event,Isle of Man tour of Spain
+info,match_number,6
+info,venue,La Manga Club Bottom Ground
+info,city,Murcia
+info,toss_winner,Spain
+info,toss_decision,field
+info,player_of_match,Atif Mehmood
+info,umpire,DJ Clark
+info,umpire,MJ Chappell
+info,winner,Spain
+info,winner_wickets,10
+info,player,Isle of Man,A McAuley
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,L Ward
+info,player,Isle of Man,C Hartmann
+info,player,Isle of Man,EF Beard
+info,player,Isle of Man,C Webster
+info,player,Isle of Man,JA Burrows
+info,player,Isle of Man,J Butler
+info,player,Isle of Man,F Clarke
+info,player,Isle of Man,E Walker
+info,player,Isle of Man,K Cawte
+info,player,Spain,Awais Ahmed
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,D Doyle-Calle
+info,player,Spain,AD Algar
+info,player,Spain,C Rumistrzewicz
+info,player,Spain,LA Burns
+info,player,Spain,Atif Mehmood
+info,player,Spain,Shafat Ali Syed
+info,player,Spain,R Panchal
+info,player,Spain,C Munoz-Mills
+info,player,Spain,Mohammad Kamran
+info,registry,people,A McAuley,39e599c8
+info,registry,people,AD Algar,020e49e9
+info,registry,people,Atif Mehmood,7fcc57bf
+info,registry,people,Awais Ahmed,f9f857dc
+info,registry,people,C Hartmann,467c28f9
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,C Rumistrzewicz,3ed4e2ad
+info,registry,people,C Webster,f7bf6004
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,DJ Clark,d547fe55
+info,registry,people,E Walker,b312a9c1
+info,registry,people,EF Beard,68019a70
+info,registry,people,F Clarke,0c95e20e
+info,registry,people,G Burrows,8bee668b
+info,registry,people,J Butler,efcb778e
+info,registry,people,JA Burrows,dba54d8e
+info,registry,people,K Cawte,a2dd9236
+info,registry,people,L Ward,98f33eed
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,MJ Chappell,dfc007c0
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,Mohammad Kamran,1a628a92
+info,registry,people,R Panchal,91cd337c
+info,registry,people,Shafat Ali Syed,6d36cb93

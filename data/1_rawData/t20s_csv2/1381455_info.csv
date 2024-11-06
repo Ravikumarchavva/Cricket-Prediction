@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Serbia
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Quadrangular Twenty20 Series (Bulgaria)
+info,match_number,3
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Serbia
+info,toss_decision,field
+info,player_of_match,MV Pavlovic
+info,winner,Serbia
+info,winner_wickets,5
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,Zain Asif
+info,player,Bulgaria,Zaid Soulat
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,Saim Hussain
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,DV Varghese
+info,player,Bulgaria,Huzaif Yousuf
+info,player,Serbia,WAE Burton
+info,player,Serbia,A Dizija
+info,player,Serbia,LA Dunbar
+info,player,Serbia,MV Pavlovic
+info,player,Serbia,S Tosic
+info,player,Serbia,V Zimonjic
+info,player,Serbia,N Zimonjic
+info,player,Serbia,NR Johns-Wickberg
+info,player,Serbia,Rahman Ademi
+info,player,Serbia,AA Gajic
+info,player,Serbia,B Dugic
+info,registry,people,A Dizija,6483c062
+info,registry,people,AA Gajic,a768a762
+info,registry,people,B Dugic,5edaa34d
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,DV Varghese,26f98ea3
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,Huzaif Yousuf,95e47073
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,MV Pavlovic,2809b390
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,NR Johns-Wickberg,3924b2ee
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,Rahman Ademi,a9fd6ca3
+info,registry,people,S Tosic,1c40f69f
+info,registry,people,Saim Hussain,d300d274
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,WAE Burton,b0358c6d
+info,registry,people,Zaid Soulat,14cbe9b7
+info,registry,people,Zain Asif,ef8eba13
+info,registry,people,Zeerak Chughtai,ff0b1636

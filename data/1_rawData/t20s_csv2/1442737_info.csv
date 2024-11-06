@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Nigeria
+info,gender,male
+info,season,2024
+info,date,2024/07/15
+info,event,Nigeria tour of Kenya
+info,match_number,3
+info,venue,"Sikh Union Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,player_of_match,VD Adewoye
+info,umpire,Charles Kariuki
+info,umpire,D Angara
+info,reserve_umpire,Asgarali Kassam
+info,winner,Nigeria
+info,winner_wickets,3
+info,player,Kenya,RN Patel
+info,player,Kenya,P Sharma
+info,player,Kenya,N Mugabe
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,SO Ngoche
+info,player,Kenya,LN Oluoch
+info,player,Kenya,S Singh
+info,player,Kenya,F Mutua
+info,player,Kenya,Vraj Patel
+info,player,Kenya,GM Muthui
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,Selim Salau
+info,player,Nigeria,O Olaleye
+info,player,Nigeria,I Danladi
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,VD Adewoye
+info,player,Nigeria,P Useni
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,Joshua Asia
+info,player,Nigeria,C Udekwe
+info,registry,people,Asgarali Kassam,88aaf2d7
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Angara,bfa866cc
+info,registry,people,F Mutua,21b67523
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,Joshua Asia,c4ecc42c
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,O Olaleye,811785d2
+info,registry,people,P Sharma,d047f983
+info,registry,people,P Useni,71fa64d6
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Selim Salau,d18d3a0f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,VD Adewoye,45a34a2d
+info,registry,people,Vraj Patel,2af28253

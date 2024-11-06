@@ -1,0 +1,3 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed
+1424829,2024,2024-04-18,Rawalpindi Cricket Stadium,1,0.1,New Zealand,Pakistan,TB Robinson,TL Seifert,Shaheen Shah Afridi,0,2,,,,2,,,,,
+1424829,2024,2024-04-18,Rawalpindi Cricket Stadium,1,0.2,New Zealand,Pakistan,TB Robinson,TL Seifert,Shaheen Shah Afridi,0,0,,,,,,bowled,TB Robinson,,

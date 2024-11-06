@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mongolia
+info,team,Hong Kong
+info,gender,male
+info,season,2024
+info,date,2024/08/31
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,6
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,Ehsan Khan
+info,umpire,Faisal Afridi
+info,umpire,V Kalidas
+info,reserve_umpire,BB Pradhan
+info,match_referee,V Narayan Kutty
+info,winner,Hong Kong
+info,winner_wickets,9
+info,player,Mongolia,B Namsrai
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,D Jamyansuren
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,S Gantulga
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,T Tumursukh
+info,player,Mongolia,T Batjargal
+info,player,Mongolia,E Batkhuyag
+info,player,Hong Kong,JJ Atkinson
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Hong Kong,M Coetzee
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,D Jamyansuren,6ad7d184
+info,registry,people,E Batkhuyag,1c366af1
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,G Ganbold,947346d8
+info,registry,people,JJ Atkinson,bf2d865c
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,M Coetzee,3f149080
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,S Gantulga,8d995b86
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Batjargal,f75d4a8d
+info,registry,people,T Tumursukh,4758488e
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

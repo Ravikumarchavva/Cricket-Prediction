@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,United Arab Emirates
+info,gender,female
+info,season,2024
+info,date,2024/07/21
+info,event,Women's Asia Cup
+info,match_number,5
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,RM Ghosh
+info,umpire,N Perera
+info,umpire,Shathira Jakir
+info,reserve_umpire,Nur Hijrah
+info,tv_umpire,Saleema Imtiaz
+info,match_referee,JM Pereira
+info,winner,India
+info,winner_runs,78
+info,player,India,Shafali Verma
+info,player,India,S Mandhana
+info,player,India,D Hemalatha
+info,player,India,H Kaur
+info,player,India,JI Rodrigues
+info,player,India,RM Ghosh
+info,player,India,P Vastrakar
+info,player,India,DB Sharma
+info,player,India,RP Yadav
+info,player,India,TP Kanwar
+info,player,India,Renuka Singh
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,Khushi Sharma
+info,player,United Arab Emirates,H Hotchandani
+info,player,United Arab Emirates,Rithika Rajith
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,United Arab Emirates,L Keny
+info,player,United Arab Emirates,I Nandakumar
+info,registry,people,D Hemalatha,1d6ff329
+info,registry,people,DB Sharma,201fef33
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,H Hotchandani,f537d39c
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,I Nandakumar,9f87d0f0
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Khushi Sharma,a259c414
+info,registry,people,L Keny,aea89d48
+info,registry,people,N Perera,129709f9
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,P Vastrakar,8026ea72
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,Rithika Rajith,dccab4f3
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,TP Kanwar,443c122f
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,Vaishnave Mahesh,31c56f40

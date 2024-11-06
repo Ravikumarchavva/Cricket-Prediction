@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Kuwait
+info,gender,male
+info,season,2023/24
+info,date,2023/10/02
+info,event,ICC Men's T20 World Cup Sub Regional Asia Qualifier A
+info,match_number,7
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,R Sandaruwan
+info,umpire,Bismillah Shinwari
+info,umpire,Rahul Asher
+info,reserve_umpire,Shivani Mishra
+info,winner,Kuwait
+info,winner_wickets,5
+info,player,Qatar,I Liyanage
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,MM Baig
+info,player,Qatar,Mohammed Irshad
+info,player,Qatar,H Rathod
+info,player,Qatar,Muhammad Murad
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,Bukhar Illikkal
+info,player,Qatar,Bipin Kumar
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Ilyas Ahmed
+info,player,Kuwait,Nimish Lathief
+info,player,Kuwait,Mohamed Shafeeq
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,Bipin Kumar,c821e504
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,Bukhar Illikkal,f4a2d087
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,H Rathod,1f943bef
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ilyas Ahmed,42a01b52
+info,registry,people,MM Baig,add288ea
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Mohammed Irshad,1a54d618
+info,registry,people,Muhammad Murad,df3947f4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Nimish Lathief,b561e8ea
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Yasin Patel,ecdd8d60

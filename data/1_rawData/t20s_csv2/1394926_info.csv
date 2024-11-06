@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Eswatini
+info,gender,female
+info,season,2023
+info,date,2023/09/05
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,10
+info,venue,"Botswana Cricket Association Oval 2, Gaborone"
+info,city,Gaborone
+info,toss_winner,Sierra Leone
+info,toss_decision,bat
+info,player_of_match,AM Kamara
+info,umpire,K Klaaste
+info,umpire,P Sizara
+info,reserve_umpire,S Dambanevana
+info,match_referee,SA Fritz
+info,winner,Sierra Leone
+info,winner_runs,147
+info,player,Sierra Leone,E Kamara
+info,player,Sierra Leone,C Bull
+info,player,Sierra Leone,M Turay
+info,player,Sierra Leone,R Turay
+info,player,Sierra Leone,AM Kamara
+info,player,Sierra Leone,F Parkinson
+info,player,Sierra Leone,J Kowa
+info,player,Sierra Leone,F Pessima
+info,player,Sierra Leone,H Sawaneh
+info,player,Sierra Leone,I Quee
+info,player,Sierra Leone,A Fillie
+info,player,Eswatini,M Dlamini
+info,player,Eswatini,W Ginindza
+info,player,Eswatini,Ntombizodwa Mkhatshwa
+info,player,Eswatini,N Mabila
+info,player,Eswatini,D Dlamini
+info,player,Eswatini,Ntombizonke MKhatshwa
+info,player,Eswatini,S Mabuza
+info,player,Eswatini,N Simelane
+info,player,Eswatini,T Malinga
+info,player,Eswatini,T Dlamini
+info,player,Eswatini,L Mamba
+info,registry,people,A Fillie,67412324
+info,registry,people,AM Kamara,4ca3d67d
+info,registry,people,C Bull,a7b3bd26
+info,registry,people,D Dlamini,7a6ce3c9
+info,registry,people,E Kamara,3f8915a0
+info,registry,people,F Parkinson,9b819b10
+info,registry,people,F Pessima,9be80ea0
+info,registry,people,H Sawaneh,09bea436
+info,registry,people,I Quee,6bcefc6e
+info,registry,people,J Kowa,9d80f576
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,L Mamba,bcbb22dc
+info,registry,people,M Dlamini,877a3433
+info,registry,people,M Turay,1eec6a0f
+info,registry,people,N Mabila,21ef59e3
+info,registry,people,N Simelane,c3b5da14
+info,registry,people,Ntombizodwa Mkhatshwa,5d297269
+info,registry,people,Ntombizonke MKhatshwa,1697a7c4
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,R Turay,c05e5d66
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mabuza,8ce93575
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Dlamini,b92d1fe6
+info,registry,people,T Malinga,a6f6efba
+info,registry,people,W Ginindza,b5fedf28

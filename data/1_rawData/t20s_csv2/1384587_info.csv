@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,France
+info,gender,male
+info,season,2023
+info,date,2023/07/12
+info,event,Mdina Cup
+info,match_number,6
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Luxembourg
+info,toss_decision,bat
+info,player_of_match,G Mckeon
+info,umpire,S Fernando
+info,umpire,V Sridhar
+info,reserve_umpire,S Gowda
+info,match_referee,Vinay Malhotra
+info,winner,France
+info,winner_wickets,9
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,G Venkateswaran
+info,player,Luxembourg,E Jabarkhel
+info,player,Luxembourg,P Malav
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,A Dhingra
+info,player,France,G Mckeon
+info,player,France,HA Jackson
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Usman Khan
+info,player,France,Noman Amjad
+info,player,France,P Pirabakaran
+info,player,France,SM Warnakulasuriya
+info,player,France,Rahmatullah Mangal
+info,player,France,Ibrahim Jabarkhel
+info,player,France,Dawood Ahmadzai
+info,registry,people,A Dhingra,753ada66
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Nanda,704e0160
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,E Jabarkhel,21526a38
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,G Venkateswaran,a4bcaba7
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,Ibrahim Jabarkhel,c311564c
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Mees,ab1445ea
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,P Malav,02b078b1
+info,registry,people,P Pirabakaran,5ab659d9
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,SKS Gill,faef026c
+info,registry,people,SM Warnakulasuriya,8a5a8cf0
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,V Sridhar,42314166
+info,registry,people,V Vijh,b857468a
+info,registry,people,Vinay Malhotra,452837d1

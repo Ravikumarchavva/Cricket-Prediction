@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Singapore
+info,gender,male
+info,season,2024
+info,date,2024/09/02
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,7
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Singapore
+info,toss_decision,field
+info,player_of_match,Zeeshan Ali
+info,umpire,BB Pradhan
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Shiju Sam
+info,match_referee,V Narayan Kutty
+info,winner,Hong Kong
+info,winner_runs,23
+info,method,D/L
+info,player,Hong Kong,JJ Atkinson
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Hong Kong,A Shukla
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Sheshadri
+info,player,Singapore,WA Simpson
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,Janak Prakash
+info,player,Singapore,AE Paraam
+info,player,Singapore,A Mutreja
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,AR Puri
+info,player,Singapore,R Kalimuthu
+info,registry,people,A Mutreja,a2ec22d2
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,AE Paraam,b56f5b6f
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,JJ Atkinson,bf2d865c
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Sheshadri,d4aa2ddb
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,WA Simpson,6de0f650
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

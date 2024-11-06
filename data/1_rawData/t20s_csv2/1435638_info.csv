@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Kenya
+info,gender,female
+info,season,2024
+info,date,2024/06/05
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,21
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Cameroon
+info,toss_decision,bat
+info,player_of_match,E Wachira
+info,umpire,R Singinzwa
+info,umpire,V Iriho
+info,reserve_umpire,TJ Onikoyi
+info,winner,Kenya
+info,winner_wickets,8
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,JAN Ngono
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,BMA Mbida
+info,player,Cameroon,B Waluma
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,SA Nono
+info,player,Cameroon,CN Messina
+info,player,Cameroon,E Guehoada
+info,player,Kenya,Q Abel
+info,player,Kenya,E Wachira
+info,player,Kenya,V Abuga
+info,player,Kenya,V Ooko
+info,player,Kenya,C Muthoni
+info,player,Kenya,L Idambo
+info,player,Kenya,A Wanjira
+info,player,Kenya,JS Ndanu
+info,player,Kenya,F Odhiambo
+info,player,Kenya,E Waithaka
+info,player,Kenya,J Ajiambo
+info,registry,people,A Wanjira,b6015231
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,BMA Mbida,e3c23cef
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,CN Messina,1afd0d5c
+info,registry,people,E Guehoada,8c03f3b8
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,E Waithaka,1e4c0204
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,J Ajiambo,c3a998fa
+info,registry,people,JAN Ngono,0bc162c4
+info,registry,people,JS Ndanu,c27e0638
+info,registry,people,L Idambo,27339093
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,Q Abel,2e988457
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,SA Nono,f6019e5d
+info,registry,people,TJ Onikoyi,b68d9bc6
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Iriho,2853eafb
+info,registry,people,V Ooko,2ae76bf6

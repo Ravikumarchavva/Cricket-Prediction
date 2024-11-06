@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Cameroon
+info,gender,female
+info,season,2024
+info,date,2024/05/30
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,1
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,H Ishimwe
+info,umpire,D Hagenimana
+info,umpire,V Iriho
+info,reserve_umpire,Gasana Christian
+info,winner,Rwanda
+info,winner_runs,102
+info,player,Rwanda,MD Bimenyimana
+info,player,Rwanda,M Uwase
+info,player,Rwanda,G Ishimwe
+info,player,Rwanda,C Uwase
+info,player,Rwanda,H Ishimwe
+info,player,Rwanda,A Ikuzwe
+info,player,Rwanda,J Nyirankundineza
+info,player,Rwanda,B Murekatete
+info,player,Rwanda,Rosine Irera
+info,player,Rwanda,Geovanis Uwase
+info,player,Rwanda,R Shimwamana
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,CD Mboe
+info,player,Cameroon,B Waluma
+info,player,Cameroon,O Ranedoumoun
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,SA Nono
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,CN Messina
+info,player,Cameroon,E Guehoada
+info,registry,people,A Ikuzwe,6762a445
+info,registry,people,B Murekatete,2d4317da
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,C Uwase,808bb510
+info,registry,people,CD Mboe,14198941
+info,registry,people,CN Messina,1afd0d5c
+info,registry,people,D Hagenimana,de167462
+info,registry,people,E Guehoada,8c03f3b8
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,G Ishimwe,b5ae57ee
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,Geovanis Uwase,088f22fd
+info,registry,people,H Ishimwe,ffa296f7
+info,registry,people,J Nyirankundineza,7e7d2fe5
+info,registry,people,M Uwase,7d6ce83f
+info,registry,people,MD Bimenyimana,c1a0cebe
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,O Ranedoumoun,71ee8c8d
+info,registry,people,R Shimwamana,03fb10bd
+info,registry,people,Rosine Irera,b84718fd
+info,registry,people,SA Nono,f6019e5d
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,V Iriho,2853eafb

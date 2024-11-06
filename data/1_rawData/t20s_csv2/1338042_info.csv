@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,female
+info,season,2022/23
+info,date,2023/02/11
+info,event,ICC Women's T20 World Cup
+info,match_number,3
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,A Gardner
+info,umpire,N Perera
+info,umpire,S Redfern
+info,reserve_umpire,AY Harris
+info,tv_umpire,JM Williams
+info,match_referee,JM Pereira
+info,winner,Australia
+info,winner_runs,97
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,MM Lanning
+info,player,Australia,A Gardner
+info,player,Australia,EA Perry
+info,player,Australia,GM Harris
+info,player,Australia,TM McGrath
+info,player,Australia,JL Jonassen
+info,player,Australia,A King
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,player,New Zealand,SW Bates
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,B Bezuidenhout
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,ML Green
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,HNK Jensen
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Healy,321644de
+info,registry,people,AY Harris,90d95b82
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,D Brown,2e81be88
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GM Harris,72166006
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,HNK Jensen,b8cce99f
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,JM Kerr,9af58032
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ML Green,865eae1f
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,N Perera,129709f9
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TM McGrath,ca5acfa4

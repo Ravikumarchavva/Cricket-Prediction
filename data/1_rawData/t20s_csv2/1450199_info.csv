@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Luxembourg
+info,gender,female
+info,season,2024
+info,date,2024/09/14
+info,event,Women's T20I Quadrangular Series (in Denmark)
+info,match_number,2
+info,venue,Koge Cricket Club 2
+info,city,Koge
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,P Sabu
+info,umpire,B Timilsena
+info,umpire,Zeb Pirzada
+info,winner,Austria
+info,winner_runs,115
+info,player,Austria,P Sabu
+info,player,Austria,H Bhullar
+info,player,Austria,H Simpson-Parker
+info,player,Austria,AM Zepeda
+info,player,Austria,JA Stiglitz
+info,player,Austria,MPM Pathirannehelage
+info,player,Austria,A Saifee
+info,player,Austria,P Ganeshan
+info,player,Austria,S Bhardwaj
+info,player,Austria,SK Reddy
+info,player,Austria,A Nookala
+info,player,Luxembourg,SH Lawlor
+info,player,Luxembourg,GEM Brealey
+info,player,Luxembourg,Khusboo Kandpal
+info,player,Luxembourg,Kerry Fraser
+info,player,Luxembourg,PN Agarwal
+info,player,Luxembourg,Jagrat Dubey
+info,player,Luxembourg,Aarti Priya
+info,player,Luxembourg,Shivani Sati
+info,player,Luxembourg,Navneet Bamrah
+info,player,Luxembourg,FC Ellingworth
+info,player,Luxembourg,Divya Kandpal
+info,registry,people,A Nookala,57922f7c
+info,registry,people,A Saifee,7efe9059
+info,registry,people,AM Zepeda,c9f95a16
+info,registry,people,Aarti Priya,ec11ad0b
+info,registry,people,B Timilsena,826718d0
+info,registry,people,Divya Kandpal,32b8d4fe
+info,registry,people,FC Ellingworth,030c39f1
+info,registry,people,GEM Brealey,f2b769ad
+info,registry,people,H Bhullar,c9ffb93d
+info,registry,people,H Simpson-Parker,59b0a7ad
+info,registry,people,JA Stiglitz,7195065a
+info,registry,people,Jagrat Dubey,a4051019
+info,registry,people,Kerry Fraser,8bebbcd4
+info,registry,people,Khusboo Kandpal,54a10889
+info,registry,people,MPM Pathirannehelage,0c142594
+info,registry,people,Navneet Bamrah,edcd403f
+info,registry,people,P Ganeshan,3829c5ea
+info,registry,people,P Sabu,a38da707
+info,registry,people,PN Agarwal,f34a3a74
+info,registry,people,S Bhardwaj,83e9173e
+info,registry,people,SH Lawlor,29342bbe
+info,registry,people,SK Reddy,3e1fbf05
+info,registry,people,Shivani Sati,b49ab82b
+info,registry,people,Zeb Pirzada,716e41af

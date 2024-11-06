@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Bahrain
+info,gender,male
+info,season,2023/24
+info,date,2024/03/11
+info,event,Malaysia Open T20 Championship
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,Rizwan Butt
+info,umpire,Sarika Prasad
+info,umpire,Tabarak Dar
+info,reserve_umpire,Nasir Ali
+info,tv_umpire,V Kalidas
+info,match_referee,Edwin Seah
+info,winner,Bahrain
+info,winner_wickets,8
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,M Syahadat Ramli
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Fitri Sham
+info,player,Malaysia,Pavandeep Singh
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Fitri Sham,d2ec068c
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,M Syahadat Ramli,5efa8af3
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d

@@ -1,0 +1,59 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Germany
+info,gender,male
+info,season,2022/23
+info,date,2022/11/04
+info,event,Spain Triangular T20I Series
+info,match_number,1
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Italy
+info,toss_decision,bat
+info,winner,Germany
+info,winner_wickets,10
+info,player,Italy,G Stewart
+info,player,Italy,D Samarawickrama
+info,player,Italy,M Campopiano
+info,player,Italy,Anik Ahmed
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,GP Meade
+info,player,Italy,Gurpreet Singh
+info,player,Italy,P Sadev
+info,player,Italy,DKD Warnakulasuriya
+info,player,Italy,Ali Hasan
+info,player,Italy,Anmoldeep Singh
+info,player,Germany,J Broad
+info,player,Germany,Talha Khan
+info,player,Germany,Ghulam Ahmadi
+info,player,Germany,Muslim Yar
+info,player,Germany,Abdul-Shakoor Rahimzei
+info,player,Germany,J van Heerden
+info,player,Germany,W Behr
+info,player,Germany,D Klein
+info,player,Germany,Sahir Naqash
+info,player,Germany,MJ Richardson
+info,player,Germany,DA Blignaut
+info,registry,people,Abdul-Shakoor Rahimzei,e45810ed
+info,registry,people,Ali Hasan,cae17490
+info,registry,people,Anik Ahmed,ccda520f
+info,registry,people,Anmoldeep Singh,5db10a22
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,D Klein,aeab0d4f
+info,registry,people,D Samarawickrama,6d4c2087
+info,registry,people,DA Blignaut,cfcf189f
+info,registry,people,DKD Warnakulasuriya,832b77c6
+info,registry,people,G Stewart,a77472dc
+info,registry,people,GP Meade,3957a70a
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,Gurpreet Singh,1a5d690f
+info,registry,people,J Broad,ec5160d7
+info,registry,people,J van Heerden,01549705
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,MJ Richardson,22176fe7
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,P Sadev,7c4e8e13
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,Talha Khan,8e5a1a7a
+info,registry,people,W Behr,9a8f01b7

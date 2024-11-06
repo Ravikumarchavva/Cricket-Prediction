@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Singapore
+info,gender,male
+info,season,2024
+info,date,2024/09/03
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,12
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,Syed Aziz
+info,umpire,Faisal Afridi
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Shiju Sam
+info,match_referee,V Narayan Kutty
+info,winner,Malaysia
+info,winner_runs,1
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Ahmed Aqeel
+info,player,Malaysia,Aslam Khan
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Rizwan Haider
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,S Chandramohan
+info,player,Singapore,A Mutreja
+info,player,Singapore,WA Simpson
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,AE Paraam
+info,player,Singapore,Janak Prakash
+info,player,Singapore,A Kaul
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,AR Puri
+info,player,Singapore,R Kalimuthu
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,A Mutreja,a2ec22d2
+info,registry,people,AE Paraam,b56f5b6f
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Ahmed Aqeel,92f0e10e
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Aslam Khan,31080a88
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,WA Simpson,6de0f650
+info,registry,people,Zubaidi Zulkifle,dca8273d

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lesotho
+info,team,Cameroon
+info,gender,male
+info,season,2024
+info,date,2024/09/26
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,14
+info,venue,University of Dar-es-Salaam Ground
+info,city,Dar-es-Salaam
+info,toss_winner,Cameroon
+info,toss_decision,field
+info,player_of_match,BN Toube
+info,umpire,Aasif Iqbal
+info,umpire,K Klaaste
+info,reserve_umpire,A Kassam
+info,match_referee,S Wadvalla
+info,winner,Cameroon
+info,winner_wickets,9
+info,player,Lesotho,LM Gabriel
+info,player,Lesotho,Maaz Khan
+info,player,Lesotho,Sajid Patel
+info,player,Lesotho,Waseem Yaqoob
+info,player,Lesotho,LJ Leokaoke
+info,player,Lesotho,C Tlali
+info,player,Lesotho,V Jayant
+info,player,Lesotho,TD Chaoana
+info,player,Lesotho,TJ Ramphoma
+info,player,Lesotho,B Mejaro
+info,player,Lesotho,MV Matsau
+info,player,Cameroon,BN Toube
+info,player,Cameroon,AN Toube
+info,player,Cameroon,AR Balla
+info,player,Cameroon,JB Abega
+info,player,Cameroon,DB Loic
+info,player,Cameroon,AN Aminou
+info,player,Cameroon,FJ Mpegna
+info,player,Cameroon,SYS Assegon
+info,player,Cameroon,I Tchakou
+info,player,Cameroon,RD Atangana
+info,player,Cameroon,VF Bomnyuy
+info,registry,people,A Kassam,7d13b388
+info,registry,people,AN Aminou,6d9d2de7
+info,registry,people,AN Toube,7f929ebe
+info,registry,people,AR Balla,4b83e65a
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,B Mejaro,6bd0d89e
+info,registry,people,BN Toube,75f3aa00
+info,registry,people,C Tlali,70841eab
+info,registry,people,DB Loic,01679383
+info,registry,people,FJ Mpegna,d3893060
+info,registry,people,I Tchakou,4d2b96b4
+info,registry,people,JB Abega,b7abb123
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,LJ Leokaoke,456884dd
+info,registry,people,LM Gabriel,88a5adcf
+info,registry,people,MV Matsau,dad64776
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,RD Atangana,490f475a
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SYS Assegon,be48d2e5
+info,registry,people,Sajid Patel,f8279d15
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,TJ Ramphoma,9d6cba1d
+info,registry,people,V Jayant,6535cc7b
+info,registry,people,VF Bomnyuy,3bc18521
+info,registry,people,Waseem Yaqoob,06b387f1

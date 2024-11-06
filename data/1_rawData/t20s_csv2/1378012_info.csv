@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Turkey
+info,team,Jersey
+info,gender,female
+info,season,2023
+info,date,2023/05/30
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,7
+info,venue,"Grainville, St Saviour, Jersey"
+info,city,St Saviour
+info,toss_winner,Jersey
+info,toss_decision,field
+info,umpire,Jareth McCready
+info,umpire,Ryan Milne
+info,reserve_umpire,DH Mclean
+info,match_referee,G McCrea
+info,winner,Jersey
+info,winner_wickets,9
+info,player,Turkey,G Ayan
+info,player,Turkey,G Keles
+info,player,Turkey,B Taylan
+info,player,Turkey,K Canavarci
+info,player,Turkey,O Essiz
+info,player,Turkey,Ezgi Nur Kilic
+info,player,Turkey,H Okcu
+info,player,Turkey,Rabia Sahan
+info,player,Turkey,M Sert
+info,player,Turkey,G Cengiz
+info,player,Turkey,HO Karaduman
+info,player,Jersey,MD Rocha
+info,player,Jersey,C Miles
+info,player,Jersey,G Wetherall
+info,player,Jersey,T Smith
+info,player,Jersey,M Maguire
+info,player,Jersey,A Merritt
+info,player,Jersey,A Aikenhead
+info,player,Jersey,CM Greechan
+info,player,Jersey,F Copley
+info,player,Jersey,E Duffy
+info,player,Jersey,E Gouge
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,B Taylan,416863d4
+info,registry,people,C Miles,80f16d29
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,DH Mclean,281d4749
+info,registry,people,E Duffy,52bbb9e5
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,Ezgi Nur Kilic,ec8132b2
+info,registry,people,F Copley,637680bc
+info,registry,people,G Ayan,66d258e2
+info,registry,people,G Cengiz,be59ed3f
+info,registry,people,G Keles,3e84a803
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,H Okcu,7ddce42e
+info,registry,people,HO Karaduman,0853d18a
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,K Canavarci,556ad437
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,M Sert,f32cbd5b
+info,registry,people,MD Rocha,30aa04d2
+info,registry,people,O Essiz,80d9e011
+info,registry,people,Rabia Sahan,d37581d9
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,T Smith,f24ffaab

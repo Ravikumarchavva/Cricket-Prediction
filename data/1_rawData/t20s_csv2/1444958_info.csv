@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Fiji
+info,gender,male
+info,season,2024
+info,date,2024/08/21
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,7
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Fiji
+info,toss_decision,field
+info,player_of_match,D Visser
+info,umpire,Kim Cotton
+info,umpire,M Kenni
+info,reserve_umpire,PJ Gillespie
+info,match_referee,Kent Hannam
+info,winner,Samoa
+info,winner_runs,73
+info,player,Samoa,CK Jasmat
+info,player,Samoa,DE Roache
+info,player,Samoa,S Cotter
+info,player,Samoa,D Visser
+info,player,Samoa,F Suluoto
+info,player,Samoa,SF Tiai
+info,player,Samoa,A Ilaoa
+info,player,Samoa,D Finau
+info,player,Samoa,DE Burgess
+info,player,Samoa,Noah Mead
+info,player,Samoa,SM Nash
+info,player,Fiji,M Beitaki
+info,player,Fiji,DR Tawake
+info,player,Fiji,PV Vuniwaqa
+info,player,Fiji,A Sokovagone
+info,player,Fiji,TS Waqavakatoga
+info,player,Fiji,P Dakainivanua
+info,player,Fiji,J Cama
+info,player,Fiji,P Kotoisuva
+info,player,Fiji,ST Yalimaiwai
+info,player,Fiji,JQK Moala
+info,player,Fiji,S Tabuisulu
+info,registry,people,A Ilaoa,4d733a54
+info,registry,people,A Sokovagone,10e34eef
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Finau,63772ee4
+info,registry,people,D Visser,bb4da4d3
+info,registry,people,DE Burgess,7bf39e5c
+info,registry,people,DE Roache,110b180a
+info,registry,people,DR Tawake,8c11c10a
+info,registry,people,F Suluoto,ae380321
+info,registry,people,J Cama,6a868271
+info,registry,people,JQK Moala,d77ddc9f
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,M Beitaki,3d29b5fc
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,Noah Mead,0095a0e3
+info,registry,people,P Dakainivanua,5485c999
+info,registry,people,P Kotoisuva,b3e5205c
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PV Vuniwaqa,653a7fa8
+info,registry,people,S Cotter,e6127436
+info,registry,people,S Tabuisulu,62708dce
+info,registry,people,SF Tiai,bf19d427
+info,registry,people,SM Nash,4f3a89ae
+info,registry,people,ST Yalimaiwai,d88f9163
+info,registry,people,TS Waqavakatoga,039cabd9

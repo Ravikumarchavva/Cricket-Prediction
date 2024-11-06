@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ghana
+info,team,Mozambique
+info,gender,male
+info,season,2022/23
+info,date,2022/12/02
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,6
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Mozambique
+info,toss_decision,field
+info,player_of_match,F Damiao Couana
+info,umpire,F Mutizwa
+info,umpire,R D'Mello
+info,reserve_umpire,S Kintu
+info,match_referee,SA Fritz
+info,winner,Mozambique
+info,winner_wickets,7
+info,player,Ghana,JK Vifah
+info,player,Ghana,SK Awiah
+info,player,Ghana,R Bakum
+info,player,Ghana,Devender Singh
+info,player,Ghana,Amoluk Singh
+info,player,Ghana,DK Anefie
+info,player,Ghana,R Baaleri
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,TK Joseph
+info,player,Ghana,KS Bagabena
+info,player,Ghana,Aziz Sualley
+info,player,Mozambique,J Bulele
+info,player,Mozambique,F Damiao Couana
+info,player,Mozambique,FE Carava
+info,player,Mozambique,JJ Huo
+info,player,Mozambique,FA Cossa
+info,player,Mozambique,AA Navicha
+info,player,Mozambique,LA Simango
+info,player,Mozambique,L Emilio
+info,player,Mozambique,JM Joao
+info,player,Mozambique,CB Roposo
+info,player,Mozambique,DV Macome
+info,registry,people,AA Navicha,5c805a60
+info,registry,people,Amoluk Singh,266473e2
+info,registry,people,Aziz Sualley,118b0a7c
+info,registry,people,CB Roposo,31f01815
+info,registry,people,DK Anefie,f98c24ec
+info,registry,people,DV Macome,af4c15c5
+info,registry,people,Devender Singh,68e21fb1
+info,registry,people,F Damiao Couana,2c535f08
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,FA Cossa,3b52d247
+info,registry,people,FE Carava,dc650363
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,J Bulele,2dde3e62
+info,registry,people,JJ Huo,d816fc1c
+info,registry,people,JK Vifah,a1448a10
+info,registry,people,JM Joao,2ef6c852
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,L Emilio,31adde7f
+info,registry,people,LA Simango,16084b50
+info,registry,people,R Baaleri,26c9b5be
+info,registry,people,R Bakum,c74c583b
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,S Kintu,ff387f93
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SK Awiah,bc3fc527
+info,registry,people,TK Joseph,4fafd79a

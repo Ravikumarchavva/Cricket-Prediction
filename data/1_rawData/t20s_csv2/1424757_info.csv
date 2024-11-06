@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Nigeria
+info,gender,male
+info,season,2023/24
+info,date,2024/03/18
+info,event,African Games
+info,match_number,6
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,I Danladi
+info,umpire,I Chabi
+info,umpire,Patric Makumbi
+info,reserve_umpire,A Kassam
+info,match_referee,O Chirombe
+info,winner,Nigeria
+info,winner_wickets,3
+info,player,Namibia,MB Kruger
+info,player,Namibia,N Davin
+info,player,Namibia,GJ van Rensburg
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,S Fouché
+info,player,Namibia,DO Leicher
+info,player,Namibia,JP Kotze
+info,player,Namibia,JC Balt
+info,player,Namibia,H Klazinge
+info,player,Namibia,JT Brassell
+info,player,Namibia,SPS Shikongo
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,I Danladi
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,P Useni
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,C Udekwe
+info,player,Nigeria,Joshua Asia
+info,registry,people,A Kassam,7d13b388
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,GJ van Rensburg,602db3d9
+info,registry,people,H Klazinge,e6bf8162
+info,registry,people,I Chabi,5e39110e
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,Joshua Asia,c4ecc42c
+info,registry,people,MB Kruger,c51add25
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,N Davin,72e361fe
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Useni,71fa64d6
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SPS Shikongo,4043e3b0
+info,registry,people,Sulaimon Runsewe,c25d26dc

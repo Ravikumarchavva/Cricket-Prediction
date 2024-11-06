@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Tanzania
+info,gender,male
+info,season,2022/23
+info,date,2022/12/08
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,23
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,umpire,C Phiri
+info,umpire,F Mutizwa
+info,reserve_umpire,Lauren Agenbag
+info,match_referee,SA Fritz
+info,outcome,no result
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,A Shreshta
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,AE Isesele
+info,player,Nigeria,CN Onwuzulike
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,P Useni
+info,player,Nigeria,P Aho
+info,player,Nigeria,C Udekwe
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,Jitin Singh
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,YM Nkanya
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,S Thakor
+info,registry,people,A Shreshta,4e9af8f6
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,C Phiri,ade73404
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,CN Onwuzulike,715dbf27
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,Jitin Singh,b7db83eb
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,YM Nkanya,9238dd92

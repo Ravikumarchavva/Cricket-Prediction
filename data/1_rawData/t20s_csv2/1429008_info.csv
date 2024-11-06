@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Ireland
+info,gender,female
+info,season,2024
+info,date,2024/04/18
+info,event,Ireland Women v Thailand Women T20I Series
+info,match_number,2
+info,venue,"7he Sevens Stadium, Dubai"
+info,city,Dubai
+info,toss_winner,Thailand
+info,toss_decision,bat
+info,umpire,H Yerzal
+info,umpire,Raziq Khan
+info,reserve_umpire,Nadeem Anjum
+info,match_referee,Iftikhar Ali
+info,winner,Ireland
+info,winner_wickets,8
+info,player,Thailand,N Boochatham
+info,player,Thailand,N Chantam
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chaiwai
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,S Khiaoto
+info,player,Thailand,P Maya
+info,player,Thailand,S Laomi
+info,player,Thailand,T Putthawong
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,A Suwanchonrathi
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Delany
+info,player,Ireland,R Stokell
+info,player,Ireland,AN Kelly
+info,player,Ireland,L Paul
+info,player,Ireland,A Canning
+info,player,Ireland,C Murray
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,A Dalzell
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,A Dalzell,66498395
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,A Suwanchonrathi,43a2244f
+info,registry,people,AN Kelly,397369e0
+info,registry,people,C Murray,5a50471c
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,H Yerzal,86197ea5
+info,registry,people,Iftikhar Ali,fc537391
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Paul,07248d8e
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,Nadeem Anjum,7ccbae86
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,P Maya,72eada4c
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,Raziq Khan,fba1c2a3
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Laomi,4b15618c
+info,registry,people,T Putthawong,23e3f2d6

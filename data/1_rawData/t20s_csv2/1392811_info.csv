@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Oman
+info,gender,male
+info,season,2023
+info,date,2023/09/19
+info,event,Gulf Cricket T20I Championship
+info,match_number,10
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,Rizwan Butt
+info,umpire,Mohammad Nasim
+info,umpire,Rahat Ali
+info,reserve_umpire,Furqan Dawood Sange
+info,tv_umpire,Imran Mustafa
+info,match_referee,Shivani Mishra
+info,winner,Bahrain
+info,winner_runs,1
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Mohsin Zaki
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Ayan Khan
+info,player,Oman,Mehran Khan
+info,player,Oman,Rafiullah
+info,player,Oman,Naseem Khushi
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,Furqan Dawood Sange,a46ccefa
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Mustafa,f11bc2ff
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Mohsin Zaki,09c766ec
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Umer Imtiaz,7b729851

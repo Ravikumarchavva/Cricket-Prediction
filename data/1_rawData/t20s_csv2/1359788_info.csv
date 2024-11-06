@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cayman Islands
+info,team,Bahamas
+info,gender,male
+info,season,2022/23
+info,date,2023/02/28
+info,event,ICC Men's T20 World Cup Americas Region Qualifier
+info,match_number,5
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Cayman Islands
+info,toss_decision,bat
+info,player_of_match,YSD Seneveratne
+info,umpire,Emmerson Carrington
+info,umpire,SN Bandekar
+info,reserve_umpire,AR Maddela
+info,match_referee,Reon King
+info,winner,Cayman Islands
+info,winner_runs,31
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,P Manning
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,P Heron
+info,player,Cayman Islands,AF Ifill
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,T Taylor
+info,player,Cayman Islands,A Wright
+info,player,Cayman Islands,J Buchanan
+info,player,Cayman Islands,T Hewa
+info,player,Bahamas,M Taylor
+info,player,Bahamas,NH Ekanayake
+info,player,Bahamas,K Hinds
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,T Brown
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,JR Barry
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,JE Scott
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Maddela,5c861579
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Wheatley,04539335
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GT Taylor,c674f722
+info,registry,people,J Buchanan,01127aa9
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,JE Scott,732c9016
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,K Hinds,a268c07b
+info,registry,people,M Taylor,92075cdc
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,P Heron,30b902a3
+info,registry,people,P Manning,f06b5585
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SN Bandekar,350528bb
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,T Brown,e4bc45e0
+info,registry,people,T Hewa,3c19f045
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,YSD Seneveratne,0f71478c

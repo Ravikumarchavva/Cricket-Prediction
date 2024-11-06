@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Uganda
+info,gender,female
+info,season,2023/24
+info,date,2023/12/14
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,match_number,12
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,C Aweko
+info,umpire,Claus Schumacher
+info,umpire,LDVV Silva
+info,reserve_umpire,N Perera
+info,match_referee,O Chirombe
+info,winner,Uganda
+info,winner_wickets,6
+info,player,Nigeria,E Sandy
+info,player,Nigeria,S Sunday
+info,player,Nigeria,P Agboya
+info,player,Nigeria,L Piety
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,B Etim
+info,player,Nigeria,C Chukwuonye
+info,player,Nigeria,S Etim
+info,player,Nigeria,A Adekunle
+info,player,Nigeria,R Samson
+info,player,Nigeria,R Abdulrasak
+info,player,Uganda,K Awino
+info,player,Uganda,P Alako
+info,player,Uganda,J Mbabazi
+info,player,Uganda,S Nampiina
+info,player,Uganda,R Musamali
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,C Aweko
+info,player,Uganda,S Akiteng
+info,player,Uganda,E Anyipo
+info,player,Uganda,L Anyait
+info,player,Uganda,M Ariokot
+info,registry,people,A Adekunle,1b0ce76e
+info,registry,people,B Etim,11d0079f
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,C Chukwuonye,bb0aac11
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,E Sandy,59063d6b
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,L Anyait,cffeef53
+info,registry,people,L Piety,46a29dd0
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,N Perera,129709f9
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Agboya,532ddb12
+info,registry,people,P Alako,fcf37e14
+info,registry,people,R Abdulrasak,65c9fc31
+info,registry,people,R Musamali,017cadb2
+info,registry,people,R Samson,e63c08e9
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Etim,aa197946
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Sunday,594a0dec

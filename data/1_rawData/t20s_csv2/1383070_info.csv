@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Germany
+info,gender,male
+info,season,2023
+info,date,2023/07/20
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,3
+info,venue,"Goldenacre, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,OJ Hairs
+info,umpire,M Jameson
+info,umpire,N Bathi
+info,reserve_umpire,DA Haggo
+info,match_referee,Phil Whitticase
+info,winner,Scotland
+info,winner_runs,72
+info,method,D/L
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,MH Cross
+info,player,Scotland,RD Berrington
+info,player,Scotland,BJ McMullen
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,GT Main
+info,player,Scotland,BJ Currie
+info,player,Germany,V Ganesan
+info,player,Germany,J van Heerden
+info,player,Germany,MJ Richardson
+info,player,Germany,Faisal Mubashir
+info,player,Germany,Sahir Naqash
+info,player,Germany,DA Blignaut
+info,player,Germany,Sachin Mandy
+info,player,Germany,D Klein
+info,player,Germany,Muslim Yar
+info,player,Germany,Ghulam Ahmadi
+info,player,Germany,Zahid Zadran
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,D Klein,aeab0d4f
+info,registry,people,DA Blignaut,cfcf189f
+info,registry,people,DA Haggo,e6789a88
+info,registry,people,Faisal Mubashir,ad5342dc
+info,registry,people,GT Main,4ebc70ca
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,J van Heerden,01549705
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MJ Richardson,22176fe7
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sahir Naqash,352e589f
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,Zahid Zadran,a819f6c8

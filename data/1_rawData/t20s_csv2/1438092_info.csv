@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Gibraltar
+info,gender,female
+info,season,2024
+info,date,2024/06/15
+info,event,Women Central Europe Cup
+info,match_number,3
+info,venue,"Scott Page Field, Vinor"
+info,city,Prague
+info,toss_winner,Croatia
+info,toss_decision,bat
+info,player_of_match,E Vukusic
+info,umpire,C Tebb
+info,umpire,R Lokasani
+info,reserve_umpire,JA Stiglitz
+info,match_referee,P Sadasivan
+info,winner,Croatia
+info,winner_runs,29
+info,player,Croatia,E Vukusic
+info,player,Croatia,H Leko
+info,player,Croatia,L Krvaric
+info,player,Croatia,P Senjug
+info,player,Croatia,I Zigante
+info,player,Croatia,S Kucuksucu
+info,player,Croatia,M Modric
+info,player,Croatia,V Romani
+info,player,Croatia,Priyanka Reddy
+info,player,Croatia,A Charles
+info,player,Croatia,S Sebastian
+info,player,Gibraltar,AIV Benatar
+info,player,Gibraltar,N Caruana
+info,player,Gibraltar,CT McNally
+info,player,Gibraltar,EAS Ferrary
+info,player,Gibraltar,LJ Payas
+info,player,Gibraltar,P Raghunath
+info,player,Gibraltar,H Mumford
+info,player,Gibraltar,YS Blagg
+info,player,Gibraltar,Ying King To
+info,player,Gibraltar,RA Reilly
+info,player,Gibraltar,S Barton
+info,registry,people,A Charles,b2519612
+info,registry,people,AIV Benatar,e8bdbbca
+info,registry,people,C Tebb,5e7d78cd
+info,registry,people,CT McNally,6a32ef43
+info,registry,people,E Vukusic,7a64c6eb
+info,registry,people,EAS Ferrary,c3c905ae
+info,registry,people,H Leko,02c8fbfc
+info,registry,people,H Mumford,6462c64b
+info,registry,people,I Zigante,255508f7
+info,registry,people,JA Stiglitz,7195065a
+info,registry,people,L Krvaric,115b7211
+info,registry,people,LJ Payas,49355360
+info,registry,people,M Modric,31fe1419
+info,registry,people,N Caruana,00d1544c
+info,registry,people,P Raghunath,2e287171
+info,registry,people,P Sadasivan,8be86ab6
+info,registry,people,P Senjug,1c03d322
+info,registry,people,Priyanka Reddy,c4689003
+info,registry,people,R Lokasani,82ebaac6
+info,registry,people,RA Reilly,77276fff
+info,registry,people,S Barton,f7dd8b46
+info,registry,people,S Kucuksucu,fea44a7f
+info,registry,people,S Sebastian,f3fce917
+info,registry,people,V Romani,15fee304
+info,registry,people,YS Blagg,3aac5463
+info,registry,people,Ying King To,1f44bd34

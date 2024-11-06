@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Bahrain
+info,gender,female
+info,season,2023/24
+info,date,2024/02/11
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,11
+info,venue,"Selangor Turf Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Indonesia
+info,toss_decision,bat
+info,player_of_match,NPAN Sakarini
+info,umpire,Aasif Iqbal
+info,umpire,Saleema Imtiaz
+info,reserve_umpire,Shriya Kumari
+info,match_referee,V Bowen
+info,winner,Indonesia
+info,winner_runs,88
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,M Corazon
+info,player,Indonesia,NKF Rada Rani
+info,player,Indonesia,A Andriani
+info,player,Indonesia,Mia Arda
+info,player,Indonesia,KS Kasse
+info,player,Indonesia,NW Sariani
+info,player,Indonesia,NMP Suwandewi
+info,player,Indonesia,D Wulandari
+info,player,Indonesia,SKPD Ayu
+info,player,Bahrain,TI Gajanayake
+info,player,Bahrain,Poorvaja Jagdeesha
+info,player,Bahrain,Abeera Waris
+info,player,Bahrain,HMD Rasangika
+info,player,Bahrain,I Suhun
+info,player,Bahrain,P Shetty
+info,player,Bahrain,S Prakash
+info,player,Bahrain,A Samildeen
+info,player,Bahrain,S Nunna
+info,player,Bahrain,Sadamali Bhakshala
+info,player,Bahrain,Sana Butt
+info,registry,people,A Andriani,e697d88c
+info,registry,people,A Samildeen,bc19544d
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Abeera Waris,01396dc6
+info,registry,people,D Wulandari,8c0d904e
+info,registry,people,HMD Rasangika,d6f9dfd6
+info,registry,people,I Suhun,41bfb2a9
+info,registry,people,KS Kasse,007a3773
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,Mia Arda,6e60d58c
+info,registry,people,NKF Rada Rani,39f4084c
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NMP Suwandewi,52b57a65
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,P Shetty,0dda36e7
+info,registry,people,Poorvaja Jagdeesha,322855f7
+info,registry,people,S Nunna,24903af6
+info,registry,people,S Prakash,4b2c06eb
+info,registry,people,SKPD Ayu,f02c0809
+info,registry,people,Sadamali Bhakshala,89df3901
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Sana Butt,0f49b970
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,TI Gajanayake,d577d45a
+info,registry,people,V Bowen,7297ac4d

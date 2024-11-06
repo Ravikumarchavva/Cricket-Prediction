@@ -7,4 +7,4 @@
 wandb-debug.log
 
 
-data/pytorchData/*.pkl
+data/5_pytorchData/*.pkl

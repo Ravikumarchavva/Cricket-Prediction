@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,United Arab Emirates
+info,gender,female
+info,season,2024
+info,date,2024/09/06
+info,event,Namibia Women's T20I Tri-Series
+info,match_number,1
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,umpire,S Schoonbee
+info,umpire,S Loftie-Eaton
+info,winner,United Arab Emirates
+info,winner_wickets,7
+info,player,Namibia,SA Wittmann
+info,player,Namibia,Yasmeen Khan
+info,player,Namibia,E Van Zyl
+info,player,Namibia,W Mwatile
+info,player,Namibia,JA Diergaardt
+info,player,Namibia,M Gorases
+info,player,Namibia,SN Shihepo
+info,player,Namibia,M Mwatile
+info,player,Namibia,I van Zyl
+info,player,Namibia,V Hamunyela
+info,player,Namibia,S Tuhadeleni
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,H Hotchandani
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,L Keny
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,United Arab Emirates,Archara Supriya
+info,player,United Arab Emirates,Keziah Miriam Sabin
+info,player,United Arab Emirates,I Nandakumar
+info,registry,people,Archara Supriya,b245cd8b
+info,registry,people,E Van Zyl,79ff52b5
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,H Hotchandani,f537d39c
+info,registry,people,I Nandakumar,9f87d0f0
+info,registry,people,I van Zyl,44c3cb6d
+info,registry,people,JA Diergaardt,b72a8938
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Keziah Miriam Sabin,b5b21b1d
+info,registry,people,L Keny,aea89d48
+info,registry,people,M Gorases,d034d60a
+info,registry,people,M Mwatile,92b9e9af
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Loftie-Eaton,71cc38ef
+info,registry,people,S Schoonbee,9cefa638
+info,registry,people,S Tuhadeleni,13f7c5f4
+info,registry,people,SA Wittmann,531aef3b
+info,registry,people,SN Shihepo,1b3f7dbb
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,V Hamunyela,d758a366
+info,registry,people,Vaishnave Mahesh,31c56f40
+info,registry,people,W Mwatile,5728635a
+info,registry,people,Yasmeen Khan,ade5c0c0

@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Luxembourg
+info,gender,male
+info,season,2023
+info,date,2023/07/12
+info,event,Mdina Cup
+info,match_number,5
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,E Jabarkhel
+info,umpire,S Harnal
+info,umpire,Vinay Malhotra
+info,reserve_umpire,S Fernando
+info,match_referee,S Gowda
+info,winner,Luxembourg
+info,winner_wickets,4
+info,player,Malta,Zeeshan Khan
+info,player,Malta,Jaspal Singh
+info,player,Malta,SSM Stanislaus
+info,player,Malta,VP Thamotharam
+info,player,Malta,B Arora
+info,player,Malta,Waqas Ahmad
+info,player,Malta,Washeem Abbas
+info,player,Malta,J Shaju
+info,player,Malta,Jaison Jerome
+info,player,Malta,C Sudarsanan
+info,player,Malta,Yash Singh
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,E Jabarkhel
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,P Malav
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,M Dixit
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Nanda,704e0160
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,E Jabarkhel,21526a38
+info,registry,people,E Mathew,e00acf74
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Mees,ab1445ea
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jaison Jerome,e57d25fa
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,P Malav,02b078b1
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,SKS Gill,faef026c
+info,registry,people,SSM Stanislaus,34dd3fd9
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Waqas Ahmad,82623a3a
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Yash Singh,7adc2d68
+info,registry,people,Zeeshan Khan,3f9b1a96

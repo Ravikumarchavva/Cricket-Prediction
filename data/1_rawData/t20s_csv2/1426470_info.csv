@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cambodia
+info,team,Bahrain
+info,gender,male
+info,season,2024
+info,date,2024/04/16
+info,event,ACC Men's Premier Cup
+info,match_number,16
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Cambodia
+info,toss_decision,bat
+info,player_of_match,Ali Dawood
+info,umpire,N D'Souza
+info,umpire,S Ravi
+info,reserve_umpire,Vinod Babu
+info,tv_umpire,Abdul Jabbar
+info,match_referee,Prakash Bhatt
+info,winner,Bahrain
+info,winner_wickets,7
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,RR Sharan
+info,player,Cambodia,RV Viraj
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,Salvin Stanly
+info,player,Cambodia,E Beukes
+info,player,Cambodia,KDACK Gunarathne
+info,player,Cambodia,S Godara
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,Prasad Anish
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,S Veerapathiran
+info,registry,people,Abdul Jabbar,3f4b9ae5
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,KDACK Gunarathne,78ec6ff1
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,N D'Souza,4b7f60af
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,RR Sharan,7cff331d
+info,registry,people,RV Viraj,a744d530
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Godara,dd7dd27a
+info,registry,people,S Ravi,9b9ee0df
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Salvin Stanly,a6631b55
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,Vinod Babu,37e6187d

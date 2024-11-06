@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,West Indies
+info,gender,male
+info,season,2024
+info,date,2024/06/02
+info,event,ICC Men's T20 World Cup
+info,match_number,2
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,RL Chase
+info,umpire,AT Holdstock
+info,umpire,Rashid Riaz
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,Ahsan Raza
+info,match_referee,AJ Pycroft
+info,winner,West Indies
+info,winner_wickets,5
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,CA Soper
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,J Kariko
+info,player,West Indies,BA King
+info,player,West Indies,J Charles
+info,player,West Indies,N Pooran
+info,player,West Indies,RL Chase
+info,player,West Indies,R Powell
+info,player,West Indies,SE Rutherford
+info,player,West Indies,AD Russell
+info,player,West Indies,R Shepherd
+info,player,West Indies,AJ Hosein
+info,player,West Indies,AS Joseph
+info,player,West Indies,G Motie
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AS Joseph,b0946605
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,BA King,7fca84b7
+info,registry,people,CA Soper,9920dd86
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,G Motie,97bdec3d
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Charles,09a9d073
+info,registry,people,J Kariko,cde067e1
+info,registry,people,K Doriga,365229a8
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Bau,9a95bebb
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,TP Ura,a82eb3fb

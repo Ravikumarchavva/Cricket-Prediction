@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,United States of America
+info,gender,male
+info,season,2024
+info,date,2024/05/21
+info,event,Bangladesh tour of United States of America
+info,match_number,1
+info,venue,Prairie View Cricket Complex
+info,city,Houston
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,Harmeet Singh
+info,umpire,Jermaine Lindo
+info,umpire,SN Bandekar
+info,reserve_umpire,A Gajjar
+info,tv_umpire,Vijaya Mallela
+info,match_referee,Denavon Hayles
+info,winner,United States of America
+info,winner_wickets,5
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Bangladesh,Shoriful Islam
+info,player,United States of America,SR Taylor
+info,player,United States of America,MD Patel
+info,player,United States of America,AGS Gous
+info,player,United States of America,Aaron Jones
+info,player,United States of America,NR Kumar
+info,player,United States of America,CJ Anderson
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,Ali Khan
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,SN Netravalkar
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,Denavon Hayles,5cbeeb02
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SN Bandekar,350528bb
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,Vijaya Mallela,85b6244a

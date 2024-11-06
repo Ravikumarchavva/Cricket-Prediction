@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Cambodia
+info,gender,male
+info,season,2023/24
+info,date,2023/11/21
+info,event,Cambodia tour of Indonesia
+info,match_number,3
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Cambodia
+info,toss_decision,field
+info,player_of_match,RR Sharan
+info,umpire,Edi Agustinus
+info,umpire,Yousuf Wadu
+info,winner,Cambodia
+info,winner_wickets,8
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,KC Ramamoorthy
+info,player,Indonesia,PR Surve
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,RM Koda
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,DK Shetty
+info,player,Indonesia,DJ Hawoe
+info,player,Cambodia,RR Sharan
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,Manish Sharma
+info,player,Cambodia,E Beukes
+info,player,Cambodia,Shah Abrar Hussain
+info,player,Cambodia,GC Murtaza
+info,player,Cambodia,Prasad Anish
+info,player,Cambodia,PK Shoufeer
+info,player,Cambodia,Sivakumar
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,DK Shetty,65cfc56b
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,Edi Agustinus,6ee9fbb9
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,KC Ramamoorthy,a89c270b
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,Manish Sharma,5473ec6f
+info,registry,people,PK Shoufeer,5c4ebae4
+info,registry,people,PR Surve,206efeb1
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,RM Koda,f0a45427
+info,registry,people,RR Sharan,7cff331d
+info,registry,people,Shah Abrar Hussain,6ec13131
+info,registry,people,Sivakumar,344292b2
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Yousuf Wadu,cf41005c

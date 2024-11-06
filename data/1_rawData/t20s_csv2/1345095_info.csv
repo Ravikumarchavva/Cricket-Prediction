@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Australia
+info,gender,female
+info,season,2022/23
+info,date,2023/01/24
+info,event,Pakistan Women tour of Australia
+info,match_number,1
+info,venue,"North Sydney Oval, Sydney"
+info,city,Sydney
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,ML Schutt
+info,umpire,Eloise Sheridan
+info,umpire,SAJ Craig
+info,reserve_umpire,CA Polosak
+info,tv_umpire,MW Graham-Smith
+info,match_referee,SR Bernard
+info,winner,Australia
+info,winner_wickets,8
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Javeria Khan
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Ayesha Naseem
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Aiman Anwer
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Sadia Iqbal
+info,player,Australia,EA Perry
+info,player,Australia,MM Lanning
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,BL Mooney
+info,player,Australia,GM Harris
+info,player,Australia,A Sutherland
+info,player,Australia,JL Jonassen
+info,player,Australia,A King
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A King,83558266
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,Aiman Anwer,c736a96b
+info,registry,people,Ayesha Naseem,8c2c0a03
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,D Brown,2e81be88
+info,registry,people,EA Perry,be150fc8
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GM Harris,72166006
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,Javeria Khan,d921449d
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Lanning,27e003ce
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SR Bernard,800187dc
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Tuba Hassan,0d56e9a5
+info,registry,people,Umaima Sohail,821d7d46

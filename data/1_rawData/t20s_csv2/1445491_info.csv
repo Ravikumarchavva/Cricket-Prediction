@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Estonia
+info,gender,female
+info,season,2024
+info,date,2024/08/10
+info,event,Nordic Women T20 Cup
+info,match_number,3
+info,venue,"Ekeberg Cricket Ground 1, Oslo"
+info,city,Oslo
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,P Agrawal
+info,winner,Norway
+info,winner_runs,35
+info,player,Norway,Ayesha Hasan
+info,player,Norway,Nayab Razwan
+info,player,Norway,Bijeyata Kumari
+info,player,Norway,R Immadi
+info,player,Norway,Alina Aslam
+info,player,Norway,Mirab Razwan
+info,player,Norway,Prachi Kumari
+info,player,Norway,Lopamudra
+info,player,Norway,AS Gorad
+info,player,Norway,P Agrawal
+info,player,Norway,VB Viyala
+info,player,Estonia,N Zholudz
+info,player,Estonia,B Wani
+info,player,Estonia,H Kerge
+info,player,Estonia,L Sormus
+info,player,Estonia,A Vessik
+info,player,Estonia,N Tykhonravova
+info,player,Estonia,Ragne Hallik
+info,player,Estonia,M Valner
+info,player,Estonia,Viktoria Frey
+info,player,Estonia,E Ellermaa
+info,player,Estonia,S Pattenden
+info,registry,people,A Vessik,d30d4a0c
+info,registry,people,AS Gorad,2c8d0953
+info,registry,people,Alina Aslam,fbffb752
+info,registry,people,Ayesha Hasan,6a3de477
+info,registry,people,B Wani,a651cd4d
+info,registry,people,Bijeyata Kumari,a5fc18a7
+info,registry,people,E Ellermaa,37c085d2
+info,registry,people,H Kerge,76207d36
+info,registry,people,L Sormus,3486a171
+info,registry,people,Lopamudra,ff4509d5
+info,registry,people,M Valner,b5472435
+info,registry,people,Mirab Razwan,498031f9
+info,registry,people,N Tykhonravova,b9f09828
+info,registry,people,N Zholudz,a60bff88
+info,registry,people,Nayab Razwan,f12e21a0
+info,registry,people,P Agrawal,bb1fcd51
+info,registry,people,Prachi Kumari,dc4f97bf
+info,registry,people,R Immadi,baeae6dd
+info,registry,people,Ragne Hallik,1ac4b030
+info,registry,people,S Pattenden,b7880d1d
+info,registry,people,VB Viyala,228a747d
+info,registry,people,Viktoria Frey,fed9a316

@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Malaysia
+info,gender,female
+info,season,2023/24
+info,date,2024/02/16
+info,event,Asian Cricket Council Women's Premier Cup
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,player_of_match,Siow Tzin Yee
+info,umpire,Aasif Iqbal
+info,umpire,N Perera
+info,reserve_umpire,Shivani Mishra
+info,tv_umpire,Saleema Imtiaz
+info,match_referee,V Bowen
+info,winner,Malaysia
+info,winner_wickets,4
+info,player,Nepal,K Kunwar
+info,player,Nepal,SR Magar
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,D Bhatta
+info,player,Nepal,K Joshi
+info,player,Nepal,K Shrestha
+info,player,Nepal,Apsari Begam
+info,player,Nepal,B Rawal
+info,player,Nepal,Sangita Rai
+info,player,Nepal,Roma Thapa
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Siow Tzin Yee
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,J Intan
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,SM Dhanusri
+info,player,Malaysia,Aisya Eleesa
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Apsari Begam,eb765b41
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,D Bhatta,7d1a3ff7
+info,registry,people,I Barma,521abce2
+info,registry,people,J Intan,2dfdd316
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,N Perera,129709f9
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,SM Dhanusri,4e4d2c20
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Sangita Rai,ad580a96
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Siow Tzin Yee,686b7194
+info,registry,people,V Bowen,7297ac4d
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c

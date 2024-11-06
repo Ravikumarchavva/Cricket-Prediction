@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Kuwait
+info,gender,male
+info,season,2023
+info,date,2023/09/15
+info,event,Gulf Cricket T20I Championship
+info,match_number,1
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Saudi Arabia
+info,toss_decision,bat
+info,player_of_match,Adnan Idrees
+info,umpire,Azad KR
+info,umpire,Mohammad Nasim
+info,reserve_umpire,Furqan Dawood Sange
+info,tv_umpire,Shiju Sam
+info,match_referee,Shivani Mishra
+info,winner,Kuwait
+info,winner_wickets,5
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Saad Khan
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Mohsin Shabbir
+info,player,Saudi Arabia,Sarfraz Butt
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Atif-Ur-Rehman
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,Adnan Idrees
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Ahsan ul Haq
+info,player,Kuwait,Parvindar Kumar
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Shahrukh Quddus
+info,player,Kuwait,Sayed Monib
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Adnan Idrees,0e34c23a
+info,registry,people,Ahsan ul Haq,877ab296
+info,registry,people,Ali Zaheer,04ed04d2
+info,registry,people,Atif-Ur-Rehman,d20e22f7
+info,registry,people,Azad KR,d620b86a
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Furqan Dawood Sange,a46ccefa
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Mohsin Shabbir,941dfb84
+info,registry,people,Parvindar Kumar,7a27bee5
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Saad Khan,28e0f645
+info,registry,people,Sarfraz Butt,b73625cb
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shahrukh Quddus,a80cc0cc
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Zain Ul Abidin,b93b87ae

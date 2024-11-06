@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Gibraltar
+info,gender,male
+info,season,2023
+info,date,2023/05/07
+info,event,Gibraltar Tri-Nation T20I Series
+info,match_number,9
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,Fazil Rahman
+info,umpire,S Maynard
+info,umpire,SG Chandiramani
+info,reserve_umpire,R Cunningham
+info,winner,Malta
+info,winner_runs,1
+info,player,Malta,SSM Stanislaus
+info,player,Malta,Jaspal Singh
+info,player,Malta,RR Bastiansz
+info,player,Malta,N Khanna
+info,player,Malta,VP Thamotharam
+info,player,Malta,Fanyan Mughal
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,Amar Sharma
+info,player,Malta,Fazil Rahman
+info,player,Malta,D Marks
+info,player,Malta,Yash Singh
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,JD Freyone
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,BAA Zammitt
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,RJ Hatchman
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,BA Pai
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,Amar Sharma,14e1fdab
+info,registry,people,BA Pai,716bf559
+info,registry,people,BAA Zammitt,0e102c3b
+info,registry,people,D Marks,0813a8b1
+info,registry,people,DR Patankar,e661915c
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,Fazil Rahman,d18b7f34
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,JD Freyone,7cd7eb50
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,N Khanna,0ec6a7c3
+info,registry,people,R Cunningham,6779e840
+info,registry,people,RJ Hatchman,01c05b6c
+info,registry,people,RR Bastiansz,5365f10f
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Maynard,12a7e02a
+info,registry,people,SG Chandiramani,4fa795d2
+info,registry,people,SSM Stanislaus,34dd3fd9
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Yash Singh,7adc2d68

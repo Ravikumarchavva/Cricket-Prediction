@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Denmark
+info,gender,male
+info,season,2023
+info,date,2023/07/28
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,20
+info,venue,"Goldenacre, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,NA Greenwood
+info,umpire,J Jensen
+info,umpire,N Bathi
+info,reserve_umpire,DH Mclean
+info,match_referee,Phil Whitticase
+info,winner,Jersey
+info,winner_runs,28
+info,player,Jersey,JAD Lawrenson
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JW Jenner
+info,player,Jersey,C Brennan
+info,player,Jersey,AM Tribe
+info,player,Jersey,ZM Tribe
+info,player,Jersey,PB Gouge
+info,player,Jersey,J Sumerauer
+info,player,Jersey,CW Perchard
+info,player,Jersey,EJB Miles
+info,player,Jersey,RJG Palmer
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,SA Ahmad
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,Surya Anand
+info,player,Denmark,Lucky Ali
+info,player,Denmark,E Karimi
+info,player,Denmark,Saud Munir
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,DH Mclean,281d4749
+info,registry,people,E Karimi,95bd9407
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,HAM Shah,007113d7
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JAD Lawrenson,c810b349
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,PB Gouge,fe2432c4
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RJG Palmer,bc6f8328
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,ZM Tribe,96fe3e9f

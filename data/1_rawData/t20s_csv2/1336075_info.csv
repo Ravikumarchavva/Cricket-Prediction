@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Australia
+info,gender,female
+info,season,2023
+info,date,2023/07/05
+info,event,Women's Ashes
+info,match_number,2
+info,venue,"Kennington Oval, London"
+info,city,London
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,DN Wyatt
+info,umpire,J Naeem
+info,umpire,RJ Warren
+info,reserve_umpire,AY Harris
+info,tv_umpire,S Redfern
+info,match_referee,Phil Whitticase
+info,winner,England
+info,winner_runs,3
+info,player,England,SIR Dunkley
+info,player,England,DN Wyatt
+info,player,England,NR Sciver-Brunt
+info,player,England,A Capsey
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,DR Gibson
+info,player,England,S Ecclestone
+info,player,England,S Glenn
+info,player,England,CE Dean
+info,player,England,LK Bell
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,TM McGrath
+info,player,Australia,A Gardner
+info,player,Australia,EA Perry
+info,player,Australia,GM Harris
+info,player,Australia,A Sutherland
+info,player,Australia,G Wareham
+info,player,Australia,JL Jonassen
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,registry,people,A Capsey,910dd54e
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AJ Healy,321644de
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,CE Dean,c6625a26
+info,registry,people,D Brown,2e81be88
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,DR Gibson,d2763568
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GM Harris,72166006
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,JL Jonassen,0475a86b
+info,registry,people,LK Bell,38b4583c
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,TM McGrath,ca5acfa4

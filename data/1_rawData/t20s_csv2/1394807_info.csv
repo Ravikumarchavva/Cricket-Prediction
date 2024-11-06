@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Papua New Guinea
+info,gender,female
+info,season,2023
+info,date,2023/09/07
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,15
+info,venue,Vanuatu Cricket Ground (Oval 2)
+info,city,Port Vila
+info,toss_winner,Fiji
+info,toss_decision,bat
+info,player_of_match,K Arua
+info,umpire,Ashlee Gibbons
+info,umpire,CA Polosak
+info,reserve_umpire,M Kenni
+info,match_referee,RW Stratford
+info,winner,Papua New Guinea
+info,winner_wickets,9
+info,player,Fiji,I Waqavakatoga
+info,player,Fiji,M Ratuki
+info,player,Fiji,LE Lomani
+info,player,Fiji,S Sigaiwasa
+info,player,Fiji,R Muriyalo
+info,player,Fiji,MSC Erasito
+info,player,Fiji,AISD Kainoco
+info,player,Fiji,M Biu
+info,player,Fiji,KV Vakuruivalu
+info,player,Fiji,AK Gonerara
+info,player,Fiji,M Rodan
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,K Arua
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,K Frank
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,GP Tom
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,I Toua
+info,registry,people,AISD Kainoco,f3614f32
+info,registry,people,AK Gonerara,141ee9a0
+info,registry,people,Ashlee Gibbons,b81712f7
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,GP Tom,88bcd09d
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,I Toua,83cde44d
+info,registry,people,I Waqavakatoga,31d220f5
+info,registry,people,K Arua,8ce69204
+info,registry,people,K Frank,f7e96532
+info,registry,people,KV Vakuruivalu,98db3666
+info,registry,people,LE Lomani,9d785b30
+info,registry,people,M Biu,c386183b
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,M Ratuki,ad78df1c
+info,registry,people,M Rodan,b641378d
+info,registry,people,MSC Erasito,ce02e769
+info,registry,people,N Vare,20ace887
+info,registry,people,P Siaka,595433d2
+info,registry,people,R Muriyalo,a2fc9177
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,S Sigaiwasa,b1414505
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,V Araa,040f11e8

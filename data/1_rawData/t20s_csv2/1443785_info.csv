@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Estonia
+info,gender,male
+info,season,2024
+info,date,2024/08/27
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,20
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,Habib Khan
+info,umpire,AY Harris
+info,umpire,S Wood
+info,reserve_umpire,Jareth McCready
+info,match_referee,GH Pienaar
+info,winner,Estonia
+info,winner_wickets,5
+info,player,Malta,R Dianish
+info,player,Malta,Zeeshan Khan
+info,player,Malta,B George
+info,player,Malta,Jaspal Singh
+info,player,Malta,C Sudarsanan
+info,player,Malta,G Thakur
+info,player,Malta,DR Patankar
+info,player,Malta,E Mathew
+info,player,Malta,Jaswinder Singh
+info,player,Malta,B Arora
+info,player,Malta,J Shaju
+info,player,Estonia,Ali Masood
+info,player,Estonia,Habib Khan
+info,player,Estonia,S Gooch
+info,player,Estonia,Bilal Masud
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,S Hook
+info,player,Estonia,R Sekaran
+info,player,Estonia,D Robson
+info,player,Estonia,P Gheewala
+info,player,Estonia,K Vislapuu
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Ali Masood,a138f597
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,Bilal Masud,643e4882
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,D Robson,fa39ad19
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Mathew,e00acf74
+info,registry,people,G Thakur,93720584
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Habib Khan,5152ab02
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,K Vislapuu,04855b85
+info,registry,people,P Gheewala,3b22ee4e
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,R Sekaran,5da43a10
+info,registry,people,S Gooch,622be0d9
+info,registry,people,S Hook,eba871dd
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,Zeeshan Khan,3f9b1a96

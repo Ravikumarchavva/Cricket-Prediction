@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Rwanda
+info,gender,female
+info,season,2024
+info,date,2024/04/23
+info,event,BCA Kalahari Women's T20 International Tournament
+info,match_number,5
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,MD Bimenyimana
+info,umpire,Justine Muzungu
+info,umpire,L Msemburi
+info,reserve_umpire,R Nehonde
+info,winner,Rwanda
+info,winner_wickets,7
+info,player,Botswana,T Shadrack
+info,player,Botswana,O Kgeresi
+info,player,Botswana,L Mophakedi
+info,player,Botswana,P Mapotsane
+info,player,Botswana,G Matome
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,O Keitsemang
+info,player,Botswana,M Phiase
+info,player,Botswana,A Motorwala
+info,player,Botswana,K Inakale
+info,player,Botswana,T Moitoi
+info,player,Rwanda,MD Bimenyimana
+info,player,Rwanda,C Uwamahoro
+info,player,Rwanda,H Ishimwe
+info,player,Rwanda,S Niyomuhoza
+info,player,Rwanda,G Ingabire
+info,player,Rwanda,J Nyirankundineza
+info,player,Rwanda,F Irakoze
+info,player,Rwanda,C Uwase
+info,player,Rwanda,Rosine Irera
+info,player,Rwanda,MJ Tumukunde
+info,player,Rwanda,R Shimwamana
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,A Motorwala,7b309c8a
+info,registry,people,C Uwamahoro,81dfc700
+info,registry,people,C Uwase,808bb510
+info,registry,people,F Irakoze,14f0a5e3
+info,registry,people,G Ingabire,2c00691c
+info,registry,people,G Matome,a6898f7a
+info,registry,people,H Ishimwe,ffa296f7
+info,registry,people,J Nyirankundineza,7e7d2fe5
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,K Inakale,eea862f6
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,L Msemburi,ef6037f8
+info,registry,people,M Phiase,537cc79f
+info,registry,people,MD Bimenyimana,c1a0cebe
+info,registry,people,MJ Tumukunde,026b815f
+info,registry,people,O Keitsemang,5145239b
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,R Nehonde,4393e047
+info,registry,people,R Shimwamana,03fb10bd
+info,registry,people,Rosine Irera,b84718fd
+info,registry,people,S Niyomuhoza,a5424013
+info,registry,people,T Moitoi,c916fe60
+info,registry,people,T Shadrack,6d972d02

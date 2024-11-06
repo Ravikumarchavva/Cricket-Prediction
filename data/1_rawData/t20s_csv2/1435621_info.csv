@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Nigeria
+info,gender,female
+info,season,2024
+info,date,2024/06/02
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,12
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Nigeria
+info,toss_decision,field
+info,player_of_match,Q Abel
+info,umpire,Gasana Christian
+info,umpire,TJ Onikoyi
+info,reserve_umpire,R Singinzwa
+info,winner,Kenya
+info,winner_runs,23
+info,player,Kenya,Q Abel
+info,player,Kenya,E Wachira
+info,player,Kenya,V Ooko
+info,player,Kenya,V Abuga
+info,player,Kenya,L Idambo
+info,player,Kenya,C Muthoni
+info,player,Kenya,JS Ndanu
+info,player,Kenya,A Wanjira
+info,player,Kenya,F Odhiambo
+info,player,Kenya,M Ahono
+info,player,Kenya,J Ajiambo
+info,player,Nigeria,E Sandy
+info,player,Nigeria,A Akhigbe
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,V Igbinedion
+info,player,Nigeria,L Piety
+info,player,Nigeria,S Etim
+info,player,Nigeria,S Sunday
+info,player,Nigeria,L Udeh
+info,player,Nigeria,P Agboya
+info,player,Nigeria,A Adekunle
+info,player,Nigeria,U Peace
+info,registry,people,A Adekunle,1b0ce76e
+info,registry,people,A Akhigbe,ed0ec1fe
+info,registry,people,A Wanjira,b6015231
+info,registry,people,C Muthoni,f85462b1
+info,registry,people,E Sandy,59063d6b
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,J Ajiambo,c3a998fa
+info,registry,people,JS Ndanu,c27e0638
+info,registry,people,L Idambo,27339093
+info,registry,people,L Piety,46a29dd0
+info,registry,people,L Udeh,8451562a
+info,registry,people,M Ahono,8e0043dd
+info,registry,people,P Agboya,532ddb12
+info,registry,people,Q Abel,2e988457
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Etim,aa197946
+info,registry,people,S Sunday,594a0dec
+info,registry,people,TJ Onikoyi,b68d9bc6
+info,registry,people,U Peace,3798b336
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Igbinedion,9525b9e5
+info,registry,people,V Ooko,2ae76bf6

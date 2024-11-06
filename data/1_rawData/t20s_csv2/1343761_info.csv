@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Seychelles
+info,gender,male
+info,season,2022/23
+info,date,2022/11/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,22
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,E Dusingizimana
+info,umpire,D Odhiambo
+info,umpire,IO Oyieko
+info,reserve_umpire,R D'Mello
+info,match_referee,S Wadvalla
+info,winner,Rwanda
+info,winner_runs,75
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,V Mitari
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,SKDT Madusanka
+info,player,Seychelles,D Kalvin
+info,player,Seychelles,P Abhijit
+info,player,Seychelles,N Krishna
+info,player,Seychelles,SR Rocket
+info,player,Seychelles,HL Harji
+info,player,Seychelles,T Shanmugam
+info,player,Seychelles,S Rukmal
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,D Kalvin,895ae8b6
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,D Odhiambo,45994517
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,HL Harji,29663fda
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,N Krishna,c62a0327
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Abhijit,bc0083f7
+info,registry,people,R D'Mello,f3c22863
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SKDT Madusanka,95c2d309
+info,registry,people,SR Rocket,ee3bfb9b
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,T Shanmugam,60fc2c8c
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,V Mitari,3a82673c
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08

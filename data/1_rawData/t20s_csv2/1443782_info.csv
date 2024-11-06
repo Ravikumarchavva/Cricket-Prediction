@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Cyprus
+info,gender,male
+info,season,2024
+info,date,2024/08/27
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,17
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Denmark
+info,toss_decision,bat
+info,player_of_match,HAM Shah
+info,umpire,RJ Veillard
+info,umpire,RJ Warren
+info,reserve_umpire,AA Baig
+info,match_referee,GH Pienaar
+info,winner,Denmark
+info,winner_runs,142
+info,player,Denmark,T Bharaj
+info,player,Denmark,HAM Shah
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Surya Anand
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,Saran Aslam
+info,player,Denmark,Delawar Khan
+info,player,Denmark,Toqeer Ahmad
+info,player,Denmark,OD Hald
+info,player,Denmark,E Karimi
+info,player,Cyprus,S Burdekin
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,J Chialoufas
+info,player,Cyprus,S Austin
+info,player,Cyprus,CPPM Sadun
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,SN Pathirana
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,R Siriwardena
+info,player,Cyprus,A Shahi
+info,player,Cyprus,V Khanduri
+info,registry,people,A Shahi,2011735e
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,CPPM Sadun,2cf2fc9e
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,E Karimi,95bd9407
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,HAM Shah,007113d7
+info,registry,people,J Chialoufas,90eac542
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OD Hald,38189be1
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,R Siriwardena,c3ba4942
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Austin,40ee633c
+info,registry,people,S Burdekin,98e3f1de
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,SN Pathirana,f4000a7d
+info,registry,people,Saran Aslam,2a00735b
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,Toqeer Ahmad,d4f2a7b0
+info,registry,people,V Khanduri,f0f2b9c5

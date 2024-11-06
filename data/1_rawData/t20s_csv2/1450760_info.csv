@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ghana
+info,team,Tanzania
+info,gender,male
+info,season,2024
+info,date,2024/09/25
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,10
+info,venue,University of Dar-es-Salaam Ground
+info,city,Dar-es-Salaam
+info,toss_winner,Ghana
+info,toss_decision,bat
+info,player_of_match,Akhil Anil
+info,umpire,K Klaaste
+info,umpire,LB Gcuma
+info,reserve_umpire,Aasif Iqbal
+info,match_referee,S Wadvalla
+info,winner,Tanzania
+info,winner_wickets,7
+info,player,Ghana,R Baaleri
+info,player,Ghana,SK Awiah
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,PK Ananya
+info,player,Ghana,A Osei
+info,player,Ghana,F Baleri
+info,player,Ghana,P Yevugah
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,KS Bagabena
+info,player,Ghana,E Frimpong
+info,player,Ghana,L Nyarko
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,Muhammad Zafar Khan
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,S Thakor
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,K Juma
+info,registry,people,A Osei,375322d1
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,E Frimpong,3c13fc3b
+info,registry,people,F Baleri,6efdad14
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,L Nyarko,c391d077
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Barkania,073126d6
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Muhammad Zafar Khan,6d5e66b1
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,P Yevugah,5c842df4
+info,registry,people,PK Ananya,bc69a6d3
+info,registry,people,R Baaleri,26c9b5be
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SK Awiah,bc3fc527

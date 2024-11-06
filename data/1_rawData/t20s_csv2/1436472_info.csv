@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Portugal
+info,team,Hungary
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,2
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Hungary
+info,toss_decision,field
+info,player_of_match,V Ravindran
+info,umpire,M Jameson
+info,umpire,WPM van Liemt
+info,reserve_umpire,MJ Saggers
+info,match_referee,G McCrea
+info,winner,Portugal
+info,winner_runs,15
+info,player,Portugal,J Vijay
+info,player,Portugal,Imran Khan
+info,player,Portugal,Suman Ghimire
+info,player,Portugal,ARA Chambers
+info,player,Portugal,Amir Zaib
+info,player,Portugal,Najjam Shahzad
+info,player,Portugal,F Stoman
+info,player,Portugal,Amandeep Singh
+info,player,Portugal,Sirajullah Khadim
+info,player,Portugal,Junaid Khan
+info,player,Portugal,JAM Henri
+info,player,Hungary,V Ravindran
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,HV Mandhyan
+info,player,Hungary,Sheikh Rasik
+info,player,Hungary,Ali Yalmaz
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Danyal Akbar
+info,player,Hungary,Kamran Wahid
+info,player,Hungary,SA Mohandas
+info,player,Hungary,M Fontaine
+info,player,Hungary,Muhammad Burhan
+info,registry,people,ARA Chambers,8db27a28
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Ali Yalmaz,026e1314
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Amandeep Singh,d0d32c30
+info,registry,people,Amir Zaib,973006cc
+info,registry,people,Danyal Akbar,5757c506
+info,registry,people,F Stoman,69e53eb3
+info,registry,people,G McCrea,46f4a901
+info,registry,people,HV Mandhyan,11f56b14
+info,registry,people,Imran Khan,a0a32dd1
+info,registry,people,J Vijay,709525fc
+info,registry,people,JAM Henri,04df9697
+info,registry,people,Junaid Khan,be0077ba
+info,registry,people,Kamran Wahid,5592153b
+info,registry,people,M Fontaine,1339f52a
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Burhan,a92609f2
+info,registry,people,Najjam Shahzad,58aa33cd
+info,registry,people,SA Mohandas,8b0b3bba
+info,registry,people,Sheikh Rasik,5f25b104
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,Suman Ghimire,7d990412
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,WPM van Liemt,2bd48588

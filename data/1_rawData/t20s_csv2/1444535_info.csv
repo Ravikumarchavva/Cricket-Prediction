@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Jersey
+info,gender,female
+info,season,2024
+info,date,2024/07/27
+info,event,Germany Women's T20I Tri-Series
+info,match_number,5
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Germany
+info,toss_decision,bat
+info,player_of_match,G Mallett
+info,umpire,M Chennamangalam
+info,umpire,M Jameson
+info,reserve_umpire,N Dhanawade
+info,winner,Jersey
+info,winner_wickets,3
+info,player,Germany,W Hornero-Garcia
+info,player,Germany,CM Gough
+info,player,Germany,A Bierwisch
+info,player,Germany,JE Ronalds
+info,player,Germany,A Doddaballapur
+info,player,Germany,S Sadarangani
+info,player,Germany,K Vijayaraghavan
+info,player,Germany,ST Frohnmayer
+info,player,Germany,A Kohli
+info,player,Germany,MS Beresford
+info,player,Germany,Rameesha Shahid
+info,player,Jersey,A Aikenhead
+info,player,Jersey,A Merritt
+info,player,Jersey,R Bowley
+info,player,Jersey,C Miles
+info,player,Jersey,T Smith
+info,player,Jersey,CM Greechan
+info,player,Jersey,G Wetherall
+info,player,Jersey,F Tanguy
+info,player,Jersey,M Maguire
+info,player,Jersey,G Mallett
+info,player,Jersey,E Gouge
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Bierwisch,b51d654f
+info,registry,people,A Doddaballapur,fe4f5d2b
+info,registry,people,A Kohli,eb9082b2
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,C Miles,80f16d29
+info,registry,people,CM Gough,f1328a90
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,F Tanguy,c46400b7
+info,registry,people,G Mallett,95bf6b2a
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,JE Ronalds,d4f98302
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,M Chennamangalam,33c99e80
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,MS Beresford,26eb73f9
+info,registry,people,N Dhanawade,bc68912b
+info,registry,people,R Bowley,a42406e2
+info,registry,people,Rameesha Shahid,b810425e
+info,registry,people,S Kolcharam,761c929e
+info,registry,people,S Sadarangani,acd030a0
+info,registry,people,ST Frohnmayer,7e8bcfc1
+info,registry,people,T Smith,f24ffaab
+info,registry,people,W Hornero-Garcia,7d5fef52

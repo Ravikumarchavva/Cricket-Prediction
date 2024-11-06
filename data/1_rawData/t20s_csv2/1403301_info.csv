@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Argentina
+info,gender,male
+info,season,2023/24
+info,date,2023/10/19
+info,event,South American Men's Championships
+info,match_number,7
+info,venue,St Georges Quilmes
+info,city,
+info,toss_winner,Argentina
+info,toss_decision,field
+info,player_of_match,T Rossi
+info,umpire,A Elliott
+info,umpire,Precious Smith
+info,winner,Argentina
+info,winner_wickets,4
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Puneet Arora
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Tarun Sharma
+info,player,Mexico,Harprit Singh
+info,player,Mexico,Seetharam Guruvayoorappan
+info,player,Mexico,Pratik Singh Bais
+info,player,Argentina,P Baron
+info,player,Argentina,Guido Angeletti
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,T Rossi
+info,player,Argentina,A Ferguson
+info,player,Argentina,AAP Rivero
+info,player,Argentina,H Fennell
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,Santiago Duggan
+info,player,Argentina,Ian Roberts
+info,player,Argentina,Manuel Iturbe
+info,registry,people,A Elliott,f48d5563
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,Guido Angeletti,6d6f52fc
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,Harprit Singh,c60361d7
+info,registry,people,Ian Roberts,9f236a73
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,Manuel Iturbe,bddbf5ec
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,Precious Smith,e78f5a8a
+info,registry,people,Puneet Arora,c2f8f36e
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Seetharam Guruvayoorappan,9663115e
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,T Rossi,5470418a
+info,registry,people,Tarun Sharma,1ba16d18

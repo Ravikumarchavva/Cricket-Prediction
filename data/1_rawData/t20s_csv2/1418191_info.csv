@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maldives
+info,team,Thailand
+info,gender,male
+info,season,2023/24
+info,date,2024/02/06
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,12
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Maldives
+info,toss_decision,bat
+info,player_of_match,J Coetzee
+info,umpire,Hardeep Jadeja
+info,umpire,Osama Saad Alnadwi
+info,reserve_umpire,IGS Arsa
+info,tv_umpire,Dorji
+info,match_referee,G Sankaranarayanan
+info,winner,Thailand
+info,winner_wickets,8
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Hassan Rasheed
+info,player,Maldives,KTK Rodrigo
+info,player,Maldives,Shaof Hassan
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Ismail Ali
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Nazwan Ismail
+info,player,Maldives,Mohamed Ishmath
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,AV Lazarus
+info,player,Thailand,J Coetzee
+info,player,Thailand,Robert Raina
+info,player,Thailand,C Pengkumta
+info,player,Thailand,N Nuntarach
+info,player,Thailand,MK Thakur
+info,player,Thailand,N Senamontree
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,Sarawut Maliwan
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,C Pengkumta,b3540b2a
+info,registry,people,Dorji,a6b688ef
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,Hassan Rasheed,1ca51098
+info,registry,people,IGS Arsa,68d52634
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,KTK Rodrigo,a482add2
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Ishmath,8c7b9bfc
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,Nazwan Ismail,c8e5012c
+info,registry,people,Osama Saad Alnadwi,a7e2fb32
+info,registry,people,Robert Raina,8e38d470
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Shaof Hassan,f6e160d7
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,Y Saranonnakkun,9c93c0a3

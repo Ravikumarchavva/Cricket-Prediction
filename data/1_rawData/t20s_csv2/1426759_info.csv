@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Sri Lanka
+info,gender,female
+info,season,2024
+info,date,2024/07/20
+info,event,Women's Asia Cup
+info,match_number,4
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,RMVD Gunaratne
+info,umpire,Nur Hijrah
+info,umpire,VG Rathi
+info,reserve_umpire,Saleema Imtiaz
+info,tv_umpire,Gayathri Venugopal
+info,match_referee,GS Lakshmi
+info,winner,Sri Lanka
+info,winner_wickets,7
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Ishma Tanjim
+info,player,Bangladesh,Rubya Haider
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Shorifa Khatun
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Sultana Khatun
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,SIP Fernando
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,H Madavi,85021bcd
+info,registry,people,Ishma Tanjim,5d428b3d
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rubya Haider,5d095ee8
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Shorifa Khatun,36d2face
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Sultana Khatun,fb0c0bcc
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

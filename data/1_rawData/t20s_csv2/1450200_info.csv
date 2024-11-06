@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Denmark
+info,gender,female
+info,season,2024
+info,date,2024/09/14
+info,event,Women's T20I Quadrangular Series (in Denmark)
+info,match_number,3
+info,venue,Koge Cricket Club
+info,city,Koge
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,MPM Pathirannehelage
+info,umpire,G O'Grady
+info,umpire,S Natesaan
+info,winner,Denmark
+info,winner_wickets,5
+info,player,Austria,P Sabu
+info,player,Austria,H Bhullar
+info,player,Austria,AM Zepeda
+info,player,Austria,H Simpson-Parker
+info,player,Austria,JA Stiglitz
+info,player,Austria,MPM Pathirannehelage
+info,player,Austria,S Bhardwaj
+info,player,Austria,SK Reddy
+info,player,Austria,EL Kirkman
+info,player,Austria,P Talloji
+info,player,Austria,A Nookala
+info,player,Denmark,ML Karlsen
+info,player,Denmark,L Ostergaard
+info,player,Denmark,TS Erichsen
+info,player,Denmark,S Ostergaard
+info,player,Denmark,L Leisner
+info,player,Denmark,A Ostergaard
+info,player,Denmark,NP Dalgaard
+info,player,Denmark,CM Madsen
+info,player,Denmark,AB Slebsager
+info,player,Denmark,L Holmgaard
+info,player,Denmark,C Ostergaard
+info,registry,people,A Nookala,57922f7c
+info,registry,people,A Ostergaard,36ffe914
+info,registry,people,AB Slebsager,4ae7048b
+info,registry,people,AM Zepeda,c9f95a16
+info,registry,people,C Ostergaard,e212b0fd
+info,registry,people,CM Madsen,f70b575c
+info,registry,people,EL Kirkman,ecc585f0
+info,registry,people,G O'Grady,e5f74630
+info,registry,people,H Bhullar,c9ffb93d
+info,registry,people,H Simpson-Parker,59b0a7ad
+info,registry,people,JA Stiglitz,7195065a
+info,registry,people,L Holmgaard,8ea1f4c4
+info,registry,people,L Leisner,ed614ded
+info,registry,people,L Ostergaard,3a5160d9
+info,registry,people,ML Karlsen,4302af3d
+info,registry,people,MPM Pathirannehelage,0c142594
+info,registry,people,NP Dalgaard,40283617
+info,registry,people,P Sabu,a38da707
+info,registry,people,P Talloji,e5b2e2eb
+info,registry,people,S Bhardwaj,83e9173e
+info,registry,people,S Natesaan,924d52f5
+info,registry,people,S Ostergaard,a19e799b
+info,registry,people,SK Reddy,3e1fbf05
+info,registry,people,TS Erichsen,9894e7b9

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,China
+info,gender,male
+info,season,2023/24
+info,date,2024/02/16
+info,event,East Asia Cup
+info,match_number,6
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,MM Siddique
+info,umpire,John Prakash
+info,umpire,SJ D'Cruz
+info,reserve_umpire,R McDonald
+info,match_referee,Hasnain Kiani
+info,winner,Japan
+info,winner_runs,44
+info,player,Japan,D Suzuki
+info,player,Japan,W Miyauchi
+info,player,Japan,KH Abe
+info,player,Japan,S Ravichandran
+info,player,Japan,K Kato-Stafford
+info,player,Japan,I Takahashi
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,MM Siddique
+info,player,Japan,M Taniyama
+info,player,Japan,M Thurgate
+info,player,Japan,R Drake
+info,player,China,Wei Guo Lei
+info,player,China,Deng Jinqi
+info,player,China,Zhuang Zelin
+info,player,China,Huang Junjie
+info,player,China,Tian Sen Qun
+info,player,China,Shenjian Zheng
+info,player,China,Chen Zhuo Yue
+info,player,China,Zong Yuechao
+info,player,China,Zou Kui
+info,player,China,Ma Qiancheng
+info,player,China,Luo Shilin
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,Deng Jinqi,871cf744
+info,registry,people,Hasnain Kiani,9cce25b7
+info,registry,people,Huang Junjie,7a25958c
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,K Kato-Stafford,e03ca117
+info,registry,people,KH Abe,f22d2247
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,M Thurgate,98aaa3f3
+info,registry,people,MM Siddique,48024cf4
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,R Drake,57b3c398
+info,registry,people,R McDonald,ce2fdf8f
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,SJ D'Cruz,ed62962b
+info,registry,people,Shenjian Zheng,a127e6f5
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,W Miyauchi,fef40097
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Zhuang Zelin,a03ee6e1
+info,registry,people,Zong Yuechao,f5932ad2
+info,registry,people,Zou Kui,d5ca4759

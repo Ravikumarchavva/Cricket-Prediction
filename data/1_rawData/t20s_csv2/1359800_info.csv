@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahamas
+info,team,Bermuda
+info,gender,male
+info,season,2022/23
+info,date,2023/03/04
+info,event,ICC Men's T20 World Cup Americas Region Qualifier
+info,match_number,9
+info,venue,"Hurlingham Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bermuda
+info,toss_decision,field
+info,player_of_match,KS Leverock
+info,umpire,SN Bandekar
+info,umpire,Vijaya Mallela
+info,reserve_umpire,AR Maddela
+info,match_referee,Reon King
+info,winner,Bermuda
+info,winner_wickets,9
+info,player,Bahamas,M Taylor
+info,player,Bahamas,JR Barry
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,T Brown
+info,player,Bahamas,K Hinds
+info,player,Bahamas,J Jemison
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,JE Scott
+info,player,Bahamas,NH Ekanayake
+info,player,Bermuda,KS Leverock
+info,player,Bermuda,T Manders
+info,player,Bermuda,TS Fray
+info,player,Bermuda,S Smith
+info,player,Bermuda,JDA Richardson
+info,player,Bermuda,MO Jones
+info,player,Bermuda,JT Darrell
+info,player,Bermuda,D Sabir
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,JE Pitcher
+info,registry,people,AR Maddela,5c861579
+info,registry,people,D Sabir,04bc296f
+info,registry,people,D Wheatley,04539335
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GT Taylor,c674f722
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,JDA Richardson,e8c00c13
+info,registry,people,JE Pitcher,ab126ea8
+info,registry,people,JE Scott,732c9016
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,JT Darrell,69649715
+info,registry,people,K Hinds,a268c07b
+info,registry,people,KS Leverock,e1592949
+info,registry,people,M Taylor,92075cdc
+info,registry,people,MO Jones,0e0afd8b
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Smith,18a0ba24
+info,registry,people,SN Bandekar,350528bb
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,T Brown,e4bc45e0
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Vijaya Mallela,85b6244a

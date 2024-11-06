@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Nigeria
+info,gender,male
+info,season,2023/24
+info,date,2024/03/17
+info,event,African Games
+info,match_number,2
+info,venue,"Achimota Senior Secondary School B Field, Accra"
+info,city,Accra
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,umpire,P Sizara
+info,umpire,S Dambanevana
+info,match_referee,O Chirombe
+info,winner,Tanzania
+info,winner_runs,47
+info,player,Tanzania,II Selemani
+info,player,Tanzania,J Masquater
+info,player,Tanzania,S Thakor
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,ZR Jaboneke
+info,player,Tanzania,YM Nkanya
+info,player,Tanzania,AJ Jabiri
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,P Useni
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,I Danladi
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,P Aho
+info,player,Nigeria,Joshua Asia
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,J Masquater,f6d3cab2
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,Joshua Asia,c4ecc42c
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,ZR Jaboneke,438aef39

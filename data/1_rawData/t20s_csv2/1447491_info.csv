@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Maldives
+info,gender,male
+info,season,2024
+info,date,2024/09/05
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,15
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Myanmar
+info,toss_decision,bat
+info,player_of_match,Umar Adam
+info,umpire,BB Pradhan
+info,umpire,Tabarak Dar
+info,reserve_umpire,Morshed Ali Khan
+info,match_referee,V Narayan Kutty
+info,winner,Maldives
+info,winner_wickets,9
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,Nyeing Cham Soe
+info,player,Myanmar,Aung Ko Ko
+info,player,Myanmar,Myat Thu Aung
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Ismail Ali
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Shunan Ali
+info,player,Maldives,GPK Wijesingha
+info,player,Maldives,Mohamed Shiyam
+info,registry,people,Aung Ko Ko,648d060e
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,GPK Wijesingha,91f4a6e5
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,Mohamed Shiyam,946d4d9a
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Myat Thu Aung,cebbf3c9
+info,registry,people,Nyeing Cham Soe,45b5ce8d
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,Shunan Ali,3b2ca392
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,V Narayan Kutty,4bacee3d

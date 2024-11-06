@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Portugal
+info,team,Romania
+info,gender,male
+info,season,2024
+info,date,2024/06/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,7
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Portugal
+info,toss_decision,bat
+info,umpire,Adeel Ashiq
+info,umpire,M Jameson
+info,reserve_umpire,I McDonald
+info,match_referee,G McCrea
+info,winner,Romania
+info,winner_wickets,6
+info,player,Portugal,Azhar Andani
+info,player,Portugal,J Vijay
+info,player,Portugal,Suman Ghimire
+info,player,Portugal,Amir Zaib
+info,player,Portugal,Najjam Shahzad
+info,player,Portugal,ARA Chambers
+info,player,Portugal,Amandeep Singh
+info,player,Portugal,F Stoman
+info,player,Portugal,JAM Henri
+info,player,Portugal,Junaid Khan
+info,player,Portugal,Sirajullah Khadim
+info,player,Romania,Taranjeet Singh
+info,player,Romania,AN Lascu
+info,player,Romania,V Saini
+info,player,Romania,Muhammad Moiz
+info,player,Romania,S Vashisht
+info,player,Romania,A Rajshekara
+info,player,Romania,Ali Hussain
+info,player,Romania,P Hingorani
+info,player,Romania,M Koli
+info,player,Romania,Rameez Khan
+info,player,Romania,S Nadigotla
+info,registry,people,A Rajshekara,1f3e41fe
+info,registry,people,AN Lascu,e2c882d1
+info,registry,people,ARA Chambers,8db27a28
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Ali Hussain,b8fe81be
+info,registry,people,Amandeep Singh,d0d32c30
+info,registry,people,Amir Zaib,973006cc
+info,registry,people,Azhar Andani,b5bd99da
+info,registry,people,F Stoman,69e53eb3
+info,registry,people,G McCrea,46f4a901
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Vijay,709525fc
+info,registry,people,JAM Henri,04df9697
+info,registry,people,Junaid Khan,be0077ba
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Koli,eb0f2802
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,Najjam Shahzad,58aa33cd
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,Rameez Khan,ee86a890
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,Suman Ghimire,7d990412
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719

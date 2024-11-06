@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Mozambique
+info,gender,male
+info,season,2022/23
+info,date,2022/12/04
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,9
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Mozambique
+info,toss_decision,field
+info,player_of_match,J Bulele
+info,umpire,C Phiri
+info,umpire,Gasana Christian
+info,reserve_umpire,Habib Enesi
+info,match_referee,SA Fritz
+info,winner,Mozambique
+info,winner_wickets,9
+info,player,Cameroon,BN Toube
+info,player,Cameroon,I Tchakou
+info,player,Cameroon,JB Abega
+info,player,Cameroon,RGA Amah
+info,player,Cameroon,P Abanda
+info,player,Cameroon,AN Toube
+info,player,Cameroon,DB Loic
+info,player,Cameroon,AN Aminou
+info,player,Cameroon,AR Balla
+info,player,Cameroon,CB Ondoa
+info,player,Cameroon,RD Atangana
+info,player,Mozambique,J Bulele
+info,player,Mozambique,F Damiao Couana
+info,player,Mozambique,JJ Huo
+info,player,Mozambique,ZE Matsinhe
+info,player,Mozambique,AA Navicha
+info,player,Mozambique,LA Simango
+info,player,Mozambique,L Emilio
+info,player,Mozambique,CB Roposo
+info,player,Mozambique,LF Mavume
+info,player,Mozambique,DV Macome
+info,player,Mozambique,FA Cossa
+info,registry,people,AA Navicha,5c805a60
+info,registry,people,AN Aminou,6d9d2de7
+info,registry,people,AN Toube,7f929ebe
+info,registry,people,AR Balla,4b83e65a
+info,registry,people,BN Toube,75f3aa00
+info,registry,people,C Phiri,ade73404
+info,registry,people,CB Ondoa,b3179e21
+info,registry,people,CB Roposo,31f01815
+info,registry,people,DB Loic,01679383
+info,registry,people,DV Macome,af4c15c5
+info,registry,people,F Damiao Couana,2c535f08
+info,registry,people,FA Cossa,3b52d247
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,I Tchakou,4d2b96b4
+info,registry,people,J Bulele,2dde3e62
+info,registry,people,JB Abega,b7abb123
+info,registry,people,JJ Huo,d816fc1c
+info,registry,people,L Emilio,31adde7f
+info,registry,people,LA Simango,16084b50
+info,registry,people,LF Mavume,5b531900
+info,registry,people,P Abanda,90a8dfec
+info,registry,people,RD Atangana,490f475a
+info,registry,people,RGA Amah,90f9aedf
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,ZE Matsinhe,03ef382c

@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,West Indies
+info,gender,male
+info,season,2023/24
+info,date,2024/02/11
+info,event,West Indies tour of Australia
+info,match_number,2
+info,venue,Adelaide Oval
+info,city,Adelaide
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,GA Abood
+info,umpire,SAJ Craig
+info,reserve_umpire,MW Graham-Smith
+info,tv_umpire,SJ Nogajski
+info,match_referee,DC Boon
+info,winner,Australia
+info,winner_runs,34
+info,player,Australia,DA Warner
+info,player,Australia,JP Inglis
+info,player,Australia,MR Marsh
+info,player,Australia,GJ Maxwell
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,A Zampa
+info,player,Australia,SH Johnson
+info,player,Australia,JP Behrendorff
+info,player,Australia,JR Hazlewood
+info,player,West Indies,BA King
+info,player,West Indies,J Charles
+info,player,West Indies,N Pooran
+info,player,West Indies,SD Hope
+info,player,West Indies,R Powell
+info,player,West Indies,SE Rutherford
+info,player,West Indies,AD Russell
+info,player,West Indies,R Shepherd
+info,player,West Indies,JO Holder
+info,player,West Indies,AJ Hosein
+info,player,West Indies,AS Joseph
+info,registry,people,A Zampa,14f96089
+info,registry,people,AD Russell,bbd41817
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA King,7fca84b7
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,GA Abood,a4af5528
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,J Charles,09a9d073
+info,registry,people,JO Holder,0f721006
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MS Wade,afa7e784
+info,registry,people,MW Graham-Smith,18aca3ce
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,SAJ Craig,689f2eed
+info,registry,people,SD Hope,1fc6ef83
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,TH David,f1f99156

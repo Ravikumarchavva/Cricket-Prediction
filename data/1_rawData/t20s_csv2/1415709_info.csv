@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Uganda
+info,gender,male
+info,season,2024
+info,date,2024/06/05
+info,event,ICC Men's T20 World Cup
+info,match_number,9
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,Riazat Ali Shah
+info,umpire,AT Holdstock
+info,umpire,Rashid Riaz
+info,reserve_umpire,HDPK Dharmasena
+info,tv_umpire,Ahsan Raza
+info,match_referee,J Srinath
+info,winner,Uganda
+info,winner_wickets,3
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,CA Soper
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,J Kariko
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Obuya
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,AR Ramjani
+info,player,Uganda,DM Nakrani
+info,player,Uganda,J Miyaji
+info,player,Uganda,K Waiswa
+info,player,Uganda,B Masaba
+info,player,Uganda,C Kyewuta
+info,player,Uganda,F Nsubuga
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CA Soper,9920dd86
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,J Kariko,cde067e1
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,J Srinath,bad31fac
+info,registry,people,K Doriga,365229a8
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,N Vanua,a36915ce
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Bau,9a95bebb
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,TP Ura,a82eb3fb

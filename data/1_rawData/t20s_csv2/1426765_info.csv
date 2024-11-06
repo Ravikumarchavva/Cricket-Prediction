@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Nepal
+info,gender,female
+info,season,2024
+info,date,2024/07/23
+info,event,Women's Asia Cup
+info,match_number,10
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,Shafali Verma
+info,umpire,N Perera
+info,umpire,Saleema Imtiaz
+info,reserve_umpire,H Yerzal
+info,tv_umpire,Shathira Jakir
+info,match_referee,JM Pereira
+info,winner,India
+info,winner_runs,82
+info,player,India,Shafali Verma
+info,player,India,D Hemalatha
+info,player,India,S Sajana
+info,player,India,JI Rodrigues
+info,player,India,RM Ghosh
+info,player,India,S Mandhana
+info,player,India,DB Sharma
+info,player,India,A Reddy
+info,player,India,RP Yadav
+info,player,India,TP Kanwar
+info,player,India,Renuka Singh
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,SR Magar
+info,player,Nepal,K Kunwar
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Puja Mahato
+info,player,Nepal,K Joshi
+info,player,Nepal,B Rawal
+info,player,Nepal,D Bhatta
+info,player,Nepal,K Shrestha
+info,player,Nepal,Sabnam Rai
+info,registry,people,A Reddy,eadc8924
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,D Bhatta,7d1a3ff7
+info,registry,people,D Hemalatha,1d6ff329
+info,registry,people,DB Sharma,201fef33
+info,registry,people,H Yerzal,86197ea5
+info,registry,people,I Barma,521abce2
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,N Perera,129709f9
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,RP Yadav,6c3aef71
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Sajana,a4dcac97
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Sabnam Rai,8eb52953
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,TP Kanwar,443c122f

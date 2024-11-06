@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Uganda
+info,gender,female
+info,season,2024
+info,date,2024/04/25
+info,event,ICC Women's T20 World Cup Qualifier
+info,match_number,3
+info,venue,"Tolerance Oval, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,R Slater
+info,umpire,Gazi Sohel
+info,umpire,Shivani Mishra
+info,reserve_umpire,N Janani
+info,match_referee,GS Lakshmi
+info,winner,Scotland
+info,winner_runs,109
+info,player,Scotland,DEM Carter
+info,player,Scotland,S Horley
+info,player,Scotland,KE Bryce
+info,player,Scotland,SJ Bryce
+info,player,Scotland,A Lister
+info,player,Scotland,PA Chatterji
+info,player,Scotland,L Jack
+info,player,Scotland,K Fraser
+info,player,Scotland,R Slater
+info,player,Scotland,C Abel
+info,player,Scotland,AH Maqsood
+info,player,Uganda,P Alako
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,S Nampiina
+info,player,Uganda,J Mbabazi
+info,player,Uganda,R Musamali
+info,player,Uganda,K Awino
+info,player,Uganda,PE Kulume
+info,player,Uganda,S Walaza
+info,player,Uganda,C Aweko
+info,player,Uganda,S Akiteng
+info,player,Uganda,E Anyipo
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,C Abel,d92d3563
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,N Janani,d06a665d
+info,registry,people,P Alako,fcf37e14
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,PE Kulume,bb1a5f8a
+info,registry,people,R Musamali,017cadb2
+info,registry,people,R Slater,8a452195
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Walaza,f67ea6d2
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,Shivani Mishra,2982a0c7

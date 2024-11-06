@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Uganda
+info,gender,male
+info,season,2023
+info,date,2023/06/15
+info,event,Africa Continental Cup
+info,match_number,11
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,H Ssenyondo
+info,umpire,IO Oyieko
+info,umpire,J Karuri
+info,reserve_umpire,D Odhiambo
+info,winner,Uganda
+info,winner_wickets,7
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,Bosco Tuyizere
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,E Kubwimana
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Obuya
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,B Masaba
+info,player,Uganda,AR Ramjani
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,K Waiswa
+info,player,Uganda,S Nsubuga
+info,player,Uganda,P Murungi
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bosco Tuyizere,3c370b92
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Kubwimana,bfc7799f
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Karuri,5a9b694c
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Nsubuga,58cb36aa
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08

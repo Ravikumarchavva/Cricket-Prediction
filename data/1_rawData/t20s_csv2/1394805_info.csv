@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Indonesia
+info,gender,female
+info,season,2023
+info,date,2023/09/05
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,13
+info,venue,Vanuatu Cricket Ground (Oval 2)
+info,city,Port Vila
+info,toss_winner,Indonesia
+info,toss_decision,field
+info,player_of_match,A Andriani
+info,umpire,CA Polosak
+info,umpire,L McCabe
+info,reserve_umpire,M Kenni
+info,match_referee,RW Stratford
+info,winner,Indonesia
+info,winner_wickets,10
+info,player,Samoa,VM Andrew
+info,player,Samoa,AF Aoina
+info,player,Samoa,J Sanele
+info,player,Samoa,T Lafai
+info,player,Samoa,Leitu Leong
+info,player,Samoa,RP Johnston
+info,player,Samoa,F Sisifo
+info,player,Samoa,TH Semau
+info,player,Samoa,A Iopu
+info,player,Samoa,V Tafea
+info,player,Samoa,TM Faimalo
+info,player,Indonesia,A Andriani
+info,player,Indonesia,M Corazon
+info,player,Indonesia,NW Sariani
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,KS Kasse
+info,player,Indonesia,NMP Suwandewi
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,K Winda Prastini
+info,player,Indonesia,L Qiao
+info,player,Indonesia,Mia Arda
+info,player,Indonesia,SAN Maypriani
+info,registry,people,A Andriani,e697d88c
+info,registry,people,A Iopu,e77d4107
+info,registry,people,AF Aoina,217f5194
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,F Sisifo,eff8319a
+info,registry,people,J Sanele,67bd483c
+info,registry,people,K Winda Prastini,bd6f7c24
+info,registry,people,KS Kasse,007a3773
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,L Qiao,2b0deff9
+info,registry,people,Leitu Leong,672e1aea
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,Mia Arda,6e60d58c
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NMP Suwandewi,52b57a65
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,RP Johnston,c110235a
+info,registry,people,RW Stratford,85489579
+info,registry,people,SAN Maypriani,ad135bde
+info,registry,people,T Lafai,10cfda7c
+info,registry,people,TH Semau,175d59dd
+info,registry,people,TM Faimalo,e8cea6cf
+info,registry,people,V Tafea,611298bd
+info,registry,people,VM Andrew,ca9a7e09

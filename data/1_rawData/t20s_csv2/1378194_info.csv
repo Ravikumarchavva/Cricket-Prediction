@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,West Indies
+info,gender,female
+info,season,2023
+info,date,2023/07/04
+info,event,Ireland Women tour of West Indies
+info,match_number,1
+info,venue,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+info,city,Gros Islet
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,HK Matthews
+info,umpire,DK Butler
+info,umpire,JM Williams
+info,reserve_umpire,C La Borde
+info,tv_umpire,Jonathan Blades
+info,match_referee,Reon King
+info,winner,West Indies
+info,winner_wickets,2
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Delany
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,R Stokell
+info,player,Ireland,AN Kelly
+info,player,Ireland,A Canning
+info,player,Ireland,L Little
+info,player,Ireland,C Murray
+info,player,Ireland,AK Maguire
+info,player,West Indies,HK Matthews
+info,player,West Indies,RS Williams
+info,player,West Indies,S Gajnabi
+info,player,West Indies,CA Henry
+info,player,West Indies,SA Campbelle
+info,player,West Indies,Z James
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,CS Fraser
+info,player,West Indies,SS Connell
+info,player,West Indies,A Munisar
+info,player,West Indies,SR Taylor
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,A Munisar,a811cb83
+info,registry,people,AK Maguire,f888a374
+info,registry,people,AN Kelly,397369e0
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,C La Borde,32157f67
+info,registry,people,C Murray,5a50471c
+info,registry,people,CA Henry,75820733
+info,registry,people,CS Fraser,fb9a8cc3
+info,registry,people,DK Butler,671398e3
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,Jonathan Blades,ef9a3298
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Little,4f86926b
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,RS Williams,406de451
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,Z James,816af623

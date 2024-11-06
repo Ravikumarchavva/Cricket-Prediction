@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Malawi
+info,gender,male
+info,season,2024
+info,date,2024/09/26
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,15
+info,venue,"Gymkhana Club Ground, Dar-es-Salaam"
+info,city,Dar-es-Salaam
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,K Juma
+info,umpire,D Odhiambo
+info,umpire,LB Gcuma
+info,reserve_umpire,Habib Enesi
+info,match_referee,S Wadvalla
+info,winner,Tanzania
+info,winner_runs,19
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,Muhammad Zafar Khan
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,S Thakor
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,K Juma
+info,player,Malawi,D Kansonkho
+info,player,Malawi,G Kansonkho
+info,player,Malawi,MA Baig
+info,player,Malawi,A Limdawala
+info,player,Malawi,Sami Sohail
+info,player,Malawi,M Choamba
+info,player,Malawi,GM Ntambalika
+info,player,Malawi,D Jakiel
+info,player,Malawi,P Zuze
+info,player,Malawi,SZ Vayani
+info,player,Malawi,B Pondani
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,B Pondani,e5117568
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,D Odhiambo,45994517
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GM Ntambalika,8c8a3f08
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,K Juma,089ebf89
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LS Barkania,073126d6
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,MA Baig,89394502
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Muhammad Zafar Khan,6d5e66b1
+info,registry,people,P Zuze,04420914
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sami Sohail,602ebd4c

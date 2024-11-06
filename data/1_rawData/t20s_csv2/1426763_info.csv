@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Bangladesh
+info,gender,female
+info,season,2024
+info,date,2024/07/22
+info,event,Women's Asia Cup
+info,match_number,8
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Thailand
+info,toss_decision,bat
+info,player_of_match,Rabeya Khan
+info,umpire,LDVV Silva
+info,umpire,Nur Hijrah
+info,reserve_umpire,Gayathri Venugopal
+info,tv_umpire,N Perera
+info,match_referee,JM Pereira
+info,winner,Bangladesh
+info,winner_wickets,7
+info,player,Thailand,N Boochatham
+info,player,Thailand,A Suwanchonrathi
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,P Maya
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,S Khiaoto
+info,player,Thailand,S Laomi
+info,player,Thailand,R Kanoh
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,T Putthawong
+info,player,Thailand,S Chaturongrattana
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Ishma Tanjim
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Rumana Ahmed
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,player,Bangladesh,Sabikun Nahar Jesmin
+info,registry,people,A Suwanchonrathi,43a2244f
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,Ishma Tanjim,5d428b3d
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,N Perera,129709f9
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,R Kanoh,5959370f
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rumana Ahmed,a92763ea
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Laomi,4b15618c
+info,registry,people,Sabikun Nahar Jesmin,48ec1360
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,T Putthawong,23e3f2d6

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Rwanda
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,East Africa Cup
+info,match_number,1
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,K Waiswa
+info,umpire,Gaston Niyibizi
+info,umpire,Norbert Abii
+info,reserve_umpire,V Iriho
+info,winner,Uganda
+info,winner_runs,40
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Lutaaya
+info,player,Uganda,K Waiswa
+info,player,Uganda,AR Ramjani
+info,player,Uganda,B Masaba
+info,player,Uganda,CN Kakuru
+info,player,Uganda,P Murungi
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,S Nsubuga
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,Norbert Abii,ed06cf51
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Murungi,fbdc5ab1
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Nsubuga,58cb36aa
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,V Iriho,2853eafb
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08

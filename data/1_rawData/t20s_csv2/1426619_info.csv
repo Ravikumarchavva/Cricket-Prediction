@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Australia
+info,gender,female
+info,season,2024
+info,date,2024/09/24
+info,event,New Zealand Women tour of Australia
+info,match_number,3
+info,venue,"Allan Border Field, Brisbane"
+info,city,Brisbane
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,G Wareham
+info,umpire,BC Treloar
+info,umpire,Troy Penman
+info,reserve_umpire,SE Dionysius
+info,tv_umpire,Andrew Crozier
+info,match_referee,Dave Gilbert
+info,winner,Australia
+info,winner_wickets,5
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,ML Green
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,RA Mair
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,G Wareham
+info,player,Australia,EA Perry
+info,player,Australia,A Gardner
+info,player,Australia,P Litchfield
+info,player,Australia,TM McGrath
+info,player,Australia,A Sutherland
+info,player,Australia,S Molineux
+info,player,Australia,TJ Vlaeminck
+info,player,Australia,ML Schutt
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Healy,321644de
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,ML Green,865eae1f
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,S Molineux,99e23670
+info,registry,people,SE Dionysius,ac886e6f
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TJ Vlaeminck,ef70a34b
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Troy Penman,0aa42c26

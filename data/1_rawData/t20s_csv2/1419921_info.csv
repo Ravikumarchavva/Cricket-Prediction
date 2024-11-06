@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Maldives
+info,gender,female
+info,season,2023/24
+info,date,2024/02/11
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,16
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,KY Chan
+info,umpire,Gayathri Venugopal
+info,umpire,N Perera
+info,reserve_umpire,Shathira Jakir
+info,match_referee,Ramesh Menon
+info,winner,Hong Kong
+info,winner_runs,172
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,MBA Lamplough
+info,player,Hong Kong,WK Lai
+info,player,Maldives,Leen Luthufee
+info,player,Maldives,Nabaa Naseem
+info,player,Maldives,Latsha Haleemath
+info,player,Maldives,Fathimath Malha
+info,player,Maldives,Sumayya Abdul
+info,player,Maldives,Hawwa Shaaiqa
+info,player,Maldives,Sajaa Fathimath
+info,player,Maldives,Hafsaa Abdhulla
+info,player,Maldives,Aishath Meesa Rameez
+info,player,Maldives,Shamma Ali
+info,player,Maldives,Hawwa Ifasha
+info,registry,people,Aishath Meesa Rameez,659fc11f
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,Fathimath Malha,0c4c27d1
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,Hafsaa Abdhulla,7fa1e4a2
+info,registry,people,Hawwa Ifasha,63825940
+info,registry,people,Hawwa Shaaiqa,46030558
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,Latsha Haleemath,2d99b12e
+info,registry,people,Leen Luthufee,e575e4c5
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,N Perera,129709f9
+info,registry,people,Nabaa Naseem,4f1208a8
+info,registry,people,Ramesh Menon,4ed80d22
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,Sajaa Fathimath,e793a951
+info,registry,people,Shamma Ali,012bd3f6
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Sumayya Abdul,a521ba3e
+info,registry,people,WK Lai,6ab99b17
+info,registry,people,Y Daswani,2038a273

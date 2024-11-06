@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Malaysia
+info,gender,male
+info,season,2023
+info,date,2023/08/01
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,10
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,S Vijay Unni
+info,umpire,Ramasamy Venkatesh
+info,umpire,VG Rathi
+info,reserve_umpire,V Kalidas
+info,match_referee,JM Pereira
+info,winner,Malaysia
+info,winner_wickets,7
+info,player,Thailand,S Desungnoen
+info,player,Thailand,P Suanchuai
+info,player,Thailand,AP Yadav
+info,player,Thailand,J Coetzee
+info,player,Thailand,N Nuntarach
+info,player,Thailand,Robert Raina
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,K Namchaikul
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Rizwan Haider
+info,registry,people,AP Yadav,a5501504
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Namchaikul,f4ccbe6f
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,P Suanchuai,e6948355
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,Robert Raina,8e38d470
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Y Saranonnakkun,9c93c0a3
+info,registry,people,Zubaidi Zulkifle,dca8273d

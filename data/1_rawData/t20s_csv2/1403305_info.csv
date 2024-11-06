@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chile
+info,team,Argentina
+info,gender,male
+info,season,2023/24
+info,date,2023/10/20
+info,event,South American Men's Championships
+info,match_number,11
+info,venue,St Georges Quilmes
+info,city,
+info,toss_winner,Chile
+info,toss_decision,bat
+info,player_of_match,Lucas Rossi
+info,umpire,A Elliott
+info,umpire,Steven Caines
+info,winner,Argentina
+info,winner_wickets,10
+info,player,Chile,Amit Uniyal
+info,player,Chile,Edward Taylor
+info,player,Chile,John Bartlett
+info,player,Chile,Simon Shalders
+info,player,Chile,Alex Carthew
+info,player,Chile,Mario Ovalle
+info,player,Chile,Anthony Roe
+info,player,Chile,Guillermo Aburto
+info,player,Chile,Alfredo Puentes
+info,player,Chile,Benjamin Constanzo
+info,player,Chile,Ignacio Lisboa
+info,player,Argentina,P Baron
+info,player,Argentina,Guido Angeletti
+info,player,Argentina,A Ferguson
+info,player,Argentina,H Fennell
+info,player,Argentina,Santiago Duggan
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,T Rossi
+info,player,Argentina,Oliver Rowe
+info,player,Argentina,AAP Rivero
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,Santiago Iturbe
+info,registry,people,A Elliott,f48d5563
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,Alex Carthew,ea6ec2d9
+info,registry,people,Alfredo Puentes,e214be36
+info,registry,people,Amit Uniyal,085071f2
+info,registry,people,Anthony Roe,0dcd8fbd
+info,registry,people,Benjamin Constanzo,35cfc769
+info,registry,people,Edward Taylor,9adb9f71
+info,registry,people,Guido Angeletti,6d6f52fc
+info,registry,people,Guillermo Aburto,08deefa3
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,Ignacio Lisboa,eceeb63a
+info,registry,people,John Bartlett,6b7f9d9d
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,Mario Ovalle,f0fbdf0a
+info,registry,people,Oliver Rowe,24076663
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,Santiago Duggan,6876264c
+info,registry,people,Santiago Iturbe,851b0636
+info,registry,people,Simon Shalders,167b3c71
+info,registry,people,Steven Caines,3818fb90
+info,registry,people,T Rossi,5470418a

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,male
+info,season,2024
+info,date,2024/05/23
+info,event,South Africa tour of West Indies
+info,match_number,1
+info,venue,"Sabina Park, Kingston, Jamaica"
+info,city,Kingston
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,BA King
+info,umpire,GO Brathwaite
+info,umpire,JS Wilson
+info,reserve_umpire,N Duguid
+info,tv_umpire,LS Reifer
+info,match_referee,RB Richardson
+info,winner,West Indies
+info,winner_runs,28
+info,player,West Indies,BA King
+info,player,West Indies,J Charles
+info,player,West Indies,KR Mayers
+info,player,West Indies,RL Chase
+info,player,West Indies,ADS Fletcher
+info,player,West Indies,FA Allen
+info,player,West Indies,AJ Hosein
+info,player,West Indies,MW Forde
+info,player,West Indies,G Motie
+info,player,West Indies,S Joseph
+info,player,West Indies,OC McCoy
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,RD Rickelton
+info,player,South Africa,MP Breetzke
+info,player,South Africa,HE van der Dussen
+info,player,South Africa,PWA Mulder
+info,player,South Africa,AL Phehlukwayo
+info,player,South Africa,BC Fortuin
+info,player,South Africa,G Coetzee
+info,player,South Africa,L Ngidi
+info,player,South Africa,OEG Baartman
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AL Phehlukwayo,ab6b1c45
+info,registry,people,BA King,7fca84b7
+info,registry,people,BC Fortuin,9a2fc964
+info,registry,people,FA Allen,b52ffbbd
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,G Motie,97bdec3d
+info,registry,people,GO Brathwaite,1ace56d4
+info,registry,people,HE van der Dussen,9948e262
+info,registry,people,J Charles,09a9d073
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,KR Mayers,73c18486
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,LS Reifer,5dee559a
+info,registry,people,MP Breetzke,35f173a0
+info,registry,people,MW Forde,83d17bbc
+info,registry,people,N Duguid,64495506
+info,registry,people,OC McCoy,529eb9e0
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,PWA Mulder,c96f6ac5
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Joseph,97290faf

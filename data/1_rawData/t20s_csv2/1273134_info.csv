@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sweden
+info,team,Denmark
+info,gender,male
+info,season,2021
+info,date,2021/08/15
+info,event,Sweden tour of Denmark
+info,match_number,3
+info,venue,"Svanholm Park, Brondby"
+info,city,Brondby
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,T Bharaj
+info,winner,Denmark
+info,winner_wickets,6
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Rahel Khan
+info,player,Sweden,A Venkatesh
+info,player,Sweden,W Boshoff
+info,player,Sweden,R Gowthaman
+info,player,Sweden,Dipanjan Dey
+info,player,Sweden,Hassan Mehmood
+info,player,Sweden,L Karlsson
+info,player,Sweden,Qudratullah Mir Afzail
+info,player,Sweden,Baz Aybui
+info,player,Sweden,Lemar Momand
+info,player,Denmark,Aftab Ahmed
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,Rizwan Mahmood
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,FA Klokker
+info,player,Denmark,OD Hald
+info,player,Denmark,Omar Hayat
+info,player,Denmark,Delawar Khan
+info,player,Denmark,Surya Anand
+info,player,Denmark,Lucky Ali
+info,registry,people,A Venkatesh,06b45b20
+info,registry,people,Aftab Ahmed,94ed8d37
+info,registry,people,Baz Aybui,58a7f842
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,Dipanjan Dey,fa180043
+info,registry,people,FA Klokker,821a412e
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Hassan Mehmood,0331c99a
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,L Karlsson,90a41671
+info,registry,people,Lemar Momand,249fe400
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,OD Hald,38189be1
+info,registry,people,Omar Hayat,d35a520a
+info,registry,people,Qudratullah Mir Afzail,bd021695
+info,registry,people,R Gowthaman,bfd93f9b
+info,registry,people,Rahel Khan,c443b748
+info,registry,people,Rizwan Mahmood,56e771ef
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,W Boshoff,cad11a02

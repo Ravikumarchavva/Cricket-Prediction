@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Thailand
+info,gender,female
+info,season,2023/24
+info,date,2024/02/10
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,1
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Thailand
+info,toss_decision,field
+info,player_of_match,C Sutthiruang
+info,umpire,Saleema Imtiaz
+info,umpire,Shathira Jakir
+info,reserve_umpire,Ramasamy Venkatesh
+info,match_referee,Edwin Seah
+info,winner,Thailand
+info,winner_wickets,10
+info,player,Myanmar,KM Myat
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,LL Htun
+info,player,Myanmar,ZL Win
+info,player,Myanmar,TT Soe
+info,player,Myanmar,MPP San
+info,player,Myanmar,HH Aung
+info,player,Myanmar,TT Aung
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,SY Win
+info,player,Myanmar,Thae Thae Po
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chaiwai
+info,player,Thailand,N Boochatham
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,R Kanoh
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,T Putthawong
+info,player,Thailand,P Maya
+info,player,Thailand,S Chaturongrattana
+info,player,Thailand,S Khiaoto
+info,player,Thailand,A Suwanchonrathi
+info,registry,people,A Suwanchonrathi,43a2244f
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,HH Aung,860042f6
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,MPP San,5bc290a2
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,R Kanoh,5959370f
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,SY Win,33d65ab4
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,T Putthawong,23e3f2d6
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Zimbabwe
+info,gender,female
+info,season,2024
+info,date,2024/05/01
+info,event,ICC Women's T20 World Cup Qualifier
+info,match_number,13
+info,venue,"Tolerance Oval, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Netherlands
+info,toss_decision,bat
+info,player_of_match,B de Leede
+info,umpire,L McCabe
+info,umpire,N Janani
+info,reserve_umpire,LDVV Silva
+info,match_referee,SM Bartlett
+info,winner,Netherlands
+info,winner_runs,14
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,CH van Koolwijk
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,C de Lange
+info,player,Netherlands,S Siegers
+info,player,Netherlands,MM Dekeling
+info,player,Zimbabwe,SM Mayers
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,A Ndiraya
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,A Mazvishaya
+info,player,Zimbabwe,F Chipare
+info,player,Zimbabwe,L Mabhero
+info,registry,people,A Mazvishaya,09a58e2d
+info,registry,people,A Ndiraya,c8e6bddd
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CH van Koolwijk,27d5901c
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,N Janani,d06a665d
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SM Mayers,91d9613e

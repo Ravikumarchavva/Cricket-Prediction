@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Singapore
+info,gender,male
+info,season,2024
+info,date,2024/09/09
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,19
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Singapore
+info,toss_decision,field
+info,umpire,Tabarak Dar
+info,umpire,V Kalidas
+info,reserve_umpire,Faisal Afridi
+info,match_referee,V Narayan Kutty
+info,winner,Singapore
+info,winner_wickets,8
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,Nay Lin Htun
+info,player,Myanmar,Nyeing Cham Soe
+info,player,Myanmar,Myat Thu Aung
+info,player,Singapore,Aman Desai
+info,player,Singapore,A Kaul
+info,player,Singapore,R Sheshadri
+info,player,Singapore,WA Simpson
+info,player,Singapore,A Chaudhary
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,S Chandramohan
+info,player,Singapore,R Sharma
+info,player,Singapore,R Kalimuthu
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,AR Puri
+info,registry,people,A Chaudhary,465fd722
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Myat Thu Aung,cebbf3c9
+info,registry,people,Nay Lin Htun,5319f95b
+info,registry,people,Nyeing Cham Soe,45b5ce8d
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Sharma,2278c4ca
+info,registry,people,R Sheshadri,d4aa2ddb
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,WA Simpson,6de0f650

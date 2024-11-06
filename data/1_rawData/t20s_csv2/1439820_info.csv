@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Switzerland
+info,gender,male
+info,season,2024
+info,date,2024/07/09
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,8
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Jersey
+info,toss_decision,bat
+info,umpire,DH Mclean
+info,umpire,N Bathi
+info,reserve_umpire,Jonathan Kennedy
+info,match_referee,H Pack
+info,winner,Jersey
+info,winner_runs,167
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JW Jenner
+info,player,Jersey,ZM Tribe
+info,player,Jersey,C Brennan
+info,player,Jersey,B Ward
+info,player,Jersey,DG Blampied
+info,player,Jersey,J Sumerauer
+info,player,Jersey,JE Dunford
+info,player,Jersey,CW Perchard
+info,player,Jersey,D Birrell
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Idrees Ul Haque
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Abdullah Rana
+info,player,Switzerland,Jai Sinh
+info,player,Switzerland,M Stanikzai
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,Bashir Ahmad
+info,player,Switzerland,K Fletcher
+info,registry,people,Abdullah Rana,c4ab9b94
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,B Ward,9e0bd203
+info,registry,people,Bashir Ahmad,ffafcfce
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,DH Mclean,281d4749
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,H Pack,fed53c91
+info,registry,people,Idrees Ul Haque,d5b52676
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,Jai Sinh,10ae134c
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,M Stanikzai,ad8d5827
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,ZM Tribe,96fe3e9f

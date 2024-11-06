@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Japan
+info,gender,male
+info,season,2023/24
+info,date,2024/02/06
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,11
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Japan
+info,toss_decision,field
+info,player_of_match,AE Paraam
+info,umpire,N Sivan
+info,umpire,V Kalidas
+info,reserve_umpire,Arif Ansari
+info,tv_umpire,Samad Akbar
+info,match_referee,Iftikhar Ahmed
+info,winner,Singapore
+info,winner_runs,34
+info,player,Singapore,Aman Desai
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Gaznavi
+info,player,Singapore,AE Paraam
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Avi Dixit
+info,player,Singapore,R Sharma
+info,player,Singapore,AR Puri
+info,player,Singapore,R Kalimuthu
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,S Banamali
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,KH Abe
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,S Ravichandran
+info,player,Japan,A Patmore
+info,player,Japan,I Takahashi
+info,player,Japan,D Suzuki
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,M Taniyama
+info,player,Japan,C Hinze
+info,player,Japan,P Kumbhare
+info,registry,people,A Patmore,85119526
+info,registry,people,AE Paraam,b56f5b6f
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Arif Ansari,95957b9e
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Avi Dixit,cf17c429
+info,registry,people,C Hinze,626af7ff
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,Iftikhar Ahmed,973d561e
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,R Gaznavi,0079f139
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,R Sharma,2278c4ca
+info,registry,people,S Banamali,4d9dfc7f
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Samad Akbar,f05bd21b
+info,registry,people,V Kalidas,42d76418

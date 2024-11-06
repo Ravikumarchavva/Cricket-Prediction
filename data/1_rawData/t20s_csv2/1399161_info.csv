@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Bermuda
+info,gender,male
+info,season,2023/24
+info,date,2023/10/07
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,12
+info,venue,"National Stadium, Hamilton"
+info,city,Hamilton
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,Kaleem Sana
+info,umpire,JM Williams
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Emmerson Carrington
+info,match_referee,Reon King
+info,winner,Canada
+info,winner_runs,39
+info,player,Canada,A Johnson
+info,player,Canada,NS Dhaliwal
+info,player,Canada,Pargat Singh
+info,player,Canada,H Thaker
+info,player,Canada,NR Kirton
+info,player,Canada,D Heyliger
+info,player,Canada,N Dutta
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Kaleem Sana
+info,player,Canada,JOA Gordon
+info,player,Canada,SA Wijeratne
+info,player,Bermuda,KS Leverock
+info,player,Bermuda,T Manders
+info,player,Bermuda,TS Fray
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,AC Douglas
+info,player,Bermuda,D Sabir
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,C Trott
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,S Smith
+info,player,Bermuda,C Outerbridge
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,AC Douglas,f86ce673
+info,registry,people,C Outerbridge,ff722bc8
+info,registry,people,C Trott,ae624b05
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,H Thaker,c01d7726
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,JOA Gordon,bb9b51f4
+info,registry,people,KS Leverock,e1592949
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,N Dutta,e258a603
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Smith,18a0ba24
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Z Burgess,d0042e16

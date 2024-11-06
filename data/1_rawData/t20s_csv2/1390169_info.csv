@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Hungary
+info,gender,male
+info,season,2023
+info,date,2023/08/06
+info,event,Croatia tour of Hungary
+info,match_number,3
+info,venue,"GB Oval, Szodliget"
+info,city,Szodliget
+info,toss_winner,Croatia
+info,toss_decision,bat
+info,player_of_match,Sheikh Rasik
+info,umpire,Sai Goutham
+info,umpire,Srinivas Mandali
+info,winner,Hungary
+info,winner_wickets,7
+info,player,Croatia,WK Bitis
+info,player,Croatia,A Maheshwari
+info,player,Croatia,Naseem Khan
+info,player,Croatia,Sohail Ahmad
+info,player,Croatia,V Zanko
+info,player,Croatia,V Pulibanti
+info,player,Croatia,CG Osborne
+info,player,Croatia,A Magdalenic
+info,player,Croatia,Ivan Splicevic
+info,player,Croatia,ID Matic
+info,player,Croatia,P Bosnjak
+info,player,Hungary,Zeeshan Kukikhel
+info,player,Hungary,Ali Yalmaz
+info,player,Hungary,A Kheterpal
+info,player,Hungary,Sheikh Rasik
+info,player,Hungary,Yadwinder Singh
+info,player,Hungary,Abhijeet Ahuja
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,Abhishek Ahuja
+info,player,Hungary,A Prashar
+info,player,Hungary,Zahir Mohammed
+info,player,Hungary,V Ravindran
+info,registry,people,A Kheterpal,2deb4082
+info,registry,people,A Magdalenic,d6a2f3a5
+info,registry,people,A Maheshwari,3ec513ea
+info,registry,people,A Prashar,b18dbaff
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Abhijeet Ahuja,b91083bd
+info,registry,people,Abhishek Ahuja,65cf74b4
+info,registry,people,Ali Yalmaz,026e1314
+info,registry,people,CG Osborne,19758a47
+info,registry,people,ID Matic,72f784ca
+info,registry,people,Ivan Splicevic,010658fc
+info,registry,people,Naseem Khan,cfbd3998
+info,registry,people,P Bosnjak,fed92736
+info,registry,people,Sai Goutham,7b7a1bbe
+info,registry,people,Sheikh Rasik,5f25b104
+info,registry,people,Sohail Ahmad,7e439c80
+info,registry,people,Srinivas Mandali,c021863b
+info,registry,people,V Pulibanti,ac02a458
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,V Zanko,4a78f962
+info,registry,people,WK Bitis,b34de9a6
+info,registry,people,Yadwinder Singh,43b36ccf
+info,registry,people,Zahir Mohammed,7c38942a
+info,registry,people,Zeeshan Kukikhel,5d6a1f76

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Oman
+info,gender,male
+info,season,2023/24
+info,date,2023/11/05
+info,event,ICC Men's T20 World Cup Asia Qualifier Final
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,player_of_match,KH Prajapati
+info,umpire,Gazi Sohel
+info,umpire,Rashid Riaz
+info,reserve_umpire,V Kalidas
+info,match_referee,Ali Naqvi
+info,outcome,tie
+info,eliminator,Oman
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,S Jora
+info,player,Nepal,Kushal Malla
+info,player,Nepal,RK Paudel
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,B Yadav
+info,player,Nepal,Karan KC
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Sompal Kami
+info,player,Nepal,A Bohara
+info,player,Oman,KH Prajapati
+info,player,Oman,PS Athavale
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Ayan Khan
+info,player,Oman,Naseem Khushi
+info,player,Oman,Mehran Khan
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Fayyaz Butt
+info,player,Oman,Bilal Khan
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,B Yadav,ef07f354
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,PS Athavale,c2f12310
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Zeeshan Maqsood,34464143

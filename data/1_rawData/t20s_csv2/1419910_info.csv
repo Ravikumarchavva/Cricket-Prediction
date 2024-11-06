@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Kuwait
+info,gender,female
+info,season,2023/24
+info,date,2024/02/10
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,5
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,Zeefa Jilani
+info,umpire,Ramasamy Venkatesh
+info,umpire,Shathira Jakir
+info,reserve_umpire,Saleema Imtiaz
+info,match_referee,Edwin Seah
+info,winner,Kuwait
+info,winner_wickets,10
+info,player,Singapore,RR Seth
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,GK Diviya
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,DA Galia
+info,player,Singapore,Vathana Sreemurugavel
+info,player,Singapore,H Dhavina
+info,player,Singapore,JT Pooranakaran
+info,player,Singapore,Damini Ramesh
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,Maria Jasvi
+info,player,Kuwait,B Shanti
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,Maryyam Ashraf
+info,player,Kuwait,Maryam Omar
+info,player,Kuwait,S Lita D'Sa
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,JT Pooranakaran,3a743619
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryam Omar,b4d08794
+info,registry,people,Maryyam Ashraf,1b9d3eb3
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,S Lita D'Sa,a289cfa0
+info,registry,people,SL Gomez,02264be0
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Vathana Sreemurugavel,eb2d1983
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,Zeefa Jilani,3f2b40f0

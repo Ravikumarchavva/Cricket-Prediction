@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Germany
+info,gender,male
+info,season,2024
+info,date,2024/07/11
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,12
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Germany
+info,toss_decision,field
+info,player_of_match,Fayaz Khan
+info,umpire,M Burns
+info,umpire,Rizwan Akram
+info,reserve_umpire,Jonathan Kennedy
+info,winner,Norway
+info,winner_runs,11
+info,player,Norway,Raza Iqbal
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Walid Ghauri
+info,player,Norway,Mandeep Singh
+info,player,Norway,Ali Saleem
+info,player,Norway,Javed Maroofkhail
+info,player,Norway,Sher Sahak
+info,player,Norway,Wahidullah Sahak
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,AJ Parmar
+info,player,Germany,B Kohler-Cadmore
+info,player,Germany,V Ganesan
+info,player,Germany,Musaddiq Ahmed
+info,player,Germany,Faisal Mubashir
+info,player,Germany,H Singh
+info,player,Germany,Sachin Mandy
+info,player,Germany,Fayaz Khan
+info,player,Germany,Muslim Yar
+info,player,Germany,Sajid Liaqat
+info,player,Germany,Zahid Zadran
+info,player,Germany,Ghulam Ahmadi
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Ali Saleem,661e8a03
+info,registry,people,B Kohler-Cadmore,209e91e6
+info,registry,people,Faisal Mubashir,ad5342dc
+info,registry,people,Fayaz Khan,373954ca
+info,registry,people,Ghulam Ahmadi,2dfe0612
+info,registry,people,H Singh,8209da53
+info,registry,people,Javed Maroofkhail,909d9fac
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Burns,b3bd0666
+info,registry,people,Mandeep Singh,dc39e9ab
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,Musaddiq Ahmed,f8fb7e7b
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,Sajid Liaqat,b1b99a1a
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Wahidullah Sahak,6913e38e
+info,registry,people,Walid Ghauri,331e137f
+info,registry,people,Zahid Zadran,a819f6c8

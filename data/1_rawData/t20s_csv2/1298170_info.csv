@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,South Africa
+info,gender,male
+info,season,2022/23
+info,date,2022/11/03
+info,event,ICC Men's T20 World Cup
+info,match_number,36
+info,venue,Sydney Cricket Ground
+info,city,Sydney
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,Shadab Khan
+info,umpire,CB Gaffaney
+info,umpire,PR Reiffel
+info,reserve_umpire,Nitin Menon
+info,tv_umpire,P Wilson
+info,match_referee,AJ Pycroft
+info,winner,Pakistan
+info,winner_runs,33
+info,method,D/L
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Mohammad Haris
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Mohammad Wasim
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,South Africa,T Bavuma
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Rossouw
+info,player,South Africa,AK Markram
+info,player,South Africa,H Klaasen
+info,player,South Africa,T Stubbs
+info,player,South Africa,WD Parnell
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,L Ngidi
+info,player,South Africa,T Shamsi
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,Mohammad Haris,ff3f6fc1
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,P Wilson,68304a36
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RR Rossouw,cad00a4d
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,T Bavuma,9ffd1ac1
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,WD Parnell,3a60e0b5

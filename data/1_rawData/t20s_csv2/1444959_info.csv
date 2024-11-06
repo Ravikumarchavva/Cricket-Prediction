@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Cook Islands
+info,gender,male
+info,season,2024
+info,date,2024/08/21
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,8
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Cook Islands
+info,toss_decision,field
+info,player_of_match,OE Taylor
+info,umpire,L Oala
+info,umpire,L McCabe
+info,reserve_umpire,PJ Gillespie
+info,match_referee,Kent Hannam
+info,winner,Cook Islands
+info,winner_wickets,7
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,C Tommy
+info,player,Vanuatu,A Mansale
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,W Wotu
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,TL Cutler
+info,player,Vanuatu,SH Obed
+info,player,Vanuatu,D Wotu
+info,player,Cook Islands,HB Dickson
+info,player,Cook Islands,T Parima
+info,player,Cook Islands,MTMMJ Ave
+info,player,Cook Islands,A Parima
+info,player,Cook Islands,C Dickson
+info,player,Cook Islands,OE Taylor
+info,player,Cook Islands,L Denny
+info,player,Cook Islands,JL Tutty
+info,player,Cook Islands,T Ritawa
+info,player,Cook Islands,AJA Samuels
+info,player,Cook Islands,PF Ravarua
+info,registry,people,A Mansale,a22b4f3f
+info,registry,people,A Parima,866d3ac8
+info,registry,people,AJA Samuels,9a28e6e1
+info,registry,people,C Dickson,26b59073
+info,registry,people,C Tommy,c6d4cff0
+info,registry,people,D Wotu,9585854d
+info,registry,people,HB Dickson,e8c95491
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,JL Tutty,11b37b2a
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,L Denny,e112732d
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,L Oala,48a506ab
+info,registry,people,MTMMJ Ave,00863408
+info,registry,people,N Nipiko,c498c510
+info,registry,people,OE Taylor,24a93558
+info,registry,people,PF Ravarua,85b592a7
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,R Tari,c4d19735
+info,registry,people,SH Obed,f49c401e
+info,registry,people,T Parima,ecd51f8e
+info,registry,people,T Ritawa,1c8ada57
+info,registry,people,TL Cutler,384fa385
+info,registry,people,W Nalisa,673be48f
+info,registry,people,W Wotu,6b25ef46

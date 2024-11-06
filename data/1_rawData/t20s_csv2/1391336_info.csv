@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Romania
+info,gender,male
+info,season,2023
+info,date,2023/08/20
+info,event,Continental Cup
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,R Satheesan
+info,umpire,A Elliott
+info,umpire,MM French
+info,reserve_umpire,K Chavan
+info,match_referee,I Doekhie
+info,winner,Romania
+info,winner_wickets,9
+info,player,Malta,Zeeshan Khan
+info,player,Malta,Fanyan Mughal
+info,player,Malta,G Thakur
+info,player,Malta,Imran Ameer
+info,player,Malta,VP Thamotharam
+info,player,Malta,B Arora
+info,player,Malta,SSM Stanislaus
+info,player,Malta,Waqas Ahmad
+info,player,Malta,E Mathew
+info,player,Malta,C Sudarsanan
+info,player,Malta,Washeem Abbas
+info,player,Romania,R Satheesan
+info,player,Romania,Rohit Kumar
+info,player,Romania,V Saini
+info,player,Romania,S Nadigotla
+info,player,Romania,S Vashisht
+info,player,Romania,S Periyalwar
+info,player,Romania,Ijaz Hussain
+info,player,Romania,M Koli
+info,player,Romania,R Athapaththu
+info,player,Romania,M Prasanna
+info,player,Romania,L Gharasim
+info,registry,people,A Elliott,f48d5563
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,G Thakur,93720584
+info,registry,people,I Doekhie,b37e3c48
+info,registry,people,Ijaz Hussain,dc1dd6c4
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,K Chavan,7ca4ac4f
+info,registry,people,L Gharasim,18f4d808
+info,registry,people,M Koli,eb0f2802
+info,registry,people,M Prasanna,1b8c2b54
+info,registry,people,MM French,b52f7ad9
+info,registry,people,R Athapaththu,3465e307
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,Rohit Kumar,43462314
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,SSM Stanislaus,34dd3fd9
+info,registry,people,V Saini,0fa81719
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Waqas Ahmad,82623a3a
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zeeshan Khan,3f9b1a96

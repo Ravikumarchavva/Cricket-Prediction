@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Lesotho
+info,gender,female
+info,season,2024
+info,date,2024/04/26
+info,event,BCA Kalahari Women's T20 International Tournament
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Mozambique
+info,toss_decision,bat
+info,player_of_match,O Mondlane
+info,umpire,J Mukandi
+info,umpire,L Msemburi
+info,reserve_umpire,ND Dhlamini
+info,winner,Mozambique
+info,winner_runs,44
+info,player,Mozambique,O Mondlane
+info,player,Mozambique,IE Mulhovo
+info,player,Mozambique,FA Zavala
+info,player,Mozambique,AA Moiane
+info,player,Mozambique,C Magaia
+info,player,Mozambique,R Haiong
+info,player,Mozambique,I Chuma
+info,player,Mozambique,A Salomao
+info,player,Mozambique,AL Mundundo
+info,player,Mozambique,L Chipanga
+info,player,Mozambique,J Sonia
+info,player,Lesotho,T Kobeli
+info,player,Lesotho,T Khabo
+info,player,Lesotho,M Mokoatsela
+info,player,Lesotho,KM Molapo
+info,player,Lesotho,MA Nyabela
+info,player,Lesotho,MM Mabathoana
+info,player,Lesotho,B Phelenyane
+info,player,Lesotho,K Mohanoe
+info,player,Lesotho,MA Tsemane
+info,player,Lesotho,NM Mokhachane
+info,player,Lesotho,R Limema
+info,registry,people,A Salomao,04e145f4
+info,registry,people,AA Moiane,80190078
+info,registry,people,AL Mundundo,c1edced9
+info,registry,people,B Phelenyane,c982ad6f
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,FA Zavala,2edfa6a8
+info,registry,people,I Chuma,b1021056
+info,registry,people,IE Mulhovo,ab750f1f
+info,registry,people,J Mukandi,b7954ae3
+info,registry,people,J Sonia,08c8c151
+info,registry,people,K Mohanoe,bf1f5ab0
+info,registry,people,KM Molapo,dc5934a6
+info,registry,people,L Chipanga,70722cc7
+info,registry,people,L Msemburi,ef6037f8
+info,registry,people,M Mokoatsela,fc32e121
+info,registry,people,MA Nyabela,261fddca
+info,registry,people,MA Tsemane,71eb9780
+info,registry,people,MM Mabathoana,fb432bd3
+info,registry,people,ND Dhlamini,b82d94ff
+info,registry,people,NM Mokhachane,6083f332
+info,registry,people,O Mondlane,7f97139f
+info,registry,people,R Haiong,2832fbba
+info,registry,people,R Limema,95fdfe7e
+info,registry,people,T Khabo,7be9cb29
+info,registry,people,T Kobeli,10f52b3a

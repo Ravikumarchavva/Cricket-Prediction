@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,Ireland
+info,gender,female
+info,season,2022/23
+info,date,2023/02/15
+info,event,ICC Women's T20 World Cup
+info,match_number,10
+info,venue,"Newlands, Cape Town"
+info,city,Cape Town
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,Muneeba Ali
+info,umpire,CA Polosak
+info,umpire,N Janani
+info,reserve_umpire,N Perera
+info,tv_umpire,Eloise Sheridan
+info,match_referee,JM Pereira
+info,winner,Pakistan
+info,winner_runs,70
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Javeria Khan
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Ayesha Naseem
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Aiman Anwer
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Delany
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,L Little
+info,player,Ireland,MV Waldron
+info,player,Ireland,L Paul
+info,player,Ireland,AN Kelly
+info,player,Ireland,C Murray
+info,player,Ireland,J Maguire
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AN Kelly,397369e0
+info,registry,people,Aiman Anwer,c736a96b
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Ayesha Naseem,8c2c0a03
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,C Murray,5a50471c
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,Javeria Khan,d921449d
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Little,4f86926b
+info,registry,people,L Paul,07248d8e
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N Janani,d06a665d
+info,registry,people,N Perera,129709f9
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Tuba Hassan,0d56e9a5

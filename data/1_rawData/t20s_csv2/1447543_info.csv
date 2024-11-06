@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Isle of Man
+info,gender,female
+info,season,2024
+info,date,2024/08/21
+info,event,Women's Valletta Cup
+info,match_number,1
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Isle of Man
+info,toss_decision,field
+info,player_of_match,C Perry
+info,umpire,S Gowda
+info,umpire,Vinay Malhotra
+info,reserve_umpire,S Fernando
+info,winner,Isle of Man
+info,winner_wickets,9
+info,player,Malta,S Cholasseri
+info,player,Malta,Aneeta Santhosh
+info,player,Malta,A Rameshan
+info,player,Malta,SM Arooja
+info,player,Malta,Sneha Shankar
+info,player,Malta,TRR Sharfudheen
+info,player,Malta,Likitha Yadav
+info,player,Malta,S Khatri
+info,player,Malta,S Iushchenko
+info,player,Malta,T Sarada
+info,player,Malta,Bibina Baby
+info,player,Isle of Man,L Barnett
+info,player,Isle of Man,A Littlejohns
+info,player,Isle of Man,C Henery
+info,player,Isle of Man,K Carney
+info,player,Isle of Man,S Hassall
+info,player,Isle of Man,A Thorpe
+info,player,Isle of Man,C Perry
+info,player,Isle of Man,D Murphy
+info,player,Isle of Man,E Cleator
+info,player,Isle of Man,J Hicks
+info,player,Isle of Man,R Webster
+info,registry,people,A Littlejohns,3498a188
+info,registry,people,A Rameshan,f0f9d832
+info,registry,people,A Thorpe,6c54bd7a
+info,registry,people,Aneeta Santhosh,2031e9c8
+info,registry,people,Bibina Baby,9edc0abb
+info,registry,people,C Henery,03d9e80f
+info,registry,people,C Perry,152d3c9d
+info,registry,people,D Murphy,c4f42529
+info,registry,people,E Cleator,9c94176e
+info,registry,people,J Hicks,802febe2
+info,registry,people,K Carney,7097b37e
+info,registry,people,L Barnett,d9a2345a
+info,registry,people,Likitha Yadav,1a9a6b15
+info,registry,people,R Webster,cdfb59b8
+info,registry,people,S Cholasseri,66e189ac
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Hassall,39f23bd0
+info,registry,people,S Iushchenko,ce192a4c
+info,registry,people,S Khatri,e93f9604
+info,registry,people,SM Arooja,59decd79
+info,registry,people,Sneha Shankar,dc6eced9
+info,registry,people,T Sarada,f76f673e
+info,registry,people,TRR Sharfudheen,8a5b0066
+info,registry,people,Vinay Malhotra,452837d1

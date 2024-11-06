@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Denmark
+info,gender,male
+info,season,2023
+info,date,2023/05/18
+info,event,Nordic T20 Cup
+info,match_number,1
+info,venue,"Svanholm Park, Brondby"
+info,city,Brondby
+info,toss_winner,Norway
+info,toss_decision,bat
+info,player_of_match,ND Laegsgaard
+info,umpire,A From-Hansen
+info,umpire,Fareedoon Bhatti
+info,winner,Denmark
+info,winner_wickets,9
+info,player,Norway,Raza Iqbal
+info,player,Norway,Nouman Butt
+info,player,Norway,Chaudhary Akram
+info,player,Norway,Ali Saleem
+info,player,Norway,D Abeyrathna
+info,player,Norway,Javed Maroofkhail
+info,player,Norway,Sher Sahak
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Junaid Mehmood
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,Vinay Ravi
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,HAM Shah
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,Lucky Ali
+info,player,Denmark,Surya Anand
+info,player,Denmark,SA Ahmad
+info,player,Denmark,Saud Munir
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,OD Hald
+info,registry,people,A From-Hansen,d60640f9
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,Ali Saleem,661e8a03
+info,registry,people,Chaudhary Akram,3e697d4a
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Fareedoon Bhatti,534c3dbe
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Javed Maroofkhail,909d9fac
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,Lucky Ali,28b032ac
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,Nouman Butt,6d99dc44
+info,registry,people,OD Hald,38189be1
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,Vinay Ravi,9c181b99

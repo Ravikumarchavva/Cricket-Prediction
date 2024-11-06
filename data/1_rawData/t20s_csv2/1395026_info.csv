@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Netherlands
+info,gender,female
+info,season,2023
+info,date,2023/09/06
+info,event,ICC Women's T20 World Cup Europe Region Qualifier
+info,match_number,1
+info,venue,"Desert Springs Cricket Ground, Almeria"
+info,city,Almeria
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,IJR Zwilling
+info,umpire,Adnan Khan
+info,umpire,HE Kearns
+info,reserve_umpire,Rizwan Akram
+info,match_referee,DT Jukes
+info,winner,Netherlands
+info,winner_wickets,8
+info,player,France,IY Mckeon
+info,player,France,L Wykes-Templeman
+info,player,France,PC McGeown
+info,player,France,ME Violleau
+info,player,France,AL Seddon
+info,player,France,TE Britton
+info,player,France,Emma Patel
+info,player,France,A Bester
+info,player,France,DL Graham
+info,player,France,Ganesh Pooja
+info,player,France,PKM Mahawattage
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,C de Lange
+info,player,Netherlands,I van der Woning
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,MM Dekeling
+info,player,Netherlands,CH van Koolwijk
+info,registry,people,A Bester,047d293e
+info,registry,people,AL Seddon,d12ec7b3
+info,registry,people,Adnan Khan,45ec7a99
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CH van Koolwijk,27d5901c
+info,registry,people,DL Graham,907e30d9
+info,registry,people,DT Jukes,7c215d14
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,Emma Patel,030a38e0
+info,registry,people,Ganesh Pooja,ab144207
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,I van der Woning,5aa8574b
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,IY Mckeon,59ff3c57
+info,registry,people,L Wykes-Templeman,46c9b2bc
+info,registry,people,ME Violleau,69f47625
+info,registry,people,MM Dekeling,983a0c34
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,PC McGeown,1aabd6fc
+info,registry,people,PKM Mahawattage,a413b433
+info,registry,people,R Rijke,42e4b276
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,TE Britton,5eceeb7f

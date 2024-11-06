@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Qatar
+info,gender,male
+info,season,2024
+info,date,2024/04/12
+info,event,ACC Men's Premier Cup
+info,match_number,4
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+info,city,Al Amarat
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,Nizakat Khan
+info,umpire,N D'Souza
+info,umpire,V Kalidas
+info,reserve_umpire,VK Jha
+info,tv_umpire,Vinod Babu
+info,match_referee,Hamim Khan
+info,winner,Hong Kong
+info,winner_runs,26
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Dhananjay Rao
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Kamran Khan
+info,player,Qatar,Amir Farooq
+info,player,Qatar,H Rathod
+info,player,Qatar,Ikramullah Khan
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Musawar Shah
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Dhananjay Rao,6a11facf
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,H Rathod,1f943bef
+info,registry,people,Hamim Khan,f82540a3
+info,registry,people,Ikramullah Khan,c6e1354c
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Musawar Shah,d482c8b8
+info,registry,people,N D'Souza,4b7f60af
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Vinod Babu,37e6187d
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Lesotho
+info,gender,female
+info,season,2024
+info,date,2024/04/25
+info,event,BCA Kalahari Women's T20 International Tournament
+info,match_number,10
+info,venue,"Botswana Cricket Association Oval 2, Gaborone"
+info,city,Gaborone
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,T Shadrack
+info,umpire,Imran Zakir
+info,umpire,L Msemburi
+info,reserve_umpire,Justine Muzungu
+info,winner,Botswana
+info,winner_runs,100
+info,player,Botswana,T Shadrack
+info,player,Botswana,O Kgeresi
+info,player,Botswana,L Mophakedi
+info,player,Botswana,P Mapotsane
+info,player,Botswana,G Matome
+info,player,Botswana,K Inakale
+info,player,Botswana,O Keitsemang
+info,player,Botswana,M Dipogiso
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,T Moitoi
+info,player,Botswana,L Kooagile
+info,player,Lesotho,T Kobeli
+info,player,Lesotho,M Mokoatsela
+info,player,Lesotho,T Khabo
+info,player,Lesotho,KM Molapo
+info,player,Lesotho,MM Mabathoana
+info,player,Lesotho,K Mohanoe
+info,player,Lesotho,B Phelenyane
+info,player,Lesotho,MA Tsemane
+info,player,Lesotho,NM Mokhachane
+info,player,Lesotho,MA Nyabela
+info,player,Lesotho,R Limema
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,B Phelenyane,c982ad6f
+info,registry,people,G Matome,a6898f7a
+info,registry,people,Imran Zakir,0071171d
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,K Inakale,eea862f6
+info,registry,people,K Mohanoe,bf1f5ab0
+info,registry,people,KM Molapo,dc5934a6
+info,registry,people,L Kooagile,88c742fb
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,L Msemburi,ef6037f8
+info,registry,people,M Dipogiso,4d4105dc
+info,registry,people,M Mokoatsela,fc32e121
+info,registry,people,MA Nyabela,261fddca
+info,registry,people,MA Tsemane,71eb9780
+info,registry,people,MM Mabathoana,fb432bd3
+info,registry,people,NM Mokhachane,6083f332
+info,registry,people,O Keitsemang,5145239b
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,R Limema,95fdfe7e
+info,registry,people,T Khabo,7be9cb29
+info,registry,people,T Kobeli,10f52b3a
+info,registry,people,T Moitoi,c916fe60
+info,registry,people,T Shadrack,6d972d02

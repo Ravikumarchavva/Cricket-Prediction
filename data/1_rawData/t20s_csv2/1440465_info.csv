@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Australia
+info,gender,male
+info,season,2024
+info,date,2024/09/07
+info,event,Australia tour of Scotland
+info,match_number,3
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,C Green
+info,umpire,DH Mclean
+info,umpire,Ryan Milne
+info,reserve_umpire,I McDonald
+info,match_referee,RB Richardson
+info,winner,Australia
+info,winner_wickets,6
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,MRJ Watt
+info,player,Scotland,J Jarvis
+info,player,Scotland,CB Sole
+info,player,Scotland,SM Sharif
+info,player,Scotland,BJ Currie
+info,player,Australia,TM Head
+info,player,Australia,J Fraser-McGurk
+info,player,Australia,MR Marsh
+info,player,Australia,C Green
+info,player,Australia,TH David
+info,player,Australia,AM Hardie
+info,player,Australia,MP Stoinis
+info,player,Australia,JP Inglis
+info,player,Australia,C Connolly
+info,player,Australia,SA Abbott
+info,player,Australia,A Zampa
+info,registry,people,A Zampa,14f96089
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,C Connolly,fe366f34
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CB Sole,469ccead
+info,registry,people,DH Mclean,281d4749
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,J Jarvis,ab54f9e7
+info,registry,people,JP Inglis,989889ff
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2

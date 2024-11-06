@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Tanzania
+info,gender,male
+info,season,2023
+info,date,2023/08/24
+info,event,East Africa Cup
+info,match_number,8
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,K Waiswa
+info,umpire,EH Dusabemungu
+info,umpire,Maryyam Sheikh
+info,reserve_umpire,Vicky Prajapati
+info,winner,Uganda
+info,winner_runs,60
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Lutaaya
+info,player,Uganda,RB Patel
+info,player,Uganda,AR Ramjani
+info,player,Uganda,K Waiswa
+info,player,Uganda,J Sebanja
+info,player,Uganda,B Masaba
+info,player,Uganda,CN Kakuru
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,Bilal Hassun
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,Shaik Basha
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,YM Nkanya
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,EH Dusabemungu,ba3b4b09
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Sebanja,1e78c51c
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Maryyam Sheikh,4ae530cf
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Shaik Basha,1b77c4c6
+info,registry,people,Vicky Prajapati,8926ed4e
+info,registry,people,YM Nkanya,9238dd92

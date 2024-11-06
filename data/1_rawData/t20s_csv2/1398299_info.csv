@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Papua New Guinea
+info,gender,male
+info,season,2023
+info,date,2023/09/23
+info,event,Malaysia Tri-Nation T20I Series
+info,match_number,5
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,J Kariko
+info,umpire,L Poobalan
+info,umpire,V Kalidas
+info,reserve_umpire,Mathan Kumar
+info,match_referee,Suresh Singh
+info,winner,Papua New Guinea
+info,winner_wickets,4
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Aslam Khan
+info,player,Malaysia,Rizwan Haider
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,N Pokana
+info,player,Papua New Guinea,M Charlie
+info,registry,people,A Vala,72e60730
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Aslam Khan,31080a88
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,J Kariko,cde067e1
+info,registry,people,K Doriga,365229a8
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,M Charlie,4631be71
+info,registry,people,Mathan Kumar,da596754
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,N Pokana,87a92b6b
+info,registry,people,N Vanua,a36915ce
+info,registry,people,R Hekure,c70448aa
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Suresh Singh,073de6f9
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d

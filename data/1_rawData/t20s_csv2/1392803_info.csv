@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Bahrain
+info,gender,male
+info,season,2023
+info,date,2023/09/15
+info,event,Gulf Cricket T20I Championship
+info,match_number,2
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,H Rathod
+info,umpire,Imran Mustafa
+info,umpire,Shiju Sam
+info,reserve_umpire,Muhammad Usman (2)
+info,tv_umpire,Rahat Ali Chaudhry
+info,match_referee,Shivani Mishra
+info,winner,Qatar
+info,winner_runs,19
+info,method,D/L
+info,player,Qatar,I Liyanage
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,MM Baig
+info,player,Qatar,Muhammad Murad
+info,player,Qatar,H Rathod
+info,player,Qatar,Uzair Amir
+info,player,Qatar,Bukhar Illikkal
+info,player,Qatar,Bipin Kumar
+info,player,Qatar,Muhammad Jabir
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Yasser Nazir
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Mohsin Zaki
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Ali Dawood
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Bipin Kumar,c821e504
+info,registry,people,Bukhar Illikkal,f4a2d087
+info,registry,people,H Rathod,1f943bef
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Mustafa,f11bc2ff
+info,registry,people,MM Baig,add288ea
+info,registry,people,Mohsin Zaki,09c766ec
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Murad,df3947f4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Muhammad Usman,05b35689
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Uzair Amir,441c1b67
+info,registry,people,Yasser Nazir,ccceaca9

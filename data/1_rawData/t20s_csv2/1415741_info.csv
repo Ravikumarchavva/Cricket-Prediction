@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,United States of America
+info,gender,male
+info,season,2024
+info,date,2024/06/19
+info,event,ICC Men's T20 World Cup
+info,match_number,41
+info,venue,"Sir Vivian Richards Stadium, North Sound, Antigua"
+info,city,North Sound
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,Q de Kock
+info,umpire,CB Gaffaney
+info,umpire,RA Kettleborough
+info,reserve_umpire,L Rusere
+info,tv_umpire,JS Wilson
+info,match_referee,RS Madugalle
+info,winner,South Africa
+info,winner_runs,18
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,DA Miller
+info,player,South Africa,H Klaasen
+info,player,South Africa,T Stubbs
+info,player,South Africa,M Jansen
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,T Shamsi
+info,player,United States of America,SR Taylor
+info,player,United States of America,AGS Gous
+info,player,United States of America,NR Kumar
+info,player,United States of America,Aaron Jones
+info,player,United States of America,CJ Anderson
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,Ali Khan
+info,player,United States of America,SN Netravalkar
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,T Shamsi,a03bba42
+info,registry,people,T Stubbs,85b3fab2

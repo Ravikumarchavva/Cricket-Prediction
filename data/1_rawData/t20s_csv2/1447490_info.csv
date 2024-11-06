@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mongolia
+info,team,Singapore
+info,gender,male
+info,season,2024
+info,date,2024/09/05
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,14
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Singapore
+info,toss_decision,field
+info,player_of_match,H Bharadwaj
+info,umpire,Faisal Afridi
+info,umpire,V Kalidas
+info,reserve_umpire,Shiju Sam
+info,match_referee,V Narayan Kutty
+info,winner,Singapore
+info,winner_wickets,9
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,S Natsagdorj
+info,player,Mongolia,D Jamyansuren
+info,player,Mongolia,S Gantulga
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,T Tumursukh
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,Z Shurentsetseg
+info,player,Mongolia,T Batjargal
+info,player,Mongolia,E Batkhuyag
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,WA Simpson
+info,player,Singapore,R Sharma
+info,player,Singapore,Aman Desai
+info,player,Singapore,R Sheshadri
+info,player,Singapore,S Chandramohan
+info,player,Singapore,A Mutreja
+info,player,Singapore,A Kaul
+info,player,Singapore,R Kalimuthu
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,AR Puri
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,A Mutreja,a2ec22d2
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,D Jamyansuren,6ad7d184
+info,registry,people,E Batkhuyag,1c366af1
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,G Ganbold,947346d8
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Sharma,2278c4ca
+info,registry,people,R Sheshadri,d4aa2ddb
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,S Gantulga,8d995b86
+info,registry,people,S Natsagdorj,b3f47a20
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Batjargal,f75d4a8d
+info,registry,people,T Tumursukh,4758488e
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,WA Simpson,6de0f650
+info,registry,people,Z Shurentsetseg,45c6afaf

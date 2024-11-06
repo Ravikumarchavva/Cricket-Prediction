@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Malaysia
+info,gender,female
+info,season,2023
+info,date,2023/06/01
+info,event,Nepal Women tour of Malaysia
+info,match_number,3
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,RC Belbashi
+info,umpire,Izmir Azraf
+info,umpire,Rudy Ismandy
+info,reserve_umpire,Shafizan Shahriman
+info,match_referee,Edwin Seah
+info,winner,Nepal
+info,winner_runs,27
+info,player,Nepal,K Kunwar
+info,player,Nepal,SR Magar
+info,player,Nepal,J Pandey
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,K Joshi
+info,player,Nepal,B Rawal
+info,player,Nepal,A Karmacharya
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,K Shrestha
+info,player,Nepal,I Bist
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Nur Dania Syuhada
+info,player,Malaysia,SM Dhanusri
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Nik Nur Atiela
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,I Barma,521abce2
+info,registry,people,I Bist,beccd5a1
+info,registry,people,Izmir Azraf,43c90923
+info,registry,people,J Pandey,e1214f03
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,Nik Nur Atiela,cfdfe39c
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,SM Dhanusri,4e4d2c20
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,Shafizan Shahriman,6fb7e24b
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c

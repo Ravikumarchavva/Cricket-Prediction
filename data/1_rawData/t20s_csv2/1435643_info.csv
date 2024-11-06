@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Cameroon
+info,gender,female
+info,season,2024
+info,date,2024/06/07
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,27
+info,venue,Gahanga International Cricket Stadium. Rwanda
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,P Alako
+info,umpire,Gaston Niyibizi
+info,umpire,T Musakwa
+info,reserve_umpire,Gasana Christian
+info,winner,Uganda
+info,winner_runs,95
+info,player,Uganda,Mohammed Jimia
+info,player,Uganda,P Alako
+info,player,Uganda,P Timong
+info,player,Uganda,L Anyait
+info,player,Uganda,A Akurut
+info,player,Uganda,J Mbabazi
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,R Musamali
+info,player,Uganda,S Nampiina
+info,player,Uganda,M Ariokot
+info,player,Uganda,I Nandera
+info,player,Cameroon,JAN Ngono
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,B Waluma
+info,player,Cameroon,BMA Mbida
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,SA Nono
+info,player,Cameroon,CSN Mbelel
+info,player,Cameroon,CN Messina
+info,player,Cameroon,E Guehoada
+info,registry,people,A Akurut,b93b7337
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,BMA Mbida,e3c23cef
+info,registry,people,CN Messina,1afd0d5c
+info,registry,people,CSN Mbelel,1669ba8a
+info,registry,people,E Guehoada,8c03f3b8
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,Gasana Christian,f5d91a1f
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,I Nandera,a91772c4
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,JAN Ngono,0bc162c4
+info,registry,people,L Anyait,cffeef53
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,Mohammed Jimia,01fa12c1
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Timong,121b6ac9
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,SA Nono,f6019e5d
+info,registry,people,T Musakwa,5f925536
+info,registry,people,TMA Leslie,c7fa1e4c
