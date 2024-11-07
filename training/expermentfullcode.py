@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 # Load the data using polars
-directory = r'D:\github\Cricket-prediction\data\filteredData'
+directory = r'D:\github\Cricket-prediction\data\4_filteredData'
 balltoball = pl.read_csv(os.path.join(directory, 'balltoball.csv'))
 teamStats = pl.read_csv(os.path.join(directory, 'team12Stats.csv'))
 playersStats = pl.read_csv(os.path.join(directory, 'playersStats.csv'))

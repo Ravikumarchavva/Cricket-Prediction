@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
 # Load the data using polars
-directory = r'D:\github\Cricket-prediction\data\filteredData'
+directory = r'D:\github\Cricket-prediction\data\4_filteredData'
 balltoball = pl.read_csv(os.path.join(directory, 'balltoball.csv'))
 teamStats = pl.read_csv(os.path.join(directory, 'team12Stats.csv'))
 playersStats = pl.read_csv(os.path.join(directory, 'playersStats.csv'))
@@ -126,7 +126,7 @@ class TeamStatsModel(nn.Module):
         return self.model(x)
 
 class PlayerStatsModel(nn.Module):
-    def __init__(self, input_size):
+    def __init__(self, input_size, seq_len):
         super(PlayerStatsModel, self).__init__()
         self.conv1 = nn.Conv1d(in_channels=input_size, out_channels=32, kernel_size=3)
         self.bn1 = nn.BatchNorm1d(32)
@@ -135,7 +135,7 @@ class PlayerStatsModel(nn.Module):
         self.bn2 = nn.BatchNorm1d(64)
         self.pool2 = nn.MaxPool1d(2)
         self.flatten = nn.Flatten()
-        self.fc = nn.Linear(64 * ((input_size - 4) // 4), 16)
+        self.fc = nn.Linear(64 * ((seq_len - 4) // 4), 16)  # Adjust input size dynamically
 
     def forward(self, x):
         x = x.permute(0, 2, 1)  # Convert to (batch, channels, seq_len)
@@ -165,10 +165,10 @@ class BallToBallModel(nn.Module):
         return x
 
 class CombinedModel(nn.Module):
-    def __init__(self, team_input_size, player_input_size, ball_input_dim):
+    def __init__(self, team_input_size, player_input_size, player_seq_len, ball_input_dim):
         super(CombinedModel, self).__init__()
         self.team_model = TeamStatsModel(team_input_size)
-        self.player_model = PlayerStatsModel(player_input_size)
+        self.player_model = PlayerStatsModel(player_input_size, player_seq_len)
         self.ball_model = BallToBallModel(ball_input_dim)
         self.fc = nn.Sequential(
             nn.Linear(16+16+16, 64),
@@ -195,9 +195,10 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 # Initialize the model
 team_input_size = team_stats_partitions[0].shape[1]
 player_input_size = player_stats_partitions[0].shape[1]
+player_seq_len = player_stats_partitions[0].shape[0]  # Sequence length for player stats
 ball_input_dim = ball_stats_partitions[0].shape[1] - 1  # Exclude label
 
-model = CombinedModel(team_input_size, player_input_size, ball_input_dim).to(device)  # Move model to GPU
+model = CombinedModel(team_input_size, player_input_size, player_seq_len, ball_input_dim).to(device)  # Move model to GPU
 
 # Define the optimizer and loss function
 optimizer = optim.Adam(model.parameters(), lr=0.0001, weight_decay=1e-5)  # Weight decay for regularization
