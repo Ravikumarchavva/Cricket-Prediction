@@ -1,4 +1,3 @@
-
 import logging
 from pyspark.sql.functions import when, col, regexp_extract, sum as spark_sum, row_number, round
 from pyspark.sql import Window

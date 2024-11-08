@@ -1,4 +1,3 @@
-
 import logging
 
 def join_data(batting_data, bowling_data, fielding_data):
