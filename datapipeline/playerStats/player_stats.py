@@ -1,19 +1,28 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 import os
+import logging
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import (
     when, col, regexp_extract, sum as spark_sum, row_number, round, isnan, count
 )
 from pyspark.sql import Window
 
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 def create_spark_session():
     """Create and return a Spark session."""
-    return SparkSession.builder.appName("PlayerStats").getOrCreate()
+    logging.info("Creating Spark session.")
+    return SparkSession.builder \
+        .appName("PlayerStats") \
+        .master("spark://192.168.245.142:7077") \
+        .config("spark.executor.memory", "2g") \
+        .config("spark.executor.cores", "2") \
+        .config("spark.cores.max", "4") \
+        .getOrCreate()
 
 def load_data(spark, data_dir, filename):
     """Load CSV data."""
+    logging.info(f"Loading data from {filename}.")
     return spark.read.csv(
         os.path.join(data_dir, filename),
         header=True,
@@ -22,6 +31,7 @@ def load_data(spark, data_dir, filename):
 
 def preprocess_batting_data(batting_data):
     """Clean and preprocess the batting data."""
+    logging.info("Preprocessing batting data.")
     batting_data = batting_data.select(
         "Player", "Season", "Mat", "Inns", "Runs", "SR", "Ave"
     ).sort("Player", "Season")
@@ -90,6 +100,7 @@ def preprocess_batting_data(batting_data):
 
 def preprocess_bowling_data(bowling_data):
     """Clean and preprocess the bowling data."""
+    logging.info("Preprocessing bowling data.")
     bowling_data = bowling_data.select(
         "Player", "Season", "Mat", "Inns", 'Overs', "Runs", "Wkts", "Econ"
     ).sort("Player", "Season")
@@ -146,6 +157,7 @@ def preprocess_bowling_data(bowling_data):
 
 def preprocess_fielding_data(fielding_data):
     """Clean and preprocess the fielding data."""
+    logging.info("Preprocessing fielding data.")
     fielding_data = fielding_data.select(
         ['Player', "Mat", "Inns", "Dis", "Ct", "St", "D/I", "Season"]
     ).sort(["Player", "Season"])
@@ -201,26 +213,46 @@ def preprocess_fielding_data(fielding_data):
 
 def map_country_codes(df, country_codes):
     """Map country codes to full country names and filter data."""
+    logging.info("Mapping country codes to full country names.")
     df = df.filter(col('Country').isin(list(country_codes.keys())))
     df = df.replace(country_codes, subset=['Country'])
     return df
 
 def load_players_data(spark, data_dir):
     """Load players data."""
+    logging.info("Loading players data.")
     players_data = load_data(spark, data_dir, 'Players.csv')
     players_data = players_data.withColumnRenamed("player", "Player").withColumnRenamed("country", "Country")
     return players_data
 
-def save_data(df, data_dir, filename):
-    """Save DataFrame to CSV."""
-    output_path = os.path.join(data_dir, filename)
-    df.toPandas().to_csv(output_path, index=False)
+def save_data(df, hdfs_dir, filename):
+    """Save DataFrame to HDFS as CSV."""
+    logging.info(f"Saving data to {filename} in HDFS.")
+    output_path = os.path.join(hdfs_dir, filename)
+    temp_output_path = os.path.join(hdfs_dir, "temp_" + filename)
+    try:
+        # Coalesce to a single partition and write the Spark DataFrame to HDFS as CSV
+        df.coalesce(1).write.csv(temp_output_path, header=True, mode='overwrite')
+        
+        # Rename the part file to the desired filename
+        temp_file = os.path.join(temp_output_path, os.listdir(temp_output_path)[0])
+        final_output_path = os.path.join(hdfs_dir, filename)
+        os.rename(temp_file, final_output_path)
+        
+        # Remove the temporary directory
+        os.rmdir(temp_output_path)
+        
+        logging.info(f"Data saved successfully to {filename} in HDFS.")
+    except Exception as e:
+        logging.error(f"An error occurred while saving data to {filename} in HDFS: {e}")
 
 def main():
+    spark = None
     try:
+        logging.info("Starting main process.")
         spark = create_spark_session()
-        # Update base_dir to point to the project's root directory
-        base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
+        # Update base_dir to point to the project's root directory in HDFS
+        base_dir = "hdfs://namenode:8020/user/yourusername/project"
         raw_data_dir = os.path.join(base_dir, 'data', '1_rawData')
         processed_data_dir = os.path.join(base_dir, 'data', '2_processedData')
 
@@ -254,15 +286,19 @@ def main():
         bowling_data = bowling_data.join(players_data, ['Player', 'Country'], 'inner')
         fielding_data = fielding_data.join(players_data, ['Player', 'Country'], 'inner')
 
-        # Save the processed data to CSV
+        # Save the processed data to HDFS
         save_data(batting_data, processed_data_dir, 'batting.csv')
         save_data(bowling_data, processed_data_dir, 'bowling.csv')
         save_data(fielding_data, processed_data_dir, 'fielding.csv')
 
+        logging.info("Main process completed successfully.")
+
     except Exception as e:
-        print(f"An error occurred: {e}")
+        logging.error(f"An error occurred: {e}")
     finally:
-        spark.stop()
+        if spark:
+            spark.stop()
+            logging.info("Spark session stopped.")
 
 if __name__ == "__main__":
     main()
