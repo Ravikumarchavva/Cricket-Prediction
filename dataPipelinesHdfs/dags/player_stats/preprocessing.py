@@ -1,5 +1,8 @@
+
 import logging
-from pyspark.sql.functions import when, col, regexp_extract, sum as spark_sum, row_number, round
+from pyspark.sql.functions import (
+    when, col, regexp_extract, sum as spark_sum, row_number, round
+)
 from pyspark.sql import Window
 
 def preprocess_batting_data(batting_data):
@@ -123,8 +126,7 @@ def preprocess_bowling_data(bowling_data):
         ).drop("row_num")
 
     bowling_data = bowling_data.select(
-        ["Player", "Country", "Season", "Cumulative Mat", "Cumulative Inns", "Cumulative Overs",
-         "Cumulative Runs", "Cumulative Wkts", "Cumulative Econ"]
+        ["Player", "Country", "Season", "Cumulative Mat", "Cumulative Inns", "Cumulative Overs", "Cumulative Runs", "Cumulative Wkts", "Cumulative Econ"]
     )
 
     return bowling_data
@@ -180,8 +182,14 @@ def preprocess_fielding_data(fielding_data):
         ).drop("row_num")
 
     fielding_data = fielding_data.select(
-        ['Player', 'Country', 'Season', 'Cumulative Mat', 'Cumulative Inns', 'Cumulative Dis',
-         'Cumulative Ct', 'Cumulative St', 'Cumulative D/I']
+        ['Player', 'Country', 'Season', 'Cumulative Mat', 'Cumulative Inns', 'Cumulative Dis', 'Cumulative Ct', 'Cumulative St', 'Cumulative D/I']
     )
 
     return fielding_data
+
+def map_country_codes(df, country_codes):
+    """Map country codes to full country names and filter data."""
+    logging.info("Mapping country codes to full country names.")
+    df = df.filter(col('Country').isin(list(country_codes.keys())))
+    df = df.replace(country_codes, subset=['Country'])
+    return df
