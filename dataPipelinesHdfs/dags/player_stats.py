@@ -1,5 +1,6 @@
 from airflow import DAG
 from airflow.operators.python_operator import PythonOperator
+from airflow.sensors.external_task_sensor import ExternalTaskSensor
 from datetime import datetime, timedelta
 import os
 import sys
@@ -28,6 +29,13 @@ dag = DAG(
     max_active_runs=1,
 )
 
+wait_for_scrape_espn_stats = ExternalTaskSensor(
+    task_id='wait_for_scrape_espn_stats',
+    external_dag_id='source_dag',
+    external_task_id='scrape_espn_stats',
+    dag=dag,
+)
+
 preprocess_batting_task = PythonOperator(
     task_id='preprocess_batting',
     python_callable=preprocess_batting,
@@ -53,4 +61,4 @@ combine_data_task = PythonOperator(
 )
 
 # Set task dependencies
-[preprocess_batting_task, preprocess_bowling_task, preprocess_fielding_task] >> combine_data_task
+wait_for_scrape_espn_stats >> [preprocess_batting_task, preprocess_bowling_task, preprocess_fielding_task] >> combine_data_task
