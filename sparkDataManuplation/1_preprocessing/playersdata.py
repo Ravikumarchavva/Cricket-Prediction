@@ -106,6 +106,7 @@ len(dataframes)/22,len(injured_matches)
 # In[9]:
 
 
+# Save dataframes to HDFS
 dataframes.to_csv(os.path.join(directory,"../../2_processedData/Matchplayers.csv"),index=False)
 
 
@@ -121,5 +122,6 @@ players
 # In[11]:
 
 
-players.write_csv(os.path.join(directory,'../../2_processedData/Players.csv'))
+# Save players to HDFS
+players.write_csv(os.path.join(directory, '../../2_processedData/Players.csv'))
 

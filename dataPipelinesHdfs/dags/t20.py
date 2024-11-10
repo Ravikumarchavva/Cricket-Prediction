@@ -10,8 +10,8 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 # Import the functions from the scripts
 from a_data_sources.cricksheet import download_cricsheet
 from a_data_sources.scrapping_esp import scrape_espn_stats
-from player_stats.tasks import preprocess_batting, preprocess_bowling, preprocess_fielding, combine_data
-from team_stats.tasks import process_players_data, process_deliveries_data, process_matches_data
+from b_data_preprocessing.stats.player_stats.tasks import preprocess_batting, preprocess_bowling, preprocess_fielding, combine_data
+from b_data_preprocessing.stats.team_stats.tasks import process_players_data, process_deliveries_data, process_matches_data
 
 default_args = {
     'owner': 'ravikumar',
@@ -21,7 +21,7 @@ default_args = {
     'retries': 0,
     'retry_delay': timedelta(minutes=5),
     'start_date': datetime(2024, 1, 10),
-}
+}   
 
 dag = DAG(
     't20_dag',
@@ -88,5 +88,5 @@ combine_data_task = PythonOperator(
 
 # Set task dependencies
 download_cricsheet_task >> [process_deliveries_task, process_matches_task]
-scrape_espn_stats_task >> [preprocess_batting_task, preprocess_bowling_task, preprocess_fielding_task] >> combine_data_task
+scrape_espn_stats_task >> [preprocess_batting_task, preprocess_bowling_task, preprocess_fielding_task, process_players_task] >> combine_data_task
 [process_matches_task, scrape_espn_stats_task] >> process_players_task
