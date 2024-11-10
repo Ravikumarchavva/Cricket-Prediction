@@ -4,6 +4,8 @@ import logging
 from hdfs import InsecureClient
 import asyncio
 import aiohttp
+import config
+import os
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -68,8 +70,8 @@ def scrape_espn_stats():
     }
     try:
         logging.info("Initializing HDFS client.")
-        client = InsecureClient('http://192.168.245.142:9870', user='ravikumar')
-        hdfs_path = '/usr/ravi/t20/data/1_rawData'  # Corrected path
+        client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
+        hdfs_path = os.path.join(config.RAW_DATA_DIR)
 
         logging.info("Starting scraping of team stats.")
         teams_tables = []

@@ -2,70 +2,77 @@ import os
 import pandas as pd
 from hdfs import InsecureClient
 import logging
+import config
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-try:
-    # Initialize HDFS client
-    client = InsecureClient('http://192.168.245.142:9870', user='ravikumr')
-    hdfs_data_path = '/usr/ravi/t20/data'
+def process_players_data():
 
-    # Check the contents of the directory on HDFS
-    logging.info(f'Checking contents of HDFS directory: {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}')
-    dir_contents = client.list(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
+    try:
+        # Initialize HDFS client
+        client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
+        hdfs_data_path = config.HDFS_BASE_DIR
 
-    # Find all CSV files in the specified directory
-    info_files = [f for f in dir_contents if f.endswith('_info.csv')]
-    logging.info(f'Found {len(info_files)} info files.')
+        # Check the contents of the directory on HDFS
+        logging.info(f'Checking contents of HDFS directory: {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}')
+        dir_contents = client.list(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
 
-    if len(info_files) == 0:
-        logging.warning(f'No info files found in {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}. Please check the directory and file permissions.')
+        # Find all CSV files in the specified directory
+        info_files = [f for f in dir_contents if f.endswith('_info.csv')]
+        logging.info(f'Found {len(info_files)} info files.')
 
-    dataframes = pd.DataFrame(columns=['country', 'player', 'player_id', 'season', 'match_id'])
-    injured_matches = []
+        if len(info_files) == 0:
+            logging.warning(f'No info files found in {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}. Please check the directory and file permissions.')
 
-    for info_file in info_files:
-        match_id = pd.to_numeric(info_file.split('/')[-1].split('_')[0])
+        dataframes = pd.DataFrame(columns=['country', 'player', 'player_id', 'season', 'match_id'])
+        injured_matches = []
+
+        for info_file in info_files:
+            match_id = pd.to_numeric(info_file.split('/')[-1].split('_')[0])
+            try:
+                with client.read(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2', info_file)) as reader:
+                    df = pd.read_csv(reader, header=None, names=['type', 'heading', 'subkey', 'players', 'player_id'], skipinitialspace=True).drop('type', axis=1)
+                players_df = df[df['heading'] == "player"].drop(['heading', 'player_id'], axis=1)
+                registry_df = df[df['heading'] == "registry"].drop('heading', axis=1)
+                merged_df = players_df.merge(registry_df[['players', 'player_id']], on='players', how='inner')
+                merged_df.rename(columns={'players': 'player', 'subkey': 'country'}, inplace=True)
+                season = df['subkey'][5]
+                merged_df['match_id'] = match_id
+                merged_df['season'] = season
+                if len(merged_df) != 22:
+                    raise Exception('Injured Match')
+                dataframes = pd.concat([dataframes, merged_df])
+            except Exception as e:
+                injured_matches.append(match_id)
+
+        logging.info(f'Processed all files. Injured matches: {injured_matches}')
+
+        # Save dataframes to HDFS
         try:
-            with client.read(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2', info_file)) as reader:
-                df = pd.read_csv(reader, header=None, names=['type', 'heading', 'subkey', 'players', 'player_id'], skipinitialspace=True).drop('type', axis=1)
-            players_df = df[df['heading'] == "player"].drop(['heading', 'player_id'], axis=1)
-            registry_df = df[df['heading'] == "registry"].drop('heading', axis=1)
-            merged_df = players_df.merge(registry_df[['players', 'player_id']], on='players', how='inner')
-            merged_df.rename(columns={'players': 'player', 'subkey': 'country'}, inplace=True)
-            season = df['subkey'][5]
-            merged_df['match_id'] = match_id
-            merged_df['season'] = season
-            if len(merged_df) != 22:
-                raise Exception('Injured Match')
-            dataframes = pd.concat([dataframes, merged_df])
+            with client.write(f'{hdfs_data_path}/2_processedData/match_players', encoding='utf-8', overwrite=True) as writer:
+                dataframes.to_csv(writer, index=False)
+            logging.info('Saved match_players.csv to HDFS.')
         except Exception as e:
-            injured_matches.append(match_id)
+            logging.error(f'Error saving match_players to HDFS: {e}')
+            raise
 
-    logging.info(f'Processed all files. Injured matches: {injured_matches}')
+        # Individual player's data
+        players = dataframes.drop('match_id', axis=1).drop_duplicates(subset=['player', 'country', 'player_id'])
 
-    # Save dataframes to HDFS
-    try:
-        with client.write(f'{hdfs_data_path}/2_processedData/Matchplayers.csv', encoding='utf-8', overwrite=True) as writer:
-            dataframes.to_csv(writer, index=False)
-        logging.info('Saved Matchplayers.csv to HDFS.')
+        # Save players to HDFS
+        try:
+            with client.write(f'{hdfs_data_path}/2_processedData/players.csv', encoding='utf-8', overwrite=True) as writer:
+                players.to_csv(writer, index=False)
+            logging.info('Saved players.csv to HDFS.')
+        except Exception as e:
+            logging.error(f'Error saving players.csv to HDFS: {e}')
+            raise
+
     except Exception as e:
-        logging.error(f'Error saving Matchplayers.csv to HDFS: {e}')
+        logging.critical(f'Critical error: {e}')
         raise
+    return
 
-    # Individual player's data
-    players = dataframes.drop('match_id', axis=1).drop_duplicates(subset=['player', 'country', 'player_id'])
-
-    # Save players to HDFS
-    try:
-        with client.write(f'{hdfs_data_path}/2_processedData/Players.csv', encoding='utf-8', overwrite=True) as writer:
-            players.to_csv(writer, index=False)
-        logging.info('Saved Players.csv to HDFS.')
-    except Exception as e:
-        logging.error(f'Error saving Players.csv to HDFS: {e}')
-        raise
-
-except Exception as e:
-    logging.critical(f'Critical error: {e}')
-    raise
+if __name__ == "__main__":
+    process_players_data()
