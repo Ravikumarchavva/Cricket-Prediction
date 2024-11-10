@@ -69,7 +69,7 @@ def scrape_espn_stats():
     try:
         logging.info("Initializing HDFS client.")
         client = InsecureClient('http://192.168.245.142:9870', user='ravikumar')
-        hdfs_path = '/usr/ravi/t20/data/1_rawData'
+        hdfs_path = '/usr/ravi/t20/data/1_rawData'  # Corrected path
 
         logging.info("Starting scraping of team stats.")
         teams_tables = []
@@ -100,8 +100,12 @@ def scrape_espn_stats():
             teams_table = pd.concat(teams_tables, ignore_index=True)
             teams_table.sort_values(by=['Team', 'Season'], ascending=False, inplace=True)
             teams_table.drop(columns=['Unnamed: 13'], axis=1, inplace=True)
-            with client.write(f'{hdfs_path}/t20_team_stats.csv', encoding='utf-8', overwrite=True) as writer:
-                teams_table.to_csv(writer, index=False)
+            try:
+                with client.write(f'{hdfs_path}/t20_team_stats.csv', encoding='utf-8', overwrite=True) as writer:
+                    teams_table.to_csv(writer, index=False)
+                logging.info("Finished writing team stats.")
+            except Exception as e:
+                logging.error(f"Error writing team stats to HDFS: {e}")
         else:
             logging.error("No team stats tables were scraped.")
 
@@ -112,27 +116,36 @@ def scrape_espn_stats():
         if not batting_table.empty:
             batting_table.sort_values(by=['Player', 'Season'], ascending=False, inplace=True)
             batting_table.drop(columns=[drop_columns['batting']], axis=1, inplace=True)
-            with client.write(f'{hdfs_path}/t20_batting_stats.csv', encoding='utf-8', overwrite=True) as writer:
-                batting_table.to_csv(writer, index=False)
-            logging.info("Finished scraping batting stats.")
+            try:
+                with client.write(f'{hdfs_path}/t20_batting_stats.csv', encoding='utf-8', overwrite=True) as writer:
+                    batting_table.to_csv(writer, index=False)
+                logging.info("Finished writing batting stats.")
+            except Exception as e:
+                logging.error(f"Error writing batting stats to HDFS: {e}")
         else:
             logging.error("No batting stats tables were scraped.")
 
         if not bowling_table.empty:
             bowling_table.sort_values(by=['Player', 'Season'], ascending=False, inplace=True)
             bowling_table.drop(columns=[drop_columns['bowling']], axis=1, inplace=True)
-            with client.write(f'{hdfs_path}/t20_bowling_stats.csv', encoding='utf-8', overwrite=True) as writer:
-                bowling_table.to_csv(writer, index=False)
-            logging.info("Finished scraping bowling stats.")
+            try:
+                with client.write(f'{hdfs_path}/t20_bowling_stats.csv', encoding='utf-8', overwrite=True) as writer:
+                    bowling_table.to_csv(writer, index=False)
+                logging.info("Finished writing bowling stats.")
+            except Exception as e:
+                logging.error(f"Error writing bowling stats to HDFS: {e}")
         else:
             logging.error("No bowling stats tables were scraped.")
 
         if not fielding_table.empty:
             fielding_table.sort_values(by=['Player', 'Season'], ascending=False, inplace=True)
             fielding_table.drop(columns=[drop_columns['fielding']], axis=1, inplace=True)
-            with client.write(f'{hdfs_path}/t20_fielding_stats.csv', encoding='utf-8', overwrite=True) as writer:
-                fielding_table.to_csv(writer, index=False)
-            logging.info("Finished scraping fielding stats.")
+            try:
+                with client.write(f'{hdfs_path}/t20_fielding_stats.csv', encoding='utf-8', overwrite=True) as writer:
+                    fielding_table.to_csv(writer, index=False)
+                logging.info("Finished writing fielding stats.")
+            except Exception as e:
+                logging.error(f"Error writing fielding stats to HDFS: {e}")
         else:
             logging.error("No fielding stats tables were scraped.")
     except Exception as e:
