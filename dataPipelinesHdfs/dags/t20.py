@@ -23,9 +23,15 @@ from b_data_preprocessing.tasks import (
     combine_data
 )
 
-sys.path.append('/path/to/modules')
-import config
+# Import merging tasks
+from c_data_merging.tasks import (
+    merge_matches_and_deliveries,
+    merge_match_team_stats,
+    merge_match_players_stats
+)
 
+# Import filtering tasks
+from d_data_filtering.tasks import filter_data
 default_args = {
     'owner': 'ravikumar',
     'depends_on_past': False,
@@ -97,16 +103,74 @@ with DAG(
         python_callable=combine_data,
     )
 
+    # Merging tasks
+    merge_matches_and_deliveries_task = PythonOperator(
+        task_id='merge_matches_and_deliveries',
+        python_callable=merge_matches_and_deliveries,
+    )
+
+    merge_match_team_stats_task = PythonOperator(
+        task_id='merge_match_team_stats',
+        python_callable=merge_match_team_stats,
+    )
+
+    merge_match_players_stats_task = PythonOperator(
+        task_id='merge_match_players_stats',
+        python_callable=merge_match_players_stats,
+    )
+
+    # Filtering tasks
+    filter_data_task = PythonOperator(
+        task_id='filter_data',
+        python_callable=filter_data,
+    )
+
     # Set task dependencies
+
+    # Define initial tasks
     [download_cricsheet_task, scrape_espn_stats_task]
 
+    # Tasks dependent on download_cricsheet_task
     download_cricsheet_task >> [
-        process_deliveries_task, process_matches_task, process_players_task
+        process_deliveries_task,
+        process_matches_task,
+        process_players_task
     ]
 
-    scrape_espn_stats_task >> process_players_task >> [
+    # Tasks dependent on scrape_espn_stats_task
+    scrape_espn_stats_task >> process_players_task
+
+    # Processing tasks dependent on process_players_task
+    process_players_task >> [
+        preprocess_batting_task,
+        preprocess_bowling_task,
+        preprocess_fielding_task,
+        preprocess_team_data_task
+    ]
+
+    # Combine data after all preprocessing tasks are completed
+    [
         preprocess_batting_task,
         preprocess_bowling_task,
         preprocess_fielding_task,
         preprocess_team_data_task
     ] >> combine_data_task
+
+    # Set dependencies for combine_data_task
+    combine_data_task >> [
+        merge_matches_and_deliveries_task,
+        merge_match_team_stats_task,
+        merge_match_players_stats_task
+    ]
+
+    # Ensure process_deliveries_task and process_matches_task are completed before merging
+    [process_deliveries_task, process_matches_task] >> merge_matches_and_deliveries_task
+    process_matches_task >> merge_match_team_stats_task 
+    process_players_task >> merge_match_players_stats_task
+
+    # Set filtering task dependencies
+    [
+        merge_matches_and_deliveries_task,
+        merge_match_team_stats_task,
+        merge_match_players_stats_task
+    ] >> filter_data_task

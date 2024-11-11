@@ -17,6 +17,12 @@ HDFS_BASE_DIR = '/usr/ravi/t20/data'
 # HDFS Data Paths
 RAW_DATA_DIR = os.path.join(HDFS_BASE_DIR, '1_rawData')
 PROCESSED_DATA_DIR = os.path.join(HDFS_BASE_DIR, '2_processedData')
+MERGED_DATA_DIR = os.path.join(HDFS_BASE_DIR, '3_mergedData')
+FILTERED_DATA_DIR = os.path.join(HDFS_BASE_DIR, '4_filteredData')
+
+# Day Filtering Configuration
+DAY_FILTER_COLUMN = 'day'
+DAY_FILTER_VALUE = 'Monday'  # Example value; adjust as needed
 
 # Spark Configuration
 SPARK_APP_NAME = 'T20Internationals'
