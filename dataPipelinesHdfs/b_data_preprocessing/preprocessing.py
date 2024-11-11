@@ -1,10 +1,22 @@
+"""Preprocessing utilities for cricket player statistics data."""
+
 import logging
-from pyspark.sql.functions import when, col, regexp_extract, sum as spark_sum, row_number, round
+from pyspark.sql.functions import (
+    when, col, regexp_extract, sum as spark_sum, row_number, round
+)
 from pyspark.sql import Window
 
 
 def preprocess_batting_data(batting_data):
-    """Clean and preprocess the batting data."""
+    """
+    Clean and preprocess batting statistics data.
+
+    Args:
+        batting_data: Spark DataFrame containing raw batting statistics
+
+    Returns:
+        Spark DataFrame with cleaned and processed batting statistics
+    """
     logging.info("Preprocessing batting data.")
     batting_data = batting_data.select(
         "Player", "Season", "Mat", "Inns", "Runs", "SR", "Ave"
@@ -73,7 +85,15 @@ def preprocess_batting_data(batting_data):
     return batting_data
 
 def preprocess_bowling_data(bowling_data):
-    """Clean and preprocess the bowling data."""
+    """
+    Clean and preprocess bowling statistics data.
+
+    Args:
+        bowling_data: Spark DataFrame containing raw bowling statistics
+
+    Returns:
+        Spark DataFrame with cleaned and processed bowling statistics
+    """
     logging.info("Preprocessing bowling data.")
     bowling_data = bowling_data.select(
         "Player", "Season", "Mat", "Inns", 'Overs', "Runs", "Wkts", "Econ"
@@ -130,7 +150,15 @@ def preprocess_bowling_data(bowling_data):
     return bowling_data
 
 def preprocess_fielding_data(fielding_data):
-    """Clean and preprocess the fielding data."""
+    """
+    Clean and preprocess fielding statistics data.
+
+    Args:
+        fielding_data: Spark DataFrame containing raw fielding statistics
+
+    Returns:
+        Spark DataFrame with cleaned and processed fielding statistics
+    """
     logging.info("Preprocessing fielding data.")
     fielding_data = fielding_data.select(
         ['Player', "Mat", "Inns", "Dis", "Ct", "St", "D/I", "Season"]
@@ -186,7 +214,16 @@ def preprocess_fielding_data(fielding_data):
     return fielding_data
 
 def map_country_codes(df, country_codes):
-    """Map country codes to full country names and filter data."""
+    """
+    Map country codes to full country names and filter data.
+
+    Args:
+        df: Spark DataFrame containing country codes
+        country_codes: Dictionary mapping country codes to full names
+
+    Returns:
+        Spark DataFrame with mapped country names
+    """
     logging.info("Mapping country codes to full country names.")
     df = df.filter(col('Country').isin(list(country_codes.keys())))
     df = df.replace(country_codes, subset=['Country'])

@@ -1,29 +1,37 @@
+"""Module for processing and combining player statistics across different aspects of cricket."""
+
 import os
 import logging
-from .preprocessing import preprocess_batting_data, preprocess_bowling_data, preprocess_fielding_data, map_country_codes
-
 import sys
+
+from .preprocessing import (
+    preprocess_batting_data,
+    preprocess_bowling_data,
+    preprocess_fielding_data,
+    map_country_codes
+)
+
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'utils'))
 from utils import create_spark_session, load_data, save_data, country_codes
 import config
 
 raw_data_dir = config.RAW_DATA_DIR
-processed_data_dir =config.PROCESSED_DATA_DIR
+processed_data_dir = config.PROCESSED_DATA_DIR
 country_codes = country_codes
 
-dfs_config = {    'spark.executor.memory': '2g',
+dfs_config = {
+    'spark.executor.memory': '2g',
     'spark.executor.cores': '2',
     'spark.cores.max': '6',
-    # Add HDFS-specific configurations
     'spark.hadoop.fs.defaultFS': config.HDFS_URI,
     'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',
     'spark.hadoop.fs.hdfs.client.use.datanode.hostname': 'true',
     'spark.hadoop.dfs.client.use.datanode.hostname': 'true'
 }
 
-
 def preprocess_batting():
+    """Process batting statistics and save to HDFS."""
     logging.info("Starting preprocess_batting task.")
     spark = create_spark_session("BattingStatsPreprocessing", dfs_config)
 
@@ -41,6 +49,7 @@ def preprocess_batting():
         logging.info("Spark session stopped.")
 
 def preprocess_bowling():
+    """Process bowling statistics and save to HDFS."""
     logging.info("Starting preprocess_bowling task.")
     spark = create_spark_session("BowlingStatsPreprocessing", dfs_config)
     try:
@@ -57,6 +66,7 @@ def preprocess_bowling():
         logging.info("Spark session stopped.")
 
 def preprocess_fielding():
+    """Process fielding statistics and save to HDFS."""
     logging.info("Starting preprocess_fielding task.")
     spark = create_spark_session("FieldingStatsPreprocessing", dfs_config)
 
@@ -74,6 +84,12 @@ def preprocess_fielding():
         logging.info("Spark session stopped.")
 
 def combine_data():
+    """
+    Combine batting, bowling, and fielding statistics into a single dataset.
+
+    Merges processed statistics from different aspects of the game and joins with
+    player information to create a comprehensive player statistics dataset.
+    """
     logging.info("Starting combine_data task.")
     spark = create_spark_session("CombinePlayerStats", dfs_config)
 

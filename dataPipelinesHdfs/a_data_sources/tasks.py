@@ -1,5 +1,7 @@
+"""Task definitions for data source operations."""
+
 import logging
-import sys
+import sys  # Moved to the top
 import os
 
 # Add parent directory to path
@@ -8,8 +10,9 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from a_data_sources.scrapping_esp import scrape_espn_stats as scrape_function
 from a_data_sources.cricksheet import download_cricsheet as download_function
 
+
 def scrape_espn_stats():
-    """Task wrapper for ESPN stats scraping"""
+    """Task wrapper for ESPN stats scraping."""
     logging.info("Starting ESPN stats scraping task")
     try:
         scrape_function()
@@ -18,8 +21,9 @@ def scrape_espn_stats():
         logging.error(f"Error in ESPN stats scraping task: {e}")
         raise
 
+
 def download_cricsheet():
-    """Task wrapper for Cricsheet data download"""
+    """Task wrapper for Cricsheet data download."""
     logging.info("Starting Cricsheet download task")
     try:
         download_function()

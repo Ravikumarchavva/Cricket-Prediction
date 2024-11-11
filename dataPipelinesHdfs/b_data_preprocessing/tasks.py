@@ -1,10 +1,20 @@
+"""Task definitions for data preprocessing operations."""
+
 import logging
 
 # Import preprocessing functions using relative imports
-from b_data_preprocessing.matches import preprocess_matches as process_matches_function
-from b_data_preprocessing.deliveries import preprocess_deliveries as process_deliveries_function
-from b_data_preprocessing.people import process_players_data as process_players_function
-from b_data_preprocessing.team_stats import preprocess_team_data as team_stats_function
+from b_data_preprocessing.matches import (
+    preprocess_matches as process_matches_function
+)
+from b_data_preprocessing.deliveries import (
+    preprocess_deliveries as process_deliveries_function
+)
+from b_data_preprocessing.people import (
+    process_players_data as process_players_function
+)
+from b_data_preprocessing.team_stats import (
+    preprocess_team_data as team_stats_function
+)
 from b_data_preprocessing.player_stats import (
     preprocess_batting as batting_stats_function,
     preprocess_bowling as bowling_stats_function,
@@ -17,7 +27,7 @@ from b_data_preprocessing.player_stats import (
 
 
 def process_players_data():
-    """Task wrapper for players data processing"""
+    """Task wrapper for players data processing."""
     logging.info("Starting players data processing task")
     try:
         process_players_function()
@@ -26,8 +36,9 @@ def process_players_data():
         logging.error(f"Error in players data processing task: {e}")
         raise
 
+
 def preprocess_matches():
-    """Task wrapper for matches data processing"""
+    """Task wrapper for matches data processing."""
     logging.info("Starting matches data processing task")
     try:
         process_matches_function()
@@ -36,8 +47,9 @@ def preprocess_matches():
         logging.error(f"Error in matches data processing task: {e}")
         raise
 
+
 def preprocess_deliveries():
-    """Task wrapper for deliveries data processing"""
+    """Task wrapper for deliveries data processing."""
     logging.info("Starting deliveries data processing task")
     try:
         process_deliveries_function()
@@ -46,8 +58,9 @@ def preprocess_deliveries():
         logging.error(f"Error in deliveries data processing task: {e}")
         raise
 
+
 def preprocess_team_data():
-    """Task wrapper for team stats data processing"""
+    """Task wrapper for team stats data processing."""
     logging.info("Starting team stats data processing task")
     try:
         team_stats_function()
@@ -56,8 +69,9 @@ def preprocess_team_data():
         logging.error(f"Error in team stats data processing task: {e}")
         raise
 
+
 def preprocess_batting():
-    """Task wrapper for batting stats data processing"""
+    """Task wrapper for batting stats data processing."""
     logging.info("Starting batting stats data processing task")
     try:
         batting_stats_function()
@@ -66,8 +80,9 @@ def preprocess_batting():
         logging.error(f"Error in batting stats data processing task: {e}")
         raise
 
+
 def preprocess_bowling():
-    """Task wrapper for bowling stats data processing"""
+    """Task wrapper for bowling stats data processing."""
     logging.info("Starting bowling stats data processing task")
     try:
         bowling_stats_function()
@@ -76,8 +91,9 @@ def preprocess_bowling():
         logging.error(f"Error in bowling stats data processing task: {e}")
         raise
 
+
 def preprocess_fielding():
-    """Task wrapper for fielding stats data processing"""
+    """Task wrapper for fielding stats data processing."""
     logging.info("Starting fielding stats data processing task")
     try:
         fielding_stats_function()
@@ -86,8 +102,9 @@ def preprocess_fielding():
         logging.error(f"Error in fielding stats data processing task: {e}")
         raise
 
+
 def combine_data():
-    """Task wrapper for combining player stats data"""
+    """Task wrapper for combining player stats data."""
     logging.info("Starting player stats data combining task")
     try:
         combine_stats_function()

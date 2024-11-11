@@ -1,9 +1,11 @@
+"""Module for processing player information from T20 cricket matches."""
+
 import os
+import sys
+import logging
 import pandas as pd
 from hdfs import InsecureClient
-import logging
 
-import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 import config
 
@@ -11,7 +13,17 @@ import config
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def process_players_data():
+    """
+    Process player information from match data files.
 
+    This function reads player information from match info files, processes them
+    to create two datasets:
+    1. match_players - containing player participation in each match
+    2. players - containing unique player records with their team information
+
+    Returns:
+        None
+    """
     try:
         # Initialize HDFS client
         client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
@@ -46,7 +58,7 @@ def process_players_data():
                 if len(merged_df) != 22:
                     raise Exception('Injured Match')
                 dataframes = pd.concat([dataframes, merged_df])
-            except Exception as e:
+            except Exception:
                 injured_matches.append(match_id)
 
         logging.info(f'Processed all files. Injured matches: {injured_matches}')

@@ -1,17 +1,38 @@
+"""Module for preprocessing ball-by-ball delivery data from T20 cricket matches.
+
+Handles the processing of delivery-level data including runs, wickets, and other
+ball-by-ball events in cricket matches.
+"""
+
 import os
 import logging
 from hdfs import InsecureClient
-from pyspark.sql.types import *
-from pyspark.sql.functions import col, sum, when
+from pyspark.sql.types import (
+    StructType, StructField, IntegerType,
+    StringType, FloatType
+)
+from pyspark.sql.functions import col, when
 
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'utils'))
-import config, utils
+import config
+import utils
+
 
 def preprocess_deliveries():
+    """
+    Process ball-by-ball delivery data from cricket matches.
+
+    Reads raw delivery data files, processes them to extract ball-by-ball
+    information including runs, wickets, and other events, and saves the
+    processed data to HDFS.
+
+    Returns:
+        None
+    """
     # Initialize logging
-    logging.basicConfig(level=logging.INFO, format='%(asctime%s - %(levelname)s - %(message)s')
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     try:
         # Initialize HDFS client
@@ -67,8 +88,14 @@ def preprocess_deliveries():
         deliveries_data = deliveries_data.fillna(0)
 
         # Convert specific columns to integer type
-        deliveries_data = deliveries_data.withColumn('noballs', when(col('noballs').isNull(), '0').otherwise(col('noballs')).cast(IntegerType()))
-        deliveries_data = deliveries_data.withColumn('penalty', when(col('penalty').isNull(), '0').otherwise(col('penalty')).cast(IntegerType()))
+        deliveries_data = deliveries_data.withColumn(
+            'noballs',
+            when(col('noballs').isNull(), '0').otherwise(col('noballs')).cast(IntegerType())
+        )
+        deliveries_data = deliveries_data.withColumn(
+            'penalty',
+            when(col('penalty').isNull(), '0').otherwise(col('penalty')).cast(IntegerType())
+        )
 
         columns = ['wicket_type', 'player_dismissed', 'other_wicket_type', 'other_player_dismissed']
         for column in columns:
@@ -76,7 +103,7 @@ def preprocess_deliveries():
 
         # Save Spark DataFrame to HDFS in CSV format
         try:
-            utils.save_data(deliveries_data, config.PROCESSED_DATA_DIR, 'deliveries.csv' )
+            utils.save_data(deliveries_data, config.PROCESSED_DATA_DIR, 'deliveries.csv')
             logging.info('Saved deliveries_csv to HDFS.')
         except Exception as e:
             logging.error(f'Error saving deliveries_csv to HDFS: {e}')
@@ -85,6 +112,7 @@ def preprocess_deliveries():
     except Exception as e:
         logging.critical(f'Critical error: {e}')
         raise
+
 
 if __name__ == '__main__':
     preprocess_deliveries()

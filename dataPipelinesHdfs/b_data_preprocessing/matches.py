@@ -1,3 +1,5 @@
+"""Module for preprocessing T20 cricket match data from raw files into structured format."""
+
 import os
 import logging
 import polars as pl
@@ -9,6 +11,16 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 import config
 
 def preprocess_matches():
+    """
+    Process raw match data files and create a structured matches dataset.
+
+    This function reads match info files from HDFS, processes them to extract
+    relevant match information such as teams, venue, and results, and saves
+    the processed data back to HDFS in CSV format.
+
+    Returns:
+        None
+    """
     # Initialize logging
     logging.basicConfig(level=logging.WARN, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -84,7 +96,7 @@ def preprocess_matches():
                 # Select the required columns and append to matches_data
                 match_transposed = match_transposed.select(final_schema_dict.keys())
                 matches_data = matches_data.vstack(match_transposed)
-            except Exception as e:
+            except Exception:
                 recalculated_matchids.remove(match_ids[idx])
 
         matches_data = matches_data.with_columns(pl.Series(recalculated_matchids).alias("match_id").cast(pl.Int64))

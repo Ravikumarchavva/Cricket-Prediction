@@ -1,26 +1,38 @@
+"""Module for scraping cricket statistics from ESPN Cricinfo."""
+
+import asyncio
+import logging
+import os
+import sys
+import aiohttp
+from hdfs import InsecureClient
 import pandas as pd
 import requests
-import logging
-from hdfs import InsecureClient
-import asyncio
-import aiohttp
-import os
 
-import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 import config
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+
 
 async def fetch(session, url):
+    """Fetch data from a URL using an aiohttp session."""
     async with session.get(url) as response:
         response.raise_for_status()
         return await response.text()
 
+
 async def scrape_stats():
+    """Scrape batting, bowling, and fielding statistics from ESPN."""
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        )
     }
     async with aiohttp.ClientSession(headers=headers) as session:
         batting_table = pd.DataFrame()
@@ -32,9 +44,21 @@ async def scrape_stats():
                 if i % 5 == 0:
                     logging.info(f"Processing page {i}")
                 urls = {
-                    'batting': f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;orderby=season;page={i};size=200;template=results;type=batting;view=season",
-                    'bowling': f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;orderby=season;page={i};size=200;template=results;type=bowling;view=season",
-                    'fielding': f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;orderby=season;page={i};size=200;template=results;type=fielding;view=season"
+                    'batting': (
+                        "https://stats.espncricinfo.com/ci/engine/stats/index.html"
+                        f"?class=3;filter=advanced;orderby=season;page={i};"
+                        "size=200;template=results;type=batting;view=season"
+                    ),
+                    'bowling': (
+                        "https://stats.espncricinfo.com/ci/engine/stats/index.html"
+                        f"?class=3;filter=advanced;orderby=season;page={i};"
+                        "size=200;template=results;type=bowling;view=season"
+                    ),
+                    'fielding': (
+                        "https://stats.espncricinfo.com/ci/engine/stats/index.html"
+                        f"?class=3;filter=advanced;orderby=season;page={i};"
+                        "size=200;template=results;type=fielding;view=season"
+                    )
                 }
                 tasks = {stats_type: fetch(session, url) for stats_type, url in urls.items()}
                 responses = await asyncio.gather(*tasks.values())
@@ -66,10 +90,14 @@ async def scrape_stats():
                 break
         return batting_table, bowling_table, fielding_table
 
+
 def scrape_espn_stats():
     """Scrape team, batting, bowling, and fielding stats from ESPN and save to HDFS."""
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        )
     }
     try:
         logging.info("Initializing HDFS client.")
@@ -81,7 +109,11 @@ def scrape_espn_stats():
         i = 0
         while True:
             try:
-                url = f"https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;orderby=season;page={i};size=200;template=results;type=team;view=season"
+                url = (
+                    "https://stats.espncricinfo.com/ci/engine/stats/index.html"
+                    f"?class=3;filter=advanced;orderby=season;page={i};size=200;"
+                    "template=results;type=team;view=season"
+                )
                 response = requests.get(url, headers=headers)
                 response.raise_for_status()
                 tables = pd.read_html(response.text, flavor='bs4')
@@ -157,8 +189,11 @@ def scrape_espn_stats():
         logging.error(f"Error during scraping: {e}")
         print(e)
 
+
 def main():
+    """Execute the ESPN stats scraping process."""
     scrape_espn_stats()
+
 
 if __name__ == "__main__":
     main()

@@ -1,15 +1,18 @@
+"""Module for preprocessing team statistics data for T20 cricket matches."""
+
 import os
+import sys
 import logging
 
-import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'utils'))
-import config as config, utils
+import config
+import utils
 
-dfs_config = {    'spark.executor.memory': '2g',
+dfs_config = {
+    'spark.executor.memory': '2g',
     'spark.executor.cores': '2',
     'spark.cores.max': '6',
-    # Add HDFS-specific configurations
     'spark.hadoop.fs.defaultFS': config.HDFS_URI,
     'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',
     'spark.hadoop.fs.hdfs.client.use.datanode.hostname': 'true',
@@ -17,6 +20,15 @@ dfs_config = {    'spark.executor.memory': '2g',
 }
 
 def preprocess_team_data():
+    """
+    Process team statistics data and calculate cumulative metrics.
+
+    Reads raw team statistics, calculates various performance metrics including
+    win/loss ratios and running averages, and saves processed data to HDFS.
+
+    Returns:
+        None
+    """
     logging.info("Starting preprocess_team_data task.")
     try:
         # Create Spark session

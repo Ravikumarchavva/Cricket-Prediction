@@ -1,21 +1,27 @@
-import requests
-import zipfile
-import io
-import os
-from hdfs import InsecureClient
-from concurrent.futures import ThreadPoolExecutor
+"""Module for downloading and processing cricket data from Cricsheet."""
+
 import concurrent.futures
+import io
 import logging
+import os
+import sys
+import zipfile
+from concurrent.futures import ThreadPoolExecutor
+from hdfs import InsecureClient
+import requests
 from tqdm import tqdm
 
-import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import config
 
 # Configure logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 logging.getLogger('hdfs').setLevel(logging.ERROR)
 logging.getLogger('hdfs.client').setLevel(logging.ERROR)
+
 
 def download_cricsheet():
     """Download a ZIP file, extract its contents, upload files to HDFS, and clean up locally."""
@@ -34,7 +40,10 @@ def download_cricsheet():
     try:
         logging.info("Initializing HDFS client.")
         # Step 2: Initialize HDFS client
-        client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
+        client = InsecureClient(
+            f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}',
+            user=config.HDFS_USER
+        )
         hdfs_path = os.path.join(config.RAW_DATA_DIR, 't20s_csv2')
         
         # Check if directory exists, create if it doesn't
@@ -97,8 +106,11 @@ def download_cricsheet():
 
     return
 
+
 def main():
+    """Execute the Cricsheet data download process."""
     download_cricsheet()
+
 
 if __name__ == "__main__":
     main()

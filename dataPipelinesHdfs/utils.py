@@ -1,15 +1,20 @@
+"""Utility functions for Spark session management and data operations."""
+
 import config
 import logging
 import os
 from pyspark.sql import SparkSession
 
-def create_spark_session(name=None,SPARK_CONFIG : dict = config.SPARK_CONFIG):
+
+def create_spark_session(name=None, SPARK_CONFIG: dict = config.SPARK_CONFIG):
     """Create and return a Spark session."""
     logging.info("Creating Spark session.")
     try:
         if not name:
             name = config.SPARK_APP_NAME
-        builder = SparkSession.builder.appName(name).master(config.SPARK_MASTER)
+        builder = (SparkSession.builder
+                  .appName(name)
+                  .master(config.SPARK_MASTER))
         
         # Add all configurations
         for key, value in SPARK_CONFIG.items():
@@ -25,6 +30,7 @@ def create_spark_session(name=None,SPARK_CONFIG : dict = config.SPARK_CONFIG):
         logging.error(f"Error creating Spark session: {e}")
         raise
 
+
 def load_data(spark, data_dir, filename):
     """Load CSV data."""
     logging.info(f"Loading data from {filename}.")
@@ -34,21 +40,55 @@ def load_data(spark, data_dir, filename):
         inferSchema=True
     )
 
+
 def save_data(df, hdfs_dir, filename):
     """Save DataFrame to HDFS as CSV."""
     logging.info(f"Saving data to {filename} in HDFS.")
     output_path = os.path.join(hdfs_dir, filename)
     try:
         # Write DataFrame to HDFS as CSV
-        df.write.csv(output_path, header=True, mode='overwrite')
+        df.write.csv(
+            output_path,
+            header=True,
+            mode='overwrite'
+        )
         logging.info(f"Data saved successfully to {filename} in HDFS.")
     except Exception as e:
-        logging.error(f"An error occurred while saving data to {filename} in HDFS: {e}")
+        logging.error(
+            f"An error occurred while saving data to {filename} in HDFS: {e}"
+        )
+
 
 # Country Codes
 
 country_codes = {
-        'LES': 'Lesotho', 'BUL': 'Bulgaria', 'VAN': 'Vanuatu', 'ROM': 'Romania', 'Aut': 'Austria', 'COK': 'Cook Islands', 'Fran': 'France', 'SRB': 'Serbia', 'PAK': 'Pakistan', 'HUN': 'Hungary', 'CYP': 'Cyprus', 'Fiji': 'Fiji', 'FIN': 'Finland', 'EST': 'Estonia', 'CHN': 'China', 'GRC': 'Greece', 'CAM': 'Cambodia', 'GUE': 'Guernsey', 'SEY': 'Seychelles', 'JPN': 'Japan', 'TAN': 'Tanzania', 'JER': 'Jersey', 'QAT': 'Qatar', 'ENG': 'England', 'UGA': 'Uganda', 'BER': 'Bermuda', 'CZK-R': 'Czech Republic', 'CAY': 'Cayman Islands', 'IRE': 'Ireland', 'Mali': 'Mali', 'BRA': 'Brazil', 'SUI': 'Switzerland', 'Peru': 'Peru', 'Mex': 'Mexico', 'MOZ': 'Mozambique', 'Samoa': 'Samoa', 'HKG': 'Hong Kong', 'BAN': 'Bangladesh', 'SL': 'Sri Lanka', 'PNG': 'Papua New Guinea', 'ZIM': 'Zimbabwe', 'GHA': 'Ghana', 'SWZ': 'Eswatini', # Swaziland's official name now is Eswatini
-        'MYAN': 'Myanmar', 'IND': 'India', 'USA': 'United States of America', 'NEP': 'Nepal', 'AFG': 'Afghanistan', 'PAN': 'Panama', 'NGA': 'Nigeria', 'SLE': 'Sierra Leone', 'ESP': 'Spain', 'Bhm': 'Bahamas', 'TKY': 'Turkey', 'MWI': 'Malawi', 'WI': 'West Indies', 'IOM': 'Isle of Man', 'THA': 'Thailand', 'SWA': 'Eswatini',
-        'SKOR': 'South Korea', 'GMB': 'Gambia', 'ISR': 'Israel', 'KUW': 'Kuwait', 'Belg': 'Belgium', 'GER': 'Germany', 'ITA': 'Italy', 'CAN': 'Canada', 'MDV': 'Maldives', 'Blz': 'Belize', 'DEN': 'Denmark', 'INA': 'Indonesia', 'KENYA': 'Kenya', 'LUX': 'Luxembourg', 'STHEL': 'Saint Helena', 'BHR': 'Bahrain', 'KSA': 'Saudi Arabia', 'MLT': 'Malta', 'Arg': 'Argentina', 'MNG': 'Mongolia', 'AUS': 'Australia', 'GIBR': 'Gibraltar', 'SGP': 'Singapore', 'Chile': 'Chile', 'UAE': 'United Arab Emirates', 'NZ': 'New Zealand', 'SCOT': 'Scotland', 'BHU': 'Bhutan', 'MAS': 'Malaysia', 'BOT': 'Botswana', 'CRC': 'Costa Rica', 'PHI': 'Philippines', 'NAM': 'Namibia', 'RWN': 'Rwanda', 'OMA': 'Oman', 'NOR': 'Norway', 'CRT': 'Croatia', 'SWE': 'Sweden', 'Iran': 'Iran', 'PORT': 'Portugal', 'NED': 'Netherlands', 'SA': 'South Africa', 'SVN': 'Slovenia', 'GUE': 'Guernsey', 'MDV': 'Maldives', 'BHM': 'Bahamas', 'SWE': 'Sweden', 'MLT': 'Malta', 'ITA': 'Italy',
-    }
+    'LES': 'Lesotho', 'BUL': 'Bulgaria', 'VAN': 'Vanuatu', 'ROM': 'Romania',
+    'Aut': 'Austria', 'COK': 'Cook Islands', 'Fran': 'France',
+    'SRB': 'Serbia', 'PAK': 'Pakistan', 'HUN': 'Hungary', 'CYP': 'Cyprus',
+    'Fiji': 'Fiji', 'FIN': 'Finland', 'EST': 'Estonia', 'CHN': 'China',
+    'GRC': 'Greece', 'CAM': 'Cambodia', 'GUE': 'Guernsey',
+    'SEY': 'Seychelles', 'JPN': 'Japan', 'TAN': 'Tanzania', 'JER': 'Jersey',
+    'QAT': 'Qatar', 'ENG': 'England', 'UGA': 'Uganda', 'BER': 'Bermuda',
+    'CZK-R': 'Czech Republic', 'CAY': 'Cayman Islands', 'IRE': 'Ireland',
+    'Mali': 'Mali', 'BRA': 'Brazil', 'SUI': 'Switzerland', 'Peru': 'Peru',
+    'Mex': 'Mexico', 'MOZ': 'Mozambique', 'Samoa': 'Samoa',
+    'HKG': 'Hong Kong', 'BAN': 'Bangladesh', 'SL': 'Sri Lanka',
+    'PNG': 'Papua New Guinea', 'ZIM': 'Zimbabwe', 'GHA': 'Ghana',
+    'SWZ': 'Eswatini', 'MYAN': 'Myanmar', 'IND': 'India',
+    'USA': 'United States of America', 'NEP': 'Nepal', 'AFG': 'Afghanistan',
+    'PAN': 'Panama', 'NGA': 'Nigeria', 'SLE': 'Sierra Leone', 'ESP': 'Spain',
+    'Bhm': 'Bahamas', 'TKY': 'Turkey', 'MWI': 'Malawi', 'WI': 'West Indies',
+    'IOM': 'Isle of Man', 'THA': 'Thailand', 'SWA': 'Eswatini', 'SKOR': 'South Korea',
+    'GMB': 'Gambia', 'ISR': 'Israel', 'KUW': 'Kuwait', 'Belg': 'Belgium',
+    'GER': 'Germany', 'ITA': 'Italy', 'CAN': 'Canada', 'MDV': 'Maldives',
+    'Blz': 'Belize', 'DEN': 'Denmark', 'INA': 'Indonesia', 'KENYA': 'Kenya',
+    'LUX': 'Luxembourg', 'STHEL': 'Saint Helena', 'BHR': 'Bahrain', 'KSA': 'Saudi Arabia',
+    'MLT': 'Malta', 'Arg': 'Argentina', 'MNG': 'Mongolia', 'AUS': 'Australia',
+    'GIBR': 'Gibraltar', 'SGP': 'Singapore', 'Chile': 'Chile', 'UAE': 'United Arab Emirates',
+    'NZ': 'New Zealand', 'SCOT': 'Scotland', 'BHU': 'Bhutan', 'MAS': 'Malaysia',
+    'BOT': 'Botswana', 'CRC': 'Costa Rica', 'PHI': 'Philippines', 'NAM': 'Namibia',
+    'RWN': 'Rwanda', 'OMA': 'Oman', 'NOR': 'Norway', 'CRT': 'Croatia',
+    'SWE': 'Sweden', 'Iran': 'Iran', 'PORT': 'Portugal', 'NED': 'Netherlands',
+    'SA': 'South Africa', 'SVN': 'Slovenia', 'GUE': 'Guernsey', 'MDV': 'Maldives',
+    'BHM': 'Bahamas', 'SWE': 'Sweden', 'MLT': 'Malta', 'ITA': 'Italy',
+}
