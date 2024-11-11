@@ -72,6 +72,14 @@ async def scrape_player_stats(session, page):
 
 async def scrape_team_stats(session):
     """Scrape team stats asynchronously."""
+        else:
+            logging.info(f"No table found on page {page} for {stats_type}.")
+            break
+
+    return stats_tables
+
+async def scrape_team_stats(session):
+    """Scrape team stats asynchronously."""
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -93,7 +101,30 @@ async def scrape_team_stats(session):
                 stats_table = tables[2]
                 if len(stats_table) < 2:
                     logging.info(f"No more data for team stats on page {page}. Stopping.")
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        )
+    }
+    team_tables = []
+    page = 1
+    
+    while True:
+        url = (
+            f"{BASE_URL};page={page};size=200;"
+            "template=results;type=team;view=season"
+        )
+        try:
+            response = await fetch(session, url)
+            tables = pd.read_html(response, flavor='bs4')
+            if len(tables) > 2:
+                stats_table = tables[2]
+                if len(stats_table) < 2:
+                    logging.info(f"No more data for team stats on page {page}. Stopping.")
                     break
+                team_tables.append(stats_table)
+            else:
+                logging.info(f"No table found on page {page} for team stats.")
                 team_tables.append(stats_table)
             else:
                 logging.info(f"No table found on page {page} for team stats.")
@@ -143,6 +174,7 @@ async def scrape_and_save_stats():
                     logging.error(f"Error writing {stats_type} stats to HDFS: {e}")
 
 def main():
+    asyncio.run(scrape_and_save_stats())
     asyncio.run(scrape_and_save_stats())
 
 if __name__ == "__main__":

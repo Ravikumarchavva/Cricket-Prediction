@@ -52,7 +52,10 @@ def download_cricsheet():
 
 def main():
     """Execute the Cricsheet data download process."""
+    """Execute the Cricsheet data download process."""
     download_cricsheet()
+
 
 if __name__ == "__main__":
     main()
+
