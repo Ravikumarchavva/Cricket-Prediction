@@ -7,7 +7,7 @@ import os
 # Add parent directory to path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from a_data_sources.scrapping_esp import scrape_espn_stats as scrape_function
+from a_data_sources.scrapping_esp import scrape_and_save_stats as scrape_function
 from a_data_sources.cricksheet import download_cricsheet as download_function
 
 

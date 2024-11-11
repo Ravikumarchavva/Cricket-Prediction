@@ -4,6 +4,7 @@ import config
 import logging
 import os
 from pyspark.sql import SparkSession
+from hdfs import InsecureClient
 
 
 def create_spark_session(name=None, SPARK_CONFIG: dict = config.SPARK_CONFIG):
@@ -57,6 +58,31 @@ def save_data(df, hdfs_dir, filename):
         logging.error(
             f"An error occurred while saving data to {filename} in HDFS: {e}"
         )
+
+
+def get_hdfs_client():
+    """Initialize and return an HDFS client."""
+    return InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
+
+def hdfs_read(client, path):
+    """Read a file from HDFS."""
+    return client.read(path)
+
+def hdfs_write(client, path, data=None, overwrite=True, encoding='utf-8'):
+    """Write data to HDFS."""
+    return client.write(path, data=data, overwrite=overwrite, encoding=encoding)
+
+def hdfs_list(client, path):
+    """List files in a directory on HDFS."""
+    return client.list(path)
+
+def hdfs_mkdirs(client, path):
+    """Create directories on HDFS."""
+    client.makedirs(path)
+
+def hdfs_exists(client, path):
+    """Check if a path exists on HDFS."""
+    return client.status(path, strict=False) is not None
 
 
 # Country Codes

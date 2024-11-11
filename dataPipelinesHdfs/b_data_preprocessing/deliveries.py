@@ -6,7 +6,6 @@ ball-by-ball events in cricket matches.
 
 import os
 import logging
-from hdfs import InsecureClient
 from pyspark.sql.types import (
     StructType, StructField, IntegerType,
     StringType, FloatType
@@ -14,8 +13,7 @@ from pyspark.sql.types import (
 from pyspark.sql.functions import col, when
 
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'utils'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import config
 import utils
 
@@ -36,12 +34,12 @@ def preprocess_deliveries():
 
     try:
         # Initialize HDFS client
-        client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
+        client = utils.get_hdfs_client()
         hdfs_data_path = config.HDFS_BASE_DIR
 
         # Check the contents of the directory on HDFS
         logging.info(f'Checking contents of HDFS directory: {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}')
-        dir_contents = client.list(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
+        dir_contents = utils.hdfs_list(client, os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
 
         # Find all CSV files in the specified directory
         info_files = [f for f in dir_contents if f.endswith('_info.csv')]
@@ -104,9 +102,9 @@ def preprocess_deliveries():
         # Save Spark DataFrame to HDFS in CSV format
         try:
             utils.save_data(deliveries_data, config.PROCESSED_DATA_DIR, 'deliveries.csv')
-            logging.info('Saved deliveries_csv to HDFS.')
+            logging.info('Saved deliveries.csv to HDFS.')
         except Exception as e:
-            logging.error(f'Error saving deliveries_csv to HDFS: {e}')
+            logging.error(f'Error saving deliveries.csv to HDFS: {e}')
             raise
 
     except Exception as e:

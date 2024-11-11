@@ -7,20 +7,18 @@ import os
 import sys
 import zipfile
 from concurrent.futures import ThreadPoolExecutor
-from hdfs import InsecureClient
 import requests
 from tqdm import tqdm
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import config
+import utils
 
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
-logging.getLogger('hdfs').setLevel(logging.ERROR)
-logging.getLogger('hdfs.client').setLevel(logging.ERROR)
 
 
 def download_cricsheet():
@@ -40,17 +38,14 @@ def download_cricsheet():
     try:
         logging.info("Initializing HDFS client.")
         # Step 2: Initialize HDFS client
-        client = InsecureClient(
-            f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}',
-            user=config.HDFS_USER
-        )
+        client = utils.get_hdfs_client()
         hdfs_path = os.path.join(config.RAW_DATA_DIR, 't20s_csv2')
         
         # Check if directory exists, create if it doesn't
-        if not client.content(config.RAW_DATA_DIR, strict=False):
-            client.makedirs(config.RAW_DATA_DIR)
-        if not client.content(hdfs_path, strict=False):
-            client.makedirs(hdfs_path)
+        if not utils.hdfs_exists(client, config.RAW_DATA_DIR):
+            utils.hdfs_mkdirs(client, config.RAW_DATA_DIR)
+        if not utils.hdfs_exists(client, hdfs_path):
+            utils.hdfs_mkdirs(client, hdfs_path)
             logging.info(f"Created directory: {hdfs_path}")
         
         # Step 3: Define a function for uploading a single file to HDFS
@@ -58,8 +53,7 @@ def download_cricsheet():
             """Upload a single file to HDFS."""
             try:
                 hdfs_file_path = os.path.join(hdfs_path, file_name)
-                with client.write(hdfs_file_path, overwrite=True) as writer:
-                    writer.write(file_data)
+                utils.hdfs_write(client, hdfs_file_path, data=file_data, overwrite=True)
                 logging.info(f"Finished writing {file_name} to HDFS.")
             except Exception as e:
                 logging.error(f"Error uploading file {file_name} to HDFS: {e}")
@@ -71,7 +65,7 @@ def download_cricsheet():
         all_files = {name: extracted_data.read(name) for name in extracted_data.namelist() if name != 'README.txt'}
 
         # Get list of files already in HDFS
-        hdfs_files = client.list(hdfs_path)
+        hdfs_files = utils.hdfs_list(client, hdfs_path)
         hdfs_files_set = set(hdfs_files)
 
         # Filter files that are not in HDFS
@@ -94,8 +88,7 @@ def download_cricsheet():
         people_response.raise_for_status()
         people_hdfs_path = os.path.join(config.RAW_DATA_DIR, 'people.csv')
         try:
-            with client.write(people_hdfs_path, overwrite=True) as writer:
-                writer.write(people_response.content)
+            utils.hdfs_write(client, people_hdfs_path, data=people_response.content, overwrite=True)
             logging.info("Successfully uploaded people.csv to HDFS.")
         except Exception as e:
             logging.error(f"Error uploading people.csv to HDFS: {e}")

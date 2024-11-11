@@ -3,8 +3,8 @@
 import os
 import logging
 import polars as pl
-from hdfs import InsecureClient
 import io
+import utils
 
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
@@ -26,12 +26,12 @@ def preprocess_matches():
 
     try:
         # Initialize HDFS client
-        client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
+        client = utils.get_hdfs_client()
         hdfs_data_path = config.HDFS_BASE_DIR
 
-        # Check the contents of the directory on HDFS
+        # Use utils functions for HDFS operations
         logging.info(f'Checking contents of HDFS directory: {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}')
-        dir_contents = client.list(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
+        dir_contents = utils.hdfs_list(client, os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
 
         # Find all CSV files in the specified directory
         info_files = [f for f in dir_contents if f.endswith('_info.csv')]
@@ -69,7 +69,7 @@ def preprocess_matches():
         # Iterate over matches and process each one
         for idx, match in tqdm(enumerate(info_files)):
             try:
-                with client.read(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2', match)) as reader:
+                with utils.hdfs_read(client, os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2', match)) as reader:
                     match_df = pl.read_csv(reader, schema=initial_schema)
                 # Extract team names
                 team1_name = match_df[1, 'values']
@@ -109,8 +109,8 @@ def preprocess_matches():
 
         # Upload the buffer content to HDFS
         try:
-            client.write(f'{config.PROCESSED_DATA_DIR}/matches.csv', data=buffer, overwrite=True)
-            print('Uploaded matches.csv to HDFS.')
+            utils.hdfs_write(client, f'{config.PROCESSED_DATA_DIR}/matches.csv', data=buffer, overwrite=True)
+            logging.info('Uploaded matches.csv to HDFS.')
         except Exception as e:
             logging.error(f'Error uploading matches.csv to HDFS: {e}')
             raise

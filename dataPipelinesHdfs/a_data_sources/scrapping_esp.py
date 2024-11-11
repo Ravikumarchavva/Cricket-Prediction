@@ -1,15 +1,16 @@
-"""Module for scraping cricket statistics from ESPN Cricinfo."""
+"""Module for scraping cricket statistics from ESPN Cricinfo asynchronously."""
 
 import asyncio
 import logging
 import os
 import sys
 import aiohttp
-from hdfs import InsecureClient
 import pandas as pd
+from aiohttp import ClientError, ServerTimeoutError
 import requests
+import utils
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import config
 
 # Configure logging
@@ -17,187 +18,133 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
-
-
-async def fetch(session, url):
-    """Fetch data from a URL using an aiohttp session."""
-    async with session.get(url) as response:
-        response.raise_for_status()
-        return await response.text()
-
-
-async def scrape_stats():
-    """Scrape batting, bowling, and fielding statistics from ESPN."""
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-        )
-    }
-    async with aiohttp.ClientSession(headers=headers) as session:
-        batting_table = pd.DataFrame()
-        bowling_table = pd.DataFrame()
-        fielding_table = pd.DataFrame()
-        i = 1
-        while True:
-            try:
-                if i % 5 == 0:
-                    logging.info(f"Processing page {i}")
-                urls = {
-                    'batting': (
-                        "https://stats.espncricinfo.com/ci/engine/stats/index.html"
-                        f"?class=3;filter=advanced;orderby=season;page={i};"
-                        "size=200;template=results;type=batting;view=season"
-                    ),
-                    'bowling': (
-                        "https://stats.espncricinfo.com/ci/engine/stats/index.html"
-                        f"?class=3;filter=advanced;orderby=season;page={i};"
-                        "size=200;template=results;type=bowling;view=season"
-                    ),
-                    'fielding': (
-                        "https://stats.espncricinfo.com/ci/engine/stats/index.html"
-                        f"?class=3;filter=advanced;orderby=season;page={i};"
-                        "size=200;template=results;type=fielding;view=season"
-                    )
-                }
-                tasks = {stats_type: fetch(session, url) for stats_type, url in urls.items()}
-                responses = await asyncio.gather(*tasks.values())
-                stop = False
-                for stats_type, response in zip(tasks.keys(), responses):
-                    tables = pd.read_html(response, flavor='bs4')
-                    if len(tables) > 2:
-                        stats_table = tables[2]
-                        if len(stats_table) < 2:
-                            logging.info(f"Table at page {i} for {stats_type} has less than 2 rows. Stopping.")
-                            stop = True
-                            break
-                        if stats_type == 'batting':
-                            batting_table = pd.concat([stats_table, batting_table], axis=0, ignore_index=True)
-                        elif stats_type == 'bowling':
-                            bowling_table = pd.concat([stats_table, bowling_table], axis=0, ignore_index=True)
-                        elif stats_type == 'fielding':
-                            fielding_table = pd.concat([stats_table, fielding_table], axis=0, ignore_index=True)
-                    else:
-                        logging.info(f"No more tables found at page {i} for {stats_type}.")
-                        stop = True
-                        break
-                if stop:
-                    break
-                i += 1
-            except Exception as e:
-                logging.error(f"Error scraping player stats at page {i}: {e}")
-                print(e)
-                break
-        return batting_table, bowling_table, fielding_table
-
-
-def scrape_espn_stats():
-    """Scrape team, batting, bowling, and fielding stats from ESPN and save to HDFS."""
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-        )
-    }
-    try:
-        logging.info("Initializing HDFS client.")
-        client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
-        hdfs_path = os.path.join(config.RAW_DATA_DIR)
-
-        logging.info("Starting scraping of team stats.")
-        teams_tables = []
-        i = 0
-        while True:
-            try:
-                url = (
-                    "https://stats.espncricinfo.com/ci/engine/stats/index.html"
-                    f"?class=3;filter=advanced;orderby=season;page={i};size=200;"
-                    "template=results;type=team;view=season"
-                )
-                response = requests.get(url, headers=headers)
+BASE_URL = "https://stats.espncricinfo.com/ci/engine/stats/index.html?class=3;filter=advanced;orderby=season;"
+async def fetch(session, url, retries=3):
+    """Fetch data from a URL using an aiohttp session with retries."""
+    for attempt in range(retries):
+        try:
+            async with session.get(url) as response:
                 response.raise_for_status()
-                tables = pd.read_html(response.text, flavor='bs4')
-                if len(tables) > 2:
-                    if len(tables[2]) < 2:
-                        logging.info(f"Table at page {i} has less than 2 rows. Stopping.")
-                        break
-                    stats_table = tables[2]
-                    teams_tables.append(stats_table)
-                    i += 1
-                else:
-                    logging.info(f"No more tables found at page {i}.")
-                    break
-            except Exception as e:
-                logging.error(f"Error scraping team stats at page {i}: {e}")
-                print(e)
+                return await response.text()
+        except (ClientError, ServerTimeoutError) as e:
+            if attempt < retries - 1:
+                logging.warning(f"Retrying {url} due to {e}")
+                await asyncio.sleep(2 ** attempt)  # Exponential backoff
+            else:
+                logging.error(f"Failed to fetch {url} after {retries} attempts: {e}")
+                raise
+
+async def scrape_player_stats(session, page):
+    """Scrape player stats from ESPN for batting, bowling, and fielding stats on a given page."""
+    urls = {
+        'batting': (
+            f"{BASE_URL}page={page};"
+            "size=200;template=results;type=batting;view=season"
+        ),
+        'bowling': (
+            f"{BASE_URL}page={page};"
+            "size=200;template=results;type=bowling;view=season"
+        ),
+        'fielding': (
+            f"{BASE_URL}page={page};"
+            "size=200;template=results;type=fielding;view=season"
+        )
+    }
+    tasks = {stats_type: fetch(session, url) for stats_type, url in urls.items()}
+    responses = await asyncio.gather(*tasks.values())
+    stats_tables = {}
+    
+    for stats_type, response in zip(tasks.keys(), responses):
+        tables = pd.read_html(response, flavor='bs4')
+        if len(tables) > 2:
+            stats_table = tables[2]
+            if len(stats_table) >= 2:
+                stats_tables[stats_type] = stats_table
+            else:
+                logging.info(f"No data on page {page} for {stats_type}. Stopping.")
                 break
-            finally:
-                logging.info(f"Finished scraping team stats at page {i}.")
-        if teams_tables:
-            teams_table = pd.concat(teams_tables, ignore_index=True)
-            teams_table.sort_values(by=['Team', 'Season'], ascending=False, inplace=True)
-            teams_table.drop(columns=['Unnamed: 13'], axis=1, inplace=True)
+        else:
+            logging.info(f"No table found on page {page} for {stats_type}.")
+            break
+
+    return stats_tables
+
+async def scrape_team_stats(session):
+    """Scrape team stats asynchronously."""
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        )
+    }
+    team_tables = []
+    page = 1
+    
+    while True:
+        url = (
+            f"{BASE_URL};page={page};size=200;"
+            "template=results;type=team;view=season"
+        )
+        try:
+            response = await fetch(session, url)
+            tables = pd.read_html(response, flavor='bs4')
+            if len(tables) > 2:
+                stats_table = tables[2]
+                if len(stats_table) < 2:
+                    logging.info(f"No more data for team stats on page {page}. Stopping.")
+                    break
+                team_tables.append(stats_table)
+            else:
+                logging.info(f"No table found on page {page} for team stats.")
+                break
+        except Exception as e:
+            logging.error(f"Error fetching team stats on page {page}: {e}")
+            break
+        page += 1
+
+    if team_tables:
+        teams_df = pd.concat(team_tables, ignore_index=True)
+        return teams_df
+    return pd.DataFrame()
+
+async def scrape_and_save_stats():
+    """Main async function to scrape stats and save them to HDFS."""
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        )
+    }
+    
+    async with aiohttp.ClientSession(headers=headers) as session:
+        # Fetch team stats
+        teams_table = await scrape_team_stats(session)
+        if not teams_table.empty:
+            # Save team stats
             try:
-                with client.write(f'{hdfs_path}/t20_team_stats.csv', encoding='utf-8', overwrite=True) as writer:
+                client = utils.get_hdfs_client()
+                with utils.hdfs_write(client, f'{config.RAW_DATA_DIR}/t20_team_stats.csv', encoding='utf-8', overwrite=True) as writer:
                     teams_table.to_csv(writer, index=False)
-                logging.info("Finished writing team stats.")
+                logging.info("Successfully saved team stats.")
             except Exception as e:
                 logging.error(f"Error writing team stats to HDFS: {e}")
-        else:
-            logging.error("No team stats tables were scraped.")
-
-        logging.info("Starting scraping of player stats.")
-        batting_table, bowling_table, fielding_table = asyncio.run(scrape_stats())
-        drop_columns = {'batting': 'Unnamed: 15', 'bowling': 'Unnamed: 14', 'fielding': 'Unnamed: 11'}
         
-        if not batting_table.empty:
-            batting_table.sort_values(by=['Player', 'Season'], ascending=False, inplace=True)
-            batting_table.drop(columns=[drop_columns['batting']], axis=1, inplace=True)
-            try:
-                with client.write(f'{hdfs_path}/t20_batting_stats.csv', encoding='utf-8', overwrite=True) as writer:
-                    batting_table.to_csv(writer, index=False)
-                logging.info("Finished writing batting stats.")
-            except Exception as e:
-                logging.error(f"Error writing batting stats to HDFS: {e}")
-        else:
-            logging.error("No batting stats tables were scraped.")
-
-        if not bowling_table.empty:
-            bowling_table.sort_values(by=['Player', 'Season'], ascending=False, inplace=True)
-            bowling_table.drop(columns=[drop_columns['bowling']], axis=1, inplace=True)
-            try:
-                with client.write(f'{hdfs_path}/t20_bowling_stats.csv', encoding='utf-8', overwrite=True) as writer:
-                    bowling_table.to_csv(writer, index=False)
-                logging.info("Finished writing bowling stats.")
-            except Exception as e:
-                logging.error(f"Error writing bowling stats to HDFS: {e}")
-        else:
-            logging.error("No bowling stats tables were scraped.")
-
-        if not fielding_table.empty:
-            fielding_table.sort_values(by=['Player', 'Season'], ascending=False, inplace=True)
-            fielding_table.drop(columns=[drop_columns['fielding']], axis=1, inplace=True)
-            try:
-                with client.write(f'{hdfs_path}/t20_fielding_stats.csv', encoding='utf-8', overwrite=True) as writer:
-                    fielding_table.to_csv(writer, index=False)
-                logging.info("Finished writing fielding stats.")
-            except Exception as e:
-                logging.error(f"Error writing fielding stats to HDFS: {e}")
-        else:
-            logging.error("No fielding stats tables were scraped.")
-    except Exception as e:
-        logging.error(f"Error during scraping: {e}")
-        print(e)
-
+        # Fetch player stats (batting, bowling, fielding)
+        player_stats = await asyncio.gather(*(scrape_player_stats(session, page) for page in range(1, 6)))
+        # Process and save each player stat type
+        for stats_type, drop_col in [('batting', 'Unnamed: 15'), ('bowling', 'Unnamed: 14'), ('fielding', 'Unnamed: 11')]:
+            combined_df = pd.concat([stats[stats_type] for stats in player_stats if stats_type in stats], ignore_index=True)
+            if not combined_df.empty:
+                combined_df.drop(columns=[drop_col], axis=1, inplace=True, errors='ignore')
+                try:
+                    with utils.hdfs_write(client, f'{config.RAW_DATA_DIR}/t20_{stats_type}_stats.csv', encoding='utf-8', overwrite=True) as writer:
+                        combined_df.to_csv(writer, index=False)
+                    logging.info(f"Successfully saved {stats_type} stats.")
+                except Exception as e:
+                    logging.error(f"Error writing {stats_type} stats to HDFS: {e}")
 
 def main():
-    """Execute the ESPN stats scraping process."""
-    scrape_espn_stats()
-
+    asyncio.run(scrape_and_save_stats())
 
 if __name__ == "__main__":
     main()
-
-
-
-

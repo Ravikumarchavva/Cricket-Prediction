@@ -4,7 +4,7 @@ import os
 import sys
 import logging
 import pandas as pd
-from hdfs import InsecureClient
+import utils
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 import config
@@ -26,12 +26,12 @@ def process_players_data():
     """
     try:
         # Initialize HDFS client
-        client = InsecureClient(f'http://{config.HDFS_HOST}:{config.HDFS_HTTP_PORT}', user=config.HDFS_USER)
+        client = utils.get_hdfs_client()
         hdfs_data_path = config.HDFS_BASE_DIR
 
         # Check the contents of the directory on HDFS
         logging.info(f'Checking contents of HDFS directory: {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}')
-        dir_contents = client.list(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
+        dir_contents = utils.hdfs_list(client, os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
 
         # Find all CSV files in the specified directory
         info_files = [f for f in dir_contents if f.endswith('_info.csv')]
@@ -46,7 +46,7 @@ def process_players_data():
         for info_file in info_files:
             match_id = pd.to_numeric(info_file.split('/')[-1].split('_')[0])
             try:
-                with client.read(os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2', info_file)) as reader:
+                with utils.hdfs_read(client, os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2', info_file)) as reader:
                     df = pd.read_csv(reader, header=None, names=['type', 'heading', 'subkey', 'players', 'player_id'], skipinitialspace=True).drop('type', axis=1)
                 players_df = df[df['heading'] == "player"].drop(['heading', 'player_id'], axis=1)
                 registry_df = df[df['heading'] == "registry"].drop('heading', axis=1)
@@ -65,7 +65,7 @@ def process_players_data():
 
         # Save dataframes to HDFS
         try:
-            with client.write(f'{hdfs_data_path}/2_processedData/match_players', encoding='utf-8', overwrite=True) as writer:
+            with utils.hdfs_write(client, f'{hdfs_data_path}/2_processedData/match_players', encoding='utf-8', overwrite=True) as writer:
                 dataframes.to_csv(writer, index=False)
             logging.info('Saved match_players.csv to HDFS.')
         except Exception as e:
@@ -77,7 +77,7 @@ def process_players_data():
 
         # Save players to HDFS
         try:
-            with client.write(f'{hdfs_data_path}/2_processedData/players.csv', encoding='utf-8', overwrite=True) as writer:
+            with utils.hdfs_write(client, f'{hdfs_data_path}/2_processedData/players.csv', encoding='utf-8', overwrite=True) as writer:
                 players.to_csv(writer, index=False)
             logging.info('Saved players.csv to HDFS.')
         except Exception as e:
