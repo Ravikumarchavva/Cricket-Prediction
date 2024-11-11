@@ -2,6 +2,7 @@ import logging
 from pyspark.sql.functions import when, col, regexp_extract, sum as spark_sum, row_number, round
 from pyspark.sql import Window
 
+
 def preprocess_batting_data(batting_data):
     """Clean and preprocess the batting data."""
     logging.info("Preprocessing batting data.")

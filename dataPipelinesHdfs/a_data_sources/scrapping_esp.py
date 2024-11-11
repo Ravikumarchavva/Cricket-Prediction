@@ -4,8 +4,11 @@ import logging
 from hdfs import InsecureClient
 import asyncio
 import aiohttp
-import config
 import os
+
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
+import config
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

@@ -1,17 +1,31 @@
 import os
 import logging
+from .preprocessing import preprocess_batting_data, preprocess_bowling_data, preprocess_fielding_data, map_country_codes
+
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'utils'))
+from utils import create_spark_session, load_data, save_data, country_codes
 import config
-from b_data_preprocessing.stats.player_stats.utils import create_spark_session, load_data, save_data
-from b_data_preprocessing.stats.player_stats.preprocessing import preprocess_batting_data, preprocess_bowling_data, preprocess_fielding_data, map_country_codes
 
 raw_data_dir = config.RAW_DATA_DIR
 processed_data_dir =config.PROCESSED_DATA_DIR
-country_codes = config.country_codes
+country_codes = country_codes
+
+dfs_config = {    'spark.executor.memory': '2g',
+    'spark.executor.cores': '2',
+    'spark.cores.max': '6',
+    # Add HDFS-specific configurations
+    'spark.hadoop.fs.defaultFS': config.HDFS_URI,
+    'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',
+    'spark.hadoop.fs.hdfs.client.use.datanode.hostname': 'true',
+    'spark.hadoop.dfs.client.use.datanode.hostname': 'true'
+}
 
 
 def preprocess_batting():
     logging.info("Starting preprocess_batting task.")
-    spark = create_spark_session()
+    spark = create_spark_session("BattingStatsPreprocessing", dfs_config)
 
     try:
         batting_data = load_data(spark, raw_data_dir, 't20_batting_stats.csv')
@@ -28,7 +42,7 @@ def preprocess_batting():
 
 def preprocess_bowling():
     logging.info("Starting preprocess_bowling task.")
-    spark = create_spark_session()
+    spark = create_spark_session("BowlingStatsPreprocessing", dfs_config)
     try:
         bowling_data = load_data(spark, raw_data_dir, 't20_bowling_stats.csv')
         bowling_data = preprocess_bowling_data(bowling_data)
@@ -44,7 +58,7 @@ def preprocess_bowling():
 
 def preprocess_fielding():
     logging.info("Starting preprocess_fielding task.")
-    spark = create_spark_session()
+    spark = create_spark_session("FieldingStatsPreprocessing", dfs_config)
 
     try:
         fielding_data = load_data(spark, raw_data_dir, 't20_fielding_stats.csv')
@@ -61,8 +75,7 @@ def preprocess_fielding():
 
 def combine_data():
     logging.info("Starting combine_data task.")
-    spark = create_spark_session()
-    processed_data_dir = config.HDFS_URI + config.HDFS_BASE_DIR + "/data/2_processedData"
+    spark = create_spark_session("CombinePlayerStats", dfs_config)
 
     try:
         batting_data = load_data(spark, processed_data_dir, 'batting_data.csv')
@@ -83,7 +96,7 @@ def combine_data():
             fielding_data, on=['player_id', 'Player', 'Country', 'Season'], how='inner'
         ).drop('Cumulative Mat', 'Cumulative Inns')
 
-        save_data(player_data, processed_data_dir, 'playerstats.csv')
+        save_data(player_data, config.PROCESSED_DATA_DIR, 'playerstats.csv')
         logging.info("Data combining and saving completed successfully.")
     except Exception as e:
         logging.error(f"Error in combine_data task: {e}")

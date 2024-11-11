@@ -1,11 +1,13 @@
 import os
-import glob
 import logging
 from hdfs import InsecureClient
 from pyspark.sql.types import *
-from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, sum, when
-import config
+
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'utils'))
+import config, utils
 
 def preprocess_deliveries():
     # Initialize logging
@@ -29,12 +31,7 @@ def preprocess_deliveries():
             logging.warning(f'No delivery files found in {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}. Please check the directory and file permissions.')
 
         # Initialize Spark session with HDFS configuration
-        spark = SparkSession.builder \
-            .appName(config.SPARK_APP_NAME) \
-            .config("spark.hadoop.fs.defaultFS", config.HDFS_URI) \
-            .config("spark.hadoop.dfs.client.use.datanode.hostname", "true") \
-            .config("spark.jars.packages", "org.slf4j:slf4j-jdk14:1.7.30") \
-            .getOrCreate()
+        spark = utils.create_spark_session()
 
         # Define the schema for the deliveries data
         delivery_schema = StructType([
@@ -79,7 +76,7 @@ def preprocess_deliveries():
 
         # Save Spark DataFrame to HDFS in CSV format
         try:
-            deliveries_data.write.mode('overwrite').csv(f'{config.PROCESSED_DATA_DIR}/deliveries_csv', header=True)
+            utils.save_data(deliveries_data, config.PROCESSED_DATA_DIR, 'deliveries.csv' )
             logging.info('Saved deliveries_csv to HDFS.')
         except Exception as e:
             logging.error(f'Error saving deliveries_csv to HDFS: {e}')

@@ -2,6 +2,9 @@ import os
 import pandas as pd
 from hdfs import InsecureClient
 import logging
+
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
 import config
 
 # Initialize logging

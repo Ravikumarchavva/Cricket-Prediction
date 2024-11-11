@@ -2,9 +2,11 @@ import os
 import logging
 import polars as pl
 from hdfs import InsecureClient
-import config
-import tempfile
 import io
+
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
+import config
 
 def preprocess_matches():
     # Initialize logging

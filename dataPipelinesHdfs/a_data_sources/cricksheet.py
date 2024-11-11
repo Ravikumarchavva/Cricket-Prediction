@@ -7,10 +7,10 @@ from concurrent.futures import ThreadPoolExecutor
 import concurrent.futures
 import logging
 from tqdm import tqdm
-import config
 
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'config'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+import config
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')

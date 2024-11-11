@@ -3,21 +3,21 @@ from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
 import os
 import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+# Sources tasks
+from a_data_sources.tasks import download_cricsheet, scrape_espn_stats
 
-# Set the PYTHONPATH environment variable
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
-# Import the functions from the scripts
-from a_data_sources.cricksheet import download_cricsheet
-from a_data_sources.scrapping_esp import scrape_espn_stats
-
-# Import the preprocessing functions
-from b_data_preprocessing.matches.matches import preprocess_matches
-from b_data_preprocessing.matches.deliveries import preprocess_deliveries
-from b_data_preprocessing.stats.team_stats.tasks import preprocess_team_data
-from b_data_preprocessing.stats.player_stats.tasks import preprocess_batting, preprocess_bowling, preprocess_fielding, combine_data
-from b_data_preprocessing.people import process_players_data
-
+# Preprocessing tasks
+from b_data_preprocessing.tasks import (
+    preprocess_matches,
+    preprocess_deliveries,
+    process_players_data,
+    preprocess_batting,
+    preprocess_bowling,
+    preprocess_fielding,
+    preprocess_team_data,
+    combine_data
+)
 
 default_args = {
     'owner': 'ravikumar',
@@ -29,37 +29,75 @@ default_args = {
     'start_date': datetime(2024, 1, 10),
 }   
 
-dag = DAG(
+with DAG(
     't20_dag',
     default_args=default_args,
     description='A DAG to download, scrape, and process player stats data',
     schedule_interval=timedelta(days=1),
     catchup=False,
     max_active_runs=1,
-)
+) as dag:
+    
+    # Sources
+    download_cricsheet_task = PythonOperator(
+        task_id='download_cricsheet',
+        python_callable=download_cricsheet,
+    )
+    
+    scrape_espn_stats_task = PythonOperator(
+        task_id='scrape_espn_stats',
+        python_callable=scrape_espn_stats,
+    )
+    
+    # Preprocessing tasks
+    process_matches_task = PythonOperator(
+        task_id='preprocess_matches',
+        python_callable=preprocess_matches,
+    )
+    
+    process_deliveries_task = PythonOperator(
+        task_id='preprocess_deliveries',
+        python_callable=preprocess_deliveries,
+    )
 
-# Sources
+    process_players_task = PythonOperator(
+        task_id='process_players_data',
+        python_callable=process_players_data,
+    )
+    
+    preprocess_batting_task = PythonOperator(
+        task_id='preprocess_batting',
+        python_callable=preprocess_batting,
+    )
+    
+    preprocess_bowling_task = PythonOperator(
+        task_id='preprocess_bowling',
+        python_callable=preprocess_bowling,
+    )
+    
+    preprocess_fielding_task = PythonOperator(
+        task_id='preprocess_fielding',
+        python_callable=preprocess_fielding,
+    )
+    
+    preprocess_team_data_task = PythonOperator(
+        task_id='preprocess_team_data',
+        python_callable=preprocess_team_data,
+    )
 
-download_cricsheet_task = PythonOperator(task_id='download_cricsheet', python_callable=download_cricsheet, dag=dag,)
-scrape_espn_stats_task = PythonOperator(task_id='scrape_espn_stats', python_callable=scrape_espn_stats, dag=dag,)
+    combine_data_task = PythonOperator(
+        task_id='combine_data',
+        python_callable=combine_data,
+    )
 
-# Preprocessing
-
-process_deliveries_task = PythonOperator(task_id='process_deliveries', python_callable=preprocess_deliveries, dag=dag,)
-process_matches_task = PythonOperator(task_id='process_matches', python_callable=preprocess_matches, dag=dag,)
-process_players_task = PythonOperator(task_id='process_players', python_callable=process_players_data, dag=dag,)
-
-preprocess_batting_task = PythonOperator(task_id='preprocess_batting', python_callable=preprocess_batting, dag=dag,)
-preprocess_bowling_task = PythonOperator(task_id='preprocess_bowling', python_callable=preprocess_bowling, dag=dag,)
-preprocess_fielding_task = PythonOperator(task_id='preprocess_fielding', python_callable=preprocess_fielding, dag=dag,)
-preprocess_team_data_task = PythonOperator(task_id='preprocess_team_data', python_callable=preprocess_team_data, dag=dag,)
-combine_data_task = PythonOperator(task_id='combine_data', python_callable=combine_data, dag=dag,)
-
-
-# Set task dependencies
-[download_cricsheet_task, scrape_espn_stats_task]
-
-download_cricsheet_task >> [process_deliveries_task, process_matches_task, process_players_task]
-
-scrape_espn_stats_task >> [preprocess_batting_task, preprocess_bowling_task, preprocess_fielding_task, preprocess_team_data_task] >> combine_data_task
-
+    # Set task dependencies
+    [download_cricsheet_task, scrape_espn_stats_task]
+    
+    download_cricsheet_task >> [process_deliveries_task, process_matches_task, process_players_task]
+    
+    scrape_espn_stats_task >> process_players_task >> [
+        preprocess_batting_task,
+        preprocess_bowling_task,
+        preprocess_fielding_task,
+        preprocess_team_data_task
+    ] >> combine_data_task
