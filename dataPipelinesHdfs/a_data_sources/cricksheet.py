@@ -1,23 +1,26 @@
-import requests
-import zipfile
+"""Module for downloading and processing cricket data from Cricsheet."""
+
 import io
-import os
-from hdfs import InsecureClient
-from concurrent.futures import ThreadPoolExecutor
-import concurrent.futures
 import logging
-from tqdm import tqdm
+import os
+import sys
+import zipfile
+import requests
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+import config
+import utils
 
 # Configure logging
-logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
-logging.getLogger('hdfs').setLevel(logging.ERROR)
-logging.getLogger('hdfs.client').setLevel(logging.ERROR)
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(message)s'
+)
 
 def download_cricsheet():
     """Download a ZIP file, extract its contents, upload files to HDFS, and clean up locally."""
     try:
-        logging.info("Starting download of ZIP file.")
-        # Step 1: Download and extract the zip file
+        print("Starting download of ZIP file.")
         response = requests.get('https://cricsheet.org/downloads/t20s_csv2.zip')
         response.raise_for_status()
         raw_data = io.BytesIO(response.content)
@@ -29,64 +32,26 @@ def download_cricsheet():
 
     try:
         logging.info("Initializing HDFS client.")
-        # Step 2: Initialize HDFS client
-        client = InsecureClient('http://192.168.245.142:9870', user='ravikumar')
-        hdfs_path = '/usr/ravi/t20/data/1_rawData/t20s_csv2'
-
-        # Step 3: Define a function for uploading a single file to HDFS
-        def upload_file(file_name, file_data):
-            """Upload a single file to HDFS."""
-            try:
-                hdfs_file_path = os.path.join(hdfs_path, file_name)
-                with client.write(hdfs_file_path, overwrite=True) as writer:
-                    writer.write(file_data)
-                logging.info(f"Finished writing {file_name} to HDFS.")
-            except Exception as e:
-                logging.error(f"Error uploading file {file_name} to HDFS: {e}")
-                raise RuntimeError(f"Failed to upload file {file_name} to HDFS.") from e
+        client = utils.get_hdfs_client()
+        hdfs_path = os.path.join(config.RAW_DATA_DIR, 't20s_csv2')
 
         logging.info("Starting upload of files to HDFS.")
+        all_files = {name: extracted_data.read(name) for name in extracted_data.namelist() if name.endswith('.csv')}
+        utils.upload_files_to_hdfs(client, hdfs_path, all_files)
 
-        # Collect all file names and data
-        all_files = {name: extracted_data.read(name) for name in extracted_data.namelist()}
-
-        # Get list of files already in HDFS
-        hdfs_files = client.list(hdfs_path)
-        hdfs_files_set = set(hdfs_files)
-
-        # Filter files that are not in HDFS
-        files_to_upload = {name: data for name, data in all_files.items() if name not in hdfs_files_set}
-
-        if not files_to_upload:
-            logging.info("All files are already present in HDFS.")
-        else:
-            # Increase the number of threads in ThreadPoolExecutor
-            with ThreadPoolExecutor(max_workers=20) as executor:
-                futures = [executor.submit(upload_file, name, data) for name, data in files_to_upload.items()]
-                with tqdm(total=len(futures)) as pbar:
-                    for _ in concurrent.futures.as_completed(futures):
-                        pbar.update(1)
-            logging.info("Finished uploading files to HDFS.")
-
-        # Upload people.csv directly to HDFS
         logging.info("Downloading and uploading people.csv to HDFS.")
         people_response = requests.get('https://cricsheet.org/register/people.csv')
         people_response.raise_for_status()
-        people_hdfs_path = os.path.join(hdfs_path, '..', 'people.csv')
-        try:
-            with client.write(people_hdfs_path, overwrite=True) as writer:
-                writer.write(people_response.content)
-            logging.info("Successfully uploaded people.csv to HDFS.")
-        except Exception as e:
-            logging.error(f"Error uploading people.csv to HDFS: {e}")
-            raise RuntimeError("Failed to upload people.csv to HDFS.") from e
+        people_hdfs_path = os.path.join(config.RAW_DATA_DIR, 'people.csv')
+        people_data = people_response.content.decode('utf-8')
+        utils.hdfs_write(client, people_hdfs_path, data=people_data, overwrite=True)
+        logging.info("Successfully uploaded people.csv to HDFS.")
     except Exception as e:
         logging.error(f"Error uploading files to HDFS: {e}")
         raise RuntimeError("Failed to upload files to HDFS.") from e
 
-    return
-
 def main():
+    """Execute the Cricsheet data download process."""
     download_cricsheet()
 
 if __name__ == "__main__":

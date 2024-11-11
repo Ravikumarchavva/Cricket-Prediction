@@ -1,5 +1,3 @@
-.ipynb_checkpoints
-
 .log
 
 # wandb related files
@@ -10,3 +8,64 @@ wandb-debug.log
 data/5_pytorchData/*.pkl
 
 .env
+
+# python cache
+__pycache__/
+**/__pycache__/
+
+.ipynb_checkpoints
+**/.ipynb_checkpoints
+
+# cache files
+cache/
+**/cache/
+*.cache
+
+# Data science cache files
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.joblib
+*.sav
+
+# Model files
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.pb
+*.tflite
+*.mlmodel
+
+# Experiment and cache directories
+logs/
+**/logs/
+runs/
+**/runs/
+experiments/
+**/experiments/
+checkpoints/
+**/checkpoints/
+models/
+**/models/
+.cache/
+**/.cache/
+
+# MLflow artifacts
+mlruns/
+**/mlruns/
+
+# DVC cache
+.dvc/
+**/.dvc/
+
+# Hugging Face transformers cache
+.huggingface/
+**/.huggingface/
+
+# Data Pipeline specific
+dataPipelinesHdfs/**/__pycache__/
+dataPipelinesHdfs/**/**.pyc
+dataPipelinesHdfs/dags/**/__pycache__/
+dataPipelinesHdfs/dags/**.pyc
