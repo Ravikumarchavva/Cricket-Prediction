@@ -30,7 +30,7 @@ SPARK_CONFIG = {
     'spark.executor.cores': os.getenv('SPARK_EXECUTOR_CORES', '2'),
     'spark.cores.max': os.getenv('SPARK_CORES_MAX', '6'),
     'spark.master': f'spark://{HDFS_HOST}:{SPARK_MASTER_PORT}',
-    'spark.hadoop.fs.defaultFS': HDFS_URI,
+    'spark.hadoop.fs.defaultFS': HDFS_NAMENODE,
     'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',
     'spark.hadoop.fs.file.impl': 'org.apache.hadoop.fs.LocalFileSystem'
 }

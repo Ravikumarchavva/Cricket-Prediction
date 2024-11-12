@@ -23,8 +23,8 @@ def process_match_players_stats():
         spark = utils.create_spark_session()
 
         # Step 1: Load data from HDFS using utils
-        matchPlayers = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'Matchplayers.csv').sort('match_id')
-        playerStats = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'playerStats.csv').sort("match_id")
+        matchPlayers = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'match_players.csv')
+        playerStats = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'player_stats.csv')
         
         # Add flip column
         matchPlayers = matchPlayers.withColumn("flip", lit(0))
@@ -61,7 +61,7 @@ def process_match_players_stats():
         matchPlayersStats = matchPlayersStats.drop('country', 'player', 'player_id', 'season', 'Player', 'Country')
         
         # Step 9: Save the merged data
-        utils.save_data(matchPlayersStats, config.MERGED_DATA_DIR, 'players_stats_flip.csv')
+        utils.spark_save_data(matchPlayersStats, config.MERGED_DATA_DIR, 'players_stats_flip.csv')
         logging.info('Match players stats data saved successfully.')
         
     except Exception as e:

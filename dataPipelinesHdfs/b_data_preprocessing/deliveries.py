@@ -35,11 +35,10 @@ def preprocess_deliveries():
     try:
         # Initialize HDFS client
         client = utils.get_hdfs_client()
-        hdfs_data_path = config.HDFS_BASE_DIR
 
         # Check the contents of the directory on HDFS
-        logging.info(f'Checking contents of HDFS directory: {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}')
-        dir_contents = utils.hdfs_list(client, os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2'))
+        logging.info(f'Checking contents of HDFS directory: {os.path.join(config.RAW_DATA_DIR, "t20s_csv2")}')
+        dir_contents = utils.hdfs_list(client, os.path.join(config.RAW_DATA_DIR, 't20s_csv2'))
 
         # Find all CSV files in the specified directory
         info_files = [f for f in dir_contents if f.endswith('_info.csv')]
@@ -47,7 +46,7 @@ def preprocess_deliveries():
         logging.info(f'Found {len(info_files)} info files and {len(delivery_files)} delivery files.')
 
         if len(delivery_files) == 0:
-            logging.warning(f'No delivery files found in {os.path.join(hdfs_data_path, "1_rawData", "t20s_csv2")}. Please check the directory and file permissions.')
+            logging.warning(f'No delivery files found in {os.path.join(config.RAW_DATA_DIR, "t20s_csv2")}. Please check the directory and file permissions.')
 
         # Initialize Spark session with HDFS configuration
         spark = utils.create_spark_session()
@@ -77,11 +76,9 @@ def preprocess_deliveries():
             StructField('other_wicket_type', StringType(), True),
             StructField('other_player_dismissed', StringType(), True)
         ])
-
         # Read the delivery files into a Spark DataFrame
-        delivery_paths = [os.path.join(hdfs_data_path, '1_rawData', 't20s_csv2', f) for f in delivery_files]
+        delivery_paths = [os.path.join(config.RAW_DATA_DIR, 't20s_csv2', f) for f in delivery_files]
         deliveries_data = spark.read.csv(delivery_paths, header=True, schema=delivery_schema)
-
         # Fill null values
         deliveries_data = deliveries_data.fillna(0)
 
@@ -101,7 +98,7 @@ def preprocess_deliveries():
 
         # Save Spark DataFrame to HDFS in CSV format
         try:
-            utils.save_data(deliveries_data, config.PROCESSED_DATA_DIR, 'deliveries.csv')
+            utils.spark_save_data(deliveries_data, config.PROCESSED_DATA_DIR, 'deliveries.csv')
             logging.info('Saved deliveries.csv to HDFS.')
         except Exception as e:
             logging.error(f'Error saving deliveries.csv to HDFS: {e}')

@@ -4,10 +4,9 @@ import os
 import logging
 import sys
 
-# Add parent directory to path
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
-import utils, config
-
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+import config
+import utils
 
 def preprocess_team_data():
     """Process and transform team statistics data."""
@@ -89,7 +88,7 @@ def preprocess_team_data():
                                      "Cumulative Tied", "Cumulative W/L", "Cumulative AveRPW", "Cumulative AveRPO")
 
         # Save processed data
-        utils.save_data(team_data, config.PROCESSED_DATA_DIR, 'teamStats.csv')
+        utils.spark_save_data(team_data, config.PROCESSED_DATA_DIR, 'team_stats.csv')
         
     except Exception as e:
         logging.error(f"Error in preprocess_team_data task: {e}")
@@ -97,7 +96,6 @@ def preprocess_team_data():
     finally:
         spark.stop()
         logging.info("Spark session stopped.")
-
 
 if __name__ == "__main__":
     preprocess_team_data()

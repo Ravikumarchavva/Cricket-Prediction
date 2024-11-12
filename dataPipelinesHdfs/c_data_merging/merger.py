@@ -8,7 +8,7 @@ import os
 import logging
 from pyspark.sql import Window
 from pyspark.sql.functions import (
-    coalesce, col, lit, sum as F_sum, when, last
+    coalesce, col, lit, sum as F_sum, when, last, max as F_max
 )
 
 import sys
@@ -26,7 +26,7 @@ def merge_data():
 
         # Load preprocessed data from HDFS using utils
         matches = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'matches.csv')
-        deliveries = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'deliveries.parquet')
+        deliveries = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'deliveries.csv')
         
         # Data preprocessing steps
         matches = matches.drop('date', 'city', 'toss_winner', 'toss_decision')
@@ -85,7 +85,7 @@ def merge_data():
         data = data.withColumn("target", when(col("innings") == 1, 0).otherwise(col("target")))
         
         # Save the merged data to HDFS using utils
-        utils.save_data(data, config.MERGED_DATA_DIR, 'ball_by_ball_flip.csv')
+        utils.spark_save_data(data, config.MERGED_DATA_DIR, 'ball_by_ball_flip.csv')
         logging.info('Merged data saved successfully.')
         
     except Exception as e:
