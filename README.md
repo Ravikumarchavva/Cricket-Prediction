@@ -60,20 +60,30 @@ The data processing pipeline consists of multiple stages and is orchestrated usi
 2. **Data Preprocessing**: Cleans and transforms raw data for player and team stats.
 3. **Data Merging**: Combines individual datasets for player, team, and ball-by-ball statistics.
 4. **Data Filtering**: Filters datasets for model training, focusing on relevant features.
-5. **HDFS Storage**: Uses Hadoop’s HDFS for storing large intermediate datasets.
+5. **HDFS Storage**: Uses Hadoop’s HDFS for storing datasets.
+6. **Pyspark**: Uses Apache Spark for data manuplation.
 
 ### Pipeline Diagram
 
 The entire data pipeline is visualized in Airflow, with each step from data extraction to filtering organized as individual tasks.
 
+![Airflow ETL Pipeline](./public/airflow_etl_pipeline.png)
+
+
+
+
 ## Modeling Approach
 
 This solution employs a sophisticated **multi-model architecture**:
 
-1. **RNN for Sequence Modeling**: Processes ball-by-ball data to capture temporal match dynamics.
+1. **RNN or Transformer for Sequence Modeling**: Processes ball-by-ball data to capture temporal match dynamics.
 2. **CNN for Player Stats**: Extracts features from player statistics, taking advantage of CNNs for feature aggregation.
 3. **DNN for Team Stats**: Processes high-level team statistics for match conditions and overall team strength.
 4. **Ensemble Model (DNN)**: Combines outputs from the RNN, CNN, and team DNN into a final DNN that predicts win probability.
+
+*pytorchData is ignored due to large data size run \training\labeling\datasetpreparation.ipynb  file to get those files*
+
+![Architecture Overview](./public/architectureOverview.png)
 
 ### Training Steps
 
