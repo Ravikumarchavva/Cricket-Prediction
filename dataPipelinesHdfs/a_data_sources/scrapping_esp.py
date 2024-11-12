@@ -3,6 +3,8 @@ import os
 import sys
 import requests
 import pandas as pd
+import time
+from io import StringIO
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import utils
@@ -52,7 +54,7 @@ def scrape_player_stats(session, page):
     stats_tables = {}
 
     for stats_type, response in zip(tasks.keys(), responses):
-        tables = pd.read_html(response, flavor='bs4')
+        tables = pd.read_html(StringIO(response), flavor='bs4')
         if len(tables) > 2:
             stats_table = tables[2]
             if len(stats_table) >= 2:
@@ -78,7 +80,7 @@ def scrape_team_stats(session):
         )
         try:
             response = fetch(session, url)
-            tables = pd.read_html(response, flavor='bs4')
+            tables = pd.read_html(StringIO(response), flavor='bs4')
             if len(tables) > 2:
                 stats_table = tables[2]
                 if len(stats_table) < 2:

@@ -12,7 +12,7 @@ HDFS_PORT = os.getenv('HDF_PORT', '9870')
 HDFS_USER = os.getenv('HDFS_USER', 'ravikumar')
 HDFS_URI = f'http://{HDFS_HOST}:{HDFS_PORT}'
 NAMENODE_PORT = os.getenv('NAMENODE_PORT', '8020')
-HDFS_NAMENODE = f'hdfs://{HDFS_HOST}:{NAMENODE_PORT}'
+HDFS_NAMENODE = f'hdfs://{HDFS_HOST}:{NAMENODE_PORT}' # core-site.xml
 
 # HDFS Data Paths
 HDFS_BASE_DIR = os.getenv('HDFS_BASE_DIR', '/usr/ravi/t20/data')
@@ -26,11 +26,21 @@ SPARK_APP_NAME = os.getenv('SPARK_APP_NAME', 'T20Internationals')
 SPARK_MASTER_PORT = os.getenv('SPARK_MASTER_PORT', '7077')
 SPARK_MASTER = f'spark://{HDFS_HOST}:{SPARK_MASTER_PORT}'
 SPARK_CONFIG = {
-    'spark.executor.memory': os.getenv('SPARK_EXECUTOR_MEMORY', '4g'),
-    'spark.executor.cores': os.getenv('SPARK_EXECUTOR_CORES', '2'),
-    'spark.cores.max': os.getenv('SPARK_CORES_MAX', '6'),
     'spark.master': f'spark://{HDFS_HOST}:{SPARK_MASTER_PORT}',
+    
+    'spark.executor.memory': os.getenv('SPARK_EXECUTOR_MEMORY', '2g'),
+    'spark.executor.cores': os.getenv('SPARK_EXECUTOR_CORES', '2'),
+
+    'spark.dynamicAllocation.enabled': 'true',
+    'spark.dynamicAllocation.minExecutors': '1',
+    'spark.shuffle.service.enabled': 'true',
+    'spark.dynamicAllocation.shuffleTracking.enabled': 'true',
+    'spark.shuffle.service.enabled': 'true',
+
+    'spark.dynamicAllocation.maxExecutors': '4',
+    'spark.cores.max': os.getenv('SPARK_CORES_MAX', '12'),
     'spark.hadoop.fs.defaultFS': HDFS_NAMENODE,
     'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',
     'spark.hadoop.fs.file.impl': 'org.apache.hadoop.fs.LocalFileSystem'
 }
+

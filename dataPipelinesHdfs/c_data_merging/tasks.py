@@ -3,9 +3,9 @@
 import logging
 
 # Import merging functions
-from c_data_merging.merger import merge_data
-from c_data_merging.match_team_stats import process_match_team_stats
-from c_data_merging.match_players_stats import process_match_players_stats
+from c_data_merging.merge_matches_and_deliveries import merge_data
+from c_data_merging.merge_match_team_stats import process_match_team_stats
+from c_data_merging.merge_match_players_stats import process_match_players_stats
 
 def merge_matches_and_deliveries():
     """Task wrapper for merging matches and deliveries data."""
