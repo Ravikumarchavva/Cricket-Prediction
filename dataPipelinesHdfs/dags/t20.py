@@ -4,7 +4,6 @@ import sys
 import os
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from airflow.providers.apache.hdfs.hooks.hdfs import HDFSHook
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
 from datetime import datetime, timedelta
 

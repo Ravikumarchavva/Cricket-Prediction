@@ -10,6 +10,7 @@ import os
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import config, utils
+from airflow.providers.apache.hdfs.hooks.webhdfs import WebHDFSHook
 
 # Configure logging
 logging.basicConfig(
@@ -19,8 +20,8 @@ logging.basicConfig(
 
 
 def upload_files_to_hdfs(client, hdfs_path, files):
-    """Upload multiple files to HDFS using InsecureClient."""
-    hdfs_files_set = set(client.list(hdfs_path))
+    """Upload multiple files to HDFS using HDFSHook."""
+    hdfs_files_set = utils.hdfs_list(client, hdfs_path)
     files_to_upload = {name: data for name, data in files.items() if name not in hdfs_files_set}
 
     if not files_to_upload:
@@ -29,7 +30,7 @@ def upload_files_to_hdfs(client, hdfs_path, files):
         print("Starting upload of files to HDFS.")
         with ThreadPoolExecutor(max_workers=100) as executor:  # Increased concurrency
             futures = [
-                executor.submit(client.write, os.path.join(hdfs_path, name), data)
+                executor.submit(client.write, os.path.join(hdfs_path, name), io.BytesIO(data), overwrite=True)
                 for name, data in files_to_upload.items()
             ]
             with tqdm(total=len(futures)) as pbar:
@@ -49,10 +50,10 @@ def download_cricsheet():
         print("Successfully downloaded and extracted ZIP file.")
     except Exception as e:
         logging.error(f"Error downloading or extracting ZIP file: {e}")
-        return
+        raise
 
     try:
-        print("Initializing Insecure HDFS client.")
+        print("Initializing Airflow HDFS client.")
         # Step 2: Initialize HDFS client
         client = utils.get_hdfs_client()
 
@@ -72,16 +73,13 @@ def download_cricsheet():
         people_response = requests.get('https://cricsheet.org/register/people.csv')
         people_response.raise_for_status()
         people_hdfs_path = os.path.join(config.RAW_DATA_DIR, 'people.csv')
-        client.write(people_hdfs_path, data=people_response.content, overwrite=True)
+        client.write(people_hdfs_path, io.BytesIO(people_response.content), overwrite=True)
         logging.info("Successfully uploaded people.csv to HDFS.")
     except Exception as e:
         logging.error(f"Error uploading files to HDFS: {e}")
-
+        raise
     return
 
-def main():
-    """Execute the Cricsheet data download process."""
-    download_cricsheet()
 
 if __name__ == "__main__":
-    main()
+    download_cricsheet()

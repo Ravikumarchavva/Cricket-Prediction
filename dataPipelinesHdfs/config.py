@@ -10,7 +10,8 @@ import os
 HDFS_HOST = os.getenv('HDFS_HOST', '192.168.245.142')
 HDFS_PORT = os.getenv('HDF_PORT', '9870')
 HDFS_USER = os.getenv('HDFS_USER', 'ravikumar')
-HDFS_URI = f'http://{HDFS_HOST}:{HDFS_PORT}'
+
+HDFS_URL = f'http://{HDFS_HOST}:{HDFS_PORT}'
 NAMENODE_PORT = os.getenv('NAMENODE_PORT', '8020')
 HDFS_NAMENODE = f'hdfs://{HDFS_HOST}:{NAMENODE_PORT}' # core-site.xml
 

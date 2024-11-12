@@ -112,13 +112,13 @@ def scrape_and_save_stats():
     with requests.Session() as session:
         session.headers.update(headers)
         # Fetch team stats
+        client = utils.get_hdfs_client()
         teams_table = scrape_team_stats(session)
         if not teams_table.empty:
             # Save team stats
             try:
-                client = utils.get_hdfs_client()
                 data = teams_table.to_csv(index=False)
-                utils.hdfs_write(client, f'{config.RAW_DATA_DIR}/t20_team_stats.csv', data=data, encoding='utf-8', overwrite=True)
+                client.write(f'{config.RAW_DATA_DIR}/t20_team_stats.csv', data=data, overwrite=True)
                 logging.info("Successfully saved team stats.")
             except Exception as e:
                 logging.error(f"Error writing team stats to HDFS: {e}")
@@ -142,7 +142,7 @@ def scrape_and_save_stats():
                 combined_df.drop(columns=[drop_col], axis=1, inplace=True, errors='ignore')
                 try:
                     data = combined_df.to_csv(index=False)
-                    utils.hdfs_write(client, f'{config.RAW_DATA_DIR}/t20_{stats_type}_stats.csv', data=data, encoding='utf-8', overwrite=True)
+                    client.write(f'{config.RAW_DATA_DIR}/t20_{stats_type}_stats.csv', data, overwrite=True)
                     logging.info(f"Successfully saved {stats_type} stats.")
                 except Exception as e:
                     logging.error(f"Error writing {stats_type} stats to HDFS: {e}")

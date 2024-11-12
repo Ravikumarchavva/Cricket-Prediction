@@ -65,7 +65,7 @@ def process_players_data():
         # Save dataframes to HDFS
         try:
             data = dataframes.to_csv(index=False)
-            utils.hdfs_write(client, f'{config.PROCESSED_DATA_DIR}/match_players.csv', data=data, encoding='utf-8', overwrite=True)
+            client.write(f'{config.PROCESSED_DATA_DIR}/match_players.csv', data=data, encoding='utf-8', overwrite=True)
             print('Saved match_players.csv to HDFS.')
         except Exception as e:
             logging.error(f'Error saving match_players to HDFS: {e}')
@@ -77,7 +77,7 @@ def process_players_data():
         # Save players to HDFS
         try:
             data = players.to_csv(index=False)
-            utils.hdfs_write(client, f'{config.PROCESSED_DATA_DIR}/players.csv', data=data, encoding='utf-8', overwrite=True)
+            client.write(f'{config.PROCESSED_DATA_DIR}/players.csv', data=data, encoding='utf-8', overwrite=True)
             print('Saved players.csv to HDFS.')
         except Exception as e:
             logging.error(f'Error saving players.csv to HDFS: {e}')

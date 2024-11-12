@@ -49,7 +49,7 @@ def preprocess_deliveries():
             logging.warning(f'No delivery files found in {os.path.join(config.RAW_DATA_DIR, "t20s_csv2")}. Please check the directory and file permissions.')
 
         # Initialize Spark session with HDFS configuration
-        spark = utils.create_spark_session()
+        spark = utils.create_spark_session("PrerocessDeliveries")
 
         # Define the schema for the deliveries data
         delivery_schema = StructType([

@@ -19,7 +19,7 @@ def process_match_team_stats():
 
     try:
         # Initialize Spark session using utils
-        spark = utils.create_spark_session()
+        spark = utils.create_spark_session("MatchTeamStats")
 
         # Load data from HDFS using utils
         teams = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'team_stats.csv')

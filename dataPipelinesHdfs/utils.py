@@ -4,7 +4,7 @@ import config
 import logging
 import os
 from pyspark.sql import SparkSession
-from hdfs import InsecureClient
+from airflow.providers.apache.hdfs.hooks.webhdfs import WebHDFSHook
 import io
 
 
@@ -63,48 +63,14 @@ def spark_save_data(df, output_dir, filename):
 
 
 def get_hdfs_client():
-    """Initialize and return an HDFS client."""
-    return InsecureClient(url=config.HDFS_URI, user=config.HDFS_USER)
+    """Initialize and return an HDFS client using Airflow's HDFSHook."""
+    hook = WebHDFSHook(webhdfs_conn_id='webhdfs_default')  # Ensure this matches the connection ID in Airflow
+    return hook.get_conn()
 
 def hdfs_read(client, path):
     """Read a file from HDFS."""
-    return client.read(path)
-
-import pandas as pd
-import polars as pl
-
-def hdfs_write(client, path, data=None, overwrite=True, encoding='utf-8'):
-    """Write data to HDFS (supports Pandas/Polars DataFrames or CSV text data)."""
-    
-    # Convert DataFrame to CSV if necessary
-    if isinstance(data, pd.DataFrame):
-        data = data.to_csv(index=False, encoding=encoding)
-    elif isinstance(data, pl.DataFrame):
-        data = data.write_csv(None)  # Polars writes directly to a string if path is None
-    elif isinstance(data, bytes):
-        data = data.decode(encoding)
-    elif isinstance(data, io.BytesIO):
-        data = data.getvalue().decode(encoding)
-    elif not isinstance(data, str):
-        raise TypeError("Unsupported data type. Provide a Pandas/Polars DataFrame or CSV text data.")
-
-    # Handle existing file or directory if overwrite is True
-    if overwrite and hdfs_exists(client, path):
-        try:
-            client.delete(path, recursive=True)
-            logging.info(f"Deleted existing path: {path}")
-        except Exception as e:
-            logging.error(f"Error deleting {path}: {e}")
-            raise
-
-    # Write data to HDFS
-    try:
-        writer = client.write(path, data=data, overwrite=overwrite, encoding=encoding)
-        logging.info(f"Successfully wrote data to {path}")
-        return writer
-    except Exception as e:
-        logging.error(f"Error writing to {path} on HDFS: {e}")
-        raise
+    with client.read(path) as reader:
+        return reader.read().decode('utf-8')
 
 def hdfs_list(client, path):
     """List files in a directory on HDFS."""
@@ -116,21 +82,20 @@ def hdfs_list(client, path):
 
 def hdfs_mkdirs(client, path):
     """Create directories on HDFS."""
-    client.makedirs(path)
+    client.makedirs(path, permission=0o755)
 
 def hdfs_exists(client, path):
     """Check if a path exists on HDFS."""
-    return client.status(path, strict=False) is not None
+    try:
+        client.status(path)
+        return True
+    except FileNotFoundError:
+        return False
 
 def ensure_hdfs_directory(client, path):
     """Ensure that a directory exists on HDFS, creating it if necessary."""
     if not hdfs_exists(client, path):
         hdfs_mkdirs(client, path)
-        logging.info(f"Created directory: {path}")
-
-
-def is_conda_env():
-    """Check if the script is running inside a Conda environment."""
     return os.getenv('CONDA_DEFAULT_ENV') is not None
 
 

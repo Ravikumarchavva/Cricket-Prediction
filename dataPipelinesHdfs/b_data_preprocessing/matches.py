@@ -23,11 +23,6 @@ def preprocess_matches():
     # Initialize logging
     logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
 
-    # Check if running inside a Conda environment
-    if not utils.is_conda_env():
-        logging.critical('This script must be run inside a Conda environment.')
-        raise EnvironmentError('This script must be run inside a Conda environment.')
-
     try:
         # Initialize HDFS client
         client = utils.get_hdfs_client()
@@ -111,7 +106,7 @@ def preprocess_matches():
         utils.ensure_hdfs_directory(client, config.PROCESSED_DATA_DIR)
         matches_csv_path = os.path.join(config.PROCESSED_DATA_DIR, 'matches.csv')
         csv_data = matches_data.write_csv()
-        utils.hdfs_write(client, matches_csv_path, data=csv_data)
+        client.write(matches_csv_path, data=csv_data, overwrite=True)
         print('Matches data processing and saving completed successfully.')
 
     except Exception as e:
