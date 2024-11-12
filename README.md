@@ -5,4 +5,4 @@ pytorchData is ignored due to large data size run \training\labeling\datasetprep
 
 ![ETL Pipeline](./public/etlpipeline.png)
 
-![Airflow ETL Pipeline](./airflow_etl_pipeline.png)
+![Airflow ETL Pipeline](./public/airflow_etl_pipeline.png)
