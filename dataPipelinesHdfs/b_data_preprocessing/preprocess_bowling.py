@@ -5,7 +5,7 @@ import os
 import logging
 import sys
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
 import config
 from utils import create_spark_session, load_data, spark_save_data, country_codes
 

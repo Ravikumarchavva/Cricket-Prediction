@@ -9,7 +9,7 @@ import logging
 from pyspark.sql import functions as F
 
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
 import config
 import utils
 

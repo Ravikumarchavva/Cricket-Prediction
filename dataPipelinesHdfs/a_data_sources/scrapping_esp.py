@@ -6,9 +6,11 @@ import pandas as pd
 import time
 from io import StringIO
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-import utils
-import config
+import os
+import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
+import config, utils
+
 
 # Configure logging
 logging.basicConfig(

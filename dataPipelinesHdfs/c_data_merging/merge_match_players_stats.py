@@ -10,7 +10,7 @@ from pyspark.sql import Window
 from pyspark.sql.functions import col, lit, row_number
 
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
 import config
 import utils
 

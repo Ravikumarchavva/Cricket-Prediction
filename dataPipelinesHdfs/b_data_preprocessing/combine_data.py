@@ -1,11 +1,12 @@
 
 """Combine batting, bowling, and fielding statistics into a single dataset."""
 
-import os
 import logging
+import os
 import sys
+sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
+import config
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import config
 from utils import create_spark_session, load_data, spark_save_data
 
@@ -18,7 +19,7 @@ def combine_data():
         batting_data = load_data(spark, config.PROCESSED_DATA_DIR, 'batting_data.csv')
         bowling_data = load_data(spark, config.PROCESSED_DATA_DIR, 'bowling_data.csv')
         fielding_data = load_data(spark, config.PROCESSED_DATA_DIR, 'fielding_data.csv')
-        players_data = load_data(spark, config.PROCESSED_DATA_DIR, 'players.csv')
+        players_data = load_data(spark, config.PROCESSED_DATA_DIR, 'match_players.csv')
 
         batting_data = batting_data.join(players_data, ['Player', 'Country', 'Season'], 'inner')
         bowling_data = bowling_data.join(players_data, ['Player', 'Country', 'Season'], 'inner')

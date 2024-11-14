@@ -8,7 +8,7 @@ import concurrent.futures
 from tqdm import tqdm
 
 # Add the parent directory to sys.path for importing config and utils
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
 import config
 import utils
 import io

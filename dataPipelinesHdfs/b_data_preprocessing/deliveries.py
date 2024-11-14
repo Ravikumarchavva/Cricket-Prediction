@@ -12,10 +12,10 @@ from pyspark.sql.types import (
 )
 from pyspark.sql.functions import col, when
 
+import os
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-import config
-import utils
+sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
+import config, utils
 
 
 def preprocess_deliveries():
