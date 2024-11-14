@@ -35,8 +35,8 @@ def preprocess_batting_data(batting_data):
         "Ave",
         when(col("Ave") == "-", col("Runs") / col("Inns"))
         .otherwise(col("Ave")).cast("float")
-    ).na.fill(0)
-
+    ).fillna({'Ave': 0})
+    
     batting_data = batting_data.withColumn(
         "Country",
         regexp_extract(col("Player"), r"\((.*?)\)", 1)

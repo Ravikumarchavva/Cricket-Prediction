@@ -101,8 +101,11 @@ This model is deployed in a **portfolio website** as part of a static visual sho
 ### Prerequisites
 
 1. Install **Apache Airflow**, **Spark**, and **Hadoop** for managing the data pipeline.
-2. Ensure Python dependencies are installed using `requirements.txt`.
-3. Set up **Airflow** and **HDFS** connections in your environment configuration.
+2. Ensure Python dependencies are installed using `requirements.txt`. or use the following command
+```Code
+    conda env create -f conda-env.yaml
+```
+3. Set up **Airflow** and **HDFS** connections in your environment configuration. and change configuration in /dataPipelineHdfs/config.py
 
 ### Run Pipeline
 

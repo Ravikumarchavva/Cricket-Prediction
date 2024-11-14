@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,England
+info,gender,female
+info,season,2024/25
+info,date,2024/10/13
+info,event,ICC Women's T20 World Cup
+info,match_number,17
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,ME Bouchier
+info,umpire,CA Polosak
+info,umpire,Lauren Agenbag
+info,reserve_umpire,Eloise Sheridan
+info,tv_umpire,S Dambanevana
+info,match_referee,JM Pereira
+info,winner,England
+info,winner_wickets,10
+info,player,Scotland,S Horley
+info,player,Scotland,SJ Bryce
+info,player,Scotland,KE Bryce
+info,player,Scotland,A Lister
+info,player,Scotland,L Jack
+info,player,Scotland,M McColl
+info,player,Scotland,DEM Carter
+info,player,Scotland,K Fraser
+info,player,Scotland,R Slater
+info,player,Scotland,AH Maqsood
+info,player,Scotland,O Bell
+info,player,England,ME Bouchier
+info,player,England,DN Wyatt
+info,player,England,SIR Dunkley
+info,player,England,NR Sciver-Brunt
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,DR Gibson
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,S Ecclestone
+info,player,England,LK Bell
+info,registry,people,A Lister,090c0213
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,DR Gibson,d2763568
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,LK Bell,38b4583c
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,O Bell,385eac52
+info,registry,people,R Slater,8a452195
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SJ Bryce,2ca65aee

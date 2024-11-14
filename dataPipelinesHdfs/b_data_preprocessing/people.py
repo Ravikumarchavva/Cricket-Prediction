@@ -45,7 +45,7 @@ def process_players_data():
         for info_file in tqdm(info_files):
             match_id = pd.to_numeric(info_file.split('/')[-1].split('_')[0])
             try:
-                with utils.hdfs_read(client, os.path.join(config.RAW_DATA_DIR, 't20s_csv2', info_file)) as reader:
+                with client.read(os.path.join(config.RAW_DATA_DIR, 't20s_csv2', info_file)) as reader:
                     df = pd.read_csv(reader, header=None, names=['type', 'heading', 'subkey', 'players', 'player_id'], skipinitialspace=True).drop('type', axis=1)
                 players_df = df[df['heading'] == "player"].drop(['heading', 'player_id'], axis=1)
                 registry_df = df[df['heading'] == "registry"].drop('heading', axis=1)

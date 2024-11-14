@@ -2951,6 +2951,7 @@ Matches included in this archive
 2024-09-14 - international - T20 - female - 1430820 - England vs Ireland
 2024-09-15 - international - T20 - female - 1430821 - England vs Ireland
 2024-09-27 - international - T20 - male - 1431086 - Ireland vs South Africa
+2024-09-29 - international - T20 - male - 1431087 - Ireland vs South Africa
 2024-05-07 - international - T20 - male - 1431120 - Japan vs Mongolia
 2024-05-08 - international - T20 - male - 1431121 - Japan vs Mongolia
 2024-05-08 - international - T20 - male - 1431122 - Japan vs Mongolia
@@ -2970,12 +2971,37 @@ Matches included in this archive
 2024-05-11 - international - T20 - male - 1432198 - Malta vs Belgium
 2024-05-11 - international - T20 - male - 1432199 - Belgium vs France
 2024-05-12 - international - T20 - male - 1432200 - France vs Belgium
+2024-10-03 - international - T20 - female - 1432422 - Bangladesh vs Scotland
+2024-10-03 - international - T20 - female - 1432423 - Pakistan vs Sri Lanka
+2024-10-04 - international - T20 - female - 1432424 - West Indies vs South Africa
+2024-10-04 - international - T20 - female - 1432425 - New Zealand vs India
+2024-10-05 - international - T20 - female - 1432426 - Sri Lanka vs Australia
+2024-10-05 - international - T20 - female - 1432427 - England vs Bangladesh
+2024-10-06 - international - T20 - female - 1432428 - Pakistan vs India
+2024-10-06 - international - T20 - female - 1432429 - Scotland vs West Indies
+2024-10-07 - international - T20 - female - 1432430 - South Africa vs England
+2024-10-08 - international - T20 - female - 1432431 - Australia vs New Zealand
+2024-10-09 - international - T20 - female - 1432432 - South Africa vs Scotland
+2024-10-09 - international - T20 - female - 1432433 - India vs Sri Lanka
+2024-10-10 - international - T20 - female - 1432434 - Bangladesh vs West Indies
+2024-10-11 - international - T20 - female - 1432435 - Pakistan vs Australia
+2024-10-12 - international - T20 - female - 1432436 - Sri Lanka vs New Zealand
+2024-10-12 - international - T20 - female - 1432437 - Bangladesh vs South Africa
+2024-10-13 - international - T20 - female - 1432438 - Scotland vs England
+2024-10-13 - international - T20 - female - 1432439 - Australia vs India
+2024-10-14 - international - T20 - female - 1432440 - New Zealand vs Pakistan
+2024-10-15 - international - T20 - female - 1432441 - England vs West Indies
+2024-10-17 - international - T20 - female - 1432442 - Australia vs South Africa
+2024-10-18 - international - T20 - female - 1432443 - New Zealand vs West Indies
+2024-10-20 - international - T20 - female - 1432444 - New Zealand vs South Africa
 2024-05-23 - international - T20 - male - 1433362 - West Indies vs South Africa
 2024-05-25 - international - T20 - male - 1433363 - West Indies vs South Africa
 2024-05-26 - international - T20 - male - 1433364 - South Africa vs West Indies
 2024-08-23 - international - T20 - male - 1433367 - South Africa vs West Indies
 2024-08-25 - international - T20 - male - 1433368 - West Indies vs South Africa
 2024-08-27 - international - T20 - male - 1433369 - South Africa vs West Indies
+2024-11-09 - international - T20 - male - 1433373 - West Indies vs England
+2024-11-10 - international - T20 - male - 1433374 - West Indies vs England
 2024-05-28 - international - T20 - female - 1433772 - Netherlands vs Italy
 2024-05-30 - international - T20 - female - 1433775 - Italy vs Netherlands
 2024-05-24 - international - T20 - male - 1434155 - Bulgaria vs Gibraltar
@@ -3078,6 +3104,9 @@ Matches included in this archive
 2024-07-13 - international - T20 - male - 1439831 - Croatia vs Switzerland
 2024-07-14 - international - T20 - male - 1439833 - Croatia vs Germany
 2024-07-14 - international - T20 - male - 1439836 - Norway vs Jersey
+2024-10-06 - international - T20 - male - 1439893 - Bangladesh vs India
+2024-10-09 - international - T20 - male - 1439894 - India vs Bangladesh
+2024-10-12 - international - T20 - male - 1439895 - India vs Bangladesh
 2024-06-22 - international - T20 - male - 1440129 - Guernsey vs Jersey
 2024-06-22 - international - T20 - male - 1440130 - Guernsey vs Jersey
 2024-06-23 - international - T20 - male - 1440131 - Jersey vs Guernsey
@@ -3210,6 +3239,8 @@ Matches included in this archive
 2024-09-12 - international - T20 - female - 1449025 - Namibia vs United Arab Emirates
 2024-09-13 - international - T20 - female - 1449026 - Zimbabwe vs United Arab Emirates
 2024-09-14 - international - T20 - female - 1449027 - Namibia vs Zimbabwe
+2024-11-08 - international - T20 - male - 1449301 - India vs South Africa
+2024-11-10 - international - T20 - male - 1449302 - India vs South Africa
 2024-09-14 - international - T20 - female - 1450198 - Denmark vs Norway
 2024-09-14 - international - T20 - female - 1450199 - Austria vs Luxembourg
 2024-09-14 - international - T20 - female - 1450200 - Austria vs Denmark
@@ -3238,10 +3269,110 @@ Matches included in this archive
 2024-09-26 - international - T20 - male - 1450765 - Tanzania vs Malawi
 2024-09-25 - international - T20 - male - 1450766 - Japan vs Indonesia
 2024-09-26 - international - T20 - male - 1450767 - Japan vs Philippines
+2024-09-28 - international - T20 - male - 1450768 - Philippines vs Japan
+2024-09-28 - international - T20 - male - 1450769 - South Korea vs Indonesia
+2024-09-29 - international - T20 - male - 1450770 - Philippines vs Indonesia
+2024-09-29 - international - T20 - male - 1450771 - South Korea vs Japan
+2024-10-01 - international - T20 - male - 1450772 - Japan vs Indonesia
+2024-10-01 - international - T20 - male - 1450773 - Philippines vs South Korea
+2024-10-02 - international - T20 - male - 1450774 - Japan vs Philippines
+2024-10-02 - international - T20 - male - 1450775 - Indonesia vs South Korea
+2024-10-04 - international - T20 - male - 1450776 - Indonesia vs Philippines
+2024-10-04 - international - T20 - male - 1450777 - Japan vs South Korea
+2024-10-05 - international - T20 - male - 1450778 - Philippines vs South Korea
+2024-10-05 - international - T20 - male - 1450779 - Japan vs Indonesia
+2024-09-29 - international - T20 - male - 1450817 - United Arab Emirates vs Namibia
+2024-09-30 - international - T20 - male - 1450818 - United States of America vs United Arab Emirates
+2024-10-01 - international - T20 - male - 1450819 - United States of America vs Namibia
+2024-10-02 - international - T20 - male - 1450820 - Namibia vs United Arab Emirates
+2024-10-04 - international - T20 - male - 1450821 - United Arab Emirates vs United States of America
+2024-10-05 - international - T20 - male - 1450822 - Namibia vs United States of America
+2024-09-28 - international - T20 - male - 1450823 - Canada vs Nepal
+2024-09-29 - international - T20 - male - 1450824 - Nepal vs Oman
+2024-09-30 - international - T20 - male - 1450825 - Canada vs Oman
+2024-10-01 - international - T20 - male - 1450826 - Nepal vs Canada
+2024-10-02 - international - T20 - male - 1450827 - Nepal vs Oman
+2024-10-03 - international - T20 - male - 1450828 - Oman vs Canada
 2024-09-21 - international - T20 - female - 1451291 - Spain vs Greece
 2024-09-21 - international - T20 - female - 1451292 - Greece vs Spain
 2024-09-22 - international - T20 - female - 1451293 - Greece vs Spain
 2024-09-22 - international - T20 - female - 1451294 - Greece vs Spain
+2024-10-01 - international - T20 - female - 1451303 - Singapore vs Japan
+2024-10-02 - international - T20 - female - 1451304 - Singapore vs Japan
+2024-10-04 - international - T20 - female - 1451305 - Japan vs Singapore
+2024-10-05 - international - T20 - female - 1451306 - Japan vs Singapore
+2024-10-06 - international - T20 - female - 1451307 - Japan vs Singapore
+2024-10-08 - international - T20 - female - 1451308 - Hong Kong vs Japan
+2024-10-09 - international - T20 - female - 1451311 - Hong Kong vs China
+2024-10-12 - international - T20 - female - 1451317 - Hong Kong vs South Korea
+2024-10-13 - international - T20 - female - 1451318 - South Korea vs China
+2024-10-13 - international - T20 - male - 1451814 - Sri Lanka vs West Indies
+2024-10-15 - international - T20 - male - 1451815 - Sri Lanka vs West Indies
+2024-10-17 - international - T20 - male - 1451816 - West Indies vs Sri Lanka
+2024-09-30 - international - T20 - male - 1452624 - Serbia vs Gibraltar
+2024-09-30 - international - T20 - male - 1452625 - Serbia vs Gibraltar
+2024-10-17 - international - T20 - male - 1453518 - Nepal vs United States of America
+2024-10-19 - international - T20 - male - 1453519 - Nepal vs United States of America
+2024-10-20 - international - T20 - male - 1453520 - United States of America vs Nepal
+2024-10-12 - international - T20 - male - 1453903 - Brazil vs Mexico
+2024-10-13 - international - T20 - male - 1453909 - Mexico vs Argentina
+2024-10-19 - international - T20 - male - 1453911 - Thailand vs Bhutan
+2024-10-19 - international - T20 - male - 1453912 - Indonesia vs Maldives
+2024-10-20 - international - T20 - male - 1453913 - Maldives vs Bhutan
+2024-10-20 - international - T20 - male - 1453914 - Indonesia vs Thailand
+2024-10-22 - international - T20 - male - 1453915 - Thailand vs Maldives
+2024-10-22 - international - T20 - male - 1453916 - Bhutan vs Indonesia
+2024-10-23 - international - T20 - male - 1453917 - Thailand vs Indonesia
+2024-10-23 - international - T20 - male - 1453918 - Bhutan vs Maldives
+2024-10-24 - international - T20 - male - 1453919 - Indonesia vs Bhutan
+2024-10-19 - international - T20 - male - 1453922 - Zimbabwe vs Seychelles
+2024-10-19 - international - T20 - male - 1453923 - Kenya vs Mozambique
+2024-10-24 - international - T20 - male - 1453924 - Rwanda vs Seychelles
+2024-10-24 - international - T20 - male - 1453925 - Zimbabwe vs Kenya
+2024-10-24 - international - T20 - male - 1453926 - Gambia vs Mozambique
+2024-10-20 - international - T20 - male - 1453927 - Mozambique vs Zimbabwe
+2024-10-20 - international - T20 - male - 1453929 - Rwanda vs Kenya
+2024-10-23 - international - T20 - male - 1453930 - Seychelles vs Kenya
+2024-10-23 - international - T20 - male - 1453931 - Rwanda vs Mozambique
+2024-10-23 - international - T20 - male - 1453932 - Zimbabwe vs Gambia
+2024-10-22 - international - T20 - male - 1453933 - Mozambique vs Seychelles
+2024-10-22 - international - T20 - male - 1453934 - Kenya vs Gambia
+2024-10-22 - international - T20 - male - 1453935 - Zimbabwe vs Rwanda
+2024-10-09 - international - T20 - male - 1454384 - Malawi vs Rwanda
+2024-10-10 - international - T20 - male - 1454385 - Malawi vs Rwanda
+2024-10-13 - international - T20 - male - 1454388 - Malawi vs Rwanda
+2024-10-12 - international - T20 - female - 1454935 - Serbia vs Bulgaria
+2024-10-13 - international - T20 - female - 1454936 - Bulgaria vs Serbia
+2024-10-13 - international - T20 - female - 1454937 - Bulgaria vs Serbia
+2024-10-18 - international - T20 - male - 1456013 - Kenya vs Seychelles
+2024-10-21 - international - T20 - female - 1456121 - Singapore vs Myanmar
+2024-10-22 - international - T20 - female - 1456122 - Kuwait vs Myanmar
+2024-10-22 - international - T20 - female - 1456123 - Singapore vs Kuwait
+2024-10-24 - international - T20 - female - 1456124 - Singapore vs Myanmar
+2024-10-25 - international - T20 - female - 1456125 - Myanmar vs Kuwait
+2024-10-26 - international - T20 - female - 1456126 - Singapore vs Kuwait
+2024-10-27 - international - T20 - female - 1456127 - Myanmar vs Singapore
+2024-10-28 - international - T20 - female - 1456128 - Kuwait vs Myanmar
+2024-10-29 - international - T20 - female - 1456129 - Singapore vs Kuwait
+2024-10-30 - international - T20 - female - 1456130 - Kuwait vs Myanmar
+2024-11-09 - international - T20 - male - 1456441 - New Zealand vs Sri Lanka
+2024-11-10 - international - T20 - male - 1456442 - New Zealand vs Sri Lanka
+2024-10-26 - international - T20 - female - 1456854 - Bulgaria vs Greece
+2024-11-08 - international - T20 - female - 1456858 - China vs Hong Kong
+2024-11-08 - international - T20 - female - 1456859 - Myanmar vs Mongolia
+2024-11-07 - international - T20 - female - 1456860 - Mongolia vs China
+2024-11-07 - international - T20 - female - 1456861 - Myanmar vs Hong Kong
+2024-11-09 - international - T20 - female - 1456862 - Myanmar vs China
+2024-11-09 - international - T20 - female - 1456863 - Mongolia vs Hong Kong
+2024-11-10 - international - T20 - female - 1456864 - Mongolia vs Myanmar
+2024-11-10 - international - T20 - female - 1456865 - China vs Hong Kong
+2024-10-28 - international - T20 - male - 1457350 - Bahrain vs Uganda
+2024-10-29 - international - T20 - male - 1457351 - Bahrain vs Uganda
+2024-10-29 - international - T20 - female - 1457354 - Rwanda vs Kenya
+2024-10-30 - international - T20 - female - 1457355 - Kenya vs Rwanda
+2024-10-31 - international - T20 - female - 1457356 - Rwanda vs Kenya
+2024-11-02 - international - T20 - female - 1457357 - Kenya vs Rwanda
+2024-11-02 - international - T20 - female - 1457358 - Kenya vs Rwanda
 2005-06-13 - international - T20 - male - 211028 - England vs Australia
 2005-02-17 - international - T20 - male - 211048 - New Zealand vs Australia
 2005-10-21 - international - T20 - male - 222678 - South Africa vs New Zealand

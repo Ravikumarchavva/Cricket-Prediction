@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Seychelles
+info,team,Kenya
+info,gender,male
+info,season,2024/25
+info,date,2024/10/23
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,10
+info,venue,"Ruaraka Sports Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Seychelles
+info,toss_decision,bat
+info,player_of_match,SO Ngoche
+info,umpire,Morshed Ali Khan
+info,umpire,P Sizara
+info,reserve_umpire,Stephen Harris
+info,match_referee,ET Dube
+info,winner,Kenya
+info,winner_wickets,9
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,T Horpinitch
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,SKDT Madusanka
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,N Krishna
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,SR Rocket
+info,player,Seychelles,N Gnanapragasam
+info,player,Seychelles,S Rukmal
+info,player,Kenya,RN Patel
+info,player,Kenya,N Mugabe
+info,player,Kenya,RR Patel
+info,player,Kenya,S Gill
+info,player,Kenya,SR Bhudia
+info,player,Kenya,IA Karim
+info,player,Kenya,LN Oluoch
+info,player,Kenya,SO Ngoche
+info,player,Kenya,F Mutua
+info,player,Kenya,Vraj Patel
+info,player,Kenya,GM Muthui
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Mutua,21b67523
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,IA Karim,ca92a578
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,N Gnanapragasam,4f6d5f87
+info,registry,people,N Krishna,c62a0327
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SKDT Madusanka,95c2d309
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,SR Mohan,58533699
+info,registry,people,SR Rocket,ee3bfb9b
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Horpinitch,90c734f8
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,Vraj Patel,2af28253

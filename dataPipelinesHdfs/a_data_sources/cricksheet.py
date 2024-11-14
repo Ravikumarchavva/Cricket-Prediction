@@ -10,7 +10,6 @@ import os
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 import config, utils
-from airflow.providers.apache.hdfs.hooks.webhdfs import WebHDFSHook
 
 # Configure logging
 logging.basicConfig(

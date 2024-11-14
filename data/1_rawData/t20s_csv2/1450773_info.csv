@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Philippines
+info,team,South Korea
+info,gender,male
+info,season,2024
+info,date,2024/10/01
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B
+info,match_number,6
+info,venue,"Yeonhui Cricket Ground, Incheon"
+info,city,Incheon
+info,toss_winner,South Korea
+info,toss_decision,field
+info,player_of_match,AS Samra
+info,umpire,Sarika Prasad
+info,umpire,Suresh Subramanian
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,AK Rana
+info,match_referee,TL Anderson
+info,winner,Philippines
+info,winner_runs,37
+info,player,Philippines,Kulwinderjeet Singh
+info,player,Philippines,DC Smith
+info,player,Philippines,AS Samra
+info,player,Philippines,N Tanner
+info,player,Philippines,Rhys Burinaga
+info,player,Philippines,M Podosky
+info,player,Philippines,J Tuffin
+info,player,Philippines,HER Tyler
+info,player,Philippines,KDA Lukies
+info,player,Philippines,LJ Myott
+info,player,Philippines,Huzaifa Mohammed
+info,player,South Korea,Raja Shoaib
+info,player,South Korea,BI Dilruksha
+info,player,South Korea,Aamir Lal
+info,player,South Korea,Alam Nakash
+info,player,South Korea,S Maduranga
+info,player,South Korea,Mudassir Iqbal
+info,player,South Korea,Kim Daeyeon
+info,player,South Korea,Jun Hyunwoo
+info,player,South Korea,Lee Kangmin
+info,player,South Korea,Fazil Muhammad
+info,player,South Korea,AN Hyobeom
+info,registry,people,AK Rana,562d74d0
+info,registry,people,AN Hyobeom,8a00eec1
+info,registry,people,AS Samra,bf976fb0
+info,registry,people,Aamir Lal,2472ad2c
+info,registry,people,Alam Nakash,90830f8d
+info,registry,people,BI Dilruksha,bf60e1d2
+info,registry,people,DC Smith,a968d39b
+info,registry,people,Fazil Muhammad,4551ed03
+info,registry,people,HER Tyler,0ba9de33
+info,registry,people,Huzaifa Mohammed,65a29a30
+info,registry,people,J Tuffin,8069f81f
+info,registry,people,Jun Hyunwoo,431f2dd4
+info,registry,people,KDA Lukies,14af45c4
+info,registry,people,Kim Daeyeon,4a51c045
+info,registry,people,Kulwinderjeet Singh,f4d1184a
+info,registry,people,LJ Myott,3f9d95f9
+info,registry,people,Lee Kangmin,cd752e8a
+info,registry,people,M Podosky,c46999c7
+info,registry,people,Mudassir Iqbal,63f306ac
+info,registry,people,N Tanner,5f5efae1
+info,registry,people,Raja Shoaib,7b0ea09e
+info,registry,people,Rhys Burinaga,a6cbe67b
+info,registry,people,S Maduranga,68f24545
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Suresh Subramanian,4e869e23
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,Tanvir Ahmed,ea2df1f1

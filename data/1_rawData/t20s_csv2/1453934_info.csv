@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Gambia
+info,gender,male
+info,season,2024/25
+info,date,2024/10/22
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,8
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Kenya
+info,toss_decision,bat
+info,player_of_match,GM Muthui
+info,umpire,F Mutizwa
+info,umpire,LB Gcuma
+info,reserve_umpire,Stephen Harris
+info,match_referee,ET Dube
+info,winner,Kenya
+info,winner_runs,129
+info,player,Kenya,P Sharma
+info,player,Kenya,N Mugabe
+info,player,Kenya,S Gill
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,IA Karim
+info,player,Kenya,LN Oluoch
+info,player,Kenya,SO Ngoche
+info,player,Kenya,F Mutua
+info,player,Kenya,P Koech
+info,player,Kenya,GM Muthui
+info,player,Gambia,Andre Jarju
+info,player,Gambia,AM Rajpurohit
+info,player,Gambia,Asim Ashraf
+info,player,Gambia,Abubacarr Kuyateh
+info,player,Gambia,F Campbell
+info,player,Gambia,Ismaila Tanba
+info,player,Gambia,Basiru Jaye
+info,player,Gambia,Mustapha Suwareh
+info,player,Gambia,Ousman Bah
+info,player,Gambia,Shan Siddiqui
+info,player,Gambia,M Jobarteh
+info,registry,people,AM Rajpurohit,06b8bdb3
+info,registry,people,Abubacarr Kuyateh,0ec45a9a
+info,registry,people,Andre Jarju,53dd7d8e
+info,registry,people,Asim Ashraf,ca47f0fb
+info,registry,people,Basiru Jaye,6e80042d
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Campbell,02c3024c
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,F Mutua,21b67523
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,IA Karim,ca92a578
+info,registry,people,Ismaila Tanba,180e2c15
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Jobarteh,4a2ce060
+info,registry,people,Mustapha Suwareh,44116edc
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,Ousman Bah,95c214dd
+info,registry,people,P Koech,f4a0a615
+info,registry,people,P Sharma,d047f983
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Shan Siddiqui,e2b86f12
+info,registry,people,Stephen Harris,fdcfd4aa

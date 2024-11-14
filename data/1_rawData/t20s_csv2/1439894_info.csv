@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,male
+info,season,2024/25
+info,date,2024/10/09
+info,event,Bangladesh tour of India
+info,match_number,2
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,Nithish Kumar Reddy
+info,umpire,J Madanagopal
+info,umpire,VK Sharma
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,R Pandit
+info,match_referee,JJ Crowe
+info,winner,India
+info,winner_runs,86
+info,player,India,SV Samson
+info,player,India,Abhishek Sharma
+info,player,India,SA Yadav
+info,player,India,Nithish Kumar Reddy
+info,player,India,RK Singh
+info,player,India,HH Pandya
+info,player,India,R Parag
+info,player,India,Washington Sundar
+info,player,India,CV Varun
+info,player,India,Arshdeep Singh
+info,player,India,MP Yadav
+info,player,Bangladesh,Parvez Hossain Emon
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mehedi Hasan Miraz
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MP Yadav,b1ad996b
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mehedi Hasan Miraz,c58b0108
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad

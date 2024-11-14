@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Greece
+info,gender,female
+info,season,2024/25
+info,date,2024/10/26
+info,event,Bulgaria Women tour of Greece
+info,match_number,1
+info,venue,"Marina Ground, Corfu"
+info,city,Corfu
+info,toss_winner,Bulgaria
+info,toss_decision,bat
+info,player_of_match,M Syrioti
+info,winner,Greece
+info,winner_wickets,10
+info,player,Bulgaria,K Paskova
+info,player,Bulgaria,K Srandeva
+info,player,Bulgaria,M Zdravkova
+info,player,Bulgaria,N Toleva
+info,player,Bulgaria,V Nikolova
+info,player,Bulgaria,S Sarandeva
+info,player,Bulgaria,B Shotorova
+info,player,Bulgaria,D Ruynekova
+info,player,Bulgaria,I Stoilva
+info,player,Bulgaria,G Ilarionova
+info,player,Bulgaria,S Galabova
+info,player,Greece,A Makri
+info,player,Greece,A Argyropoulou
+info,player,Greece,A Savvani
+info,player,Greece,E Kallous
+info,player,Greece,S Georgota
+info,player,Greece,M Syrioti
+info,player,Greece,A Paramythioti
+info,player,Greece,M Polimeri
+info,player,Greece,T Skordili
+info,player,Greece,M Vervitsioti
+info,player,Greece,DS Vlachopoulou
+info,registry,people,A Argyropoulou,3f1bfd19
+info,registry,people,A Makri,98affc04
+info,registry,people,A Paramythioti,e0d09a51
+info,registry,people,A Savvani,5d006a1a
+info,registry,people,B Shotorova,cbef9f64
+info,registry,people,D Ruynekova,c3890e1e
+info,registry,people,DS Vlachopoulou,5c884c17
+info,registry,people,E Kallous,0680ff7f
+info,registry,people,G Ilarionova,b56786e5
+info,registry,people,I Stoilva,1a5070f6
+info,registry,people,K Paskova,c745f462
+info,registry,people,K Srandeva,38602b15
+info,registry,people,M Polimeri,35ccd83f
+info,registry,people,M Syrioti,f9df0aa2
+info,registry,people,M Vervitsioti,6fd40892
+info,registry,people,M Zdravkova,d9645cab
+info,registry,people,N Toleva,d381938d
+info,registry,people,S Galabova,21bcbbdd
+info,registry,people,S Georgota,d07b6842
+info,registry,people,S Sarandeva,dacecca3
+info,registry,people,T Skordili,60d0efc4
+info,registry,people,V Nikolova,078d1eb5

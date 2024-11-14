@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,Myanmar
+info,gender,female
+info,season,2024/25
+info,date,2024/10/30
+info,event,Singapore Women's T20I Tri-Series
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Kuwait
+info,toss_decision,bat
+info,player_of_match,Zon Lin
+info,umpire,Foyes Ahmed
+info,umpire,KSVP Venu Madhav
+info,reserve_umpire,T Sathyendra Kumar
+info,match_referee,T Senthil Kumar
+info,winner,Myanmar
+info,winner_wickets,5
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,B Shanti
+info,player,Kuwait,S Lita D'Sa
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,Maryyam Ashraf
+info,player,Kuwait,Maria Jasvi
+info,player,Kuwait,CJ Dias
+info,player,Myanmar,TT Aung
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,KM Myat
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,TT Soe
+info,player,Myanmar,ZL Thoon
+info,player,Myanmar,MPP San
+info,player,Myanmar,LL Htun
+info,player,Myanmar,ZL Win
+info,player,Myanmar,HH Aung
+info,player,Myanmar,Thae Thae Po
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,CJ Dias,7e6a3f17
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,HH Aung,860042f6
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,KSVP Venu Madhav,8c7fb752
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,MPP San,5bc290a2
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryyam Ashraf,1b9d3eb3
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,S Lita D'Sa,a289cfa0
+info,registry,people,SL Gomez,02264be0
+info,registry,people,T Sathyendra Kumar,f56197be
+info,registry,people,T Senthil Kumar,961ddfac
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,ZL Thoon,8d0543ce
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zeefa Jilani,3f2b40f0
+info,registry,people,Zon Lin,3b492b8d

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,United Arab Emirates
+info,gender,male
+info,season,2024
+info,date,2024/10/02
+info,event,Namibia T20 Tri-Series
+info,match_number,4
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,Asif Khan
+info,umpire,A Louw
+info,umpire,E Lassen
+info,match_referee,GH Pienaar
+info,winner,United Arab Emirates
+info,winner_wickets,6
+info,player,Namibia,JP Kotze
+info,player,Namibia,JN Frylinck
+info,player,Namibia,MB Kruger
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,ZE Green
+info,player,Namibia,DO Leicher
+info,player,Namibia,JC Balt
+info,player,Namibia,JT Brassell
+info,player,Namibia,T Lungameni
+info,player,Namibia,BM Scholtz
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Sukumaran
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Muhammad Farooq
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Muhammad Farooq,8f3c6b8a
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,V Sukumaran,5eb51b97
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,ZE Green,8716233e

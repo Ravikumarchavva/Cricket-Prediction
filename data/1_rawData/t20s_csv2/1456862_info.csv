@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,China
+info,gender,female
+info,season,2024/25
+info,date,2024/11/09
+info,event,Women's T20I Quadrangular Series (in China)
+info,match_number,5
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Myanmar
+info,toss_decision,bat
+info,player_of_match,Cai Yuzhi
+info,umpire,Aye Min Than
+info,umpire,Huang Zhuo
+info,reserve_umpire,John Prakash
+info,tv_umpire,Z Lyu
+info,match_referee,G Sankaranarayanan
+info,winner,China
+info,winner_wickets,2
+info,player,Myanmar,KM Myat
+info,player,Myanmar,TT Aung
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,MPP San
+info,player,Myanmar,TT Soe
+info,player,Myanmar,ZL Thoon
+info,player,Myanmar,ZL Win
+info,player,Myanmar,LL Htun
+info,player,Myanmar,HH Aung
+info,player,Myanmar,SY Win
+info,player,China,Xu Qian
+info,player,China,Wei Haiting
+info,player,China,Cai Yuzhi
+info,player,China,Mengting Liu
+info,player,China,M Zhu
+info,player,China,Yan Zuying
+info,player,China,Jing Yang
+info,player,China,Jiaping Li
+info,player,China,Wang Huiying
+info,player,China,Gong Yuting
+info,player,China,Ma Ruike
+info,registry,people,Aye Min Than,37f3bba0
+info,registry,people,Cai Yuzhi,80d30c5f
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,Gong Yuting,edcd847a
+info,registry,people,HH Aung,860042f6
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,Jiaping Li,35cac794
+info,registry,people,Jing Yang,03f1a623
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,M Zhu,36c3302e
+info,registry,people,MPP San,5bc290a2
+info,registry,people,Ma Ruike,8ccef7e2
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,SY Win,33d65ab4
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Wang Huiying,c84a3e06
+info,registry,people,Wei Haiting,a1e30490
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yan Zuying,0311d9ec
+info,registry,people,Z Lyu,5a058533
+info,registry,people,ZL Thoon,8d0543ce
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d

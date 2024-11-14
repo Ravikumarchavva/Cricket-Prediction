@@ -12,6 +12,8 @@ def filter_data():
     balltoball = utils.load_data(spark, config.MERGED_DATA_DIR, 'ball_by_ball_flip.csv')
     playersStats = utils.load_data(spark, config.MERGED_DATA_DIR, 'players_stats_flip.csv')
 
+    print(team12Stats.select('match_id').distinct().count(), balltoball.select('match_id').distinct().count(), playersStats.select('match_id').distinct().count())
+
     # Extract match_id columns from each dataset
     print("Extracting match_id columns from each dataset")
     team12_match_ids = team12Stats.select('match_id').distinct()
@@ -33,6 +35,7 @@ def filter_data():
 
     filtered_balltoball = filtered_balltoball.select('match_id','flip','innings','ball','curr_score','curr_wickets','target',"won")
 
+    print(filtered_team12Stats.count(),"team12Stats,", filtered_balltoball.count(), "balltoball,", filtered_playersStats.count(), "playersStats")
     # Save filtered datasets to HDFS
     print("Saving filtered datasets to HDFS")
     utils.spark_save_data(filtered_team12Stats, config.FILTERED_DATA_DIR, 'team12_stats.csv')

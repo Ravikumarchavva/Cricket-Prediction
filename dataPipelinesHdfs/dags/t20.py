@@ -7,7 +7,7 @@ from airflow.operators.python import PythonOperator
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
 from datetime import datetime, timedelta
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 
 # Sources tasks
 from a_data_sources.tasks import download_cricsheet, scrape_espn_stats
@@ -60,7 +60,7 @@ with DAG(
 
     process_deliveries_task = SparkSubmitOperator(
         task_id='preprocess_deliveries',
-        application=f'{os.path.join(os.path.dirname(__file__),'..', "b_data_preprocessing", "deliveries.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__),".." , "b_data_preprocessing", "deliveries.py")}',
         conn_id='spark_default',      
     )
 
@@ -71,57 +71,57 @@ with DAG(
 
     preprocess_batting_task = SparkSubmitOperator(
         task_id='preprocess_batting',
-        application=f'{os.path.join(os.path.dirname(__file__),'..', "b_data_preprocessing", "preprocess_batting.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__),"..", "b_data_preprocessing", "preprocess_batting.py")}',
         conn_id='spark_default',      
     )
 
     preprocess_bowling_task = SparkSubmitOperator(
         task_id='preprocess_bowling',
-        application=f'{os.path.join(os.path.dirname(__file__), '..', "b_data_preprocessing", "preprocess_bowling.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "preprocess_bowling.py")}',
         conn_id='spark_default',
     )
 
     preprocess_fielding_task = SparkSubmitOperator(
         task_id='preprocess_fielding',
-        application=f'{os.path.join(os.path.dirname(__file__), '..' ,"b_data_preprocessing", "preprocess_fielding.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), ".." ,"b_data_preprocessing", "preprocess_fielding.py")}',
         conn_id='spark_default',
     )
 
     preprocess_team_data_task = SparkSubmitOperator(
         task_id='preprocess_team_data',
-        application=f'{os.path.join(os.path.dirname(__file__), '..', "b_data_preprocessing", "preprocess_team_data.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "preprocess_team_data.py")}',
         conn_id='spark_default',
         )
 
     combine_data_task = SparkSubmitOperator(
         task_id='combine_data',
-        application=f'{os.path.join(os.path.dirname(__file__), '..', "b_data_preprocessing", "combine_data.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "combine_data.py")}',
         conn_id='spark_default',
         )
 
     # Merging tasks
     merge_matches_and_deliveries_task = SparkSubmitOperator(
         task_id='merge_matches_and_deliveries',
-        application=f'{os.path.join(os.path.dirname(__file__), '..', "c_data_merging", "merge_matches_and_deliveries.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "c_data_merging", "merge_matches_and_deliveries.py")}',
         conn_id='spark_default',
         )
 
     merge_match_team_stats_task = SparkSubmitOperator(
         task_id='merge_match_team_stats',
-        application=f'{os.path.join(os.path.dirname(__file__), '..',"c_data_merging", "merge_match_team_stats.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..","c_data_merging", "merge_match_team_stats.py")}',
         conn_id='spark_default',
         )
 
     merge_match_players_stats_task = SparkSubmitOperator(
         task_id='merge_match_players_stats',
-        application=f'{os.path.join(os.path.dirname(__file__), '..',"c_data_merging", "merge_match_players_stats.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..","c_data_merging", "merge_match_players_stats.py")}',
         conn_id='spark_default',
         )
     
     # Filtering tasks
     filter_data_task = SparkSubmitOperator(
         task_id='filter_data',
-        application=f'{os.path.join(os.path.dirname(__file__), '..',"d_data_filtering", "filter_data.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..","d_data_filtering", "filter_data.py")}',
         conn_id='spark_default',
         )
 

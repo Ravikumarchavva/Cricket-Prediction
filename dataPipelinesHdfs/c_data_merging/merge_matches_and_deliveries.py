@@ -29,7 +29,6 @@ def merge_data():
         deliveries = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'deliveries.csv')
         
         # Data preprocessing steps
-        matches = matches.drop('date', 'city', 'toss_winner', 'toss_decision')
         deliveries = deliveries.drop('season', 'start_date', 'venue', 'striker', 'non_striker', 'bowler')
         
         # Calculate "runs" and "wickets"

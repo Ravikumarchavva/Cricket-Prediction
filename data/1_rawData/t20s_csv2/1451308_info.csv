@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Japan
+info,gender,female
+info,season,2024/25
+info,date,2024/10/08
+info,event,Women's East Asia Cup
+info,match_number,1
+info,venue,"Yeonhui Cricket Ground, Incheon"
+info,city,Incheon
+info,toss_winner,Japan
+info,toss_decision,field
+info,player_of_match,Shanzeen Shahzad
+info,umpire,Raja Shoaib
+info,umpire,Shahid Gill
+info,winner,Hong Kong
+info,winner_runs,44
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,M Wai Siu
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,K Mahekdeep
+info,player,Japan,H Goto
+info,player,Japan,H Iwasaki
+info,player,Japan,M Yanagida
+info,player,Japan,Erika Oda
+info,player,Japan,S Kato
+info,player,Japan,A Kano
+info,player,Japan,A Chandel
+info,player,Japan,Seika Sumi
+info,player,Japan,K Ota
+info,player,Japan,Nonoha Yasumoto
+info,player,Japan,E Toguchi-Quinn
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Kano,e92841c0
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,K Mahekdeep,d13c1b74
+info,registry,people,K Ota,211f48fe
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,Raja Shoaib,7b0ea09e
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,S Kato,ef9ff861
+info,registry,people,Seika Sumi,704b4c30
+info,registry,people,Shahid Gill,e96950b7
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Y Daswani,2038a273

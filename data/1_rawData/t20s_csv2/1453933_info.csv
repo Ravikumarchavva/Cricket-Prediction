@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Seychelles
+info,gender,male
+info,season,2024/25
+info,date,2024/10/22
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,7
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Mozambique
+info,toss_decision,bat
+info,player_of_match,F Damiao Couana
+info,umpire,Charles Kariuki
+info,umpire,LB Gcuma
+info,reserve_umpire,F Mutizwa
+info,match_referee,ET Dube
+info,winner,Mozambique
+info,winner_runs,60
+info,player,Mozambique,JJ Huo
+info,player,Mozambique,LI Salomone
+info,player,Mozambique,VE Tembo
+info,player,Mozambique,F Damiao Couana
+info,player,Mozambique,AA Navicha
+info,player,Mozambique,FFZ Nhaduate
+info,player,Mozambique,FA Cossa
+info,player,Mozambique,DV Macome
+info,player,Mozambique,CB Roposo
+info,player,Mozambique,JM Joao
+info,player,Mozambique,MF Manjate
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,SKDT Madusanka
+info,player,Seychelles,T Horpinitch
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,M Mariyappan
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,N Krishna
+info,player,Seychelles,HL Harji
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,S Rukmal
+info,registry,people,AA Navicha,5c805a60
+info,registry,people,CB Roposo,31f01815
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,DV Macome,af4c15c5
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Damiao Couana,2c535f08
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,FA Cossa,3b52d247
+info,registry,people,FFZ Nhaduate,a82e0db7
+info,registry,people,HL Harji,29663fda
+info,registry,people,JJ Huo,d816fc1c
+info,registry,people,JM Joao,2ef6c852
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LI Salomone,a7b67d5d
+info,registry,people,M Mariyappan,69cbd850
+info,registry,people,MF Manjate,882fd091
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,N Krishna,c62a0327
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SKDT Madusanka,95c2d309
+info,registry,people,SR Mohan,58533699
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,T Horpinitch,90c734f8
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,VE Tembo,1439a13c

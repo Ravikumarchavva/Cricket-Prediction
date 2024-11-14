@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Korea
+info,team,Japan
+info,gender,male
+info,season,2024
+info,date,2024/09/29
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B
+info,match_number,4
+info,venue,"Yeonhui Cricket Ground, Incheon"
+info,city,Incheon
+info,toss_winner,South Korea
+info,toss_decision,bat
+info,player_of_match,S Ravichandran
+info,umpire,AK Rana
+info,umpire,Suresh Subramanian
+info,reserve_umpire,Sarika Prasad
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,TL Anderson
+info,winner,Japan
+info,winner_wickets,7
+info,player,South Korea,Raja Shoaib
+info,player,South Korea,BI Dilruksha
+info,player,South Korea,Kim Daeyeon
+info,player,South Korea,Alam Nakash
+info,player,South Korea,Mudassir Iqbal
+info,player,South Korea,Jun Hyunwoo
+info,player,South Korea,Aamir Lal
+info,player,South Korea,S Maduranga
+info,player,South Korea,S Pitabeddara
+info,player,South Korea,Fazil Muhammad
+info,player,South Korea,AN Hyobeom
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,I Takahashi
+info,player,Japan,S Ravichandran
+info,player,Japan,KH Abe
+info,player,Japan,W Miyauchi
+info,player,Japan,A Patmore
+info,player,Japan,B Ito-Davis
+info,player,Japan,D Suzuki
+info,player,Japan,M Taniyama
+info,player,Japan,C Hinze
+info,registry,people,A Patmore,85119526
+info,registry,people,AK Rana,562d74d0
+info,registry,people,AN Hyobeom,8a00eec1
+info,registry,people,Aamir Lal,2472ad2c
+info,registry,people,Alam Nakash,90830f8d
+info,registry,people,B Ito-Davis,96275259
+info,registry,people,BI Dilruksha,bf60e1d2
+info,registry,people,C Hinze,626af7ff
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,Fazil Muhammad,4551ed03
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,Jun Hyunwoo,431f2dd4
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,KH Abe,f22d2247
+info,registry,people,Kim Daeyeon,4a51c045
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,Mudassir Iqbal,63f306ac
+info,registry,people,Raja Shoaib,7b0ea09e
+info,registry,people,S Maduranga,68f24545
+info,registry,people,S Pitabeddara,b04e6811
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Suresh Subramanian,4e869e23
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,W Miyauchi,fef40097

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Brazil
+info,team,Mexico
+info,gender,male
+info,season,2024/25
+info,date,2024/10/12
+info,event,South American Men's Championships
+info,match_number,9
+info,venue,Sao Fernando Polo and Cricket Club
+info,city,Seropedica
+info,toss_winner,Mexico
+info,toss_decision,field
+info,player_of_match,Kawsar Khan
+info,umpire,Alex Knight
+info,umpire,Amol Bhatt
+info,winner,Brazil
+info,winner_runs,7
+info,player,Brazil,W Maximo
+info,player,Brazil,G Caisley
+info,player,Brazil,LH Rodrigues
+info,player,Brazil,Yasar Haroon
+info,player,Brazil,LF Muller
+info,player,Brazil,Muhammad Saleem
+info,player,Brazil,Kawsar Khan
+info,player,Brazil,MFI Assuncao
+info,player,Brazil,CC Machado
+info,player,Brazil,IC Simao
+info,player,Brazil,G Oliveira
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,Puneet Arora
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,R Ankad
+info,player,Mexico,R Galgalikar
+info,player,Mexico,Kalyan Manne
+info,player,Mexico,LK Sharma
+info,player,Mexico,Pratik Singh Bais
+info,registry,people,Alex Knight,dfa9fee7
+info,registry,people,Amol Bhatt,d7e52706
+info,registry,people,CC Machado,5992ef03
+info,registry,people,G Caisley,0f06d3cd
+info,registry,people,G Oliveira,b4c52f5f
+info,registry,people,IC Simao,dcc76384
+info,registry,people,Kalyan Manne,279d1dc1
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Kawsar Khan,a14b3bc0
+info,registry,people,LF Muller,f6411545
+info,registry,people,LH Rodrigues,57c95c3c
+info,registry,people,LK Sharma,7143efc1
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,MFI Assuncao,d8e48e1b
+info,registry,people,Muhammad Saleem,a025c156
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,Puneet Arora,c2f8f36e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Galgalikar,3f951265
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,W Maximo,e41dee27
+info,registry,people,Yasar Haroon,5a8dc41e

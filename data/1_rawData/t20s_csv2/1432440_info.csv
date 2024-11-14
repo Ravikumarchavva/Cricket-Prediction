@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Pakistan
+info,gender,female
+info,season,2024/25
+info,date,2024/10/14
+info,event,ICC Women's T20 World Cup
+info,match_number,19
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,EJ Carson
+info,umpire,N Perera
+info,umpire,VG Rathi
+info,reserve_umpire,S Redfern
+info,tv_umpire,Lauren Agenbag
+info,match_referee,GS Lakshmi
+info,winner,New Zealand
+info,winner_runs,54
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,ML Green
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,RA Mair
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Iram Javed
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Syeda Aroob Shah
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,AC Kerr,7673c908
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,Iram Javed,dc596fac
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,ML Green,865eae1f
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N Perera,129709f9
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Syeda Aroob Shah,4cf8708b
+info,registry,people,Umaima Sohail,821d7d46
+info,registry,people,VG Rathi,144e5b16

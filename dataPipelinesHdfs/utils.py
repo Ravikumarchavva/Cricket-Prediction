@@ -5,7 +5,6 @@ import logging
 import os
 from pyspark.sql import SparkSession
 from airflow.providers.apache.hdfs.hooks.webhdfs import WebHDFSHook
-import io
 
 
 def create_spark_session(name=None, SPARK_CONFIG=None):
