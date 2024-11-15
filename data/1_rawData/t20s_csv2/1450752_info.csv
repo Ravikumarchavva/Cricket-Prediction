@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Ghana
+info,gender,male
+info,season,2024
+info,date,2024/09/21
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,2
+info,venue,"Gymkhana Club Ground, Dar-es-Salaam"
+info,city,Dar-es-Salaam
+info,toss_winner,Cameroon
+info,toss_decision,bat
+info,player_of_match,R Baaleri
+info,umpire,Aasif Iqbal
+info,umpire,D Odhiambo
+info,reserve_umpire,A Kassam
+info,match_referee,S Wadvalla
+info,winner,Ghana
+info,winner_wickets,8
+info,player,Cameroon,BN Toube
+info,player,Cameroon,I Tchakou
+info,player,Cameroon,AR Balla
+info,player,Cameroon,AN Toube
+info,player,Cameroon,JB Abega
+info,player,Cameroon,DB Loic
+info,player,Cameroon,RD Atangana
+info,player,Cameroon,AN Aminou
+info,player,Cameroon,FJ Mpegna
+info,player,Cameroon,H Kinga
+info,player,Cameroon,VF Bomnyuy
+info,player,Ghana,R Baaleri
+info,player,Ghana,P Yevugah
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,SK Awiah
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,KS Bagabena
+info,player,Ghana,A Osei
+info,player,Ghana,PK Ananya
+info,player,Ghana,V Ateak
+info,player,Ghana,E Frimpong
+info,player,Ghana,F Baleri
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Osei,375322d1
+info,registry,people,AN Aminou,6d9d2de7
+info,registry,people,AN Toube,7f929ebe
+info,registry,people,AR Balla,4b83e65a
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,BN Toube,75f3aa00
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DB Loic,01679383
+info,registry,people,E Frimpong,3c13fc3b
+info,registry,people,F Baleri,6efdad14
+info,registry,people,FJ Mpegna,d3893060
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,H Kinga,c9729534
+info,registry,people,I Tchakou,4d2b96b4
+info,registry,people,JB Abega,b7abb123
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,P Yevugah,5c842df4
+info,registry,people,PK Ananya,bc69a6d3
+info,registry,people,R Baaleri,26c9b5be
+info,registry,people,RD Atangana,490f475a
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SK Awiah,bc3fc527
+info,registry,people,V Ateak,65a60be7
+info,registry,people,VF Bomnyuy,3bc18521

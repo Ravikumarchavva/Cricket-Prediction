@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Czech Republic
+info,gender,male
+info,season,2024
+info,date,2024/08/25
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,14
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Cyprus
+info,toss_decision,bat
+info,player_of_match,M Vandrasi
+info,umpire,RJ Warren
+info,umpire,S Wood
+info,reserve_umpire,Jareth McCready
+info,match_referee,GH Pienaar
+info,winner,Czech Republic
+info,winner_wickets,4
+info,player,Cyprus,S Burdekin
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,CPPM Sadun
+info,player,Cyprus,S Austin
+info,player,Cyprus,R Siriwardena
+info,player,Cyprus,P Deol
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,A Shahi
+info,player,Cyprus,V Khanduri
+info,player,Cyprus,SN Pathirana
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,Dylan Steyn
+info,player,Czech Republic,Ritik Tomar
+info,player,Czech Republic,M Worndl
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,M Vandrasi
+info,player,Czech Republic,S Grover
+info,player,Czech Republic,Rahat Ali
+info,player,Czech Republic,Naveed Ahmed
+info,player,Czech Republic,Abul Farhad
+info,player,Czech Republic,S Chaudhary
+info,registry,people,A Shahi,2011735e
+info,registry,people,Abul Farhad,f7cb7c3a
+info,registry,people,CPPM Sadun,2cf2fc9e
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Dylan Steyn,ff2b190e
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,M Vandrasi,e82543d5
+info,registry,people,M Worndl,e8d1c172
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,Naveed Ahmed,87609cbb
+info,registry,people,P Deol,ecfa6005
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,R Siriwardena,c3ba4942
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,Rahat Ali,3cc13c68
+info,registry,people,Ritik Tomar,6de51a8e
+info,registry,people,S Austin,40ee633c
+info,registry,people,S Burdekin,98e3f1de
+info,registry,people,S Chaudhary,24c1844e
+info,registry,people,S Grover,c2a6e61f
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,SN Pathirana,f4000a7d
+info,registry,people,Sazib Bhuiyan,e5464794
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,V Khanduri,f0f2b9c5

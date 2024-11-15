@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Myanmar
+info,gender,female
+info,season,2024/25
+info,date,2024/10/24
+info,event,Singapore Women's T20I Tri-Series
+info,match_number,4
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,Zon Lin
+info,umpire,E Rajvengadesh
+info,umpire,Shriya Kumari
+info,reserve_umpire,R Sathrugnan
+info,match_referee,A Natarajan
+info,winner,Myanmar
+info,winner_wickets,5
+info,player,Singapore,GK Diviya
+info,player,Singapore,R Gnanaraj
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,RR Seth
+info,player,Singapore,DA Galia
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,I Shukla
+info,player,Singapore,C Boyle
+info,player,Myanmar,TT Aung
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,KM Myat
+info,player,Myanmar,MPP San
+info,player,Myanmar,TT Soe
+info,player,Myanmar,ZL Win
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,LL Htun
+info,player,Myanmar,HH Aung
+info,player,Myanmar,Thae Thae Po
+info,player,Myanmar,AE Moe
+info,registry,people,A Natarajan,a2b73ae0
+info,registry,people,AE Moe,aac82442
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,C Boyle,11374353
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,E Rajvengadesh,9b50c645
+info,registry,people,GK Diviya,992979fa
+info,registry,people,HH Aung,860042f6
+info,registry,people,I Shukla,ce490298
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,MPP San,5bc290a2
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,R Gnanaraj,6ab0658d
+info,registry,people,R Sathrugnan,a778c70f
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d

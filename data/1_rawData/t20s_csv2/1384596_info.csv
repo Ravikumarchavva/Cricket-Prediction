@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Switzerland
+info,gender,male
+info,season,2023
+info,date,2023/07/15
+info,event,Valletta Cup
+info,match_number,9
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Switzerland
+info,toss_decision,field
+info,player_of_match,K Fletcher
+info,umpire,S Fernando
+info,umpire,S Gowda
+info,reserve_umpire,V Sridhar
+info,match_referee,S Harnal
+info,winner,Switzerland
+info,winner_wickets,6
+info,player,Malta,Zeeshan Khan
+info,player,Malta,Fanyan Mughal
+info,player,Malta,DR Patankar
+info,player,Malta,Jaspal Singh
+info,player,Malta,VP Thamotharam
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,B Arora
+info,player,Malta,Waqas Ahmad
+info,player,Malta,E Mathew
+info,player,Malta,Jaswinder Singh
+info,player,Malta,A Bishnoi
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Abdullah Rana
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,K Fletcher
+info,player,Switzerland,Asad Mahmood
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,MK Gnanasekaram
+info,player,Switzerland,NK Aneesh Kumar
+info,registry,people,A Bishnoi,376557f7
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,Abdullah Rana,c4ab9b94
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Asad Mahmood,5038c022
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,MK Gnanasekaram,24b3651c
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,V Sridhar,42314166
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Waqas Ahmad,82623a3a
+info,registry,people,Zeeshan Khan,3f9b1a96

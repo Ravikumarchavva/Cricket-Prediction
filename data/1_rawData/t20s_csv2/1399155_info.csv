@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Cayman Islands
+info,gender,male
+info,season,2023/24
+info,date,2023/10/03
+info,event,ICC Men's T20 World Cup Americas Region Final
+info,match_number,6
+info,venue,"National Stadium, Hamilton"
+info,city,Hamilton
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,player_of_match,DL Brangman
+info,umpire,JM Williams
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Jermaine Lindo
+info,match_referee,Reon King
+info,winner,Bermuda
+info,winner_runs,53
+info,player,Bermuda,KS Leverock
+info,player,Bermuda,T Manders
+info,player,Bermuda,TS Fray
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,D Sabir
+info,player,Bermuda,AC Douglas
+info,player,Bermuda,C Trott
+info,player,Bermuda,DL Brangman
+info,player,Bermuda,S Smith
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,C Outerbridge
+info,player,Cayman Islands,AR Naidoo
+info,player,Cayman Islands,P Heron
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,P Manning
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,T Taylor
+info,player,Cayman Islands,P Chin
+info,player,Cayman Islands,KA Bazil
+info,player,Cayman Islands,A Morris
+info,player,Cayman Islands,AF Ifill
+info,registry,people,A Morris,04cf2e94
+info,registry,people,AC Douglas,f86ce673
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,AR Naidoo,68886c16
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,C Outerbridge,ff722bc8
+info,registry,people,C Trott,ae624b05
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,KA Bazil,d22287a8
+info,registry,people,KS Leverock,e1592949
+info,registry,people,P Chin,21267b60
+info,registry,people,P Heron,30b902a3
+info,registry,people,P Manning,f06b5585
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Smith,18a0ba24
+info,registry,people,T Manders,6d2b9724
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Z Burgess,d0042e16

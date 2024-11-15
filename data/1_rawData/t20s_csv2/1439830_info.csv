@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Norway
+info,team,Gibraltar
+info,gender,male
+info,season,2024
+info,date,2024/07/13
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,18
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Norway
+info,toss_decision,bat
+info,player_of_match,Wahidullah Sahak
+info,umpire,DH Mclean
+info,umpire,N Bathi
+info,reserve_umpire,M Jameson
+info,match_referee,H Pack
+info,winner,Norway
+info,winner_runs,6
+info,method,D/L
+info,player,Norway,Raza Iqbal
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Ibrahim Rahimi
+info,player,Norway,Mofassar Saeed
+info,player,Norway,Walid Ghauri
+info,player,Norway,Wahidullah Sahak
+info,player,Norway,Mandeep Singh
+info,player,Norway,Javed Maroofkhail
+info,player,Norway,Sher Sahak
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,AJ Parmar
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,KJ Ferrary
+info,player,Gibraltar,M Gouws
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,J Horrocks
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,BA Pai,716bf559
+info,registry,people,C Pyle,d278b70b
+info,registry,people,DH Mclean,281d4749
+info,registry,people,H Pack,fed53c91
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Ibrahim Rahimi,f8ef3653
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,Javed Maroofkhail,909d9fac
+info,registry,people,KJ Ferrary,81898acc
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Gouws,018f6488
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,Mandeep Singh,dc39e9ab
+info,registry,people,Mofassar Saeed,4f20959c
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,S Bodha,00467a76
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Wahidullah Sahak,6913e38e
+info,registry,people,Walid Ghauri,331e137f

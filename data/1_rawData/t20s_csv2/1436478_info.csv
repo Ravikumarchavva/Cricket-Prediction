@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Italy
+info,gender,male
+info,season,2024
+info,date,2024/06/10
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,8
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Italy
+info,toss_decision,field
+info,umpire,J Jensen
+info,umpire,WPM van Liemt
+info,reserve_umpire,MJ Saggers
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_wickets,5
+info,player,France,H Niaz
+info,player,France,Zain Ahmad
+info,player,France,G Mckeon
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,Kamran Ahmadzai
+info,player,France,Usman Khan
+info,player,France,Noman Amjad
+info,player,France,Zaheer Zahiri
+info,player,France,Dawood Ahmadzai
+info,player,France,S Stanikzay
+info,player,Italy,J Mosca
+info,player,Italy,Syed Naqvi
+info,player,Italy,JA Burns
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,TJ Draca
+info,player,Italy,S di Bartolomeo
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,Syed Naqvi,c520c3b9
+info,registry,people,TJ Draca,88fac705
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zain Ahmad,ea2c0aff

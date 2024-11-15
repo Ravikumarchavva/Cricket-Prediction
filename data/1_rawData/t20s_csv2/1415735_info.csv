@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Australia
+info,gender,male
+info,season,2024
+info,date,2024/06/15
+info,event,ICC Men's T20 World Cup
+info,match_number,35
+info,venue,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia"
+info,city,Gros Islet
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,MP Stoinis
+info,umpire,Asif Yaqoob
+info,umpire,MA Gough
+info,reserve_umpire,A Paleker
+info,tv_umpire,AG Wharf
+info,match_referee,JJ Crowe
+info,winner,Australia
+info,winner_wickets,5
+info,player,Scotland,HG Munsey
+info,player,Scotland,MA Jones
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CB Sole
+info,player,Scotland,BTJ Wheal
+info,player,Scotland,SM Sharif
+info,player,Australia,TM Head
+info,player,Australia,DA Warner
+info,player,Australia,MR Marsh
+info,player,Australia,GJ Maxwell
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,AC Agar
+info,player,Australia,MA Starc
+info,player,Australia,NT Ellis
+info,player,Australia,A Zampa
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Zampa,14f96089
+info,registry,people,AC Agar,a2421394
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,C Tear,7ffe4817
+info,registry,people,CB Sole,469ccead
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,DA Warner,dcce6f09
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Jones,05f96194
+info,registry,people,MA Leask,28131839
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2

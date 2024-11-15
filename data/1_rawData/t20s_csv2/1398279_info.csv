@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,England
+info,gender,female
+info,season,2024
+info,date,2024/07/11
+info,event,New Zealand Women tour of England
+info,match_number,3
+info,venue,"St Lawrence Ground, Canterbury"
+info,city,Canterbury
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,A Capsey
+info,umpire,James Middlebrook
+info,umpire,S Redfern
+info,reserve_umpire,WRP Fernando
+info,tv_umpire,AY Harris
+info,match_referee,SM Bartlett
+info,winner,England
+info,winner_wickets,6
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,ML Green
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,LM Kasperek
+info,player,New Zealand,MM Penfold
+info,player,New Zealand,FC Jonas
+info,player,England,ME Bouchier
+info,player,England,SIR Dunkley
+info,player,England,A Capsey
+info,player,England,NR Sciver-Brunt
+info,player,England,AE Jones
+info,player,England,FG Kemp
+info,player,England,DR Gibson
+info,player,England,CE Dean
+info,player,England,S Ecclestone
+info,player,England,S Glenn
+info,player,England,L Filer
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DR Gibson,d2763568
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,FG Kemp,abc9f8a4
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,James Middlebrook,ddcd1520
+info,registry,people,L Filer,31adb911
+info,registry,people,LM Kasperek,9b73d523
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,ML Green,865eae1f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,WRP Fernando,7d98d385

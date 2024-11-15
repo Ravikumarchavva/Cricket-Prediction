@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Japan
+info,gender,female
+info,season,2023
+info,date,2023/08/30
+info,event,Japan Women tour of Vanuatu
+info,match_number,2
+info,venue,Vanuatu Cricket Ground
+info,city,Port Vila
+info,toss_winner,Japan
+info,toss_decision,field
+info,player_of_match,V Langiatu
+info,umpire,KK Loughman
+info,umpire,P Chilia
+info,reserve_umpire,ZK Shem
+info,winner,Vanuatu
+info,winner_runs,15
+info,player,Vanuatu,R Andrew
+info,player,Vanuatu,V Langiatu
+info,player,Vanuatu,A Chilia
+info,player,Vanuatu,L Chilia
+info,player,Vanuatu,S Solman
+info,player,Vanuatu,M Carlot
+info,player,Vanuatu,N Navaika
+info,player,Vanuatu,V Mansale
+info,player,Vanuatu,L Jacob
+info,player,Vanuatu,L Enoch
+info,player,Vanuatu,T Kalosin
+info,player,Japan,H Iwasaki
+info,player,Japan,Erika Oda
+info,player,Japan,A Chandel
+info,player,Japan,A Kano
+info,player,Japan,S Kato
+info,player,Japan,M Yanagida
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,Seika Sumi
+info,player,Japan,A Fujikawa
+info,player,Japan,K Ota
+info,player,Japan,Nonoha Yasumoto
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Chilia,a0d07fd6
+info,registry,people,A Fujikawa,9543a4fe
+info,registry,people,A Kano,e92841c0
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,K Ota,211f48fe
+info,registry,people,KK Loughman,5c4e8572
+info,registry,people,L Chilia,87ac786c
+info,registry,people,L Enoch,c96b8c25
+info,registry,people,L Jacob,9be95e85
+info,registry,people,M Carlot,dac46b52
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,N Navaika,b0023708
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,P Chilia,9c5fed24
+info,registry,people,R Andrew,66c1accf
+info,registry,people,S Kato,ef9ff861
+info,registry,people,S Solman,24ed1f75
+info,registry,people,Seika Sumi,704b4c30
+info,registry,people,T Kalosin,f741c79d
+info,registry,people,V Langiatu,fdd18ca0
+info,registry,people,V Mansale,7163637f
+info,registry,people,ZK Shem,87ffd217

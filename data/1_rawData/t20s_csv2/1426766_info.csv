@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Malaysia
+info,gender,female
+info,season,2024
+info,date,2024/07/24
+info,event,Women's Asia Cup
+info,match_number,11
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Bangladesh
+info,toss_decision,bat
+info,player_of_match,Murshida Khatun
+info,umpire,LDVV Silva
+info,umpire,Gayathri Venugopal
+info,reserve_umpire,N Perera
+info,tv_umpire,Saleema Imtiaz
+info,match_referee,JM Pereira
+info,winner,Bangladesh
+info,winner_runs,114
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Rumana Ahmed
+info,player,Bangladesh,Ishma Tanjim
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Sabikun Nahar Jesmin
+info,player,Bangladesh,Jahanara Alam
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Siow Tzin Yee
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Suabika Manivannan
+info,player,Malaysia,Nur Izzatul Syafiqa
+info,player,Malaysia,Nur Aishah
+info,player,Malaysia,Irdina Beh Nabil
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,Gayathri Venugopal,20e3ae99
+info,registry,people,Irdina Beh Nabil,59ace6d9
+info,registry,people,Ishma Tanjim,5d428b3d
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,Jahanara Alam,752183c1
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,N Perera,129709f9
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Nur Aishah,f7301b56
+info,registry,people,Nur Izzatul Syafiqa,fc282a40
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rumana Ahmed,a92763ea
+info,registry,people,SM Dhanusri,4e4d2c20
+info,registry,people,Sabikun Nahar Jesmin,48ec1360
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Siow Tzin Yee,686b7194
+info,registry,people,Suabika Manivannan,a044506e
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c

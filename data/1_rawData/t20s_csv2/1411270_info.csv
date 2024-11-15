@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Zimbabwe
+info,gender,female
+info,season,2023/24
+info,date,2023/12/13
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,match_number,10
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,P Marange
+info,umpire,Claus Schumacher
+info,umpire,Patric Makumbi
+info,reserve_umpire,Habib Enesi
+info,match_referee,O Chirombe
+info,winner,Zimbabwe
+info,winner_wickets,9
+info,player,Tanzania,S Mtae
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,M Pascal
+info,player,Tanzania,HM Omary
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,A Mohamed
+info,player,Tanzania,AS Qwele
+info,player,Tanzania,MH Ushanga
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,S Kizito
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,A Ndiraya
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,P Marange
+info,registry,people,A Mohamed,86a68879
+info,registry,people,A Ndiraya,c8e6bddd
+info,registry,people,AS Qwele,26b3df21
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,M Pascal,729c5ab5
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,S Kizito,d91a936b
+info,registry,people,S Mtae,bb641155
+info,registry,people,SH Mohamedi,10ab6a37

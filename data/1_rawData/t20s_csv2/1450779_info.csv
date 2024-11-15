@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Indonesia
+info,gender,male
+info,season,2024
+info,date,2024/10/05
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B
+info,match_number,12
+info,venue,"Yeonhui Cricket Ground, Incheon"
+info,city,Incheon
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,K Kadowaki-Fleming
+info,umpire,AK Rana
+info,umpire,Sarika Prasad
+info,reserve_umpire,Suresh Subramanian
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,TL Anderson
+info,winner,Japan
+info,winner_runs,144
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,B Ito-Davis
+info,player,Japan,S Ravichandran
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,K Kubota
+info,player,Japan,P Kumbhare
+info,player,Japan,A Patmore
+info,player,Japan,D Suzuki
+info,player,Japan,W Miyauchi
+info,player,Japan,C Hinze
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,Gaurav Tiwari
+info,player,Indonesia,PR Surve
+info,player,Indonesia,KC Ramamoorthy
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,RM Koda
+info,registry,people,A Patmore,85119526
+info,registry,people,AK Rana,562d74d0
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,B Ito-Davis,96275259
+info,registry,people,C Hinze,626af7ff
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,Gaurav Tiwari,cab3f89a
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,K Kubota,42581e6d
+info,registry,people,KC Ramamoorthy,a89c270b
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,PR Surve,206efeb1
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,RM Koda,f0a45427
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Suresh Subramanian,4e869e23
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,W Miyauchi,fef40097

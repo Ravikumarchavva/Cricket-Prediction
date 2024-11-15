@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Kenya
+info,gender,male
+info,season,2024/25
+info,date,2024/10/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,14
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,RP Burl
+info,umpire,LB Gcuma
+info,umpire,Stephen Harris
+info,reserve_umpire,Morshed Ali Khan
+info,match_referee,ET Dube
+info,winner,Zimbabwe
+info,winner_runs,61
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,B Mavuta
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,T Gwandu
+info,player,Kenya,P Sharma
+info,player,Kenya,DM Gondaria
+info,player,Kenya,RN Patel
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,S Gill
+info,player,Kenya,IA Karim
+info,player,Kenya,LN Oluoch
+info,player,Kenya,SO Ngoche
+info,player,Kenya,F Mutua
+info,player,Kenya,Vraj Patel
+info,registry,people,B Mavuta,dadb9703
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,D Myers,d96165b5
+info,registry,people,DM Gondaria,9048c17e
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Mutua,21b67523
+info,registry,people,IA Karim,ca92a578
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,P Sharma,d047f983
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Gill,3e6e9a5f
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,Vraj Patel,2af28253
+info,registry,people,WP Masakadza,4bc0a378

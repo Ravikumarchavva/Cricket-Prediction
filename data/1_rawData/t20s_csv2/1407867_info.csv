@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Hong Kong
+info,gender,female
+info,season,2023/24
+info,date,2023/11/16
+info,event,Women's T20 Quadrangular Series (in Hong Kong)
+info,match_number,4
+info,venue,Hong Kong Cricket Club
+info,city,Wong Nai Chung Gap
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,player_of_match,Iqra Sahar
+info,umpire,John Prakash
+info,umpire,Tabarak Dar
+info,reserve_umpire,Huang Zhuo
+info,match_referee,G Sankaranarayanan
+info,winner,Hong Kong
+info,winner_wickets,9
+info,player,Nepal,Puja Mahato
+info,player,Nepal,SR Magar
+info,player,Nepal,Samjhana Khadka
+info,player,Nepal,K Shrestha
+info,player,Nepal,I Barma
+info,player,Nepal,B Rawal
+info,player,Nepal,RC Belbashi
+info,player,Nepal,Kanchan Shrestha
+info,player,Nepal,Roma Thapa
+info,player,Nepal,A Karmacharya
+info,player,Nepal,Sangita Rai
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,WK Lai
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,EK Hubbard
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,Hiu Ying Cheung
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,B Rawal,4d1cc284
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,EK Hubbard,1486e3fd
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,I Barma,521abce2
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,K Shrestha,119de50f
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,Kanchan Shrestha,329a8411
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Samjhana Khadka,765a2354
+info,registry,people,Sangita Rai,ad580a96
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,WK Lai,6ab99b17

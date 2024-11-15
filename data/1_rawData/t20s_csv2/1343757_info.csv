@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,St Helena
+info,team,Lesotho
+info,gender,male
+info,season,2022/23
+info,date,2022/11/22
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,18
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Lesotho
+info,toss_decision,field
+info,player_of_match,A Yon
+info,umpire,A Paleker
+info,umpire,IO Oyieko
+info,reserve_umpire,Itangishaka Olivier
+info,match_referee,S Wadvalla
+info,winner,St Helena
+info,winner_runs,45
+info,player,St Helena,AR Leo
+info,player,St Helena,A Langham
+info,player,St Helena,DL Richards
+info,player,St Helena,A Yon
+info,player,St Helena,J Henry
+info,player,St Helena,S Crowie
+info,player,St Helena,R Francis
+info,player,St Helena,CR Richards
+info,player,St Helena,B Isaac
+info,player,St Helena,BK Stroud
+info,player,St Helena,G Johnson
+info,player,Lesotho,LM Gabriel
+info,player,Lesotho,Waseem Yaqoob
+info,player,Lesotho,Maaz Khan
+info,player,Lesotho,C Tlali
+info,player,Lesotho,Sameer Patel
+info,player,Lesotho,YYM Jakda
+info,player,Lesotho,V Jayant
+info,player,Lesotho,Khan Arbaaz
+info,player,Lesotho,TD Chaoana
+info,player,Lesotho,TG Thamae
+info,player,Lesotho,MV Matsau
+info,registry,people,A Langham,fe0b3bdf
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Yon,99bf1fb7
+info,registry,people,AR Leo,e13f8b16
+info,registry,people,B Isaac,2c14421f
+info,registry,people,BK Stroud,6577a6ad
+info,registry,people,C Tlali,70841eab
+info,registry,people,CR Richards,c10a581f
+info,registry,people,DL Richards,e613c509
+info,registry,people,G Johnson,ceec82cd
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,Itangishaka Olivier,0ee3bb49
+info,registry,people,J Henry,68e7e8d5
+info,registry,people,Khan Arbaaz,b84be97f
+info,registry,people,LM Gabriel,88a5adcf
+info,registry,people,MV Matsau,dad64776
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,R Francis,06b766f4
+info,registry,people,S Crowie,4040951f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Sameer Patel,2bae86b6
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,TG Thamae,d08fe309
+info,registry,people,V Jayant,6535cc7b
+info,registry,people,Waseem Yaqoob,06b387f1
+info,registry,people,YYM Jakda,2e3dc859

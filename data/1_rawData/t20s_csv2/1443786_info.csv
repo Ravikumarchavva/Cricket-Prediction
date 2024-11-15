@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Finland
+info,gender,male
+info,season,2024
+info,date,2024/08/28
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Finland
+info,toss_decision,field
+info,player_of_match,C Rumistrzewicz
+info,umpire,AA Baig
+info,umpire,RJ Veillard
+info,reserve_umpire,AY Harris
+info,match_referee,GH Pienaar
+info,winner,Spain
+info,winner_runs,46
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,Muhammad Yasin
+info,player,Spain,Yasir Ali
+info,player,Spain,D Doyle-Calle
+info,player,Spain,Hamza Dar
+info,player,Spain,C Munoz-Mills
+info,player,Spain,Shafat Ali Syed
+info,player,Spain,A Davidson Soler
+info,player,Spain,LA Burns
+info,player,Spain,C Rumistrzewicz
+info,player,Spain,Raja Adeel
+info,player,Finland,MB Tambe
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,VS Padhaal
+info,player,Finland,Atif Rasheed
+info,player,Finland,Ziaur Rehman
+info,player,Finland,NM Salonen
+info,player,Finland,Jordan O'Brien
+info,player,Finland,Amjad Sher
+info,player,Finland,Akhil Arjunan
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,E Kuchey
+info,player,Finland,Raaz Mohammad
+info,registry,people,A Davidson Soler,524943f1
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,C Rumistrzewicz,3ed4e2ad
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,E Kuchey,5d6064b0
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,Hamza Dar,557550a4
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,Muhammad Yasin,57888f3c
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,Raja Adeel,7ee25c46
+info,registry,people,Shafat Ali Syed,6d36cb93
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Yasir Ali,79209272
+info,registry,people,Ziaur Rehman,085c1a4c

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Saudi Arabia
+info,gender,male
+info,season,2022/23
+info,date,2022/11/19
+info,event,Desert Cup T20I Series
+info,match_number,9
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Saudi Arabia
+info,toss_decision,field
+info,player_of_match,Ammar Khalid
+info,umpire,Anantha Rajamani
+info,umpire,Azad KR
+info,tv_umpire,N Krishnan
+info,match_referee,Jamil Zaidi
+info,winner,Canada
+info,winner_runs,45
+info,player,Canada,A Johnson
+info,player,Canada,SA Wijeratne
+info,player,Canada,M Spoors
+info,player,Canada,Pargat Singh
+info,player,Canada,H Thaker
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,D Heyliger
+info,player,Canada,Ammar Khalid
+info,player,Canada,N Dutta
+info,player,Canada,Kaleem Sana
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Kashif Siddique
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Saad Khan
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Irfan Sarfraz
+info,player,Saudi Arabia,Haseeb Ghafoor
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Muhammad Saqib
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ammar Khalid,af98bf5b
+info,registry,people,Anantha Rajamani,6c4ca034
+info,registry,people,Azad KR,d620b86a
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Haseeb Ghafoor,454a7269
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Irfan Sarfraz,ef5d54c6
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Jamil Zaidi,3402e067
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,Kashif Siddique,2513b4fe
+info,registry,people,M Spoors,da4a1e46
+info,registry,people,Muhammad Saqib,9d6644a0
+info,registry,people,N Dutta,e258a603
+info,registry,people,N Krishnan,b317852e
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Saad Khan,28e0f645
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,Zain Ul Abidin,b93b87ae

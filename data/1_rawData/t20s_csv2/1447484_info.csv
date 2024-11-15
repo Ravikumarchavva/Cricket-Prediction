@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,Maldives
+info,gender,male
+info,season,2024
+info,date,2024/09/02
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,8
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Maldives
+info,toss_decision,field
+info,player_of_match,Usman Patel
+info,umpire,Faisal Afridi
+info,umpire,Tabarak Dar
+info,reserve_umpire,V Kalidas
+info,match_referee,V Narayan Kutty
+info,winner,Kuwait
+info,winner_runs,142
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Adnan Idrees
+info,player,Kuwait,Shiraz Khan
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,Ismail Ali
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Mohamed Shiyam
+info,player,Maldives,GPK Wijesingha
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Shunan Ali
+info,registry,people,Adnan Idrees,0e34c23a
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,GPK Wijesingha,91f4a6e5
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Mohamed Shiyam,946d4d9a
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Shunan Ali,3b2ca392
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Yasin Patel,ecdd8d60

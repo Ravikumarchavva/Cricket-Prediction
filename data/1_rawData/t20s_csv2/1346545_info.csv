@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Kenya
+info,gender,female
+info,season,2022/23
+info,date,2022/12/19
+info,event,Kenya Quadrangular Women's T20 Series
+info,match_number,12
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,V Abuga
+info,umpire,Charles Kariuki
+info,umpire,Nicholas Otieno
+info,reserve_umpire,Asgarali Kassam
+info,winner,Kenya
+info,winner_wickets,2
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,S Mtae
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,HM Omary
+info,player,Tanzania,A Mohamed
+info,player,Tanzania,MH Ushanga
+info,player,Tanzania,AS Qwele
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,Sheila Shamte
+info,player,Tanzania,Rahima Yahaya
+info,player,Tanzania,M Pascal
+info,player,Kenya,M Mwangi
+info,player,Kenya,M Ndhambi
+info,player,Kenya,V Abuga
+info,player,Kenya,S Juma
+info,player,Kenya,V Ooko
+info,player,Kenya,E Wachira
+info,player,Kenya,L Idambo
+info,player,Kenya,D Njoroge
+info,player,Kenya,M Ahono
+info,player,Kenya,MI Khagoitsa
+info,player,Kenya,F Odhiambo
+info,registry,people,A Mohamed,86a68879
+info,registry,people,AS Qwele,26b3df21
+info,registry,people,Asgarali Kassam,88aaf2d7
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Njoroge,626fbc80
+info,registry,people,E Wachira,f5e70dd4
+info,registry,people,F Odhiambo,97eb9a07
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,L Idambo,27339093
+info,registry,people,M Ahono,8e0043dd
+info,registry,people,M Mwangi,72de0105
+info,registry,people,M Ndhambi,76e56ac6
+info,registry,people,M Pascal,729c5ab5
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,MI Khagoitsa,2d772f77
+info,registry,people,Nicholas Otieno,130de2a7
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,Rahima Yahaya,d75bec48
+info,registry,people,S Juma,333830a5
+info,registry,people,S Mtae,bb641155
+info,registry,people,SH Mohamedi,10ab6a37
+info,registry,people,Sheila Shamte,23156185
+info,registry,people,V Abuga,1ce58052
+info,registry,people,V Ooko,2ae76bf6

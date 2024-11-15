@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023
+info,date,2023/09/22
+info,event,Gulf Cricket T20I Championship
+info,match_number,14
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Bahrain
+info,toss_decision,bat
+info,player_of_match,Haider Butt
+info,umpire,Azad KR
+info,umpire,Imran Mustafa
+info,reserve_umpire,Mohammed Younis
+info,tv_umpire,Rahat Ali
+info,match_referee,Shivani Mishra
+info,winner,Bahrain
+info,winner_runs,3
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Mohsin Zaki
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Nilansh Keswani
+info,player,United Arab Emirates,Mohammed Faraazuddin
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,registry,people,A Sharma,5661ef90
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Azad KR,d620b86a
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Mustafa,f11bc2ff
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Mohammed Faraazuddin,18ac3318
+info,registry,people,Mohammed Younis,46ff5194
+info,registry,people,Mohsin Zaki,09c766ec
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,Nilansh Keswani,424a7994
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahoor Khan,f0e293b0

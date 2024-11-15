@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,United States of America
+info,gender,male
+info,season,2024
+info,date,2024/10/04
+info,event,Namibia T20 Tri-Series
+info,match_number,5
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,United Arab Emirates
+info,toss_decision,bat
+info,player_of_match,Basil Hameed
+info,umpire,Claus Schumacher
+info,umpire,E Lassen
+info,reserve_umpire,A Louw
+info,match_referee,GH Pienaar
+info,winner,United Arab Emirates
+info,winner_runs,6
+info,player,United Arab Emirates,A Sharma
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Sukumaran
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,R Chopra
+info,player,United Arab Emirates,Ali Naseer
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Syed Haider
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Muhammad Jawadullah
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,AGS Gous
+info,player,United States of America,NR Kumar
+info,player,United States of America,Milind Kumar
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,Utkarsh Srivastava
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,AA Paradkar
+info,player,United States of America,NP Kenjige
+info,player,United States of America,J Drysdale
+info,registry,people,A Louw,5eecae5d
+info,registry,people,A Sharma,5661ef90
+info,registry,people,AA Paradkar,96f5b685
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Ali Naseer,f5715b48
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,J Drysdale,23f94c02
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,Muhammad Jawadullah,098a757c
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,R Chopra,a71d0f89
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,Syed Haider,ab23a6a1
+info,registry,people,Utkarsh Srivastava,61928851
+info,registry,people,V Sukumaran,5eb51b97
+info,registry,people,Waseem Muhammad,6f02fe2a

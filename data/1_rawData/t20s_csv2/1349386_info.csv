@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Bahrain
+info,gender,male
+info,season,2022/23
+info,date,2022/12/21
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,9
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,Rizwan Butt
+info,umpire,L Poobalan
+info,umpire,Zaidan Taha
+info,reserve_umpire,Rudy Ismandy
+info,match_referee,Edwin Seah
+info,winner,Bahrain
+info,winner_wickets,6
+info,player,Singapore,Abdul Rahman
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Aman Desai
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,Janak Prakash
+info,player,Singapore,U Aryaman Sunil
+info,player,Singapore,Avi Dixit
+info,player,Singapore,A Modi
+info,player,Singapore,V Baskaran
+info,player,Singapore,AR Puri
+info,player,Singapore,V Hampihallikar
+info,player,Bahrain,P Kurup
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Zeeshan Abbas
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Waseeq Ahmed
+info,player,Bahrain,Imran Khan
+info,registry,people,A Modi,4edfc785
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Abdul Rahman,12f53be7
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Avi Dixit,cf17c429
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,P Kurup,50ceaef6
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,U Aryaman Sunil,13bc54a8
+info,registry,people,V Baskaran,dd5a9067
+info,registry,people,V Hampihallikar,241a104c
+info,registry,people,Waseeq Ahmed,a7d6c101
+info,registry,people,Zaidan Taha,a29dd0ec
+info,registry,people,Zeeshan Abbas,328cca93

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Oman
+info,gender,male
+info,season,2022/23
+info,date,2022/11/16
+info,event,Desert Cup T20I Series
+info,match_number,6
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,A Johnson
+info,umpire,Rahul Asher
+info,umpire,Vinod Babu
+info,tv_umpire,Anantha Rajamani
+info,match_referee,MG Shankar
+info,winner,Canada
+info,winner_runs,1
+info,player,Canada,A Johnson
+info,player,Canada,SA Wijeratne
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,D Heyliger
+info,player,Canada,H Thaker
+info,player,Canada,M Spoors
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Pargat Singh
+info,player,Canada,Ammar Khalid
+info,player,Canada,N Dutta
+info,player,Canada,A Kapoor
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Shoaib Khan
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Ayan Khan
+info,player,Oman,Naseem Khushi
+info,player,Oman,Rafiullah
+info,player,Oman,Bilal Khan
+info,player,Oman,Kaleemullah
+info,player,Oman,Fayyaz Butt
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,A Kapoor,2835af2a
+info,registry,people,Ammar Khalid,af98bf5b
+info,registry,people,Anantha Rajamani,6c4ca034
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,Fayyaz Butt,bd9fbd51
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,M Spoors,da4a1e46
+info,registry,people,MG Shankar,d9845a87
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,N Dutta,e258a603
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,Vinod Babu,37e6187d
+info,registry,people,Zeeshan Maqsood,34464143

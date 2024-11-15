@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Rwanda
+info,gender,male
+info,season,2024/25
+info,date,2024/10/22
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,9
+info,venue,"Ruaraka Sports Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Sikandar Raza
+info,umpire,D Odhiambo
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,IO Oyieko
+info,match_referee,ET Dube
+info,winner,Zimbabwe
+info,winner_runs,149
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,T Gwandu
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,D Gumyusenge
+info,player,Rwanda,Yves Cyusa
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,D Gumyusenge,eeb78e0a
+info,registry,people,D Myers,d96165b5
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,D Odhiambo,45994517
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Yves Cyusa,b5aa28ce
+info,registry,people,Z Bimenyimana,ba57fb08

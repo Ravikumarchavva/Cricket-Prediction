@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Sierra Leone
+info,gender,female
+info,season,2023
+info,date,2023/09/08
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Cameroon
+info,toss_decision,bat
+info,umpire,P Sizara
+info,umpire,S Dambanevana
+info,match_referee,SA Fritz
+info,winner,Sierra Leone
+info,winner_wickets,7
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,BMA Mbida
+info,player,Cameroon,O Ranedoumoun
+info,player,Cameroon,CI Manidom
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,B Waluma
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,MFD Douma
+info,player,Cameroon,SA Akenji
+info,player,Sierra Leone,E Kamara
+info,player,Sierra Leone,C Bull
+info,player,Sierra Leone,M Turay
+info,player,Sierra Leone,Z Kamara
+info,player,Sierra Leone,AM Kamara
+info,player,Sierra Leone,J Kowa
+info,player,Sierra Leone,I Quee
+info,player,Sierra Leone,F Parkinson
+info,player,Sierra Leone,F Pessima
+info,player,Sierra Leone,A Fillie
+info,player,Sierra Leone,H Sawaneh
+info,registry,people,A Fillie,67412324
+info,registry,people,AM Kamara,4ca3d67d
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,BMA Mbida,e3c23cef
+info,registry,people,C Bull,a7b3bd26
+info,registry,people,CI Manidom,f0396c01
+info,registry,people,E Kamara,3f8915a0
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,F Parkinson,9b819b10
+info,registry,people,F Pessima,9be80ea0
+info,registry,people,H Sawaneh,09bea436
+info,registry,people,I Quee,6bcefc6e
+info,registry,people,J Kowa,9d80f576
+info,registry,people,M Turay,1eec6a0f
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MFD Douma,88bcd8da
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,O Ranedoumoun,71ee8c8d
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,SA Akenji,d1504c13
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,Z Kamara,a4e98e6b

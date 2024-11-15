@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Australia
+info,gender,female
+info,season,2024/25
+info,date,2024/10/05
+info,event,ICC Women's T20 World Cup
+info,match_number,5
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,ML Schutt
+info,umpire,AY Harris
+info,umpire,S Redfern
+info,reserve_umpire,Kim Cotton
+info,tv_umpire,Lauren Agenbag
+info,match_referee,GS Lakshmi
+info,winner,Australia
+info,winner_wickets,6
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,SIP Fernando
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,I Ranaweera
+info,player,Australia,BL Mooney
+info,player,Australia,AJ Healy
+info,player,Australia,G Wareham
+info,player,Australia,EA Perry
+info,player,Australia,A Gardner
+info,player,Australia,P Litchfield
+info,player,Australia,TM McGrath
+info,player,Australia,A Sutherland
+info,player,Australia,S Molineux
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AJ Healy,321644de
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,D Brown,2e81be88
+info,registry,people,EA Perry,be150fc8
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,S Molineux,99e23670
+info,registry,people,S Redfern,5b038989
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,WK Dilhari,c34a15e6

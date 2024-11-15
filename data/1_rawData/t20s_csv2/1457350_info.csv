@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Uganda
+info,gender,male
+info,season,2024/25
+info,date,2024/10/28
+info,event,Bahrain tour of Uganda
+info,match_number,1
+info,venue,Jinja Cricket Ground
+info,city,Jinja
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,Imran Anwar
+info,umpire,E Wandera
+info,umpire,S Kintu
+info,winner,Bahrain
+info,winner_runs,17
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Asif Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Shahbaz Badar
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Muhammad Salman
+info,player,Bahrain,Imran Khan
+info,player,Uganda,Raghav Dhawan
+info,player,Uganda,R Obuya
+info,player,Uganda,AR Ramjani
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,J Miyaji
+info,player,Uganda,F Achelam
+info,player,Uganda,K Waiswa
+info,player,Uganda,SG Mangela
+info,player,Uganda,C Kyewuta
+info,player,Uganda,H Ssenyondo
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Asif Ali,0a4736eb
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,E Wandera,671cf580
+info,registry,people,F Achelam,b6b3ee6e
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,Muhammad Salman,460fc0ba
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,Raghav Dhawan,ac64c2ef
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Kintu,ff387f93
+info,registry,people,SG Mangela,eb3c3cca
+info,registry,people,Shahbaz Badar,23eedcd3
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851

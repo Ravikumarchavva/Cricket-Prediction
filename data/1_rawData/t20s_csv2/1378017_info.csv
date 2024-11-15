@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Jersey
+info,gender,female
+info,season,2023
+info,date,2023/06/01
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,12
+info,venue,"FB Fields, St Clement"
+info,city,St Clement
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,A Bester
+info,umpire,AY Harris
+info,umpire,Jareth McCready
+info,reserve_umpire,DH Mclean
+info,match_referee,G McCrea
+info,winner,France
+info,winner_runs,6
+info,player,France,IY Mckeon
+info,player,France,L Wykes-Templeman
+info,player,France,PC McGeown
+info,player,France,ME Violleau
+info,player,France,AL Seddon
+info,player,France,Emma Patel
+info,player,France,A Bester
+info,player,France,TE Britton
+info,player,France,DL Graham
+info,player,France,Ganesh Pooja
+info,player,France,PKM Mahawattage
+info,player,Jersey,MD Rocha
+info,player,Jersey,C Miles
+info,player,Jersey,T Smith
+info,player,Jersey,CM Greechan
+info,player,Jersey,A Merritt
+info,player,Jersey,G Wetherall
+info,player,Jersey,A Aikenhead
+info,player,Jersey,M Maguire
+info,player,Jersey,E Duffy
+info,player,Jersey,E Gouge
+info,player,Jersey,S Hanson
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Bester,047d293e
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,AL Seddon,d12ec7b3
+info,registry,people,AY Harris,90d95b82
+info,registry,people,C Miles,80f16d29
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DL Graham,907e30d9
+info,registry,people,E Duffy,52bbb9e5
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,Emma Patel,030a38e0
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,Ganesh Pooja,ab144207
+info,registry,people,IY Mckeon,59ff3c57
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,L Wykes-Templeman,46c9b2bc
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,MD Rocha,30aa04d2
+info,registry,people,ME Violleau,69f47625
+info,registry,people,PC McGeown,1aabd6fc
+info,registry,people,PKM Mahawattage,a413b433
+info,registry,people,S Hanson,711c82b5
+info,registry,people,T Smith,f24ffaab
+info,registry,people,TE Britton,5eceeb7f

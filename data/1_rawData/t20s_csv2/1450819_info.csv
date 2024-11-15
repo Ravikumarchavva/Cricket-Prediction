@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,Namibia
+info,gender,male
+info,season,2024
+info,date,2024/10/01
+info,event,Namibia T20 Tri-Series
+info,match_number,3
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,United States of America
+info,toss_decision,bat
+info,player_of_match,AGS Gous
+info,umpire,A Louw
+info,umpire,E Lassen
+info,reserve_umpire,Claus Schumacher
+info,match_referee,GH Pienaar
+info,winner,United States of America
+info,winner_runs,13
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,AGS Gous
+info,player,United States of America,SK Patel
+info,player,United States of America,NR Kumar
+info,player,United States of America,Milind Kumar
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,AA Paradkar
+info,player,United States of America,NP Kenjige
+info,player,United States of America,J Drysdale
+info,player,Namibia,JP Kotze
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,MB Kruger
+info,player,Namibia,JI de Villiers
+info,player,Namibia,DO Leicher
+info,player,Namibia,BM Scholtz
+info,player,Namibia,JT Brassell
+info,player,Namibia,T Lungameni
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AA Paradkar,96f5b685
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,J Drysdale,23f94c02
+info,registry,people,JI de Villiers,3847ec84
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,SK Patel,f93b43dd
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,T Lungameni,1688f2dc

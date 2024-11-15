@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,West Indies
+info,gender,female
+info,season,2024/25
+info,date,2024/10/18
+info,event,ICC Women's T20 World Cup
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,EJ Carson
+info,umpire,CA Polosak
+info,umpire,Lauren Agenbag
+info,reserve_umpire,VG Rathi
+info,tv_umpire,Eloise Sheridan
+info,match_referee,GS Lakshmi
+info,winner,New Zealand
+info,winner_runs,8
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,ML Green
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,RA Mair
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,player,West Indies,CA Henry
+info,player,West Indies,HK Matthews
+info,player,West Indies,Q Joseph
+info,player,West Indies,SA Campbelle
+info,player,West Indies,SR Taylor
+info,player,West Indies,DJS Dottin
+info,player,West Indies,AA Alleyne
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,CN Nation
+info,player,West Indies,Z James
+info,player,West Indies,A Munisar
+info,player,West Indies,K Ramharack
+info,registry,people,A Munisar,a811cb83
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,AC Kerr,7673c908
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,CA Henry,75820733
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CN Nation,639000b6
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,EJ Carson,7693851c
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,K Ramharack,321c980e
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,ML Green,865eae1f
+info,registry,people,Q Joseph,d6164dc0
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Z James,816af623

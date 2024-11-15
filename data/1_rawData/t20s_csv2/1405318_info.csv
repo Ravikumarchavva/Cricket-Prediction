@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Hong Kong
+info,gender,male
+info,season,2023/24
+info,date,2023/10/31
+info,event,ICC Men's T20 World Cup Asia Qualifier Final
+info,match_number,6
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,umpire,BB Pradhan
+info,umpire,V Kalidas
+info,reserve_umpire,Sarika Prasad
+info,match_referee,Ali Naqvi
+info,winner,Bahrain
+info,winner_runs,20
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Sachin Kumar
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Mohammad Ghazanfar
+info,player,Hong Kong,A Shukla
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Mohammad Ghazanfar,00321fff
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Sachin Kumar,b76b2d25
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

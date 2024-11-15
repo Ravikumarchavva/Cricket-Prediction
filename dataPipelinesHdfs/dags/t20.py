@@ -5,7 +5,6 @@ import os
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
-from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", '..'))
@@ -39,12 +38,6 @@ with DAG(
     max_active_runs=1,
 ) as dag:
     
-    # DVC Pull
-    dvc_pull = BashOperator(
-        task_id='dvc_pull',
-        bash_command='dvc pull',
-    )
-
     # Sources
     download_cricsheet_task = PythonOperator(
         task_id='download_cricsheet',
@@ -129,23 +122,10 @@ with DAG(
         conn_id='spark_default',
         )
 
-    # DVC Add
-    dvc_add = BashOperator(
-        task_id='dvc_add',
-        bash_command='dvc add path/to/data',
-    )
-
-    # DVC Push
-    dvc_push = BashOperator(
-        task_id='dvc_push',
-        bash_command='dvc push',
-    )
 
     # Define initial tasks
     [download_cricsheet_task, scrape_espn_stats_task]
 
-    # Tasks dependent on DVC Pull
-    dvc_pull >> [download_cricsheet_task, scrape_espn_stats_task]
 
     # Tasks dependent on download_cricsheet_task
     download_cricsheet_task >> [
@@ -190,7 +170,4 @@ with DAG(
         merge_matches_and_deliveries_task,
         merge_match_team_stats_task,
         merge_match_players_stats_task
-    ] >> filter_data_task
-
-    # DVC Add and Push after data processing
-    filter_data_task >> dvc_add >> dvc_push
+    ] >> filter_data_task   

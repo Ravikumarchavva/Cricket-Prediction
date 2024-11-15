@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Nepal
+info,gender,male
+info,season,2023/24
+info,date,2023/10/30
+info,event,ICC Men’s T20 World Cup Asia Qualifier Final
+info,match_number,2
+info,venue,"Tribhuvan University International Cricket Ground, Kirtipur"
+info,city,Kirtipur
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,K Bhurtel
+info,umpire,Gazi Sohel
+info,umpire,Rashid Riaz
+info,reserve_umpire,LE Hannibal
+info,match_referee,Ali Naqvi
+info,winner,Nepal
+info,winner_wickets,8
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Rohan
+info,player,Singapore,S Chandramohan
+info,player,Singapore,A Kaul
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,Janak Prakash
+info,player,Singapore,A Chaudhary
+info,player,Singapore,TO Thilappan
+info,player,Singapore,A Krishna
+info,player,Singapore,AR Puri
+info,player,Singapore,R Kalimuthu
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,RK Paudel
+info,player,Nepal,Kushal Malla
+info,player,Nepal,Karan KC
+info,player,Nepal,A Bohara
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,B Yadav
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Sompal Kami
+info,player,Nepal,S Jora
+info,registry,people,A Bohara,64fb6b15
+info,registry,people,A Chaudhary,465fd722
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,A Krishna,13598ebc
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,B Yadav,ef07f354
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Rohan,baf0fc26
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,S Jora,156378d8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,TO Thilappan,44482748

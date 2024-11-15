@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Australia
+info,gender,male
+info,season,2023/24
+info,date,2023/11/28
+info,event,Australia tour of India
+info,match_number,3
+info,venue,"Barsapara Cricket Stadium, Guwahati"
+info,city,Guwahati
+info,toss_winner,Australia
+info,toss_decision,field
+info,player_of_match,GJ Maxwell
+info,umpire,R Pandit
+info,umpire,VK Sharma
+info,reserve_umpire,J Madanagopal
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,J Srinath
+info,winner,Australia
+info,winner_wickets,5
+info,player,India,YBK Jaiswal
+info,player,India,RD Gaikwad
+info,player,India,Ishan Kishan
+info,player,India,SA Yadav
+info,player,India,Tilak Varma
+info,player,India,RK Singh
+info,player,India,AR Patel
+info,player,India,Ravi Bishnoi
+info,player,India,Arshdeep Singh
+info,player,India,Avesh Khan
+info,player,India,M Prasidh Krishna
+info,player,Australia,TM Head
+info,player,Australia,AM Hardie
+info,player,Australia,JP Inglis
+info,player,Australia,GJ Maxwell
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,MS Wade
+info,player,Australia,NT Ellis
+info,player,Australia,JP Behrendorff
+info,player,Australia,T Sangha
+info,player,Australia,KW Richardson
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,GJ Maxwell,b681e71e
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JP Behrendorff,4933f499
+info,registry,people,JP Inglis,989889ff
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,KW Richardson,dfc4d8b5
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MS Wade,afa7e784
+info,registry,people,NT Ellis,9eb1455b
+info,registry,people,R Pandit,8a604384
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,T Sangha,52c952d9
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,YBK Jaiswal,6c19c6e5

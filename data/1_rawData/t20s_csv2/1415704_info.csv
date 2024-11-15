@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,South Africa
+info,gender,male
+info,season,2024
+info,date,2024/06/03
+info,event,ICC Men's T20 World Cup
+info,match_number,4
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,A Nortje
+info,umpire,CM Brown
+info,umpire,RA Kettleborough
+info,reserve_umpire,AG Wharf
+info,tv_umpire,PR Reiffel
+info,match_referee,JJ Crowe
+info,winner,South Africa
+info,winner_wickets,6
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,N Thushara
+info,player,South Africa,Q de Kock
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,M Jansen
+info,player,South Africa,KA Maharaj
+info,player,South Africa,K Rabada
+info,player,South Africa,A Nortje
+info,player,South Africa,OEG Baartman
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AK Markram,6a26221c
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,OEG Baartman,6b9eb501
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,T Stubbs,85b3fab2

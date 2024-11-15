@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Bangladesh
+info,gender,female
+info,season,2024/25
+info,date,2024/10/05
+info,event,ICC Women's T20 World Cup
+info,match_number,6
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,DN Wyatt
+info,umpire,N Perera
+info,umpire,S Dambanevana
+info,reserve_umpire,JM Williams
+info,tv_umpire,Eloise Sheridan
+info,match_referee,JM Pereira
+info,winner,England
+info,winner_runs,21
+info,player,England,ME Bouchier
+info,player,England,DN Wyatt
+info,player,England,NR Sciver-Brunt
+info,player,England,HC Knight
+info,player,England,A Capsey
+info,player,England,AE Jones
+info,player,England,DR Gibson
+info,player,England,CE Dean
+info,player,England,S Ecclestone
+info,player,England,S Glenn
+info,player,England,LCN Smith
+info,player,Bangladesh,S Rani
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Taj Nehar
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,DR Gibson,d2763568
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,LCN Smith,340202b0
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,N Perera,129709f9
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Mostary,94de63bf
+info,registry,people,S Rani,b3f7066c
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Taj Nehar,426eaf06

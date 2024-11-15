@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Malta
+info,gender,male
+info,season,2023
+info,date,2023/07/10
+info,event,Mdina Cup
+info,match_number,1
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Malta
+info,toss_decision,field
+info,player_of_match,Usman Khan
+info,umpire,D Kalloe
+info,umpire,S Gowda
+info,reserve_umpire,S Harnal
+info,match_referee,Vinay Malhotra
+info,winner,France
+info,winner_runs,9
+info,player,France,G Mckeon
+info,player,France,HA Jackson
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Dawood Ahmadzai
+info,player,France,Usman Khan
+info,player,France,Noman Amjad
+info,player,France,Zain Ahmad
+info,player,France,SM Warnakulasuriya
+info,player,France,Rahmatullah Mangal
+info,player,France,R Mangal
+info,player,Malta,Imran Ameer
+info,player,Malta,Zeeshan Khan
+info,player,Malta,Jaspal Singh
+info,player,Malta,E Mathew
+info,player,Malta,B Arora
+info,player,Malta,VP Thamotharam
+info,player,Malta,C Sudarsanan
+info,player,Malta,Waqas Ahmad
+info,player,Malta,Fanyan Mughal
+info,player,Malta,J Shaju
+info,player,Malta,Washeem Abbas
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,D Kalloe,baf1c7d1
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,Imran Ameer,b8e65260
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,R Mangal,5360c9be
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,SM Warnakulasuriya,8a5a8cf0
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Waqas Ahmad,82623a3a
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zain Ahmad,ea2c0aff
+info,registry,people,Zeeshan Khan,3f9b1a96

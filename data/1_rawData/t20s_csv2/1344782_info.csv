@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Oman
+info,gender,male
+info,season,2022/23
+info,date,2022/11/14
+info,event,Desert Cup T20I Series
+info,match_number,1
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Saudi Arabia
+info,toss_decision,bat
+info,player_of_match,Bilal Khan
+info,umpire,Azad KR
+info,umpire,M Surve
+info,tv_umpire,N Krishnan
+info,match_referee,Chetan Thanki
+info,winner,Oman
+info,winner_wickets,9
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Kashif Siddique
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Saad Khan
+info,player,Saudi Arabia,Irfan Sarfraz
+info,player,Saudi Arabia,Haseeb Ghafoor
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Atif-Ur-Rehman
+info,player,Saudi Arabia,Muhammad Saqib
+info,player,Oman,KH Prajapati
+info,player,Oman,Jatinder Singh
+info,player,Oman,Shoaib Khan
+info,player,Oman,Rafiullah
+info,player,Oman,Naseem Khushi
+info,player,Oman,Bilal Khan
+info,player,Oman,Kaleemullah
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Mohammad Nadeem
+info,player,Oman,Ayan Khan
+info,player,Oman,S Shrivastava
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Atif-Ur-Rehman,d20e22f7
+info,registry,people,Ayan Khan,44d6a8b8
+info,registry,people,Azad KR,d620b86a
+info,registry,people,Bilal Khan,dcdb87f2
+info,registry,people,Chetan Thanki,5f1a3d77
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Haseeb Ghafoor,454a7269
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Irfan Sarfraz,ef5d54c6
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,KH Prajapati,c4e73ff1
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,Kashif Siddique,2513b4fe
+info,registry,people,M Surve,f5df456a
+info,registry,people,Mohammad Nadeem,c5d7b244
+info,registry,people,Muhammad Saqib,9d6644a0
+info,registry,people,N Krishnan,b317852e
+info,registry,people,Naseem Khushi,c63671e9
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,S Shrivastava,ac166f77
+info,registry,people,Saad Khan,28e0f645
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,Zain Ul Abidin,b93b87ae
+info,registry,people,Zeeshan Maqsood,34464143

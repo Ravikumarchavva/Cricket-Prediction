@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Scotland
+info,gender,male
+info,season,2024
+info,date,2024/06/06
+info,event,ICC Men's T20 World Cup
+info,match_number,12
+info,venue,"Kensington Oval, Bridgetown, Barbados"
+info,city,Bridgetown
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,MA Leask
+info,umpire,J Madanagopal
+info,umpire,Nitin Menon
+info,reserve_umpire,JS Wilson
+info,tv_umpire,Asif Yaqoob
+info,match_referee,AJ Pycroft
+info,winner,Scotland
+info,winner_wickets,5
+info,player,Namibia,JP Kotze
+info,player,Namibia,N Davin
+info,player,Namibia,JN Frylinck
+info,player,Namibia,MG Erasmus
+info,player,Namibia,MB Kruger
+info,player,Namibia,ZE Green
+info,player,Namibia,D Wiese
+info,player,Namibia,R Trumpelmann
+info,player,Namibia,JJ Smit
+info,player,Namibia,BM Scholtz
+info,player,Namibia,T Lungameni
+info,player,Scotland,HG Munsey
+info,player,Scotland,MA Jones
+info,player,Scotland,BJ McMullen
+info,player,Scotland,RD Berrington
+info,player,Scotland,MH Cross
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,CB Sole
+info,player,Scotland,BTJ Wheal
+info,player,Scotland,BJ Currie
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CB Sole,469ccead
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,MA Jones,05f96194
+info,registry,people,MA Leask,28131839
+info,registry,people,MB Kruger,c51add25
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,N Davin,72e361fe
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Trumpelmann,ff6a7ab5
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,ZE Green,8716233e

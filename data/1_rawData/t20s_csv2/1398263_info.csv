@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Sri Lanka
+info,gender,female
+info,season,2023/24
+info,date,2024/04/03
+info,event,Sri Lanka Women tour of South Africa
+info,match_number,3
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,AC Jayangani
+info,umpire,JM Williams
+info,umpire,TC Mokorosi
+info,reserve_umpire,Lauren Agenbag
+info,tv_umpire,K Klaaste
+info,match_referee,SA Fritz
+info,winner,Sri Lanka
+info,winner_wickets,4
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,M Kapp
+info,player,South Africa,S Luus
+info,player,South Africa,A Bosch
+info,player,South Africa,N de Klerk
+info,player,South Africa,E Marx
+info,player,South Africa,K Meso
+info,player,South Africa,N Mlaba
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,A Khaka
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,SIP Fernando
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,KDU Prabodhani
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Khaka,0d518f89
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,E Marx,be592751
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,H Madavi,85021bcd
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,K Meso,130336c6
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,T Brits,06659caa
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,TS Sekhukhune,6e28e586
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

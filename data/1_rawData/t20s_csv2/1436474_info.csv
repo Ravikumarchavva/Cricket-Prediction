@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Austria
+info,team,Romania
+info,gender,male
+info,season,2024
+info,date,2024/06/09
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,4
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Austria
+info,toss_decision,bat
+info,player_of_match,V Saini
+info,umpire,MJ Saggers
+info,umpire,WPM van Liemt
+info,reserve_umpire,M Jameson
+info,match_referee,G McCrea
+info,winner,Romania
+info,winner_wickets,3
+info,player,Austria,I Asif
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Abrar Bilal
+info,player,Austria,Aqib Iqbal
+info,player,Austria,Waqar Zalmai
+info,player,Austria,Shadnan Khan
+info,player,Austria,A Randhawa
+info,player,Austria,Amar Naeem
+info,player,Austria,Baseer Khan
+info,player,Austria,Abdullah Akbarjan
+info,player,Romania,Taranjeet Singh
+info,player,Romania,AN Lascu
+info,player,Romania,Muhammad Moiz
+info,player,Romania,V Saini
+info,player,Romania,A Rajshekara
+info,player,Romania,S Nadigotla
+info,player,Romania,Rameez Khan
+info,player,Romania,S Vashisht
+info,player,Romania,Ali Hussain
+info,player,Romania,P Hingorani
+info,player,Romania,M Koli
+info,registry,people,A Rajshekara,1f3e41fe
+info,registry,people,A Randhawa,1798078c
+info,registry,people,AN Lascu,e2c882d1
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Abrar Bilal,6ddaee2d
+info,registry,people,Ali Hussain,b8fe81be
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,G McCrea,46f4a901
+info,registry,people,I Asif,663ad386
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Koli,eb0f2802
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,P Hingorani,ecfdfbad
+info,registry,people,Rameez Khan,ee86a890
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,Shadnan Khan,b17d629e
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719
+info,registry,people,WPM van Liemt,2bd48588
+info,registry,people,Waqar Zalmai,74571ec4

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Romania
+info,gender,male
+info,season,2023
+info,date,2023/07/16
+info,event,Valletta Cup
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Romania
+info,toss_decision,field
+info,player_of_match,V Saini
+info,umpire,D Kalloe
+info,umpire,J Hilhorst
+info,reserve_umpire,V Sridhar
+info,match_referee,S Gowda
+info,winner,Romania
+info,winner_wickets,7
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,P Malav
+info,player,Luxembourg,A Dhingra
+info,player,Romania,R Satheesan
+info,player,Romania,Taranjeet Singh
+info,player,Romania,V Saini
+info,player,Romania,S Vashisht
+info,player,Romania,S Periyalwar
+info,player,Romania,R Kumar
+info,player,Romania,Gaurav Mishra
+info,player,Romania,M Koli
+info,player,Romania,C Zavoiu
+info,player,Romania,Luca Petre
+info,player,Romania,L Gharasim
+info,registry,people,A Dhingra,753ada66
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Nanda,704e0160
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,C Zavoiu,6b96bebf
+info,registry,people,D Kalloe,baf1c7d1
+info,registry,people,Gaurav Mishra,507dd87f
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Hilhorst,8a1350d4
+info,registry,people,L Gharasim,18f4d808
+info,registry,people,Luca Petre,b31d458f
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,M Koli,eb0f2802
+info,registry,people,P Malav,02b078b1
+info,registry,people,R Kumar,2df874e6
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,SKS Gill,faef026c
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719
+info,registry,people,V Sridhar,42314166
+info,registry,people,V Vijh,b857468a
+info,registry,people,WJ Cope,fb34b0ec

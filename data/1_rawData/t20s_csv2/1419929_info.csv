@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Maldives
+info,gender,female
+info,season,2023/24
+info,date,2024/02/13
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,24
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Nepal
+info,toss_decision,bat
+info,umpire,L Poobalan
+info,umpire,Shathira Jakir
+info,reserve_umpire,Shriya Kumari
+info,match_referee,Edwin Seah
+info,winner,Nepal
+info,winner_runs,214
+info,player,Nepal,K Kunwar
+info,player,Nepal,SR Magar
+info,player,Nepal,I Barma
+info,player,Nepal,RC Belbashi
+info,player,Nepal,D Bhatta
+info,player,Nepal,Puja Mahato
+info,player,Nepal,Apsari Begam
+info,player,Nepal,A Karmacharya
+info,player,Nepal,K Joshi
+info,player,Nepal,K Shrestha
+info,player,Nepal,Roma Thapa
+info,player,Maldives,Leen Luthufee
+info,player,Maldives,Nabaa Naseem
+info,player,Maldives,Fathimath Malha
+info,player,Maldives,Maaha Naseer
+info,player,Maldives,Latsha Haleemath
+info,player,Maldives,Sumayya Abdul
+info,player,Maldives,Fathimath Anaal
+info,player,Maldives,Aishath Meesa Rameez
+info,player,Maldives,Hawwa Shaaiqa
+info,player,Maldives,Shamma Ali
+info,player,Maldives,Hafsaa Abdhulla
+info,registry,people,A Karmacharya,e1492aed
+info,registry,people,Aishath Meesa Rameez,659fc11f
+info,registry,people,Apsari Begam,eb765b41
+info,registry,people,D Bhatta,7d1a3ff7
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Fathimath Anaal,e98606a2
+info,registry,people,Fathimath Malha,0c4c27d1
+info,registry,people,Hafsaa Abdhulla,7fa1e4a2
+info,registry,people,Hawwa Shaaiqa,46030558
+info,registry,people,I Barma,521abce2
+info,registry,people,K Joshi,0cd297b9
+info,registry,people,K Kunwar,97e6e41a
+info,registry,people,K Shrestha,119de50f
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Latsha Haleemath,2d99b12e
+info,registry,people,Leen Luthufee,e575e4c5
+info,registry,people,Maaha Naseer,f8809f92
+info,registry,people,Nabaa Naseem,4f1208a8
+info,registry,people,Puja Mahato,4b95058b
+info,registry,people,RC Belbashi,dfdaca74
+info,registry,people,Roma Thapa,05d9faac
+info,registry,people,SR Magar,61c22ad0
+info,registry,people,Shamma Ali,012bd3f6
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,Sumayya Abdul,a521ba3e

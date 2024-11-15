@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Mongolia
+info,gender,male
+info,season,2024
+info,date,2024/09/02
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,9
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Mongolia
+info,toss_decision,field
+info,player_of_match,Pyae Phyo Wai
+info,umpire,Tabarak Dar
+info,umpire,V Kalidas
+info,reserve_umpire,Faisal Afridi
+info,match_referee,V Narayan Kutty
+info,winner,Myanmar
+info,winner_runs,71
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Y Naing Tun
+info,player,Myanmar,Nay Lin Htun
+info,player,Myanmar,Aung Ko Ko
+info,player,Myanmar,Nyeing Cham Soe
+info,player,Myanmar,H Lin Oo
+info,player,Mongolia,S Natsagdorj
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,N Naranbaatar
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,S Gantulga
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,B Namsrai
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,T Tumursukh
+info,player,Mongolia,Z Shurentsetseg
+info,registry,people,Aung Ko Ko,648d060e
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,G Ganbold,947346d8
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,N Naranbaatar,b0e16d9b
+info,registry,people,Nay Lin Htun,5319f95b
+info,registry,people,Nyeing Cham Soe,45b5ce8d
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,S Gantulga,8d995b86
+info,registry,people,S Natsagdorj,b3f47a20
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Tumursukh,4758488e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Y Naing Tun,97b109d2
+info,registry,people,Z Shurentsetseg,45c6afaf

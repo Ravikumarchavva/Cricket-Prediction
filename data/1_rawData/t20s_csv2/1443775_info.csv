@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Guernsey
+info,gender,male
+info,season,2024
+info,date,2024/08/24
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,10
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Guernsey
+info,toss_decision,field
+info,player_of_match,Raaz Mohammad
+info,umpire,AA Baig
+info,umpire,Jareth McCready
+info,reserve_umpire,AY Harris
+info,match_referee,GH Pienaar
+info,winner,Finland
+info,winner_runs,4
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,VS Padhaal
+info,player,Finland,Jordan O'Brien
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,NM Salonen
+info,player,Finland,Amjad Sher
+info,player,Finland,Atif Rasheed
+info,player,Finland,JOP Scamans
+info,player,Finland,MB Tambe
+info,player,Finland,E Kuchey
+info,player,Finland,Raaz Mohammad
+info,player,Guernsey,J Butler
+info,player,Guernsey,B Fitchet
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,MWR Stokes
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,OB Nightingale
+info,player,Guernsey,LB Ferbrache
+info,player,Guernsey,LT Bichard
+info,player,Guernsey,M Dale-Bradley
+info,player,Guernsey,C Forshaw
+info,player,Guernsey,D Mullen
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,B Fitchet,d77ecd14
+info,registry,people,C Forshaw,0ed66ce6
+info,registry,people,D Mullen,61da7440
+info,registry,people,E Kuchey,5d6064b0
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Butler,efcb778e
+info,registry,people,JOP Scamans,4e56e796
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,LB Ferbrache,0f72f582
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Dale-Bradley,62b2aa65
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,MWR Stokes,c573d173
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,OB Nightingale,1deb4c0c
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,VS Padhaal,c4fb0b39

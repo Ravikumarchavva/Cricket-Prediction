@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Bangladesh
+info,gender,male
+info,season,2024
+info,date,2024/05/05
+info,event,Zimbabwe tour of Bangladesh
+info,match_number,2
+info,venue,"Zahur Ahmed Chowdhury Stadium, Chattogram"
+info,city,Chattogram
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,Towhid Hridoy
+info,umpire,Masudur Rahman
+info,umpire,Sharfuddoula
+info,reserve_umpire,Tanvir Ahmed
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,RS Madugalle
+info,winner,Bangladesh
+info,winner_wickets,6
+info,player,Zimbabwe,J Gumbie
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,J Campbell
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,A Ndlovu
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,R Ngarava
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Mohammad Saifuddin
+info,registry,people,A Ndlovu,3abe1ef6
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,J Campbell,0e63259d
+info,registry,people,J Gumbie,c8d74c21
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,Liton Das,0404d43c
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Saifuddin,b3a28446
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414

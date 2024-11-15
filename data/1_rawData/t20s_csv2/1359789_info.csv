@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bermuda
+info,team,Panama
+info,gender,male
+info,season,2022/23
+info,date,2023/02/28
+info,event,ICC Men's T20 World Cup Americas Region Qualifier
+info,match_number,6
+info,venue,"Belgrano Athletic Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Bermuda
+info,toss_decision,bat
+info,player_of_match,KS Leverock
+info,umpire,N Duguid
+info,umpire,Vijaya Mallela
+info,reserve_umpire,Jermaine Lindo
+info,match_referee,Reon King
+info,winner,Bermuda
+info,winner_runs,60
+info,player,Bermuda,KS Leverock
+info,player,Bermuda,T Manders
+info,player,Bermuda,DMW Rawlins
+info,player,Bermuda,D Sabir
+info,player,Bermuda,MO Jones
+info,player,Bermuda,Z Burgess
+info,player,Bermuda,TS Fray
+info,player,Bermuda,JDP Albertze
+info,player,Bermuda,S Smith
+info,player,Bermuda,JE Pitcher
+info,player,Bermuda,DL Brangman
+info,player,Panama,Mahmud Jasat
+info,player,Panama,M Sohel Patel
+info,player,Panama,Sohel Patel
+info,player,Panama,Irfan Hafejee
+info,player,Panama,RDB Ahir
+info,player,Panama,A Natubhai Ahir
+info,player,Panama,VC Ahir
+info,player,Panama,N Ahir
+info,player,Panama,KB Ahir
+info,player,Panama,Ahmadi Ravat
+info,player,Panama,AM Patel
+info,registry,people,A Natubhai Ahir,9c91218d
+info,registry,people,AM Patel,a09323d8
+info,registry,people,Ahmadi Ravat,a90e8bcf
+info,registry,people,D Sabir,04bc296f
+info,registry,people,DL Brangman,dab18aa5
+info,registry,people,DMW Rawlins,f1eb3c73
+info,registry,people,Irfan Hafejee,244009ae
+info,registry,people,JDP Albertze,80782209
+info,registry,people,JE Pitcher,ab126ea8
+info,registry,people,JT Darrell,69649715
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,KB Ahir,214cf493
+info,registry,people,KS Leverock,e1592949
+info,registry,people,M Sohel Patel,40a5bcf9
+info,registry,people,MO Jones,0e0afd8b
+info,registry,people,Mahmud Jasat,97e36a0f
+info,registry,people,N Ahir,c2ecd4a7
+info,registry,people,N Duguid,64495506
+info,registry,people,RDB Ahir,2f6f44bb
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Smith,18a0ba24
+info,registry,people,Sohel Patel,9ac70727
+info,registry,people,T Manders,6d2b9724
+info,registry,people,TS Fray,c7537f8a
+info,registry,people,VC Ahir,0bb68705
+info,registry,people,Vijaya Mallela,85b6244a
+info,registry,people,Z Burgess,d0042e16

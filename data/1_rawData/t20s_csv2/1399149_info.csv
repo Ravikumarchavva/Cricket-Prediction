@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Kuwait
+info,gender,male
+info,season,2023/24
+info,date,2023/10/05
+info,event,ICC Men's T20 World Cup Sub Regional Asia Qualifier A
+info,match_number,12
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,Meet Bhavsar
+info,umpire,Bismillah Shinwari
+info,umpire,Shivani Mishra
+info,reserve_umpire,Rahul Asher
+info,match_referee,GS Lakshmi
+info,winner,Kuwait
+info,winner_wickets,4
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Waqar Ul Hassan
+info,player,Saudi Arabia,Umair Sharif
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Khalander Mustafa
+info,player,Saudi Arabia,Haseeb Ghafoor
+info,player,Saudi Arabia,Ahmed Baladraf
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Kuwait,CV Anto
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Ilyas Ahmed
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmed Baladraf,8bbb89ab
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,Haseeb Ghafoor,454a7269
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Ilyas Ahmed,42a01b52
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Khalander Mustafa,df6534ac
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Umair Sharif,a19db58e
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Waqar Ul Hassan,b704da31
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Zain Ul Abidin,b93b87ae

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Bhutan
+info,gender,male
+info,season,2024/25
+info,date,2024/10/19
+info,event,Bhutan Quadrangular T20I Series
+info,match_number,1
+info,venue,Gelephu International Cricket Ground
+info,city,Gelephu
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,C Chatphaisan
+info,umpire,AK Rai
+info,umpire,Dorji
+info,reserve_umpire,ON Pradhan
+info,tv_umpire,U Dorji
+info,match_referee,Sarika Prasad
+info,winner,Thailand
+info,winner_runs,77
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,AV Lazarus
+info,player,Thailand,J Coetzee
+info,player,Thailand,S Rungrueang
+info,player,Thailand,Robert Raina
+info,player,Thailand,A Kalasi
+info,player,Thailand,N Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,K Senamontree
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,J Singye
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,Tshering Tashi
+info,player,Bhutan,D Dawa
+info,player,Bhutan,S Yeshi
+info,registry,people,A Kalasi,8930a2a6
+info,registry,people,AK Rai,1d70834a
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,D Dawa,676aeb1b
+info,registry,people,Dorji,a6b688ef
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,J Singye,28574428
+info,registry,people,K Senamontree,e553e27f
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,ON Pradhan,d41a08d6
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,Robert Raina,8e38d470
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Rungrueang,35ae9e8a
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Tshering Tashi,596c60cf
+info,registry,people,U Dorji,12bba2d4
+info,registry,people,Y Saranonnakkun,9c93c0a3

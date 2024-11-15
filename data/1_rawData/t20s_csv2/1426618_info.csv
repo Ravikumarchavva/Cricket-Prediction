@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,female
+info,season,2024
+info,date,2024/09/22
+info,event,New Zealand Women tour of Australia
+info,match_number,2
+info,venue,"Great Barrier Reef Arena, Mackay"
+info,city,Mackay
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,A Gardner
+info,umpire,Andrew Crozier
+info,umpire,BC Treloar
+info,reserve_umpire,D Brigham
+info,tv_umpire,Troy Penman
+info,match_referee,Dave Gilbert
+info,winner,Australia
+info,winner_runs,29
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,EA Perry
+info,player,Australia,A Gardner
+info,player,Australia,P Litchfield
+info,player,Australia,TM McGrath
+info,player,Australia,G Wareham
+info,player,Australia,A Sutherland
+info,player,Australia,S Molineux
+info,player,Australia,ML Schutt
+info,player,Australia,D Brown
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,ML Green
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,MM Penfold
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Healy,321644de
+info,registry,people,Andrew Crozier,00d07580
+info,registry,people,BC Treloar,f7e8ee52
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,D Brigham,464daf41
+info,registry,people,D Brown,2e81be88
+info,registry,people,Dave Gilbert,aa782370
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GE Plimmer,575494db
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ML Green,865eae1f
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,MM Penfold,645b2a2f
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,S Molineux,99e23670
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,Troy Penman,0aa42c26

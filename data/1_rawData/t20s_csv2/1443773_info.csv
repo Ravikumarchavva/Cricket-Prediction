@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Czech Republic
+info,gender,male
+info,season,2024
+info,date,2024/08/22
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,8
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Czech Republic
+info,toss_decision,field
+info,player_of_match,Sazib Bhuiyan
+info,umpire,AY Harris
+info,umpire,S Wood
+info,reserve_umpire,RJ Veillard
+info,match_referee,GH Pienaar
+info,winner,Spain
+info,winner_runs,1
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,Muhammad Yasin
+info,player,Spain,Shafat Ali Syed
+info,player,Spain,Yasir Ali
+info,player,Spain,D Doyle-Calle
+info,player,Spain,Hamza Dar
+info,player,Spain,A Davidson Soler
+info,player,Spain,C Munoz-Mills
+info,player,Spain,LA Burns
+info,player,Spain,SJ Hughes-Pinan
+info,player,Spain,Raja Adeel
+info,player,Czech Republic,Dylan Steyn
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,Ritik Tomar
+info,player,Czech Republic,M Worndl
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,M Vandrasi
+info,player,Czech Republic,S Grover
+info,player,Czech Republic,Naveed Ahmed
+info,player,Czech Republic,Abul Farhad
+info,player,Czech Republic,N Tyagi
+info,player,Czech Republic,S Chaudhary
+info,registry,people,A Davidson Soler,524943f1
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Abul Farhad,f7cb7c3a
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Dylan Steyn,ff2b190e
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Hamza Dar,557550a4
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,M Vandrasi,e82543d5
+info,registry,people,M Worndl,e8d1c172
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,Muhammad Yasin,57888f3c
+info,registry,people,N Tyagi,53984f75
+info,registry,people,Naveed Ahmed,87609cbb
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,Raja Adeel,7ee25c46
+info,registry,people,Ritik Tomar,6de51a8e
+info,registry,people,S Chaudhary,24c1844e
+info,registry,people,S Grover,c2a6e61f
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,SJ Hughes-Pinan,ca72ea31
+info,registry,people,Sazib Bhuiyan,e5464794
+info,registry,people,Shafat Ali Syed,6d36cb93
+info,registry,people,Yasir Ali,79209272

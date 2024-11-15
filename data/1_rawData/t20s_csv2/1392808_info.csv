@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Kuwait
+info,gender,male
+info,season,2023
+info,date,2023/09/18
+info,event,Gulf Cricket T20I Championship
+info,match_number,7
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,player_of_match,Adnan Mirza
+info,umpire,Azad KR
+info,umpire,Shiju Sam
+info,reserve_umpire,Muhammad Usman (2)
+info,tv_umpire,Rahat Ali Chaudhry
+info,match_referee,Shivani Mishra
+info,winner,Qatar
+info,winner_runs,1
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,I Liyanage
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,MM Baig
+info,player,Qatar,Bipin Kumar
+info,player,Qatar,Bukhar Illikkal
+info,player,Qatar,H Rathod
+info,player,Qatar,Jassim Khan
+info,player,Qatar,Muhammad Murad
+info,player,Qatar,Muhammad Jabir
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,Adnan Idrees
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Ahsan ul Haq
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,Parvindar Kumar
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Shahrukh Quddus
+info,registry,people,Adnan Idrees,0e34c23a
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Ahsan ul Haq,877ab296
+info,registry,people,Azad KR,d620b86a
+info,registry,people,Bipin Kumar,c821e504
+info,registry,people,Bukhar Illikkal,f4a2d087
+info,registry,people,H Rathod,1f943bef
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Jassim Khan,67e36e53
+info,registry,people,MM Baig,add288ea
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Murad,df3947f4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Muhammad Usman,05b35689
+info,registry,people,Parvindar Kumar,7a27bee5
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rahat Ali,458161f4
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shahrukh Quddus,a80cc0cc
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Yasin Patel,ecdd8d60

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Pakistan
+info,gender,male
+info,season,2022/23
+info,date,2022/10/27
+info,event,ICC Men's T20 World Cup
+info,match_number,24
+info,venue,Perth Stadium
+info,city,Perth
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Sikandar Raza
+info,umpire,CB Gaffaney
+info,umpire,RA Kettleborough
+info,reserve_umpire,RK Illingworth
+info,tv_umpire,M Erasmus
+info,match_referee,AJ Pycroft
+info,winner,Zimbabwe
+info,winner_runs,1
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,M Shumba
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,B Evans
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Shan Masood
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Haider Ali
+info,player,Pakistan,Mohammad Nawaz
+info,player,Pakistan,Mohammad Wasim
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Naseem Shah
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,B Evans,e7e86505
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,Haider Ali,c13e34f4
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M Erasmus,15d3c895
+info,registry,people,M Shumba,6766ca00
+info,registry,people,Mohammad Nawaz,3086f7a4
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,Mohammad Wasim,9e9af5f2
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RK Illingworth,20672246
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Shan Masood,6843a783
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,W Madhevere,a879b92c

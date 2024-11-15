@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,United States of America
+info,gender,male
+info,season,2024
+info,date,2024/06/06
+info,event,ICC Men's T20 World Cup
+info,match_number,11
+info,venue,"Grand Prairie Stadium, Dallas"
+info,city,Dallas
+info,toss_winner,United States of America
+info,toss_decision,field
+info,player_of_match,MD Patel
+info,umpire,A Paleker
+info,umpire,MA Gough
+info,reserve_umpire,RJ Tucker
+info,tv_umpire,PR Reiffel
+info,match_referee,JJ Crowe
+info,outcome,tie
+info,eliminator,United States of America
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Azam Khan
+info,player,Pakistan,Iftikhar Ahmed
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Mohammad Amir
+info,player,United States of America,SR Taylor
+info,player,United States of America,MD Patel
+info,player,United States of America,AGS Gous
+info,player,United States of America,Aaron Jones
+info,player,United States of America,NR Kumar
+info,player,United States of America,CJ Anderson
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,Ali Khan
+info,registry,people,A Paleker,634b11ac
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,Ali Khan,b0eaaac6
+info,registry,people,Azam Khan,ee8f1a6d
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,CJ Anderson,8abdf100
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Iftikhar Ahmed,29e253dd
+info,registry,people,JJ Crowe,2e760301
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,RJ Tucker,38810cfc
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Usman Khan,bafb9238

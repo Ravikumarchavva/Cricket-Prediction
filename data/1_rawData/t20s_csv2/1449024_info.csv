@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Namibia
+info,gender,female
+info,season,2024
+info,date,2024/09/11
+info,event,Namibia Women's T20I Tri-Series
+info,match_number,6
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,umpire,M Short
+info,umpire,S Loftie-Eaton
+info,reserve_umpire,E Du Plooy
+info,winner,Namibia
+info,winner_wickets,5
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,B Biza
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,R Pasipanodya
+info,player,Zimbabwe,L Phiri
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,P Munorwei
+info,player,Zimbabwe,K Chigora
+info,player,Zimbabwe,C Moyo
+info,player,Zimbabwe,L Mabhero
+info,player,Namibia,SA Wittmann
+info,player,Namibia,Yasmeen Khan
+info,player,Namibia,W Mwatile
+info,player,Namibia,M Gorases
+info,player,Namibia,E Van Zyl
+info,player,Namibia,SN Shihepo
+info,player,Namibia,M Mwatile
+info,player,Namibia,JA Diergaardt
+info,player,Namibia,I van Zyl
+info,player,Namibia,V Hamunyela
+info,player,Namibia,S Tuhadeleni
+info,registry,people,B Biza,8a522c6c
+info,registry,people,C Moyo,356af6fa
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,E Du Plooy,e56988a1
+info,registry,people,E Van Zyl,79ff52b5
+info,registry,people,I van Zyl,44c3cb6d
+info,registry,people,JA Diergaardt,b72a8938
+info,registry,people,K Chigora,5f311f1a
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Phiri,cca8bdca
+info,registry,people,M Gorases,d034d60a
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Mwatile,92b9e9af
+info,registry,people,M Short,0e283b75
+info,registry,people,P Munorwei,c7e67ed4
+info,registry,people,R Pasipanodya,17ccd296
+info,registry,people,S Loftie-Eaton,71cc38ef
+info,registry,people,S Tuhadeleni,13f7c5f4
+info,registry,people,SA Wittmann,531aef3b
+info,registry,people,SN Shihepo,1b3f7dbb
+info,registry,people,V Hamunyela,d758a366
+info,registry,people,W Mwatile,5728635a
+info,registry,people,Yasmeen Khan,ade5c0c0

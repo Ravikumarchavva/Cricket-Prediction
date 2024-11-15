@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Sweden
+info,gender,male
+info,season,2024
+info,date,2024/07/11
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,13
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,Imal Zuwak
+info,umpire,DH Mclean
+info,umpire,M Jameson
+info,reserve_umpire,N Bathi
+info,match_referee,H Pack
+info,winner,Sweden
+info,winner_wickets,8
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,PA Raikes
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,KJ Ferrary
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,K Mirpuri
+info,player,Sweden,A Mundra
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Abdur Rahman Sudais
+info,player,Sweden,Choudry Share Ali
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Hamid Mahmood
+info,player,Sweden,J Stanigze
+info,player,Sweden,Prashant Shukla
+info,registry,people,A Mundra,30ffaf85
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Abdur Rahman Sudais,edaae5f4
+info,registry,people,BA Pai,716bf559
+info,registry,people,C Pyle,d278b70b
+info,registry,people,Choudry Share Ali,5c037734
+info,registry,people,DH Mclean,281d4749
+info,registry,people,H Pack,fed53c91
+info,registry,people,Hamid Mahmood,5332fc2f
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,J Stanigze,935305fd
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,KJ Ferrary,81898acc
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,PA Raikes,dfe5db8a
+info,registry,people,Prashant Shukla,0a15f357
+info,registry,people,S Bodha,00467a76
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samiullah Rahmani,d5c38041

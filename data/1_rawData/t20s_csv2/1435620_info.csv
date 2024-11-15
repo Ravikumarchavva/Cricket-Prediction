@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Botswana
+info,gender,female
+info,season,2024
+info,date,2024/05/30
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,3
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Uganda
+info,toss_decision,bat
+info,player_of_match,J Mbabazi
+info,umpire,Gaston Niyibizi
+info,umpire,V Iriho
+info,reserve_umpire,D Hagenimana
+info,winner,Uganda
+info,winner_runs,71
+info,player,Uganda,J Mbabazi
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,S Nampiina
+info,player,Uganda,P Alako
+info,player,Uganda,R Musamali
+info,player,Uganda,M Ariokot
+info,player,Uganda,A Akurut
+info,player,Uganda,K Awino
+info,player,Uganda,C Aweko
+info,player,Uganda,S Walaza
+info,player,Uganda,L Anyait
+info,player,Botswana,O Kgeresi
+info,player,Botswana,L Mophakedi
+info,player,Botswana,T Shadrack
+info,player,Botswana,S Mosweu
+info,player,Botswana,P Mapotsane
+info,player,Botswana,G Matome
+info,player,Botswana,W Moutswi
+info,player,Botswana,K Inakale
+info,player,Botswana,O Keitsemang
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,M Phiase
+info,registry,people,A Akurut,b93b7337
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,D Hagenimana,de167462
+info,registry,people,G Matome,a6898f7a
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K Inakale,eea862f6
+info,registry,people,L Anyait,cffeef53
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,M Phiase,537cc79f
+info,registry,people,O Keitsemang,5145239b
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Mosweu,10726a80
+info,registry,people,S Nampiina,91d9aa26
+info,registry,people,S Walaza,f67ea6d2
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,V Iriho,2853eafb
+info,registry,people,W Moutswi,e8c42000

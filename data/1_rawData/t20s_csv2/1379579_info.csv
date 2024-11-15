@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Rwanda
+info,gender,male
+info,season,2023
+info,date,2023/06/18
+info,event,Africa Continental Cup
+info,match_number,15
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,E Rukiriza
+info,umpire,Charles Kariuki
+info,umpire,J Karuri
+info,reserve_umpire,Nicholas Otieno
+info,winner,Rwanda
+info,winner_wickets,7
+info,player,Botswana,Ameer Saiyed
+info,player,Botswana,V Balakrishnan
+info,player,Botswana,K Motlanka
+info,player,Botswana,R Nehonde
+info,player,Botswana,P Silas
+info,player,Botswana,V Mbazo
+info,player,Botswana,T Tshose
+info,player,Botswana,D Maisuria
+info,player,Botswana,K Piet
+info,player,Botswana,M Mooketsi
+info,player,Botswana,B Khumalo
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,W Niyitanga
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,I Ntirenganya
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,Z Bimenyimana
+info,registry,people,Ameer Saiyed,2f22325f
+info,registry,people,B Khumalo,33ab1f1c
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Maisuria,a96b36af
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,J Karuri,5a9b694c
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Motlanka,21549344
+info,registry,people,K Piet,39fd9295
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,M Mooketsi,008a024c
+info,registry,people,Nicholas Otieno,130de2a7
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,P Silas,9f2e1944
+info,registry,people,R Nehonde,4393e047
+info,registry,people,T Tshose,18ae55e4
+info,registry,people,V Balakrishnan,0c1da0c4
+info,registry,people,V Mbazo,a2317d14
+info,registry,people,W Niyitanga,e7631adc
+info,registry,people,Z Bimenyimana,ba57fb08

@@ -1,0 +1,3814 @@
+match_id,team1,team2,gender,season,winner
+1001349,Australia,Sri Lanka,male,2016/17,Sri Lanka
+1001351,Australia,Sri Lanka,male,2016/17,Sri Lanka
+1001353,Australia,Sri Lanka,male,2016/17,Australia
+1004729,Ireland,Hong Kong,male,2016,Hong Kong
+1007655,Zimbabwe,India,male,2016,Zimbabwe
+1007657,Zimbabwe,India,male,2016,India
+1007659,Zimbabwe,India,male,2016,India
+1019979,New Zealand,Bangladesh,male,2016/17,New Zealand
+1019981,New Zealand,Bangladesh,male,2016/17,New Zealand
+1019983,New Zealand,Bangladesh,male,2016/17,New Zealand
+1020029,New Zealand,South Africa,male,2016/17,South Africa
+1031431,England,South Africa,male,2017,England
+1031433,England,South Africa,male,2017,South Africa
+1031435,England,South Africa,male,2017,England
+1031665,West Indies,England,male,2017,West Indies
+1034825,India,England,male,2016/17,England
+1034827,India,England,male,2016/17,India
+1034829,India,England,male,2016/17,India
+1040485,Afghanistan,Ireland,male,2016/17,Afghanistan
+1040487,Afghanistan,Ireland,male,2016/17,Afghanistan
+1040489,Afghanistan,Ireland,male,2016/17,Afghanistan
+1041615,India,West Indies,male,2016,West Indies
+1043989,Australia,New Zealand,female,2016/17,Australia
+1043991,Australia,New Zealand,female,2016/17,New Zealand
+1043993,Australia,New Zealand,female,2016/17,New Zealand
+1044211,Sri Lanka,Australia,female,2016,Australia
+1050217,Pakistan,West Indies,male,2016/17,Pakistan
+1050219,Pakistan,West Indies,male,2016/17,Pakistan
+1050221,Pakistan,West Indies,male,2016/17,Pakistan
+1050615,New Zealand,Pakistan,female,2016/17,New Zealand
+1065348,India,Pakistan,female,2016/17,India
+1072206,United Arab Emirates,Afghanistan,male,2016/17,Afghanistan
+1072207,United Arab Emirates,Afghanistan,male,2016/17,Afghanistan
+1072208,United Arab Emirates,Afghanistan,male,2016/17,Afghanistan
+1072316,New Zealand,Australia,male,2017/18,Australia
+1072317,England,Australia,male,2017/18,Australia
+1072318,England,Australia,male,2017/18,Australia
+1072319,New Zealand,England,male,2017/18,New Zealand
+1072320,New Zealand,Australia,male,2017/18,Australia
+1072321,England,New Zealand,male,2017/18,England
+1072322,New Zealand,Australia,male,2017/18,Australia
+1074957,Hong Kong,Scotland,male,2016/17,Scotland
+1074958,Afghanistan,Ireland,male,2016/17,Afghanistan
+1074959,Netherlands,Oman,male,2016/17,Netherlands
+1074961,Hong Kong,Oman,male,2016/17,Oman
+1074962,United Arab Emirates,Afghanistan,male,2016/17,Afghanistan
+1074964,Netherlands,Scotland,male,2016/17,Scotland
+1074965,United Arab Emirates,Ireland,male,2016/17,Ireland
+1074966,Hong Kong,Netherlands,male,2016/17,Hong Kong
+1074968,Oman,Scotland,male,2016/17,Scotland
+1074969,Afghanistan,Oman,male,2016/17,Afghanistan
+1074970,Ireland,Scotland,male,2016/17,Ireland
+1074971,Afghanistan,Ireland,male,2016/17,Afghanistan
+1075507,South Africa,Bangladesh,male,2017/18,South Africa
+1075508,South Africa,Bangladesh,male,2017/18,South Africa
+1077947,West Indies,Pakistan,male,2017,Pakistan
+1077948,West Indies,Pakistan,male,2017,Pakistan
+1083449,Sri Lanka,Bangladesh,male,2016/17,Sri Lanka
+1083450,Sri Lanka,Bangladesh,male,2016/17,Bangladesh
+1085495,West Indies,Pakistan,male,2017,West Indies
+1085496,West Indies,Pakistan,male,2017,Pakistan
+1086067,England,Australia,female,2017/18,Australia
+1086068,England,Australia,female,2017/18,England
+1086069,Australia,England,female,2017/18,England
+1089202,United Arab Emirates,Papua New Guinea,male,2017,United Arab Emirates
+1089203,United Arab Emirates,Papua New Guinea,male,2017,United Arab Emirates
+1089243,United Arab Emirates,Papua New Guinea,male,2017,United Arab Emirates
+1089776,West Indies,Afghanistan,male,2017,West Indies
+1089777,West Indies,Afghanistan,male,2017,West Indies
+1089778,West Indies,Afghanistan,male,2017,West Indies
+1098211,West Indies,India,male,2017,West Indies
+1109610,Sri Lanka,India,male,2017,India
+1115798,New Zealand,West Indies,male,2017/18,New Zealand
+1115800,New Zealand,West Indies,male,2017/18,New Zealand
+1115807,Pakistan,New Zealand,male,2017/18,New Zealand
+1115808,Pakistan,New Zealand,male,2017/18,Pakistan
+1115809,Pakistan,New Zealand,male,2017/18,Pakistan
+1117821,Pakistan,ICC World XI,male,2017/18,Pakistan
+1117822,Pakistan,ICC World XI,male,2017/18,ICC World XI
+1117824,Pakistan,ICC World XI,male,2017/18,Pakistan
+1119501,Australia,India,male,2017/18,India
+1119502,India,Australia,male,2017/18,Australia
+1119542,England,Australia,male,2018,England
+1119543,England,India,male,2018,India
+1119544,India,England,male,2018,England
+1119545,England,India,male,2018,India
+1120093,India,New Zealand,male,2017/18,India
+1120094,New Zealand,India,male,2017/18,New Zealand
+1120095,India,New Zealand,male,2017/18,India
+1120291,Sri Lanka,Pakistan,male,2017/18,Pakistan
+1120292,Sri Lanka,Pakistan,male,2017/18,Pakistan
+1120293,Pakistan,Sri Lanka,male,2017/18,Pakistan
+1122285,India,South Africa,male,2017/18,India
+1122286,India,South Africa,male,2017/18,South Africa
+1122287,India,South Africa,male,2017/18,India
+1122729,India,Sri Lanka,male,2017/18,India
+1122730,India,Sri Lanka,male,2017/18,India
+1122731,Sri Lanka,India,male,2017/18,India
+1122902,West Indies,Sri Lanka,female,2017/18,West Indies
+1122908,New Zealand,Pakistan,female,2017/18,New Zealand
+1122909,New Zealand,Pakistan,female,2017/18,New Zealand
+1122910,Pakistan,New Zealand,female,2017/18,New Zealand
+1123206,South Africa,India,female,2017/18,India
+1123207,South Africa,India,female,2017/18,India
+1123208,India,South Africa,female,2017/18,South Africa
+1123210,India,South Africa,female,2017/18,India
+1126720,New Zealand,South Africa,female,2018,New Zealand
+1126721,England,South Africa,female,2018,England
+1126722,England,South Africa,female,2018,South Africa
+1126723,England,New Zealand,female,2018,England
+1126724,South Africa,New Zealand,female,2018,New Zealand
+1126725,New Zealand,England,female,2018,England
+1126726,New Zealand,England,female,2018,England
+1127300,Pakistan,Scotland,male,2018,Pakistan
+1127301,Pakistan,Scotland,male,2018,Pakistan
+1130746,Bangladesh,Sri Lanka,male,2017/18,Sri Lanka
+1130747,Sri Lanka,Bangladesh,male,2017/18,Sri Lanka
+1131235,India,Australia,female,2017/18,Australia
+1131236,Australia,England,female,2017/18,England
+1131237,India,England,female,2017/18,England
+1131238,Australia,India,female,2017/18,Australia
+1131239,England,Australia,female,2017/18,Australia
+1131240,England,India,female,2017/18,India
+1131241,Australia,England,female,2017/18,Australia
+1133817,India,Sri Lanka,male,2017/18,Sri Lanka
+1133818,Bangladesh,India,male,2017/18,India
+1133819,Sri Lanka,Bangladesh,male,2017/18,Bangladesh
+1133820,Sri Lanka,India,male,2017/18,India
+1133821,India,Bangladesh,male,2017/18,India
+1133822,Sri Lanka,Bangladesh,male,2017/18,Bangladesh
+1133823,Bangladesh,India,male,2017/18,India
+1134031,Zimbabwe,Afghanistan,male,2017/18,Afghanistan
+1134032,Afghanistan,Zimbabwe,male,2017/18,Afghanistan
+1138194,New Zealand,West Indies,female,2017/18,New Zealand
+1138195,New Zealand,West Indies,female,2017/18,New Zealand
+1138196,New Zealand,West Indies,female,2017/18,New Zealand
+1138198,West Indies,New Zealand,female,2017/18,New Zealand
+1138202,Sri Lanka,Pakistan,female,2017/18,Pakistan
+1138203,Pakistan,Sri Lanka,female,2017/18,Sri Lanka
+1140069,Pakistan,West Indies,male,2018,Pakistan
+1140070,Pakistan,West Indies,male,2018,Pakistan
+1140071,West Indies,Pakistan,male,2018,Pakistan
+1140384,England,Sri Lanka,male,2018/19,England
+1140992,India,Ireland,male,2018,India
+1140993,India,Ireland,male,2018,India
+1141232,West Indies,ICC World XI,male,2018,West Indies
+1142501,Netherlands,Ireland,male,2018,Netherlands
+1142502,Ireland,Netherlands,male,2018,Netherlands
+1142503,Ireland,Scotland,male,2018,Ireland
+1142505,Netherlands,Scotland,male,2018,Scotland
+1142506,Scotland,Netherlands,male,2018,Scotland
+1142589,South Africa,Sri Lanka,male,2018,Sri Lanka
+1142913,Pakistan,Zimbabwe,male,2018,Pakistan
+1142914,Pakistan,Australia,male,2018,Australia
+1142915,Australia,Zimbabwe,male,2018,Australia
+1142916,Zimbabwe,Pakistan,male,2018,Pakistan
+1142917,Pakistan,Australia,male,2018,Pakistan
+1142918,Zimbabwe,Australia,male,2018,Australia
+1142919,Australia,Pakistan,male,2018,Pakistan
+1144149,South Africa,Zimbabwe,male,2018/19,South Africa
+1144150,Zimbabwe,South Africa,male,2018/19,South Africa
+1144161,South Africa,Pakistan,male,2018/19,South Africa
+1144162,South Africa,Pakistan,male,2018/19,South Africa
+1144163,South Africa,Pakistan,male,2018/19,Pakistan
+1144173,South Africa,Sri Lanka,male,2018/19,South Africa
+1144174,South Africa,Sri Lanka,male,2018/19,South Africa
+1144441,South Africa,Bangladesh,female,2018,South Africa
+1144442,South Africa,Bangladesh,female,2018,South Africa
+1144978,New Zealand,Australia,female,2018/19,Australia
+1144979,New Zealand,Australia,female,2018/19,Australia
+1144980,New Zealand,Australia,female,2018/19,Australia
+1144989,South Africa,Australia,male,2018/19,South Africa
+1144990,Australia,India,male,2018/19,Australia
+1144992,Australia,India,male,2018/19,India
+1145890,Ireland,New Zealand,female,2018,New Zealand
+1145894,Ireland,Bangladesh,female,2018,Bangladesh
+1145895,Ireland,Bangladesh,female,2018,Bangladesh
+1145896,Bangladesh,Ireland,female,2018,Ireland
+1145982,Afghanistan,Bangladesh,male,2018,Afghanistan
+1145983,Bangladesh,Afghanistan,male,2018,Afghanistan
+1145984,Afghanistan,Bangladesh,male,2018,Afghanistan
+1146723,Bangladesh,West Indies,male,2018,West Indies
+1146724,Bangladesh,West Indies,male,2018,Bangladesh
+1146725,Bangladesh,West Indies,male,2018,Bangladesh
+1147717,Thailand,Ireland,female,2018,Ireland
+1147718,Uganda,Scotland,female,2018,Scotland
+1147719,Netherlands,United Arab Emirates,female,2018,United Arab Emirates
+1147720,Papua New Guinea,Bangladesh,female,2018,Bangladesh
+1147722,Scotland,Ireland,female,2018,Ireland
+1147723,Netherlands,Bangladesh,female,2018,Bangladesh
+1147724,United Arab Emirates,Papua New Guinea,female,2018,Papua New Guinea
+1147725,Scotland,Thailand,female,2018,Scotland
+1147726,Uganda,Ireland,female,2018,Ireland
+1147727,United Arab Emirates,Bangladesh,female,2018,Bangladesh
+1147728,Papua New Guinea,Netherlands,female,2018,Papua New Guinea
+1147729,Ireland,Papua New Guinea,female,2018,Ireland
+1147730,Netherlands,Uganda,female,2018,Uganda
+1147731,Bangladesh,Scotland,female,2018,Bangladesh
+1147732,United Arab Emirates,Thailand,female,2018,Thailand
+1147734,Papua New Guinea,Scotland,female,2018,Scotland
+1147735,Thailand,Uganda,female,2018,Thailand
+1147736,Bangladesh,Ireland,female,2018,Bangladesh
+1148048,India,Malaysia,female,2018,India
+1148050,Thailand,Pakistan,female,2018,Pakistan
+1148051,Pakistan,Bangladesh,female,2018,Bangladesh
+1148052,India,Thailand,female,2018,India
+1148053,Sri Lanka,Malaysia,female,2018,Sri Lanka
+1148054,Pakistan,Sri Lanka,female,2018,Pakistan
+1148055,Malaysia,Thailand,female,2018,Thailand
+1148056,India,Bangladesh,female,2018,Bangladesh
+1148057,Thailand,Bangladesh,female,2018,Bangladesh
+1148058,Pakistan,Malaysia,female,2018,Pakistan
+1148059,Sri Lanka,India,female,2018,India
+1148060,Pakistan,India,female,2018,India
+1148061,Sri Lanka,Thailand,female,2018,Thailand
+1148062,Bangladesh,Malaysia,female,2018,Bangladesh
+1148063,India,Bangladesh,female,2018,Bangladesh
+1150143,Afghanistan,Ireland,male,2018,Afghanistan
+1150144,Afghanistan,Ireland,male,2018,Afghanistan
+1150533,India,New Zealand,female,2018/19,India
+1150534,Australia,Pakistan,female,2018/19,Australia
+1150535,West Indies,Bangladesh,female,2018/19,West Indies
+1150537,Pakistan,India,female,2018/19,India
+1150538,Ireland,Australia,female,2018/19,Australia
+1150539,Bangladesh,England,female,2018/19,England
+1150540,Sri Lanka,South Africa,female,2018/19,South Africa
+1150541,Pakistan,Ireland,female,2018/19,Pakistan
+1150542,Australia,New Zealand,female,2018/19,Australia
+1150543,Sri Lanka,Bangladesh,female,2018/19,Sri Lanka
+1150544,West Indies,South Africa,female,2018/19,West Indies
+1150545,India,Ireland,female,2018/19,India
+1150546,New Zealand,Pakistan,female,2018/19,New Zealand
+1150547,South Africa,England,female,2018/19,England
+1150548,West Indies,Sri Lanka,female,2018/19,West Indies
+1150549,India,Australia,female,2018/19,India
+1150550,Ireland,New Zealand,female,2018/19,New Zealand
+1150551,England,West Indies,female,2018/19,West Indies
+1150552,South Africa,Bangladesh,female,2018/19,South Africa
+1150553,Australia,West Indies,female,2018/19,Australia
+1150554,India,England,female,2018/19,England
+1150555,England,Australia,female,2018/19,Australia
+1152840,England,Pakistan,male,2019,England
+1153317,Bangladesh,West Indies,male,2018/19,West Indies
+1153318,Bangladesh,West Indies,male,2018/19,Bangladesh
+1153319,Bangladesh,West Indies,male,2018/19,West Indies
+1153696,New Zealand,India,male,2018/19,New Zealand
+1153697,New Zealand,India,male,2018/19,India
+1153698,New Zealand,India,male,2018/19,New Zealand
+1153843,New Zealand,Sri Lanka,male,2018/19,New Zealand
+1153858,New Zealand,India,female,2018/19,New Zealand
+1153859,New Zealand,India,female,2018/19,New Zealand
+1153860,New Zealand,India,female,2018/19,New Zealand
+1156216,South Africa,West Indies,female,2018,West Indies
+1156218,West Indies,South Africa,female,2018,South Africa
+1156219,West Indies,South Africa,female,2018,South Africa
+1157372,Pakistan,Australia,male,2018/19,Pakistan
+1157373,Pakistan,Australia,male,2018/19,Pakistan
+1157374,Pakistan,Australia,male,2018/19,Pakistan
+1157375,Pakistan,New Zealand,male,2018/19,Pakistan
+1157376,New Zealand,Pakistan,male,2018/19,Pakistan
+1157377,Pakistan,New Zealand,male,2018/19,Pakistan
+1157711,Sri Lanka,India,female,2018,India
+1157712,Sri Lanka,India,female,2018,India
+1157713,India,Sri Lanka,female,2018,India
+1157759,West Indies,India,male,2018/19,India
+1157760,India,West Indies,male,2018/19,India
+1157761,West Indies,India,male,2018/19,India
+1158071,West Indies,England,male,2018/19,England
+1158072,West Indies,England,male,2018/19,England
+1158073,West Indies,England,male,2018/19,England
+1158344,Botswana,Lesotho,female,2018,Botswana
+1158345,Malawi,Namibia,female,2018,Namibia
+1158348,Sierra Leone,Namibia,female,2018,Namibia
+1158349,Mozambique,Lesotho,female,2018,Mozambique
+1158350,Mozambique,Botswana,female,2018,Botswana
+1158352,Botswana,Sierra Leone,female,2018,Sierra Leone
+1158353,Mozambique,Namibia,female,2018,Namibia
+1158354,Namibia,Lesotho,female,2018,Namibia
+1158355,Sierra Leone,Malawi,female,2018,Sierra Leone
+1158356,Sierra Leone,Lesotho,female,2018,Sierra Leone
+1158358,Botswana,Namibia,female,2018,Namibia
+1158359,Lesotho,Malawi,female,2018,Malawi
+1158361,Sierra Leone,Namibia,female,2018,Namibia
+1161231,Australia,Pakistan,female,2018/19,Australia
+1161232,Pakistan,Australia,female,2018/19,Australia
+1161233,Pakistan,Australia,female,2018/19,Australia
+1162727,United Arab Emirates,Australia,male,2018/19,Australia
+1168020,England,West Indies,female,2019,England
+1168026,England,Australia,female,2019,Australia
+1168027,England,Australia,female,2019,Australia
+1168028,England,Australia,female,2019,England
+1168112,Afghanistan,Ireland,male,2018/19,Afghanistan
+1168113,Afghanistan,Ireland,male,2018/19,Afghanistan
+1168114,Afghanistan,Ireland,male,2018/19,Afghanistan
+1168160,South Africa,Sri Lanka,female,2018/19,South Africa
+1168162,South Africa,Sri Lanka,female,2018/19,South Africa
+1168247,India,Australia,male,2018/19,Australia
+1168248,India,Australia,male,2018/19,Australia
+1168521,Ireland,Zimbabwe,male,2019,Ireland
+1168522,Ireland,Zimbabwe,male,2019,Zimbabwe
+1170457,United Arab Emirates,Nepal,male,2018/19,United Arab Emirates
+1170458,United Arab Emirates,Nepal,male,2018/19,Nepal
+1170459,United Arab Emirates,Nepal,male,2018/19,Nepal
+1172163,India,England,female,2018/19,England
+1172164,India,England,female,2018/19,England
+1172165,India,England,female,2018/19,England
+1172469,Pakistan,West Indies,female,2018/19,West Indies
+1172471,Pakistan,West Indies,female,2018/19,Pakistan
+1172505,Netherlands,Scotland,male,2018/19,Netherlands
+1172506,Oman,Ireland,male,2018/19,Ireland
+1172507,Oman,Netherlands,male,2018/19,Netherlands
+1172508,Ireland,Scotland,male,2018/19,Scotland
+1172509,Ireland,Netherlands,male,2018/19,Ireland
+1172510,Oman,Scotland,male,2018/19,Scotland
+1172910,Thailand,China,female,2018/19,Thailand
+1172911,Kuwait,Malaysia,female,2018/19,Malaysia
+1172912,Hong Kong,United Arab Emirates,female,2018/19,United Arab Emirates
+1172913,Malaysia,Nepal,female,2018/19,Nepal
+1172914,China,Hong Kong,female,2018/19,China
+1172915,Kuwait,United Arab Emirates,female,2018/19,United Arab Emirates
+1172916,Malaysia,United Arab Emirates,female,2018/19,United Arab Emirates
+1172917,Thailand,Nepal,female,2018/19,Thailand
+1172918,China,Kuwait,female,2018/19,China
+1172919,Nepal,United Arab Emirates,female,2018/19,Nepal
+1172920,Thailand,Hong Kong,female,2018/19,Thailand
+1172921,China,Malaysia,female,2018/19,China
+1172922,China,United Arab Emirates,female,2018/19,United Arab Emirates
+1172923,Thailand,Kuwait,female,2018/19,Thailand
+1172924,Hong Kong,Nepal,female,2018/19,Nepal
+1172925,Thailand,Malaysia,female,2018/19,Thailand
+1172926,China,Nepal,female,2018/19,Nepal
+1172927,Hong Kong,Kuwait,female,2018/19,Hong Kong
+1172929,Kuwait,Nepal,female,2018/19,Nepal
+1172930,Thailand,United Arab Emirates,female,2018/19,Thailand
+1173048,Australia,India,female,2019/20,India
+1173049,Thailand,West Indies,female,2019/20,West Indies
+1173050,New Zealand,Sri Lanka,female,2019/20,New Zealand
+1173051,England,South Africa,female,2019/20,South Africa
+1173052,Australia,Sri Lanka,female,2019/20,Australia
+1173053,Bangladesh,India,female,2019/20,India
+1173054,England,Thailand,female,2019/20,England
+1173055,Pakistan,West Indies,female,2019/20,Pakistan
+1173056,India,New Zealand,female,2019/20,India
+1173057,Australia,Bangladesh,female,2019/20,Australia
+1173058,South Africa,Thailand,female,2019/20,South Africa
+1173059,England,Pakistan,female,2019/20,England
+1173060,Bangladesh,New Zealand,female,2019/20,New Zealand
+1173061,India,Sri Lanka,female,2019/20,India
+1173062,Pakistan,South Africa,female,2019/20,South Africa
+1173063,England,West Indies,female,2019/20,England
+1173064,Bangladesh,Sri Lanka,female,2019/20,Sri Lanka
+1173065,Australia,New Zealand,female,2019/20,Australia
+1173069,Australia,South Africa,female,2019/20,Australia
+1173070,Australia,India,female,2019/20,Australia
+1176435,Sri Lanka,England,female,2018/19,England
+1176436,Sri Lanka,England,female,2018/19,England
+1176437,Sri Lanka,England,female,2018/19,England
+1176792,Papua New Guinea,Philippines,male,2018/19,Papua New Guinea
+1176793,Papua New Guinea,Vanuatu,male,2018/19,Papua New Guinea
+1176794,Philippines,Vanuatu,male,2018/19,Vanuatu
+1176796,Philippines,Vanuatu,male,2018/19,Philippines
+1176797,Papua New Guinea,Vanuatu,male,2018/19,Papua New Guinea
+1177018,South Africa,Pakistan,female,2019,Pakistan
+1177019,South Africa,Pakistan,female,2019,South Africa
+1177020,South Africa,Pakistan,female,2019,Pakistan
+1177021,South Africa,Pakistan,female,2019,South Africa
+1177022,South Africa,Pakistan,female,2019,South Africa
+1177485,United Arab Emirates,United States of America,male,2018/19,United Arab Emirates
+1178996,Germany,Italy,male,2019,Italy
+1179016,Namibia,Botswana,female,2019,Namibia
+1179017,Namibia,Botswana,female,2019,Namibia
+1179018,Namibia,Botswana,female,2019,Namibia
+1179610,Namibia,Botswana,female,2019,Namibia
+1179611,Namibia,Botswana,female,2019,Namibia
+1182642,Zimbabwe,Mozambique,female,2019,Zimbabwe
+1182644,Sierra Leone,Uganda,female,2019,Uganda
+1182646,Mozambique,Nigeria,female,2019,Nigeria
+1182648,Namibia,Uganda,female,2019,Namibia
+1182649,Zimbabwe,Tanzania,female,2019,Zimbabwe
+1182650,Mozambique,Rwanda,female,2019,Rwanda
+1182652,Kenya,Uganda,female,2019,Uganda
+1182653,Namibia,Sierra Leone,female,2019,Namibia
+1182654,Zimbabwe,Rwanda,female,2019,Zimbabwe
+1182656,Zimbabwe,Nigeria,female,2019,Zimbabwe
+1182657,Rwanda,Tanzania,female,2019,Tanzania
+1182658,Zimbabwe,Namibia,female,2019,Zimbabwe
+1182904,Vanuatu,Papua New Guinea,female,2019,Papua New Guinea
+1182905,Indonesia,Japan,female,2019,Indonesia
+1182906,Indonesia,Papua New Guinea,female,2019,Papua New Guinea
+1182909,Fiji,Papua New Guinea,female,2019,Papua New Guinea
+1182912,Vanuatu,Samoa,female,2019,Samoa
+1182913,Fiji,Japan,female,2019,Japan
+1182914,Japan,Papua New Guinea,female,2019,Papua New Guinea
+1182916,Fiji,Indonesia,female,2019,Indonesia
+1182917,Vanuatu,Japan,female,2019,Vanuatu
+1182918,Papua New Guinea,Samoa,female,2019,Papua New Guinea
+1183510,Australia,Sri Lanka,female,2019/20,Australia
+1183511,Australia,Sri Lanka,female,2019/20,Australia
+1183512,Australia,Sri Lanka,female,2019/20,Australia
+1183524,Australia,Sri Lanka,male,2019/20,Australia
+1183525,Australia,Sri Lanka,male,2019/20,Australia
+1183526,Australia,Sri Lanka,male,2019/20,Australia
+1183528,Australia,Pakistan,male,2019/20,Australia
+1183529,Australia,Pakistan,male,2019/20,Australia
+1183543,England,India,female,2019/20,India
+1183545,Australia,India,female,2019/20,Australia
+1183546,England,India,female,2019/20,England
+1183547,Australia,India,female,2019/20,India
+1183548,Australia,England,female,2019/20,Australia
+1183549,Australia,India,female,2019/20,Australia
+1183856,United States of America,Canada,female,2019,United States of America
+1183857,United States of America,Canada,female,2019,United States of America
+1184258,Ghana,Namibia,male,2019,Namibia
+1184260,Uganda,Botswana,male,2019,Uganda
+1184261,Ghana,Kenya,male,2019,Kenya
+1184262,Uganda,Namibia,male,2019,Namibia
+1184263,Botswana,Nigeria,male,2019,Nigeria
+1184266,Uganda,Ghana,male,2019,Uganda
+1184900,Ghana,Nigeria,male,2019,Nigeria
+1184901,Botswana,Namibia,male,2019,Namibia
+1184902,Uganda,Kenya,male,2019,Kenya
+1185154,Ireland,West Indies,female,2019,West Indies
+1185155,Ireland,West Indies,female,2019,West Indies
+1185156,Ireland,West Indies,female,2019,West Indies
+1185181,Guernsey,Germany,male,2019,Germany
+1185182,Denmark,Norway,male,2019,Denmark
+1185184,Denmark,Jersey,male,2019,Jersey
+1185185,Guernsey,Italy,male,2019,Italy
+1185186,Jersey,Norway,male,2019,Jersey
+1185188,Germany,Norway,male,2019,Germany
+1185190,Germany,Jersey,male,2019,Germany
+1185191,Guernsey,Norway,male,2019,Guernsey
+1185192,Italy,Jersey,male,2019,Jersey
+1185193,Denmark,Germany,male,2019,Germany
+1185313,South Africa,England,male,2019/20,South Africa
+1185314,South Africa,England,male,2019/20,England
+1185315,South Africa,England,male,2019/20,England
+1185316,South Africa,Australia,male,2019/20,Australia
+1185317,South Africa,Australia,male,2019/20,South Africa
+1185318,South Africa,Australia,male,2019/20,Australia
+1186488,Malaysia,Thailand,male,2019,Malaysia
+1186490,Maldives,Thailand,male,2019,Maldives
+1186491,Malaysia,Thailand,male,2019,Malaysia
+1186493,Maldives,Thailand,male,2019,Thailand
+1187005,India,South Africa,male,2019/20,India
+1187006,India,South Africa,male,2019/20,South Africa
+1187013,India,Bangladesh,male,2019/20,Bangladesh
+1187014,India,Bangladesh,male,2019/20,India
+1187015,India,Bangladesh,male,2019/20,India
+1187018,India,West Indies,male,2019/20,India
+1187019,India,West Indies,male,2019/20,West Indies
+1187020,India,West Indies,male,2019/20,India
+1187665,New Zealand,England,male,2019/20,England
+1187666,New Zealand,England,male,2019/20,New Zealand
+1187667,New Zealand,England,male,2019/20,New Zealand
+1187668,New Zealand,England,male,2019/20,England
+1187677,New Zealand,India,male,2019/20,India
+1187678,New Zealand,India,male,2019/20,India
+1187681,New Zealand,India,male,2019/20,India
+1187717,New Zealand,South Africa,female,2019/20,New Zealand
+1187718,New Zealand,South Africa,female,2019/20,New Zealand
+1187719,New Zealand,South Africa,female,2019/20,South Africa
+1187720,New Zealand,South Africa,female,2019/20,New Zealand
+1188379,Netherlands,Zimbabwe,male,2019,Netherlands
+1188621,India,West Indies,male,2019,India
+1188622,India,West Indies,male,2019,India
+1188623,West Indies,India,male,2019,India
+1188784,Rwanda,Uganda,female,2019,Uganda
+1188785,Rwanda,Mali,female,2019,Rwanda
+1188786,Tanzania,Uganda,female,2019,Tanzania
+1189743,Guernsey,Denmark,male,2019,Guernsey
+1189744,Denmark,Italy,male,2019,Denmark
+1190605,Netherlands,Scotland,female,2019,Netherlands
+1190606,Germany,Netherlands,female,2019,Netherlands
+1190608,Germany,Scotland,female,2019,Scotland
+1190744,Netherlands,Ireland,female,2019,Ireland
+1190746,Netherlands,Scotland,female,2019,Scotland
+1190747,Ireland,Thailand,female,2019,Thailand
+1190749,Ireland,Scotland,female,2019,Scotland
+1190750,Scotland,Thailand,female,2019,Scotland
+1190752,Ireland,Thailand,female,2019,Thailand
+1190753,Netherlands,Scotland,female,2019,Scotland
+1190754,Ireland,Scotland,female,2019,Ireland
+1190755,Netherlands,Thailand,female,2019,Thailand
+1190767,Singapore,Qatar,male,2019,Singapore
+1190768,Kuwait,Malaysia,male,2019,Malaysia
+1190769,Nepal,Qatar,male,2019,Qatar
+1190771,Malaysia,Nepal,male,2019,Nepal
+1190772,Kuwait,Qatar,male,2019,Kuwait
+1190773,Singapore,Malaysia,male,2019,Singapore
+1190774,Kuwait,Nepal,male,2019,Nepal
+1190775,Malaysia,Qatar,male,2019,Qatar
+1190776,Singapore,Nepal,male,2019,Singapore
+1191006,Netherlands,United Arab Emirates,male,2019,United Arab Emirates
+1191008,Netherlands,United Arab Emirates,male,2019,United Arab Emirates
+1192223,Malaysia,Nepal,male,2019,Nepal
+1192224,Malaysia,Nepal,male,2019,Nepal
+1192875,Sri Lanka,New Zealand,male,2019,New Zealand
+1192876,Sri Lanka,New Zealand,male,2019,New Zealand
+1192877,Sri Lanka,New Zealand,male,2019,Sri Lanka
+1193494,Afghanistan,West Indies,male,2019/20,West Indies
+1193495,Afghanistan,West Indies,male,2019/20,Afghanistan
+1193496,Afghanistan,West Indies,male,2019/20,Afghanistan
+1196033,Rwanda,Nigeria,female,2019,Rwanda
+1197047,Bangladesh,Papua New Guinea,female,2019,Bangladesh
+1197049,Scotland,United States of America,female,2019,Scotland
+1197051,Namibia,Thailand,female,2019,Thailand
+1197052,Scotland,Papua New Guinea,female,2019,Papua New Guinea
+1197053,Ireland,Netherlands,female,2019,Ireland
+1197054,Bangladesh,United States of America,female,2019,Bangladesh
+1197055,Ireland,Thailand,female,2019,Thailand
+1197056,Namibia,Netherlands,female,2019,Netherlands
+1197057,Scotland,Bangladesh,female,2019,Bangladesh
+1197058,Papua New Guinea,United States of America,female,2019,Papua New Guinea
+1197059,Bangladesh,Ireland,female,2019,Bangladesh
+1197061,Papua New Guinea,Thailand,female,2019,Thailand
+1197062,Scotland,Namibia,female,2019,Scotland
+1197063,Ireland,Papua New Guinea,female,2019,Ireland
+1197064,Namibia,United States of America,female,2019,United States of America
+1197065,Bangladesh,Thailand,female,2019,Bangladesh
+1197066,Scotland,Netherlands,female,2019,Scotland
+1197140,Bangladesh,Zimbabwe,male,2019,Bangladesh
+1197141,Afghanistan,Zimbabwe,male,2019,Afghanistan
+1197142,Bangladesh,Afghanistan,male,2019,Afghanistan
+1197143,Bangladesh,Zimbabwe,male,2019,Bangladesh
+1197144,Afghanistan,Zimbabwe,male,2019,Zimbabwe
+1197145,Bangladesh,Afghanistan,male,2019,Bangladesh
+1197246,South Korea,Japan,female,2019,Japan
+1197247,China,Hong Kong,female,2019,Hong Kong
+1197248,Hong Kong,Japan,female,2019,Japan
+1197249,South Korea,China,female,2019,China
+1197253,China,Hong Kong,female,2019,China
+1197396,Bermuda,United States of America,male,2019,Bermuda
+1197397,Canada,Cayman Islands,male,2019,Canada
+1197399,Cayman Islands,United States of America,male,2019,United States of America
+1197400,Bermuda,Cayman Islands,male,2019,Bermuda
+1197401,Canada,United States of America,male,2019,Canada
+1197402,Canada,Cayman Islands,male,2019,Canada
+1197403,United States of America,Bermuda,male,2019,Bermuda
+1197404,Cayman Islands,United States of America,male,2019,United States of America
+1197406,Canada,United States of America,male,2019,Canada
+1197407,Bermuda,Cayman Islands,male,2019,Bermuda
+1197507,Namibia,Botswana,male,2019,Namibia
+1197508,Namibia,Botswana,male,2019,Namibia
+1197509,Namibia,Botswana,male,2019,Namibia
+1197510,Namibia,Botswana,male,2019,Namibia
+1197521,Ireland,Netherlands,male,2019/20,Ireland
+1197522,Oman,Ireland,male,2019/20,Oman
+1197523,Hong Kong,Nepal,male,2019/20,Nepal
+1197524,Nepal,Netherlands,male,2019/20,Nepal
+1197525,Hong Kong,Ireland,male,2019/20,Ireland
+1197526,Ireland,Nepal,male,2019/20,Ireland
+1197527,Oman,Netherlands,male,2019/20,Oman
+1197528,Hong Kong,Netherlands,male,2019/20,Netherlands
+1197529,Oman,Nepal,male,2019/20,Oman
+1198217,Singapore,Malaysia,female,2019,Malaysia
+1198218,Singapore,Malaysia,female,2019,Malaysia
+1198219,Singapore,Malaysia,female,2019,Malaysia
+1198235,England,Australia,male,2020,England
+1198236,Australia,England,male,2020,England
+1198237,England,Australia,male,2020,Australia
+1198245,Pakistan,England,male,2020,England
+1198246,Pakistan,England,male,2020,Pakistan
+1198475,West Indies,Australia,female,2019,Australia
+1198476,West Indies,Australia,female,2019,Australia
+1198477,West Indies,Australia,female,2019,Australia
+1198478,India,South Africa,female,2019/20,India
+1198481,India,South Africa,female,2019/20,India
+1198482,India,South Africa,female,2019/20,South Africa
+1198489,Pakistan,Sri Lanka,male,2019/20,Sri Lanka
+1198490,Pakistan,Sri Lanka,male,2019/20,Sri Lanka
+1198491,Pakistan,Sri Lanka,male,2019/20,Sri Lanka
+1199499,Scotland,Singapore,male,2019/20,Singapore
+1199500,Hong Kong,Ireland,male,2019/20,Ireland
+1199501,Kenya,Netherlands,male,2019/20,Netherlands
+1199502,United Arab Emirates,Oman,male,2019/20,Oman
+1199503,Bermuda,Papua New Guinea,male,2019/20,Papua New Guinea
+1199504,Jersey,Nigeria,male,2019/20,Jersey
+1199505,Namibia,Netherlands,male,2019/20,Netherlands
+1199506,Kenya,Scotland,male,2019/20,Scotland
+1199507,United Arab Emirates,Ireland,male,2019/20,United Arab Emirates
+1199508,Namibia,Papua New Guinea,male,2019/20,Papua New Guinea
+1199509,Canada,Jersey,male,2019/20,Canada
+1199510,Bermuda,Singapore,male,2019/20,Singapore
+1199511,Hong Kong,Oman,male,2019/20,Oman
+1199512,Papua New Guinea,Scotland,male,2019/20,Scotland
+1199513,United Arab Emirates,Hong Kong,male,2019/20,United Arab Emirates
+1199514,Ireland,Oman,male,2019/20,Ireland
+1199515,Bermuda,Kenya,male,2019/20,Kenya
+1199516,Canada,Nigeria,male,2019/20,Canada
+1199517,Namibia,Scotland,male,2019/20,Namibia
+1199518,Netherlands,Singapore,male,2019/20,Netherlands
+1199519,United Arab Emirates,Jersey,male,2019/20,Jersey
+1199520,Bermuda,Namibia,male,2019/20,Namibia
+1199521,Nigeria,Oman,male,2019/20,Oman
+1199522,Kenya,Singapore,male,2019/20,Kenya
+1199523,Canada,Ireland,male,2019/20,Canada
+1199524,Hong Kong,Jersey,male,2019/20,Hong Kong
+1199525,Netherlands,Papua New Guinea,male,2019/20,Papua New Guinea
+1199526,United Arab Emirates,Nigeria,male,2019/20,United Arab Emirates
+1199527,Canada,Hong Kong,male,2019/20,Hong Kong
+1199528,Bermuda,Scotland,male,2019/20,Scotland
+1199529,Papua New Guinea,Singapore,male,2019/20,Papua New Guinea
+1199530,Ireland,Jersey,male,2019/20,Ireland
+1199531,Kenya,Namibia,male,2019/20,Namibia
+1199532,Canada,Oman,male,2019/20,Oman
+1199533,Ireland,Nigeria,male,2019/20,Ireland
+1199534,Bermuda,Netherlands,male,2019/20,Netherlands
+1199535,Namibia,Singapore,male,2019/20,Namibia
+1199536,Kenya,Papua New Guinea,male,2019/20,Papua New Guinea
+1199537,Hong Kong,Nigeria,male,2019/20,Hong Kong
+1199538,Jersey,Oman,male,2019/20,Jersey
+1199539,Netherlands,Scotland,male,2019/20,Netherlands
+1199540,United Arab Emirates,Canada,male,2019/20,United Arab Emirates
+1199541,United Arab Emirates,Netherlands,male,2019/20,Netherlands
+1199542,Namibia,Oman,male,2019/20,Namibia
+1199543,United Arab Emirates,Scotland,male,2019/20,Scotland
+1199544,Hong Kong,Oman,male,2019/20,Oman
+1199545,Oman,Scotland,male,2019/20,Scotland
+1199546,Ireland,Netherlands,male,2019/20,Netherlands
+1199547,Namibia,Papua New Guinea,male,2019/20,Papua New Guinea
+1199548,Ireland,Namibia,male,2019/20,Ireland
+1199549,Netherlands,Papua New Guinea,male,2019/20,Netherlands
+1200425,Netherlands,Scotland,male,2019,Scotland
+1200426,Ireland,Scotland,male,2019,Ireland
+1200427,Ireland,Netherlands,male,2019,Netherlands
+1200428,Netherlands,Scotland,male,2019,Scotland
+1201668,Spain,Portugal,male,2019/20,Spain
+1201669,Gibraltar,Portugal,male,2019/20,Portugal
+1201670,Spain,Gibraltar,male,2019/20,Spain
+1201671,Spain,Portugal,male,2019/20,Spain
+1201673,Spain,Gibraltar,male,2019/20,Spain
+1201680,Nepal,Zimbabwe,male,2019/20,Zimbabwe
+1201681,Singapore,Nepal,male,2019/20,Nepal
+1201682,Singapore,Zimbabwe,male,2019/20,Singapore
+1201683,Nepal,Zimbabwe,male,2019/20,Zimbabwe
+1201685,Singapore,Zimbabwe,male,2019/20,Zimbabwe
+1202007,Malaysia,Vanuatu,male,2019/20,Vanuatu
+1202008,Malaysia,Vanuatu,male,2019/20,Vanuatu
+1202009,Malaysia,Vanuatu,male,2019/20,Malaysia
+1202010,Malaysia,Vanuatu,male,2019/20,Vanuatu
+1202011,Malaysia,Vanuatu,male,2019/20,Malaysia
+1202243,India,Sri Lanka,male,2019/20,India
+1202244,India,Sri Lanka,male,2019/20,India
+1202252,West Indies,India,female,2019/20,India
+1202253,West Indies,India,female,2019/20,India
+1202254,West Indies,India,female,2019/20,India
+1202255,West Indies,India,female,2019/20,India
+1202256,West Indies,India,female,2019/20,India
+1202366,India,South Africa,female,2019/20,India
+1203676,West Indies,Ireland,male,2019/20,Ireland
+1203678,West Indies,Ireland,male,2019/20,West Indies
+1204726,Pakistan,Bangladesh,female,2019/20,Pakistan
+1207081,Spain,Germany,male,2019/20,Spain
+1207082,Spain,Germany,male,2019/20,Germany
+1208347,England,Pakistan,female,2019/20,England
+1208348,England,Pakistan,female,2019/20,England
+1208349,England,Pakistan,female,2019/20,England
+1208606,Nepal,Bhutan,male,2019/20,Nepal
+1208609,Nepal,Maldives,male,2019/20,Nepal
+1208612,Bhutan,Maldives,male,2019/20,Maldives
+1208613,Nepal,Maldives,male,2019/20,Nepal
+1208804,Nepal,Maldives,female,2019/20,Nepal
+1208806,Nepal,Bangladesh,female,2019/20,Bangladesh
+1208808,Bangladesh,Maldives,female,2019/20,Bangladesh
+1208810,Nepal,Maldives,female,2019/20,Nepal
+1213058,Pakistan,Bangladesh,male,2019/20,Pakistan
+1213059,Pakistan,Bangladesh,male,2019/20,Pakistan
+1213874,Sri Lanka,West Indies,male,2019/20,West Indies
+1213875,Sri Lanka,West Indies,male,2019/20,West Indies
+1214670,Bangladesh,Zimbabwe,male,2019/20,Bangladesh
+1214671,Bangladesh,Zimbabwe,male,2019/20,Bangladesh
+1214763,Oman,Germany,female,2019/20,Germany
+1214764,Oman,Germany,female,2019/20,Germany
+1214765,Oman,Germany,female,2019/20,Germany
+1214766,Oman,Germany,female,2019/20,Germany
+1215136,Malaysia,Hong Kong,male,2019/20,Malaysia
+1215137,Malaysia,Hong Kong,male,2019/20,Malaysia
+1215138,Malaysia,Hong Kong,male,2019/20,Malaysia
+1215139,Malaysia,Hong Kong,male,2019/20,Malaysia
+1215140,Malaysia,Hong Kong,male,2019/20,Malaysia
+1215159,Oman,Maldives,male,2019/20,Oman
+1215160,Saudi Arabia,United Arab Emirates,male,2019/20,United Arab Emirates
+1215161,Bahrain,Qatar,male,2019/20,Bahrain
+1215162,Iran,Kuwait,male,2019/20,Kuwait
+1215163,Kuwait,Bahrain,male,2019/20,Kuwait
+1215164,Qatar,United Arab Emirates,male,2019/20,United Arab Emirates
+1215165,Kuwait,United Arab Emirates,male,2019/20,United Arab Emirates
+1216416,Afghanistan,Ireland,male,2019/20,Afghanistan
+1216417,Afghanistan,Ireland,male,2019/20,Afghanistan
+1217738,Thailand,Singapore,male,2019/20,Singapore
+1217740,Hong Kong,Nepal,male,2019/20,Hong Kong
+1217741,Thailand,Malaysia,male,2019/20,Malaysia
+1217742,Malaysia,Singapore,male,2019/20,Singapore
+1217743,Thailand,Hong Kong,male,2019/20,Hong Kong
+1217744,Thailand,Nepal,male,2019/20,Nepal
+1217745,Hong Kong,Singapore,male,2019/20,Singapore
+1217747,Hong Kong,Malaysia,male,2019/20,Hong Kong
+1223941,Australia,New Zealand,female,2020/21,Australia
+1223942,New Zealand,Australia,female,2020/21,Australia
+1223943,Australia,New Zealand,female,2020/21,New Zealand
+1223952,India,Australia,male,2020/21,India
+1223953,Australia,India,male,2020/21,India
+1223954,Australia,India,male,2020/21,Australia
+1229204,Germany,Austria,female,2020,Germany
+1229205,Germany,Austria,female,2020,Germany
+1229206,Austria,Germany,female,2020,Germany
+1229207,Germany,Austria,female,2020,Germany
+1229208,Germany,Austria,female,2020,Germany
+1229820,Belgium,Luxembourg,male,2020,Belgium
+1229822,Belgium,Czech Republic,male,2020,Belgium
+1229823,Belgium,Luxembourg,male,2020,Belgium
+1229824,Isle of Man,Guernsey,male,2020,Guernsey
+1230855,England,West Indies,female,2020,England
+1230856,England,West Indies,female,2020,England
+1230857,England,West Indies,female,2020,England
+1230858,England,West Indies,female,2020,England
+1230859,West Indies,England,female,2020,England
+1233464,Zimbabwe,Pakistan,male,2020/21,Pakistan
+1233465,Zimbabwe,Pakistan,male,2020/21,Pakistan
+1233466,Zimbabwe,Pakistan,male,2020/21,Pakistan
+1233954,West Indies,New Zealand,male,2020/21,New Zealand
+1233955,New Zealand,West Indies,male,2020/21,New Zealand
+1233959,Pakistan,New Zealand,male,2020/21,New Zealand
+1233960,Pakistan,New Zealand,male,2020/21,New Zealand
+1233961,New Zealand,Pakistan,male,2020/21,Pakistan
+1233971,New Zealand,Australia,male,2020/21,New Zealand
+1233972,New Zealand,Australia,male,2020/21,New Zealand
+1233973,Australia,New Zealand,male,2020/21,Australia
+1233974,Australia,New Zealand,male,2020/21,Australia
+1233975,Australia,New Zealand,male,2020/21,New Zealand
+1233979,New Zealand,Bangladesh,male,2020/21,New Zealand
+1233980,New Zealand,Bangladesh,male,2020/21,New Zealand
+1233981,New Zealand,Bangladesh,male,2020/21,New Zealand
+1235829,Bulgaria,Romania,male,2020/21,Bulgaria
+1235830,Romania,Bulgaria,male,2020/21,Romania
+1235832,Bulgaria,Romania,male,2020/21,Romania
+1237122,South Africa,England,male,2020/21,England
+1237123,South Africa,England,male,2020/21,England
+1237124,South Africa,England,male,2020/21,England
+1239540,Pakistan,England,male,2021,Pakistan
+1239541,England,Pakistan,male,2021,England
+1239542,Pakistan,England,male,2021,England
+1243019,Pakistan,South Africa,male,2020/21,Pakistan
+1243020,Pakistan,South Africa,male,2020/21,South Africa
+1243021,South Africa,Pakistan,male,2020/21,Pakistan
+1243388,India,England,male,2020/21,England
+1243389,England,India,male,2020/21,India
+1243390,India,England,male,2020/21,England
+1243391,India,England,male,2020/21,India
+1243392,India,England,male,2020/21,India
+1244846,Pakistan,South Africa,female,2020/21,South Africa
+1244847,South Africa,Pakistan,female,2020/21,South Africa
+1244848,Pakistan,South Africa,female,2020/21,Pakistan
+1249206,Sri Lanka,England,male,2021,England
+1249207,Sri Lanka,England,male,2021,England
+1249208,England,Sri Lanka,male,2021,England
+1249235,New Zealand,England,female,2020/21,England
+1249236,New Zealand,England,female,2020/21,England
+1249237,England,New Zealand,female,2020/21,England
+1249238,New Zealand,Australia,female,2020/21,Australia
+1249239,Australia,New Zealand,female,2020/21,New Zealand
+1251575,South Africa,Pakistan,male,2021,Pakistan
+1251576,Pakistan,South Africa,male,2021,South Africa
+1251577,South Africa,Pakistan,male,2021,Pakistan
+1251578,South Africa,Pakistan,male,2021,Pakistan
+1251953,South Africa,Ireland,male,2021,South Africa
+1251954,South Africa,Ireland,male,2021,South Africa
+1251955,South Africa,Ireland,male,2021,South Africa
+1252058,Afghanistan,Zimbabwe,male,2020/21,Afghanistan
+1252059,Afghanistan,Zimbabwe,male,2020/21,Afghanistan
+1252060,Afghanistan,Zimbabwe,male,2020/21,Afghanistan
+1252066,Sri Lanka,West Indies,male,2020/21,West Indies
+1252067,Sri Lanka,West Indies,male,2020/21,Sri Lanka
+1252068,Sri Lanka,West Indies,male,2020/21,West Indies
+1253272,India,South Africa,female,2020/21,South Africa
+1253273,India,South Africa,female,2020/21,South Africa
+1253274,South Africa,India,female,2020/21,India
+1256720,England,West Indies,male,2021/22,West Indies
+1256721,England,West Indies,male,2021/22,England
+1256722,West Indies,England,male,2021/22,West Indies
+1256723,England,West Indies,male,2021/22,England
+1256724,West Indies,England,male,2021/22,West Indies
+1257183,Pakistan,Zimbabwe,male,2021,Pakistan
+1257184,Zimbabwe,Pakistan,male,2021,Zimbabwe
+1257185,Pakistan,Zimbabwe,male,2021,Pakistan
+1257404,Uganda,Namibia,male,2021,Namibia
+1257405,Namibia,Uganda,male,2021,Namibia
+1257406,Namibia,Uganda,male,2021,Namibia
+1257945,Netherlands,Nepal,male,2021,Nepal
+1257946,Netherlands,Malaysia,male,2021,Netherlands
+1257947,Malaysia,Nepal,male,2021,Nepal
+1257948,Nepal,Netherlands,male,2021,Netherlands
+1257950,Nepal,Malaysia,male,2021,Nepal
+1257951,Nepal,Netherlands,male,2021,Nepal
+1260097,England,India,female,2021,England
+1260098,India,England,female,2021,India
+1260099,India,England,female,2021,England
+1260100,England,New Zealand,female,2021,England
+1260101,England,New Zealand,female,2021,New Zealand
+1260102,New Zealand,England,female,2021,England
+1262758,India,Sri Lanka,male,2021,India
+1262759,India,Sri Lanka,male,2021,Sri Lanka
+1262760,India,Sri Lanka,male,2021,Sri Lanka
+1262917,Ireland,Scotland,female,2021,Ireland
+1262918,Scotland,Ireland,female,2021,Scotland
+1262919,Ireland,Scotland,female,2021,Ireland
+1262920,Scotland,Ireland,female,2021,Ireland
+1263151,South Africa,West Indies,male,2021,West Indies
+1263152,South Africa,West Indies,male,2021,South Africa
+1263153,South Africa,West Indies,male,2021,South Africa
+1263154,West Indies,South Africa,male,2021,West Indies
+1263155,South Africa,West Indies,male,2021,South Africa
+1263156,West Indies,Australia,male,2021,West Indies
+1263157,West Indies,Australia,male,2021,West Indies
+1263158,Australia,West Indies,male,2021,West Indies
+1263159,Australia,West Indies,male,2021,Australia
+1263160,West Indies,Australia,male,2021,West Indies
+1263165,Pakistan,West Indies,male,2021,Pakistan
+1263471,Australia,Sri Lanka,male,2021/22,Australia
+1263473,Sri Lanka,Australia,male,2021/22,Australia
+1263474,Sri Lanka,Australia,male,2021/22,Australia
+1263475,Australia,Sri Lanka,male,2021/22,Sri Lanka
+1263572,England,Australia,female,2021/22,Australia
+1263622,India,Australia,female,2021/22,Australia
+1263623,Australia,India,female,2021/22,Australia
+1263708,Luxembourg,Czech Republic,male,2021,Czech Republic
+1263710,Austria,Czech Republic,male,2021,Austria
+1263711,Czech Republic,Luxembourg,male,2021,Luxembourg
+1263712,Austria,Luxembourg,male,2021,Luxembourg
+1263713,Czech Republic,Austria,male,2021,Austria
+1265214,Nigeria,Namibia,female,2021,Namibia
+1265215,Botswana,Kenya,female,2021,Kenya
+1265216,Namibia,Rwanda,female,2021,Namibia
+1265218,Namibia,Botswana,female,2021,Namibia
+1265220,Rwanda,Nigeria,female,2021,Rwanda
+1265221,Kenya,Rwanda,female,2021,Kenya
+1265222,Botswana,Nigeria,female,2021,Nigeria
+1265223,Namibia,Nigeria,female,2021,Namibia
+1265224,Kenya,Rwanda,female,2021,Kenya
+1265225,Rwanda,Nigeria,female,2021,Rwanda
+1265226,Namibia,Kenya,female,2021,Kenya
+1267304,Greece,Romania,male,2021,Romania
+1267306,Serbia,Greece,male,2021,Greece
+1267307,Bulgaria,Romania,male,2021,Romania
+1267308,Romania,Serbia,male,2021,Romania
+1267310,Serbia,Romania,male,2021,Romania
+1267322,West Indies,Pakistan,female,2021,West Indies
+1267323,West Indies,Pakistan,female,2021,West Indies
+1267324,Pakistan,West Indies,female,2021,West Indies
+1267680,Zimbabwe,Bangladesh,male,2021,Bangladesh
+1267681,Zimbabwe,Bangladesh,male,2021,Zimbabwe
+1267682,Zimbabwe,Bangladesh,male,2021,Bangladesh
+1268188,Belgium,Malta,male,2021,Malta
+1268189,Malta,Belgium,male,2021,Belgium
+1268190,Malta,Belgium,male,2021,Belgium
+1268191,Belgium,Malta,male,2021,Malta
+1268192,Belgium,Malta,male,2021,Belgium
+1268747,France,Germany,female,2021,Germany
+1268748,France,Germany,female,2021,Germany
+1268749,Germany,France,female,2021,Germany
+1268757,Ireland,Netherlands,female,2021,Ireland
+1268759,Netherlands,Ireland,female,2021,Ireland
+1268760,Ireland,Netherlands,female,2021,Netherlands
+1270834,Bangladesh,Australia,male,2021,Bangladesh
+1270835,Australia,Bangladesh,male,2021,Bangladesh
+1270836,Bangladesh,Australia,male,2021,Bangladesh
+1270837,Bangladesh,Australia,male,2021,Australia
+1270838,Bangladesh,Australia,male,2021,Bangladesh
+1271445,Norway,Germany,male,2021,Germany
+1271446,Norway,France,male,2021,France
+1271447,France,Germany,male,2021,Germany
+1271448,Germany,France,male,2021,Germany
+1271449,Norway,France,male,2021,Norway
+1271450,Norway,Germany,male,2021,Norway
+1271451,Norway,Germany,male,2021,Germany
+1271630,South Africa,Sri Lanka,male,2021,South Africa
+1271631,Sri Lanka,South Africa,male,2021,South Africa
+1271632,Sri Lanka,South Africa,male,2021,South Africa
+1272093,New Zealand,Bangladesh,male,2021,Bangladesh
+1272094,Bangladesh,New Zealand,male,2021,Bangladesh
+1272095,New Zealand,Bangladesh,male,2021,New Zealand
+1272096,New Zealand,Bangladesh,male,2021,Bangladesh
+1272097,New Zealand,Bangladesh,male,2021,New Zealand
+1272373,Zimbabwe,Ireland,male,2021,Zimbabwe
+1272374,Zimbabwe,Ireland,male,2021,Ireland
+1272375,Ireland,Zimbabwe,male,2021,Ireland
+1272376,Ireland,Zimbabwe,male,2021,Ireland
+1272377,Zimbabwe,Ireland,male,2021,Zimbabwe
+1272900,Thailand,Zimbabwe,female,2021,Zimbabwe
+1272901,Thailand,Zimbabwe,female,2021,Thailand
+1272902,Thailand,Zimbabwe,female,2021,Thailand
+1273133,Denmark,Sweden,male,2021,Sweden
+1273134,Sweden,Denmark,male,2021,Denmark
+1273136,Gibraltar,Malta,male,2021,Malta
+1273138,Malta,Gibraltar,male,2021,Malta
+1273139,Portugal,Gibraltar,male,2021,Portugal
+1273141,Ghana,Rwanda,male,2021,Rwanda
+1273143,Rwanda,Ghana,male,2021,Rwanda
+1273144,Ghana,Rwanda,male,2021,Ghana
+1273145,Rwanda,Ghana,male,2021,Ghana
+1273146,Sweden,Finland,male,2021,Finland
+1273147,Sweden,Finland,male,2021,Finland
+1273148,Finland,Sweden,male,2021,Sweden
+1273149,Finland,Sweden,male,2021,Sweden
+1273271,Scotland,Zimbabwe,male,2021,Scotland
+1273272,Zimbabwe,Scotland,male,2021,Zimbabwe
+1273273,Scotland,Zimbabwe,male,2021,Zimbabwe
+1273416,South Africa,West Indies,female,2021,South Africa
+1273417,South Africa,West Indies,female,2021,West Indies
+1273712,Papua New Guinea,Oman,male,2021/22,Oman
+1273713,Scotland,Bangladesh,male,2021/22,Scotland
+1273714,Netherlands,Ireland,male,2021/22,Ireland
+1273715,Namibia,Sri Lanka,male,2021/22,Sri Lanka
+1273716,Scotland,Papua New Guinea,male,2021/22,Scotland
+1273717,Bangladesh,Oman,male,2021/22,Bangladesh
+1273718,Netherlands,Namibia,male,2021/22,Namibia
+1273719,Sri Lanka,Ireland,male,2021/22,Sri Lanka
+1273720,Bangladesh,Papua New Guinea,male,2021/22,Bangladesh
+1273721,Oman,Scotland,male,2021/22,Scotland
+1273722,Ireland,Namibia,male,2021/22,Namibia
+1273723,Netherlands,Sri Lanka,male,2021/22,Sri Lanka
+1273724,South Africa,Australia,male,2021/22,Australia
+1273725,West Indies,England,male,2021/22,England
+1273726,Bangladesh,Sri Lanka,male,2021/22,Sri Lanka
+1273727,India,Pakistan,male,2021/22,Pakistan
+1273728,Afghanistan,Scotland,male,2021/22,Afghanistan
+1273729,West Indies,South Africa,male,2021/22,South Africa
+1273730,New Zealand,Pakistan,male,2021/22,Pakistan
+1273731,Bangladesh,England,male,2021/22,England
+1273732,Scotland,Namibia,male,2021/22,Namibia
+1273733,Sri Lanka,Australia,male,2021/22,Australia
+1273734,West Indies,Bangladesh,male,2021/22,West Indies
+1273735,Afghanistan,Pakistan,male,2021/22,Pakistan
+1273736,Sri Lanka,South Africa,male,2021/22,South Africa
+1273737,Australia,England,male,2021/22,England
+1273738,Afghanistan,Namibia,male,2021/22,Afghanistan
+1273739,India,New Zealand,male,2021/22,New Zealand
+1273740,England,Sri Lanka,male,2021/22,England
+1273741,Bangladesh,South Africa,male,2021/22,South Africa
+1273742,Pakistan,Namibia,male,2021/22,Pakistan
+1273743,New Zealand,Scotland,male,2021/22,New Zealand
+1273744,India,Afghanistan,male,2021/22,India
+1273745,Bangladesh,Australia,male,2021/22,Australia
+1273746,Sri Lanka,West Indies,male,2021/22,Sri Lanka
+1273747,New Zealand,Namibia,male,2021/22,New Zealand
+1273748,Scotland,India,male,2021/22,India
+1273749,West Indies,Australia,male,2021/22,Australia
+1273750,South Africa,England,male,2021/22,South Africa
+1273751,Afghanistan,New Zealand,male,2021/22,New Zealand
+1273752,Pakistan,Scotland,male,2021/22,Pakistan
+1273753,Namibia,India,male,2021/22,India
+1273754,England,New Zealand,male,2021/22,New Zealand
+1273755,Pakistan,Australia,male,2021/22,Australia
+1273756,New Zealand,Australia,male,2021/22,Australia
+1274595,Netherlands,Scotland,female,2021,Scotland
+1274596,Ireland,Germany,female,2021,Ireland
+1274597,France,Netherlands,female,2021,Netherlands
+1274600,France,Germany,female,2021,Germany
+1274601,Ireland,Scotland,female,2021,Scotland
+1274602,Germany,Netherlands,female,2021,Netherlands
+1274604,France,Ireland,female,2021,Ireland
+1274606,France,Scotland,female,2021,Scotland
+1274608,Germany,Scotland,female,2021,Scotland
+1274609,Ireland,Netherlands,female,2021,Ireland
+1275039,Nigeria,Kenya,male,2021,Kenya
+1275040,Uganda,Nigeria,male,2021,Uganda
+1275042,Kenya,Nigeria,male,2021,Kenya
+1275043,Nigeria,Uganda,male,2021,Uganda
+1275044,Kenya,Uganda,male,2021,Kenya
+1275045,Nigeria,Kenya,male,2021,Nigeria
+1275047,Uganda,Nigeria,male,2021,Uganda
+1275051,Uganda,Kenya,male,2021,Uganda
+1275052,Spain,Germany,male,2021,Germany
+1275053,Germany,Spain,male,2021,Spain
+1275054,Germany,Spain,male,2021,Spain
+1275074,Norway,Sweden,female,2021,Sweden
+1275104,Mozambique,Rwanda,female,2021,Rwanda
+1275106,Botswana,Eswatini,female,2021,Botswana
+1275107,Sierra Leone,Nigeria,female,2021,Nigeria
+1275108,Tanzania,Zimbabwe,female,2021,Zimbabwe
+1275110,Botswana,Mozambique,female,2021,Botswana
+1275111,Namibia,Nigeria,female,2021,Namibia
+1275112,Eswatini,Zimbabwe,female,2021,Zimbabwe
+1275113,Cameroon,Sierra Leone,female,2021,Sierra Leone
+1275114,Tanzania,Mozambique,female,2021,Tanzania
+1275115,Uganda,Nigeria,female,2021,Uganda
+1275116,Rwanda,Eswatini,female,2021,Rwanda
+1275118,Tanzania,Rwanda,female,2021,Tanzania
+1275122,Tanzania,Eswatini,female,2021,Tanzania
+1275125,Sierra Leone,Uganda,female,2021,Uganda
+1275126,Mozambique,Eswatini,female,2021,Mozambique
+1275127,Zimbabwe,Rwanda,female,2021,Zimbabwe
+1275128,Botswana,Tanzania,female,2021,Tanzania
+1275129,Zimbabwe,Uganda,female,2021,Zimbabwe
+1275131,Uganda,Tanzania,female,2021,Tanzania
+1275132,Zimbabwe,Namibia,female,2021,Zimbabwe
+1275268,Romania,Czech Republic,male,2021,Romania
+1275269,Luxembourg,Bulgaria,male,2021,Luxembourg
+1275270,Hungary,Czech Republic,male,2021,Hungary
+1275271,Bulgaria,Malta,male,2021,Malta
+1275272,Romania,Hungary,male,2021,Romania
+1275274,Luxembourg,Hungary,male,2021,Luxembourg
+1275275,Romania,Malta,male,2021,Romania
+1275276,Malta,Hungary,male,2021,Hungary
+1275277,Romania,Luxembourg,male,2021,Romania
+1276904,India,England,male,2022,India
+1276905,India,England,male,2022,India
+1276906,England,India,male,2022,England
+1276913,England,South Africa,male,2022,England
+1276914,South Africa,England,male,2022,South Africa
+1276915,South Africa,England,male,2022,South Africa
+1277974,Bangladesh,Pakistan,male,2021/22,Pakistan
+1277975,Bangladesh,Pakistan,male,2021/22,Pakistan
+1277976,Bangladesh,Pakistan,male,2021/22,Pakistan
+1278671,New Zealand,India,male,2021/22,India
+1278672,New Zealand,India,male,2021/22,India
+1278673,India,New Zealand,male,2021/22,India
+1278679,West Indies,India,male,2021/22,India
+1278680,India,West Indies,male,2021/22,India
+1278681,India,West Indies,male,2021/22,India
+1278684,India,Sri Lanka,male,2021/22,India
+1278685,Sri Lanka,India,male,2021/22,India
+1278686,Sri Lanka,India,male,2021/22,India
+1278687,India,South Africa,male,2022,South Africa
+1278688,India,South Africa,male,2022,South Africa
+1278689,India,South Africa,male,2022,India
+1278690,India,South Africa,male,2022,India
+1279379,Estonia,Cyprus,male,2021/22,Cyprus
+1279380,Estonia,Cyprus,male,2021/22,Cyprus
+1279381,Cyprus,Isle of Man,male,2021/22,Isle of Man
+1279382,Estonia,Isle of Man,male,2021/22,Isle of Man
+1279383,Cyprus,Isle of Man,male,2021/22,Isle of Man
+1279385,Cyprus,Estonia,male,2021/22,Cyprus
+1279386,Estonia,Isle of Man,male,2021/22,Isle of Man
+1280058,Scotland,Namibia,male,2021/22,Namibia
+1280059,Namibia,Papua New Guinea,male,2021/22,Namibia
+1280060,United Arab Emirates,Ireland,male,2021/22,Ireland
+1280061,United Arab Emirates,Ireland,male,2021/22,United Arab Emirates
+1280062,Ireland,United Arab Emirates,male,2021/22,United Arab Emirates
+1280063,Papua New Guinea,Scotland,male,2021/22,Scotland
+1282272,Malta,Gibraltar,male,2021/22,Malta
+1282273,Gibraltar,Switzerland,male,2021/22,Switzerland
+1282275,Bulgaria,Switzerland,male,2021/22,Switzerland
+1282276,Switzerland,Malta,male,2021/22,Switzerland
+1282278,Gibraltar,Bulgaria,male,2021/22,Bulgaria
+1282279,Malta,Switzerland,male,2021/22,Malta
+1282738,Jersey,Germany,male,2021/22,Jersey
+1282739,Denmark,Italy,male,2021/22,Italy
+1282740,Denmark,Germany,male,2021/22,Germany
+1282741,Jersey,Italy,male,2021/22,Jersey
+1282742,Jersey,Denmark,male,2021/22,Jersey
+1282743,Italy,Germany,male,2021/22,Germany
+1282744,Italy,Denmark,male,2021/22,Italy
+1282745,Germany,Jersey,male,2021/22,Jersey
+1282746,Italy,Jersey,male,2021/22,Jersey
+1282747,Germany,Denmark,male,2021/22,Germany
+1282748,Italy,Germany,male,2021/22,Italy
+1282749,Denmark,Jersey,male,2021/22,Jersey
+1282929,Argentina,Brazil,female,2021/22,Brazil
+1282930,Canada,United States of America,female,2021/22,United States of America
+1282935,Canada,United States of America,female,2021/22,Canada
+1283021,Rwanda,Ghana,male,2021/22,Ghana
+1283023,Seychelles,Ghana,male,2021/22,Ghana
+1283024,Malawi,Uganda,male,2021/22,Uganda
+1283025,Lesotho,Seychelles,male,2021/22,Seychelles
+1283026,Swaziland,Malawi,male,2021/22,Malawi
+1283028,Uganda,Rwanda,male,2021/22,Uganda
+1283029,Malawi,Ghana,male,2021/22,Ghana
+1283030,Lesotho,Uganda,male,2021/22,Uganda
+1283032,Swaziland,Uganda,male,2021/22,Uganda
+1283033,Malawi,Seychelles,male,2021/22,Malawi
+1283034,Swaziland,Ghana,male,2021/22,Ghana
+1283035,Swaziland,Seychelles,male,2021/22,Seychelles
+1283036,Rwanda,Lesotho,male,2021/22,Rwanda
+1283037,Uganda,Ghana,male,2021/22,Uganda
+1283038,Swaziland,Rwanda,male,2021/22,Rwanda
+1283040,Malawi,Rwanda,male,2021/22,Malawi
+1283041,Uganda,Seychelles,male,2021/22,Uganda
+1283042,Botswana,Sierra Leone,male,2021/22,Botswana
+1283043,Tanzania,Mozambique,male,2021/22,Tanzania
+1283044,Mozambique,Cameroon,male,2021/22,Mozambique
+1283045,Sierra Leone,Tanzania,male,2021/22,Tanzania
+1283046,Cameroon,Botswana,male,2021/22,Botswana
+1283047,Mozambique,Sierra Leone,male,2021/22,Sierra Leone
+1283048,Botswana,Mozambique,male,2021/22,Botswana
+1283049,Tanzania,Cameroon,male,2021/22,Tanzania
+1283050,Cameroon,Sierra Leone,male,2021/22,Sierra Leone
+1283051,Tanzania,Botswana,male,2021/22,Tanzania
+1283089,Nigeria,Sierra Leone,male,2021/22,Sierra Leone
+1283091,Nigeria,Sierra Leone,male,2021/22,Nigeria
+1283092,Sierra Leone,Nigeria,male,2021/22,Nigeria
+1283093,Nigeria,Sierra Leone,male,2021/22,Nigeria
+1283094,Nigeria,Sierra Leone,male,2021/22,Nigeria
+1284489,Maldives,Saudi Arabia,male,2021/22,Saudi Arabia
+1284490,Bahrain,Kuwait,male,2021/22,Kuwait
+1284491,Qatar,Maldives,male,2021/22,Qatar
+1284493,Maldives,Bahrain,male,2021/22,Bahrain
+1284495,Maldives,Kuwait,male,2021/22,Kuwait
+1284496,Bahrain,Saudi Arabia,male,2021/22,Bahrain
+1284497,Kuwait,Qatar,male,2021/22,Qatar
+1286667,Belize,United States of America,male,2021/22,United States of America
+1286670,Canada,Belize,male,2021/22,Canada
+1286671,Bahamas,Argentina,male,2021/22,Bahamas
+1286672,Belize,Panama,male,2021/22,Belize
+1286673,United States of America,Bermuda,male,2021/22,United States of America
+1286675,Argentina,Belize,male,2021/22,Argentina
+1286677,Bermuda,Bahamas,male,2021/22,Bermuda
+1286681,Argentina,United States of America,male,2021/22,United States of America
+1286682,Bahamas,United States of America,male,2021/22,United States of America
+1286683,Belize,Bermuda,male,2021/22,Bermuda
+1286684,Panama,Bahamas,male,2021/22,Panama
+1286685,Argentina,Canada,male,2021/22,Canada
+1286686,Canada,Panama,male,2021/22,Canada
+1286968,United Arab Emirates,Malaysia,female,2021/22,United Arab Emirates
+1286970,Bhutan,Kuwait,female,2021/22,Bhutan
+1286971,United Arab Emirates,Hong Kong,female,2021/22,United Arab Emirates
+1286972,Malaysia,Kuwait,female,2021/22,Malaysia
+1286973,Bhutan,Nepal,female,2021/22,Nepal
+1286974,Malaysia,Hong Kong,female,2021/22,Hong Kong
+1286975,Kuwait,Nepal,female,2021/22,Nepal
+1286976,United Arab Emirates,Bhutan,female,2021/22,United Arab Emirates
+1286978,Hong Kong,Bhutan,female,2021/22,Hong Kong
+1286979,Kuwait,United Arab Emirates,female,2021/22,United Arab Emirates
+1286980,United Arab Emirates,Nepal,female,2021/22,United Arab Emirates
+1286981,Malaysia,Bhutan,female,2021/22,Malaysia
+1286982,Hong Kong,Kuwait,female,2021/22,Hong Kong
+1287773,Pakistan,West Indies,male,2021/22,Pakistan
+1287774,Pakistan,West Indies,male,2021/22,Pakistan
+1287775,West Indies,Pakistan,male,2021/22,Pakistan
+1288316,Pakistan,Australia,male,2021/22,Australia
+1289031,New Zealand,India,female,2021/22,New Zealand
+1289042,Nigeria,Tanzania,male,2021/22,Tanzania
+1289043,Kenya,Uganda,male,2021/22,Kenya
+1289044,Uganda,Nigeria,male,2021/22,Uganda
+1289045,Tanzania,Kenya,male,2021/22,Tanzania
+1289046,Tanzania,Uganda,male,2021/22,Uganda
+1289047,Nigeria,Kenya,male,2021/22,Kenya
+1289048,Tanzania,Kenya,male,2021/22,Kenya
+1289049,Nigeria,Uganda,male,2021/22,Uganda
+1289050,Tanzania,Uganda,male,2021/22,Uganda
+1289051,Kenya,Nigeria,male,2021/22,Kenya
+1289052,Kenya,Uganda,male,2021/22,Uganda
+1289053,Tanzania,Nigeria,male,2021/22,Tanzania
+1289259,India,Australia,female,2022,Australia
+1289260,Barbados,Pakistan,female,2022,Barbados
+1289261,New Zealand,South Africa,female,2022,New Zealand
+1289262,Sri Lanka,England,female,2022,England
+1289263,Pakistan,India,female,2022,India
+1289264,Barbados,Australia,female,2022,Australia
+1289265,England,South Africa,female,2022,England
+1289266,New Zealand,Sri Lanka,female,2022,New Zealand
+1289267,Australia,Pakistan,female,2022,Australia
+1289268,India,Barbados,female,2022,India
+1289269,Sri Lanka,South Africa,female,2022,South Africa
+1289270,New Zealand,England,female,2022,England
+1289271,India,England,female,2022,India
+1289272,New Zealand,Australia,female,2022,Australia
+1289273,England,New Zealand,female,2022,New Zealand
+1289274,Australia,India,female,2022,Australia
+1289284,Nepal,Qatar,female,2021/22,Nepal
+1289285,Nepal,Qatar,female,2021/22,Nepal
+1289286,Nepal,Qatar,female,2021/22,Nepal
+1291187,United States of America,Ireland,male,2021/22,United States of America
+1291188,Ireland,United States of America,male,2021/22,Ireland
+1296027,Malaysia,Bangladesh,female,2021/22,Bangladesh
+1296028,Sri Lanka,Scotland,female,2021/22,Sri Lanka
+1296029,Bangladesh,Kenya,female,2021/22,Bangladesh
+1296030,Scotland,Malaysia,female,2021/22,Scotland
+1296031,Kenya,Sri Lanka,female,2021/22,Sri Lanka
+1296032,Scotland,Kenya,female,2021/22,Scotland
+1296033,Sri Lanka,Malaysia,female,2021/22,Sri Lanka
+1296034,Scotland,Bangladesh,female,2021/22,Bangladesh
+1296035,Kenya,Malaysia,female,2021/22,Malaysia
+1296036,Sri Lanka,Bangladesh,female,2021/22,Sri Lanka
+1298135,Namibia,Sri Lanka,male,2022/23,Namibia
+1298136,United Arab Emirates,Netherlands,male,2022/23,Netherlands
+1298137,Scotland,West Indies,male,2022/23,Scotland
+1298138,Zimbabwe,Ireland,male,2022/23,Zimbabwe
+1298139,Namibia,Netherlands,male,2022/23,Netherlands
+1298140,Sri Lanka,United Arab Emirates,male,2022/23,Sri Lanka
+1298141,Scotland,Ireland,male,2022/23,Ireland
+1298142,West Indies,Zimbabwe,male,2022/23,West Indies
+1298143,Sri Lanka,Netherlands,male,2022/23,Sri Lanka
+1298144,United Arab Emirates,Namibia,male,2022/23,United Arab Emirates
+1298145,West Indies,Ireland,male,2022/23,Ireland
+1298146,Scotland,Zimbabwe,male,2022/23,Zimbabwe
+1298147,New Zealand,Australia,male,2022/23,New Zealand
+1298148,Afghanistan,England,male,2022/23,England
+1298149,Ireland,Sri Lanka,male,2022/23,Sri Lanka
+1298150,Pakistan,India,male,2022/23,India
+1298151,Bangladesh,Netherlands,male,2022/23,Bangladesh
+1298153,Sri Lanka,Australia,male,2022/23,Australia
+1298154,Ireland,England,male,2022/23,Ireland
+1298156,South Africa,Bangladesh,male,2022/23,South Africa
+1298157,India,Netherlands,male,2022/23,India
+1298158,Zimbabwe,Pakistan,male,2022/23,Zimbabwe
+1298161,New Zealand,Sri Lanka,male,2022/23,New Zealand
+1298162,Bangladesh,Zimbabwe,male,2022/23,Bangladesh
+1298163,Netherlands,Pakistan,male,2022/23,Pakistan
+1298164,India,South Africa,male,2022/23,South Africa
+1298165,Australia,Ireland,male,2022/23,Australia
+1298166,Afghanistan,Sri Lanka,male,2022/23,Sri Lanka
+1298167,England,New Zealand,male,2022/23,England
+1298168,Zimbabwe,Netherlands,male,2022/23,Netherlands
+1298169,India,Bangladesh,male,2022/23,India
+1298170,Pakistan,South Africa,male,2022/23,Pakistan
+1298171,New Zealand,Ireland,male,2022/23,New Zealand
+1298172,Australia,Afghanistan,male,2022/23,Australia
+1298173,Sri Lanka,England,male,2022/23,England
+1298174,Netherlands,South Africa,male,2022/23,Netherlands
+1298175,Bangladesh,Pakistan,male,2022/23,Pakistan
+1298176,India,Zimbabwe,male,2022/23,India
+1298177,New Zealand,Pakistan,male,2022/23,Pakistan
+1298178,India,England,male,2022/23,England
+1298179,Pakistan,England,male,2022/23,England
+1299566,Nepal,Oman,male,2021/22,Nepal
+1299567,Canada,Philippines,male,2021/22,Canada
+1299568,United Arab Emirates,Ireland,male,2021/22,United Arab Emirates
+1299569,Germany,Bahrain,male,2021/22,Bahrain
+1299570,Canada,Oman,male,2021/22,Oman
+1299571,Nepal,Philippines,male,2021/22,Nepal
+1299572,United Arab Emirates,Germany,male,2021/22,United Arab Emirates
+1299573,Ireland,Bahrain,male,2021/22,Ireland
+1299574,Germany,Ireland,male,2021/22,Ireland
+1299575,Bahrain,United Arab Emirates,male,2021/22,Bahrain
+1299576,Canada,Nepal,male,2021/22,Nepal
+1299577,Philippines,Oman,male,2021/22,Oman
+1299578,Germany,Canada,male,2021/22,Canada
+1299579,Bahrain,Philippines,male,2021/22,Bahrain
+1299580,United Arab Emirates,Nepal,male,2021/22,United Arab Emirates
+1299581,Ireland,Oman,male,2021/22,Ireland
+1299582,Bahrain,Canada,male,2021/22,Canada
+1299583,Philippines,Germany,male,2021/22,Germany
+1299584,Oman,Nepal,male,2021/22,Nepal
+1299585,Ireland,United Arab Emirates,male,2021/22,United Arab Emirates
+1299592,United Arab Emirates,Ireland,male,2021/22,United Arab Emirates
+1299593,Oman,Nepal,male,2021/22,Nepal
+1299594,Oman,Ireland,male,2021/22,Ireland
+1299595,United Arab Emirates,Oman,male,2021/22,Oman
+1299596,Ireland,Nepal,male,2021/22,Ireland
+1299638,United Arab Emirates,Nepal,male,2021/22,United Arab Emirates
+1299832,Bangladesh,Afghanistan,male,2021/22,Bangladesh
+1299833,Bangladesh,Afghanistan,male,2021/22,Afghanistan
+1301331,South Africa,England,female,2022,England
+1301332,South Africa,England,female,2022,England
+1301333,England,South Africa,female,2022,England
+1301334,India,England,female,2022,England
+1301335,England,India,female,2022,India
+1301336,India,England,female,2022,England
+1303307,Ireland,India,male,2022,India
+1303308,India,Ireland,male,2022,India
+1303312,New Zealand,Ireland,male,2022,New Zealand
+1303313,New Zealand,Ireland,male,2022,New Zealand
+1303314,Ireland,New Zealand,male,2022,New Zealand
+1303315,South Africa,Ireland,male,2022,South Africa
+1303316,South Africa,Ireland,male,2022,South Africa
+1305498,Nepal,Papua New Guinea,male,2021/22,Nepal
+1305499,Malaysia,Papua New Guinea,male,2021/22,Malaysia
+1305500,Malaysia,Nepal,male,2021/22,Nepal
+1305501,Nepal,Papua New Guinea,male,2021/22,Nepal
+1305502,Malaysia,Papua New Guinea,male,2021/22,Papua New Guinea
+1305503,Nepal,Malaysia,male,2021/22,Nepal
+1305504,Nepal,Papua New Guinea,male,2021/22,Nepal
+1306384,Qatar,United Arab Emirates,female,2021/22,United Arab Emirates
+1306385,Saudi Arabia,Kuwait,female,2021/22,Kuwait
+1306386,Qatar,Bahrain,female,2021/22,Qatar
+1306387,Oman,Saudi Arabia,female,2021/22,Oman
+1306388,United Arab Emirates,Kuwait,female,2021/22,United Arab Emirates
+1306389,Bahrain,Saudi Arabia,female,2021/22,Bahrain
+1306390,Qatar,Kuwait,female,2021/22,Kuwait
+1306391,United Arab Emirates,Oman,female,2021/22,United Arab Emirates
+1306392,Oman,Kuwait,female,2021/22,Oman
+1306393,Saudi Arabia,United Arab Emirates,female,2021/22,United Arab Emirates
+1306394,Qatar,Saudi Arabia,female,2021/22,Qatar
+1306395,Kuwait,Bahrain,female,2021/22,Bahrain
+1306396,Oman,Qatar,female,2021/22,Oman
+1306397,United Arab Emirates,Bahrain,female,2021/22,United Arab Emirates
+1307159,Afghanistan,Ireland,male,2022,Ireland
+1307160,Afghanistan,Ireland,male,2022,Ireland
+1307161,Afghanistan,Ireland,male,2022,Afghanistan
+1307162,Afghanistan,Ireland,male,2022,Afghanistan
+1307163,Afghanistan,Ireland,male,2022,Ireland
+1307293,Sri Lanka,Australia,male,2022,Australia
+1307294,Sri Lanka,Australia,male,2022,Australia
+1307295,Australia,Sri Lanka,male,2022,Sri Lanka
+1307477,New Zealand,Scotland,male,2022,New Zealand
+1307478,New Zealand,Scotland,male,2022,New Zealand
+1308236,Pakistan,Ireland,female,2022/23,Ireland
+1308237,Ireland,Pakistan,female,2022/23,Pakistan
+1308238,Ireland,Pakistan,female,2022/23,Ireland
+1309701,Uganda,Namibia,male,2022,Namibia
+1309702,Namibia,Uganda,male,2022,Uganda
+1309703,Namibia,Uganda,male,2022,Namibia
+1310161,Norway,Guernsey,male,2022,Norway
+1310162,Spain,Norway,male,2022,Spain
+1310163,Norway,Guernsey,male,2022,Guernsey
+1310164,Guernsey,Spain,male,2022,Spain
+1310165,Spain,Guernsey,male,2022,Guernsey
+1310166,Spain,Norway,male,2022,Spain
+1310167,Denmark,Finland,male,2022,Finland
+1310168,Denmark,Finland,male,2022,Denmark
+1310169,Denmark,Finland,male,2022,Denmark
+1310170,Gibraltar,Malta,male,2022,Malta
+1310171,Malta,Hungary,male,2022,Malta
+1310172,Gibraltar,Hungary,male,2022,Hungary
+1310173,Romania,Malta,male,2022,Malta
+1310174,Czech Republic,Gibraltar,male,2022,Czech Republic
+1310175,Hungary,Bulgaria,male,2022,Hungary
+1310176,Malta,Czech Republic,male,2022,Malta
+1310177,Czech Republic,Bulgaria,male,2022,Czech Republic
+1310178,Romania,Hungary,male,2022,Hungary
+1310179,Gibraltar,Bulgaria,male,2022,Gibraltar
+1310180,Romania,Czech Republic,male,2022,Romania
+1310181,Bulgaria,Romania,male,2022,Romania
+1310182,Hungary,Czech Republic,male,2022,Czech Republic
+1310183,Gibraltar,Romania,male,2022,Romania
+1310184,Bulgaria,Malta,male,2022,Malta
+1310185,Gibraltar,Bulgaria,male,2022,Bulgaria
+1310186,Czech Republic,Hungary,male,2022,Czech Republic
+1310187,Romania,Malta,male,2022,Romania
+1310188,Jersey,Guernsey,male,2022,Jersey
+1310887,Zimbabwe,Uganda,female,2022,Zimbabwe
+1310888,Zimbabwe,Namibia,female,2022,Namibia
+1310889,Namibia,Uganda,female,2022,Namibia
+1310890,Zimbabwe,Uganda,female,2022,Zimbabwe
+1310891,Namibia,Zimbabwe,female,2022,Zimbabwe
+1310892,Namibia,Uganda,female,2022,Namibia
+1310893,Zimbabwe,Uganda,female,2022,Zimbabwe
+1310894,Zimbabwe,Namibia,female,2022,Zimbabwe
+1310895,Uganda,Namibia,female,2022,Namibia
+1310896,Namibia,Zimbabwe,female,2022,Zimbabwe
+1310901,New Zealand,Netherlands,male,2022,New Zealand
+1310902,Netherlands,New Zealand,male,2022,New Zealand
+1310938,Zimbabwe,Namibia,male,2022,Zimbabwe
+1310939,Zimbabwe,Namibia,male,2022,Namibia
+1310940,Namibia,Zimbabwe,male,2022,Zimbabwe
+1310941,Zimbabwe,Namibia,male,2022,Namibia
+1310942,Namibia,Zimbabwe,male,2022,Namibia
+1310946,Zimbabwe,Afghanistan,male,2022,Afghanistan
+1310947,Afghanistan,Zimbabwe,male,2022,Afghanistan
+1310948,Afghanistan,Zimbabwe,male,2022,Afghanistan
+1310981,Sri Lanka,Pakistan,female,2022,Pakistan
+1310982,Sri Lanka,Pakistan,female,2022,Pakistan
+1310983,Sri Lanka,Pakistan,female,2022,Pakistan
+1311744,Hong Kong,United Arab Emirates,female,2022,United Arab Emirates
+1311745,United Arab Emirates,Hong Kong,female,2022,United Arab Emirates
+1311746,United Arab Emirates,Hong Kong,female,2022,United Arab Emirates
+1311747,Hong Kong,United Arab Emirates,female,2022,United Arab Emirates
+1314897,Uganda,Nepal,female,2022,Uganda
+1314898,Nepal,Uganda,female,2022,Uganda
+1314899,Nepal,Uganda,female,2022,Uganda
+1314900,Nepal,Uganda,female,2022,Nepal
+1314901,Nepal,Uganda,female,2022,Nepal
+1316642,Ireland,South Africa,female,2022,Ireland
+1316643,Ireland,South Africa,female,2022,South Africa
+1316644,Ireland,South Africa,female,2022,South Africa
+1317136,Serbia,Bulgaria,male,2022,Bulgaria
+1317137,Serbia,Bulgaria,male,2022,Bulgaria
+1317138,Serbia,Bulgaria,male,2022,Bulgaria
+1317139,Serbia,Bulgaria,male,2022,Bulgaria
+1317150,West Indies,Bangladesh,male,2022,West Indies
+1317151,Bangladesh,West Indies,male,2022,West Indies
+1317482,West Indies,Australia,male,2022/23,Australia
+1317483,Australia,West Indies,male,2022/23,Australia
+1317486,England,Australia,male,2022/23,England
+1317487,England,Australia,male,2022/23,England
+1317636,Ireland,Australia,female,2022,Australia
+1317637,Pakistan,Ireland,female,2022,Pakistan
+1317638,Australia,Ireland,female,2022,Australia
+1317903,India,West Indies,male,2022,India
+1317904,India,West Indies,male,2022,West Indies
+1317905,West Indies,India,male,2022,India
+1317906,India,West Indies,male,2022,India
+1317907,India,West Indies,male,2022,India
+1317908,New Zealand,West Indies,male,2022,New Zealand
+1317909,New Zealand,West Indies,male,2022,New Zealand
+1317910,New Zealand,West Indies,male,2022,West Indies
+1318357,Germany,Austria,male,2022,Germany
+1318358,Sweden,Germany,male,2022,Germany
+1318359,Austria,Germany,male,2022,Austria
+1318360,Austria,Sweden,male,2022,Austria
+1318361,Austria,Sweden,male,2022,Austria
+1318362,Germany,Sweden,male,2022,Germany
+1318373,Rwanda,Uganda,female,2022,Uganda
+1318375,Brazil,Nigeria,female,2022,Nigeria
+1318376,Uganda,Kenya,female,2022,Kenya
+1318377,Tanzania,Botswana,female,2022,Tanzania
+1318378,Rwanda,Brazil,female,2022,Rwanda
+1318379,Germany,Nigeria,female,2022,Nigeria
+1318380,Brazil,Germany,female,2022,Brazil
+1318381,Uganda,Tanzania,female,2022,Tanzania
+1318382,Rwanda,Kenya,female,2022,Kenya
+1318383,Botswana,Nigeria,female,2022,Nigeria
+1318393,Botswana,Rwanda,female,2022,Rwanda
+1318394,Uganda,Germany,female,2022,Uganda
+1318395,Nigeria,Tanzania,female,2022,Tanzania
+1318396,Kenya,Brazil,female,2022,Kenya
+1318404,Tanzania,Kenya,female,2022,Tanzania
+1319709,India,Sri Lanka,female,2022,India
+1319710,Sri Lanka,India,female,2022,India
+1319711,India,Sri Lanka,female,2022,Sri Lanka
+1320190,Malaysia,Singapore,female,2022,Malaysia
+1320191,Nepal,Bhutan,female,2022,Nepal
+1320194,Singapore,United Arab Emirates,female,2022,United Arab Emirates
+1320195,Hong Kong,Bhutan,female,2022,Hong Kong
+1320196,Qatar,Malaysia,female,2022,Malaysia
+1320197,Nepal,Kuwait,female,2022,Nepal
+1320198,Bahrain,Hong Kong,female,2022,Hong Kong
+1320199,Oman,Qatar,female,2022,Qatar
+1320200,United Arab Emirates,Malaysia,female,2022,United Arab Emirates
+1320201,Bahrain,Nepal,female,2022,Nepal
+1320202,Oman,Singapore,female,2022,Singapore
+1320203,Singapore,Qatar,female,2022,Qatar
+1320204,Bhutan,Kuwait,female,2022,Kuwait
+1320205,Nepal,Hong Kong,female,2022,Hong Kong
+1320206,Malaysia,Oman,female,2022,Malaysia
+1320207,Hong Kong,Kuwait,female,2022,Hong Kong
+1320208,United Arab Emirates,Qatar,female,2022,United Arab Emirates
+1320209,Bhutan,Bahrain,female,2022,Bhutan
+1320211,Malaysia,Hong Kong,female,2022,Malaysia
+1320212,Malaysia,United Arab Emirates,female,2022,United Arab Emirates
+1320969,Gibraltar,Belgium,male,2022,Belgium
+1320973,Portugal,Malta,male,2022,Portugal
+1320974,Denmark,Gibraltar,male,2022,Denmark
+1320975,Israel,Spain,male,2022,Spain
+1320976,Hungary,Belgium,male,2022,Belgium
+1320977,Portugal,Spain,male,2022,Spain
+1320978,Hungary,Gibraltar,male,2022,Gibraltar
+1320979,Malta,Israel,male,2022,Malta
+1320980,Belgium,Denmark,male,2022,Belgium
+1320982,Belgium,Portugal,male,2022,Portugal
+1320984,Denmark,Spain,male,2022,Denmark
+1320985,Israel,Hungary,male,2022,Israel
+1320986,Spain,Belgium,male,2022,Belgium
+1320987,Gibraltar,Malta,male,2022,Malta
+1320988,Portugal,Denmark,male,2022,Denmark
+1320997,Jersey,Guernsey,female,2022,Jersey
+1321258,Cyprus,Isle of Man,male,2022,Isle of Man
+1321259,Finland,Sweden,male,2022,Finland
+1321260,Romania,Turkey,male,2022,Romania
+1321261,Cyprus,Romania,male,2022,Cyprus
+1321262,Croatia,Sweden,male,2022,Sweden
+1321263,Isle of Man,Serbia,male,2022,Isle of Man
+1321264,Finland,Italy,male,2022,Italy
+1321265,Italy,Sweden,male,2022,Italy
+1321266,Turkey,Serbia,male,2022,Serbia
+1321267,Croatia,Greece,male,2022,Croatia
+1321268,Romania,Isle of Man,male,2022,Isle of Man
+1321269,Romania,Serbia,male,2022,Romania
+1321270,Finland,Greece,male,2022,Finland
+1321271,Cyprus,Turkey,male,2022,Cyprus
+1321272,Italy,Croatia,male,2022,Italy
+1321273,Sweden,Greece,male,2022,Sweden
+1321274,Cyprus,Serbia,male,2022,Serbia
+1321275,Croatia,Finland,male,2022,Finland
+1321276,Isle of Man,Turkey,male,2022,Isle of Man
+1321277,Serbia,Croatia,male,2022,Croatia
+1321278,Finland,Cyprus,male,2022,Finland
+1321279,Romania,Sweden,male,2022,Sweden
+1321280,Isle of Man,Italy,male,2022,Italy
+1321281,Austria,Luxembourg,male,2022,Austria
+1321282,Estonia,Norway,male,2022,Norway
+1321283,Guernsey,Bulgaria,male,2022,Guernsey
+1321284,France,Czech Republic,male,2022,France
+1321286,Austria,Slovenia,male,2022,Austria
+1321287,France,Switzerland,male,2022,Switzerland
+1321288,Guernsey,Luxembourg,male,2022,Guernsey
+1321289,Guernsey,Austria,male,2022,Austria
+1321290,Switzerland,Estonia,male,2022,Switzerland
+1321291,Slovenia,Bulgaria,male,2022,Bulgaria
+1321292,France,Norway,male,2022,France
+1321293,Norway,Switzerland,male,2022,Norway
+1321294,Luxembourg,Bulgaria,male,2022,Luxembourg
+1321295,Czech Republic,Estonia,male,2022,Czech Republic
+1321296,Slovenia,Guernsey,male,2022,Guernsey
+1321298,Switzerland,Czech Republic,male,2022,Czech Republic
+1321299,Luxembourg,Slovenia,male,2022,Luxembourg
+1321301,Bulgaria,Czech Republic,male,2022,Czech Republic
+1321302,Guernsey,France,male,2022,Guernsey
+1321303,Luxembourg,Switzerland,male,2022,Luxembourg
+1321304,Norway,Austria,male,2022,Austria
+1321305,Luxembourg,Austria,male,2022,Austria
+1321306,Luxembourg,Czech Republic,male,2022,Czech Republic
+1321307,Czech Republic,Austria,male,2022,Austria
+1321308,Austria,Luxembourg,male,2022,Austria
+1321309,Czech Republic,Luxembourg,male,2022,Czech Republic
+1321310,Austria,Czech Republic,male,2022,Czech Republic
+1321311,Malaysia,Singapore,male,2022,Singapore
+1321312,Malaysia,Singapore,male,2022,Malaysia
+1321313,Singapore,Malaysia,male,2022,Malaysia
+1321335,Netherlands,Namibia,female,2022,Netherlands
+1321336,Namibia,Netherlands,female,2022,Netherlands
+1321337,Netherlands,Namibia,female,2022,Netherlands
+1321465,Zimbabwe,Singapore,male,2022,Zimbabwe
+1321466,Jersey,United States of America,male,2022,United States of America
+1321467,Netherlands,Papua New Guinea,male,2022,Netherlands
+1321468,Hong Kong,Uganda,male,2022,Uganda
+1321469,Zimbabwe,Jersey,male,2022,Zimbabwe
+1321470,United States of America,Singapore,male,2022,United States of America
+1321471,Hong Kong,Netherlands,male,2022,Netherlands
+1321472,Uganda,Papua New Guinea,male,2022,Papua New Guinea
+1321473,Netherlands,Uganda,male,2022,Netherlands
+1321474,Papua New Guinea,Hong Kong,male,2022,Hong Kong
+1321475,Zimbabwe,United States of America,male,2022,Zimbabwe
+1321477,Uganda,Jersey,male,2022,Uganda
+1321478,Singapore,Hong Kong,male,2022,Hong Kong
+1321479,Zimbabwe,Papua New Guinea,male,2022,Zimbabwe
+1321480,United States of America,Netherlands,male,2022,Netherlands
+1321481,Uganda,Hong Kong,male,2022,Uganda
+1321482,Singapore,Jersey,male,2022,Jersey
+1321483,Papua New Guinea,United States of America,male,2022,Papua New Guinea
+1321484,Zimbabwe,Netherlands,male,2022,Zimbabwe
+1321998,Malaysia,Bhutan,male,2022,Malaysia
+1322001,Thailand,Malaysia,male,2022,Malaysia
+1322002,Bhutan,Maldives,male,2022,Bhutan
+1322003,Thailand,Bhutan,male,2022,Bhutan
+1322004,Maldives,Malaysia,male,2022,Malaysia
+1322005,Bhutan,Maldives,male,2022,Bhutan
+1322006,Thailand,Malaysia,male,2022,Malaysia
+1322007,Maldives,Thailand,male,2022,Maldives
+1322009,Bhutan,Thailand,male,2022,Bhutan
+1322010,Bhutan,Malaysia,male,2022,Malaysia
+1322011,Singapore,Papua New Guinea,male,2022,Singapore
+1322012,Singapore,Papua New Guinea,male,2022,Papua New Guinea
+1322018,Singapore,Malaysia,female,2022,Malaysia
+1322019,Malaysia,Singapore,female,2022,Malaysia
+1322020,Malaysia,Singapore,female,2022,Malaysia
+1322176,Netherlands,Namibia,female,2022,Namibia
+1322276,India,New Zealand,male,2022/23,India
+1322334,Pakistan,Bangladesh,male,2022/23,Pakistan
+1322335,New Zealand,Pakistan,male,2022/23,Pakistan
+1322336,Bangladesh,New Zealand,male,2022/23,New Zealand
+1322337,Pakistan,New Zealand,male,2022/23,New Zealand
+1322338,New Zealand,Bangladesh,male,2022/23,New Zealand
+1322339,Bangladesh,Pakistan,male,2022/23,Pakistan
+1322340,New Zealand,Pakistan,male,2022/23,Pakistan
+1322363,Sri Lanka,New Zealand,male,2022/23,New Zealand
+1322364,Sri Lanka,New Zealand,male,2022/23,New Zealand
+1323295,Zimbabwe,Bangladesh,male,2022,Zimbabwe
+1323296,Zimbabwe,Bangladesh,male,2022,Bangladesh
+1323297,Zimbabwe,Bangladesh,male,2022,Zimbabwe
+1323550,Bulgaria,Serbia,male,2022,Serbia
+1323551,Bulgaria,Serbia,male,2022,Serbia
+1323552,Bulgaria,Serbia,male,2022,Bulgaria
+1327228,Pakistan,England,male,2022,England
+1327229,England,Pakistan,male,2022,Pakistan
+1327230,England,Pakistan,male,2022,England
+1327231,Pakistan,England,male,2022,Pakistan
+1327232,Pakistan,England,male,2022,Pakistan
+1327233,Pakistan,England,male,2022,England
+1327234,England,Pakistan,male,2022,England
+1327269,Sri Lanka,Afghanistan,male,2022,Afghanistan
+1327270,Pakistan,India,male,2022,India
+1327271,Bangladesh,Afghanistan,male,2022,Afghanistan
+1327272,India,Hong Kong,male,2022,India
+1327273,Bangladesh,Sri Lanka,male,2022,Sri Lanka
+1327274,Pakistan,Hong Kong,male,2022,Pakistan
+1327275,Afghanistan,Sri Lanka,male,2022,Sri Lanka
+1327276,India,Pakistan,male,2022,Pakistan
+1327277,India,Sri Lanka,male,2022,Sri Lanka
+1327278,Afghanistan,Pakistan,male,2022,Pakistan
+1327279,India,Afghanistan,male,2022,India
+1327280,Pakistan,Sri Lanka,male,2022,Sri Lanka
+1327281,Sri Lanka,Pakistan,male,2022,Sri Lanka
+1327503,India,Australia,male,2022,Australia
+1327504,Australia,India,male,2022,India
+1327505,Australia,India,male,2022,India
+1327506,South Africa,India,male,2022/23,India
+1327507,India,South Africa,male,2022/23,India
+1327508,South Africa,India,male,2022/23,South Africa
+1328470,Kuwait,Bahrain,male,2022,Kuwait
+1328471,Bahrain,Kuwait,male,2022,Kuwait
+1328473,Kuwait,Bahrain,male,2022,Kuwait
+1328474,Kenya,Nepal,male,2022,Nepal
+1328476,Kenya,Nepal,male,2022,Nepal
+1328477,Kenya,Nepal,male,2022,Kenya
+1328478,Nepal,Kenya,male,2022,Nepal
+1328849,Hong Kong,Singapore,male,2022,Hong Kong
+1328850,United Arab Emirates,Kuwait,male,2022,Kuwait
+1328851,United Arab Emirates,Singapore,male,2022,United Arab Emirates
+1328852,Kuwait,Hong Kong,male,2022,Hong Kong
+1328853,Singapore,Kuwait,male,2022,Kuwait
+1328854,United Arab Emirates,Hong Kong,male,2022,Hong Kong
+1329247,Zimbabwe,United Arab Emirates,female,2022,Zimbabwe
+1329250,United States of America,United Arab Emirates,female,2022,United States of America
+1330807,Scotland,Ireland,female,2022,Ireland
+1330808,Scotland,Ireland,female,2022,Ireland
+1331384,United Arab Emirates,Thailand,female,2022,Thailand
+1331385,Bangladesh,Ireland,female,2022,Bangladesh
+1331386,Papua New Guinea,Zimbabwe,female,2022,Zimbabwe
+1331387,Scotland,United States of America,female,2022,Scotland
+1331388,Thailand,Zimbabwe,female,2022,Zimbabwe
+1331389,Scotland,Bangladesh,female,2022,Bangladesh
+1331390,Papua New Guinea,United Arab Emirates,female,2022,Papua New Guinea
+1331391,United States of America,Ireland,female,2022,Ireland
+1331392,Bangladesh,United States of America,female,2022,Bangladesh
+1331394,Ireland,Scotland,female,2022,Ireland
+1331395,Zimbabwe,United Arab Emirates,female,2022,United Arab Emirates
+1331396,Ireland,Zimbabwe,female,2022,Ireland
+1331397,Scotland,United Arab Emirates,female,2022,Scotland
+1331398,Bangladesh,Thailand,female,2022,Bangladesh
+1331399,United States of America,Papua New Guinea,female,2022,Papua New Guinea
+1331400,Zimbabwe,Thailand,female,2022,Zimbabwe
+1331401,Bangladesh,Ireland,female,2022,Bangladesh
+1331402,United States of America,United Arab Emirates,female,2022,United Arab Emirates
+1331403,Scotland,Papua New Guinea,female,2022,Papua New Guinea
+1332496,Botswana,Uganda,male,2022,Uganda
+1332497,Kenya,Tanzania,male,2022,Tanzania
+1332498,Ghana,Mozambique,male,2022,Ghana
+1332501,Ghana,Uganda,male,2022,Uganda
+1332503,Uganda,Mozambique,male,2022,Uganda
+1332504,Botswana,Mozambique,male,2022,Botswana
+1332505,Tanzania,Malawi,male,2022,Tanzania
+1332506,Cameroon,Kenya,male,2022,Kenya
+1332507,Botswana,Ghana,male,2022,Botswana
+1332508,Kenya,Uganda,male,2022,Uganda
+1332509,Botswana,Tanzania,male,2022,Tanzania
+1332510,Tanzania,Uganda,male,2022,Uganda
+1333920,Cook Islands,Fiji,male,2022,Fiji
+1333921,Samoa,Vanuatu,male,2022,Vanuatu
+1333922,Vanuatu,Cook Islands,male,2022,Cook Islands
+1333923,Samoa,Fiji,male,2022,Fiji
+1333924,Samoa,Cook Islands,male,2022,Cook Islands
+1333925,Vanuatu,Fiji,male,2022,Vanuatu
+1333926,Samoa,Vanuatu,male,2022,Vanuatu
+1333927,Fiji,Cook Islands,male,2022,Cook Islands
+1333928,Fiji,Samoa,male,2022,Fiji
+1333929,Vanuatu,Cook Islands,male,2022,Vanuatu
+1333931,Japan,Indonesia,male,2022/23,Japan
+1333932,Japan,Indonesia,male,2022/23,Indonesia
+1334415,West Indies,New Zealand,female,2022,West Indies
+1334416,West Indies,New Zealand,female,2022,New Zealand
+1334417,West Indies,New Zealand,female,2022,New Zealand
+1334419,West Indies,New Zealand,female,2022,New Zealand
+1335785,Thailand,Bangladesh,female,2022/23,Bangladesh
+1335786,India,Sri Lanka,female,2022/23,India
+1335787,Malaysia,Pakistan,female,2022/23,Pakistan
+1335788,Sri Lanka,United Arab Emirates,female,2022/23,Sri Lanka
+1335789,Bangladesh,Pakistan,female,2022/23,Pakistan
+1335790,India,Malaysia,female,2022/23,India
+1335791,Sri Lanka,Thailand,female,2022/23,Sri Lanka
+1335792,India,United Arab Emirates,female,2022/23,India
+1335793,Malaysia,United Arab Emirates,female,2022/23,United Arab Emirates
+1335794,Pakistan,Thailand,female,2022/23,Thailand
+1335795,Bangladesh,Malaysia,female,2022/23,Bangladesh
+1335796,Thailand,United Arab Emirates,female,2022/23,Thailand
+1335797,Pakistan,India,female,2022/23,Pakistan
+1335798,Sri Lanka,Malaysia,female,2022/23,Sri Lanka
+1335799,India,Bangladesh,female,2022/23,India
+1335800,Thailand,Malaysia,female,2022/23,Thailand
+1335801,Pakistan,United Arab Emirates,female,2022/23,Pakistan
+1335802,Sri Lanka,Bangladesh,female,2022/23,Sri Lanka
+1335803,Thailand,India,female,2022/23,India
+1335805,Sri Lanka,Pakistan,female,2022/23,Pakistan
+1335806,India,Thailand,female,2022/23,India
+1335807,Sri Lanka,Pakistan,female,2022/23,Sri Lanka
+1335808,Sri Lanka,India,female,2022/23,India
+1336031,Bangladesh,United Arab Emirates,male,2022,Bangladesh
+1336032,Bangladesh,United Arab Emirates,male,2022,Bangladesh
+1336048,New Zealand,England,male,2023,England
+1336049,England,New Zealand,male,2023,England
+1336050,New Zealand,England,male,2023,New Zealand
+1336051,England,New Zealand,male,2023,New Zealand
+1336074,England,Australia,female,2023,Australia
+1336075,England,Australia,female,2023,England
+1336076,Australia,England,female,2023,England
+1336080,England,Sri Lanka,female,2023,England
+1336081,England,Sri Lanka,female,2023,Sri Lanka
+1336082,England,Sri Lanka,female,2023,Sri Lanka
+1336951,Indonesia,South Korea,male,2022/23,Indonesia
+1336952,Japan,South Korea,male,2022/23,Japan
+1336953,Indonesia,Japan,male,2022/23,Japan
+1336955,Japan,Indonesia,male,2022/23,Indonesia
+1336956,South Korea,Indonesia,male,2022/23,Indonesia
+1336979,Japan,Hong Kong,female,2022/23,Hong Kong
+1336980,Japan,Hong Kong,female,2022/23,Hong Kong
+1336981,Hong Kong,Japan,female,2022/23,Hong Kong
+1338040,Sri Lanka,South Africa,female,2022/23,Sri Lanka
+1338041,West Indies,England,female,2022/23,England
+1338042,Australia,New Zealand,female,2022/23,Australia
+1338043,Pakistan,India,female,2022/23,India
+1338044,Bangladesh,Sri Lanka,female,2022/23,Sri Lanka
+1338045,Ireland,England,female,2022/23,England
+1338046,South Africa,New Zealand,female,2022/23,South Africa
+1338047,Bangladesh,Australia,female,2022/23,Australia
+1338048,West Indies,India,female,2022/23,India
+1338049,Pakistan,Ireland,female,2022/23,Pakistan
+1338050,Sri Lanka,Australia,female,2022/23,Australia
+1338051,New Zealand,Bangladesh,female,2022/23,New Zealand
+1338052,Ireland,West Indies,female,2022/23,West Indies
+1338053,England,India,female,2022/23,England
+1338054,South Africa,Australia,female,2022/23,Australia
+1338055,West Indies,Pakistan,female,2022/23,West Indies
+1338056,New Zealand,Sri Lanka,female,2022/23,New Zealand
+1338057,India,Ireland,female,2022/23,India
+1338058,England,Pakistan,female,2022/23,England
+1338059,Bangladesh,South Africa,female,2022/23,South Africa
+1338060,Australia,India,female,2022/23,Australia
+1338061,South Africa,England,female,2022/23,South Africa
+1338062,Australia,South Africa,female,2022/23,Australia
+1339205,Italy,Germany,male,2022/23,Germany
+1339206,Italy,Germany,male,2022/23,Germany
+1339207,Italy,Spain,male,2022/23,Spain
+1339208,Germany,Spain,male,2022/23,Germany
+1339209,Spain,Germany,male,2022/23,Spain
+1339210,Italy,Spain,male,2022/23,Italy
+1339555,Spain,Norway,female,2022/23,Spain
+1339558,Spain,Sweden,female,2022/23,Spain
+1339604,South Africa,West Indies,male,2022/23,West Indies
+1339605,West Indies,South Africa,male,2022/23,South Africa
+1339606,West Indies,South Africa,male,2022/23,West Indies
+1339614,Pakistan,New Zealand,male,2023,Pakistan
+1339615,Pakistan,New Zealand,male,2023,Pakistan
+1339616,New Zealand,Pakistan,male,2023,New Zealand
+1339618,Pakistan,New Zealand,male,2023,New Zealand
+1343740,Botswana,Rwanda,male,2022/23,Rwanda
+1343741,Lesotho,Mali,male,2022/23,Lesotho
+1343744,Rwanda,St Helena,male,2022/23,Rwanda
+1343745,Lesotho,Botswana,male,2022/23,Botswana
+1343749,Mali,Kenya,male,2022/23,Kenya
+1343750,Rwanda,Kenya,male,2022/23,Kenya
+1343753,Kenya,Lesotho,male,2022/23,Kenya
+1343756,Mali,Botswana,male,2022/23,Botswana
+1343757,St Helena,Lesotho,male,2022/23,St Helena
+1343760,St Helena,Malawi,male,2022/23,Malawi
+1343761,Rwanda,Seychelles,male,2022/23,Rwanda
+1343762,Botswana,Kenya,male,2022/23,Kenya
+1343763,Mali,Rwanda,male,2022/23,Rwanda
+1343764,Seychelles,Kenya,male,2022/23,Kenya
+1343768,Sierra Leone,Tanzania,male,2022/23,Tanzania
+1343770,Mozambique,Nigeria,male,2022/23,Nigeria
+1343771,Gambia,Eswatini,male,2022/23,Eswatini
+1343772,Sierra Leone,Nigeria,male,2022/23,Nigeria
+1343773,Ghana,Mozambique,male,2022/23,Mozambique
+1343774,Cameroon,Sierra Leone,male,2022/23,Sierra Leone
+1343775,Eswatini,Mozambique,male,2022/23,Mozambique
+1343776,Cameroon,Mozambique,male,2022/23,Mozambique
+1343777,Nigeria,Eswatini,male,2022/23,Nigeria
+1343778,Ghana,Tanzania,male,2022/23,Tanzania
+1343780,Mozambique,Tanzania,male,2022/23,Tanzania
+1343781,Sierra Leone,Eswatini,male,2022/23,Sierra Leone
+1343782,Cameroon,Nigeria,male,2022/23,Nigeria
+1343783,Ghana,Sierra Leone,male,2022/23,Sierra Leone
+1343784,Tanzania,Eswatini,male,2022/23,Tanzania
+1343785,Gambia,Sierra Leone,male,2022/23,Sierra Leone
+1343786,Gambia,Tanzania,male,2022/23,Tanzania
+1343788,Ghana,Gambia,male,2022/23,Ghana
+1343791,Mozambique,Gambia,male,2022/23,Mozambique
+1343793,Gambia,Cameroon,male,2022/23,Gambia
+1343794,Ghana,Nigeria,male,2022/23,Nigeria
+1343795,Tanzania,Cameroon,male,2022/23,Tanzania
+1343934,West Indies,England,female,2022/23,England
+1343935,England,West Indies,female,2022/23,England
+1343936,England,West Indies,female,2022/23,England
+1343937,England,West Indies,female,2022/23,England
+1343938,West Indies,England,female,2022/23,England
+1344507,Netherlands,Thailand,female,2022/23,Thailand
+1344508,Thailand,Netherlands,female,2022/23,Netherlands
+1344509,Netherlands,Thailand,female,2022/23,Thailand
+1344510,Thailand,Netherlands,female,2022/23,Thailand
+1344511,India,South Africa,female,2022/23,India
+1344512,South Africa,West Indies,female,2022/23,South Africa
+1344513,India,West Indies,female,2022/23,India
+1344514,West Indies,South Africa,female,2022/23,South Africa
+1344516,West Indies,India,female,2022/23,India
+1344517,India,South Africa,female,2022/23,South Africa
+1344619,New Zealand,Bangladesh,female,2022/23,New Zealand
+1344620,New Zealand,Bangladesh,female,2022/23,New Zealand
+1344621,New Zealand,Bangladesh,female,2022/23,New Zealand
+1344782,Saudi Arabia,Oman,male,2022/23,Oman
+1344783,Bahrain,Canada,male,2022/23,Canada
+1344784,Canada,Saudi Arabia,male,2022/23,Canada
+1344785,Oman,Bahrain,male,2022/23,Bahrain
+1344786,Bahrain,Saudi Arabia,male,2022/23,Bahrain
+1344787,Canada,Oman,male,2022/23,Canada
+1344788,Saudi Arabia,Oman,male,2022/23,Oman
+1344789,Canada,Bahrain,male,2022/23,Bahrain
+1344790,Canada,Saudi Arabia,male,2022/23,Canada
+1344791,Oman,Bahrain,male,2022/23,Oman
+1344792,Oman,Canada,male,2022/23,Canada
+1344793,Bahrain,Saudi Arabia,male,2022/23,Saudi Arabia
+1344794,Saudi Arabia,Bahrain,male,2022/23,Saudi Arabia
+1344795,Oman,Canada,male,2022/23,Canada
+1345095,Pakistan,Australia,female,2022/23,Australia
+1345096,Pakistan,Australia,female,2022/23,Australia
+1345424,India,Australia,female,2022/23,Australia
+1345426,Australia,India,female,2022/23,Australia
+1345427,Australia,India,female,2022/23,Australia
+1345428,Australia,India,female,2022/23,Australia
+1346539,Qatar,Kenya,female,2022/23,Kenya
+1346543,Kenya,Uganda,female,2022/23,Uganda
+1346545,Tanzania,Kenya,female,2022/23,Kenya
+1348323,Ireland,Zimbabwe,male,2022/23,Zimbabwe
+1348324,Zimbabwe,Ireland,male,2022/23,Ireland
+1348325,Ireland,Zimbabwe,male,2022/23,Zimbabwe
+1348640,India,Sri Lanka,male,2022/23,India
+1348641,Sri Lanka,India,male,2022/23,Sri Lanka
+1348642,India,Sri Lanka,male,2022/23,India
+1348649,New Zealand,India,male,2022/23,New Zealand
+1348650,New Zealand,India,male,2022/23,India
+1348651,India,New Zealand,male,2022/23,India
+1349124,Tanzania,Rwanda,male,2022/23,Tanzania
+1349126,Uganda,Rwanda,male,2022/23,Uganda
+1349128,Uganda,Rwanda,male,2022/23,Uganda
+1349129,Uganda,Tanzania,male,2022/23,Uganda
+1349131,Rwanda,Tanzania,male,2022/23,Rwanda
+1349132,Uganda,Tanzania,male,2022/23,Uganda
+1349133,Rwanda,Tanzania,male,2022/23,Tanzania
+1349134,Uganda,Tanzania,male,2022/23,Tanzania
+1349136,Tanzania,Rwanda,male,2022/23,Tanzania
+1349137,Rwanda,Uganda,male,2022/23,Uganda
+1349138,Tanzania,Rwanda,male,2022/23,Tanzania
+1349139,Uganda,Tanzania,male,2022/23,Uganda
+1349140,Uganda,Rwanda,male,2022/23,Uganda
+1349150,Tanzania,Qatar,female,2022/23,Tanzania
+1349151,Tanzania,Qatar,female,2022/23,Tanzania
+1349152,Kenya,Uganda,female,2022/23,Uganda
+1349379,Singapore,Qatar,male,2022/23,Qatar
+1349380,Qatar,Malaysia,male,2022/23,Malaysia
+1349382,Bahrain,Qatar,male,2022/23,Bahrain
+1349383,Malaysia,Singapore,male,2022/23,Malaysia
+1349384,Singapore,Qatar,male,2022/23,Qatar
+1349385,Bahrain,Malaysia,male,2022/23,Malaysia
+1349386,Singapore,Bahrain,male,2022/23,Bahrain
+1349388,Malaysia,Singapore,male,2022/23,Malaysia
+1349390,Singapore,Qatar,male,2022/23,Qatar
+1349391,Malaysia,Bahrain,male,2022/23,Bahrain
+1351400,England,Bangladesh,male,2022/23,Bangladesh
+1351401,England,Bangladesh,male,2022/23,Bangladesh
+1351402,Bangladesh,England,male,2022/23,Bangladesh
+1354800,Isle of Man,Spain,male,2022/23,Spain
+1354801,Isle of Man,Spain,male,2022/23,Spain
+1354802,Isle of Man,Spain,male,2022/23,Spain
+1354803,Isle of Man,Spain,male,2022/23,Spain
+1355720,Bangladesh,Ireland,male,2022/23,Bangladesh
+1355721,Bangladesh,Ireland,male,2022/23,Bangladesh
+1355722,Bangladesh,Ireland,male,2022/23,Ireland
+1355838,Singapore,Cambodia,female,2022/23,Singapore
+1355839,Cambodia,Singapore,female,2022/23,Singapore
+1355840,Cambodia,Singapore,female,2022/23,Singapore
+1355841,Cambodia,Singapore,female,2022/23,Singapore
+1357694,United Arab Emirates,Afghanistan,male,2022/23,Afghanistan
+1357695,Afghanistan,United Arab Emirates,male,2022/23,United Arab Emirates
+1357696,United Arab Emirates,Afghanistan,male,2022/23,Afghanistan
+1359786,Argentina,Bermuda,male,2022/23,Bermuda
+1359787,Bermuda,Argentina,male,2022/23,Bermuda
+1359788,Cayman Islands,Bahamas,male,2022/23,Cayman Islands
+1359789,Bermuda,Panama,male,2022/23,Bermuda
+1359792,Panama,Bahamas,male,2022/23,Bahamas
+1359793,Bermuda,Argentina,male,2022/23,Bermuda
+1359794,Panama,Argentina,male,2022/23,Panama
+1359795,Bermuda,Cayman Islands,male,2022/23,Bermuda
+1359798,Argentina,Bahamas,male,2022/23,Argentina
+1359799,Cayman Islands,Panama,male,2022/23,Cayman Islands
+1359800,Bahamas,Bermuda,male,2022/23,Bermuda
+1359802,Argentina,Cayman Islands,male,2022/23,Cayman Islands
+1361770,Kuwait,Malaysia,male,2022/23,Malaysia
+1361771,Hong Kong,Bahrain,male,2022/23,Hong Kong
+1361772,Malaysia,Bahrain,male,2022/23,Malaysia
+1361773,Hong Kong,Kuwait,male,2022/23,Hong Kong
+1361774,Kuwait,Bahrain,male,2022/23,Bahrain
+1361775,Malaysia,Hong Kong,male,2022/23,Hong Kong
+1361776,Bahrain,Kuwait,male,2022/23,Kuwait
+1362242,Hong Kong,Malaysia,male,2022/23,Hong Kong
+1362815,Pakistan,Afghanistan,male,2022/23,Afghanistan
+1362816,Pakistan,Afghanistan,male,2022/23,Afghanistan
+1362817,Pakistan,Afghanistan,male,2022/23,Pakistan
+1365310,Rwanda,Ghana,female,2022/23,Rwanda
+1365321,Zimbabwe,Thailand,female,2023,Zimbabwe
+1365322,Zimbabwe,Thailand,female,2023,Thailand
+1365323,Zimbabwe,Thailand,female,2023,Thailand
+1367722,Portugal,Gibraltar,male,2023,Portugal
+1367723,Gibraltar,Portugal,male,2023,Portugal
+1367724,Gibraltar,Portugal,male,2023,Portugal
+1367725,Gibraltar,Portugal,male,2023,Portugal
+1367726,Portugal,Malta,male,2023,Portugal
+1367727,Gibraltar,Malta,male,2023,Gibraltar
+1367728,Gibraltar,Portugal,male,2023,Portugal
+1367729,Portugal,Malta,male,2023,Portugal
+1367730,Gibraltar,Malta,male,2023,Gibraltar
+1367731,Malta,Gibraltar,male,2023,Malta
+1367732,Gibraltar,Portugal,male,2023,Portugal
+1367733,Malta,Portugal,male,2023,Portugal
+1370782,Norway,Denmark,male,2023,Denmark
+1370783,Denmark,Finland,male,2023,Denmark
+1370785,Denmark,Sweden,male,2023,Sweden
+1370787,Finland,Denmark,male,2023,Denmark
+1370790,Finland,Norway,male,2023,Norway
+1370902,United Arab Emirates,Uganda,female,2023,United Arab Emirates
+1370903,Namibia,Hong Kong,female,2023,Namibia
+1370904,United Arab Emirates,Hong Kong,female,2023,Hong Kong
+1370905,Hong Kong,Uganda,female,2023,Uganda
+1370906,United Arab Emirates,Namibia,female,2023,Namibia
+1370908,Namibia,Uganda,female,2023,Namibia
+1370910,Namibia,United Arab Emirates,female,2023,Namibia
+1370911,United Arab Emirates,Hong Kong,female,2023,United Arab Emirates
+1370912,Namibia,Uganda,female,2023,Uganda
+1370914,Uganda,Namibia,female,2023,Uganda
+1371604,Sri Lanka,Bangladesh,female,2023,Bangladesh
+1371605,Bangladesh,Sri Lanka,female,2023,Sri Lanka
+1371606,Sri Lanka,Bangladesh,female,2023,Sri Lanka
+1373568,Australia,South Africa,male,2023/24,Australia
+1373569,South Africa,Australia,male,2023/24,Australia
+1373570,South Africa,Australia,male,2023/24,Australia
+1373579,England,West Indies,male,2023/24,West Indies
+1373580,West Indies,England,male,2023/24,West Indies
+1373581,West Indies,England,male,2023/24,England
+1373582,England,West Indies,male,2023/24,England
+1373583,England,West Indies,male,2023/24,West Indies
+1375850,Australia,West Indies,male,2023/24,Australia
+1375851,Australia,West Indies,male,2023/24,Australia
+1375852,West Indies,Australia,male,2023/24,West Indies
+1375863,West Indies,Australia,female,2023/24,Australia
+1375864,Australia,West Indies,female,2023/24,West Indies
+1375865,Australia,West Indies,female,2023/24,Australia
+1375869,South Africa,Australia,female,2023/24,Australia
+1375870,Australia,South Africa,female,2023/24,South Africa
+1375871,South Africa,Australia,female,2023/24,Australia
+1376121,Nepal,Malaysia,female,2023,Malaysia
+1376122,Malaysia,Nepal,female,2023,Nepal
+1376123,Nepal,Malaysia,female,2023,Nepal
+1376124,Nepal,Malaysia,female,2023,Malaysia
+1376125,Malaysia,Nepal,female,2023,Nepal
+1377015,Afghanistan,Bangladesh,male,2023,Bangladesh
+1377016,Afghanistan,Bangladesh,male,2023,Bangladesh
+1377727,New Zealand,United Arab Emirates,male,2023,New Zealand
+1377728,New Zealand,United Arab Emirates,male,2023,United Arab Emirates
+1377729,New Zealand,United Arab Emirates,male,2023,New Zealand
+1378006,Italy,Jersey,female,2023,Jersey
+1378007,Turkey,Sweden,female,2023,Sweden
+1378008,France,Italy,female,2023,Italy
+1378010,Jersey,Germany,female,2023,Germany
+1378011,France,Sweden,female,2023,France
+1378012,Turkey,Jersey,female,2023,Jersey
+1378014,Germany,Italy,female,2023,Italy
+1378015,France,Turkey,female,2023,France
+1378016,Sweden,Germany,female,2023,Germany
+1378017,France,Jersey,female,2023,France
+1378018,Italy,Turkey,female,2023,Italy
+1378019,Jersey,Sweden,female,2023,Jersey
+1378020,France,Germany,female,2023,France
+1378194,Ireland,West Indies,female,2023,West Indies
+1378195,Ireland,West Indies,female,2023,West Indies
+1378196,Ireland,West Indies,female,2023,West Indies
+1378200,Netherlands,Ireland,female,2023,Ireland
+1378201,Ireland,Netherlands,female,2023,Ireland
+1378202,Netherlands,Ireland,female,2023,Ireland
+1379575,Botswana,Uganda,male,2023,Uganda
+1379576,Rwanda,Kenya,male,2023,Kenya
+1379577,Kenya,Uganda,male,2023,Kenya
+1379578,Rwanda,Uganda,male,2023,Uganda
+1379579,Botswana,Rwanda,male,2023,Rwanda
+1379580,Botswana,Kenya,male,2023,Kenya
+1379581,Kenya,Uganda,male,2023,Uganda
+1379582,Rwanda,Kenya,male,2023,Kenya
+1379583,Uganda,Botswana,male,2023,Uganda
+1379584,Rwanda,Uganda,male,2023,Uganda
+1379585,Botswana,Kenya,male,2023,Kenya
+1379586,Rwanda,Botswana,male,2023,Rwanda
+1379587,Uganda,Rwanda,male,2023,Uganda
+1379589,Uganda,Kenya,male,2023,Uganda
+1379590,Botswana,Kenya,male,2023,Botswana
+1379592,Uganda,Kenya,male,2023,Uganda
+1379695,Malaysia,United Arab Emirates,female,2023,United Arab Emirates
+1379760,Sri Lanka,New Zealand,female,2023,New Zealand
+1379761,Sri Lanka,New Zealand,female,2023,New Zealand
+1379762,New Zealand,Sri Lanka,female,2023,Sri Lanka
+1380583,Belgium,Germany,male,2023,Germany
+1380584,Belgium,Germany,male,2023,Germany
+1380587,Hungary,Czech Republic,male,2023,Czech Republic
+1381217,West Indies,India,male,2023,West Indies
+1381218,India,West Indies,male,2023,West Indies
+1381219,West Indies,India,male,2023,India
+1381220,West Indies,India,male,2023,India
+1381221,India,West Indies,male,2023,West Indies
+1381451,Austria,Germany,male,2023,Germany
+1381452,Austria,Germany,male,2023,Germany
+1381453,Serbia,Turkey,male,2023,Serbia
+1381454,Croatia,Bulgaria,male,2023,Bulgaria
+1381455,Bulgaria,Serbia,male,2023,Serbia
+1381456,Croatia,Turkey,male,2023,Turkey
+1381457,Croatia,Serbia,male,2023,Serbia
+1381458,Turkey,Bulgaria,male,2023,Bulgaria
+1382160,South Africa,Pakistan,female,2023,Pakistan
+1382161,South Africa,Pakistan,female,2023,Pakistan
+1382162,Pakistan,South Africa,female,2023,Pakistan
+1382163,Bangladesh,India,female,2023,India
+1382164,India,Bangladesh,female,2023,India
+1382165,India,Bangladesh,female,2023,Bangladesh
+1383068,Austria,Jersey,male,2023,Jersey
+1383069,Ireland,Italy,male,2023,Ireland
+1383070,Scotland,Germany,male,2023,Scotland
+1383071,Denmark,Ireland,male,2023,Ireland
+1383072,Austria,Germany,male,2023,Germany
+1383073,Scotland,Jersey,male,2023,Scotland
+1383074,Ireland,Austria,male,2023,Ireland
+1383075,Italy,Jersey,male,2023,Italy
+1383076,Denmark,Germany,male,2023,Germany
+1383077,Scotland,Italy,male,2023,Scotland
+1383078,Austria,Denmark,male,2023,Denmark
+1383079,Jersey,Ireland,male,2023,Ireland
+1383080,Italy,Denmark,male,2023,Italy
+1383081,Scotland,Austria,male,2023,Scotland
+1383082,Jersey,Germany,male,2023,Jersey
+1383083,Scotland,Denmark,male,2023,Scotland
+1383086,Germany,Italy,male,2023,Italy
+1383087,Jersey,Denmark,male,2023,Jersey
+1383088,Scotland,Ireland,male,2023,Scotland
+1383089,Japan,Philippines,male,2023,Japan
+1383090,Vanuatu,Papua New Guinea,male,2023,Papua New Guinea
+1383091,Japan,Vanuatu,male,2023,Japan
+1383093,Vanuatu,Philippines,male,2023,Philippines
+1383094,Japan,Papua New Guinea,male,2023,Papua New Guinea
+1383095,Papua New Guinea,Vanuatu,male,2023,Papua New Guinea
+1383096,Japan,Philippines,male,2023,Japan
+1383097,Japan,Vanuatu,male,2023,Vanuatu
+1383098,Papua New Guinea,Philippines,male,2023,Papua New Guinea
+1383099,Philippines,Vanuatu,male,2023,Vanuatu
+1383100,Japan,Papua New Guinea,male,2023,Papua New Guinea
+1383101,China,Malaysia,male,2023,Malaysia
+1383102,Bhutan,Myanmar,male,2023,Bhutan
+1383103,China,Thailand,male,2023,Thailand
+1383104,Malaysia,Bhutan,male,2023,Malaysia
+1383105,Thailand,Myanmar,male,2023,Thailand
+1383106,Bhutan,China,male,2023,Bhutan
+1383107,Malaysia,Myanmar,male,2023,Malaysia
+1383108,Bhutan,Thailand,male,2023,Thailand
+1383109,Myanmar,China,male,2023,China
+1383110,Thailand,Malaysia,male,2023,Malaysia
+1384545,Scotland,Thailand,female,2023,Thailand
+1384546,Thailand,Netherlands,female,2023,Netherlands
+1384547,Scotland,Netherlands,female,2023,Scotland
+1384548,Thailand,Scotland,female,2023,Scotland
+1384549,Netherlands,Thailand,female,2023,Thailand
+1384550,Scotland,Netherlands,female,2023,Netherlands
+1384582,France,Malta,male,2023,France
+1384583,Malta,France,male,2023,Malta
+1384584,Malta,Luxembourg,male,2023,Malta
+1384585,France,Luxembourg,male,2023,France
+1384586,Malta,Luxembourg,male,2023,Luxembourg
+1384587,Luxembourg,France,male,2023,France
+1384588,France,Malta,male,2023,France
+1384589,Luxembourg,Malta,male,2023,Malta
+1384590,Romania,Switzerland,male,2023,Switzerland
+1384591,France,Romania,male,2023,France
+1384592,Luxembourg,Switzerland,male,2023,Switzerland
+1384593,Malta,Romania,male,2023,Malta
+1384594,France,Switzerland,male,2023,Switzerland
+1384595,Romania,Luxembourg,male,2023,Luxembourg
+1384596,Malta,Switzerland,male,2023,Switzerland
+1384597,France,Luxembourg,male,2023,Luxembourg
+1384598,France,Malta,male,2023,Malta
+1384599,Luxembourg,Romania,male,2023,Romania
+1384600,Malta,Switzerland,male,2023,Switzerland
+1384634,Ireland,India,male,2023,India
+1384637,India,Ireland,male,2023,India
+1385688,England,Pakistan,male,2024,England
+1385690,Pakistan,England,male,2024,England
+1385697,Australia,England,male,2024,Australia
+1385698,Australia,England,male,2024,England
+1387243,Guernsey,Germany,male,2023,Germany
+1387244,Germany,Guernsey,male,2023,Guernsey
+1387245,Guernsey,Germany,male,2023,Guernsey
+1387598,India,South Africa,male,2023/24,South Africa
+1387599,India,South Africa,male,2023/24,India
+1387944,Greece,Isle of Man,female,2023,Isle of Man
+1387945,Malta,Greece,female,2023,Greece
+1387946,Romania,Isle of Man,female,2023,Isle of Man
+1387947,Greece,Romania,female,2023,Greece
+1387948,Malta,Isle of Man,female,2023,Isle of Man
+1387949,Romania,Malta,female,2023,Romania
+1387951,Greece,Isle of Man,female,2023,Isle of Man
+1388196,New Zealand,Pakistan,female,2023/24,Pakistan
+1388197,Pakistan,New Zealand,female,2023/24,Pakistan
+1388198,Pakistan,New Zealand,female,2023/24,New Zealand
+1388202,England,New Zealand,female,2023/24,England
+1388203,England,New Zealand,female,2023/24,England
+1388204,New Zealand,England,female,2023/24,New Zealand
+1388205,England,New Zealand,female,2023/24,England
+1388206,New Zealand,England,female,2023/24,England
+1388213,New Zealand,Bangladesh,male,2023/24,Bangladesh
+1388215,Bangladesh,New Zealand,male,2023/24,New Zealand
+1388216,New Zealand,Pakistan,male,2023/24,New Zealand
+1388217,New Zealand,Pakistan,male,2023/24,New Zealand
+1388218,New Zealand,Pakistan,male,2023/24,New Zealand
+1388219,Pakistan,New Zealand,male,2023/24,New Zealand
+1388220,Pakistan,New Zealand,male,2023/24,Pakistan
+1388223,New Zealand,Australia,male,2023/24,Australia
+1388224,Australia,New Zealand,male,2023/24,Australia
+1388225,Australia,New Zealand,male,2023/24,Australia
+1389391,Australia,India,male,2023/24,India
+1389392,India,Australia,male,2023/24,India
+1389393,India,Australia,male,2023/24,Australia
+1389394,India,Australia,male,2023/24,India
+1389395,India,Australia,male,2023/24,India
+1389396,Afghanistan,India,male,2023/24,India
+1389397,Afghanistan,India,male,2023/24,India
+1390167,Hungary,Croatia,male,2023,Hungary
+1390169,Croatia,Hungary,male,2023,Hungary
+1391332,Romania,Malta,male,2023,Malta
+1391333,Romania,Malta,male,2023,Malta
+1391335,Malta,Romania,male,2023,Romania
+1391336,Malta,Romania,male,2023,Romania
+1391337,Romania,Malta,male,2023,Romania
+1391338,Estonia,Gibraltar,male,2023,Gibraltar
+1391339,Gibraltar,Estonia,male,2023,Estonia
+1391650,Singapore,Myanmar,female,2023,Myanmar
+1391651,Singapore,Myanmar,female,2023,Myanmar
+1391652,Singapore,Myanmar,female,2023,Myanmar
+1391655,Denmark,Sweden,female,2023,Sweden
+1391658,Denmark,Sweden,female,2023,Sweden
+1391707,Netherlands,Jersey,female,2023,Netherlands
+1391708,Netherlands,Jersey,female,2023,Netherlands
+1392354,South Africa,New Zealand,female,2023/24,New Zealand
+1392355,South Africa,New Zealand,female,2023/24,South Africa
+1392802,Saudi Arabia,Kuwait,male,2023,Kuwait
+1392803,Qatar,Bahrain,male,2023,Qatar
+1392805,Bahrain,Kuwait,male,2023,Kuwait
+1392808,Qatar,Kuwait,male,2023,Qatar
+1392809,Saudi Arabia,Bahrain,male,2023,Bahrain
+1392811,Bahrain,Oman,male,2023,Bahrain
+1392812,United Arab Emirates,Qatar,male,2023,United Arab Emirates
+1393309,Uganda,Rwanda,male,2023,Uganda
+1393310,Tanzania,Uganda,male,2023,Uganda
+1393311,Uganda,Tanzania,male,2023,Tanzania
+1393312,Uganda,Rwanda,male,2023,Uganda
+1393313,Uganda,Rwanda,male,2023,Uganda
+1393314,Uganda,Tanzania,male,2023,Uganda
+1393315,Rwanda,Tanzania,male,2023,Tanzania
+1393316,Rwanda,Uganda,male,2023,Uganda
+1393317,Uganda,Tanzania,male,2023,Uganda
+1393318,Rwanda,Uganda,male,2023,Uganda
+1393319,Uganda,Tanzania,male,2023,Uganda
+1393320,Rwanda,Uganda,male,2023,Uganda
+1393328,Rwanda,Tanzania,male,2023,Tanzania
+1393329,Uganda,Tanzania,male,2023,Uganda
+1393330,Tanzania,Rwanda,male,2023,Tanzania
+1393331,Tanzania,Rwanda,male,2023,Tanzania
+1393332,Tanzania,Rwanda,male,2023,Tanzania
+1393590,Kuwait,Malaysia,female,2023,Malaysia
+1393591,Hong Kong,Nepal,female,2023,Nepal
+1393592,Malaysia,Hong Kong,female,2023,Hong Kong
+1393593,Nepal,Kuwait,female,2023,Nepal
+1393594,Hong Kong,Kuwait,female,2023,Hong Kong
+1393595,Nepal,Malaysia,female,2023,Malaysia
+1393597,Hong Kong,Nepal,female,2023,Nepal
+1393876,Japan,Vanuatu,female,2023,Vanuatu
+1393877,Vanuatu,Japan,female,2023,Vanuatu
+1394751,Nepal,Malaysia,female,2023,Nepal
+1394752,Qatar,Bahrain,female,2023,Bahrain
+1394753,Bhutan,United Arab Emirates,female,2023,United Arab Emirates
+1394754,Kuwait,China,female,2023,Kuwait
+1394755,Myanmar,Hong Kong,female,2023,Hong Kong
+1394757,China,Hong Kong,female,2023,Hong Kong
+1394758,Qatar,Bhutan,female,2023,Bhutan
+1394759,Malaysia,United Arab Emirates,female,2023,United Arab Emirates
+1394760,Bahrain,Nepal,female,2023,Nepal
+1394761,Malaysia,Bahrain,female,2023,Malaysia
+1394762,Bhutan,Nepal,female,2023,Nepal
+1394763,United Arab Emirates,Qatar,female,2023,United Arab Emirates
+1394764,Kuwait,Hong Kong,female,2023,Hong Kong
+1394765,China,Thailand,female,2023,Thailand
+1394766,United Arab Emirates,Bahrain,female,2023,United Arab Emirates
+1394767,Qatar,Nepal,female,2023,Nepal
+1394768,Bhutan,Malaysia,female,2023,Malaysia
+1394769,Myanmar,China,female,2023,China
+1394774,Kuwait,Myanmar,female,2023,Kuwait
+1394775,Thailand,Hong Kong,female,2023,Thailand
+1394776,United Arab Emirates,Hong Kong,female,2023,United Arab Emirates
+1394777,Thailand,Nepal,female,2023,Thailand
+1394778,United Arab Emirates,Thailand,female,2023,United Arab Emirates
+1394792,Japan,Cook Islands,female,2023,Japan
+1394794,Papua New Guinea,Vanuatu,female,2023,Vanuatu
+1394795,Fiji,Samoa,female,2023,Fiji
+1394796,Papua New Guinea,Cook Islands,female,2023,Papua New Guinea
+1394797,Vanuatu,Indonesia,female,2023,Vanuatu
+1394798,Japan,Samoa,female,2023,Japan
+1394799,Samoa,Papua New Guinea,female,2023,Papua New Guinea
+1394800,Cook Islands,Vanuatu,female,2023,Vanuatu
+1394801,Indonesia,Cook Islands,female,2023,Indonesia
+1394802,Fiji,Japan,female,2023,Japan
+1394805,Samoa,Indonesia,female,2023,Indonesia
+1394806,Japan,Indonesia,female,2023,Indonesia
+1394807,Fiji,Papua New Guinea,female,2023,Papua New Guinea
+1394809,Samoa,Vanuatu,female,2023,Vanuatu
+1394810,Fiji,Cook Islands,female,2023,Cook Islands
+1394811,Papua New Guinea,Indonesia,female,2023,Papua New Guinea
+1394917,Kenya,Botswana,female,2023,Kenya
+1394918,Malawi,Lesotho,female,2023,Malawi
+1394919,Mozambique,Eswatini,female,2023,Mozambique
+1394920,Cameroon,Sierra Leone,female,2023,Sierra Leone
+1394921,Malawi,Kenya,female,2023,Kenya
+1394922,Botswana,Lesotho,female,2023,Botswana
+1394923,Mozambique,Sierra Leone,female,2023,Sierra Leone
+1394924,Cameroon,Eswatini,female,2023,Cameroon
+1394925,Cameroon,Mozambique,female,2023,Cameroon
+1394926,Sierra Leone,Eswatini,female,2023,Sierra Leone
+1394927,Botswana,Malawi,female,2023,Botswana
+1394928,Kenya,Lesotho,female,2023,Kenya
+1394929,Botswana,Sierra Leone,female,2023,Botswana
+1394930,Kenya,Cameroon,female,2023,Kenya
+1394931,Cameroon,Sierra Leone,female,2023,Sierra Leone
+1394932,Botswana,Kenya,female,2023,Kenya
+1395007,United States of America,Argentina,female,2023,United States of America
+1395008,Canada,Brazil,female,2023,Canada
+1395009,United States of America,Brazil,female,2023,United States of America
+1395010,Canada,Argentina,female,2023,Canada
+1395011,United States of America,Canada,female,2023,United States of America
+1395012,Brazil,Argentina,female,2023,Brazil
+1395013,Canada,Brazil,female,2023,Canada
+1395014,United States of America,Argentina,female,2023,United States of America
+1395015,Canada,Argentina,female,2023,Canada
+1395016,Brazil,United States of America,female,2023,United States of America
+1395017,Argentina,Brazil,female,2023,Brazil
+1395018,United States of America,Canada,female,2023,United States of America
+1395026,France,Netherlands,female,2023,Netherlands
+1395028,Netherlands,Scotland,female,2023,Netherlands
+1395029,Italy,France,female,2023,Italy
+1395030,Italy,Netherlands,female,2023,Netherlands
+1395031,France,Scotland,female,2023,Scotland
+1395032,Scotland,Italy,female,2023,Scotland
+1395033,France,Netherlands,female,2023,Netherlands
+1395035,Scotland,Netherlands,female,2023,Scotland
+1395036,Scotland,France,female,2023,Scotland
+1395037,Italy,Netherlands,female,2023,Netherlands
+1397437,Bahrain,United Arab Emirates,male,2023,Bahrain
+1397438,Oman,Kuwait,male,2023,Oman
+1397439,United Arab Emirates,Oman,male,2023,Oman
+1398254,Bangladesh,South Africa,female,2023/24,Bangladesh
+1398256,Bangladesh,South Africa,female,2023/24,South Africa
+1398261,South Africa,Sri Lanka,female,2023/24,South Africa
+1398262,South Africa,Sri Lanka,female,2023/24,Sri Lanka
+1398263,South Africa,Sri Lanka,female,2023/24,Sri Lanka
+1398268,England,Pakistan,female,2024,England
+1398269,England,Pakistan,female,2024,England
+1398270,England,Pakistan,female,2024,England
+1398277,England,New Zealand,female,2024,England
+1398278,England,New Zealand,female,2024,England
+1398279,New Zealand,England,female,2024,England
+1398280,New Zealand,England,female,2024,England
+1398281,England,New Zealand,female,2024,England
+1398295,Malaysia,Hong Kong,male,2023,Malaysia
+1398296,Malaysia,Papua New Guinea,male,2023,Papua New Guinea
+1398298,Malaysia,Hong Kong,male,2023,Malaysia
+1398299,Malaysia,Papua New Guinea,male,2023,Papua New Guinea
+1398300,Hong Kong,Papua New Guinea,male,2023,Papua New Guinea
+1399057,Thailand,Sri Lanka,female,2023,Sri Lanka
+1399059,Bangladesh,India,female,2023,India
+1399060,Pakistan,Sri Lanka,female,2023,Sri Lanka
+1399061,Pakistan,Bangladesh,female,2023,Bangladesh
+1399062,India,Sri Lanka,female,2023,India
+1399104,Nepal,Mongolia,male,2023,Nepal
+1399113,India,Nepal,male,2023,India
+1399114,Pakistan,Hong Kong,male,2023,Pakistan
+1399115,Afghanistan,Sri Lanka,male,2023,Afghanistan
+1399116,Bangladesh,Malaysia,male,2023,Bangladesh
+1399117,Bangladesh,India,male,2023,India
+1399118,Pakistan,Afghanistan,male,2023,Afghanistan
+1399119,Pakistan,Bangladesh,male,2023,Bangladesh
+1399138,Qatar,Kuwait,male,2023/24,Kuwait
+1399140,Maldives,Kuwait,male,2023/24,Kuwait
+1399142,Maldives,Qatar,male,2023/24,Qatar
+1399143,Kuwait,Saudi Arabia,male,2023/24,Saudi Arabia
+1399144,Qatar,Kuwait,male,2023/24,Kuwait
+1399145,Maldives,Saudi Arabia,male,2023/24,Saudi Arabia
+1399146,Maldives,Kuwait,male,2023/24,Kuwait
+1399148,Qatar,Maldives,male,2023/24,Qatar
+1399149,Saudi Arabia,Kuwait,male,2023/24,Kuwait
+1399150,Bermuda,Canada,male,2023/24,Bermuda
+1399151,Panama,Cayman Islands,male,2023/24,Cayman Islands
+1399152,Panama,Bermuda,male,2023/24,Bermuda
+1399153,Canada,Cayman Islands,male,2023/24,Canada
+1399154,Canada,Panama,male,2023/24,Canada
+1399155,Bermuda,Cayman Islands,male,2023/24,Bermuda
+1399156,Canada,Cayman Islands,male,2023/24,Canada
+1399157,Panama,Bermuda,male,2023/24,Bermuda
+1399161,Canada,Bermuda,male,2023/24,Canada
+1400036,United Arab Emirates,Namibia,female,2023/24,United Arab Emirates
+1400037,United Arab Emirates,Namibia,female,2023/24,Namibia
+1400038,United Arab Emirates,Namibia,female,2023/24,Namibia
+1400039,Namibia,United Arab Emirates,female,2023/24,Namibia
+1400040,United Arab Emirates,Namibia,female,2023/24,Namibia
+1400041,Namibia,United Arab Emirates,female,2023/24,United Arab Emirates
+1400053,Serbia,Gibraltar,male,2023/24,Gibraltar
+1400054,Serbia,Gibraltar,male,2023/24,Gibraltar
+1400055,Gibraltar,Luxembourg,male,2023/24,Gibraltar
+1400056,Luxembourg,Gibraltar,male,2023/24,Luxembourg
+1400972,Nigeria,Rwanda,male,2023/24,Nigeria
+1400973,Sierra Leone,Ghana,male,2023/24,Ghana
+1400974,Nigeria,Sierra Leone,male,2023/24,Nigeria
+1400976,Nigeria,Ghana,male,2023/24,Nigeria
+1400977,Rwanda,Sierra Leone,male,2023/24,Rwanda
+1400978,Rwanda,Nigeria,male,2023/24,Nigeria
+1400980,Sierra Leone,Nigeria,male,2023/24,Nigeria
+1400981,Rwanda,Ghana,male,2023/24,Rwanda
+1400982,Nigeria,Ghana,male,2023/24,Nigeria
+1400983,Sierra Leone,Rwanda,male,2023/24,Sierra Leone
+1400984,Ghana,Nigeria,male,2023/24,Nigeria
+1400985,Sierra Leone,Rwanda,male,2023/24,Rwanda
+1400986,Ghana,Rwanda,male,2023/24,Rwanda
+1400987,Nigeria,Sierra Leone,male,2023/24,Nigeria
+1400988,Rwanda,Nigeria,male,2023/24,Nigeria
+1400989,Ghana,Sierra Leone,male,2023/24,Ghana
+1400990,Ghana,Sierra Leone,male,2023/24,Sierra Leone
+1400991,Nigeria,Rwanda,male,2023/24,Nigeria
+1402765,Argentina,Chile,female,2023/24,Argentina
+1402766,Argentina,Chile,female,2023/24,Argentina
+1403288,United Arab Emirates,Nepal,male,2023/24,Nepal
+1403289,Hong Kong,Nepal,male,2023/24,Nepal
+1403290,Nepal,Hong Kong,male,2023/24,Nepal
+1403291,Hong Kong,United Arab Emirates,male,2023/24,United Arab Emirates
+1403292,United Arab Emirates,Nepal,male,2023/24,Nepal
+1403293,Hong Kong,United Arab Emirates,male,2023/24,Hong Kong
+1403294,Nepal,United Arab Emirates,male,2023/24,United Arab Emirates
+1403297,Chile,Mexico,male,2023/24,Mexico
+1403301,Mexico,Argentina,male,2023/24,Argentina
+1403305,Chile,Argentina,male,2023/24,Argentina
+1403686,Scotland,Ireland,female,2023/24,Ireland
+1403687,Ireland,Scotland,female,2023/24,Scotland
+1404390,Zimbabwe,Namibia,male,2023/24,Namibia
+1404391,Namibia,Zimbabwe,male,2023/24,Zimbabwe
+1404392,Namibia,Zimbabwe,male,2023/24,Zimbabwe
+1404393,Zimbabwe,Namibia,male,2023/24,Namibia
+1404394,Namibia,Zimbabwe,male,2023/24,Namibia
+1405121,Pakistan,Bangladesh,female,2023/24,Bangladesh
+1405122,Bangladesh,Pakistan,female,2023/24,Bangladesh
+1405123,Pakistan,Bangladesh,female,2023/24,Pakistan
+1405313,Bahrain,United Arab Emirates,male,2023/24,United Arab Emirates
+1405314,Singapore,Nepal,male,2023/24,Nepal
+1405315,Oman,Malaysia,male,2023/24,Oman
+1405316,Hong Kong,Kuwait,male,2023/24,Hong Kong
+1405317,Oman,Singapore,male,2023/24,Oman
+1405318,Bahrain,Hong Kong,male,2023/24,Bahrain
+1405319,Malaysia,Nepal,male,2023/24,Nepal
+1405320,Kuwait,United Arab Emirates,male,2023/24,United Arab Emirates
+1405321,Oman,Nepal,male,2023/24,Oman
+1405322,United Arab Emirates,Hong Kong,male,2023/24,United Arab Emirates
+1405323,Malaysia,Singapore,male,2023/24,Malaysia
+1405324,Bahrain,Kuwait,male,2023/24,Kuwait
+1405325,Bahrain,Oman,male,2023/24,Oman
+1405326,United Arab Emirates,Nepal,male,2023/24,Nepal
+1406073,England,India,female,2023/24,England
+1406074,India,England,female,2023/24,England
+1406075,England,India,female,2023/24,India
+1406081,Australia,India,female,2023/24,India
+1406082,India,Australia,female,2023/24,Australia
+1406083,India,Australia,female,2023/24,Australia
+1407089,Kenya,Rwanda,male,2023/24,Kenya
+1407090,Tanzania,Uganda,male,2023/24,Uganda
+1407091,Zimbabwe,Namibia,male,2023/24,Namibia
+1407092,Nigeria,Kenya,male,2023/24,Kenya
+1407093,Tanzania,Zimbabwe,male,2023/24,Zimbabwe
+1407095,Uganda,Namibia,male,2023/24,Namibia
+1407096,Kenya,Tanzania,male,2023/24,Kenya
+1407097,Namibia,Rwanda,male,2023/24,Namibia
+1407098,Tanzania,Nigeria,male,2023/24,Nigeria
+1407099,Zimbabwe,Uganda,male,2023/24,Uganda
+1407100,Nigeria,Uganda,male,2023/24,Uganda
+1407101,Zimbabwe,Rwanda,male,2023/24,Zimbabwe
+1407102,Kenya,Namibia,male,2023/24,Namibia
+1407103,Namibia,Tanzania,male,2023/24,Namibia
+1407104,Nigeria,Zimbabwe,male,2023/24,Zimbabwe
+1407105,Tanzania,Rwanda,male,2023/24,Tanzania
+1407106,Uganda,Kenya,male,2023/24,Uganda
+1407107,Zimbabwe,Kenya,male,2023/24,Zimbabwe
+1407108,Rwanda,Uganda,male,2023/24,Uganda
+1407109,Nigeria,Namibia,male,2023/24,Namibia
+1407714,Cambodia,Indonesia,male,2023/24,Indonesia
+1407715,Cambodia,Indonesia,male,2023/24,Indonesia
+1407716,Indonesia,Cambodia,male,2023/24,Cambodia
+1407717,Indonesia,Cambodia,male,2023/24,Indonesia
+1407718,Indonesia,Cambodia,male,2023/24,Cambodia
+1407719,Cambodia,Indonesia,male,2023/24,Indonesia
+1407864,Nepal,Japan,female,2023/24,Nepal
+1407865,Tanzania,Hong Kong,female,2023/24,Hong Kong
+1407866,Tanzania,Japan,female,2023/24,Tanzania
+1407867,Nepal,Hong Kong,female,2023/24,Hong Kong
+1407868,Tanzania,Nepal,female,2023/24,Tanzania
+1407869,Japan,Hong Kong,female,2023/24,Hong Kong
+1407870,Nepal,Japan,female,2023/24,Nepal
+1407871,Tanzania,Hong Kong,female,2023/24,Hong Kong
+1408103,Ireland,Zimbabwe,male,2023/24,Zimbabwe
+1408104,Zimbabwe,Ireland,male,2023/24,Ireland
+1408105,Zimbabwe,Ireland,male,2023/24,Ireland
+1411261,Zimbabwe,Kenya,female,2023/24,Zimbabwe
+1411262,Botswana,Tanzania,female,2023/24,Tanzania
+1411263,Namibia,Nigeria,female,2023/24,Namibia
+1411264,Rwanda,Uganda,female,2023/24,Uganda
+1411265,Kenya,Tanzania,female,2023/24,Tanzania
+1411266,Zimbabwe,Botswana,female,2023/24,Zimbabwe
+1411267,Rwanda,Nigeria,female,2023/24,Nigeria
+1411268,Namibia,Uganda,female,2023/24,Uganda
+1411269,Botswana,Kenya,female,2023/24,Kenya
+1411270,Tanzania,Zimbabwe,female,2023/24,Zimbabwe
+1411271,Namibia,Rwanda,female,2023/24,Namibia
+1411272,Nigeria,Uganda,female,2023/24,Uganda
+1411273,Zimbabwe,Namibia,female,2023/24,Zimbabwe
+1411274,Uganda,Tanzania,female,2023/24,Uganda
+1411276,Uganda,Zimbabwe,female,2023/24,Zimbabwe
+1412530,Philippines,Indonesia,male,2023/24,Philippines
+1412531,Philippines,Indonesia,male,2023/24,Indonesia
+1412532,Indonesia,Philippines,male,2023/24,Indonesia
+1412533,Indonesia,Philippines,male,2023/24,Philippines
+1412535,Indonesia,Philippines,male,2023/24,Philippines
+1412542,Zimbabwe,Sri Lanka,male,2023/24,Sri Lanka
+1412543,Sri Lanka,Zimbabwe,male,2023/24,Zimbabwe
+1412544,Zimbabwe,Sri Lanka,male,2023/24,Sri Lanka
+1412549,Afghanistan,United Arab Emirates,male,2023/24,Afghanistan
+1412550,United Arab Emirates,Afghanistan,male,2023/24,United Arab Emirates
+1412551,United Arab Emirates,Afghanistan,male,2023/24,Afghanistan
+1415701,Canada,United States of America,male,2024,United States of America
+1415702,Papua New Guinea,West Indies,male,2024,West Indies
+1415704,Sri Lanka,South Africa,male,2024,South Africa
+1415705,Afghanistan,Uganda,male,2024,Afghanistan
+1415707,Nepal,Netherlands,male,2024,Netherlands
+1415708,Ireland,India,male,2024,India
+1415709,Papua New Guinea,Uganda,male,2024,Uganda
+1415710,Australia,Oman,male,2024,Australia
+1415712,Namibia,Scotland,male,2024,Scotland
+1415713,Canada,Ireland,male,2024,Canada
+1415714,Afghanistan,New Zealand,male,2024,Afghanistan
+1415715,Sri Lanka,Bangladesh,male,2024,Bangladesh
+1415716,Netherlands,South Africa,male,2024,South Africa
+1415717,Australia,England,male,2024,Australia
+1415718,West Indies,Uganda,male,2024,West Indies
+1415719,India,Pakistan,male,2024,India
+1415720,Oman,Scotland,male,2024,Scotland
+1415721,South Africa,Bangladesh,male,2024,South Africa
+1415722,Canada,Pakistan,male,2024,Pakistan
+1415724,Namibia,Australia,male,2024,Australia
+1415725,United States of America,India,male,2024,India
+1415726,West Indies,New Zealand,male,2024,West Indies
+1415727,Bangladesh,Netherlands,male,2024,Bangladesh
+1415728,Oman,England,male,2024,England
+1415729,Papua New Guinea,Afghanistan,male,2024,Afghanistan
+1415731,South Africa,Nepal,male,2024,South Africa
+1415732,Uganda,New Zealand,male,2024,New Zealand
+1415734,England,Namibia,male,2024,England
+1415735,Scotland,Australia,male,2024,Australia
+1415736,Ireland,Pakistan,male,2024,Pakistan
+1415737,Bangladesh,Nepal,male,2024,Bangladesh
+1415738,Sri Lanka,Netherlands,male,2024,Sri Lanka
+1415739,Papua New Guinea,New Zealand,male,2024,New Zealand
+1415740,West Indies,Afghanistan,male,2024,West Indies
+1415741,South Africa,United States of America,male,2024,South Africa
+1415742,West Indies,England,male,2024,England
+1415743,India,Afghanistan,male,2024,India
+1415744,Bangladesh,Australia,male,2024,Australia
+1415745,South Africa,England,male,2024,South Africa
+1415746,United States of America,West Indies,male,2024,West Indies
+1415747,India,Bangladesh,male,2024,India
+1415748,Afghanistan,Australia,male,2024,Afghanistan
+1415749,United States of America,England,male,2024,England
+1415750,West Indies,South Africa,male,2024,South Africa
+1415751,India,Australia,male,2024,India
+1415752,Afghanistan,Bangladesh,male,2024,Afghanistan
+1415753,Afghanistan,South Africa,male,2024,South Africa
+1415754,India,England,male,2024,India
+1415755,India,South Africa,male,2024,India
+1415983,Ireland,Zimbabwe,female,2023/24,Ireland
+1415984,Ireland,Zimbabwe,female,2023/24,Ireland
+1415985,Ireland,Zimbabwe,female,2023/24,Ireland
+1415986,Zimbabwe,Ireland,female,2023/24,Ireland
+1415987,Ireland,Zimbabwe,female,2023/24,Ireland
+1416077,Sri Lanka,Afghanistan,male,2023/24,Sri Lanka
+1416078,Sri Lanka,Afghanistan,male,2023/24,Sri Lanka
+1416079,Afghanistan,Sri Lanka,male,2023/24,Afghanistan
+1416084,Ireland,Afghanistan,male,2023/24,Ireland
+1416085,Afghanistan,Ireland,male,2023/24,Afghanistan
+1416086,Afghanistan,Ireland,male,2023/24,Afghanistan
+1418176,Myanmar,Cambodia,male,2023/24,Cambodia
+1418177,Cambodia,China,male,2023/24,Cambodia
+1418181,Indonesia,Bhutan,male,2023/24,Indonesia
+1418182,Singapore,Maldives,male,2023/24,Singapore
+1418183,Japan,Thailand,male,2023/24,Japan
+1418184,Bhutan,Saudi Arabia,male,2023/24,Saudi Arabia
+1418185,Indonesia,Cambodia,male,2023/24,Cambodia
+1418186,Singapore,Thailand,male,2023/24,Thailand
+1418187,Japan,Maldives,male,2023/24,Japan
+1418188,Saudi Arabia,Indonesia,male,2023/24,Saudi Arabia
+1418190,Singapore,Japan,male,2023/24,Singapore
+1418191,Maldives,Thailand,male,2023/24,Thailand
+1418192,Indonesia,Thailand,male,2023/24,Thailand
+1418193,Maldives,Bhutan,male,2023/24,Maldives
+1418194,Japan,Saudi Arabia,male,2023/24,Saudi Arabia
+1418195,Singapore,Cambodia,male,2023/24,Cambodia
+1418196,Japan,Singapore,male,2023/24,Singapore
+1418197,Cambodia,Saudi Arabia,male,2023/24,Saudi Arabia
+1418539,Hong Kong,China,male,2023/24,Hong Kong
+1418540,Japan,Hong Kong,male,2023/24,Hong Kong
+1418541,Japan,China,male,2023/24,Japan
+1418542,Hong Kong,Japan,male,2023/24,Hong Kong
+1418543,China,Hong Kong,male,2023/24,Hong Kong
+1418544,Japan,China,male,2023/24,Japan
+1418545,Hong Kong,Japan,male,2023/24,Hong Kong
+1419510,Malaysia,Kuwait,female,2023/24,Malaysia
+1419511,Kuwait,Malaysia,female,2023/24,Malaysia
+1419824,Sri Lanka,Bangladesh,male,2023/24,Sri Lanka
+1419825,Sri Lanka,Bangladesh,male,2023/24,Bangladesh
+1419826,Sri Lanka,Bangladesh,male,2023/24,Sri Lanka
+1419906,Myanmar,Thailand,female,2023/24,Thailand
+1419907,United Arab Emirates,China,female,2023/24,United Arab Emirates
+1419908,Indonesia,Malaysia,female,2023/24,Malaysia
+1419909,Hong Kong,Nepal,female,2023/24,Nepal
+1419910,Singapore,Kuwait,female,2023/24,Kuwait
+1419911,Japan,Oman,female,2023/24,Japan
+1419912,Bahrain,Qatar,female,2023/24,Qatar
+1419913,Bhutan,Maldives,female,2023/24,Bhutan
+1419914,Thailand,Kuwait,female,2023/24,Thailand
+1419915,United Arab Emirates,Oman,female,2023/24,United Arab Emirates
+1419916,Indonesia,Bahrain,female,2023/24,Indonesia
+1419917,Bhutan,Nepal,female,2023/24,Nepal
+1419918,Singapore,Myanmar,female,2023/24,Myanmar
+1419919,China,Japan,female,2023/24,Japan
+1419920,Malaysia,Qatar,female,2023/24,Malaysia
+1419921,Hong Kong,Maldives,female,2023/24,Hong Kong
+1419922,Kuwait,Myanmar,female,2023/24,Kuwait
+1419923,Oman,China,female,2023/24,China
+1419924,Malaysia,Bahrain,female,2023/24,Malaysia
+1419925,Hong Kong,Bhutan,female,2023/24,Hong Kong
+1419926,Thailand,Singapore,female,2023/24,Thailand
+1419927,Japan,United Arab Emirates,female,2023/24,United Arab Emirates
+1419928,Qatar,Indonesia,female,2023/24,Indonesia
+1419929,Nepal,Maldives,female,2023/24,Nepal
+1419930,Hong Kong,Thailand,female,2023/24,Thailand
+1419931,United Arab Emirates,Indonesia,female,2023/24,United Arab Emirates
+1419932,Malaysia,Japan,female,2023/24,Malaysia
+1419933,Kuwait,Nepal,female,2023/24,Nepal
+1419934,United Arab Emirates,Thailand,female,2023/24,United Arab Emirates
+1419935,Nepal,Malaysia,female,2023/24,Malaysia
+1419936,United Arab Emirates,Malaysia,female,2023/24,United Arab Emirates
+1420223,Zimbabwe,India,male,2024,Zimbabwe
+1420224,India,Zimbabwe,male,2024,India
+1420225,India,Zimbabwe,male,2024,India
+1420226,Zimbabwe,India,male,2024,India
+1420227,India,Zimbabwe,male,2024,India
+1420801,Bhutan,Thailand,male,2023/24,Thailand
+1420802,Saudi Arabia,Maldives,male,2023/24,Saudi Arabia
+1420803,Thailand,Saudi Arabia,male,2023/24,Saudi Arabia
+1420804,Bhutan,Maldives,male,2023/24,Maldives
+1420805,Maldives,Thailand,male,2023/24,Thailand
+1420806,Saudi Arabia,Bhutan,male,2023/24,Saudi Arabia
+1420807,Thailand,Saudi Arabia,male,2023/24,Saudi Arabia
+1420808,Maldives,Bhutan,male,2023/24,Bhutan
+1421078,Scotland,United Arab Emirates,male,2023/24,United Arab Emirates
+1421079,Scotland,United Arab Emirates,male,2023/24,Scotland
+1421080,Scotland,United Arab Emirates,male,2023/24,Scotland
+1422037,Namibia,Nepal,male,2023/24,Namibia
+1422038,Netherlands,Nepal,male,2023/24,Netherlands
+1422039,Netherlands,Namibia,male,2023/24,Netherlands
+1422040,Nepal,Namibia,male,2023/24,Nepal
+1422041,Netherlands,Nepal,male,2023/24,Nepal
+1422043,Nepal,Netherlands,male,2023/24,Netherlands
+1422802,Hong Kong,Qatar,male,2023/24,Hong Kong
+1422803,Hong Kong,Qatar,male,2023/24,Qatar
+1422807,Vanuatu,Tanzania,male,2023/24,Vanuatu
+1422808,Kuwait,Bahrain,male,2023/24,Bahrain
+1422809,Tanzania,Kuwait,male,2023/24,Kuwait
+1422810,Malaysia,Vanuatu,male,2023/24,Malaysia
+1422811,Malaysia,Bahrain,male,2023/24,Bahrain
+1422812,Vanuatu,Kuwait,male,2023/24,Kuwait
+1422813,Kuwait,Malaysia,male,2023/24,Malaysia
+1422814,Bahrain,Tanzania,male,2023/24,Bahrain
+1422815,Bahrain,Vanuatu,male,2023/24,Bahrain
+1422816,Tanzania,Malaysia,male,2023/24,Malaysia
+1422817,Vanuatu,Kuwait,male,2023/24,Kuwait
+1422818,Malaysia,Bahrain,male,2023/24,Bahrain
+1423372,Papua New Guinea,Oman,male,2023/24,Oman
+1423373,Oman,Papua New Guinea,male,2023/24,Papua New Guinea
+1423374,Papua New Guinea,Oman,male,2023/24,Oman
+1423439,Hong Kong,Nepal,male,2023/24,Hong Kong
+1423441,Nepal,Papua New Guinea,male,2023/24,Nepal
+1423442,Hong Kong,Papua New Guinea,male,2023/24,Papua New Guinea
+1423444,Papua New Guinea,Nepal,male,2023/24,Papua New Guinea
+1423459,Namibia,South Africa,female,2023/24,Namibia
+1423463,Tanzania,South Africa,female,2023/24,South Africa
+1423464,Nigeria,Namibia,female,2023/24,Nigeria
+1423465,Uganda,Zimbabwe,female,2023/24,Zimbabwe
+1423467,Namibia,Tanzania,female,2023/24,Tanzania
+1423470,Uganda,Rwanda,female,2023/24,Uganda
+1423471,South Africa,Uganda,female,2023/24,South Africa
+1423472,Nigeria,Zimbabwe,female,2023/24,Zimbabwe
+1423473,Uganda,Nigeria,female,2023/24,Nigeria
+1424752,Zimbabwe,Namibia,male,2023/24,Zimbabwe
+1424753,Tanzania,Nigeria,male,2023/24,Tanzania
+1424754,South Africa,Ghana,male,2023/24,South Africa
+1424755,Uganda,Kenya,male,2023/24,Uganda
+1424756,Tanzania,Zimbabwe,male,2023/24,Zimbabwe
+1424757,Namibia,Nigeria,male,2023/24,Nigeria
+1424759,Uganda,Ghana,male,2023/24,Uganda
+1424761,Ghana,Kenya,male,2023/24,Kenya
+1424762,Nigeria,Zimbabwe,male,2023/24,Zimbabwe
+1424763,Tanzania,Namibia,male,2023/24,Namibia
+1424764,Namibia,Uganda,male,2023/24,Namibia
+1424765,Zimbabwe,Kenya,male,2023/24,Zimbabwe
+1424766,Uganda,Kenya,male,2023/24,Uganda
+1424767,Namibia,Zimbabwe,male,2023/24,Zimbabwe
+1424830,New Zealand,Pakistan,male,2024,Pakistan
+1424831,Pakistan,New Zealand,male,2024,New Zealand
+1424832,New Zealand,Pakistan,male,2024,New Zealand
+1424833,Pakistan,New Zealand,male,2024,Pakistan
+1425064,Bangladesh,Australia,female,2023/24,Australia
+1425065,Australia,Bangladesh,female,2023/24,Australia
+1425066,Australia,Bangladesh,female,2023/24,Australia
+1425110,Papua New Guinea,Malaysia,male,2023/24,Papua New Guinea
+1425111,Malaysia,Papua New Guinea,male,2023/24,Malaysia
+1425121,Canada,United States of America,male,2024,United States of America
+1425122,United States of America,Canada,male,2024,United States of America
+1425124,United States of America,Canada,male,2024,United States of America
+1425125,Canada,United States of America,male,2024,United States of America
+1425126,Zimbabwe,Bangladesh,male,2024,Bangladesh
+1425127,Zimbabwe,Bangladesh,male,2024,Bangladesh
+1425128,Bangladesh,Zimbabwe,male,2024,Bangladesh
+1425129,Bangladesh,Zimbabwe,male,2024,Bangladesh
+1425130,Bangladesh,Zimbabwe,male,2024,Zimbabwe
+1425131,Bangladesh,United States of America,male,2024,United States of America
+1425132,United States of America,Bangladesh,male,2024,United States of America
+1425133,United States of America,Bangladesh,male,2024,Bangladesh
+1425638,Sri Lanka,Thailand,female,2024,Sri Lanka
+1425639,United Arab Emirates,Ireland,female,2024,Ireland
+1425640,Scotland,Uganda,female,2024,Scotland
+1425641,Zimbabwe,Vanuatu,female,2024,Vanuatu
+1425642,Netherlands,Vanuatu,female,2024,Netherlands
+1425643,United States of America,Uganda,female,2024,Uganda
+1425644,United Arab Emirates,Zimbabwe,female,2024,Zimbabwe
+1425645,Scotland,Sri Lanka,female,2024,Sri Lanka
+1425646,Scotland,United States of America,female,2024,Scotland
+1425647,Ireland,Zimbabwe,female,2024,Ireland
+1425648,Uganda,Thailand,female,2024,Thailand
+1425649,Netherlands,United Arab Emirates,female,2024,United Arab Emirates
+1425650,Netherlands,Zimbabwe,female,2024,Netherlands
+1425651,Sri Lanka,Uganda,female,2024,Sri Lanka
+1425652,Vanuatu,Ireland,female,2024,Ireland
+1425653,United States of America,Thailand,female,2024,Thailand
+1425654,Thailand,Scotland,female,2024,Scotland
+1425655,United Arab Emirates,Vanuatu,female,2024,United Arab Emirates
+1425656,Sri Lanka,United States of America,female,2024,Sri Lanka
+1425657,Ireland,Netherlands,female,2024,Ireland
+1425658,Ireland,Scotland,female,2024,Scotland
+1425659,Sri Lanka,United Arab Emirates,female,2024,Sri Lanka
+1425660,Sri Lanka,Scotland,female,2024,Sri Lanka
+1426048,Papua New Guinea,Zimbabwe,female,2023/24,Zimbabwe
+1426050,Zimbabwe,Papua New Guinea,female,2023/24,Zimbabwe
+1426084,West Indies,Pakistan,female,2024,West Indies
+1426085,Pakistan,West Indies,female,2024,West Indies
+1426086,West Indies,Pakistan,female,2024,West Indies
+1426087,West Indies,Pakistan,female,2024,Pakistan
+1426088,Pakistan,West Indies,female,2024,West Indies
+1426450,Oman,Namibia,male,2024,Namibia
+1426451,Oman,Namibia,male,2024,Oman
+1426452,Namibia,Oman,male,2024,Oman
+1426453,Namibia,Oman,male,2024,Namibia
+1426454,Namibia,Oman,male,2024,Namibia
+1426455,Oman,Bahrain,male,2024,Oman
+1426456,Kuwait,United Arab Emirates,male,2024,United Arab Emirates
+1426457,Malaysia,Nepal,male,2024,Nepal
+1426458,Hong Kong,Qatar,male,2024,Hong Kong
+1426459,Cambodia,Kuwait,male,2024,Kuwait
+1426460,United Arab Emirates,Bahrain,male,2024,United Arab Emirates
+1426461,Nepal,Qatar,male,2024,Nepal
+1426462,Malaysia,Saudi Arabia,male,2024,Malaysia
+1426463,Oman,Cambodia,male,2024,Oman
+1426464,Saudi Arabia,Hong Kong,male,2024,Saudi Arabia
+1426465,Hong Kong,Nepal,male,2024,Nepal
+1426466,Malaysia,Qatar,male,2024,Qatar
+1426467,United Arab Emirates,Oman,male,2024,Oman
+1426468,Kuwait,Bahrain,male,2024,Kuwait
+1426469,Qatar,Saudi Arabia,male,2024,Qatar
+1426470,Cambodia,Bahrain,male,2024,Bahrain
+1426471,Malaysia,Hong Kong,male,2024,Hong Kong
+1426472,Saudi Arabia,Nepal,male,2024,Nepal
+1426473,Cambodia,United Arab Emirates,male,2024,United Arab Emirates
+1426474,Oman,Kuwait,male,2024,Oman
+1426475,Nepal,United Arab Emirates,male,2024,United Arab Emirates
+1426476,Hong Kong,Oman,male,2024,Oman
+1426477,Nepal,Hong Kong,male,2024,Hong Kong
+1426478,United Arab Emirates,Oman,male,2024,United Arab Emirates
+1426479,Jersey,Spain,male,2024,Spain
+1426480,Jersey,Spain,male,2024,Spain
+1426617,New Zealand,Australia,female,2024,Australia
+1426618,Australia,New Zealand,female,2024,Australia
+1426619,New Zealand,Australia,female,2024,Australia
+1426756,United Arab Emirates,Nepal,female,2024,Nepal
+1426757,Pakistan,India,female,2024,India
+1426758,Thailand,Malaysia,female,2024,Thailand
+1426759,Bangladesh,Sri Lanka,female,2024,Sri Lanka
+1426760,India,United Arab Emirates,female,2024,India
+1426761,Nepal,Pakistan,female,2024,Pakistan
+1426762,Sri Lanka,Malaysia,female,2024,Sri Lanka
+1426763,Thailand,Bangladesh,female,2024,Bangladesh
+1426764,United Arab Emirates,Pakistan,female,2024,Pakistan
+1426765,India,Nepal,female,2024,India
+1426766,Bangladesh,Malaysia,female,2024,Bangladesh
+1426767,Thailand,Sri Lanka,female,2024,Sri Lanka
+1426768,Bangladesh,India,female,2024,India
+1426769,Pakistan,Sri Lanka,female,2024,Sri Lanka
+1426770,India,Sri Lanka,female,2024,Sri Lanka
+1426830,Pakistan,Ireland,male,2024,Ireland
+1426831,Ireland,Pakistan,male,2024,Pakistan
+1426832,Ireland,Pakistan,male,2024,Pakistan
+1427420,Gibraltar,Estonia,female,2024,Gibraltar
+1427421,Gibraltar,Estonia,female,2024,Gibraltar
+1427422,Gibraltar,Estonia,female,2024,Gibraltar
+1428151,Netherlands,Scotland,male,2024,Netherlands
+1428152,Ireland,Netherlands,male,2024,Ireland
+1428154,Scotland,Netherlands,male,2024,Scotland
+1428155,Scotland,Ireland,male,2024,Ireland
+1428156,Ireland,Netherlands,male,2024,Ireland
+1428743,Mexico,Costa Rica,male,2024,Mexico
+1428744,Mexico,Costa Rica,male,2024,Mexico
+1428745,Costa Rica,Mexico,male,2024,Costa Rica
+1428746,Mexico,Costa Rica,male,2024,Mexico
+1429008,Thailand,Ireland,female,2024,Ireland
+1429009,Indonesia,Mongolia,female,2024,Indonesia
+1429010,Indonesia,Mongolia,female,2024,Indonesia
+1429011,Mongolia,Indonesia,female,2024,Indonesia
+1429012,Indonesia,Mongolia,female,2024,Indonesia
+1429013,Indonesia,Mongolia,female,2024,Indonesia
+1429014,Mongolia,Indonesia,female,2024,Indonesia
+1429393,India,Bangladesh,female,2024,India
+1429394,Bangladesh,India,female,2024,India
+1429395,Bangladesh,India,female,2024,India
+1429396,India,Bangladesh,female,2024,India
+1429397,India,Bangladesh,female,2024,India
+1429622,Botswana,Lesotho,female,2024,Botswana
+1429623,Mozambique,Rwanda,female,2024,Rwanda
+1429624,Lesotho,Rwanda,female,2024,Rwanda
+1429625,Mozambique,Botswana,female,2024,Botswana
+1429626,Botswana,Rwanda,female,2024,Rwanda
+1429627,Mozambique,Lesotho,female,2024,Mozambique
+1429628,Mozambique,Botswana,female,2024,Botswana
+1429630,Mozambique,Rwanda,female,2024,Rwanda
+1429631,Botswana,Lesotho,female,2024,Botswana
+1429632,Botswana,Rwanda,female,2024,Rwanda
+1429634,Mozambique,Lesotho,female,2024,Mozambique
+1429635,Botswana,Rwanda,female,2024,Rwanda
+1430812,Ireland,Sri Lanka,female,2024,Sri Lanka
+1430813,Ireland,Sri Lanka,female,2024,Ireland
+1430820,England,Ireland,female,2024,England
+1430821,England,Ireland,female,2024,Ireland
+1431086,Ireland,South Africa,male,2024/25,South Africa
+1431087,Ireland,South Africa,male,2024/25,Ireland
+1431120,Japan,Mongolia,male,2024,Japan
+1431121,Japan,Mongolia,male,2024,Japan
+1431123,Mongolia,Japan,male,2024,Japan
+1431124,Japan,Mongolia,male,2024,Japan
+1431125,Japan,Mongolia,male,2024,Japan
+1431126,Japan,Mongolia,male,2024,Japan
+1431607,Thailand,Indonesia,male,2024,Thailand
+1431608,Thailand,Indonesia,male,2024,Indonesia
+1431609,Indonesia,Thailand,male,2024,Indonesia
+1431610,Thailand,Indonesia,male,2024,Thailand
+1431611,Indonesia,Thailand,male,2024,Thailand
+1432194,France,Malta,male,2024,France
+1432195,France,Malta,male,2024,France
+1432197,Belgium,Malta,male,2024,Belgium
+1432198,Malta,Belgium,male,2024,Belgium
+1432199,Belgium,France,male,2024,France
+1432200,France,Belgium,male,2024,Belgium
+1432422,Bangladesh,Scotland,female,2024/25,Bangladesh
+1432423,Pakistan,Sri Lanka,female,2024/25,Pakistan
+1432424,West Indies,South Africa,female,2024/25,South Africa
+1432425,New Zealand,India,female,2024/25,New Zealand
+1432426,Sri Lanka,Australia,female,2024/25,Australia
+1432427,England,Bangladesh,female,2024/25,England
+1432428,Pakistan,India,female,2024/25,India
+1432429,Scotland,West Indies,female,2024/25,West Indies
+1432430,South Africa,England,female,2024/25,England
+1432431,Australia,New Zealand,female,2024/25,Australia
+1432432,South Africa,Scotland,female,2024/25,South Africa
+1432433,India,Sri Lanka,female,2024/25,India
+1432434,Bangladesh,West Indies,female,2024/25,West Indies
+1432435,Pakistan,Australia,female,2024/25,Australia
+1432436,Sri Lanka,New Zealand,female,2024/25,New Zealand
+1432437,Bangladesh,South Africa,female,2024/25,South Africa
+1432438,Scotland,England,female,2024/25,England
+1432439,Australia,India,female,2024/25,Australia
+1432440,New Zealand,Pakistan,female,2024/25,New Zealand
+1432441,England,West Indies,female,2024/25,West Indies
+1432442,Australia,South Africa,female,2024/25,South Africa
+1432443,New Zealand,West Indies,female,2024/25,New Zealand
+1432444,New Zealand,South Africa,female,2024/25,New Zealand
+1433362,West Indies,South Africa,male,2024,West Indies
+1433363,West Indies,South Africa,male,2024,West Indies
+1433364,South Africa,West Indies,male,2024,West Indies
+1433367,South Africa,West Indies,male,2024,West Indies
+1433368,West Indies,South Africa,male,2024,West Indies
+1433369,South Africa,West Indies,male,2024,West Indies
+1433373,West Indies,England,male,2024/25,England
+1433374,West Indies,England,male,2024/25,England
+1433772,Netherlands,Italy,female,2024,Netherlands
+1433775,Italy,Netherlands,female,2024,Netherlands
+1434155,Bulgaria,Gibraltar,male,2024,Gibraltar
+1434157,Bulgaria,Romania,male,2024,Romania
+1434160,Romania,Gibraltar,male,2024,Gibraltar
+1434161,Romania,Bulgaria,male,2024,Romania
+1434291,South Africa,India,female,2024,South Africa
+1434293,South Africa,India,female,2024,India
+1435618,Rwanda,Cameroon,female,2024,Rwanda
+1435620,Uganda,Botswana,female,2024,Uganda
+1435621,Kenya,Nigeria,female,2024,Kenya
+1435623,Uganda,Nigeria,female,2024,Uganda
+1435624,Botswana,Cameroon,female,2024,Botswana
+1435625,Malawi,Rwanda,female,2024,Rwanda
+1435626,Rwanda,Botswana,female,2024,Rwanda
+1435627,Kenya,Malawi,female,2024,Kenya
+1435628,Cameroon,Nigeria,female,2024,Nigeria
+1435630,Uganda,Malawi,female,2024,Uganda
+1435632,Botswana,Nigeria,female,2024,Nigeria
+1435633,Rwanda,Kenya,female,2024,Rwanda
+1435634,Nigeria,Rwanda,female,2024,Nigeria
+1435635,Kenya,Uganda,female,2024,Uganda
+1435637,Cameroon,Malawi,female,2024,Malawi
+1435638,Cameroon,Kenya,female,2024,Kenya
+1435639,Botswana,Malawi,female,2024,Botswana
+1435640,Uganda,Rwanda,female,2024,Uganda
+1435643,Uganda,Cameroon,female,2024,Uganda
+1435644,Nigeria,Malawi,female,2024,Nigeria
+1435645,Kenya,Botswana,female,2024,Kenya
+1435646,Cameroon,Malawi,female,2024,Malawi
+1435647,Kenya,Botswana,female,2024,Kenya
+1435648,Nigeria,Rwanda,female,2024,Rwanda
+1436471,Italy,Luxembourg,male,2024,Italy
+1436472,Portugal,Hungary,male,2024,Portugal
+1436473,France,Isle of Man,male,2024,France
+1436474,Austria,Romania,male,2024,Romania
+1436475,Israel,Austria,male,2024,Austria
+1436476,Isle of Man,Turkey,male,2024,Isle of Man
+1436477,Portugal,Romania,male,2024,Romania
+1436478,France,Italy,male,2024,Italy
+1436479,Isle of Man,Italy,male,2024,Italy
+1436480,Portugal,Austria,male,2024,Austria
+1436481,Luxembourg,Turkey,male,2024,Luxembourg
+1436482,Israel,Hungary,male,2024,Hungary
+1436483,Hungary,Romania,male,2024,Romania
+1436484,France,Luxembourg,male,2024,France
+1436485,Portugal,Israel,male,2024,Israel
+1436486,Turkey,Italy,male,2024,Italy
+1436487,Isle of Man,Luxembourg,male,2024,Isle of Man
+1436488,Austria,Hungary,male,2024,Austria
+1436489,France,Turkey,male,2024,France
+1436490,Romania,Israel,male,2024,Romania
+1436491,Luxembourg,Israel,male,2024,Israel
+1436492,France,Austria,male,2024,Austria
+1436493,Portugal,Isle of Man,male,2024,Portugal
+1436494,Italy,Romania,male,2024,Italy
+1436889,West Indies,Sri Lanka,female,2024,Sri Lanka
+1436890,Sri Lanka,West Indies,female,2024,West Indies
+1436891,Sri Lanka,West Indies,female,2024,West Indies
+1438073,Denmark,Jersey,male,2024,Jersey
+1438074,Jersey,Denmark,male,2024,Jersey
+1438075,Cyprus,Estonia,male,2024,Estonia
+1438076,Cyprus,Estonia,male,2024,Estonia
+1438077,Cyprus,Estonia,male,2024,Cyprus
+1438078,Estonia,Cyprus,male,2024,Estonia
+1438079,Estonia,Cyprus,male,2024,Cyprus
+1438080,Estonia,Cyprus,male,2024,Estonia
+1438090,Gibraltar,Czech Republic,female,2024,Gibraltar
+1438091,Croatia,Czech Republic,female,2024,Croatia
+1438092,Croatia,Gibraltar,female,2024,Croatia
+1438093,Czech Republic,Croatia,female,2024,Croatia
+1438094,Croatia,Gibraltar,female,2024,Gibraltar
+1438095,Gibraltar,Czech Republic,female,2024,Gibraltar
+1438097,Estonia,Cyprus,female,2024,Cyprus
+1438099,Cyprus,Estonia,female,2024,Cyprus
+1438101,Cyprus,Estonia,female,2024,Cyprus
+1438102,Netherlands,Hong Kong,female,2024,Netherlands
+1438103,Hong Kong,Netherlands,female,2024,Netherlands
+1438104,Hong Kong,Netherlands,female,2024,Netherlands
+1438105,Netherlands,Hong Kong,female,2024,Netherlands
+1438257,Norway,Finland,male,2024,Norway
+1438259,Finland,Norway,male,2024,Norway
+1438262,Finland,Norway,male,2024,Norway
+1439813,Jersey,Serbia,male,2024,Jersey
+1439814,Germany,Gibraltar,male,2024,Germany
+1439815,Switzerland,Belgium,male,2024,Belgium
+1439816,Norway,Sweden,male,2024,Norway
+1439817,Slovenia,Norway,male,2024,Norway
+1439818,Croatia,Belgium,male,2024,Croatia
+1439819,Germany,Sweden,male,2024,Germany
+1439820,Jersey,Switzerland,male,2024,Jersey
+1439821,Jersey,Belgium,male,2024,Jersey
+1439822,Norway,Germany,male,2024,Norway
+1439823,Croatia,Serbia,male,2024,Croatia
+1439825,Gibraltar,Sweden,male,2024,Sweden
+1439826,Switzerland,Serbia,male,2024,Switzerland
+1439829,Belgium,Serbia,male,2024,Belgium
+1439830,Norway,Gibraltar,male,2024,Norway
+1439831,Croatia,Switzerland,male,2024,Switzerland
+1439833,Croatia,Germany,male,2024,Germany
+1439836,Norway,Jersey,male,2024,Jersey
+1439893,Bangladesh,India,male,2024/25,India
+1439894,India,Bangladesh,male,2024/25,India
+1439895,India,Bangladesh,male,2024/25,India
+1440129,Guernsey,Jersey,male,2024,Jersey
+1440130,Guernsey,Jersey,male,2024,Jersey
+1440131,Jersey,Guernsey,male,2024,Guernsey
+1440443,Indonesia,Bhutan,female,2024,Indonesia
+1440444,Singapore,Indonesia,female,2024,Indonesia
+1440446,Bhutan,Indonesia,female,2024,Indonesia
+1440447,Indonesia,Singapore,female,2024,Indonesia
+1440448,Bhutan,Singapore,female,2024,Singapore
+1440449,Indonesia,Bhutan,female,2024,Bhutan
+1440450,Indonesia,Singapore,female,2024,Indonesia
+1440451,Bhutan,Singapore,female,2024,Bhutan
+1440463,Scotland,Australia,male,2024,Australia
+1440464,Australia,Scotland,male,2024,Australia
+1440465,Scotland,Australia,male,2024,Australia
+1441133,Malawi,Rwanda,male,2024,Malawi
+1441135,Rwanda,Kenya,male,2024,Kenya
+1441136,Malawi,Kenya,male,2024,Kenya
+1441140,Rwanda,Kenya,male,2024,Kenya
+1441145,Kenya,Rwanda,male,2024,Kenya
+1442735,Kenya,Nigeria,male,2024,Kenya
+1442736,Nigeria,Kenya,male,2024,Kenya
+1442737,Kenya,Nigeria,male,2024,Nigeria
+1442738,Nigeria,Kenya,male,2024,Nigeria
+1442739,Nigeria,Kenya,male,2024,Kenya
+1442987,India,Sri Lanka,male,2024,India
+1442988,Sri Lanka,India,male,2024,India
+1442996,Jersey,Guernsey,female,2024,Jersey
+1443766,Spain,Cyprus,male,2024,Spain
+1443767,Bulgaria,Guernsey,male,2024,Guernsey
+1443768,Denmark,Czech Republic,male,2024,Denmark
+1443769,Malta,Finland,male,2024,Finland
+1443770,Finland,Estonia,male,2024,Estonia
+1443771,Denmark,Greece,male,2024,Denmark
+1443772,Malta,Guernsey,male,2024,Guernsey
+1443773,Spain,Czech Republic,male,2024,Spain
+1443775,Finland,Guernsey,male,2024,Finland
+1443776,Greece,Cyprus,male,2024,Cyprus
+1443777,Bulgaria,Estonia,male,2024,Estonia
+1443778,Malta,Bulgaria,male,2024,Malta
+1443779,Cyprus,Czech Republic,male,2024,Czech Republic
+1443780,Estonia,Guernsey,male,2024,Guernsey
+1443781,Greece,Spain,male,2024,Spain
+1443782,Denmark,Cyprus,male,2024,Denmark
+1443783,Finland,Bulgaria,male,2024,Finland
+1443784,Czech Republic,Greece,male,2024,Czech Republic
+1443785,Malta,Estonia,male,2024,Estonia
+1443786,Spain,Finland,male,2024,Spain
+1443787,Cyprus,Malta,male,2024,Cyprus
+1443788,Czech Republic,Estonia,male,2024,Estonia
+1443789,Denmark,Guernsey,male,2024,Guernsey
+1444531,Germany,Italy,female,2024,Italy
+1444532,Germany,Jersey,female,2024,Germany
+1444534,Italy,Germany,female,2024,Italy
+1444535,Germany,Jersey,female,2024,Jersey
+1444536,Italy,Jersey,female,2024,Italy
+1444537,Germany,Italy,female,2024,Italy
+1444550,Scotland,Papua New Guinea,female,2024,Scotland
+1444551,Scotland,Netherlands,female,2024,Scotland
+1444669,Italy,Germany,female,2024,Italy
+1444947,Croatia,Spain,male,2024,Spain
+1444948,Croatia,Spain,male,2024,Spain
+1444949,Croatia,Spain,male,2024,Spain
+1444950,Spain,Croatia,male,2024,Spain
+1444951,Spain,Croatia,male,2024,Spain
+1444952,Vanuatu,Cook Islands,male,2024,Cook Islands
+1444953,Fiji,Samoa,male,2024,Samoa
+1444954,Samoa,Cook Islands,male,2024,Cook Islands
+1444955,Vanuatu,Fiji,male,2024,Vanuatu
+1444956,Samoa,Vanuatu,male,2024,Samoa
+1444957,Fiji,Cook Islands,male,2024,Fiji
+1444958,Samoa,Fiji,male,2024,Samoa
+1444959,Vanuatu,Cook Islands,male,2024,Cook Islands
+1444960,Vanuatu,Fiji,male,2024,Fiji
+1444961,Samoa,Cook Islands,male,2024,Cook Islands
+1444962,Fiji,Cook Islands,male,2024,Fiji
+1444963,Samoa,Vanuatu,male,2024,Samoa
+1445485,Denmark,Norway,female,2024,Denmark
+1445489,Norway,Guernsey,female,2024,Guernsey
+1445491,Norway,Estonia,female,2024,Norway
+1445493,Estonia,Denmark,female,2024,Denmark
+1446761,Canada,Netherlands,male,2024,Netherlands
+1446763,Netherlands,United States of America,male,2024,Netherlands
+1446764,Canada,Netherlands,male,2024,Canada
+1446765,United States of America,Canada,male,2024,United States of America
+1446766,Netherlands,United States of America,male,2024,Netherlands
+1446771,Hong Kong,Kuwait,male,2024,Kuwait
+1446772,Kuwait,Malaysia,male,2024,Malaysia
+1446773,Malaysia,Hong Kong,male,2024,Hong Kong
+1446774,Hong Kong,Kuwait,male,2024,Kuwait
+1446775,Kuwait,Malaysia,male,2024,Kuwait
+1446776,Hong Kong,Malaysia,male,2024,Hong Kong
+1446777,Hong Kong,Kuwait,male,2024,Kuwait
+1447477,Malaysia,Maldives,male,2024,Malaysia
+1447478,Myanmar,Hong Kong,male,2024,Hong Kong
+1447479,Kuwait,Mongolia,male,2024,Kuwait
+1447480,Singapore,Maldives,male,2024,Singapore
+1447481,Myanmar,Malaysia,male,2024,Malaysia
+1447482,Mongolia,Hong Kong,male,2024,Hong Kong
+1447483,Hong Kong,Singapore,male,2024,Hong Kong
+1447484,Kuwait,Maldives,male,2024,Kuwait
+1447485,Myanmar,Mongolia,male,2024,Myanmar
+1447486,Maldives,Hong Kong,male,2024,Hong Kong
+1447487,Myanmar,Kuwait,male,2024,Kuwait
+1447488,Malaysia,Singapore,male,2024,Malaysia
+1447489,Malaysia,Kuwait,male,2024,Kuwait
+1447490,Mongolia,Singapore,male,2024,Singapore
+1447491,Myanmar,Maldives,male,2024,Maldives
+1447492,Maldives,Mongolia,male,2024,Maldives
+1447493,Kuwait,Singapore,male,2024,Singapore
+1447494,Malaysia,Hong Kong,male,2024,Malaysia
+1447495,Myanmar,Singapore,male,2024,Singapore
+1447496,Mongolia,Malaysia,male,2024,Malaysia
+1447543,Malta,Isle of Man,female,2024,Isle of Man
+1447550,Isle of Man,Greece,female,2024,Isle of Man
+1447551,Greece,Serbia,female,2024,Greece
+1447553,Greece,Isle of Man,female,2024,Isle of Man
+1449011,South Africa,Pakistan,female,2024,South Africa
+1449012,Pakistan,South Africa,female,2024,Pakistan
+1449013,Pakistan,South Africa,female,2024,South Africa
+1449019,Namibia,United Arab Emirates,female,2024,United Arab Emirates
+1449020,United Arab Emirates,Zimbabwe,female,2024,Zimbabwe
+1449021,Zimbabwe,Namibia,female,2024,Namibia
+1449022,United Arab Emirates,Namibia,female,2024,United Arab Emirates
+1449023,Zimbabwe,United Arab Emirates,female,2024,United Arab Emirates
+1449024,Zimbabwe,Namibia,female,2024,Namibia
+1449025,Namibia,United Arab Emirates,female,2024,United Arab Emirates
+1449026,Zimbabwe,United Arab Emirates,female,2024,United Arab Emirates
+1449027,Namibia,Zimbabwe,female,2024,Namibia
+1449301,India,South Africa,male,2024/25,India
+1449302,India,South Africa,male,2024/25,South Africa
+1450198,Denmark,Norway,female,2024,Denmark
+1450199,Austria,Luxembourg,female,2024,Austria
+1450200,Austria,Denmark,female,2024,Denmark
+1450202,Denmark,Luxembourg,female,2024,Denmark
+1450204,Norway,Luxembourg,female,2024,Norway
+1450462,Kenya,Rwanda,female,2024,Kenya
+1450463,Rwanda,Kenya,female,2024,Rwanda
+1450464,Kenya,Rwanda,female,2024,Rwanda
+1450465,Kenya,Rwanda,female,2024,Rwanda
+1450466,Rwanda,Kenya,female,2024,Rwanda
+1450467,Serbia,Cyprus,female,2024,Cyprus
+1450468,Cyprus,Serbia,female,2024,Cyprus
+1450751,Malawi,Lesotho,male,2024,Malawi
+1450752,Cameroon,Ghana,male,2024,Ghana
+1450753,Mali,Tanzania,male,2024,Tanzania
+1450754,Mali,Cameroon,male,2024,Cameroon
+1450755,Malawi,Ghana,male,2024,Malawi
+1450757,Ghana,Lesotho,male,2024,Ghana
+1450758,Cameroon,Tanzania,male,2024,Tanzania
+1450759,Mali,Malawi,male,2024,Malawi
+1450760,Ghana,Tanzania,male,2024,Tanzania
+1450761,Lesotho,Mali,male,2024,Lesotho
+1450762,Cameroon,Malawi,male,2024,Malawi
+1450763,Mali,Ghana,male,2024,Ghana
+1450764,Lesotho,Cameroon,male,2024,Cameroon
+1450765,Tanzania,Malawi,male,2024,Tanzania
+1450766,Japan,Indonesia,male,2024,Japan
+1450767,Japan,Philippines,male,2024,Japan
+1450768,Philippines,Japan,male,2024,Japan
+1450769,South Korea,Indonesia,male,2024,Indonesia
+1450770,Philippines,Indonesia,male,2024,Philippines
+1450771,South Korea,Japan,male,2024,Japan
+1450772,Japan,Indonesia,male,2024,Japan
+1450773,Philippines,South Korea,male,2024,Philippines
+1450774,Japan,Philippines,male,2024,Japan
+1450775,Indonesia,South Korea,male,2024,Indonesia
+1450776,Indonesia,Philippines,male,2024,Indonesia
+1450777,Japan,South Korea,male,2024,Japan
+1450778,Philippines,South Korea,male,2024,Philippines
+1450779,Japan,Indonesia,male,2024,Japan
+1450817,United Arab Emirates,Namibia,male,2024,United Arab Emirates
+1450818,United States of America,United Arab Emirates,male,2024,United States of America
+1450819,United States of America,Namibia,male,2024,United States of America
+1450820,Namibia,United Arab Emirates,male,2024,United Arab Emirates
+1450821,United Arab Emirates,United States of America,male,2024,United Arab Emirates
+1450822,Namibia,United States of America,male,2024,United States of America
+1450823,Canada,Nepal,male,2024,Canada
+1450824,Nepal,Oman,male,2024,Nepal
+1450825,Canada,Oman,male,2024,Oman
+1450826,Nepal,Canada,male,2024,Canada
+1450827,Nepal,Oman,male,2024,Nepal
+1450828,Oman,Canada,male,2024,Canada
+1451291,Spain,Greece,female,2024,Spain
+1451292,Greece,Spain,female,2024,Spain
+1451293,Greece,Spain,female,2024,Spain
+1451294,Greece,Spain,female,2024,Spain
+1451303,Singapore,Japan,female,2024/25,Japan
+1451304,Singapore,Japan,female,2024/25,Japan
+1451305,Japan,Singapore,female,2024/25,Japan
+1451306,Japan,Singapore,female,2024/25,Japan
+1451307,Japan,Singapore,female,2024/25,Japan
+1451308,Hong Kong,Japan,female,2024/25,Hong Kong
+1451311,Hong Kong,China,female,2024/25,Hong Kong
+1451317,Hong Kong,South Korea,female,2024/25,Hong Kong
+1451318,South Korea,China,female,2024/25,China
+1451814,Sri Lanka,West Indies,male,2024/25,West Indies
+1451815,Sri Lanka,West Indies,male,2024/25,Sri Lanka
+1451816,West Indies,Sri Lanka,male,2024/25,Sri Lanka
+1452624,Serbia,Gibraltar,male,2024,Gibraltar
+1452625,Serbia,Gibraltar,male,2024,Gibraltar
+1453518,Nepal,United States of America,male,2024/25,Nepal
+1453520,United States of America,Nepal,male,2024/25,Nepal
+1453903,Brazil,Mexico,male,2024/25,Brazil
+1453909,Mexico,Argentina,male,2024/25,Argentina
+1453911,Thailand,Bhutan,male,2024/25,Thailand
+1453912,Indonesia,Maldives,male,2024/25,Maldives
+1453913,Maldives,Bhutan,male,2024/25,Bhutan
+1453914,Indonesia,Thailand,male,2024/25,Thailand
+1453915,Thailand,Maldives,male,2024/25,Thailand
+1453916,Bhutan,Indonesia,male,2024/25,Bhutan
+1453917,Thailand,Indonesia,male,2024/25,Thailand
+1453918,Bhutan,Maldives,male,2024/25,Maldives
+1453919,Indonesia,Bhutan,male,2024/25,Bhutan
+1453922,Zimbabwe,Seychelles,male,2024/25,Zimbabwe
+1453923,Kenya,Mozambique,male,2024/25,Kenya
+1453924,Rwanda,Seychelles,male,2024/25,Rwanda
+1453925,Zimbabwe,Kenya,male,2024/25,Zimbabwe
+1453926,Gambia,Mozambique,male,2024/25,Mozambique
+1453927,Mozambique,Zimbabwe,male,2024/25,Zimbabwe
+1453929,Rwanda,Kenya,male,2024/25,Kenya
+1453930,Seychelles,Kenya,male,2024/25,Kenya
+1453931,Rwanda,Mozambique,male,2024/25,Mozambique
+1453932,Zimbabwe,Gambia,male,2024/25,Zimbabwe
+1453933,Mozambique,Seychelles,male,2024/25,Mozambique
+1453934,Kenya,Gambia,male,2024/25,Kenya
+1453935,Zimbabwe,Rwanda,male,2024/25,Zimbabwe
+1454384,Malawi,Rwanda,male,2024/25,Rwanda
+1454385,Malawi,Rwanda,male,2024/25,Rwanda
+1454388,Malawi,Rwanda,male,2024/25,Rwanda
+1454935,Serbia,Bulgaria,female,2024/25,Serbia
+1454936,Bulgaria,Serbia,female,2024/25,Serbia
+1454937,Bulgaria,Serbia,female,2024/25,Serbia
+1456013,Kenya,Seychelles,male,2024/25,Kenya
+1456121,Singapore,Myanmar,female,2024/25,Myanmar
+1456122,Kuwait,Myanmar,female,2024/25,Kuwait
+1456123,Singapore,Kuwait,female,2024/25,Kuwait
+1456124,Singapore,Myanmar,female,2024/25,Myanmar
+1456125,Myanmar,Kuwait,female,2024/25,Myanmar
+1456126,Singapore,Kuwait,female,2024/25,Kuwait
+1456127,Myanmar,Singapore,female,2024/25,Myanmar
+1456128,Kuwait,Myanmar,female,2024/25,Kuwait
+1456129,Singapore,Kuwait,female,2024/25,Kuwait
+1456130,Kuwait,Myanmar,female,2024/25,Myanmar
+1456441,New Zealand,Sri Lanka,male,2024/25,Sri Lanka
+1456442,New Zealand,Sri Lanka,male,2024/25,New Zealand
+1456854,Bulgaria,Greece,female,2024/25,Greece
+1456858,China,Hong Kong,female,2024/25,Hong Kong
+1456859,Myanmar,Mongolia,female,2024/25,Myanmar
+1456860,Mongolia,China,female,2024/25,China
+1456861,Myanmar,Hong Kong,female,2024/25,Myanmar
+1456862,Myanmar,China,female,2024/25,China
+1456863,Mongolia,Hong Kong,female,2024/25,Hong Kong
+1456864,Mongolia,Myanmar,female,2024/25,Myanmar
+1456865,China,Hong Kong,female,2024/25,Hong Kong
+1457350,Bahrain,Uganda,male,2024/25,Bahrain
+1457351,Bahrain,Uganda,male,2024/25,Uganda
+1457354,Rwanda,Kenya,female,2024/25,Rwanda
+1457355,Kenya,Rwanda,female,2024/25,Kenya
+1457356,Rwanda,Kenya,female,2024/25,Rwanda
+1457357,Kenya,Rwanda,female,2024/25,Kenya
+1457358,Kenya,Rwanda,female,2024/25,Rwanda
+211028,England,Australia,male,2005,England
+211048,New Zealand,Australia,male,2004/05,Australia
+222678,South Africa,New Zealand,male,2005/06,New Zealand
+225263,England,Pakistan,male,2006,Pakistan
+225271,England,Sri Lanka,male,2006,Sri Lanka
+226374,Australia,South Africa,male,2005/06,Australia
+238195,South Africa,Australia,male,2005/06,South Africa
+249227,Australia,England,male,2006/07,Australia
+251487,New Zealand,Sri Lanka,male,2006/07,Sri Lanka
+251488,New Zealand,Sri Lanka,male,2006/07,New Zealand
+255954,South Africa,India,male,2006/07,India
+258463,England,West Indies,male,2007,West Indies
+258464,England,West Indies,male,2007,England
+287853,South Africa,West Indies,male,2007/08,South Africa
+287854,Kenya,New Zealand,male,2007/08,New Zealand
+287855,Pakistan,Scotland,male,2007/08,Pakistan
+287856,Australia,Zimbabwe,male,2007/08,Zimbabwe
+287857,Bangladesh,West Indies,male,2007/08,Bangladesh
+287858,England,Zimbabwe,male,2007/08,England
+287860,Kenya,Sri Lanka,male,2007/08,Sri Lanka
+287861,Australia,England,male,2007/08,Australia
+287863,New Zealand,Sri Lanka,male,2007/08,Sri Lanka
+287864,South Africa,Bangladesh,male,2007/08,South Africa
+287865,India,New Zealand,male,2007/08,New Zealand
+287866,Australia,Bangladesh,male,2007/08,Australia
+287867,South Africa,England,male,2007/08,South Africa
+287868,Pakistan,Sri Lanka,male,2007/08,Pakistan
+287869,England,New Zealand,male,2007/08,New Zealand
+287870,Australia,Pakistan,male,2007/08,Pakistan
+287871,Bangladesh,Sri Lanka,male,2007/08,Sri Lanka
+287872,South Africa,New Zealand,male,2007/08,South Africa
+287873,England,India,male,2007/08,India
+287874,Australia,Sri Lanka,male,2007/08,Australia
+287875,Bangladesh,Pakistan,male,2007/08,Pakistan
+287876,South Africa,India,male,2007/08,India
+287877,New Zealand,Pakistan,male,2007/08,Pakistan
+287878,Australia,India,male,2007/08,India
+287879,India,Pakistan,male,2007/08,India
+291343,Australia,New Zealand,male,2007/08,Australia
+291356,Australia,India,male,2007/08,Australia
+296903,England,New Zealand,male,2008,England
+297800,India,Australia,male,2007/08,India
+298795,South Africa,New Zealand,male,2007/08,South Africa
+298804,South Africa,West Indies,male,2007/08,South Africa
+300435,New Zealand,England,male,2007/08,England
+300436,New Zealand,England,male,2007/08,England
+306987,Kenya,Bangladesh,male,2007/08,Bangladesh
+306989,Bangladesh,Pakistan,male,2007/08,Pakistan
+306991,Kenya,Pakistan,male,2007/08,Pakistan
+319112,South Africa,West Indies,male,2007/08,West Indies
+319142,West Indies,Australia,male,2008,West Indies
+343764,Pakistan,Bangladesh,male,2007/08,Pakistan
+350347,South Africa,Bangladesh,male,2008/09,South Africa
+350475,South Africa,Australia,male,2008/09,South Africa
+350476,South Africa,Australia,male,2008/09,South Africa
+351694,Australia,South Africa,male,2008/09,Australia
+351695,Australia,South Africa,male,2008/09,Australia
+351696,Australia,New Zealand,male,2008/09,Australia
+352674,West Indies,England,male,2008/09,West Indies
+354456,Bermuda,Scotland,male,2008,Scotland
+355988,India,New Zealand,female,2009,New Zealand
+355989,England,Australia,female,2009,England
+355991,England,Netherlands,male,2009,Netherlands
+355992,New Zealand,Scotland,male,2009,New Zealand
+355993,Australia,West Indies,male,2009,West Indies
+355994,Bangladesh,India,male,2009,India
+355995,Scotland,South Africa,male,2009,South Africa
+355996,England,Pakistan,male,2009,England
+355997,Bangladesh,Ireland,male,2009,Ireland
+355998,Australia,Sri Lanka,male,2009,Sri Lanka
+355999,Netherlands,Pakistan,male,2009,Pakistan
+356000,New Zealand,South Africa,male,2009,South Africa
+356001,India,Ireland,male,2009,India
+356002,Sri Lanka,West Indies,male,2009,Sri Lanka
+356003,Ireland,New Zealand,male,2009,New Zealand
+356004,England,South Africa,male,2009,South Africa
+356005,Pakistan,Sri Lanka,male,2009,Sri Lanka
+356006,India,West Indies,male,2009,West Indies
+356007,South Africa,West Indies,male,2009,South Africa
+356008,New Zealand,Pakistan,male,2009,Pakistan
+356009,Ireland,Sri Lanka,male,2009,Sri Lanka
+356010,England,India,male,2009,England
+356011,England,West Indies,male,2009,West Indies
+356012,Ireland,Pakistan,male,2009,Pakistan
+356013,New Zealand,Sri Lanka,male,2009,Sri Lanka
+356014,India,South Africa,male,2009,South Africa
+356015,Pakistan,South Africa,male,2009,Pakistan
+356016,Sri Lanka,West Indies,male,2009,Sri Lanka
+356017,Pakistan,Sri Lanka,male,2009,Pakistan
+361530,Ireland,Kenya,male,2008,Ireland
+361531,Netherlands,Scotland,male,2008,Netherlands
+361656,Pakistan,Sri Lanka,male,2008/09,Pakistan
+361660,Pakistan,Sri Lanka,male,2008/09,Sri Lanka
+366622,New Zealand,India,male,2008/09,New Zealand
+366708,New Zealand,West Indies,male,2008/09,New Zealand
+386494,New Zealand,India,male,2008/09,New Zealand
+386535,Sri Lanka,India,male,2008/09,India
+387563,South Africa,England,male,2009/10,England
+387564,South Africa,England,male,2009/10,South Africa
+391794,England,Australia,female,2009,Australia
+392615,Australia,Pakistan,male,2009,Pakistan
+401076,West Indies,Bangladesh,male,2009,West Indies
+403375,Sri Lanka,Pakistan,male,2009,Pakistan
+403385,Sri Lanka,New Zealand,male,2009,New Zealand
+403386,Sri Lanka,New Zealand,male,2009,New Zealand
+406197,Australia,West Indies,male,2009/10,Australia
+406198,Australia,West Indies,male,2009/10,Australia
+406207,Australia,Pakistan,male,2009/10,Australia
+412677,West Indies,Ireland,male,2010,West Indies
+412678,New Zealand,Sri Lanka,male,2010,New Zealand
+412679,Afghanistan,India,male,2010,India
+412680,Bangladesh,Pakistan,male,2010,Pakistan
+412682,India,South Africa,male,2010,India
+412683,Australia,Pakistan,male,2010,Australia
+412684,New Zealand,Zimbabwe,male,2010,New Zealand
+412685,West Indies,England,male,2010,West Indies
+412686,Sri Lanka,Zimbabwe,male,2010,Sri Lanka
+412687,Afghanistan,South Africa,male,2010,South Africa
+412688,Australia,Bangladesh,male,2010,Australia
+412689,England,Pakistan,male,2010,England
+412690,New Zealand,South Africa,male,2010,South Africa
+412691,Australia,India,male,2010,Australia
+412692,West Indies,Sri Lanka,male,2010,Sri Lanka
+412693,New Zealand,Pakistan,male,2010,New Zealand
+412694,England,South Africa,male,2010,England
+412695,West Indies,India,male,2010,West Indies
+412696,Australia,Sri Lanka,male,2010,Australia
+412697,Pakistan,South Africa,male,2010,Pakistan
+412698,England,New Zealand,male,2010,England
+412699,India,Sri Lanka,male,2010,Sri Lanka
+412700,West Indies,Australia,male,2010,Australia
+412701,England,Sri Lanka,male,2010,England
+412702,Australia,Pakistan,male,2010,Australia
+412703,Australia,England,male,2010,England
+412716,Australia,India,female,2010,Australia
+412717,West Indies,New Zealand,female,2010,New Zealand
+412718,Australia,New Zealand,female,2010,Australia
+423391,South Africa,West Indies,female,2009/10,West Indies
+423782,New Zealand,Bangladesh,male,2009/10,New Zealand
+423787,New Zealand,Australia,male,2009/10,Australia
+426392,Australia,Pakistan,male,2010,Pakistan
+426393,Australia,Pakistan,male,2010,Pakistan
+426417,England,Pakistan,male,2010,England
+426418,England,Pakistan,male,2010,England
+426723,New Zealand,Pakistan,male,2009/10,Pakistan
+426724,New Zealand,Pakistan,male,2009/10,Pakistan
+430884,India,Sri Lanka,male,2009/10,Sri Lanka
+430885,India,Sri Lanka,male,2009/10,India
+439139,West Indies,Zimbabwe,male,2009/10,Zimbabwe
+439146,West Indies,South Africa,male,2010,South Africa
+439495,Afghanistan,Ireland,male,2009/10,Afghanistan
+439497,Canada,Netherlands,male,2009/10,Netherlands
+439499,Canada,Kenya,male,2009/10,Kenya
+439505,Ireland,Scotland,male,2009/10,Ireland
+439507,Afghanistan,Netherlands,male,2009/10,Netherlands
+439510,Ireland,Netherlands,male,2009/10,Ireland
+439511,Afghanistan,Ireland,male,2009/10,Afghanistan
+440945,England,Pakistan,male,2009/10,England
+440946,England,Pakistan,male,2009/10,Pakistan
+446956,Australia,Sri Lanka,male,2010/11,Sri Lanka
+446960,Australia,England,male,2010/11,England
+446961,Australia,England,male,2010/11,Australia
+447539,West Indies,South Africa,male,2010,South Africa
+452153,Zimbabwe,India,male,2010,India
+452154,Zimbabwe,India,male,2010,India
+456991,New Zealand,Sri Lanka,male,2010,New Zealand
+456992,New Zealand,Sri Lanka,male,2010,Sri Lanka
+461565,Pakistan,South Africa,male,2010/11,South Africa
+463141,South Africa,Zimbabwe,male,2010/11,South Africa
+463142,South Africa,Zimbabwe,male,2010/11,South Africa
+463149,South Africa,India,male,2010/11,India
+473918,New Zealand,Pakistan,male,2010/11,New Zealand
+473919,New Zealand,Pakistan,male,2010/11,New Zealand
+473920,New Zealand,Pakistan,male,2010/11,Pakistan
+474466,England,Sri Lanka,male,2011,Sri Lanka
+474476,England,India,male,2011,England
+476947,New Zealand,Australia,female,2010/11,Australia
+478279,Pakistan,South Africa,male,2010/11,South Africa
+489212,West Indies,Pakistan,male,2011,West Indies
+489220,West Indies,India,male,2011,India
+492547,England,India,female,2011,England
+514023,South Africa,Australia,male,2011/12,Australia
+514024,South Africa,Australia,male,2011/12,South Africa
+516204,Sri Lanka,Australia,male,2011,Sri Lanka
+516205,Sri Lanka,Australia,male,2011,Sri Lanka
+518954,Australia,India,male,2011/12,Australia
+518955,Australia,India,male,2011/12,India
+520595,New Zealand,Zimbabwe,male,2011/12,New Zealand
+520596,New Zealand,Zimbabwe,male,2011/12,New Zealand
+520597,New Zealand,South Africa,male,2011/12,New Zealand
+520598,New Zealand,South Africa,male,2011/12,South Africa
+520599,New Zealand,South Africa,male,2011/12,South Africa
+521217,India,England,male,2011/12,England
+523735,Zimbabwe,Pakistan,male,2011,Pakistan
+523736,Zimbabwe,Pakistan,male,2011,Pakistan
+525816,England,West Indies,male,2011,England
+525817,England,West Indies,male,2011,West Indies
+527012,Zimbabwe,New Zealand,male,2011/12,New Zealand
+527013,Zimbabwe,New Zealand,male,2011/12,New Zealand
+527688,New Zealand,England,female,2011/12,England
+527689,New Zealand,England,female,2011/12,England
+527690,New Zealand,England,female,2011/12,England
+530432,Pakistan,Sri Lanka,male,2011/12,Pakistan
+531635,England,Pakistan,male,2011/12,Pakistan
+531636,England,Pakistan,male,2011/12,England
+531637,England,Pakistan,male,2011/12,England
+531982,Bangladesh,West Indies,male,2011/12,Bangladesh
+533272,Sri Lanka,Zimbabwe,male,2012/13,Sri Lanka
+533273,Australia,Ireland,male,2012/13,Australia
+533274,Afghanistan,India,male,2012/13,India
+533275,South Africa,Zimbabwe,male,2012/13,South Africa
+533276,Bangladesh,New Zealand,male,2012/13,New Zealand
+533277,Afghanistan,England,male,2012/13,England
+533278,Sri Lanka,South Africa,male,2012/13,South Africa
+533279,Australia,West Indies,male,2012/13,Australia
+533280,New Zealand,Pakistan,male,2012/13,Pakistan
+533281,England,India,male,2012/13,India
+533283,Bangladesh,Pakistan,male,2012/13,Pakistan
+533285,England,West Indies,male,2012/13,West Indies
+533286,Pakistan,South Africa,male,2012/13,Pakistan
+533287,Australia,India,male,2012/13,Australia
+533288,England,New Zealand,male,2012/13,England
+533289,Sri Lanka,West Indies,male,2012/13,Sri Lanka
+533290,Australia,South Africa,male,2012/13,Australia
+533291,India,Pakistan,male,2012/13,India
+533293,Sri Lanka,England,male,2012/13,Sri Lanka
+533294,Australia,Pakistan,male,2012/13,Pakistan
+533295,India,South Africa,male,2012/13,India
+533296,Sri Lanka,Pakistan,male,2012/13,Sri Lanka
+533297,Australia,West Indies,male,2012/13,West Indies
+533298,Sri Lanka,West Indies,male,2012/13,West Indies
+533299,Sri Lanka,South Africa,female,2012/13,South Africa
+533300,New Zealand,West Indies,female,2012/13,West Indies
+533301,England,Pakistan,female,2012/13,England
+533302,Australia,India,female,2012/13,Australia
+533303,New Zealand,South Africa,female,2012/13,New Zealand
+533304,Sri Lanka,West Indies,female,2012/13,Sri Lanka
+533305,Australia,Pakistan,female,2012/13,Australia
+533306,England,India,female,2012/13,England
+533307,South Africa,West Indies,female,2012/13,West Indies
+533308,Sri Lanka,New Zealand,female,2012/13,New Zealand
+533309,India,Pakistan,female,2012/13,Pakistan
+533310,Australia,England,female,2012/13,England
+533311,England,New Zealand,female,2012/13,England
+533312,Australia,West Indies,female,2012/13,Australia
+533313,Australia,England,female,2012/13,Australia
+534208,England,West Indies,male,2012,England
+534233,England,South Africa,male,2012,South Africa
+534235,England,South Africa,male,2012,England
+538068,Bangladesh,Pakistan,male,2011/12,Pakistan
+540173,West Indies,Australia,male,2011/12,Australia
+540174,West Indies,Australia,male,2011/12,West Indies
+542850,England,India,female,2012,England
+542851,England,India,female,2012,England
+543883,Kenya,Ireland,male,2011/12,Ireland
+543884,Kenya,Ireland,male,2011/12,Ireland
+543885,Kenya,Ireland,male,2011/12,Ireland
+546410,Canada,Netherlands,male,2011/12,Netherlands
+546414,Ireland,Kenya,male,2011/12,Ireland
+546418,Afghanistan,Netherlands,male,2011/12,Afghanistan
+546442,Ireland,Scotland,male,2011/12,Ireland
+546443,Afghanistan,Canada,male,2011/12,Afghanistan
+546462,Canada,Ireland,male,2011/12,Ireland
+546470,Ireland,Netherlands,male,2011/12,Ireland
+546473,Canada,Scotland,male,2011/12,Scotland
+546477,Afghanistan,Ireland,male,2011/12,Ireland
+551593,England,West Indies,female,2012,England
+551594,England,West Indies,female,2012,England
+551595,England,West Indies,female,2012,England
+551596,England,West Indies,female,2012,England
+551597,England,West Indies,female,2012,West Indies
+556252,South Africa,India,male,2011/12,South Africa
+560921,New Zealand,West Indies,male,2012,West Indies
+560922,New Zealand,West Indies,male,2012,West Indies
+562437,Sri Lanka,Pakistan,male,2012,Sri Lanka
+562438,Sri Lanka,Pakistan,male,2012,Pakistan
+564786,Sri Lanka,India,male,2012,India
+565810,India,England,male,2012/13,India
+565811,India,England,male,2012/13,England
+565820,India,New Zealand,male,2012,New Zealand
+565844,England,Pakistan,female,2012,England
+565845,England,Pakistan,female,2012,England
+566926,England,New Zealand,male,2013,New Zealand
+566937,England,Australia,male,2013,Australia
+566938,England,Australia,male,2013,England
+567071,Ireland,Bangladesh,male,2012,Bangladesh
+567205,Netherlands,Bangladesh,male,2012,Bangladesh
+567353,South Africa,New Zealand,male,2012/13,South Africa
+567354,South Africa,New Zealand,male,2012/13,New Zealand
+567355,South Africa,New Zealand,male,2012/13,South Africa
+567367,South Africa,Pakistan,male,2012/13,Pakistan
+569237,New Zealand,England,male,2012/13,England
+569238,New Zealand,England,male,2012/13,New Zealand
+569239,New Zealand,England,male,2012/13,England
+571148,Australia,Pakistan,male,2012,Pakistan
+571150,Australia,Pakistan,male,2012,Australia
+573019,Australia,Sri Lanka,male,2012/13,Sri Lanka
+573020,Australia,Sri Lanka,male,2012/13,Sri Lanka
+573027,Australia,West Indies,male,2012/13,West Indies
+573672,Netherlands,Bangladesh,male,2012,Netherlands
+584772,Sri Lanka,India,female,2012/13,India
+584923,Bangladesh,Sri Lanka,female,2012/13,Bangladesh
+584924,India,Pakistan,female,2012/13,India
+584928,Bangladesh,Pakistan,female,2012/13,Pakistan
+584929,India,Pakistan,female,2012/13,India
+587476,Bangladesh,West Indies,male,2012/13,West Indies
+588498,West Indies,South Africa,female,2012/13,West Indies
+588499,West Indies,South Africa,female,2012/13,West Indies
+589306,India,Pakistan,male,2012/13,Pakistan
+589307,India,Pakistan,male,2012/13,India
+592268,Canada,Kenya,male,2012/13,Canada
+592269,Canada,Kenya,male,2012/13,Kenya
+592272,Afghanistan,Scotland,male,2012/13,Afghanistan
+592273,Afghanistan,Scotland,male,2012/13,Afghanistan
+592276,Kenya,Netherlands,male,2013,Kenya
+593726,England,Australia,female,2013,England
+593727,England,Australia,female,2013,England
+593728,England,Australia,female,2013,England
+593986,West Indies,Zimbabwe,male,2012/13,West Indies
+593987,West Indies,Zimbabwe,male,2012/13,West Indies
+602477,Sri Lanka,Bangladesh,male,2012/13,Sri Lanka
+603243,Sri Lanka,West Indies,female,2012/13,West Indies
+603244,Sri Lanka,West Indies,female,2012/13,West Indies
+603246,Sri Lanka,West Indies,female,2012/13,West Indies
+623571,Zimbabwe,Bangladesh,male,2013,Zimbabwe
+623572,Zimbabwe,Bangladesh,male,2013,Bangladesh
+627008,England,Pakistan,female,2013,England
+627009,England,Pakistan,female,2013,Pakistan
+630951,Kenya,Netherlands,male,2013,Kenya
+635658,Sri Lanka,South Africa,male,2013,South Africa
+635659,Sri Lanka,South Africa,male,2013,South Africa
+635660,Sri Lanka,South Africa,male,2013,Sri Lanka
+636164,Australia,England,male,2013/14,Australia
+636165,Australia,England,male,2013/14,Australia
+636166,Australia,England,male,2013/14,Australia
+636536,West Indies,England,male,2013/14,West Indies
+636537,West Indies,England,male,2013/14,West Indies
+636538,West Indies,England,male,2013/14,England
+640947,Ireland,Pakistan,female,2013,Pakistan
+644941,Ireland,Pakistan,female,2013,Pakistan
+645645,West Indies,Pakistan,male,2013,Pakistan
+645647,West Indies,Pakistan,male,2013,Pakistan
+647247,India,Australia,male,2013/14,India
+648681,South Africa,Australia,male,2013/14,Australia
+648683,South Africa,Australia,male,2013/14,Australia
+649101,Pakistan,South Africa,male,2013/14,South Africa
+649103,Pakistan,South Africa,male,2013/14,South Africa
+657631,Afghanistan,Pakistan,male,2013/14,Pakistan
+657633,Pakistan,Sri Lanka,male,2013/14,Pakistan
+657635,Pakistan,Sri Lanka,male,2013/14,Sri Lanka
+659545,Zimbabwe,Pakistan,male,2013,Pakistan
+659547,Zimbabwe,Pakistan,male,2013,Pakistan
+660107,Afghanistan,Netherlands,male,2013/14,Netherlands
+660113,Canada,Ireland,male,2013/14,Ireland
+660123,Afghanistan,Scotland,male,2013/14,Afghanistan
+660149,Kenya,Scotland,male,2013/14,Kenya
+660173,Netherlands,Scotland,male,2013/14,Scotland
+660185,Kenya,Netherlands,male,2013/14,Netherlands
+660203,Afghanistan,Kenya,male,2013/14,Afghanistan
+660209,Canada,Kenya,male,2013/14,Kenya
+660223,Netherlands,Scotland,male,2013/14,Netherlands
+660235,Afghanistan,Ireland,male,2013/14,Ireland
+661695,New Zealand,West Indies,male,2013/14,New Zealand
+661697,New Zealand,West Indies,male,2013/14,New Zealand
+662383,Afghanistan,Kenya,male,2013/14,Afghanistan
+662387,Afghanistan,Kenya,male,2013/14,Kenya
+664293,South Africa,Bangladesh,female,2013/14,South Africa
+664295,South Africa,Bangladesh,female,2013/14,South Africa
+666047,Australia,England,female,2013/14,Australia
+666049,Australia,England,female,2013/14,Australia
+667731,England,India,male,2014,England
+667887,England,Sri Lanka,male,2014,Sri Lanka
+668515,South Africa,Sri Lanka,female,2013/14,South Africa
+668517,South Africa,Sri Lanka,female,2013/14,Sri Lanka
+668519,South Africa,Sri Lanka,female,2013/14,South Africa
+668959,Bangladesh,New Zealand,male,2013/14,New Zealand
+668969,Sri Lanka,New Zealand,male,2013/14,Sri Lanka
+682897,Bangladesh,Afghanistan,male,2013/14,Bangladesh
+682899,Hong Kong,Nepal,male,2013/14,Nepal
+682901,Ireland,Zimbabwe,male,2013/14,Ireland
+682903,Netherlands,United Arab Emirates,male,2013/14,Netherlands
+682905,Afghanistan,Hong Kong,male,2013/14,Afghanistan
+682907,Bangladesh,Nepal,male,2013/14,Bangladesh
+682909,Netherlands,Zimbabwe,male,2013/14,Zimbabwe
+682911,Ireland,United Arab Emirates,male,2013/14,Ireland
+682913,Afghanistan,Nepal,male,2013/14,Nepal
+682915,Bangladesh,Hong Kong,male,2013/14,Hong Kong
+682917,United Arab Emirates,Zimbabwe,male,2013/14,Zimbabwe
+682919,Ireland,Netherlands,male,2013/14,Netherlands
+682921,India,Pakistan,male,2013/14,India
+682923,South Africa,Sri Lanka,male,2013/14,Sri Lanka
+682925,England,New Zealand,male,2013/14,New Zealand
+682927,Australia,Pakistan,male,2013/14,Pakistan
+682929,India,West Indies,male,2013/14,India
+682931,New Zealand,South Africa,male,2013/14,South Africa
+682933,Netherlands,Sri Lanka,male,2013/14,Sri Lanka
+682935,Bangladesh,West Indies,male,2013/14,West Indies
+682937,Netherlands,South Africa,male,2013/14,South Africa
+682939,England,Sri Lanka,male,2013/14,England
+682941,Australia,West Indies,male,2013/14,West Indies
+682943,Bangladesh,India,male,2013/14,India
+682945,Netherlands,New Zealand,male,2013/14,New Zealand
+682947,England,South Africa,male,2013/14,South Africa
+682949,Bangladesh,Pakistan,male,2013/14,Pakistan
+682951,Australia,India,male,2013/14,India
+682953,England,Netherlands,male,2013/14,Netherlands
+682955,New Zealand,Sri Lanka,male,2013/14,Sri Lanka
+682957,Bangladesh,Australia,male,2013/14,Australia
+682959,Pakistan,West Indies,male,2013/14,West Indies
+682961,Sri Lanka,West Indies,male,2013/14,Sri Lanka
+682963,India,South Africa,male,2013/14,India
+682965,India,Sri Lanka,male,2013/14,Sri Lanka
+682967,Australia,New Zealand,female,2013/14,New Zealand
+682971,England,West Indies,female,2013/14,West Indies
+682973,India,Sri Lanka,female,2013/14,Sri Lanka
+682975,Ireland,New Zealand,female,2013/14,New Zealand
+682979,Bangladesh,West Indies,female,2013/14,West Indies
+682981,England,India,female,2013/14,England
+682985,New Zealand,Pakistan,female,2013/14,New Zealand
+682989,Sri Lanka,West Indies,female,2013/14,West Indies
+682991,Ireland,South Africa,female,2013/14,South Africa
+682993,Australia,Pakistan,female,2013/14,Australia
+682995,Bangladesh,India,female,2013/14,India
+682997,England,Sri Lanka,female,2013/14,England
+682999,Ireland,Pakistan,female,2013/14,Pakistan
+683001,New Zealand,South Africa,female,2013/14,South Africa
+683003,Bangladesh,Sri Lanka,female,2013/14,Bangladesh
+683005,India,West Indies,female,2013/14,India
+683007,New Zealand,Sri Lanka,female,2013/14,New Zealand
+683009,India,Pakistan,female,2013/14,India
+683011,Australia,West Indies,female,2013/14,Australia
+683013,England,South Africa,female,2013/14,England
+683015,Australia,England,female,2013/14,Australia
+685727,South Africa,Pakistan,male,2013/14,South Africa
+685729,South Africa,Pakistan,male,2013/14,Pakistan
+690351,Bangladesh,Sri Lanka,male,2013/14,Sri Lanka
+690353,Bangladesh,Sri Lanka,male,2013/14,Sri Lanka
+693433,England,South Africa,female,2014,England
+693435,England,South Africa,female,2014,England
+693437,England,South Africa,female,2014,England
+698983,Pakistan,South Africa,female,2013/14,Pakistan
+698985,Ireland,Pakistan,female,2013/14,Ireland
+698987,Ireland,South Africa,female,2013/14,South Africa
+698995,Pakistan,South Africa,female,2013/14,Pakistan
+702141,West Indies,Ireland,male,2013/14,Ireland
+702143,West Indies,Ireland,male,2013/14,West Indies
+718465,Pakistan,Sri Lanka,female,2013/14,Pakistan
+718467,Bangladesh,Ireland,female,2013/14,Bangladesh
+722335,South Africa,West Indies,male,2014/15,West Indies
+722337,South Africa,West Indies,male,2014/15,West Indies
+727917,Australia,Pakistan,male,2014/15,Australia
+730283,West Indies,New Zealand,male,2014,New Zealand
+730285,West Indies,New Zealand,male,2014,West Indies
+736063,South Africa,West Indies,male,2014/15,South Africa
+742617,New Zealand,Pakistan,male,2014/15,Pakistan
+743953,England,New Zealand,male,2015,England
+743975,England,Australia,male,2015,England
+754039,New Zealand,Pakistan,male,2014/15,New Zealand
+754717,Australia,South Africa,male,2014/15,South Africa
+754719,Australia,South Africa,male,2014/15,Australia
+754721,Australia,South Africa,male,2014/15,Australia
+754793,Australia,Pakistan,female,2014,Australia
+754795,Australia,Pakistan,female,2014,Australia
+754797,Australia,Pakistan,female,2014,Australia
+754799,Australia,Pakistan,female,2014,Australia
+754801,Australia,West Indies,female,2014/15,Australia
+754805,Australia,West Indies,female,2014/15,Australia
+757511,Sri Lanka,South Africa,female,2014/15,Sri Lanka
+757513,Sri Lanka,South Africa,female,2014/15,South Africa
+757515,Sri Lanka,South Africa,female,2014/15,South Africa
+798377,England,Australia,female,2015,England
+798379,England,Australia,female,2015,Australia
+798381,England,Australia,female,2015,England
+798615,Ireland,Australia,female,2015,Australia
+798619,Ireland,Australia,female,2015,Australia
+798621,Ireland,Australia,female,2015,Australia
+800479,South Africa,England,male,2015/16,South Africa
+800481,South Africa,England,male,2015/16,South Africa
+802327,Hong Kong,Nepal,male,2014/15,Hong Kong
+808869,Pakistan,Sri Lanka,female,2014/15,Pakistan
+808871,Pakistan,Sri Lanka,female,2014/15,Sri Lanka
+817203,Bangladesh,South Africa,male,2015,South Africa
+817205,Bangladesh,South Africa,male,2015,South Africa
+828247,Pakistan,South Africa,female,2014/15,Pakistan
+828249,Pakistan,South Africa,female,2014/15,Pakistan
+828251,Pakistan,South Africa,female,2014/15,South Africa
+848839,South Africa,New Zealand,male,2015,South Africa
+848841,South Africa,New Zealand,male,2015,New Zealand
+856117,Sri Lanka,West Indies,female,2015,Sri Lanka
+856119,Sri Lanka,West Indies,female,2015,West Indies
+856121,Sri Lanka,West Indies,female,2015,West Indies
+858491,Bangladesh,Pakistan,male,2015,Bangladesh
+860279,Sri Lanka,Pakistan,male,2015,Pakistan
+860281,Sri Lanka,Pakistan,male,2015,Pakistan
+868723,Pakistan,Zimbabwe,male,2015,Pakistan
+868725,Pakistan,Zimbabwe,male,2015,Pakistan
+875457,Scotland,United Arab Emirates,male,2015,Scotland
+875459,Afghanistan,Netherlands,male,2015,Afghanistan
+875467,Afghanistan,United Arab Emirates,male,2015,Afghanistan
+875471,Scotland,Netherlands,male,2015,Netherlands
+875481,Netherlands,United Arab Emirates,male,2015,Netherlands
+875485,Scotland,Afghanistan,male,2015,Afghanistan
+875491,Nepal,Ireland,male,2015,Ireland
+875501,Ireland,Papua New Guinea,male,2015,Papua New Guinea
+875507,Hong Kong,Nepal,male,2015,Hong Kong
+875513,Nepal,Papua New Guinea,male,2015,Papua New Guinea
+875521,Ireland,Hong Kong,male,2015,Hong Kong
+875541,Afghanistan,Hong Kong,male,2015,Hong Kong
+875545,Afghanistan,Papua New Guinea,male,2015,Afghanistan
+875549,Hong Kong,Scotland,male,2015,Scotland
+875551,Afghanistan,Oman,male,2015,Afghanistan
+875553,Ireland,Netherlands,male,2015,Netherlands
+881755,Bangladesh,Ireland,female,2015/16,Ireland
+883343,Netherlands,Nepal,male,2015,Netherlands
+883345,Netherlands,Nepal,male,2015,Netherlands
+884347,South Africa,Australia,male,2015/16,South Africa
+884349,South Africa,Australia,male,2015/16,Australia
+884351,South Africa,Australia,male,2015/16,Australia
+885969,Zimbabwe,India,male,2015,India
+885971,Zimbabwe,India,male,2015,Zimbabwe
+889463,Ireland,Scotland,male,2015,Scotland
+892043,West Indies,Pakistan,female,2015/16,West Indies
+894293,Zimbabwe,New Zealand,male,2015,New Zealand
+895789,Australia,India,female,2015/16,India
+895791,Australia,India,female,2015/16,Australia
+895817,Australia,India,male,2015/16,India
+895819,Australia,India,male,2015/16,India
+895821,Australia,India,male,2015/16,India
+902649,England,Pakistan,male,2015/16,England
+902651,England,Pakistan,male,2015/16,England
+903587,India,South Africa,male,2015/16,South Africa
+903589,India,South Africa,male,2015/16,South Africa
+907381,South Africa,England,female,2015/16,England
+907385,South Africa,England,female,2015/16,England
+907395,South Africa,West Indies,female,2015/16,South Africa
+907399,South Africa,West Indies,female,2015/16,South Africa
+913633,England,Sri Lanka,male,2016,England
+913663,England,Pakistan,male,2016,Pakistan
+914217,New Zealand,Sri Lanka,male,2015/16,New Zealand
+914219,New Zealand,Sri Lanka,male,2015/16,New Zealand
+914221,New Zealand,Pakistan,male,2015/16,Pakistan
+914223,New Zealand,Pakistan,male,2015/16,New Zealand
+914225,New Zealand,Pakistan,male,2015/16,New Zealand
+915783,Sri Lanka,West Indies,male,2015/16,Sri Lanka
+915785,Sri Lanka,West Indies,male,2015/16,West Indies
+919603,Zimbabwe,Pakistan,male,2015/16,Pakistan
+919605,Zimbabwe,Pakistan,male,2015/16,Pakistan
+923321,Pakistan,Bangladesh,female,2015/16,Pakistan
+923323,Pakistan,Bangladesh,female,2015/16,Pakistan
+924637,Zimbabwe,Afghanistan,male,2015/16,Afghanistan
+924639,Zimbabwe,Afghanistan,male,2015/16,Afghanistan
+930573,United Arab Emirates,Oman,male,2015/16,United Arab Emirates
+930575,Hong Kong,Oman,male,2015/16,Oman
+930577,Hong Kong,Oman,male,2015/16,Oman
+930579,Hong Kong,Oman,male,2015/16,Hong Kong
+930585,Afghanistan,Oman,male,2015/16,Afghanistan
+931396,Bangladesh,Zimbabwe,male,2015/16,Bangladesh
+931398,Bangladesh,Zimbabwe,male,2015/16,Zimbabwe
+936153,South Africa,Sri Lanka,male,2016/17,South Africa
+936155,South Africa,Sri Lanka,male,2016/17,Sri Lanka
+936157,South Africa,Sri Lanka,male,2016/17,Sri Lanka
+946551,England,Pakistan,female,2016,England
+946553,England,Pakistan,female,2016,England
+946555,England,Pakistan,female,2016,England
+951305,Hong Kong,Zimbabwe,male,2015/16,Zimbabwe
+951307,Afghanistan,Scotland,male,2015/16,Afghanistan
+951309,Bangladesh,Netherlands,male,2015/16,Bangladesh
+951311,Ireland,Oman,male,2015/16,Oman
+951313,Scotland,Zimbabwe,male,2015/16,Zimbabwe
+951315,Afghanistan,Hong Kong,male,2015/16,Afghanistan
+951321,Afghanistan,Zimbabwe,male,2015/16,Afghanistan
+951323,Hong Kong,Scotland,male,2015/16,Scotland
+951325,Ireland,Netherlands,male,2015/16,Netherlands
+951327,Bangladesh,Oman,male,2015/16,Bangladesh
+951329,India,New Zealand,male,2015/16,New Zealand
+951331,England,West Indies,male,2015/16,West Indies
+951333,Bangladesh,Pakistan,male,2015/16,Pakistan
+951335,Afghanistan,Sri Lanka,male,2015/16,Sri Lanka
+951337,Australia,New Zealand,male,2015/16,New Zealand
+951339,England,South Africa,male,2015/16,England
+951341,India,Pakistan,male,2015/16,India
+951343,Afghanistan,South Africa,male,2015/16,South Africa
+951345,Sri Lanka,West Indies,male,2015/16,West Indies
+951347,Australia,Bangladesh,male,2015/16,Australia
+951349,New Zealand,Pakistan,male,2015/16,New Zealand
+951351,Afghanistan,England,male,2015/16,England
+951353,India,Bangladesh,male,2015/16,India
+951355,Australia,Pakistan,male,2015/16,Australia
+951357,South Africa,West Indies,male,2015/16,West Indies
+951359,Bangladesh,New Zealand,male,2015/16,New Zealand
+951361,England,Sri Lanka,male,2015/16,England
+951363,India,Australia,male,2015/16,India
+951365,Afghanistan,West Indies,male,2015/16,Afghanistan
+951367,South Africa,Sri Lanka,male,2015/16,South Africa
+951369,England,New Zealand,male,2015/16,England
+951371,India,West Indies,male,2015/16,West Indies
+951373,England,West Indies,male,2015/16,West Indies
+951375,India,Bangladesh,female,2015/16,India
+951377,New Zealand,Sri Lanka,female,2015/16,New Zealand
+951379,Pakistan,West Indies,female,2015/16,West Indies
+951381,Bangladesh,England,female,2015/16,England
+951383,Ireland,New Zealand,female,2015/16,New Zealand
+951385,Australia,South Africa,female,2015/16,Australia
+951387,India,Pakistan,female,2015/16,Pakistan
+951389,Bangladesh,West Indies,female,2015/16,West Indies
+951391,Sri Lanka,Ireland,female,2015/16,Sri Lanka
+951393,Australia,New Zealand,female,2015/16,New Zealand
+951395,India,England,female,2015/16,England
+951397,Ireland,South Africa,female,2015/16,South Africa
+951399,England,West Indies,female,2015/16,England
+951401,Australia,Sri Lanka,female,2015/16,Australia
+951403,Bangladesh,Pakistan,female,2015/16,Pakistan
+951405,Australia,Ireland,female,2015/16,Australia
+951407,New Zealand,South Africa,female,2015/16,New Zealand
+951409,India,West Indies,female,2015/16,West Indies
+951411,England,Pakistan,female,2015/16,England
+951413,South Africa,Sri Lanka,female,2015/16,Sri Lanka
+951415,Australia,England,female,2015/16,Australia
+951417,New Zealand,West Indies,female,2015/16,West Indies
+951419,Australia,West Indies,female,2015/16,West Indies
+953103,Hong Kong,Scotland,male,2015/16,Hong Kong
+953105,Hong Kong,Scotland,male,2015/16,Scotland
+953345,Afghanistan,Zimbabwe,male,2015/16,Afghanistan
+953347,Afghanistan,Zimbabwe,male,2015/16,Afghanistan
+954735,Ireland,Papua New Guinea,male,2015/16,Ireland
+954737,Ireland,Papua New Guinea,male,2015/16,Papua New Guinea
+954741,United Arab Emirates,Ireland,male,2015/16,Ireland
+954743,United Arab Emirates,Ireland,male,2015/16,United Arab Emirates
+958415,Bangladesh,Zimbabwe,male,2015/16,Bangladesh
+958417,Bangladesh,Zimbabwe,male,2015/16,Bangladesh
+958419,Bangladesh,Zimbabwe,male,2015/16,Zimbabwe
+958421,Bangladesh,Zimbabwe,male,2015/16,Zimbabwe
+962023,Ireland,Bangladesh,female,2016,Ireland
+963697,India,Sri Lanka,male,2015/16,Sri Lanka
+963699,India,Sri Lanka,male,2015/16,India
+963701,India,Sri Lanka,male,2015/16,India
+966373,United Arab Emirates,Scotland,male,2015/16,United Arab Emirates
+966713,Afghanistan,United Arab Emirates,male,2015/16,United Arab Emirates
+966735,Hong Kong,Oman,male,2015/16,Oman
+966737,Afghanistan,Oman,male,2015/16,Afghanistan
+966739,Hong Kong,United Arab Emirates,male,2015/16,United Arab Emirates
+966741,Afghanistan,Hong Kong,male,2015/16,Afghanistan
+966743,Oman,United Arab Emirates,male,2015/16,United Arab Emirates
+966745,India,Bangladesh,male,2015/16,India
+966747,Sri Lanka,United Arab Emirates,male,2015/16,Sri Lanka
+966749,Bangladesh,United Arab Emirates,male,2015/16,Bangladesh
+966751,India,Pakistan,male,2015/16,India
+966753,Bangladesh,Sri Lanka,male,2015/16,Bangladesh
+966755,Pakistan,United Arab Emirates,male,2015/16,Pakistan
+966757,India,Sri Lanka,male,2015/16,India
+966759,Bangladesh,Pakistan,male,2015/16,Bangladesh
+966761,India,United Arab Emirates,male,2015/16,India
+966763,Pakistan,Sri Lanka,male,2015/16,Pakistan
+966765,Bangladesh,India,male,2015/16,India
+967081,United Arab Emirates,Netherlands,male,2015/16,Netherlands
+995467,Sri Lanka,Australia,male,2016,Australia
+995469,Sri Lanka,Australia,male,2016,Australia

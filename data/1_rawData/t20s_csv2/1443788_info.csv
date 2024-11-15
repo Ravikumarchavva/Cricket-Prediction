@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Czech Republic
+info,team,Estonia
+info,gender,male
+info,season,2024
+info,date,2024/08/28
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,Bilal Masud
+info,umpire,Jareth McCready
+info,umpire,RJ Warren
+info,reserve_umpire,S Wood
+info,match_referee,GH Pienaar
+info,winner,Estonia
+info,winner_wickets,7
+info,player,Czech Republic,Dylan Steyn
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,Ritik Tomar
+info,player,Czech Republic,M Worndl
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,M Vandrasi
+info,player,Czech Republic,S Grover
+info,player,Czech Republic,Rahat Ali
+info,player,Czech Republic,Naveed Ahmed
+info,player,Czech Republic,S Chaudhary
+info,player,Czech Republic,Abul Farhad
+info,player,Estonia,S Gooch
+info,player,Estonia,Habib Khan
+info,player,Estonia,Ali Masood
+info,player,Estonia,Bilal Masud
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,K Vislapuu
+info,player,Estonia,P Gheewala
+info,player,Estonia,R Sekaran
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,D Robson
+info,player,Estonia,S Hook
+info,registry,people,Abul Farhad,f7cb7c3a
+info,registry,people,Ali Masood,a138f597
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,Bilal Masud,643e4882
+info,registry,people,D Robson,fa39ad19
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Dylan Steyn,ff2b190e
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Habib Khan,5152ab02
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,K Vislapuu,04855b85
+info,registry,people,M Vandrasi,e82543d5
+info,registry,people,M Worndl,e8d1c172
+info,registry,people,Naveed Ahmed,87609cbb
+info,registry,people,P Gheewala,3b22ee4e
+info,registry,people,R Sekaran,5da43a10
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,Rahat Ali,3cc13c68
+info,registry,people,Ritik Tomar,6de51a8e
+info,registry,people,S Chaudhary,24c1844e
+info,registry,people,S Gooch,622be0d9
+info,registry,people,S Grover,c2a6e61f
+info,registry,people,S Hook,eba871dd
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,Sazib Bhuiyan,e5464794

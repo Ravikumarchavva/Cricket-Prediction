@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Pakistan
+info,gender,male
+info,season,2024
+info,date,2024/06/11
+info,event,ICC Men's T20 World Cup
+info,match_number,22
+info,venue,"Nassau County International Cricket Stadium, New York"
+info,city,New York
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Mohammad Amir
+info,umpire,AT Holdstock
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,PR Reiffel
+info,tv_umpire,SJ Nogajski
+info,match_referee,RS Madugalle
+info,winner,Pakistan
+info,winner_wickets,7
+info,player,Canada,A Johnson
+info,player,Canada,NS Dhaliwal
+info,player,Canada,Pargat Singh
+info,player,Canada,NR Kirton
+info,player,Canada,S Movva
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Kaleem Sana
+info,player,Canada,D Heyliger
+info,player,Canada,Junaid Siddiqui
+info,player,Canada,JOA Gordon
+info,player,Pakistan,Mohammad Rizwan
+info,player,Pakistan,Saim Ayub
+info,player,Pakistan,Babar Azam
+info,player,Pakistan,Fakhar Zaman
+info,player,Pakistan,Usman Khan
+info,player,Pakistan,Shadab Khan
+info,player,Pakistan,Imad Wasim
+info,player,Pakistan,Shaheen Shah Afridi
+info,player,Pakistan,Naseem Shah
+info,player,Pakistan,Haris Rauf
+info,player,Pakistan,Mohammad Amir
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Babar Azam,8a75e999
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,DS Bajwa,e3540b8c
+info,registry,people,Fakhar Zaman,1777c020
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Haris Rauf,24bb1c2f
+info,registry,people,Imad Wasim,9cb8d7a6
+info,registry,people,JOA Gordon,bb9b51f4
+info,registry,people,Junaid Siddiqui,9025e58f
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,Mohammad Amir,e174dadd
+info,registry,people,Mohammad Rizwan,2f26ac1a
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Naseem Shah,9c9af282
+info,registry,people,PR Reiffel,c9354f29
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Movva,ee229588
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Saim Ayub,33609a8c
+info,registry,people,Shadab Khan,9de62878
+info,registry,people,Shaheen Shah Afridi,45a7e761
+info,registry,people,Usman Khan,bafb9238

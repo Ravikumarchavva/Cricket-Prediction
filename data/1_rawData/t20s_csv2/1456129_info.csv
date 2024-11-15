@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Kuwait
+info,gender,female
+info,season,2024/25
+info,date,2024/10/29
+info,event,Singapore Women's T20I Tri-Series
+info,match_number,9
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,Priyada Murali
+info,umpire,Hardeep Jadeja
+info,umpire,KK Ghosh
+info,reserve_umpire,Tanmoy Roy
+info,match_referee,T Senthil Kumar
+info,winner,Kuwait
+info,winner_wickets,6
+info,player,Singapore,GK Diviya
+info,player,Singapore,R Gnanaraj
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,RR Seth
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,H Dhavina
+info,player,Singapore,I Shukla
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,E Ungerman
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,B Shanti
+info,player,Kuwait,S Lita D'Sa
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Maria Jasvi
+info,player,Kuwait,CJ Dias
+info,player,Kuwait,Bhavani Yekkeli
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,Bhavani Yekkeli,6391058a
+info,registry,people,CJ Dias,7e6a3f17
+info,registry,people,E Ungerman,3959c505
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,I Shukla,ce490298
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,KK Ghosh,eea3fd8e
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryyam Ashraf,1b9d3eb3
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,R Gnanaraj,6ab0658d
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,S Lita D'Sa,a289cfa0
+info,registry,people,SL Gomez,02264be0
+info,registry,people,T Senthil Kumar,961ddfac
+info,registry,people,Tanmoy Roy,f0af5018
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,Zeefa Jilani,3f2b40f0

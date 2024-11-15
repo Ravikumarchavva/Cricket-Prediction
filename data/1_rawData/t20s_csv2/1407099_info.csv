@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Uganda
+info,gender,male
+info,season,2023/24
+info,date,2023/11/26
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,10
+info,venue,"United Cricket Club Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Uganda
+info,toss_decision,field
+info,player_of_match,Riazat Ali Shah
+info,umpire,Lauren Agenbag
+info,umpire,Stephen Harris
+info,reserve_umpire,F Mutizwa
+info,match_referee,GH Pienaar
+info,winner,Uganda
+info,winner_wickets,5
+info,player,Zimbabwe,I Kaia
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,TL Chatara
+info,player,Uganda,S Sesazi
+info,player,Uganda,RB Patel
+info,player,Uganda,RG Mukasa
+info,player,Uganda,AR Ramjani
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,K Waiswa
+info,player,Uganda,H Ssenyondo
+info,player,Uganda,B Masaba
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,CN Kakuru
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Madande,3560a786
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,I Kaia,5ad8c974
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c
+info,registry,people,WP Masakadza,4bc0a378

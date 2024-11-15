@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Germany
+info,gender,male
+info,season,2024
+info,date,2024/07/14
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Croatia
+info,toss_decision,bat
+info,player_of_match,V Ganesan
+info,umpire,DH Mclean
+info,umpire,N Bathi
+info,reserve_umpire,Rizwan Akram
+info,match_referee,H Pack
+info,winner,Germany
+info,winner_wickets,8
+info,player,Croatia,CP Turkich
+info,player,Croatia,D Marsic
+info,player,Croatia,ZXM Vukusic
+info,player,Croatia,DJ Turkich
+info,player,Croatia,JM Vujinovich
+info,player,Croatia,Jaikumar Thakur
+info,player,Croatia,PS Roberts
+info,player,Croatia,OSB Tilley
+info,player,Croatia,B Jerkovic
+info,player,Croatia,A Maheshwari
+info,player,Croatia,A Govorko
+info,player,Germany,B Kohler-Cadmore
+info,player,Germany,Musaddiq Ahmed
+info,player,Germany,V Aritharan
+info,player,Germany,H Singh
+info,player,Germany,V Ganesan
+info,player,Germany,Ahmed Wardak
+info,player,Germany,Sachin Mandy
+info,player,Germany,Fayaz Khan
+info,player,Germany,Muslim Yar
+info,player,Germany,Zahid Zadran
+info,player,Germany,Adil Khan
+info,registry,people,A Govorko,a6e4e6f9
+info,registry,people,A Maheshwari,3ec513ea
+info,registry,people,Adil Khan,b4706200
+info,registry,people,Ahmed Wardak,3daaabaa
+info,registry,people,B Jerkovic,63bd7086
+info,registry,people,B Kohler-Cadmore,209e91e6
+info,registry,people,CP Turkich,6264d645
+info,registry,people,D Marsic,16fa34cf
+info,registry,people,DH Mclean,281d4749
+info,registry,people,DJ Turkich,96013995
+info,registry,people,Fayaz Khan,373954ca
+info,registry,people,H Pack,fed53c91
+info,registry,people,H Singh,8209da53
+info,registry,people,JM Vujinovich,99ad98b0
+info,registry,people,Jaikumar Thakur,18fcb85f
+info,registry,people,Muslim Yar,37d8d19a
+info,registry,people,Musaddiq Ahmed,f8fb7e7b
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,OSB Tilley,3ddd957f
+info,registry,people,PS Roberts,fd43bb69
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,Sachin Mandy,501fca0d
+info,registry,people,V Aritharan,ea86bc29
+info,registry,people,V Ganesan,baa7dd37
+info,registry,people,ZXM Vukusic,78a3ae4b
+info,registry,people,Zahid Zadran,a819f6c8

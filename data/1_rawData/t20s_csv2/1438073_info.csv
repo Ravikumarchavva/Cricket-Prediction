@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Jersey
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,Jersey tour of Denmark
+info,match_number,2
+info,venue,"Svanholm Park, Brondby"
+info,city,Brondby
+info,toss_winner,Jersey
+info,toss_decision,field
+info,player_of_match,AM Tribe
+info,umpire,A Krengel
+info,umpire,Atif Jamal
+info,winner,Jersey
+info,winner_wickets,6
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,HAM Shah
+info,player,Denmark,T Bharaj
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,Surya Anand
+info,player,Denmark,Delawar Khan
+info,player,Denmark,JS Henriksen
+info,player,Denmark,Abdullah Mahmood
+info,player,Denmark,E Karimi
+info,player,Denmark,Toqeer Ahmad
+info,player,Jersey,AM Tribe
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JW Jenner
+info,player,Jersey,ZM Tribe
+info,player,Jersey,C Brennan
+info,player,Jersey,B Ward
+info,player,Jersey,DG Blampied
+info,player,Jersey,J Sumerauer
+info,player,Jersey,D Birrell
+info,player,Jersey,JE Dunford
+info,player,Jersey,CW Perchard
+info,registry,people,A Krengel,53e54340
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdullah Mahmood,926c6d3c
+info,registry,people,Atif Jamal,364345ce
+info,registry,people,B Ward,9e0bd203
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,Delawar Khan,28b99edd
+info,registry,people,E Karimi,95bd9407
+info,registry,people,HAM Shah,007113d7
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JE Dunford,89a7dd4a
+info,registry,people,JS Henriksen,2c6052a6
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,T Bharaj,49556abb
+info,registry,people,Toqeer Ahmad,d4f2a7b0
+info,registry,people,ZM Tribe,96fe3e9f

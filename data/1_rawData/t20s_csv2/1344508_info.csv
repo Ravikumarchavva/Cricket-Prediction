@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Netherlands
+info,gender,female
+info,season,2022/23
+info,date,2022/11/30
+info,event,Netherlands Women tour of Thailand
+info,match_number,2
+info,venue,Royal Chiangmai Golf Club
+info,city,Chiang Mai
+info,toss_winner,Thailand
+info,toss_decision,bat
+info,player_of_match,SL Kalis
+info,umpire,Samad Akbar
+info,umpire,Sarika Prasad
+info,reserve_umpire,AK Rana
+info,match_referee,Edwin Seah
+info,winner,Netherlands
+info,winner_wickets,5
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chantam
+info,player,Thailand,N Chaiwai
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,S Tippoch
+info,player,Thailand,S Laomi
+info,player,Thailand,B Leephatthana
+info,player,Thailand,N Boochatham
+info,player,Thailand,P Maya
+info,player,Thailand,T Putthawong
+info,player,Netherlands,B de Leede
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,R Rijke
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,AH Thomson
+info,player,Netherlands,J van Vliet
+info,player,Netherlands,C de Lange
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,S Siegers
+info,registry,people,AH Thomson,5d2031f0
+info,registry,people,AK Rana,562d74d0
+info,registry,people,B Leephatthana,aa0c5e01
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J van Vliet,cb665b69
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Laomi,4b15618c
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,S Tippoch,9c4b58db
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,Samad Akbar,f05bd21b
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,T Putthawong,23e3f2d6

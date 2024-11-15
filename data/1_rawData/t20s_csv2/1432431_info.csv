@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,New Zealand
+info,gender,female
+info,season,2024/25
+info,date,2024/10/08
+info,event,ICC Women's T20 World Cup
+info,match_number,10
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,Australia
+info,toss_decision,bat
+info,player_of_match,ML Schutt
+info,umpire,S Redfern
+info,umpire,VG Rathi
+info,reserve_umpire,S Dambanevana
+info,tv_umpire,AY Harris
+info,match_referee,GS Lakshmi
+info,winner,Australia
+info,winner_runs,60
+info,player,Australia,AJ Healy
+info,player,Australia,BL Mooney
+info,player,Australia,EA Perry
+info,player,Australia,P Litchfield
+info,player,Australia,GM Harris
+info,player,Australia,A Gardner
+info,player,Australia,G Wareham
+info,player,Australia,TM McGrath
+info,player,Australia,A Sutherland
+info,player,Australia,S Molineux
+info,player,Australia,ML Schutt
+info,player,New Zealand,SW Bates
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,ML Green
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,RA Mair
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,registry,people,A Gardner,bc969efb
+info,registry,people,A Sutherland,65d9b6b6
+info,registry,people,AC Kerr,7673c908
+info,registry,people,AJ Healy,321644de
+info,registry,people,AY Harris,90d95b82
+info,registry,people,BL Mooney,52d1dbc8
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,EA Perry,be150fc8
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,G Wareham,f0b4e47d
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GM Harris,72166006
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ML Green,865eae1f
+info,registry,people,ML Schutt,17608a6f
+info,registry,people,P Litchfield,4e6ef14f
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Molineux,99e23670
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TM McGrath,ca5acfa4
+info,registry,people,VG Rathi,144e5b16

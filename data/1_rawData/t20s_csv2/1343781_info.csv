@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sierra Leone
+info,team,Eswatini
+info,gender,male
+info,season,2022/23
+info,date,2022/12/05
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,14
+info,venue,Integrated Polytechnic Regional Centre
+info,city,Kigali City
+info,toss_winner,Eswatini
+info,toss_decision,field
+info,player_of_match,L Lamin
+info,umpire,C Phiri
+info,umpire,Lauren Agenbag
+info,match_referee,SA Fritz
+info,winner,Sierra Leone
+info,winner_runs,4
+info,player,Sierra Leone,A Gbla
+info,player,Sierra Leone,A Turay
+info,player,Sierra Leone,G Ngegba
+info,player,Sierra Leone,L Lamin
+info,player,Sierra Leone,Zahid Khan
+info,player,Sierra Leone,G Sesay
+info,player,Sierra Leone,M Kpaka
+info,player,Sierra Leone,Mohamed Khan
+info,player,Sierra Leone,R Coker
+info,player,Sierra Leone,S Conteh
+info,player,Sierra Leone,J Bangura
+info,player,Eswatini,Adil Butt
+info,player,Eswatini,T Sandeep
+info,player,Eswatini,Umair Qasim
+info,player,Eswatini,Naeem Gull
+info,player,Eswatini,H Rashid
+info,player,Eswatini,M Jele
+info,player,Eswatini,M Magagula
+info,player,Eswatini,Eric Phiri
+info,player,Eswatini,C Forbes
+info,player,Eswatini,D Polpitiya
+info,player,Eswatini,W Dlamini
+info,registry,people,A Gbla,34ab1e6e
+info,registry,people,A Turay,11a22126
+info,registry,people,Adil Butt,fde53ec1
+info,registry,people,C Forbes,8a9e3cd0
+info,registry,people,C Phiri,ade73404
+info,registry,people,D Polpitiya,b7062209
+info,registry,people,Eric Phiri,b6355062
+info,registry,people,G Ngegba,69caf2be
+info,registry,people,G Sesay,c556b9d2
+info,registry,people,H Rashid,725c73f2
+info,registry,people,J Bangura,d7acab5d
+info,registry,people,L Lamin,5a970aab
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Jele,1a8cedc8
+info,registry,people,M Kpaka,c381cec5
+info,registry,people,M Magagula,7a787b98
+info,registry,people,Mohamed Khan,13501ff4
+info,registry,people,Naeem Gull,4c49c917
+info,registry,people,R Coker,3239c8a9
+info,registry,people,S Conteh,8f70fff7
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Sandeep,b794a78d
+info,registry,people,Umair Qasim,e086735b
+info,registry,people,W Dlamini,d2ac882a
+info,registry,people,Zahid Khan,bf896894

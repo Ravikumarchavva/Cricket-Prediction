@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,South Africa
+info,gender,female
+info,season,2023
+info,date,2023/09/04
+info,event,South Africa Women tour of Pakistan
+info,match_number,3
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,L Wolvaardt
+info,umpire,Faisal Afridi
+info,umpire,Tariq Rasheed
+info,reserve_umpire,Afia Amin
+info,tv_umpire,Rashid Riaz
+info,match_referee,Muhammad Javed
+info,winner,Pakistan
+info,winner_runs,6
+info,player,Pakistan,Shawaal Zulfiqar
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Syeda Aroob Shah
+info,player,Pakistan,Umm-e-Hani
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,N de Klerk
+info,player,South Africa,D Tucker
+info,player,South Africa,N Shangase
+info,player,South Africa,M De Ridder
+info,player,South Africa,M Klaas
+info,player,South Africa,N Mlaba
+info,player,South Africa,TS Sekhukhune
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,Afia Amin,7fc47de1
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,D Tucker,2b425403
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M De Ridder,5bb7ec70
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,N Mlaba,686362af
+info,registry,people,N Shangase,b17a4a93
+info,registry,people,N de Klerk,ea544967
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,S Luus,6d76bc23
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Shawaal Zulfiqar,adb2f55e
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Syeda Aroob Shah,4cf8708b
+info,registry,people,T Brits,06659caa
+info,registry,people,TS Sekhukhune,6e28e586
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Umm-e-Hani,6ee11109

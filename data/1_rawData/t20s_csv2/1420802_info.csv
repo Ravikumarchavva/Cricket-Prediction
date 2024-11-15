@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Maldives
+info,gender,male
+info,season,2023/24
+info,date,2024/02/12
+info,event,Quadrangular Twenty20 Series (Thailand)
+info,match_number,2
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Saudi Arabia
+info,toss_decision,bat
+info,player_of_match,Kashif Siddique
+info,umpire,Arif Ansari
+info,umpire,T Khalid
+info,reserve_umpire,KB Suresh
+info,winner,Saudi Arabia
+info,winner_runs,98
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Kashif Siddique
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Waqar Ul Hassan
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Imran Yousaf
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Shahzaib
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Ismail Ali
+info,player,Maldives,KTK Rodrigo
+info,player,Maldives,Hassan Rasheed
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Nazwan Ismail
+info,player,Maldives,Mohamed Ishmath
+info,player,Maldives,Rasheed Rassam
+info,registry,people,Arif Ansari,95957b9e
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Hassan Rasheed,1ca51098
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Imran Yousaf,5e67d4e0
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,KB Suresh,40316210
+info,registry,people,KTK Rodrigo,a482add2
+info,registry,people,Kashif Siddique,2513b4fe
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Ishmath,8c7b9bfc
+info,registry,people,Nazwan Ismail,c8e5012c
+info,registry,people,Rasheed Rassam,bde62f47
+info,registry,people,Shahzaib,befef38f
+info,registry,people,T Khalid,9168597e
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Waqar Ul Hassan,b704da31
+info,registry,people,Zain Ul Abidin,b93b87ae

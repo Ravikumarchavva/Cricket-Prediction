@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Zimbabwe
+info,gender,female
+info,season,2023/24
+info,date,2023/12/17
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,P Marange
+info,umpire,Claus Schumacher
+info,umpire,N Perera
+info,reserve_umpire,Habib Enesi
+info,match_referee,O Chirombe
+info,winner,Zimbabwe
+info,winner_wickets,6
+info,player,Uganda,K Awino
+info,player,Uganda,P Alako
+info,player,Uganda,S Nampiina
+info,player,Uganda,J Mbabazi
+info,player,Uganda,R Musamali
+info,player,Uganda,I Nakisuuyi
+info,player,Uganda,M Ariokot
+info,player,Uganda,C Aweko
+info,player,Uganda,I Alumo
+info,player,Uganda,E Anyipo
+info,player,Uganda,S Akiteng
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,A Ndiraya
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,P Marange
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,N Gwanzura
+info,player,Zimbabwe,CT Dhururu
+info,registry,people,A Ndiraya,c8e6bddd
+info,registry,people,C Aweko,01c1b96c
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,E Anyipo,d9e5ecb4
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,I Alumo,6edd8b10
+info,registry,people,I Nakisuuyi,2f145a4f
+info,registry,people,J Mbabazi,aaa6e84c
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Awino,c4e7749a
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Ariokot,c328bc6c
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,N Gwanzura,9c2e3040
+info,registry,people,N Perera,129709f9
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,O Chirombe,6345307f
+info,registry,people,P Alako,fcf37e14
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,R Musamali,017cadb2
+info,registry,people,S Akiteng,cf92d76b
+info,registry,people,S Nampiina,91d9aa26

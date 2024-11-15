@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Greece
+info,team,Spain
+info,gender,male
+info,season,2024
+info,date,2024/08/25
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,16
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Greece
+info,toss_decision,bat
+info,player_of_match,Yasir Ali
+info,umpire,Jareth McCready
+info,umpire,S Wood
+info,reserve_umpire,RJ Warren
+info,match_referee,GH Pienaar
+info,winner,Spain
+info,winner_wickets,7
+info,player,Greece,Aslam Mohammad
+info,player,Greece,GC Galanis
+info,player,Greece,Sajid Khan Afridi
+info,player,Greece,Samader Shadab
+info,player,Greece,AS Mehmi
+info,player,Greece,Sinan Khan
+info,player,Greece,A Gasteratos
+info,player,Greece,Muhammad Tahir
+info,player,Greece,Ali Muaaz
+info,player,Greece,S Vasilakis
+info,player,Greece,N Katechis
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,Muhammad Yasin
+info,player,Spain,Yasir Ali
+info,player,Spain,Hamza Dar
+info,player,Spain,D Doyle-Calle
+info,player,Spain,C Rumistrzewicz
+info,player,Spain,A Davidson Soler
+info,player,Spain,C Munoz-Mills
+info,player,Spain,LA Burns
+info,player,Spain,SJ Hughes-Pinan
+info,player,Spain,Mohammad Atif
+info,registry,people,A Davidson Soler,524943f1
+info,registry,people,A Gasteratos,e87c009a
+info,registry,people,AS Mehmi,4612619b
+info,registry,people,Ali Muaaz,52062ed6
+info,registry,people,Aslam Mohammad,67ae5a56
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,C Rumistrzewicz,3ed4e2ad
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,GC Galanis,db218528
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Hamza Dar,557550a4
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,Mohammad Atif,705b8c5c
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,Muhammad Tahir,2b8123ff
+info,registry,people,Muhammad Yasin,57888f3c
+info,registry,people,N Katechis,495ded1c
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Vasilakis,e18e9598
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,SJ Hughes-Pinan,ca72ea31
+info,registry,people,Sajid Khan Afridi,edc950ce
+info,registry,people,Samader Shadab,4289ccc9
+info,registry,people,Sinan Khan,251eb801
+info,registry,people,Yasir Ali,79209272

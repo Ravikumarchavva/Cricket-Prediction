@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Sierra Leone
+info,gender,female
+info,season,2023
+info,date,2023/09/03
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,7
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Sierra Leone
+info,toss_decision,field
+info,player_of_match,E Kamara
+info,umpire,IO Oyieko
+info,umpire,P Sizara
+info,reserve_umpire,Lauren Agenbag
+info,match_referee,SA Fritz
+info,winner,Sierra Leone
+info,winner_wickets,10
+info,player,Mozambique,P Cuinica
+info,player,Mozambique,II Mabunda
+info,player,Mozambique,IE Mulhovo
+info,player,Mozambique,C Magaia
+info,player,Mozambique,I Chuma
+info,player,Mozambique,FA Zavala
+info,player,Mozambique,O Matsolo
+info,player,Mozambique,RF Duvane
+info,player,Mozambique,A Salomao
+info,player,Mozambique,RO Mazumba
+info,player,Mozambique,AA Moiane
+info,player,Sierra Leone,E Kamara
+info,player,Sierra Leone,F Conteh
+info,player,Sierra Leone,C Bull
+info,player,Sierra Leone,M Turay
+info,player,Sierra Leone,Z Kamara
+info,player,Sierra Leone,AM Kamara
+info,player,Sierra Leone,J Kowa
+info,player,Sierra Leone,F Pessima
+info,player,Sierra Leone,F Parkinson
+info,player,Sierra Leone,I Quee
+info,player,Sierra Leone,A Fillie
+info,registry,people,A Fillie,67412324
+info,registry,people,A Salomao,04e145f4
+info,registry,people,AA Moiane,80190078
+info,registry,people,AM Kamara,4ca3d67d
+info,registry,people,C Bull,a7b3bd26
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,E Kamara,3f8915a0
+info,registry,people,F Conteh,1dac0c4a
+info,registry,people,F Parkinson,9b819b10
+info,registry,people,F Pessima,9be80ea0
+info,registry,people,FA Zavala,2edfa6a8
+info,registry,people,I Chuma,b1021056
+info,registry,people,I Quee,6bcefc6e
+info,registry,people,IE Mulhovo,ab750f1f
+info,registry,people,II Mabunda,b2cd0f90
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Kowa,9d80f576
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Turay,1eec6a0f
+info,registry,people,O Matsolo,3c4a62c4
+info,registry,people,P Cuinica,efca38df
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,RF Duvane,e8271d27
+info,registry,people,RO Mazumba,2a753483
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,Z Kamara,a4e98e6b

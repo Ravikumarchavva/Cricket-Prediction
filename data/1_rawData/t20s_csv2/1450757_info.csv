@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ghana
+info,team,Lesotho
+info,gender,male
+info,season,2024
+info,date,2024/09/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,7
+info,venue,University of Dar-es-Salaam Ground
+info,city,Dar-es-Salaam
+info,toss_winner,Ghana
+info,toss_decision,bat
+info,player_of_match,R Baaleri
+info,umpire,Aasif Iqbal
+info,umpire,A Premji
+info,reserve_umpire,LB Gcuma
+info,winner,Ghana
+info,winner_runs,50
+info,player,Ghana,R Baaleri
+info,player,Ghana,SK Awiah
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,A Osei
+info,player,Ghana,PK Ananya
+info,player,Ghana,F Baleri
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,KS Bagabena
+info,player,Ghana,P Yevugah
+info,player,Ghana,L Nyarko
+info,player,Ghana,E Frimpong
+info,player,Lesotho,LM Gabriel
+info,player,Lesotho,ME Leoela
+info,player,Lesotho,LJ Leokaoke
+info,player,Lesotho,Maaz Khan
+info,player,Lesotho,Sajid Patel
+info,player,Lesotho,C Tlali
+info,player,Lesotho,Waseem Yaqoob
+info,player,Lesotho,L Monanthane
+info,player,Lesotho,TD Chaoana
+info,player,Lesotho,MV Matsau
+info,player,Lesotho,B Mejaro
+info,registry,people,A Osei,375322d1
+info,registry,people,A Premji,40a68f89
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,B Mejaro,6bd0d89e
+info,registry,people,C Tlali,70841eab
+info,registry,people,E Frimpong,3c13fc3b
+info,registry,people,F Baleri,6efdad14
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,L Monanthane,07e5bda2
+info,registry,people,L Nyarko,c391d077
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,LJ Leokaoke,456884dd
+info,registry,people,LM Gabriel,88a5adcf
+info,registry,people,ME Leoela,3b107df5
+info,registry,people,MV Matsau,dad64776
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,P Yevugah,5c842df4
+info,registry,people,PK Ananya,bc69a6d3
+info,registry,people,R Baaleri,26c9b5be
+info,registry,people,SK Awiah,bc3fc527
+info,registry,people,Sajid Patel,f8279d15
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,Waseem Yaqoob,06b387f1

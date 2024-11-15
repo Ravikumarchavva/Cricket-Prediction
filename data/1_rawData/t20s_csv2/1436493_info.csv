@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Portugal
+info,team,Isle of Man
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Portugal
+info,toss_decision,bat
+info,player_of_match,Amandeep Singh
+info,umpire,I McDonald
+info,umpire,J Jensen
+info,reserve_umpire,WPM van Liemt
+info,match_referee,G McCrea
+info,winner,Portugal
+info,winner_runs,88
+info,player,Portugal,Amandeep Singh
+info,player,Portugal,Suman Ghimire
+info,player,Portugal,J Vijay
+info,player,Portugal,ARA Chambers
+info,player,Portugal,Amir Zaib
+info,player,Portugal,Najjam Shahzad
+info,player,Portugal,JAM Henri
+info,player,Portugal,Junaid Khan
+info,player,Portugal,Sirajullah Khadim
+info,player,Portugal,Syed Maisam Ali
+info,player,Portugal,Adnan Gondal
+info,player,Isle of Man,OJ Webster
+info,player,Isle of Man,A McAuley
+info,player,Isle of Man,EF Beard
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,C Hartmann
+info,player,Isle of Man,H McAleer
+info,player,Isle of Man,CJ Langford
+info,player,Isle of Man,L Ward
+info,player,Isle of Man,JA Burrows
+info,player,Isle of Man,MJ Ansell
+info,player,Isle of Man,K Cawte
+info,registry,people,A McAuley,39e599c8
+info,registry,people,ARA Chambers,8db27a28
+info,registry,people,Adnan Gondal,79b2d37a
+info,registry,people,Amandeep Singh,d0d32c30
+info,registry,people,Amir Zaib,973006cc
+info,registry,people,C Hartmann,467c28f9
+info,registry,people,CJ Langford,3967b66f
+info,registry,people,EF Beard,68019a70
+info,registry,people,G Burrows,8bee668b
+info,registry,people,G McCrea,46f4a901
+info,registry,people,H McAleer,8b39d02a
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Vijay,709525fc
+info,registry,people,JA Burrows,dba54d8e
+info,registry,people,JAM Henri,04df9697
+info,registry,people,Junaid Khan,be0077ba
+info,registry,people,K Cawte,a2dd9236
+info,registry,people,L Ward,98f33eed
+info,registry,people,MJ Ansell,6e60a792
+info,registry,people,Najjam Shahzad,58aa33cd
+info,registry,people,OJ Webster,a69e2964
+info,registry,people,Sirajullah Khadim,ff36e706
+info,registry,people,Suman Ghimire,7d990412
+info,registry,people,Syed Maisam Ali,e204b898
+info,registry,people,WPM van Liemt,2bd48588

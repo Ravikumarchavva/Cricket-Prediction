@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,New Zealand
+info,gender,male
+info,season,2024
+info,date,2024/06/07
+info,event,ICC Men's T20 World Cup
+info,match_number,14
+info,venue,"Providence Stadium, Guyana"
+info,city,Providence
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,Rahmanullah Gurbaz
+info,umpire,Ahsan Raza
+info,umpire,HDPK Dharmasena
+info,reserve_umpire,AT Holdstock
+info,tv_umpire,Rashid Riaz
+info,match_referee,J Srinath
+info,winner,Afghanistan
+info,winner_runs,84
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Noor Ahmad
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,KS Williamson
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,TA Boult
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KS Williamson,d027ba9f
+info,registry,people,Karim Janat,62175638
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Rashid Riaz,fb82725e
+info,registry,people,TA Boult,a818c1be

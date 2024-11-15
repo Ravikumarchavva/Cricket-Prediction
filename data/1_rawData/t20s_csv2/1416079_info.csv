@@ -1,0 +1,72 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,Sri Lanka
+info,gender,male
+info,season,2023/24
+info,date,2024/02/21
+info,event,Afghanistan tour of Sri Lanka
+info,match_number,3
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Afghanistan
+info,toss_decision,bat
+info,player_of_match,Rahmanullah Gurbaz
+info,umpire,LE Hannibal
+info,umpire,RR Wimalasiri
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,BC Broad
+info,winner,Afghanistan
+info,winner_runs,3
+info,player,Afghanistan,Qais Ahmad
+info,player,Afghanistan,Hazratullah
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Mohammad Ishaq
+info,player,Afghanistan,Sharafuddin Ashraf
+info,player,Afghanistan,Noor Ahmad
+info,player,Afghanistan,Fareed Ahmad
+info,player,Afghanistan,Wafadar Momand
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,A Dananjaya
+info,player,Sri Lanka,N Thushara
+info,player,Sri Lanka,M Pathirana
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,Fareed Ahmad,67b7bad4
+info,registry,people,Hazratullah,5ea51c25
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Karim Janat,62175638
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,Mohammad Ishaq,32de4eae
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Sharafuddin Ashraf,7e678d00
+info,registry,people,Wafadar Momand,6b68d7b3

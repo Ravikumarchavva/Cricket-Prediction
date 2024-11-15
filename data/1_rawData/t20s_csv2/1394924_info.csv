@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Eswatini
+info,gender,female
+info,season,2023
+info,date,2023/09/03
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,8
+info,venue,"Botswana Cricket Association Oval 2, Gaborone"
+info,city,Gaborone
+info,toss_winner,Eswatini
+info,toss_decision,field
+info,player_of_match,MLN Sissako
+info,umpire,Justine Muzungu
+info,umpire,S Dambanevana
+info,reserve_umpire,F Mutizwa
+info,match_referee,SA Fritz
+info,winner,Cameroon
+info,winner_runs,62
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,BMA Mbida
+info,player,Cameroon,CD Mboe
+info,player,Cameroon,B Waluma
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,CI Manidom
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,O Ranedoumoun
+info,player,Cameroon,SA Akenji
+info,player,Eswatini,M Dlamini
+info,player,Eswatini,W Ginindza
+info,player,Eswatini,Ntombizodwa Mkhatshwa
+info,player,Eswatini,D Dlamini
+info,player,Eswatini,N Mabila
+info,player,Eswatini,Ntombizonke MKhatshwa
+info,player,Eswatini,A Nyirenda
+info,player,Eswatini,S Mabuza
+info,player,Eswatini,T Malinga
+info,player,Eswatini,N Simelane
+info,player,Eswatini,L Thobela
+info,registry,people,A Nyirenda,1c074e93
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,BMA Mbida,e3c23cef
+info,registry,people,CD Mboe,14198941
+info,registry,people,CI Manidom,f0396c01
+info,registry,people,D Dlamini,7a6ce3c9
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,L Thobela,ef3aeb35
+info,registry,people,M Dlamini,877a3433
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,N Mabila,21ef59e3
+info,registry,people,N Simelane,c3b5da14
+info,registry,people,Ntombizodwa Mkhatshwa,5d297269
+info,registry,people,Ntombizonke MKhatshwa,1697a7c4
+info,registry,people,O Ranedoumoun,71ee8c8d
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mabuza,8ce93575
+info,registry,people,SA Akenji,d1504c13
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Malinga,a6f6efba
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,W Ginindza,b5fedf28

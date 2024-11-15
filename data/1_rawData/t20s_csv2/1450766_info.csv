@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Indonesia
+info,gender,male
+info,season,2024
+info,date,2024/09/25
+info,event,Japan tour of South Korea
+info,venue,"Yeonhui Cricket Ground, Incheon"
+info,city,Incheon
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,C Hinze
+info,umpire,Sarika Prasad
+info,umpire,Shahid Gill
+info,winner,Japan
+info,winner_runs,4
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,R Sakurano-Thomas
+info,player,Japan,S Ravichandran
+info,player,Japan,W Miyauchi
+info,player,Japan,KH Abe
+info,player,Japan,I Takahashi
+info,player,Japan,C Hinze
+info,player,Japan,M Taniyama
+info,player,Japan,P Kumbhare
+info,player,Japan,K Kubota
+info,player,Indonesia,KD Kesuma
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,PR Surve
+info,player,Indonesia,KC Ramamoorthy
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,Gaurav Tiwari
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,RM Koda
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,C Hinze,626af7ff
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,Gaurav Tiwari,cab3f89a
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,K Kubota,42581e6d
+info,registry,people,KC Ramamoorthy,a89c270b
+info,registry,people,KD Kesuma,4b349dc0
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,PR Surve,206efeb1
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,RM Koda,f0a45427
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shahid Gill,e96950b7
+info,registry,people,W Miyauchi,fef40097

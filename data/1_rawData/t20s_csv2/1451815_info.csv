@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,West Indies
+info,gender,male
+info,season,2024/25
+info,date,2024/10/15
+info,event,West Indies tour of Sri Lanka
+info,match_number,2
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,P Nissanka
+info,umpire,LE Hannibal
+info,umpire,RR Wimalasiri
+info,reserve_umpire,RSA Palliyaguruge
+info,tv_umpire,RMPJ Rambukwella
+info,match_referee,RS Madugalle
+info,winner,Sri Lanka
+info,winner_runs,73
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PBB Rajapaksa
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,DN Wellalage
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,N Thushara
+info,player,West Indies,BA King
+info,player,West Indies,E Lewis
+info,player,West Indies,ADS Fletcher
+info,player,West Indies,RL Chase
+info,player,West Indies,SE Rutherford
+info,player,West Indies,G Motie
+info,player,West Indies,R Powell
+info,player,West Indies,R Shepherd
+info,player,West Indies,SK Springer
+info,player,West Indies,AS Joseph
+info,player,West Indies,S Joseph
+info,registry,people,ADS Fletcher,1bae756b
+info,registry,people,AS Joseph,b0946605
+info,registry,people,BA King,7fca84b7
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,E Lewis,0ebfb1ad
+info,registry,people,G Motie,97bdec3d
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Powell,650d5e49
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RL Chase,3feda4fa
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,S Joseph,97290faf
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SK Springer,4175d211

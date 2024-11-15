@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Sri Lanka
+info,gender,male
+info,season,2023/24
+info,date,2024/01/18
+info,event,Zimbabwe tour of Sri Lanka
+info,match_number,3
+info,venue,"R Premadasa Stadium, Colombo"
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,PWH de Silva
+info,umpire,LE Hannibal
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,RR Wimalasiri
+info,match_referee,RS Madugalle
+info,winner,Sri Lanka
+info,winner_wickets,9
+info,player,Zimbabwe,TS Kamunhukamwe
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,WP Masakadza
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,B Muzarabani
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,PVD Chameera
+info,player,Sri Lanka,D Madushanka
+info,player,Sri Lanka,PHKD Mendis
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,C Madande,3560a786
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,D Madushanka,de7d833e
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PVD Chameera,327b58d3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,TS Kamunhukamwe,4e1b4323
+info,registry,people,WP Masakadza,4bc0a378

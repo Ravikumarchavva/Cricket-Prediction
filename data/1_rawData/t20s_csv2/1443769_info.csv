@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Finland
+info,gender,male
+info,season,2024
+info,date,2024/08/21
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,4
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,NM Salonen
+info,umpire,RJ Veillard
+info,umpire,S Wood
+info,reserve_umpire,RJ Warren
+info,match_referee,GH Pienaar
+info,winner,Finland
+info,winner_wickets,9
+info,player,Malta,Zeeshan Khan
+info,player,Malta,R Dianish
+info,player,Malta,G Thakur
+info,player,Malta,Jaspal Singh
+info,player,Malta,B George
+info,player,Malta,C Sudarsanan
+info,player,Malta,DR Patankar
+info,player,Malta,E Mathew
+info,player,Malta,B Arora
+info,player,Malta,J Shaju
+info,player,Malta,VRB Arachchige
+info,player,Finland,Ghulam Abbas Butt
+info,player,Finland,VS Padhaal
+info,player,Finland,Amjad Sher
+info,player,Finland,JOP Scamans
+info,player,Finland,MB Tambe
+info,player,Finland,Akhil Arjunan
+info,player,Finland,Atif Rasheed
+info,player,Finland,E Kuchey
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,Jordan O'Brien
+info,player,Finland,NM Salonen
+info,registry,people,Akhil Arjunan,2b203501
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Kuchey,5d6064b0
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,G Thakur,93720584
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Ghulam Abbas Butt,cc796077
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,JOP Scamans,4e56e796
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,MB Tambe,1c1bb0d5
+info,registry,people,NM Salonen,f5bd70f2
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,VRB Arachchige,70e1b3a8
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Zeeshan Khan,3f9b1a96

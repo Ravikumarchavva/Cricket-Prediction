@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Jersey
+info,gender,male
+info,season,2023
+info,date,2023/07/21
+info,event,ICC Men's T20 World Cup Europe Region Qualifier
+info,match_number,6
+info,venue,"Grange Cricket Club Ground, Raeburn Place, Edinburgh"
+info,city,Edinburgh
+info,toss_winner,Jersey
+info,toss_decision,field
+info,player_of_match,MRJ Watt
+info,umpire,J Jensen
+info,umpire,R Black
+info,reserve_umpire,DH Mclean
+info,match_referee,Phil Whitticase
+info,winner,Scotland
+info,winner_runs,14
+info,player,Scotland,HG Munsey
+info,player,Scotland,OJ Hairs
+info,player,Scotland,MH Cross
+info,player,Scotland,RD Berrington
+info,player,Scotland,BJ McMullen
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,GT Main
+info,player,Scotland,BJ Currie
+info,player,Jersey,C Brennan
+info,player,Jersey,H Carlyon
+info,player,Jersey,NA Greenwood
+info,player,Jersey,AM Tribe
+info,player,Jersey,JW Jenner
+info,player,Jersey,JAD Lawrenson
+info,player,Jersey,B Ward
+info,player,Jersey,J Sumerauer
+info,player,Jersey,DG Blampied
+info,player,Jersey,CW Perchard
+info,player,Jersey,EJB Miles
+info,registry,people,AM Tribe,86f84b37
+info,registry,people,B Ward,9e0bd203
+info,registry,people,BJ Currie,2ecd844a
+info,registry,people,BJ McMullen,436c763a
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,CW Perchard,9f998ed8
+info,registry,people,DG Blampied,d8976cb7
+info,registry,people,DH Mclean,281d4749
+info,registry,people,EJB Miles,6b46ce43
+info,registry,people,GT Main,4ebc70ca
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Sumerauer,0b581ed6
+info,registry,people,JAD Lawrenson,c810b349
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,OJ Hairs,c8a7b014
+info,registry,people,Phil Whitticase,99d5f6fa
+info,registry,people,R Black,156c8fb1
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,SM Sharif,f43dd8c2

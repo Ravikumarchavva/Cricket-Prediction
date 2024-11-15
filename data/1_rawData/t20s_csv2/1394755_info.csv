@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Hong Kong
+info,gender,female
+info,season,2023
+info,date,2023/08/31
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,5
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,M Bibi
+info,umpire,N Janani
+info,umpire,V Kalidas
+info,reserve_umpire,VK Jha
+info,match_referee,M Nayyar
+info,winner,Hong Kong
+info,winner_wickets,10
+info,player,Myanmar,KM Myat
+info,player,Myanmar,LL Htun
+info,player,Myanmar,TT Soe
+info,player,Myanmar,MPP San
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,ZL Win
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,TT Aung
+info,player,Myanmar,SY Win
+info,player,Myanmar,Pan Ei Phyu
+info,player,Myanmar,Thae Thae Po
+info,player,Hong Kong,NT Miles
+info,player,Hong Kong,M Hill
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,M Wai Siu
+info,player,Hong Kong,Chan Ka Man
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,MBA Lamplough
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Hill,bf5e7711
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,MBA Lamplough,997fffbe
+info,registry,people,MPP San,5bc290a2
+info,registry,people,N Janani,d06a665d
+info,registry,people,NT Miles,d27d0835
+info,registry,people,Pan Ei Phyu,9fcaeb60
+info,registry,people,SY Win,33d65ab4
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Y Daswani,2038a273
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d

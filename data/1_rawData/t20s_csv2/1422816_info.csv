@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,Malaysia
+info,gender,male
+info,season,2023/24
+info,date,2024/03/10
+info,event,Malaysia Open T20 Championship
+info,match_number,10
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,Virandeep Singh
+info,umpire,Sarika Prasad
+info,umpire,Tabarak Dar
+info,reserve_umpire,N Sivan
+info,tv_umpire,V Kalidas
+info,match_referee,B Ramani
+info,winner,Malaysia
+info,winner_wickets,6
+info,player,Tanzania,II Selemani
+info,player,Tanzania,J Masquater
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AJ Jabiri
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,ZR Jaboneke
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,YM Nkanya
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,M Syahadat Ramli
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Rizwan Haider
+info,player,Malaysia,Ahmed Faiz
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,B Ramani,92ad5353
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Masquater,f6d3cab2
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Syahadat Ramli,5efa8af3
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,ZR Jaboneke,438aef39
+info,registry,people,Zubaidi Zulkifle,dca8273d

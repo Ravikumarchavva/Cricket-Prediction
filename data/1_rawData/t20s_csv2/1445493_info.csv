@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Estonia
+info,team,Denmark
+info,gender,female
+info,season,2024
+info,date,2024/08/11
+info,event,Nordic Women T20 Cup
+info,match_number,7
+info,venue,"Ekeberg Cricket Ground 2, Oslo"
+info,city,Oslo
+info,toss_winner,Denmark
+info,toss_decision,field
+info,player_of_match,L Ostergaard
+info,winner,Denmark
+info,winner_wickets,9
+info,player,Estonia,N Zholudz
+info,player,Estonia,M Frey
+info,player,Estonia,N Tykhonravova
+info,player,Estonia,L Sormus
+info,player,Estonia,H Kerge
+info,player,Estonia,Viktoria Frey
+info,player,Estonia,A Vessik
+info,player,Estonia,B Wani
+info,player,Estonia,M Valner
+info,player,Estonia,Asma Shifa
+info,player,Estonia,S Pattenden
+info,player,Denmark,L Ostergaard
+info,player,Denmark,TS Erichsen
+info,player,Denmark,L Leisner
+info,player,Denmark,K Pandya
+info,player,Denmark,NP Dalgaard
+info,player,Denmark,AB Slebsager
+info,player,Denmark,S Ostergaard
+info,player,Denmark,D Golechha
+info,player,Denmark,C Ostergaard
+info,player,Denmark,F Molsgaard
+info,player,Denmark,K Brock-Nielsen
+info,registry,people,A Vessik,d30d4a0c
+info,registry,people,AB Slebsager,4ae7048b
+info,registry,people,Asma Shifa,39ca91e4
+info,registry,people,B Wani,a651cd4d
+info,registry,people,C Ostergaard,e212b0fd
+info,registry,people,D Golechha,c2c12f2a
+info,registry,people,F Molsgaard,6b412d9e
+info,registry,people,H Kerge,76207d36
+info,registry,people,K Brock-Nielsen,c14ba87c
+info,registry,people,K Pandya,75b4acc8
+info,registry,people,L Leisner,ed614ded
+info,registry,people,L Ostergaard,3a5160d9
+info,registry,people,L Sormus,3486a171
+info,registry,people,M Frey,4b5debcd
+info,registry,people,M Valner,b5472435
+info,registry,people,N Tykhonravova,b9f09828
+info,registry,people,N Zholudz,a60bff88
+info,registry,people,NP Dalgaard,40283617
+info,registry,people,S Ostergaard,a19e799b
+info,registry,people,S Pattenden,b7880d1d
+info,registry,people,TS Erichsen,9894e7b9
+info,registry,people,Viktoria Frey,fed9a316

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Africa
+info,team,Scotland
+info,gender,female
+info,season,2024/25
+info,date,2024/10/09
+info,event,ICC Women's T20 World Cup
+info,match_number,11
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,South Africa
+info,toss_decision,bat
+info,player_of_match,M Kapp
+info,umpire,Eloise Sheridan
+info,umpire,JM Williams
+info,reserve_umpire,CA Polosak
+info,tv_umpire,S Dambanevana
+info,match_referee,JM Pereira
+info,winner,South Africa
+info,winner_runs,80
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,A Bosch
+info,player,South Africa,M Kapp
+info,player,South Africa,S Luus
+info,player,South Africa,CL Tryon
+info,player,South Africa,A Dercksen
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Jafta
+info,player,South Africa,N Mlaba
+info,player,South Africa,A Khaka
+info,player,Scotland,S Horley
+info,player,Scotland,SJ Bryce
+info,player,Scotland,KE Bryce
+info,player,Scotland,A Lister
+info,player,Scotland,PA Chatterji
+info,player,Scotland,DEM Carter
+info,player,Scotland,L Jack
+info,player,Scotland,K Fraser
+info,player,Scotland,R Slater
+info,player,Scotland,AH Maqsood
+info,player,Scotland,O Bell
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,A Khaka,0d518f89
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,K Fraser,a0a65375
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,O Bell,385eac52
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Slater,8a452195
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Horley,8cd72e0b
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,T Brits,06659caa

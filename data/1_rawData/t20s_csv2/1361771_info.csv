@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Bahrain
+info,gender,male
+info,season,2022/23
+info,date,2023/03/08
+info,event,Quadrangular Twenty20 Series (Hong Kong)
+info,match_number,2
+info,venue,"Mission Road Ground, Mong Kok, Hong Kong"
+info,city,Mong Kok
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,Aizaz Khan
+info,umpire,John Prakash
+info,umpire,Niaz Ali
+info,reserve_umpire,Tabarak Dar
+info,match_referee,N Hemlani
+info,winner,Hong Kong
+info,winner_runs,15
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,KD Shah
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Mohammad Ghazanfar
+info,player,Hong Kong,Haroon Arshad
+info,player,Hong Kong,Nasrulla Rana
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Shahbaz Badar
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Abdul Majid Abbasi
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Haroon Arshad,be0f9ce9
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,KD Shah,d5ae21a2
+info,registry,people,Mohammad Ghazanfar,00321fff
+info,registry,people,N Hemlani,bcc5904a
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Niaz Ali,e33a357d
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Shahbaz Badar,23eedcd3
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

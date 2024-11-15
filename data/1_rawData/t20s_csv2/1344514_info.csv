@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,South Africa
+info,gender,female
+info,season,2022/23
+info,date,2023/01/25
+info,event,South Africa Women's T20I Tri-Series
+info,match_number,4
+info,venue,"Buffalo Park, East London"
+info,city,East London
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,T Brits
+info,umpire,RN Hendricks
+info,umpire,TC Mokorosi
+info,reserve_umpire,PJ Vosloo
+info,match_referee,SA Fritz
+info,winner,South Africa
+info,winner_wickets,10
+info,player,West Indies,RS Williams
+info,player,West Indies,B Cooper
+info,player,West Indies,SA Campbelle
+info,player,West Indies,SS Grimmond
+info,player,West Indies,S Gajnabi
+info,player,West Indies,HK Matthews
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,SS Connell
+info,player,West Indies,SJ Bruce
+info,player,West Indies,K Ramharack
+info,player,West Indies,K Schultz
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,T Brits
+info,player,South Africa,M Kapp
+info,player,South Africa,S Luus
+info,player,South Africa,CL Tryon
+info,player,South Africa,A Dercksen
+info,player,South Africa,N de Klerk
+info,player,South Africa,S Jafta
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,M Klaas
+info,player,South Africa,N Mlaba
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,B Cooper,ac0edb42
+info,registry,people,CL Tryon,4d4605e6
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,K Ramharack,321c980e
+info,registry,people,K Schultz,6900060d
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,M Kapp,63e3b6b3
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,N Mlaba,686362af
+info,registry,people,N de Klerk,ea544967
+info,registry,people,PJ Vosloo,93a6d2d0
+info,registry,people,RN Hendricks,92edb363
+info,registry,people,RS Williams,406de451
+info,registry,people,S Gajnabi,c35739a1
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SJ Bruce,aeccf5cc
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,SS Grimmond,6bebf334
+info,registry,people,T Brits,06659caa
+info,registry,people,TC Mokorosi,e93c3cf8
+info,registry,people,TS Sekhukhune,6e28e586

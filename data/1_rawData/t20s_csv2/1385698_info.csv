@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Australia
+info,team,England
+info,gender,male
+info,season,2024
+info,date,2024/09/13
+info,event,Australia tour of England
+info,match_number,2
+info,venue,"Sophia Gardens, Cardiff"
+info,city,Cardiff
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,LS Livingstone
+info,umpire,AG Wharf
+info,umpire,M Burns
+info,reserve_umpire,MJ Saggers
+info,tv_umpire,RJ Warren
+info,match_referee,AJ Pycroft
+info,winner,England
+info,winner_wickets,3
+info,player,Australia,MW Short
+info,player,Australia,TM Head
+info,player,Australia,J Fraser-McGurk
+info,player,Australia,JP Inglis
+info,player,Australia,MP Stoinis
+info,player,Australia,TH David
+info,player,Australia,C Green
+info,player,Australia,AM Hardie
+info,player,Australia,C Connolly
+info,player,Australia,SA Abbott
+info,player,Australia,A Zampa
+info,player,England,PD Salt
+info,player,England,WG Jacks
+info,player,England,JM Cox
+info,player,England,LS Livingstone
+info,player,England,JG Bethell
+info,player,England,SM Curran
+info,player,England,J Overton
+info,player,England,BA Carse
+info,player,England,AU Rashid
+info,player,England,S Mahmood
+info,player,England,RJW Topley
+info,registry,people,A Zampa,14f96089
+info,registry,people,AG Wharf,2e0fcc58
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AM Hardie,d405c0d5
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BA Carse,cad40f5e
+info,registry,people,C Connolly,fe366f34
+info,registry,people,C Green,eaa76d3c
+info,registry,people,J Fraser-McGurk,9b6e1b3f
+info,registry,people,J Overton,59559bc2
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JM Cox,ff154ecd
+info,registry,people,JP Inglis,989889ff
+info,registry,people,LS Livingstone,50c6bc2b
+info,registry,people,M Burns,b3bd0666
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MW Short,a90e53ec
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,RJW Topley,8db7f47f
+info,registry,people,S Mahmood,0f6db197
+info,registry,people,SA Abbott,1a2676c5
+info,registry,people,SM Curran,e94915e6
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,WG Jacks,9caf69a1

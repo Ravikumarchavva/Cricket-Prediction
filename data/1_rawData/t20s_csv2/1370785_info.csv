@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Sweden
+info,gender,male
+info,season,2023
+info,date,2023/05/19
+info,event,Nordic T20 Cup
+info,match_number,4
+info,venue,"Svanholm Park, Brondby"
+info,city,Brondby
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,Choudry Share Ali
+info,umpire,Fareedoon Bhatti
+info,umpire,SB Ravindra
+info,winner,Sweden
+info,winner_wickets,10
+info,player,Denmark,ND Laegsgaard
+info,player,Denmark,HAM Shah
+info,player,Denmark,S Thanikaithasan
+info,player,Denmark,SA Ahmad
+info,player,Denmark,M Kristensen
+info,player,Denmark,Surya Anand
+info,player,Denmark,Musa Shaheen
+info,player,Denmark,Anique Uddin
+info,player,Denmark,OD Hald
+info,player,Denmark,Abdul Hashim
+info,player,Denmark,Saud Munir
+info,player,Sweden,Imal Zuwak
+info,player,Sweden,Choudry Share Ali
+info,player,Sweden,Khalid Zahid
+info,player,Sweden,Abdur Rahman Sudais
+info,player,Sweden,Samiullah Rahmani
+info,player,Sweden,Saeed Ahmed
+info,player,Sweden,W Boshoff
+info,player,Sweden,Zaker Taqawi
+info,player,Sweden,Shahzeb Choudhry
+info,player,Sweden,Abdul Naser Baluch
+info,player,Sweden,Prashant Shukla
+info,registry,people,Abdul Hashim,73b1db79
+info,registry,people,Abdul Naser Baluch,6a88d66d
+info,registry,people,Abdur Rahman Sudais,edaae5f4
+info,registry,people,Anique Uddin,1f41b702
+info,registry,people,Choudry Share Ali,5c037734
+info,registry,people,Fareedoon Bhatti,534c3dbe
+info,registry,people,HAM Shah,007113d7
+info,registry,people,Imal Zuwak,1283e17b
+info,registry,people,Khalid Zahid,5c93efb1
+info,registry,people,M Kristensen,1e50426a
+info,registry,people,Musa Shaheen,6709b2de
+info,registry,people,ND Laegsgaard,b0f2d3bd
+info,registry,people,OD Hald,38189be1
+info,registry,people,Prashant Shukla,0a15f357
+info,registry,people,S Thanikaithasan,498aacac
+info,registry,people,SA Ahmad,8de618ab
+info,registry,people,SB Ravindra,394ba7a8
+info,registry,people,Saeed Ahmed,63d6e16e
+info,registry,people,Samiullah Rahmani,d5c38041
+info,registry,people,Saud Munir,5902f2eb
+info,registry,people,Shahzeb Choudhry,43f3c050
+info,registry,people,Surya Anand,ef141f36
+info,registry,people,W Boshoff,cad11a02
+info,registry,people,Zaker Taqawi,d7074ddc

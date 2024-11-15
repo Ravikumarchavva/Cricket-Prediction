@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Scotland
+info,gender,female
+info,season,2023
+info,date,2023/07/13
+info,event,Thailand Women tour of Netherlands
+info,match_number,4
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Scotland
+info,toss_decision,field
+info,player_of_match,KE Bryce
+info,umpire,M Prabhudesa
+info,umpire,Rizwan Akram
+info,reserve_umpire,WPM van Liemt
+info,match_referee,Adriaan van den Dries
+info,winner,Scotland
+info,winner_wickets,6
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,S Khiaoto
+info,player,Thailand,N Chantam
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,N Chaiwai
+info,player,Thailand,N Boochatham
+info,player,Thailand,P Maya
+info,player,Thailand,S Tippoch
+info,player,Thailand,S Chaturongrattana
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,T Putthawong
+info,player,Scotland,A Lister
+info,player,Scotland,DEM Carter
+info,player,Scotland,KE Bryce
+info,player,Scotland,SJ Bryce
+info,player,Scotland,PA Chatterji
+info,player,Scotland,L Jack
+info,player,Scotland,M McColl
+info,player,Scotland,R Slater
+info,player,Scotland,HRA Rainey
+info,player,Scotland,AH Maqsood
+info,player,Scotland,EL Watson
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,EL Watson,45dd7433
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Slater,8a452195
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Tippoch,9c4b58db
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,T Putthawong,23e3f2d6
+info,registry,people,WPM van Liemt,2bd48588

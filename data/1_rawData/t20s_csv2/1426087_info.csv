@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,West Indies
+info,team,Pakistan
+info,gender,female
+info,season,2024
+info,date,2024/05/02
+info,event,West Indies Women tour of Pakistan
+info,match_number,4
+info,venue,"National Stadium, Karachi"
+info,city,Karachi
+info,toss_winner,West Indies
+info,toss_decision,bat
+info,player_of_match,Sadia Iqbal
+info,umpire,CA Polosak
+info,umpire,Farooq Ali Khan
+info,reserve_umpire,Humaira Farah
+info,tv_umpire,Imran Javed
+info,match_referee,Muhammad Javed
+info,winner,Pakistan
+info,winner_wickets,8
+info,player,West Indies,Q Joseph
+info,player,West Indies,HK Matthews
+info,player,West Indies,SA Campbelle
+info,player,West Indies,CN Nation
+info,player,West Indies,Z James
+info,player,West Indies,AA Alleyne
+info,player,West Indies,J Glasgow
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,K Ramharack
+info,player,West Indies,Song Yangyang
+info,player,West Indies,SS Connell
+info,player,Pakistan,Ayesha Zafar
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Gull Feroza
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Natalia Pervaiz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Najiha Alvi
+info,player,Pakistan,Rameen Shamim
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,Ayesha Zafar,e15f4fa4
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CN Nation,639000b6
+info,registry,people,Farooq Ali Khan,bada879d
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,Gull Feroza,9ff1e91e
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,Humaira Farah,6b6d6623
+info,registry,people,Imran Javed,9a1405c8
+info,registry,people,J Glasgow,a2632c7c
+info,registry,people,K Ramharack,321c980e
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Najiha Alvi,faef39c1
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Natalia Pervaiz,fa8a3eb0
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,Q Joseph,d6164dc0
+info,registry,people,Rameen Shamim,0b78b7c1
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SS Connell,2f9a6bd1
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Song Yangyang,cf33e1ce
+info,registry,people,Z James,816af623

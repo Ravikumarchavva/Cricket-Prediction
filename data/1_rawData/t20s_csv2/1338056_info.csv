@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Sri Lanka
+info,gender,female
+info,season,2022/23
+info,date,2023/02/19
+info,event,ICC Women's T20 World Cup
+info,match_number,17
+info,venue,"Boland Park, Paarl"
+info,city,Paarl
+info,toss_winner,New Zealand
+info,toss_decision,bat
+info,player_of_match,AC Kerr
+info,umpire,N Janani
+info,umpire,S Redfern
+info,reserve_umpire,VG Rathi
+info,tv_umpire,Lauren Agenbag
+info,match_referee,GS Lakshmi
+info,winner,New Zealand
+info,winner_runs,102
+info,player,New Zealand,B Bezuidenhout
+info,player,New Zealand,SW Bates
+info,player,New Zealand,AC Kerr
+info,player,New Zealand,SFM Devine
+info,player,New Zealand,ML Green
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,EJ Carson
+info,player,New Zealand,FC Jonas
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,M Shehani
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,I Ranaweera
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,AC Kerr,7673c908
+info,registry,people,B Bezuidenhout,564afdcf
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,EJ Carson,7693851c
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,H Madavi,85021bcd
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,JM Kerr,9af58032
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Shehani,e04fb55d
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,ML Green,865eae1f
+info,registry,people,N Janani,d06a665d
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,S Redfern,5b038989
+info,registry,people,SFM Devine,de69af96
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

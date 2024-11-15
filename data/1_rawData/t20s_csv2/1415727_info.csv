@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Netherlands
+info,gender,male
+info,season,2024
+info,date,2024/06/13
+info,event,ICC Men's T20 World Cup
+info,match_number,27
+info,venue,"Arnos Vale Ground, Kingstown, St Vincent"
+info,city,Kingstown
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,Shakib Al Hasan
+info,umpire,CM Brown
+info,umpire,J Madanagopal
+info,reserve_umpire,JS Wilson
+info,tv_umpire,A Paleker
+info,match_referee,RB Richardson
+info,winner,Bangladesh
+info,winner_runs,25
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Netherlands,M Levitt
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,SA Engelbrecht
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,TJG Pringle
+info,player,Netherlands,A Dutt
+info,player,Netherlands,PA van Meekeren
+info,player,Netherlands,VJ Kingma
+info,registry,people,A Dutt,803dbf1d
+info,registry,people,A Paleker,634b11ac
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CM Brown,448f4f1c
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JS Wilson,d7f3b72f
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,LV van Beek,782fb776
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Levitt,6a71ba3a
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,RB Richardson,410e2f12
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,SA Engelbrecht,81a0e294
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,VJ Kingma,3a7ea906
+info,registry,people,Vikramjit Singh,2a9eee66

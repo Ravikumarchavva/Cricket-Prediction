@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maldives
+info,team,Mongolia
+info,gender,male
+info,season,2024
+info,date,2024/09/06
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,16
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Maldives
+info,toss_decision,bat
+info,player_of_match,Azyan Farhath
+info,umpire,BB Pradhan
+info,umpire,Shiju Sam
+info,reserve_umpire,Faisal Afridi
+info,match_referee,V Narayan Kutty
+info,winner,Maldives
+info,winner_runs,117
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Ismail Ali
+info,player,Maldives,GPK Wijesingha
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Mabsar Abdulla
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Mohamed Miuvaan
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,S Natsagdorj
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,S Gantulga
+info,player,Mongolia,N Naranbaatar
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,Z Shurentsetseg
+info,player,Mongolia,E Batkhuyag
+info,player,Mongolia,T Tumursukh
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,E Batkhuyag,1c366af1
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,G Ganbold,947346d8
+info,registry,people,GPK Wijesingha,91f4a6e5
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,Mabsar Abdulla,216697bf
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Miuvaan,a5bdacc3
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,N Naranbaatar,b0e16d9b
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,S Gantulga,8d995b86
+info,registry,people,S Natsagdorj,b3f47a20
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Tumursukh,4758488e
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Z Shurentsetseg,45c6afaf

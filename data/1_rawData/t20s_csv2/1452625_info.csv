@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Gibraltar
+info,gender,male
+info,season,2024
+info,date,2024/09/30
+info,event,Serbia tour of Gibraltar
+info,match_number,2
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Gibraltar
+info,toss_decision,field
+info,player_of_match,N Advani
+info,umpire,JJ Perez
+info,umpire,S Maynard
+info,match_referee,SG Chandiramani
+info,winner,Gibraltar
+info,winner_wickets,8
+info,player,Serbia,Luka Woods
+info,player,Serbia,A Dizija
+info,player,Serbia,LA Dunbar
+info,player,Serbia,V Zimonjic
+info,player,Serbia,WAE Burton
+info,player,Serbia,N Zimonjic
+info,player,Serbia,Rahman Ademi
+info,player,Serbia,B Dugic
+info,player,Serbia,M Sarenac
+info,player,Serbia,RW Hartley
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,C Pyle
+info,player,Gibraltar,IDM Latin
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,KJ Ferrary
+info,player,Gibraltar,N Advani
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,K Mirpuri
+info,registry,people,A Dizija,6483c062
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,B Dugic,5edaa34d
+info,registry,people,BA Pai,716bf559
+info,registry,people,C Pyle,d278b70b
+info,registry,people,IDM Latin,78f719ea
+info,registry,people,JJ Perez,3378a304
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Ferrary,81898acc
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,LA Dunbar,f50433e9
+info,registry,people,Luka Woods,0996f198
+info,registry,people,M Sarenac,f5ba4611
+info,registry,people,N Advani,e4f6147b
+info,registry,people,N Zimonjic,638f451b
+info,registry,people,RW Hartley,23d4170c
+info,registry,people,Rahman Ademi,a9fd6ca3
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Maynard,12a7e02a
+info,registry,people,SG Chandiramani,4fa795d2
+info,registry,people,V Zimonjic,7f784eb8
+info,registry,people,WAE Burton,b0358c6d

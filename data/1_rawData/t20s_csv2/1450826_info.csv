@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nepal
+info,team,Canada
+info,gender,male
+info,season,2024
+info,date,2024/10/01
+info,event,Canada T20 Tri-Series
+info,match_number,4
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Canada
+info,toss_decision,field
+info,player_of_match,Saad Bin Zafar
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,reserve_umpire,V Sudhakar
+info,match_referee,Neeyamur Rashid
+info,winner,Canada
+info,winner_wickets,4
+info,player,Nepal,AK Sah
+info,player,Nepal,Aasif Sheikh
+info,player,Nepal,RK Paudel
+info,player,Nepal,Kushal Malla
+info,player,Nepal,K Bhurtel
+info,player,Nepal,Gulsan Jha
+info,player,Nepal,DS Airee
+info,player,Nepal,Karan KC
+info,player,Nepal,LN Rajbanshi
+info,player,Nepal,S Lamichhane
+info,player,Nepal,Sompal Kami
+info,player,Canada,DS Bajwa
+info,player,Canada,NS Dhaliwal
+info,player,Canada,H Thaker
+info,player,Canada,NR Kirton
+info,player,Canada,S Movva
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,D Heyliger
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Akhil Kumar
+info,player,Canada,Parveen Kumar
+info,player,Canada,Kaleem Sana
+info,registry,people,AK Sah,5b1d6583
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Aasif Sheikh,dcbea954
+info,registry,people,Akhil Kumar,2feb5b8d
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,DS Airee,1747ea18
+info,registry,people,DS Bajwa,e3540b8c
+info,registry,people,Gulsan Jha,9811e35e
+info,registry,people,Gurpal Sidhu,6ad4362f
+info,registry,people,H Thaker,c01d7726
+info,registry,people,K Bhurtel,e3386c8a
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,Karan KC,f53b3e1d
+info,registry,people,Kushal Malla,7e9f1cde
+info,registry,people,LN Rajbanshi,6ad2d5f7
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Parveen Kumar,e6b3c3cc
+info,registry,people,R Shah,3424e050
+info,registry,people,RK Paudel,1a3cc554
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Lamichhane,b410bd3d
+info,registry,people,S Movva,ee229588
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Sompal Kami,1adb8ee8
+info,registry,people,V Sudhakar,816e48f6

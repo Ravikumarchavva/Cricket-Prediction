@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mali
+info,team,Ghana
+info,gender,male
+info,season,2024
+info,date,2024/09/26
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,13
+info,venue,"Gymkhana Club Ground, Dar-es-Salaam"
+info,city,Dar-es-Salaam
+info,toss_winner,Mali
+info,toss_decision,bat
+info,player_of_match,L Nyarko
+info,umpire,A Premji
+info,umpire,Patric Makumbi
+info,reserve_umpire,Habib Enesi
+info,match_referee,S Wadvalla
+info,winner,Ghana
+info,winner_wickets,10
+info,player,Mali,TM Macalou
+info,player,Mali,MS Diakite
+info,player,Mali,D Berthe
+info,player,Mali,M Malle
+info,player,Mali,S Kamate
+info,player,Mali,AD Fofana
+info,player,Mali,L Sanogo
+info,player,Mali,CA Keita
+info,player,Mali,Y Konate
+info,player,Mali,A Nimaga
+info,player,Mali,L Berthe
+info,player,Ghana,SK Awiah
+info,player,Ghana,R Baaleri
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,KS Bagabena
+info,player,Ghana,Aziz Sualley
+info,player,Ghana,A Osei
+info,player,Ghana,L Nyarko
+info,player,Ghana,V Ateak
+info,player,Ghana,Syed Aqeel Israr
+info,player,Ghana,F Baleri
+info,registry,people,A Nimaga,bc304f82
+info,registry,people,A Osei,375322d1
+info,registry,people,A Premji,40a68f89
+info,registry,people,AD Fofana,8d4a236d
+info,registry,people,Aziz Sualley,118b0a7c
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,D Berthe,a671e99e
+info,registry,people,F Baleri,6efdad14
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,L Berthe,8eb7c5a6
+info,registry,people,L Nyarko,c391d077
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,M Malle,e15c6692
+info,registry,people,MS Diakite,69795fcd
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Baaleri,26c9b5be
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SK Awiah,bc3fc527
+info,registry,people,Syed Aqeel Israr,4286e899
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,V Ateak,65a60be7
+info,registry,people,Y Konate,5934e1b2

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Saudi Arabia
+info,gender,male
+info,season,2022/23
+info,date,2022/11/16
+info,event,Desert Cup T20I Series
+info,match_number,5
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Saudi Arabia
+info,toss_decision,field
+info,player_of_match,Sohail Ahmed
+info,umpire,Anantha Rajamani
+info,umpire,M Surve
+info,tv_umpire,N Krishnan
+info,match_referee,Chetan Thanki
+info,winner,Bahrain
+info,winner_runs,53
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,DK Mathias
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Danish Jasnaik
+info,player,Bahrain,Imran Khan
+info,player,Bahrain,Sachin Kumar
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Saad Khan
+info,player,Saudi Arabia,Kashif Siddique
+info,player,Saudi Arabia,Haseeb Ghafoor
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Irshad Mubbashar
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Atif-Ur-Rehman
+info,player,Saudi Arabia,Imran Yousaf
+info,player,Saudi Arabia,Muhammad Saqib
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Anantha Rajamani,6c4ca034
+info,registry,people,Atif-Ur-Rehman,d20e22f7
+info,registry,people,Chetan Thanki,5f1a3d77
+info,registry,people,DK Mathias,bec5cab9
+info,registry,people,Danish Jasnaik,d24ad3e5
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Haseeb Ghafoor,454a7269
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Imran Yousaf,5e67d4e0
+info,registry,people,Irshad Mubbashar,58edb974
+info,registry,people,Kashif Siddique,2513b4fe
+info,registry,people,M Surve,f5df456a
+info,registry,people,Muhammad Saqib,9d6644a0
+info,registry,people,N Krishnan,b317852e
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Saad Khan,28e0f645
+info,registry,people,Sachin Kumar,b76b2d25
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Usman Najeeb,615688b6

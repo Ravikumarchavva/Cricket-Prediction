@@ -1,0 +1,65 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Tanzania
+info,gender,male
+info,season,2023
+info,date,2023/08/22
+info,event,East Africa Cup
+info,match_number,6
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,umpire,Gaston Niyibizi
+info,umpire,Norbert Abii
+info,reserve_umpire,V Iriho
+info,winner,Tanzania
+info,winner_wickets,7
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,K Irakoze
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,E Kubwimana
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,S Thakor
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,YM Nkanya
+info,player,Tanzania,Jitin Singh
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,Shaik Basha
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Kubwimana,bfc7799f
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,Jitin Singh,b7db83eb
+info,registry,people,K Irakoze,9ccb6e52
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,Norbert Abii,ed06cf51
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Shaik Basha,1b77c4c6
+info,registry,people,V Iriho,2853eafb
+info,registry,people,YM Nkanya,9238dd92

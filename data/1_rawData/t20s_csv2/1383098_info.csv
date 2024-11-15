@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Philippines
+info,gender,male
+info,season,2023
+info,date,2023/07/28
+info,event,ICC Men's T20 World Cup East Asia-Pacific Qualifier
+info,match_number,10
+info,venue,"Amini Park, Port Moresby"
+info,city,Port Moresby
+info,toss_winner,Philippines
+info,toss_decision,field
+info,player_of_match,TP Ura
+info,umpire,CA Polosak
+info,umpire,PJ Gillespie
+info,reserve_umpire,A Kapa
+info,match_referee,WC Labrooy
+info,winner,Papua New Guinea
+info,winner_runs,100
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,R Hekure
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,HGV Vare
+info,player,Papua New Guinea,KV Morea
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,JWW Gardner
+info,player,Philippines,AS Samra
+info,player,Philippines,GR Russ
+info,player,Philippines,JEA Doctora
+info,player,Philippines,H Isorena
+info,player,Philippines,DC Smith
+info,player,Philippines,Kapil Kumar
+info,player,Philippines,Huzaifa Mohammed
+info,player,Philippines,KDA Lukies
+info,player,Philippines,FN Walsh
+info,player,Philippines,Surinder Singh
+info,player,Philippines,LJ Myott
+info,registry,people,A Kapa,7c9c0f18
+info,registry,people,A Vala,72e60730
+info,registry,people,AS Samra,bf976fb0
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,DC Smith,a968d39b
+info,registry,people,FN Walsh,da738783
+info,registry,people,GR Russ,1f28fdfd
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,H Isorena,243a2cf1
+info,registry,people,HGV Vare,98299b67
+info,registry,people,Huzaifa Mohammed,65a29a30
+info,registry,people,J Kariko,cde067e1
+info,registry,people,JEA Doctora,43449b1e
+info,registry,people,JWW Gardner,6e61adb8
+info,registry,people,KDA Lukies,14af45c4
+info,registry,people,KV Morea,270bf7e2
+info,registry,people,Kapil Kumar,d4e70d7c
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,LJ Myott,3f9d95f9
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,R Hekure,c70448aa
+info,registry,people,S Bau,9a95bebb
+info,registry,people,Surinder Singh,2dcad6fa
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,WC Labrooy,29d4e29b

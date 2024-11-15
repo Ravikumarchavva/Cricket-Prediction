@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Greece
+info,gender,female
+info,season,2024
+info,date,2024/09/21
+info,event,Spain Women tour of Greece
+info,match_number,2
+info,venue,"Marina Ground, Corfu"
+info,city,Corfu
+info,toss_winner,Greece
+info,toss_decision,field
+info,player_of_match,NH Berejo
+info,umpire,Ioannis Afthinos
+info,umpire,S Doikas
+info,reserve_umpire,S Goustis
+info,winner,Spain
+info,winner_runs,65
+info,player,Spain,A Hartley
+info,player,Spain,NH Berejo
+info,player,Spain,A Davidson-Soler
+info,player,Spain,A Brown-Carrera
+info,player,Spain,JF Smagacz
+info,player,Spain,EMC Fowler
+info,player,Spain,Uswa Syed
+info,player,Spain,Tashiba Mirza
+info,player,Spain,P Chilongia
+info,player,Spain,S Basharat
+info,player,Spain,KR Frost
+info,player,Greece,A Argyropoulou
+info,player,Greece,S Georgota
+info,player,Greece,M Syrioti
+info,player,Greece,A Makri
+info,player,Greece,A Savvani
+info,player,Greece,A Gisdaki
+info,player,Greece,N Dolianiti
+info,player,Greece,DS Vlachopoulou
+info,player,Greece,M Polimeri
+info,player,Greece,M Vervitsioti
+info,player,Greece,E Kallous
+info,registry,people,A Argyropoulou,3f1bfd19
+info,registry,people,A Brown-Carrera,9e866d80
+info,registry,people,A Davidson-Soler,71d6fd2c
+info,registry,people,A Gisdaki,f8fc699a
+info,registry,people,A Hartley,e31c12c3
+info,registry,people,A Makri,98affc04
+info,registry,people,A Savvani,5d006a1a
+info,registry,people,DS Vlachopoulou,5c884c17
+info,registry,people,E Kallous,0680ff7f
+info,registry,people,EMC Fowler,4f88a917
+info,registry,people,Ioannis Afthinos,953c72cb
+info,registry,people,JF Smagacz,ab0f24e4
+info,registry,people,KR Frost,160c90b1
+info,registry,people,M Polimeri,35ccd83f
+info,registry,people,M Syrioti,f9df0aa2
+info,registry,people,M Vervitsioti,6fd40892
+info,registry,people,N Dolianiti,096149b4
+info,registry,people,NH Berejo,a9ec2608
+info,registry,people,P Chilongia,764d8336
+info,registry,people,S Basharat,1356b739
+info,registry,people,S Doikas,c75219fc
+info,registry,people,S Georgota,d07b6842
+info,registry,people,S Goustis,11e3ae8c
+info,registry,people,Tashiba Mirza,2020d4fd
+info,registry,people,Uswa Syed,cbc0e027

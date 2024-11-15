@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Denmark
+info,team,Luxembourg
+info,gender,female
+info,season,2024
+info,date,2024/09/15
+info,event,Women's T20I Quadrangular Series (in Denmark)
+info,match_number,5
+info,venue,Koge Cricket Club
+info,city,Koge
+info,toss_winner,Luxembourg
+info,toss_decision,field
+info,player_of_match,L Holmgaard
+info,umpire,G O'Grady
+info,umpire,Zeb Pirzada
+info,winner,Denmark
+info,winner_runs,43
+info,player,Denmark,K Brock-Nielsen
+info,player,Denmark,L Ostergaard
+info,player,Denmark,AB Slebsager
+info,player,Denmark,TS Erichsen
+info,player,Denmark,L Leisner
+info,player,Denmark,A Ostergaard
+info,player,Denmark,NP Dalgaard
+info,player,Denmark,ML Karlsen
+info,player,Denmark,D Golechha
+info,player,Denmark,L Holmgaard
+info,player,Denmark,C Ostergaard
+info,player,Luxembourg,SH Lawlor
+info,player,Luxembourg,PN Agarwal
+info,player,Luxembourg,Kerry Fraser
+info,player,Luxembourg,GEM Brealey
+info,player,Luxembourg,Aarti Priya
+info,player,Luxembourg,Jagrat Dubey
+info,player,Luxembourg,Khusboo Kandpal
+info,player,Luxembourg,Shivani Sati
+info,player,Luxembourg,Navneet Bamrah
+info,player,Luxembourg,Mounica Chowdary
+info,player,Luxembourg,Divya Kandpal
+info,registry,people,A Ostergaard,36ffe914
+info,registry,people,AB Slebsager,4ae7048b
+info,registry,people,Aarti Priya,ec11ad0b
+info,registry,people,C Ostergaard,e212b0fd
+info,registry,people,D Golechha,c2c12f2a
+info,registry,people,Divya Kandpal,32b8d4fe
+info,registry,people,G O'Grady,e5f74630
+info,registry,people,GEM Brealey,f2b769ad
+info,registry,people,Jagrat Dubey,a4051019
+info,registry,people,K Brock-Nielsen,c14ba87c
+info,registry,people,Kerry Fraser,8bebbcd4
+info,registry,people,Khusboo Kandpal,54a10889
+info,registry,people,L Holmgaard,8ea1f4c4
+info,registry,people,L Leisner,ed614ded
+info,registry,people,L Ostergaard,3a5160d9
+info,registry,people,ML Karlsen,4302af3d
+info,registry,people,Mounica Chowdary,b2118a44
+info,registry,people,NP Dalgaard,40283617
+info,registry,people,Navneet Bamrah,edcd403f
+info,registry,people,PN Agarwal,f34a3a74
+info,registry,people,SH Lawlor,29342bbe
+info,registry,people,Shivani Sati,b49ab82b
+info,registry,people,TS Erichsen,9894e7b9
+info,registry,people,Zeb Pirzada,716e41af

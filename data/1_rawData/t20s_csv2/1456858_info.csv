@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,China
+info,team,Hong Kong
+info,gender,female
+info,season,2024/25
+info,date,2024/11/08
+info,event,Women's T20I Quadrangular Series (in China)
+info,match_number,4
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,KY Chan
+info,umpire,John Prakash
+info,umpire,Sun Meng Yao
+info,reserve_umpire,Z Lyu
+info,tv_umpire,Huang Zhuo
+info,match_referee,G Sankaranarayanan
+info,winner,Hong Kong
+info,winner_wickets,3
+info,player,China,Zi Mei
+info,player,China,Xu Qian
+info,player,China,Jing Yang
+info,player,China,Cai Yuzhi
+info,player,China,Jiaping Li
+info,player,China,Mengting Liu
+info,player,China,M Zhu
+info,player,China,Yan Zuying
+info,player,China,Wang Huiying
+info,player,China,Ma Ruike
+info,player,China,Yang Shen
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,WK Lai
+info,player,Hong Kong,Chan Sau Har
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,M Wai Siu
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,Chan Ka Man
+info,registry,people,Cai Yuzhi,80d30c5f
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,Chan Sau Har,3c567308
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,Jiaping Li,35cac794
+info,registry,people,Jing Yang,03f1a623
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,M Zhu,36c3302e
+info,registry,people,Ma Ruike,8ccef7e2
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,WK Lai,6ab99b17
+info,registry,people,Wang Huiying,c84a3e06
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Y Daswani,2038a273
+info,registry,people,Yan Zuying,0311d9ec
+info,registry,people,Yang Shen,eae39ba0
+info,registry,people,Z Lyu,5a058533
+info,registry,people,Zi Mei,72070f05

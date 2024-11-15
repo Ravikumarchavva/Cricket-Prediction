@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Germany
+info,team,Italy
+info,gender,female
+info,season,2024
+info,date,2024/07/26
+info,event,Germany Women's T20I Tri-Series
+info,match_number,1
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Germany
+info,toss_decision,bat
+info,player_of_match,M Rathnayake
+info,umpire,J Flannery
+info,umpire,N Dhanawade
+info,reserve_umpire,M Jameson
+info,winner,Italy
+info,winner_wickets,9
+info,player,Germany,JE Ronalds
+info,player,Germany,A Bierwisch
+info,player,Germany,S Kolcharam
+info,player,Germany,A Doddaballapur
+info,player,Germany,S Sadarangani
+info,player,Germany,K Vijayaraghavan
+info,player,Germany,A Kohli
+info,player,Germany,ST Frohnmayer
+info,player,Germany,Rameesha Shahid
+info,player,Germany,MS Beresford
+info,player,Germany,EC Bargna
+info,player,Italy,M Rathnayake
+info,player,Italy,D Nanayakkara
+info,player,Italy,C Mahamalage
+info,player,Italy,EL Bartram
+info,player,Italy,K Peddrick
+info,player,Italy,Ilenia Sims
+info,player,Italy,S Kanankege
+info,player,Italy,N Asuramanage
+info,player,Italy,T Araliya
+info,player,Italy,ECB Moore
+info,player,Italy,LM Sims
+info,registry,people,A Bierwisch,b51d654f
+info,registry,people,A Doddaballapur,fe4f5d2b
+info,registry,people,A Kohli,eb9082b2
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,EC Bargna,9908d470
+info,registry,people,ECB Moore,d0ff93a9
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,Ilenia Sims,03c98aa6
+info,registry,people,J Flannery,22431c5a
+info,registry,people,JE Ronalds,d4f98302
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,K Vijayaraghavan,048da365
+info,registry,people,LM Sims,d2416610
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,MS Beresford,26eb73f9
+info,registry,people,N Asuramanage,46dff613
+info,registry,people,N Dhanawade,bc68912b
+info,registry,people,Rameesha Shahid,b810425e
+info,registry,people,S Kanankege,01815edc
+info,registry,people,S Kolcharam,761c929e
+info,registry,people,S Sadarangani,acd030a0
+info,registry,people,ST Frohnmayer,7e8bcfc1
+info,registry,people,T Araliya,d423f390

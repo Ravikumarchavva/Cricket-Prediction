@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Bhutan
+info,gender,female
+info,season,2024
+info,date,2024/07/02
+info,event,Indonesia Women's T20I Tri-Series
+info,match_number,1
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,NW Sariani
+info,umpire,Edi Agustinus
+info,umpire,IGS Arsa
+info,reserve_umpire,V Kalidas
+info,winner,Indonesia
+info,winner_runs,78
+info,player,Indonesia,NPAN Sakarini
+info,player,Indonesia,NLKWR Dewi
+info,player,Indonesia,NKF Rada Rani
+info,player,Indonesia,M Corazon
+info,player,Indonesia,K Winda Prastini
+info,player,Indonesia,RD Pangestuti
+info,player,Indonesia,D Wulandari
+info,player,Indonesia,NMP Suwandewi
+info,player,Indonesia,L Qiao
+info,player,Indonesia,DAL Paramitha
+info,player,Indonesia,NW Sariani
+info,player,Bhutan,N Choden
+info,player,Bhutan,A Gurung
+info,player,Bhutan,T Zangmo
+info,player,Bhutan,D Wangmo
+info,player,Bhutan,K Dema
+info,player,Bhutan,Sonam
+info,player,Bhutan,Y Choden
+info,player,Bhutan,S Choden
+info,player,Bhutan,Chado Om
+info,player,Bhutan,R Choden
+info,player,Bhutan,Anjuli Ghalley
+info,registry,people,A Gurung,10854c82
+info,registry,people,Anjuli Ghalley,cfb49f67
+info,registry,people,Chado Om,f53fa89c
+info,registry,people,D Wangmo,760fcf65
+info,registry,people,D Wulandari,8c0d904e
+info,registry,people,DAL Paramitha,84f831c3
+info,registry,people,Edi Agustinus,6ee9fbb9
+info,registry,people,IGS Arsa,68d52634
+info,registry,people,K Dema,0b211a32
+info,registry,people,K Winda Prastini,bd6f7c24
+info,registry,people,L Qiao,2b0deff9
+info,registry,people,M Corazon,0baa36e0
+info,registry,people,N Choden,a904600a
+info,registry,people,NKF Rada Rani,39f4084c
+info,registry,people,NLKWR Dewi,d04fc4a4
+info,registry,people,NMP Suwandewi,52b57a65
+info,registry,people,NPAN Sakarini,72b5decf
+info,registry,people,NW Sariani,e910d955
+info,registry,people,R Choden,c0266a6e
+info,registry,people,RD Pangestuti,63fc4b92
+info,registry,people,S Choden,e1e0775d
+info,registry,people,Sonam,09cbca15
+info,registry,people,T Zangmo,b1f21c0f
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Y Choden,6f17c546
