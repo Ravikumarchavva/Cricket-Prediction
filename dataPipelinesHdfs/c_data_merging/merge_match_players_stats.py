@@ -8,6 +8,7 @@ import os
 import logging
 from pyspark.sql import Window
 from pyspark.sql.functions import col, lit, row_number
+import pyspark.sql.functions as F
 
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
@@ -26,6 +27,20 @@ def process_match_players_stats():
         # Step 1: Load data from HDFS using utils
         matchPlayers = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'match_players.csv')
         playerStats = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'player_stats.csv')
+        
+        # Data quality checks and logging
+        matchPlayers_rows, matchPlayers_cols = matchPlayers.count(), len(matchPlayers.columns)
+        playerStats_rows, playerStats_cols = playerStats.count(), len(playerStats.columns)
+        logging.info(f'MatchPlayers data: {matchPlayers_rows} rows, {matchPlayers_cols} columns')
+        logging.info(f'PlayerStats data: {playerStats_rows} rows, {playerStats_cols} columns')
+        
+        # Check for nulls in critical columns
+        matchPlayers_nulls = matchPlayers.select([F.count(F.when(F.col(c).isNull(), c)).alias(c) for c in matchPlayers.columns])
+        playerStats_nulls = playerStats.select([F.count(F.when(F.col(c).isNull(), c)).alias(c) for c in playerStats.columns])
+        logging.info('Null values in matchPlayers data:')
+        matchPlayers_nulls.show()
+        logging.info('Null values in playerStats data:')
+        playerStats_nulls.show()
         
         # Add flip column
         matchPlayers = matchPlayers.withColumn("flip", lit(0))

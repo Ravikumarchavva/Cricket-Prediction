@@ -9,7 +9,7 @@ from b_data_preprocessing.matches import (
 from b_data_preprocessing.people import (
     process_players_data as process_players_function
 )
-from b_data_preprocessing.preprocess_team_data import (
+from dataPipelinesHdfs.b_data_preprocessing.player_stats.preprocess_team_data import (
     preprocess_team_data as team_stats_function
 )
 

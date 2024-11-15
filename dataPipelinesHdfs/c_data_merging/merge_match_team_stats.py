@@ -25,6 +25,20 @@ def process_match_team_stats():
         # Load data from HDFS using utils
         teams = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'team_stats.csv')
         matches = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'matches.csv')
+        
+        # Data quality checks and logging
+        teams_rows, teams_cols = teams.count(), len(teams.columns)
+        matches_rows, matches_cols = matches.count(), len(matches.columns)
+        logging.info(f'Teams data: {teams_rows} rows, {teams_cols} columns')
+        logging.info(f'Matches data: {matches_rows} rows, {matches_cols} columns')
+        
+        # Check for nulls in critical columns
+        teams_nulls = teams.select([F.count(F.when(F.col(c).isNull(), c)).alias(c) for c in teams.columns])
+        matches_nulls = matches.select([F.count(F.when(F.col(c).isNull(), c)).alias(c) for c in matches.columns])
+        logging.info('Null values in teams data:')
+        teams_nulls.show()
+        logging.info('Null values in matches data:')
+        matches_nulls.show()
 
         # Identify distinct teams
         tdt = [row['Team'] for row in teams.select("Team").distinct().collect()]

@@ -73,31 +73,31 @@ with DAG(
 
     preprocess_batting_task = SparkSubmitOperator(
         task_id='preprocess_batting',
-        application=f'{os.path.join(os.path.dirname(__file__),"..", "b_data_preprocessing", "preprocess_batting.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__),"..", "b_data_preprocessing", "player_stats", "preprocess_batting.py")}',
         conn_id='spark_default',      
     )
 
     preprocess_bowling_task = SparkSubmitOperator(
         task_id='preprocess_bowling',
-        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "preprocess_bowling.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "player_stats", "preprocess_bowling.py")}',
         conn_id='spark_default',
     )
 
     preprocess_fielding_task = SparkSubmitOperator(
         task_id='preprocess_fielding',
-        application=f'{os.path.join(os.path.dirname(__file__), ".." ,"b_data_preprocessing", "preprocess_fielding.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), ".." ,"b_data_preprocessing", "player_stats", "preprocess_fielding.py")}',
         conn_id='spark_default',
     )
 
     preprocess_team_data_task = SparkSubmitOperator(
         task_id='preprocess_team_data',
-        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "preprocess_team_data.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "player_stats", "preprocess_team_data.py")}',
         conn_id='spark_default',
         )
 
     combine_data_task = SparkSubmitOperator(
         task_id='combine_data',
-        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "combine_data.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "player_stats", "combine_data.py")}',
         conn_id='spark_default',
         )
 

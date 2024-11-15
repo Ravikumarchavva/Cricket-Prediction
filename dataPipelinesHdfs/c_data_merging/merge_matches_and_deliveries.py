@@ -8,7 +8,7 @@ import os
 import logging
 from pyspark.sql import Window
 from pyspark.sql.functions import (
-    coalesce, col, lit, sum as F_sum, when, last, max as F_max
+    coalesce, col, lit, sum as F_sum, when, last, max as F_max, count
 )
 
 import sys
@@ -28,6 +28,20 @@ def merge_data():
         # Load preprocessed data from HDFS using utils
         matches = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'matches.csv')
         deliveries = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'deliveries.csv')
+        
+        # Data quality checks and logging
+        matches_rows, matches_cols = matches.count(), len(matches.columns)
+        deliveries_rows, deliveries_cols = deliveries.count(), len(deliveries.columns)
+        logging.info(f'Matches data: {matches_rows} rows, {matches_cols} columns')
+        logging.info(f'Deliveries data: {deliveries_rows} rows, {deliveries_cols} columns')
+        
+        # Check for nulls in critical columns
+        matches_nulls = matches.select([count(when(col(c).isNull(), c)).alias(c) for c in matches.columns])
+        deliveries_nulls = deliveries.select([count(when(col(c).isNull(), c)).alias(c) for c in deliveries.columns])
+        logging.info('Null values in matches data:')
+        matches_nulls.show()
+        logging.info('Null values in deliveries data:')
+        deliveries_nulls.show()
         
         # Data preprocessing steps
         deliveries = deliveries.drop('season', 'start_date', 'venue', 'striker', 'non_striker', 'bowler')
@@ -58,6 +72,10 @@ def merge_data():
         
         # Join deliveries with matches data
         data = deliveries.join(matches, on='match_id').drop('season', 'venue', 'gender')
+        
+        # Verify the number of rows after join
+        data_rows = data.count()
+        logging.info(f'Combined data after join: {data_rows} rows')
         
         # Create flipped dataframes for modeling
         data1 = data.withColumn("flip", lit(0))
