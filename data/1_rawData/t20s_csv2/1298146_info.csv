@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Zimbabwe
+info,gender,male
+info,season,2022/23
+info,date,2022/10/21
+info,event,ICC Men's T20 World Cup
+info,match_number,12
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Scotland
+info,toss_decision,bat
+info,player_of_match,Sikandar Raza
+info,umpire,MA Gough
+info,umpire,Nitin Menon
+info,reserve_umpire,CB Gaffaney
+info,tv_umpire,Ahsan Raza
+info,match_referee,DC Boon
+info,winner,Zimbabwe
+info,winner_wickets,5
+info,player,Scotland,HG Munsey
+info,player,Scotland,MA Jones
+info,player,Scotland,MH Cross
+info,player,Scotland,RD Berrington
+info,player,Scotland,CS MacLeod
+info,player,Scotland,MA Leask
+info,player,Scotland,CN Greaves
+info,player,Scotland,JH Davey
+info,player,Scotland,MRJ Watt
+info,player,Scotland,SM Sharif
+info,player,Scotland,BTJ Wheal
+info,player,Zimbabwe,RW Chakabva
+info,player,Zimbabwe,CR Ervine
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,SC Williams
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,M Shumba
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,LM Jongwe
+info,player,Zimbabwe,R Ngarava
+info,player,Zimbabwe,TL Chatara
+info,player,Zimbabwe,B Muzarabani
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BTJ Wheal,3f61a062
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CN Greaves,f42064d5
+info,registry,people,CR Ervine,c96311d4
+info,registry,people,CS MacLeod,9c376401
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,HG Munsey,ff014c34
+info,registry,people,JH Davey,d3868bd0
+info,registry,people,LM Jongwe,b8704508
+info,registry,people,M Shumba,6766ca00
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MA Jones,05f96194
+info,registry,people,MA Leask,28131839
+info,registry,people,MH Cross,8b261d84
+info,registry,people,MRJ Watt,1252f71a
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RD Berrington,e21bc7f3
+info,registry,people,RP Burl,b08252b8
+info,registry,people,RW Chakabva,2f0d7e4a
+info,registry,people,SC Williams,afe57f7a
+info,registry,people,SM Sharif,f43dd8c2
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,TL Chatara,5bbabe59
+info,registry,people,W Madhevere,a879b92c

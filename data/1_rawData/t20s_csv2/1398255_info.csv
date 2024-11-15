@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,South Africa
+info,gender,female
+info,season,2023/24
+info,date,2023/12/06
+info,event,Bangladesh Women tour of South Africa
+info,match_number,2
+info,venue,"Diamond Oval, Kimberley"
+info,city,Kimberley
+info,toss_winner,South Africa
+info,toss_decision,field
+info,umpire,A Steenkamp
+info,umpire,K Klaaste
+info,reserve_umpire,AM Sodumo
+info,tv_umpire,Lauren Agenbag
+info,match_referee,GH Pienaar
+info,outcome,no result
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Lata Mondal
+info,player,Bangladesh,Marufa Akter
+info,player,Bangladesh,Shorifa Khatun
+info,player,South Africa,T Brits
+info,player,South Africa,L Wolvaardt
+info,player,South Africa,A Bosch
+info,player,South Africa,S Luus
+info,player,South Africa,A Dercksen
+info,player,South Africa,N Shangase
+info,player,South Africa,E Marx
+info,player,South Africa,S Jafta
+info,player,South Africa,M Klaas
+info,player,South Africa,TS Sekhukhune
+info,player,South Africa,N Mlaba
+info,registry,people,A Bosch,dcf0e8f4
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,A Steenkamp,89c62cf5
+info,registry,people,AM Sodumo,cc6850ec
+info,registry,people,E Marx,be592751
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,L Wolvaardt,e60f81c9
+info,registry,people,Lata Mondal,5bf87532
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Klaas,ce85fcaf
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,N Mlaba,686362af
+info,registry,people,N Shangase,b17a4a93
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,S Jafta,34304210
+info,registry,people,S Luus,6d76bc23
+info,registry,people,S Mostary,94de63bf
+info,registry,people,Shamima Sultana,724645f5
+info,registry,people,Shorifa Khatun,36d2face
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,T Brits,06659caa
+info,registry,people,TS Sekhukhune,6e28e586

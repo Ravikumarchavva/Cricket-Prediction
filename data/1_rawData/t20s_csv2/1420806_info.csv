@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Bhutan
+info,gender,male
+info,season,2023/24
+info,date,2024/02/15
+info,event,Quadrangular Twenty20 Series (Thailand)
+info,match_number,6
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,Waji Ul Hassan
+info,umpire,KB Suresh
+info,umpire,T Khalid
+info,reserve_umpire,Arif Ansari
+info,winner,Saudi Arabia
+info,winner_runs,166
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Kashif Siddique
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Haseeb Ghafoor
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Shahzaib
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Imran Yousaf
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,JN Dorji
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,Tashi Phuntsho
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,Tashi Dorji
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,T Chopel
+info,player,Bhutan,S Yeshi
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Arif Ansari,95957b9e
+info,registry,people,Haseeb Ghafoor,454a7269
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Imran Yousaf,5e67d4e0
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,JN Dorji,a73251ff
+info,registry,people,KB Suresh,40316210
+info,registry,people,Kashif Siddique,2513b4fe
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Shahzaib,befef38f
+info,registry,people,T Chopel,d9a7ca8e
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Khalid,9168597e
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tashi Dorji,0f05655d
+info,registry,people,Tashi Phuntsho,43d365ca
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Zain Ul Abidin,b93b87ae

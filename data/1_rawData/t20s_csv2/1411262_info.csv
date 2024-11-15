@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Tanzania
+info,gender,female
+info,season,2023/24
+info,date,2023/12/09
+info,event,ICC Women's T20 World Cup Africa Region Qualifier
+info,match_number,2
+info,venue,Entebbe Cricket Oval
+info,city,Entebbe
+info,toss_winner,Botswana
+info,toss_decision,bat
+info,player_of_match,S Mtae
+info,umpire,Claus Schumacher
+info,umpire,S Dambanevana
+info,reserve_umpire,P Sizara
+info,match_referee,O Chirombe
+info,winner,Tanzania
+info,winner_wickets,10
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,B Madimabe
+info,player,Botswana,S Mosweu
+info,player,Botswana,L Mophakedi
+info,player,Botswana,F Samanyika
+info,player,Botswana,G Matome
+info,player,Botswana,T Motlhabaphuti
+info,player,Botswana,W Moutswi
+info,player,Botswana,T Shadrack
+info,player,Botswana,O Kgeresi
+info,player,Botswana,M Phiase
+info,player,Tanzania,S Mtae
+info,player,Tanzania,FO Kibasu
+info,player,Tanzania,HM Omary
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,M Pascal
+info,player,Tanzania,SF Jerome
+info,player,Tanzania,SH Mohamedi
+info,player,Tanzania,MH Ushanga
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,AS Qwele
+info,player,Tanzania,A Mohamed
+info,registry,people,A Mohamed,86a68879
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,AS Qwele,26b3df21
+info,registry,people,B Madimabe,1e481de4
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,F Samanyika,c42eed38
+info,registry,people,FO Kibasu,1c726c76
+info,registry,people,G Matome,a6898f7a
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,M Pascal,729c5ab5
+info,registry,people,M Phiase,537cc79f
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mosweu,10726a80
+info,registry,people,S Mtae,bb641155
+info,registry,people,SF Jerome,e393c6c1
+info,registry,people,SH Mohamedi,10ab6a37
+info,registry,people,T Motlhabaphuti,1fb3e04f
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,W Moutswi,e8c42000

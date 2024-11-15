@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Fiji
+info,gender,male
+info,season,2024
+info,date,2024/08/23
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,9
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Vanuatu
+info,toss_decision,bat
+info,player_of_match,P Dakainivanua
+info,umpire,L Oala
+info,umpire,L McCabe
+info,reserve_umpire,PJ Gillespie
+info,match_referee,Kent Hannam
+info,winner,Fiji
+info,winner_wickets,5
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,C Tommy
+info,player,Vanuatu,A Mansale
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,W Wotu
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,D Wotu
+info,player,Vanuatu,TL Cutler
+info,player,Vanuatu,K Tari
+info,player,Fiji,M Beitaki
+info,player,Fiji,DR Tawake
+info,player,Fiji,PV Vuniwaqa
+info,player,Fiji,Kau Qalo
+info,player,Fiji,A Sokovagone
+info,player,Fiji,P Dakainivanua
+info,player,Fiji,P Kotoisuva
+info,player,Fiji,TS Waqavakatoga
+info,player,Fiji,S Tabuisulu
+info,player,Fiji,JQK Moala
+info,player,Fiji,ST Yalimaiwai
+info,registry,people,A Mansale,a22b4f3f
+info,registry,people,A Sokovagone,10e34eef
+info,registry,people,C Tommy,c6d4cff0
+info,registry,people,D Wotu,9585854d
+info,registry,people,DR Tawake,8c11c10a
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,JQK Moala,d77ddc9f
+info,registry,people,K Tari,a65593c6
+info,registry,people,Kau Qalo,3d9cd1b1
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,L Oala,48a506ab
+info,registry,people,M Beitaki,3d29b5fc
+info,registry,people,N Nipiko,c498c510
+info,registry,people,P Dakainivanua,5485c999
+info,registry,people,P Kotoisuva,b3e5205c
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PV Vuniwaqa,653a7fa8
+info,registry,people,R Tari,c4d19735
+info,registry,people,S Tabuisulu,62708dce
+info,registry,people,SH Obed,f49c401e
+info,registry,people,ST Yalimaiwai,d88f9163
+info,registry,people,TL Cutler,384fa385
+info,registry,people,TS Waqavakatoga,039cabd9
+info,registry,people,W Nalisa,673be48f
+info,registry,people,W Wotu,6b25ef46

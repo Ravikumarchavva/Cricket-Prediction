@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,Bangladesh
+info,gender,male
+info,season,2024
+info,date,2024/06/22
+info,event,ICC Men's T20 World Cup
+info,match_number,47
+info,venue,"Sir Vivian Richards Stadium, North Sound, Antigua"
+info,city,North Sound
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,HH Pandya
+info,umpire,AT Holdstock
+info,umpire,MA Gough
+info,reserve_umpire,RA Kettleborough
+info,tv_umpire,L Rusere
+info,match_referee,RS Madugalle
+info,winner,India
+info,winner_runs,50
+info,player,India,RG Sharma
+info,player,India,V Kohli
+info,player,India,RR Pant
+info,player,India,SA Yadav
+info,player,India,S Dube
+info,player,India,HH Pandya
+info,player,India,AR Patel
+info,player,India,RA Jadeja
+info,player,India,Arshdeep Singh
+info,player,India,Kuldeep Yadav
+info,player,India,JJ Bumrah
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Tanzid Hasan
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Tanzim Hasan Sakib
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,AR Patel,2e171977
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MA Gough,76752ac8
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RA Kettleborough,4017868f
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Tanzid Hasan,80fe764d
+info,registry,people,Tanzim Hasan Sakib,0b0cc297
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,V Kohli,ba607b88

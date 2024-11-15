@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Vanuatu
+info,team,Tanzania
+info,gender,male
+info,season,2023/24
+info,date,2024/03/05
+info,event,Malaysia Open T20 Championship
+info,match_number,1
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,A Mansale
+info,umpire,Tabarak Dar
+info,umpire,V Kalidas
+info,reserve_umpire,N Sivan
+info,tv_umpire,Sarika Prasad
+info,match_referee,B Ramani
+info,winner,Vanuatu
+info,winner_runs,9
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,JD Allan
+info,player,Vanuatu,PK Matautaava
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,A Mansale
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,W Wotu
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,AL Stephen
+info,player,Vanuatu,TL Cutler
+info,player,Tanzania,II Selemani
+info,player,Tanzania,J Masquater
+info,player,Tanzania,AJ Jabiri
+info,player,Tanzania,ZR Jaboneke
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,S Thakor
+info,player,Tanzania,JJ Nyambo
+info,player,Tanzania,YM Nkanya
+info,registry,people,A Mansale,a22b4f3f
+info,registry,people,AJ Jabiri,90624d37
+info,registry,people,AL Stephen,49f6d023
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,B Ramani,92ad5353
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,J Masquater,f6d3cab2
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,JD Allan,3758028b
+info,registry,people,JJ Nyambo,ffb3b559
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,N Nipiko,c498c510
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,PK Matautaava,af19aa66
+info,registry,people,R Tari,c4d19735
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,TL Cutler,384fa385
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,V Kalidas,42d76418
+info,registry,people,W Nalisa,673be48f
+info,registry,people,W Wotu,6b25ef46
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,ZR Jaboneke,438aef39

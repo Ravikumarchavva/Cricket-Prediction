@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,West Indies
+info,gender,female
+info,season,2024/25
+info,date,2024/10/10
+info,event,ICC Women's T20 World Cup
+info,match_number,13
+info,venue,Sharjah Cricket Stadium
+info,city,Sharjah
+info,toss_winner,West Indies
+info,toss_decision,field
+info,player_of_match,K Ramharack
+info,umpire,CA Polosak
+info,umpire,S Dambanevana
+info,reserve_umpire,S Redfern
+info,tv_umpire,N Perera
+info,match_referee,GS Lakshmi
+info,winner,West Indies
+info,winner_wickets,8
+info,player,Bangladesh,Dilara Akter
+info,player,Bangladesh,S Rani
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Taj Nehar
+info,player,Bangladesh,Shorna Akter
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Marufa Akter
+info,player,West Indies,HK Matthews
+info,player,West Indies,SR Taylor
+info,player,West Indies,SA Campbelle
+info,player,West Indies,DJS Dottin
+info,player,West Indies,CA Henry
+info,player,West Indies,Q Joseph
+info,player,West Indies,M Mangru
+info,player,West Indies,A Munisar
+info,player,West Indies,AA Alleyne
+info,player,West Indies,ASS Fletcher
+info,player,West Indies,K Ramharack
+info,registry,people,A Munisar,a811cb83
+info,registry,people,AA Alleyne,4b0e3049
+info,registry,people,ASS Fletcher,42d9dd09
+info,registry,people,CA Henry,75820733
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,DJS Dottin,53bee17f
+info,registry,people,Dilara Akter,f2670a3d
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,HK Matthews,d32cf49a
+info,registry,people,K Ramharack,321c980e
+info,registry,people,M Mangru,b9fec7a5
+info,registry,people,Marufa Akter,a50797a4
+info,registry,people,N Perera,129709f9
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,Q Joseph,d6164dc0
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mostary,94de63bf
+info,registry,people,S Rani,b3f7066c
+info,registry,people,S Redfern,5b038989
+info,registry,people,SA Campbelle,a7cd72b2
+info,registry,people,SR Taylor,92cf79a8
+info,registry,people,Shorna Akter,89895ae1
+info,registry,people,Taj Nehar,426eaf06

@@ -29,8 +29,8 @@ SPARK_MASTER = f'spark://{HDFS_HOST}:{SPARK_MASTER_PORT}'
 SPARK_CONFIG = {
     'spark.master': f'spark://{HDFS_HOST}:{SPARK_MASTER_PORT}',
     
-    'spark.executor.memory': os.getenv('SPARK_EXECUTOR_MEMORY', '1g'),
-    'spark.executor.cores': os.getenv('SPARK_EXECUTOR_CORES', '2'),
+    'spark.executor.memory': os.getenv('SPARK_EXECUTOR_MEMORY', '2g'),
+    'spark.executor.cores': os.getenv('SPARK_EXECUTOR_CORES', '3'),
 
     'spark.dynamicAllocation.enabled': 'true',
     'spark.dynamicAllocation.minExecutors': '0',

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Czech Republic
+info,team,Greece
+info,gender,male
+info,season,2024
+info,date,2024/08/27
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,19
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Czech Republic
+info,toss_decision,bat
+info,player_of_match,M Vandrasi
+info,umpire,AA Baig
+info,umpire,RJ Warren
+info,reserve_umpire,RJ Veillard
+info,match_referee,GH Pienaar
+info,winner,Czech Republic
+info,winner_runs,75
+info,player,Czech Republic,Sazib Bhuiyan
+info,player,Czech Republic,Dylan Steyn
+info,player,Czech Republic,Ritik Tomar
+info,player,Czech Republic,M Worndl
+info,player,Czech Republic,S Grover
+info,player,Czech Republic,Divyendra Singh
+info,player,Czech Republic,M Vandrasi
+info,player,Czech Republic,Rahat Ali
+info,player,Czech Republic,Abul Farhad
+info,player,Czech Republic,Naveed Ahmed
+info,player,Czech Republic,S Chaudhary
+info,player,Greece,Sajid Khan Afridi
+info,player,Greece,GC Galanis
+info,player,Greece,AS Mehmi
+info,player,Greece,Samader Shadab
+info,player,Greece,Aslam Mohammad
+info,player,Greece,Sinan Khan
+info,player,Greece,A Gasteratos
+info,player,Greece,Ali Muaaz
+info,player,Greece,S Vasilakis
+info,player,Greece,N Katechis
+info,player,Greece,Muhammad Tahir
+info,registry,people,A Gasteratos,e87c009a
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AS Mehmi,4612619b
+info,registry,people,Abul Farhad,f7cb7c3a
+info,registry,people,Ali Muaaz,52062ed6
+info,registry,people,Aslam Mohammad,67ae5a56
+info,registry,people,Divyendra Singh,7f122e0b
+info,registry,people,Dylan Steyn,ff2b190e
+info,registry,people,GC Galanis,db218528
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,M Vandrasi,e82543d5
+info,registry,people,M Worndl,e8d1c172
+info,registry,people,Muhammad Tahir,2b8123ff
+info,registry,people,N Katechis,495ded1c
+info,registry,people,Naveed Ahmed,87609cbb
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,Rahat Ali,3cc13c68
+info,registry,people,Ritik Tomar,6de51a8e
+info,registry,people,S Chaudhary,24c1844e
+info,registry,people,S Grover,c2a6e61f
+info,registry,people,S Vasilakis,e18e9598
+info,registry,people,Sajid Khan Afridi,edc950ce
+info,registry,people,Samader Shadab,4289ccc9
+info,registry,people,Sazib Bhuiyan,e5464794
+info,registry,people,Sinan Khan,251eb801

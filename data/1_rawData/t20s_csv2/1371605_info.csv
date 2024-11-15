@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Sri Lanka
+info,gender,female
+info,season,2023
+info,date,2023/05/11
+info,event,Bangladesh Women tour of Sri Lanka
+info,match_number,2
+info,venue,"Sinhalese Sports Club Ground, Colombo"
+info,city,Colombo
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,WK Dilhari
+info,umpire,N Perera
+info,umpire,RMPJ Rambukwella
+info,reserve_umpire,LDVV Silva
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,V Bowen
+info,winner,Sri Lanka
+info,winner_wickets,7
+info,player,Bangladesh,Shamima Sultana
+info,player,Bangladesh,Rubya Haider
+info,player,Bangladesh,S Mostary
+info,player,Bangladesh,Nigar Sultana
+info,player,Bangladesh,Murshida Khatun
+info,player,Bangladesh,Ritu Moni
+info,player,Bangladesh,Sultana Khatun
+info,player,Bangladesh,Nahida Akter
+info,player,Bangladesh,Fahima Khatun
+info,player,Bangladesh,Rabeya Khan
+info,player,Bangladesh,Fariha Trisna
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,OU Ranasinghe
+info,player,Sri Lanka,I Ranaweera
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,KDU Prabodhani
+info,player,Sri Lanka,K Kavindi
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,Fahima Khatun,558cdd64
+info,registry,people,Fariha Trisna,7b51bfa4
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Ranaweera,a61850e6
+info,registry,people,K Kavindi,2fa916b3
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,Murshida Khatun,712bbd92
+info,registry,people,N Perera,129709f9
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,Nahida Akter,66078174
+info,registry,people,Nigar Sultana,3827f6a2
+info,registry,people,OU Ranasinghe,52d3b7ff
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rabeya Khan,aaf037b1
+info,registry,people,Ritu Moni,ad3940a5
+info,registry,people,Rubya Haider,5d095ee8
+info,registry,people,S Mostary,94de63bf
+info,registry,people,Shamima Sultana,724645f5
+info,registry,people,Sultana Khatun,fb0c0bcc
+info,registry,people,V Bowen,7297ac4d
+info,registry,people,WK Dilhari,c34a15e6

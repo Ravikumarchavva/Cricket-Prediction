@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Samoa
+info,gender,female
+info,season,2023
+info,date,2023/09/01
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,3
+info,venue,Vanuatu Cricket Ground (Oval 2)
+info,city,Port Vila
+info,toss_winner,Samoa
+info,toss_decision,field
+info,player_of_match,TM Faimalo
+info,umpire,L McCabe
+info,umpire,M Kenni
+info,reserve_umpire,CA Polosak
+info,match_referee,RW Stratford
+info,winner,Fiji
+info,winner_runs,18
+info,player,Fiji,I Waqavakatoga
+info,player,Fiji,M Ratuki
+info,player,Fiji,R Muriyalo
+info,player,Fiji,S Vuni
+info,player,Fiji,AISD Kainoco
+info,player,Fiji,M Biu
+info,player,Fiji,AK Gonerara
+info,player,Fiji,KV Vakuruivalu
+info,player,Fiji,MSC Erasito
+info,player,Fiji,T Talemaitoga
+info,player,Fiji,S Sigaiwasa
+info,player,Samoa,VM Andrew
+info,player,Samoa,T Lafai
+info,player,Samoa,J Sanele
+info,player,Samoa,A Iopu
+info,player,Samoa,F Sisifo
+info,player,Samoa,TH Semau
+info,player,Samoa,AF Aoina
+info,player,Samoa,RP Johnston
+info,player,Samoa,Leitu Leong
+info,player,Samoa,V Tafea
+info,player,Samoa,TM Faimalo
+info,registry,people,A Iopu,e77d4107
+info,registry,people,AF Aoina,217f5194
+info,registry,people,AISD Kainoco,f3614f32
+info,registry,people,AK Gonerara,141ee9a0
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,F Sisifo,eff8319a
+info,registry,people,I Waqavakatoga,31d220f5
+info,registry,people,J Sanele,67bd483c
+info,registry,people,KV Vakuruivalu,98db3666
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,Leitu Leong,672e1aea
+info,registry,people,M Biu,c386183b
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,M Ratuki,ad78df1c
+info,registry,people,MSC Erasito,ce02e769
+info,registry,people,R Muriyalo,a2fc9177
+info,registry,people,RP Johnston,c110235a
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Sigaiwasa,b1414505
+info,registry,people,S Vuni,951e08f0
+info,registry,people,T Lafai,10cfda7c
+info,registry,people,T Talemaitoga,c49375c1
+info,registry,people,TH Semau,175d59dd
+info,registry,people,TM Faimalo,e8cea6cf
+info,registry,people,V Tafea,611298bd
+info,registry,people,VM Andrew,ca9a7e09

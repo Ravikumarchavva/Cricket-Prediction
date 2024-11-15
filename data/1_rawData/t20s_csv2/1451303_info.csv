@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Japan
+info,gender,female
+info,season,2024/25
+info,date,2024/10/01
+info,event,Singapore Women tour of Japan
+info,match_number,1
+info,venue,Sano International Cricket Ground
+info,city,Sano
+info,toss_winner,Japan
+info,toss_decision,field
+info,player_of_match,A Chandel
+info,umpire,Adam Birss
+info,umpire,R Newman
+info,winner,Japan
+info,winner_wickets,9
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,GK Diviya
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,RR Seth
+info,player,Singapore,DA Galia
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,LAR Bommareddy
+info,player,Singapore,I Shukla
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,C Boyle
+info,player,Singapore,E Ungerman
+info,player,Japan,H Goto
+info,player,Japan,Erika Oda
+info,player,Japan,Seika Sumi
+info,player,Japan,A Chandel
+info,player,Japan,Kiyo Fujikawa
+info,player,Japan,H Iwasaki
+info,player,Japan,K Ota
+info,player,Japan,A Kano
+info,player,Japan,S Kato
+info,player,Japan,Nonoha Yasumoto
+info,player,Japan,M Yanagida
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Kano,e92841c0
+info,registry,people,Adam Birss,0cabf6f4
+info,registry,people,C Boyle,11374353
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,E Ungerman,3959c505
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Goto,b3af5bff
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,I Shukla,ce490298
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,K Ota,211f48fe
+info,registry,people,Kiyo Fujikawa,bb0dfa8c
+info,registry,people,LAR Bommareddy,3da8cd3a
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,R Newman,5a8f8619
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,S Kato,ef9ff861
+info,registry,people,Seika Sumi,704b4c30
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Vinu Kumar,3775b9f9

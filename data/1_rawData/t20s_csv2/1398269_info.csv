@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Pakistan
+info,gender,female
+info,season,2024
+info,date,2024/05/17
+info,event,Pakistan Women tour of England
+info,match_number,2
+info,venue,"County Ground, Northampton"
+info,city,Northampton
+info,toss_winner,England
+info,toss_decision,bat
+info,player_of_match,A Capsey
+info,umpire,AY Harris
+info,umpire,S Redfern
+info,reserve_umpire,WRP Fernando
+info,tv_umpire,Kim Cotton
+info,match_referee,DA Cosker
+info,winner,England
+info,winner_runs,65
+info,player,England,ME Bouchier
+info,player,England,DN Wyatt
+info,player,England,A Capsey
+info,player,England,NR Sciver-Brunt
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,DR Gibson
+info,player,England,S Ecclestone
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,LK Bell
+info,player,Pakistan,Gull Feroza
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Sadaf Shamas
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Diana Baig
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Waheeda Akhtar
+info,player,Pakistan,Sadia Iqbal
+info,registry,people,A Capsey,910dd54e
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DA Cosker,aac9f784
+info,registry,people,DN Wyatt,a139c379
+info,registry,people,DR Gibson,d2763568
+info,registry,people,Diana Baig,a51e6c6e
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,Gull Feroza,9ff1e91e
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,LK Bell,38b4583c
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,NR Sciver-Brunt,f3a18a0c
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,S Ecclestone,cdb82f1c
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,S Redfern,5b038989
+info,registry,people,Sadaf Shamas,f19c8dc0
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,WRP Fernando,7d98d385
+info,registry,people,Waheeda Akhtar,792d0178

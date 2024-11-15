@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,New Zealand
+info,gender,male
+info,season,2022/23
+info,date,2023/02/01
+info,event,New Zealand tour of India
+info,match_number,3
+info,venue,"Narendra Modi Stadium, Ahmedabad"
+info,city,Ahmedabad
+info,toss_winner,India
+info,toss_decision,bat
+info,player_of_match,Shubman Gill
+info,umpire,J Madanagopal
+info,umpire,Nitin Menon
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,AK Chaudhary
+info,match_referee,J Srinath
+info,winner,India
+info,winner_runs,168
+info,player,India,Ishan Kishan
+info,player,India,Shubman Gill
+info,player,India,RA Tripathi
+info,player,India,SA Yadav
+info,player,India,HH Pandya
+info,player,India,DJ Hooda
+info,player,India,Washington Sundar
+info,player,India,Shivam Mavi
+info,player,India,Kuldeep Yadav
+info,player,India,Arshdeep Singh
+info,player,India,Umran Malik
+info,player,New Zealand,FH Allen
+info,player,New Zealand,DP Conway
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,LH Ferguson
+info,player,New Zealand,BM Tickner
+info,player,New Zealand,BG Lister
+info,registry,people,AK Chaudhary,fdcc6236
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,BG Lister,79f5bc26
+info,registry,people,BM Tickner,48ad3373
+info,registry,people,DJ Hooda,73ad96ed
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,FH Allen,bf74b130
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RA Tripathi,77255a9e
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,Shivam Mavi,c38d3503
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Umran Malik,81c08fa3
+info,registry,people,Washington Sundar,f19ccfad

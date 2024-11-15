@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Botswana
+info,gender,female
+info,season,2024
+info,date,2024/04/23
+info,event,BCA Kalahari Women's T20 International Tournament
+info,match_number,7
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Mozambique
+info,toss_decision,bat
+info,player_of_match,A Mokgotlhe
+info,umpire,L Msemburi
+info,umpire,R Nehonde
+info,reserve_umpire,Justine Muzungu
+info,winner,Botswana
+info,winner_wickets,9
+info,player,Mozambique,O Mondlane
+info,player,Mozambique,IE Mulhovo
+info,player,Mozambique,FA Zavala
+info,player,Mozambique,AA Moiane
+info,player,Mozambique,R Haiong
+info,player,Mozambique,A Salomao
+info,player,Mozambique,AL Mundundo
+info,player,Mozambique,I Chuma
+info,player,Mozambique,RO Mazumba
+info,player,Mozambique,C Magaia
+info,player,Mozambique,L Chipanga
+info,player,Botswana,T Shadrack
+info,player,Botswana,O Kgeresi
+info,player,Botswana,L Mophakedi
+info,player,Botswana,G Matome
+info,player,Botswana,K Inakale
+info,player,Botswana,M Phiase
+info,player,Botswana,O Keitsemang
+info,player,Botswana,A Motorwala
+info,player,Botswana,P Mapotsane
+info,player,Botswana,T Moitoi
+info,player,Botswana,A Mokgotlhe
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,A Motorwala,7b309c8a
+info,registry,people,A Salomao,04e145f4
+info,registry,people,AA Moiane,80190078
+info,registry,people,AL Mundundo,c1edced9
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,FA Zavala,2edfa6a8
+info,registry,people,G Matome,a6898f7a
+info,registry,people,I Chuma,b1021056
+info,registry,people,IE Mulhovo,ab750f1f
+info,registry,people,Justine Muzungu,b90044b7
+info,registry,people,K Inakale,eea862f6
+info,registry,people,L Chipanga,70722cc7
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,L Msemburi,ef6037f8
+info,registry,people,M Phiase,537cc79f
+info,registry,people,O Keitsemang,5145239b
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,O Mondlane,7f97139f
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,R Haiong,2832fbba
+info,registry,people,R Nehonde,4393e047
+info,registry,people,RO Mazumba,2a753483
+info,registry,people,T Moitoi,c916fe60
+info,registry,people,T Shadrack,6d972d02

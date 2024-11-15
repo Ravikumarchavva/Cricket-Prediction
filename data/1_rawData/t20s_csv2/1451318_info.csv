@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,South Korea
+info,team,China
+info,gender,female
+info,season,2024/25
+info,date,2024/10/13
+info,event,Women's East Asia Cup
+info,venue,"Yeonhui Cricket Ground, Incheon"
+info,city,Incheon
+info,toss_winner,South Korea
+info,toss_decision,bat
+info,player_of_match,Mengting Liu
+info,umpire,Raja Shoaib
+info,umpire,Shahid Gill
+info,winner,China
+info,winner_wickets,10
+info,player,South Korea,Sinae Kim
+info,player,South Korea,Seri Chang
+info,player,South Korea,Seungmin Song
+info,player,South Korea,Jiyeon Park
+info,player,South Korea,Hyejin Park
+info,player,South Korea,Hee Jung Lee
+info,player,South Korea,Kim Rang
+info,player,South Korea,Su Jin Kim
+info,player,South Korea,Haliam Kwon
+info,player,South Korea,Jiyeon Park (2)
+info,player,South Korea,Han Won
+info,player,China,Jing Yang
+info,player,China,Zi Mei
+info,player,China,Xu Qian
+info,player,China,Mengting Liu
+info,player,China,Yan Zuying
+info,player,China,Gong Yuting
+info,player,China,Ma Ruike
+info,player,China,Cai Yuzhi
+info,player,China,Zhang Yibing
+info,player,China,Wei Haiting
+info,player,China,Wang Huiying
+info,registry,people,Cai Yuzhi,80d30c5f
+info,registry,people,Gong Yuting,edcd847a
+info,registry,people,Haliam Kwon,87923c78
+info,registry,people,Han Won,6cd9f191
+info,registry,people,Hee Jung Lee,48bcc6d7
+info,registry,people,Hyejin Park,c3e3d7e7
+info,registry,people,Jing Yang,03f1a623
+info,registry,people,Jiyeon Park,664ad13f
+info,registry,people,Jiyeon Park (2),e26f2fe5
+info,registry,people,Kim Rang,0cf4b7fe
+info,registry,people,Ma Ruike,8ccef7e2
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,Raja Shoaib,7b0ea09e
+info,registry,people,Seri Chang,1f87b800
+info,registry,people,Seungmin Song,38476559
+info,registry,people,Shahid Gill,e96950b7
+info,registry,people,Sinae Kim,60c76b34
+info,registry,people,Su Jin Kim,c0b1c995
+info,registry,people,Wang Huiying,c84a3e06
+info,registry,people,Wei Haiting,a1e30490
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yan Zuying,0311d9ec
+info,registry,people,Zhang Yibing,85fba0db
+info,registry,people,Zi Mei,72070f05

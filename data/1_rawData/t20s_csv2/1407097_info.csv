@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Rwanda
+info,gender,male
+info,season,2023/24
+info,date,2023/11/25
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,9
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Rwanda
+info,toss_decision,field
+info,player_of_match,N Davin
+info,umpire,D Odhiambo
+info,umpire,IO Oyieko
+info,reserve_umpire,LB Gcuma
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_runs,68
+info,method,D/L
+info,player,Namibia,M van Lingen
+info,player,Namibia,N Davin
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JN Frylinck
+info,player,Namibia,JJ Smit
+info,player,Namibia,D Wiese
+info,player,Namibia,B Shikongo
+info,player,Namibia,JN Loftie-Eaton
+info,player,Namibia,BM Scholtz
+info,player,Namibia,T Lungameni
+info,player,Namibia,ZE Green
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,Hamza Khan
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Niyomugabo
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,Z Bimenyimana
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,D Odhiambo,45994517
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,E Niyomugabo,2dcac6ff
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Hamza Khan,44a5f2b2
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,N Davin,72e361fe
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,Z Bimenyimana,ba57fb08
+info,registry,people,ZE Green,8716233e

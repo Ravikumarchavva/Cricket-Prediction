@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Croatia
+info,team,Bulgaria
+info,gender,male
+info,season,2023
+info,date,2023/06/23
+info,event,Quadrangular Twenty20 Series (Bulgaria)
+info,match_number,2
+info,venue,"National Sports Academy, Sofia"
+info,city,Sofia
+info,toss_winner,Bulgaria
+info,toss_decision,field
+info,player_of_match,P Mishra
+info,winner,Bulgaria
+info,winner_wickets,9
+info,player,Croatia,WK Bitis
+info,player,Croatia,Naseem Khan
+info,player,Croatia,P Bosnjak
+info,player,Croatia,A Daxini
+info,player,Croatia,Sohail Ahmad
+info,player,Croatia,V Zanko
+info,player,Croatia,L Stubbs
+info,player,Croatia,A Magdalenic
+info,player,Croatia,H Hajnic
+info,player,Croatia,D Faletar
+info,player,Croatia,A Faletar
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,Zain Asif
+info,player,Bulgaria,Zaid Soulat
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,V Hristov
+info,player,Bulgaria,Huzaif Yousuf
+info,player,Bulgaria,DV Varghese
+info,player,Bulgaria,Gagandeep Singh
+info,registry,people,A Daxini,2f949d55
+info,registry,people,A Faletar,b8889eb7
+info,registry,people,A Magdalenic,d6a2f3a5
+info,registry,people,D Faletar,8c911414
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,DV Varghese,26f98ea3
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,H Hajnic,bcac2e51
+info,registry,people,Huzaif Yousuf,95e47073
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,L Stubbs,b0f332e1
+info,registry,people,Naseem Khan,cfbd3998
+info,registry,people,P Bosnjak,fed92736
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,Sohail Ahmad,7e439c80
+info,registry,people,V Hristov,20494202
+info,registry,people,V Zanko,4a78f962
+info,registry,people,WK Bitis,b34de9a6
+info,registry,people,Zaid Soulat,14cbe9b7
+info,registry,people,Zain Asif,ef8eba13
+info,registry,people,Zeerak Chughtai,ff0b1636

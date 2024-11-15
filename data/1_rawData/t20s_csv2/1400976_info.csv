@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Ghana
+info,gender,male
+info,season,2023/24
+info,date,2023/10/06
+info,event,West Africa Trophy
+info,match_number,5
+info,venue,"Tafawa Balewa Square Cricket Oval, Lagos"
+info,city,Lagos
+info,toss_winner,Ghana
+info,toss_decision,field
+info,player_of_match,P Aho
+info,umpire,D Odhiambo
+info,umpire,Habib Enesi
+info,reserve_umpire,I Kabia
+info,winner,Nigeria
+info,winner_runs,35
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,AA Onikoyi
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,I Danladi
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,C Udekwe
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,Mohameed Taiwo
+info,player,Nigeria,P Aho
+info,player,Ghana,JK Vifah
+info,player,Ghana,SK Awiah
+info,player,Ghana,OH Agbomadzie
+info,player,Ghana,R Bakum
+info,player,Ghana,KM Awala
+info,player,Ghana,M Aboagye
+info,player,Ghana,DK Anefie
+info,player,Ghana,TK Joseph
+info,player,Ghana,G Bakiweyem
+info,player,Ghana,KS Bagabena
+info,player,Ghana,Syed Aqeel Israr
+info,registry,people,AA Onikoyi,409ce380
+info,registry,people,AE Isesele,5249f9c4
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DK Anefie,f98c24ec
+info,registry,people,G Bakiweyem,5fe3709e
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,I Kabia,a7a885b5
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JK Vifah,a1448a10
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,KM Awala,c6c7d01b
+info,registry,people,KS Bagabena,1ce4f664
+info,registry,people,M Aboagye,afe8ff08
+info,registry,people,Mohameed Taiwo,a9d788e3
+info,registry,people,OH Agbomadzie,b38a9f73
+info,registry,people,P Aho,2e392afa
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,R Bakum,c74c583b
+info,registry,people,SA Okpe,681f522f
+info,registry,people,SK Awiah,bc3fc527
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,Syed Aqeel Israr,4286e899
+info,registry,people,TK Joseph,4fafd79a

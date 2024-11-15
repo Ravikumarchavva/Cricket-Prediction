@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Jersey
+info,gender,female
+info,season,2023
+info,date,2023/05/29
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,1
+info,venue,"Grainville, St Saviour, Jersey"
+info,city,St Saviour
+info,toss_winner,Italy
+info,toss_decision,bat
+info,player_of_match,G Mallett
+info,umpire,AY Harris
+info,umpire,DH Mclean
+info,reserve_umpire,HE Kearns
+info,match_referee,G McCrea
+info,winner,Jersey
+info,winner_wickets,7
+info,player,Italy,AS Withanage
+info,player,Italy,M Rathnayake
+info,player,Italy,Regina Khan
+info,player,Italy,D Nanayakkara
+info,player,Italy,EL Bartram
+info,player,Italy,C Mahamalage
+info,player,Italy,K Peddrick
+info,player,Italy,G Batagoda
+info,player,Italy,S Toffoletto
+info,player,Italy,N Asuramanage
+info,player,Italy,AS Warnakulasuriya
+info,player,Jersey,C Miles
+info,player,Jersey,MD Rocha
+info,player,Jersey,T Smith
+info,player,Jersey,CM Greechan
+info,player,Jersey,A Merritt
+info,player,Jersey,G Mallett
+info,player,Jersey,A Aikenhead
+info,player,Jersey,M Maguire
+info,player,Jersey,E Gouge
+info,player,Jersey,E Duffy
+info,player,Jersey,G Wetherall
+info,registry,people,A Aikenhead,007f121f
+info,registry,people,A Merritt,4c87bd01
+info,registry,people,AS Warnakulasuriya,05f1cff9
+info,registry,people,AS Withanage,078f166f
+info,registry,people,AY Harris,90d95b82
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,C Miles,80f16d29
+info,registry,people,CM Greechan,569bbcbb
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,DH Mclean,281d4749
+info,registry,people,E Duffy,52bbb9e5
+info,registry,people,E Gouge,e01e17ee
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,G Batagoda,f63ec2e5
+info,registry,people,G Mallett,95bf6b2a
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Wetherall,5c77d7cb
+info,registry,people,HE Kearns,fd4959c8
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,M Maguire,0441a1f5
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,MD Rocha,30aa04d2
+info,registry,people,N Asuramanage,46dff613
+info,registry,people,Regina Khan,862f4427
+info,registry,people,S Toffoletto,9e498eac
+info,registry,people,T Smith,f24ffaab

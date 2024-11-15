@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Slovenia
+info,team,Norway
+info,gender,male
+info,season,2024
+info,date,2024/07/09
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,6
+info,venue,Bayer Uerdingen Cricket Ground
+info,city,Krefeld
+info,toss_winner,Slovenia
+info,toss_decision,bat
+info,player_of_match,Raza Iqbal
+info,umpire,M Jameson
+info,umpire,Rizwan Akram
+info,reserve_umpire,M Burns
+info,match_referee,H Pack
+info,winner,Norway
+info,winner_wickets,8
+info,player,Slovenia,Taher Muhammad
+info,player,Slovenia,Muhammad Siddiqui
+info,player,Slovenia,Tarun Sharma
+info,player,Slovenia,Shahid Arshad
+info,player,Slovenia,Izaz Ali
+info,player,Slovenia,Rasheed Ali Mamadkhel
+info,player,Slovenia,Junaed Mullah
+info,player,Slovenia,S Koppolu
+info,player,Slovenia,DK Pallekonda
+info,player,Slovenia,Saeed Waqar Ali
+info,player,Slovenia,Merwais Shinwari
+info,player,Norway,Raza Iqbal
+info,player,Norway,Khizer Ahmed
+info,player,Norway,Javed Maroofkhail
+info,player,Norway,Sher Sahak
+info,player,Norway,Wahidullah Sahak
+info,player,Norway,Walid Ghauri
+info,player,Norway,Ali Saleem
+info,player,Norway,Vinay Ravi
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,AJ Parmar
+info,player,Norway,Mandeep Singh
+info,registry,people,AJ Parmar,94113d54
+info,registry,people,Ali Saleem,661e8a03
+info,registry,people,DK Pallekonda,e77c9807
+info,registry,people,H Pack,fed53c91
+info,registry,people,Izaz Ali,8a4e101e
+info,registry,people,Javed Maroofkhail,909d9fac
+info,registry,people,Junaed Mullah,fc963b23
+info,registry,people,Khizer Ahmed,723ca856
+info,registry,people,M Burns,b3bd0666
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,Mandeep Singh,dc39e9ab
+info,registry,people,Merwais Shinwari,6755b6c7
+info,registry,people,Muhammad Siddiqui,b46b3d9b
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Rasheed Ali Mamadkhel,72c38d77
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Koppolu,3346b14f
+info,registry,people,Saeed Waqar Ali,1a353572
+info,registry,people,Shahid Arshad,587e65cc
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Taher Muhammad,68832922
+info,registry,people,Tarun Sharma,f915844b
+info,registry,people,Vinay Ravi,9c181b99
+info,registry,people,Wahidullah Sahak,6913e38e
+info,registry,people,Walid Ghauri,331e137f

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Botswana
+info,team,Malawi
+info,gender,female
+info,season,2023
+info,date,2023/09/05
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,11
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Malawi
+info,toss_decision,field
+info,player_of_match,G Matome
+info,umpire,IO Oyieko
+info,umpire,Lauren Agenbag
+info,reserve_umpire,K Klaaste
+info,match_referee,SA Fritz
+info,winner,Botswana
+info,winner_runs,5
+info,player,Botswana,S Mosweu
+info,player,Botswana,A Mokgotlhe
+info,player,Botswana,L Mophakedi
+info,player,Botswana,F Samanyika
+info,player,Botswana,B Madimabe
+info,player,Botswana,G Matome
+info,player,Botswana,P Mapotsane
+info,player,Botswana,O Kgeresi
+info,player,Botswana,B Freeman
+info,player,Botswana,T Shadrack
+info,player,Botswana,W Moutswi
+info,player,Malawi,S Chinawa
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,T Luka
+info,player,Malawi,F Malefula
+info,player,Malawi,LL Dimba
+info,player,Malawi,S Kananji
+info,player,Malawi,M Kudimba
+info,player,Malawi,T Mpandakwaya
+info,player,Malawi,V Phiri
+info,player,Malawi,N Gumaliyele
+info,player,Malawi,L Malino
+info,registry,people,A Mokgotlhe,781f1a40
+info,registry,people,B Freeman,a47538d3
+info,registry,people,B Madimabe,1e481de4
+info,registry,people,F Malefula,6a405883
+info,registry,people,F Samanyika,c42eed38
+info,registry,people,G Matome,a6898f7a
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,L Malino,7a81836e
+info,registry,people,L Mophakedi,c8cdbb92
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Kudimba,24ce1fcb
+info,registry,people,N Gumaliyele,eda9895d
+info,registry,people,O Kgeresi,cba01c28
+info,registry,people,P Mapotsane,9ea555a4
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,S Mosweu,10726a80
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Luka,44e008a5
+info,registry,people,T Mpandakwaya,3fd351ed
+info,registry,people,T Shadrack,6d972d02
+info,registry,people,V Phiri,8ffa1b3c
+info,registry,people,W Moutswi,e8c42000

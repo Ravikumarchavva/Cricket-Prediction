@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Hong Kong
+info,gender,female
+info,season,2024/25
+info,date,2024/11/07
+info,event,Women's T20I Quadrangular Series (in China)
+info,match_number,1
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Myanmar
+info,toss_decision,bat
+info,player_of_match,KM Myat
+info,umpire,Huang Zhuo
+info,umpire,Sun Meng Yao
+info,reserve_umpire,Zheng Lili
+info,tv_umpire,Z Lyu
+info,match_referee,G Sankaranarayanan
+info,winner,Myanmar
+info,winner_runs,2
+info,player,Myanmar,TT Aung
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,KM Myat
+info,player,Myanmar,MPP San
+info,player,Myanmar,TT Soe
+info,player,Myanmar,ZL Win
+info,player,Myanmar,LL Htun
+info,player,Myanmar,HH Aung
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,ZL Thoon
+info,player,Myanmar,Thae Thae Po
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,WK Lai
+info,player,Hong Kong,Chan Sau Har
+info,player,Hong Kong,M Wai Siu
+info,player,Hong Kong,Iqra Sahar
+info,player,Hong Kong,Chan Ka Man
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,Chan Sau Har,3c567308
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,HH Aung,860042f6
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,Huang Zhuo,edbbe245
+info,registry,people,Iqra Sahar,aaccb8ca
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,MPP San,5bc290a2
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,SY Win,33d65ab4
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,WK Lai,6ab99b17
+info,registry,people,Y Daswani,2038a273
+info,registry,people,Z Lyu,5a058533
+info,registry,people,ZL Thoon,8d0543ce
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zheng Lili,9c2bb7da
+info,registry,people,Zon Lin,3b492b8d

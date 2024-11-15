@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,Mongolia
+info,gender,male
+info,season,2024
+info,date,2024/08/30
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,3
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Mongolia
+info,toss_decision,field
+info,player_of_match,CV Anto
+info,umpire,Morshed Ali Khan
+info,umpire,Shiju Sam
+info,reserve_umpire,Tabarak Dar
+info,match_referee,V Narayan Kutty
+info,winner,Kuwait
+info,winner_runs,160
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Nimish Lathief
+info,player,Kuwait,Ilyas Ahmed
+info,player,Kuwait,Nawaf Ahmed
+info,player,Kuwait,Yasin Patel
+info,player,Mongolia,B Namsrai
+info,player,Mongolia,S Natsagdorj
+info,player,Mongolia,M Vivekanandan
+info,player,Mongolia,G Ganbold
+info,player,Mongolia,N Naranbaatar
+info,player,Mongolia,S Gantulga
+info,player,Mongolia,L Erdenebulgan
+info,player,Mongolia,T Amarmend
+info,player,Mongolia,O Lutbayar
+info,player,Mongolia,T Tumursukh
+info,player,Mongolia,Z Shurentsetseg
+info,registry,people,B Namsrai,1d8a3ca6
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,G Ganbold,947346d8
+info,registry,people,Ilyas Ahmed,42a01b52
+info,registry,people,L Erdenebulgan,c4f8d754
+info,registry,people,M Vivekanandan,c4e205e4
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,N Naranbaatar,b0e16d9b
+info,registry,people,Nawaf Ahmed,bfe33045
+info,registry,people,Nimish Lathief,b561e8ea
+info,registry,people,O Lutbayar,ccd88623
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,S Gantulga,8d995b86
+info,registry,people,S Natsagdorj,b3f47a20
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,T Amarmend,e76c8732
+info,registry,people,T Tumursukh,4758488e
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Z Shurentsetseg,45c6afaf

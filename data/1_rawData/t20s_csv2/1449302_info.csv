@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,India
+info,team,South Africa
+info,gender,male
+info,season,2024/25
+info,date,2024/11/10
+info,event,India tour of South Africa
+info,match_number,2
+info,venue,"St George's Park, Gqeberha"
+info,city,Gqeberha
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,T Stubbs
+info,umpire,A Jacobs
+info,umpire,LB Gcuma
+info,reserve_umpire,Stephen Harris
+info,tv_umpire,A Paleker
+info,match_referee,AJ Pycroft
+info,winner,South Africa
+info,winner_wickets,3
+info,player,India,SV Samson
+info,player,India,Abhishek Sharma
+info,player,India,SA Yadav
+info,player,India,Tilak Varma
+info,player,India,AR Patel
+info,player,India,HH Pandya
+info,player,India,RK Singh
+info,player,India,Arshdeep Singh
+info,player,India,Ravi Bishnoi
+info,player,India,Avesh Khan
+info,player,India,CV Varun
+info,player,South Africa,RD Rickelton
+info,player,South Africa,RR Hendricks
+info,player,South Africa,AK Markram
+info,player,South Africa,T Stubbs
+info,player,South Africa,M Jansen
+info,player,South Africa,H Klaasen
+info,player,South Africa,DA Miller
+info,player,South Africa,A Simelane
+info,player,South Africa,G Coetzee
+info,player,South Africa,KA Maharaj
+info,player,South Africa,N Peter
+info,registry,people,A Jacobs,70d117de
+info,registry,people,A Paleker,634b11ac
+info,registry,people,A Simelane,ebb74564
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AR Patel,2e171977
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,G Coetzee,3204c99f
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,KA Maharaj,0b60eb09
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,N Peter,212aeedd
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RR Hendricks,b8cc58c9
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,Tilak Varma,b0482a1d

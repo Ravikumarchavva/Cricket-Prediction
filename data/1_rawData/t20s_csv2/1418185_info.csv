@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Indonesia
+info,team,Cambodia
+info,gender,male
+info,season,2023/24
+info,date,2024/02/03
+info,event,Asian Cricket Council Men's Challenger Cup
+info,match_number,6
+info,venue,"Terdthai Cricket Ground, Bangkok"
+info,city,Bangkok
+info,toss_winner,Indonesia
+info,toss_decision,bat
+info,player_of_match,Luqman Butt
+info,umpire,Samad Akbar
+info,umpire,V Kalidas
+info,reserve_umpire,Osama Saad Alnadwi
+info,tv_umpire,Hardeep Jadeja
+info,match_referee,G Sankaranarayanan
+info,winner,Cambodia
+info,winner_wickets,6
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,F Banunaek
+info,player,Indonesia,PR Surve
+info,player,Indonesia,IK Gamantika
+info,player,Indonesia,KC Ramamoorthy
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,GD Arta
+info,player,Indonesia,RM Koda
+info,player,Cambodia,US Hathinjar
+info,player,Cambodia,Lakshit Gupta
+info,player,Cambodia,RR Sharan
+info,player,Cambodia,Luqman Butt
+info,player,Cambodia,Salvin Stanly
+info,player,Cambodia,E Beukes
+info,player,Cambodia,GC Murtaza
+info,player,Cambodia,Utkarsh Jain
+info,player,Cambodia,Prasad Anish
+info,player,Cambodia,Manish Sharma
+info,player,Cambodia,S Godara
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,E Beukes,fbb8cf87
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,GC Murtaza,6cc4d322
+info,registry,people,GD Arta,e969e580
+info,registry,people,Hardeep Jadeja,552cf5a2
+info,registry,people,IK Gamantika,4d7c5b56
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,KC Ramamoorthy,a89c270b
+info,registry,people,Lakshit Gupta,52b090a6
+info,registry,people,Luqman Butt,7a6decc8
+info,registry,people,Manish Sharma,5473ec6f
+info,registry,people,Osama Saad Alnadwi,a7e2fb32
+info,registry,people,PR Surve,206efeb1
+info,registry,people,Prasad Anish,a21d62c9
+info,registry,people,RM Koda,f0a45427
+info,registry,people,RR Sharan,7cff331d
+info,registry,people,S Godara,dd7dd27a
+info,registry,people,Salvin Stanly,a6631b55
+info,registry,people,Samad Akbar,f05bd21b
+info,registry,people,US Hathinjar,5f77f23a
+info,registry,people,Utkarsh Jain,1f4a78c5
+info,registry,people,V Kalidas,42d76418

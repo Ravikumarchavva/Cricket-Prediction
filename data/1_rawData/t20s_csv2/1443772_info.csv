@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Guernsey
+info,gender,male
+info,season,2024
+info,date,2024/08/22
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,7
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Guernsey
+info,toss_decision,field
+info,player_of_match,J Butler
+info,umpire,AA Baig
+info,umpire,RJ Warren
+info,reserve_umpire,Jareth McCready
+info,match_referee,GH Pienaar
+info,winner,Guernsey
+info,winner_wickets,8
+info,player,Malta,R Dianish
+info,player,Malta,Zeeshan Khan
+info,player,Malta,B George
+info,player,Malta,Jaspal Singh
+info,player,Malta,G Thakur
+info,player,Malta,DR Patankar
+info,player,Malta,E Mathew
+info,player,Malta,B Arora
+info,player,Malta,Jaswinder Singh
+info,player,Malta,VRB Arachchige
+info,player,Malta,J Shaju
+info,player,Guernsey,J Butler
+info,player,Guernsey,B Fitchet
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,MWR Stokes
+info,player,Guernsey,OB Nightingale
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,A Martel
+info,player,Guernsey,M Dale-Bradley
+info,player,Guernsey,C Forshaw
+info,player,Guernsey,Harry Johnson
+info,player,Guernsey,LT Bichard
+info,registry,people,A Martel,65cd62a9
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B Fitchet,d77ecd14
+info,registry,people,B George,1bdbf53b
+info,registry,people,C Forshaw,0ed66ce6
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Mathew,e00acf74
+info,registry,people,G Thakur,93720584
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Harry Johnson,80b92515
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Butler,efcb778e
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Dale-Bradley,62b2aa65
+info,registry,people,MWR Stokes,c573d173
+info,registry,people,OB Nightingale,1deb4c0c
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,VRB Arachchige,70e1b3a8
+info,registry,people,Zeeshan Khan,3f9b1a96

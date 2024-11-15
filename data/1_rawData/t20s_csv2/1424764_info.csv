@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,Uganda
+info,gender,male
+info,season,2023/24
+info,date,2024/03/21
+info,event,African Games
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,umpire,I Chabi
+info,umpire,IO Oyieko
+info,reserve_umpire,S Dambanevana
+info,match_referee,O Chirombe
+info,winner,Namibia
+info,winner_runs,24
+info,player,Namibia,MB Kruger
+info,player,Namibia,N Davin
+info,player,Namibia,GJ van Rensburg
+info,player,Namibia,JP Kotze
+info,player,Namibia,JC Balt
+info,player,Namibia,DO Leicher
+info,player,Namibia,H Klazinge
+info,player,Namibia,PD Blignaut
+info,player,Namibia,SPS Shikongo
+info,player,Namibia,JT Brassell
+info,player,Namibia,B Shikongo
+info,player,Uganda,RG Mukasa
+info,player,Uganda,S Sesazi
+info,player,Uganda,R Lutaaya
+info,player,Uganda,K Waiswa
+info,player,Uganda,DM Nakrani
+info,player,Uganda,AR Ramjani
+info,player,Uganda,CN Kakuru
+info,player,Uganda,J Miyaji
+info,player,Uganda,C Kyewuta
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,H Ssenyondo
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Shikongo,c26cd57a
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,C Kyewuta,395695ce
+info,registry,people,CN Kakuru,f6aed283
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,DO Leicher,e28bb0b9
+info,registry,people,GJ van Rensburg,602db3d9
+info,registry,people,H Klazinge,e6bf8162
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,I Chabi,5e39110e
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Miyaji,414d8a10
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,K Waiswa,a3a275ec
+info,registry,people,MB Kruger,c51add25
+info,registry,people,N Davin,72e361fe
+info,registry,people,O Chirombe,6345307f
+info,registry,people,PD Blignaut,20ab5aad
+info,registry,people,R Lutaaya,04e0cdec
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,SPS Shikongo,4043e3b0

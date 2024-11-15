@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maldives
+info,team,Bhutan
+info,gender,male
+info,season,2024/25
+info,date,2024/10/20
+info,event,Bhutan Quadrangular T20I Series
+info,match_number,3
+info,venue,Gelephu International Cricket Ground
+info,city,Gelephu
+info,toss_winner,Bhutan
+info,toss_decision,field
+info,player_of_match,T Jamtsho
+info,umpire,AK Rai
+info,umpire,U Dorji
+info,reserve_umpire,ON Pradhan
+info,tv_umpire,Dorji
+info,match_referee,Sarika Prasad
+info,winner,Bhutan
+info,winner_wickets,4
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Shaof Hassan
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Ibrahim Nashath
+info,player,Maldives,Hassan Rasheed
+info,player,Maldives,Ameel Mauroof
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Shunan Ali
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,J Singye
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,GK Ghalley
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,Tshering Tashi
+info,player,Bhutan,S Yeshi
+info,player,Bhutan,Karma Dorji
+info,registry,people,AK Rai,1d70834a
+info,registry,people,Ameel Mauroof,1579d497
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,Dorji,a6b688ef
+info,registry,people,GK Ghalley,2d1b6dee
+info,registry,people,Hassan Rasheed,1ca51098
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Nashath,98514dce
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,J Singye,28574428
+info,registry,people,Karma Dorji,80058153
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,ON Pradhan,d41a08d6
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shaof Hassan,f6e160d7
+info,registry,people,Shunan Ali,3b2ca392
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Tshering Tashi,596c60cf
+info,registry,people,U Dorji,12bba2d4
+info,registry,people,Umar Adam,5d77a96a

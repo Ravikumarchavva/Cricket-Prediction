@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Switzerland
+info,gender,male
+info,season,2023
+info,date,2023/07/14
+info,event,Valletta Cup
+info,match_number,7
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,Faheem Nazir
+info,umpire,D Kalloe
+info,umpire,V Sridhar
+info,reserve_umpire,S Fernando
+info,match_referee,S Gowda
+info,winner,Switzerland
+info,winner_wickets,6
+info,player,France,S Santhirakumaran
+info,player,France,HA Jackson
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Usman Khan
+info,player,France,Noman Amjad
+info,player,France,Dawood Ahmadzai
+info,player,France,Zain Ahmad
+info,player,France,Rahmatullah Mangal
+info,player,France,R Mangal
+info,player,France,SM Warnakulasuriya
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,Abdullah Rana
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,MK Gnanasekaram
+info,player,Switzerland,Izhar Hussain
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,K Fletcher
+info,registry,people,Abdullah Rana,c4ab9b94
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,D Kalloe,baf1c7d1
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,Izhar Hussain,1bc71d98
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,MK Gnanasekaram,24b3651c
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,R Mangal,5360c9be
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Santhirakumaran,67721a32
+info,registry,people,SM Warnakulasuriya,8a5a8cf0
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,V Sridhar,42314166
+info,registry,people,Zain Ahmad,ea2c0aff

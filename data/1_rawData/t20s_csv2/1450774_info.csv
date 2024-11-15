@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Philippines
+info,gender,male
+info,season,2024
+info,date,2024/10/02
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier B
+info,match_number,7
+info,venue,"Yeonhui Cricket Ground, Incheon"
+info,city,Incheon
+info,toss_winner,Japan
+info,toss_decision,bat
+info,player_of_match,L Yamamoto-Lake
+info,umpire,AK Rana
+info,umpire,Suresh Subramanian
+info,reserve_umpire,Sarika Prasad
+info,tv_umpire,Tanvir Ahmed
+info,match_referee,TL Anderson
+info,winner,Japan
+info,winner_runs,27
+info,player,Japan,K Kadowaki-Fleming
+info,player,Japan,L Yamamoto-Lake
+info,player,Japan,I Takahashi
+info,player,Japan,S Ravichandran
+info,player,Japan,KH Abe
+info,player,Japan,D Suzuki
+info,player,Japan,A Patmore
+info,player,Japan,W Miyauchi
+info,player,Japan,C Hinze
+info,player,Japan,P Kumbhare
+info,player,Japan,M Taniyama
+info,player,Philippines,G Chohan
+info,player,Philippines,DC Smith
+info,player,Philippines,AS Samra
+info,player,Philippines,N Tanner
+info,player,Philippines,Rhys Burinaga
+info,player,Philippines,M Podosky
+info,player,Philippines,HER Tyler
+info,player,Philippines,J Tuffin
+info,player,Philippines,KDA Lukies
+info,player,Philippines,LJ Myott
+info,player,Philippines,Huzaifa Mohammed
+info,registry,people,A Patmore,85119526
+info,registry,people,AK Rana,562d74d0
+info,registry,people,AS Samra,bf976fb0
+info,registry,people,C Hinze,626af7ff
+info,registry,people,D Suzuki,64c81abf
+info,registry,people,DC Smith,a968d39b
+info,registry,people,G Chohan,b978780e
+info,registry,people,HER Tyler,0ba9de33
+info,registry,people,Huzaifa Mohammed,65a29a30
+info,registry,people,I Takahashi,c988daa1
+info,registry,people,J Tuffin,8069f81f
+info,registry,people,K Kadowaki-Fleming,33290a80
+info,registry,people,KDA Lukies,14af45c4
+info,registry,people,KH Abe,f22d2247
+info,registry,people,L Yamamoto-Lake,fa23405f
+info,registry,people,LJ Myott,3f9d95f9
+info,registry,people,M Podosky,c46999c7
+info,registry,people,M Taniyama,cbd91942
+info,registry,people,N Tanner,5f5efae1
+info,registry,people,P Kumbhare,ef503cfe
+info,registry,people,R Sakurano-Thomas,dd14abf5
+info,registry,people,Rhys Burinaga,a6cbe67b
+info,registry,people,S Ravichandran,9f2be73d
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Suresh Subramanian,4e869e23
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,W Miyauchi,fef40097

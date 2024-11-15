@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Afghanistan
+info,gender,male
+info,season,2022/23
+info,date,2023/02/19
+info,event,Afghanistan tour of United Arab Emirates
+info,match_number,3
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,Afghanistan
+info,toss_decision,field
+info,player_of_match,Karim Janat
+info,umpire,Aasif Iqbal
+info,umpire,Shiju Sam
+info,reserve_umpire,SK Thottathil
+info,tv_umpire,Akbar Ali
+info,match_referee,GF Labrooy
+info,winner,Afghanistan
+info,winner_wickets,6
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Rohan Mustafa
+info,player,United Arab Emirates,CP Rizwan
+info,player,United Arab Emirates,Zawar Farid
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Aayan Afzal Khan
+info,player,United Arab Emirates,Junaid Siddique
+info,player,United Arab Emirates,Zahoor Khan
+info,player,United Arab Emirates,Akif Raja
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Afsar Zazai
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Rashid Khan
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Fazalhaq Farooqi
+info,player,Afghanistan,Zahir Khan
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,Aasif Iqbal,42c41e1a
+info,registry,people,Aayan Afzal Khan,d2d15439
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Akbar Ali,e753931d
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,CP Rizwan,e5309baa
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Karim Janat,62175638
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Rohan Mustafa,d1988788
+info,registry,people,SK Thottathil,f972456b
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,V Aravind,cddafe26
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Zahir Khan,786b7fe8
+info,registry,people,Zahoor Khan,f0e293b0
+info,registry,people,Zawar Farid,d07dbc28

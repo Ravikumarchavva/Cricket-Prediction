@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Tanzania
+info,gender,male
+info,season,2024
+info,date,2024/09/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,8
+info,venue,"Gymkhana Club Ground, Dar-es-Salaam"
+info,city,Dar-es-Salaam
+info,toss_winner,Cameroon
+info,toss_decision,bat
+info,player_of_match,LS Barkania
+info,umpire,K Klaaste
+info,umpire,Patric Makumbi
+info,reserve_umpire,D Odhiambo
+info,match_referee,S Wadvalla
+info,winner,Tanzania
+info,winner_wickets,9
+info,player,Cameroon,AR Balla
+info,player,Cameroon,I Tchakou
+info,player,Cameroon,RD Atangana
+info,player,Cameroon,BN Toube
+info,player,Cameroon,AN Toube
+info,player,Cameroon,DB Loic
+info,player,Cameroon,AN Aminou
+info,player,Cameroon,FJ Mpegna
+info,player,Cameroon,SYS Assegon
+info,player,Cameroon,H Kinga
+info,player,Cameroon,VF Bomnyuy
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,Muhammad Zafar Khan
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,S Thakor
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,LS Barkania
+info,player,Tanzania,M Yunusu Issa
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AN Aminou,6d9d2de7
+info,registry,people,AN Toube,7f929ebe
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Balla,4b83e65a
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,BN Toube,75f3aa00
+info,registry,people,D Odhiambo,45994517
+info,registry,people,DB Loic,01679383
+info,registry,people,FJ Mpegna,d3893060
+info,registry,people,H Kinga,c9729534
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,I Tchakou,4d2b96b4
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,LS Barkania,073126d6
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,Muhammad Zafar Khan,6d5e66b1
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,RD Atangana,490f475a
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SYS Assegon,be48d2e5
+info,registry,people,VF Bomnyuy,3bc18521

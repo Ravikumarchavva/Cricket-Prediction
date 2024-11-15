@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,South Africa
+info,gender,female
+info,season,2023/24
+info,date,2024/03/13
+info,event,Women's African Games
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,South Africa
+info,toss_decision,field
+info,player_of_match,K Ndlovu
+info,umpire,IO Oyieko
+info,umpire,Patric Makumbi
+info,reserve_umpire,Habib Enesi
+info,match_referee,ET Dube
+info,outcome,tie
+info,eliminator,Zimbabwe
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,SM Mayers
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,M Musonda
+info,player,Zimbabwe,P Mujaji
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,F Chipare
+info,player,Zimbabwe,N Sibanda
+info,player,Zimbabwe,L Tshuma
+info,player,Zimbabwe,P Marange
+info,player,South Africa,F Tunnicliffe
+info,player,South Africa,S Lourens
+info,player,South Africa,A Dercksen
+info,player,South Africa,N Shangase
+info,player,South Africa,L Jones
+info,player,South Africa,M Smit
+info,player,South Africa,K Meso
+info,player,South Africa,K Reyneke
+info,player,South Africa,G Jafta
+info,player,South Africa,J Winster
+info,player,South Africa,S Naidu
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Chipare,c0dc015b
+info,registry,people,F Tunnicliffe,41f534cd
+info,registry,people,G Jafta,c7fee762
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,J Winster,ecb8ba2c
+info,registry,people,K Meso,130336c6
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,K Reyneke,9e5f4ad7
+info,registry,people,L Jones,c7fcc20b
+info,registry,people,L Tshuma,f281dd00
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Musonda,94b52754
+info,registry,people,M Smit,996ed07c
+info,registry,people,N Shangase,b17a4a93
+info,registry,people,N Sibanda,edf62a25
+info,registry,people,P Marange,a4f1fdd4
+info,registry,people,P Mujaji,a246f48f
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,S Lourens,ea2fdacc
+info,registry,people,S Naidu,ff20c3ed
+info,registry,people,SM Mayers,91d9613e

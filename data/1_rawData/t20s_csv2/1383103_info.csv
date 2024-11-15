@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,China
+info,team,Thailand
+info,gender,male
+info,season,2023
+info,date,2023/07/27
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,3
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Thailand
+info,toss_decision,field
+info,player_of_match,N Senamontree
+info,umpire,V Kalidas
+info,umpire,VG Rathi
+info,match_referee,JM Pereira
+info,winner,Thailand
+info,winner_wickets,9
+info,player,China,Wei Guo Lei
+info,player,China,Wang Liuyang
+info,player,China,Zhuang Zelin
+info,player,China,Xie Kunkun
+info,player,China,Yin Chenhao
+info,player,China,Tian Sen Qun
+info,player,China,Chen Zhuo Yue
+info,player,China,Wang Qi
+info,player,China,Zhao Tianle
+info,player,China,Ma Qiancheng
+info,player,China,Luo Shilin
+info,player,Thailand,S Desungnoen
+info,player,Thailand,S Rungrueang
+info,player,Thailand,AP Yadav
+info,player,Thailand,N Nuntarach
+info,player,Thailand,J Coetzee
+info,player,Thailand,Robert Raina
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,N Senamontree
+info,player,Thailand,K Namchaikul
+info,player,Thailand,P Suanchuai
+info,player,Thailand,C Chatphaisan
+info,registry,people,AP Yadav,a5501504
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,Chen Zhuo Yue,47b33198
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,K Namchaikul,f4ccbe6f
+info,registry,people,Luo Shilin,c251b048
+info,registry,people,Ma Qiancheng,91cc319d
+info,registry,people,N Nuntarach,9e3575ce
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,P Suanchuai,e6948355
+info,registry,people,Robert Raina,8e38d470
+info,registry,people,S Desungnoen,3eb26dc4
+info,registry,people,S Rungrueang,35ae9e8a
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Tian Sen Qun,3883402f
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Wang Liuyang,f3c217a9
+info,registry,people,Wang Qi,12c9c558
+info,registry,people,Wei Guo Lei,87c93848
+info,registry,people,Xie Kunkun,1ebfbbe4
+info,registry,people,Yin Chenhao,68408eff
+info,registry,people,Zhao Tianle,023c40b8
+info,registry,people,Zhuang Zelin,a03ee6e1

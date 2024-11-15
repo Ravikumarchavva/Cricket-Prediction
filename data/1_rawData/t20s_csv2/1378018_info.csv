@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Turkey
+info,gender,female
+info,season,2023
+info,date,2023/06/02
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,13
+info,venue,"Grainville, St Saviour, Jersey"
+info,city,St Saviour
+info,toss_winner,Turkey
+info,toss_decision,field
+info,player_of_match,AS Withanage
+info,umpire,AY Harris
+info,umpire,DH Mclean
+info,reserve_umpire,J Naeem
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_runs,88
+info,player,Italy,AS Withanage
+info,player,Italy,M Rathnayake
+info,player,Italy,EL Bartram
+info,player,Italy,C Mahamalage
+info,player,Italy,K Peddrick
+info,player,Italy,D Nanayakkara
+info,player,Italy,Regina Khan
+info,player,Italy,N Asuramanage
+info,player,Italy,K Kaur
+info,player,Italy,S Malwatta
+info,player,Italy,G Batagoda
+info,player,Turkey,G Ayan
+info,player,Turkey,G Keles
+info,player,Turkey,G Cengiz
+info,player,Turkey,B Taylan
+info,player,Turkey,K Canavarci
+info,player,Turkey,Ezgi Nur Kilic
+info,player,Turkey,H Okcu
+info,player,Turkey,O Essiz
+info,player,Turkey,YP Karadogan
+info,player,Turkey,Rumeysa Alp
+info,player,Turkey,Rabia Sahan
+info,registry,people,AS Withanage,078f166f
+info,registry,people,AY Harris,90d95b82
+info,registry,people,B Taylan,416863d4
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,DH Mclean,281d4749
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,Ezgi Nur Kilic,ec8132b2
+info,registry,people,G Ayan,66d258e2
+info,registry,people,G Batagoda,f63ec2e5
+info,registry,people,G Cengiz,be59ed3f
+info,registry,people,G Keles,3e84a803
+info,registry,people,G McCrea,46f4a901
+info,registry,people,H Okcu,7ddce42e
+info,registry,people,HO Karaduman,0853d18a
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,K Canavarci,556ad437
+info,registry,people,K Kaur,7ee0f839
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,N Asuramanage,46dff613
+info,registry,people,O Essiz,80d9e011
+info,registry,people,Rabia Sahan,d37581d9
+info,registry,people,Regina Khan,862f4427
+info,registry,people,Rumeysa Alp,2ffdf67d
+info,registry,people,S Malwatta,bc11f3a3
+info,registry,people,YP Karadogan,5493e269

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Papua New Guinea
+info,team,Vanuatu
+info,gender,male
+info,season,2023
+info,date,2023/07/26
+info,event,ICC Men's T20 World Cup East Asia-Pacific Qualifier
+info,match_number,7
+info,venue,"Amini Park, Port Moresby"
+info,city,Port Moresby
+info,toss_winner,Papua New Guinea
+info,toss_decision,bat
+info,player_of_match,N Vanua
+info,umpire,CA Polosak
+info,umpire,PJ Gillespie
+info,reserve_umpire,SB Haig
+info,match_referee,WC Labrooy
+info,winner,Papua New Guinea
+info,winner_runs,39
+info,player,Papua New Guinea,TP Ura
+info,player,Papua New Guinea,K Doriga
+info,player,Papua New Guinea,A Vala
+info,player,Papua New Guinea,L Siaka
+info,player,Papua New Guinea,S Bau
+info,player,Papua New Guinea,H Hiri
+info,player,Papua New Guinea,N Vanua
+info,player,Papua New Guinea,CJA Amini
+info,player,Papua New Guinea,J Kariko
+info,player,Papua New Guinea,A Nao
+info,player,Papua New Guinea,SI Kamea
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,C Tommy
+info,player,Vanuatu,A Mansale
+info,player,Vanuatu,JD Allan
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,R Tari
+info,player,Vanuatu,PK Matautaava
+info,player,Vanuatu,J Vira
+info,player,Vanuatu,SH Obed
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,D Wotu
+info,registry,people,A Mansale,a22b4f3f
+info,registry,people,A Nao,4d1ec7eb
+info,registry,people,A Vala,72e60730
+info,registry,people,C Tommy,c6d4cff0
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,CJA Amini,4d84ad05
+info,registry,people,D Wotu,9585854d
+info,registry,people,H Hiri,9dc3ea7e
+info,registry,people,J Kariko,cde067e1
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,J Vira,2090e94d
+info,registry,people,JD Allan,3758028b
+info,registry,people,K Doriga,365229a8
+info,registry,people,L Siaka,6b4593ee
+info,registry,people,N Nipiko,c498c510
+info,registry,people,N Vanua,a36915ce
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,PK Matautaava,af19aa66
+info,registry,people,R Tari,c4d19735
+info,registry,people,S Bau,9a95bebb
+info,registry,people,SB Haig,811655b3
+info,registry,people,SH Obed,f49c401e
+info,registry,people,SI Kamea,0730a707
+info,registry,people,TP Ura,a82eb3fb
+info,registry,people,W Nalisa,673be48f
+info,registry,people,WC Labrooy,29d4e29b

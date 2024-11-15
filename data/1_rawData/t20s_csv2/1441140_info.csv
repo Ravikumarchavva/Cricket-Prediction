@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Kenya
+info,gender,male
+info,season,2024
+info,date,2024/07/03
+info,event,Twenty20 Quadrangular (in Kenya)
+info,match_number,9
+info,venue,"Sikh Union Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,N Mugabe
+info,umpire,IO Oyieko
+info,umpire,SJ Sanghani
+info,reserve_umpire,Asgarali Kassam
+info,winner,Kenya
+info,winner_wickets,4
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,Hamza Khan
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,Yves Cyusa
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,E Kubwimana
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,Muhammad Nadir
+info,player,Kenya,RN Patel
+info,player,Kenya,N Mugabe
+info,player,Kenya,RR Patel
+info,player,Kenya,SR Bhudia
+info,player,Kenya,S Singh
+info,player,Kenya,LN Oluoch
+info,player,Kenya,JS Kundi
+info,player,Kenya,SO Ngoche
+info,player,Kenya,GM Muthui
+info,player,Kenya,Vraj Patel
+info,player,Kenya,P Koech
+info,registry,people,Asgarali Kassam,88aaf2d7
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Kubwimana,bfc7799f
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,Hamza Khan,44a5f2b2
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,JS Kundi,092ccf20
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Koech,f4a0a615
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SJ Sanghani,671e518d
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Vraj Patel,2af28253
+info,registry,people,Yves Cyusa,b5aa28ce
+info,registry,people,Z Bimenyimana,ba57fb08

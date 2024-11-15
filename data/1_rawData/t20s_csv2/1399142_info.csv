@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maldives
+info,team,Qatar
+info,gender,male
+info,season,2023/24
+info,date,2023/10/01
+info,event,ICC Men's T20 World Cup Sub Regional Asia Qualifier A
+info,match_number,5
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Qatar
+info,toss_decision,field
+info,player_of_match,Saqlain Arshad
+info,umpire,Bismillah Shinwari
+info,umpire,Rahul Asher
+info,reserve_umpire,Shivani Mishra
+info,match_referee,GS Lakshmi
+info,winner,Qatar
+info,winner_wickets,9
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,KTK Rodrigo
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Ameel Mauroof
+info,player,Maldives,Ibrahim Nashath
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,CA Liyanage
+info,player,Maldives,L Shafeeg
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Bipin Kumar
+info,player,Qatar,Bukhar Illikkal
+info,player,Qatar,H Rathod
+info,player,Qatar,Jassim Khan
+info,player,Qatar,Adnan Mirza
+info,player,Qatar,Mohammed Irshad
+info,player,Qatar,Muhammad Murad
+info,player,Qatar,I Liyanage
+info,registry,people,Adnan Mirza,745c3cbc
+info,registry,people,Ameel Mauroof,1579d497
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,Bipin Kumar,c821e504
+info,registry,people,Bismillah Shinwari,cae815a0
+info,registry,people,Bukhar Illikkal,f4a2d087
+info,registry,people,CA Liyanage,eea27fb2
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,H Rathod,1f943bef
+info,registry,people,I Liyanage,826e1017
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Nashath,98514dce
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Jassim Khan,67e36e53
+info,registry,people,KTK Rodrigo,a482add2
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Mohammed Irshad,1a54d618
+info,registry,people,Muhammad Murad,df3947f4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Umar Adam,5d77a96a

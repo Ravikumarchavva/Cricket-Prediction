@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Cook Islands
+info,gender,male
+info,season,2024
+info,date,2024/08/23
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,10
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Samoa
+info,toss_decision,bat
+info,player_of_match,T Parima
+info,umpire,Kim Cotton
+info,umpire,M Kenni
+info,match_referee,Kent Hannam
+info,winner,Cook Islands
+info,winner_wickets,8
+info,player,Samoa,T Misi
+info,player,Samoa,CK Jasmat
+info,player,Samoa,DE Roache
+info,player,Samoa,D Visser
+info,player,Samoa,S Cotter
+info,player,Samoa,F Suluoto
+info,player,Samoa,SF Tiai
+info,player,Samoa,DE Burgess
+info,player,Samoa,SM Nash
+info,player,Samoa,A Ilaoa
+info,player,Samoa,D Finau
+info,player,Samoa,Noah Mead
+info,player,Cook Islands,HB Dickson
+info,player,Cook Islands,T Parima
+info,player,Cook Islands,MTMMJ Ave
+info,player,Cook Islands,A Parima
+info,player,Cook Islands,OE Taylor
+info,player,Cook Islands,L Denny
+info,player,Cook Islands,JL Tutty
+info,player,Cook Islands,T Ritawa
+info,player,Cook Islands,AJA Samuels
+info,player,Cook Islands,MJM Kavana
+info,player,Cook Islands,C Dickson
+info,registry,people,A Ilaoa,4d733a54
+info,registry,people,A Parima,866d3ac8
+info,registry,people,AJA Samuels,9a28e6e1
+info,registry,people,C Dickson,26b59073
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Finau,63772ee4
+info,registry,people,D Visser,bb4da4d3
+info,registry,people,DE Burgess,7bf39e5c
+info,registry,people,DE Roache,110b180a
+info,registry,people,F Suluoto,ae380321
+info,registry,people,HB Dickson,e8c95491
+info,registry,people,JL Tutty,11b37b2a
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Denny,e112732d
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,MJM Kavana,10eef955
+info,registry,people,MTMMJ Ave,00863408
+info,registry,people,Noah Mead,0095a0e3
+info,registry,people,OE Taylor,24a93558
+info,registry,people,S Cotter,e6127436
+info,registry,people,SF Tiai,bf19d427
+info,registry,people,SM Nash,4f3a89ae
+info,registry,people,T Misi,2c789867
+info,registry,people,T Parima,ecd51f8e
+info,registry,people,T Ritawa,1c8ada57

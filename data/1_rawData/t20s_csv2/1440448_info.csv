@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Singapore
+info,gender,female
+info,season,2024
+info,date,2024/07/06
+info,event,Indonesia Women's T20I Tri-Series
+info,match_number,6
+info,venue,Udayana Cricket Ground
+info,city,Bali
+info,toss_winner,Bhutan
+info,toss_decision,bat
+info,player_of_match,Ada Bhasin
+info,umpire,V Kalidas
+info,umpire,Yousuf Wadu
+info,reserve_umpire,Edi Agustinus
+info,winner,Singapore
+info,winner_wickets,4
+info,player,Bhutan,N Choden
+info,player,Bhutan,T Zangmo
+info,player,Bhutan,K Dema
+info,player,Bhutan,D Wangmo
+info,player,Bhutan,Y Choden
+info,player,Bhutan,S Choden
+info,player,Bhutan,Chado Om
+info,player,Bhutan,A Gurung
+info,player,Bhutan,R Choden
+info,player,Bhutan,Sonam
+info,player,Bhutan,Sonam Palden
+info,player,Singapore,RR Seth
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,GK Diviya
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,DA Galia
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,LAR Bommareddy
+info,player,Singapore,H Dhavina
+info,player,Singapore,JT Pooranakaran
+info,player,Singapore,JS Pooranakaran
+info,registry,people,A Gurung,10854c82
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Chado Om,f53fa89c
+info,registry,people,D Wangmo,760fcf65
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,Edi Agustinus,6ee9fbb9
+info,registry,people,GK Diviya,992979fa
+info,registry,people,H Dhavina,cd12f384
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,JT Pooranakaran,3a743619
+info,registry,people,K Dema,0b211a32
+info,registry,people,LAR Bommareddy,3da8cd3a
+info,registry,people,N Choden,a904600a
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,R Choden,c0266a6e
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,S Choden,e1e0775d
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,Sonam,09cbca15
+info,registry,people,Sonam Palden,ce7ab5f8
+info,registry,people,T Zangmo,b1f21c0f
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,Y Choden,6f17c546
+info,registry,people,Yousuf Wadu,cf41005c

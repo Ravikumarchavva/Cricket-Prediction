@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Isle of Man
+info,team,Italy
+info,gender,male
+info,season,2024
+info,date,2024/06/12
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,9
+info,venue,Roma Cricket Ground
+info,city,Spinaceto
+info,toss_winner,Isle of Man
+info,toss_decision,bat
+info,player_of_match,TJ Draca
+info,umpire,M Jameson
+info,umpire,WPM van Liemt
+info,reserve_umpire,Adeel Ashiq
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_wickets,7
+info,player,Isle of Man,OJ Webster
+info,player,Isle of Man,A McAuley
+info,player,Isle of Man,EF Beard
+info,player,Isle of Man,C Hartmann
+info,player,Isle of Man,G Burrows
+info,player,Isle of Man,H McAleer
+info,player,Isle of Man,CJ Langford
+info,player,Isle of Man,JA Burrows
+info,player,Isle of Man,MJ Ansell
+info,player,Isle of Man,S Clarke
+info,player,Isle of Man,K Cawte
+info,player,Italy,J Mosca
+info,player,Italy,JA Burns
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,GP Meade
+info,player,Italy,GK Berg
+info,player,Italy,CJPF Kalugamage
+info,player,Italy,Jaspreet Singh
+info,player,Italy,S di Bartolomeo
+info,player,Italy,TJ Draca
+info,registry,people,A McAuley,39e599c8
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,C Hartmann,467c28f9
+info,registry,people,CJ Langford,3967b66f
+info,registry,people,CJPF Kalugamage,31c04b7b
+info,registry,people,EF Beard,68019a70
+info,registry,people,G Burrows,8bee668b
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GK Berg,42151725
+info,registry,people,GP Meade,3957a70a
+info,registry,people,H McAleer,8b39d02a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,JA Burrows,dba54d8e
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,K Cawte,a2dd9236
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,MJ Ansell,6e60a792
+info,registry,people,OJ Webster,a69e2964
+info,registry,people,S Clarke,6c6d83ef
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,TJ Draca,88fac705
+info,registry,people,WPM van Liemt,2bd48588

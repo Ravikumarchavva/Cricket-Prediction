@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malawi
+info,team,Lesotho
+info,gender,male
+info,season,2024
+info,date,2024/09/21
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,1
+info,venue,"Gymkhana Club Ground, Dar-es-Salaam"
+info,city,Dar-es-Salaam
+info,toss_winner,Lesotho
+info,toss_decision,field
+info,player_of_match,Sami Sohail
+info,umpire,A Kassam
+info,umpire,K Klaaste
+info,reserve_umpire,A Premji
+info,match_referee,S Wadvalla
+info,winner,Malawi
+info,winner_runs,93
+info,player,Malawi,D Kansonkho
+info,player,Malawi,G Kansonkho
+info,player,Malawi,Sami Sohail
+info,player,Malawi,A Limdawala
+info,player,Malawi,MA Baig
+info,player,Malawi,M Choamba
+info,player,Malawi,GM Ntambalika
+info,player,Malawi,D Jakiel
+info,player,Malawi,B Pondani
+info,player,Malawi,P Zuze
+info,player,Malawi,SZ Vayani
+info,player,Lesotho,LM Gabriel
+info,player,Lesotho,ME Leoela
+info,player,Lesotho,LJ Leokaoke
+info,player,Lesotho,V Jayant
+info,player,Lesotho,Maaz Khan
+info,player,Lesotho,Waseem Yaqoob
+info,player,Lesotho,C Tlali
+info,player,Lesotho,L Monanthane
+info,player,Lesotho,Omar Hussain
+info,player,Lesotho,Sajid Patel
+info,player,Lesotho,TD Chaoana
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Limdawala,2bcbcac3
+info,registry,people,A Premji,40a68f89
+info,registry,people,B Pondani,e5117568
+info,registry,people,C Tlali,70841eab
+info,registry,people,D Jakiel,8b7ce771
+info,registry,people,D Kansonkho,45ca12a7
+info,registry,people,G Kansonkho,f3ca5af8
+info,registry,people,GM Ntambalika,8c8a3f08
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,L Monanthane,07e5bda2
+info,registry,people,LJ Leokaoke,456884dd
+info,registry,people,LM Gabriel,88a5adcf
+info,registry,people,M Choamba,5570c4c1
+info,registry,people,MA Baig,89394502
+info,registry,people,ME Leoela,3b107df5
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,Omar Hussain,2002c586
+info,registry,people,P Zuze,04420914
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,SZ Vayani,a4afc486
+info,registry,people,Sajid Patel,f8279d15
+info,registry,people,Sami Sohail,602ebd4c
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,V Jayant,6535cc7b
+info,registry,people,Waseem Yaqoob,06b387f1

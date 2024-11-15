@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Costa Rica
+info,gender,male
+info,season,2024
+info,date,2024/04/14
+info,event,Central American Cricket Championships
+info,match_number,5
+info,venue,Los Reyes Polo Club
+info,city,Guacima
+info,toss_winner,Mexico
+info,toss_decision,bat
+info,player_of_match,Pratik Singh Bais
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,winner,Mexico
+info,winner_runs,58
+info,player,Mexico,S Elayaperumal
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Seetharam Guruvayoorappan
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,SB Wagh
+info,player,Mexico,R Ankad
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,DV Devjani Mutreja
+info,player,Mexico,GE Gutierrez Chavez
+info,player,Costa Rica,G Singhdeo
+info,player,Costa Rica,D Rawat
+info,player,Costa Rica,S Murari
+info,player,Costa Rica,G Murali
+info,player,Costa Rica,S Ravikumar
+info,player,Costa Rica,YJC Altamirano
+info,player,Costa Rica,S Pillai
+info,player,Costa Rica,RR Saun
+info,player,Costa Rica,PV Naringrekar
+info,player,Costa Rica,D Ganesh
+info,player,Costa Rica,Imran Ahmed Kaneez
+info,registry,people,AR Maddela,5c861579
+info,registry,people,D Ganesh,84624717
+info,registry,people,D Rawat,cda3625c
+info,registry,people,DV Devjani Mutreja,c872d657
+info,registry,people,G Murali,76177951
+info,registry,people,G Singhdeo,4ae44aec
+info,registry,people,GE Gutierrez Chavez,6ecd3d7b
+info,registry,people,Imran Ahmed Kaneez,8c3cbee9
+info,registry,people,PV Naringrekar,b0ff13d6
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Shah,3424e050
+info,registry,people,RR Saun,acb6ee37
+info,registry,people,S Elayaperumal,5c86b6ac
+info,registry,people,S Murari,3ed39f01
+info,registry,people,S Pillai,927b34c9
+info,registry,people,S Ravikumar,5597338d
+info,registry,people,SB Wagh,acf06e10
+info,registry,people,Seetharam Guruvayoorappan,9663115e
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,YJC Altamirano,35f622e6

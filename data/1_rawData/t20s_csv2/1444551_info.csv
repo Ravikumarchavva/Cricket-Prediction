@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Netherlands
+info,gender,female
+info,season,2024
+info,date,2024/08/16
+info,event,Netherlands Women's T20I Tri-Series
+info,match_number,3
+info,venue,"VRA Ground, Amstelveen"
+info,city,Amstelveen
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,NM Sheikh
+info,umpire,AM Deshpande
+info,umpire,MA Din
+info,reserve_umpire,Jnanesh Kolli
+info,match_referee,Adriaan van den Dries
+info,winner,Scotland
+info,winner_runs,27
+info,player,Scotland,A Aitken-Drummond
+info,player,Scotland,M McColl
+info,player,Scotland,M Faisal
+info,player,Scotland,PA Chatterji
+info,player,Scotland,DEM Carter
+info,player,Scotland,L Jack
+info,player,Scotland,NM Sheikh
+info,player,Scotland,EL Watson
+info,player,Scotland,C Abel
+info,player,Scotland,AH Maqsood
+info,player,Scotland,O Bell
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,C de Lange
+info,player,Netherlands,AS van Beuge
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,S Siegers
+info,registry,people,A Aitken-Drummond,25c73eb6
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AM Deshpande,2622742a
+info,registry,people,AS van Beuge,623c8835
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Abel,d92d3563
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,EL Watson,45dd7433
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,Jnanesh Kolli,56a7dc8f
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M Faisal,48b74dc2
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,MA Din,3e285c0a
+info,registry,people,NM Sheikh,23ef9b32
+info,registry,people,O Bell,385eac52
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,PA Chatterji,8e7be59c
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,SL Kalis,2b150c6b

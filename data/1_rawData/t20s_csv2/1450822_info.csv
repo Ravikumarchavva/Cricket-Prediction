@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,United States of America
+info,gender,male
+info,season,2024
+info,date,2024/10/05
+info,event,Namibia T20 Tri-Series
+info,match_number,6
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,Milind Kumar
+info,umpire,A Louw
+info,umpire,E Lassen
+info,reserve_umpire,Claus Schumacher
+info,match_referee,GH Pienaar
+info,winner,United States of America
+info,winner_wickets,6
+info,player,Namibia,JP Kotze
+info,player,Namibia,JN Frylinck
+info,player,Namibia,A Busing-Volschenk
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,ZE Green
+info,player,Namibia,S Fouché
+info,player,Namibia,JC Balt
+info,player,Namibia,BM Scholtz
+info,player,Namibia,JT Brassell
+info,player,Namibia,T Lungameni
+info,player,United States of America,SR Mukkamalla
+info,player,United States of America,AGS Gous
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,NR Kumar
+info,player,United States of America,Milind Kumar
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Utkarsh Srivastava
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,AA Paradkar
+info,player,United States of America,NP Kenjige
+info,player,United States of America,J Drysdale
+info,registry,people,A Busing-Volschenk,e9e37173
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AA Paradkar,96f5b685
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Claus Schumacher,85645e62
+info,registry,people,E Lassen,a476d6d0
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,J Drysdale,23f94c02
+info,registry,people,JC Balt,75be3b2a
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,JT Brassell,537021f5
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,S Fouché,89ce57a8
+info,registry,people,SR Mukkamalla,156d0ea2
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,Utkarsh Srivastava,61928851
+info,registry,people,ZE Green,8716233e

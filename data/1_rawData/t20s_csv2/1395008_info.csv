@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Brazil
+info,gender,female
+info,season,2023
+info,date,2023/09/04
+info,event,ICC Women's T20 World Cup Americas Region Qualifier
+info,match_number,2
+info,venue,"Woodley Cricket Field, Los Angeles"
+info,city,Los Angeles
+info,toss_winner,Canada
+info,toss_decision,bat
+info,player_of_match,M Hundal
+info,umpire,Emmerson Carrington
+info,umpire,Vijaya Mallela
+info,reserve_umpire,BV Taylor
+info,match_referee,G McCrea
+info,winner,Canada
+info,winner_runs,53
+info,player,Canada,D McGahey
+info,player,Canada,D Saxena
+info,player,Canada,Amarpal Kaur
+info,player,Canada,A Perera
+info,player,Canada,Kainat Qazi
+info,player,Canada,Habeeba Bader
+info,player,Canada,K Kapadia
+info,player,Canada,M Hundal
+info,player,Canada,R Misra
+info,player,Canada,Saniyah Zia
+info,player,Canada,V Vithanage
+info,player,Brazil,LV Boas
+info,player,Brazil,L Agatha
+info,player,Brazil,RMAM Avery
+info,player,Brazil,L Cardoso
+info,player,Brazil,MR Machado
+info,player,Brazil,RD de Sousa
+info,player,Brazil,M Artur
+info,player,Brazil,CS Nascimento
+info,player,Brazil,NC Monteiro
+info,player,Brazil,MB dos Santos
+info,player,Brazil,M Ribeiro
+info,registry,people,A Perera,788afc32
+info,registry,people,Amarpal Kaur,3051fcc6
+info,registry,people,BV Taylor,99760152
+info,registry,people,CS Nascimento,df997334
+info,registry,people,D McGahey,b5ef8f19
+info,registry,people,D Saxena,cc7331d4
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,G McCrea,46f4a901
+info,registry,people,Habeeba Bader,18d53879
+info,registry,people,K Kapadia,52fc5577
+info,registry,people,Kainat Qazi,1ccd4054
+info,registry,people,L Agatha,1aebb2fa
+info,registry,people,L Cardoso,5777d460
+info,registry,people,LV Boas,3a00d34f
+info,registry,people,M Artur,400b36cd
+info,registry,people,M Hundal,213dc641
+info,registry,people,M Ribeiro,38424a4d
+info,registry,people,MB dos Santos,8ba8dd7a
+info,registry,people,MR Machado,4a4f94fa
+info,registry,people,NC Monteiro,752af5a4
+info,registry,people,R Misra,430f7ef9
+info,registry,people,RD de Sousa,2901e489
+info,registry,people,RMAM Avery,4cf645c9
+info,registry,people,Saniyah Zia,ffae3d12
+info,registry,people,V Vithanage,5eaff430
+info,registry,people,Vijaya Mallela,85b6244a

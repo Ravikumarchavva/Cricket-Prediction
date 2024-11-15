@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Romania
+info,gender,male
+info,season,2023
+info,date,2023/07/14
+info,event,Valletta Cup
+info,match_number,6
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,Zeeshan Khan
+info,umpire,J Hilhorst
+info,umpire,S Harnal
+info,reserve_umpire,S Fernando
+info,match_referee,Vinay Malhotra
+info,winner,Malta
+info,winner_runs,41
+info,player,Malta,Zeeshan Khan
+info,player,Malta,Fanyan Mughal
+info,player,Malta,DR Patankar
+info,player,Malta,Aaftab Alam Khan
+info,player,Malta,B Arora
+info,player,Malta,VP Thamotharam
+info,player,Malta,Waqas Ahmad
+info,player,Malta,E Mathew
+info,player,Malta,A Bishnoi
+info,player,Malta,C Sudarsanan
+info,player,Malta,Washeem Abbas
+info,player,Romania,R Satheesan
+info,player,Romania,Taranjeet Singh
+info,player,Romania,V Saini
+info,player,Romania,S Nadigotla
+info,player,Romania,S Periyalwar
+info,player,Romania,Abdul Shakoor
+info,player,Romania,S Vashisht
+info,player,Romania,Gaurav Mishra
+info,player,Romania,M Koli
+info,player,Romania,Luca Petre
+info,player,Romania,S Thakur
+info,registry,people,A Bishnoi,376557f7
+info,registry,people,Aaftab Alam Khan,9dbc77b3
+info,registry,people,Abdul Shakoor,d52b13a6
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,DR Patankar,e661915c
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Fanyan Mughal,e85bb4b3
+info,registry,people,Gaurav Mishra,507dd87f
+info,registry,people,J Hilhorst,8a1350d4
+info,registry,people,Jaswinder Singh,63aa8148
+info,registry,people,Luca Petre,b31d458f
+info,registry,people,M Koli,eb0f2802
+info,registry,people,R Satheesan,1125ebe4
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Harnal,756fe781
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Thakur,a073f2ff
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,V Saini,0fa81719
+info,registry,people,VP Thamotharam,eb40ed89
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,Waqas Ahmad,82623a3a
+info,registry,people,Washeem Abbas,6de4e430
+info,registry,people,Zeeshan Khan,3f9b1a96

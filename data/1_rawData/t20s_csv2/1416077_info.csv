@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Afghanistan
+info,gender,male
+info,season,2023/24
+info,date,2024/02/17
+info,event,Afghanistan tour of Sri Lanka
+info,match_number,1
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Afghanistan
+info,toss_decision,field
+info,player_of_match,M Pathirana
+info,umpire,RMPJ Rambukwella
+info,umpire,RR Wimalasiri
+info,reserve_umpire,REJ Martinesz
+info,tv_umpire,LE Hannibal
+info,match_referee,BC Broad
+info,winner,Sri Lanka
+info,winner_runs,4
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,B Fernando
+info,player,Sri Lanka,M Pathirana
+info,player,Afghanistan,Ibrahim Zadran
+info,player,Afghanistan,Rahmanullah Gurbaz
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Azmatullah Omarzai
+info,player,Afghanistan,Mohammad Nabi
+info,player,Afghanistan,Najibullah Zadran
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Qais Ahmad
+info,player,Afghanistan,Noor Ahmad
+info,player,Afghanistan,Naveen-ul-Haq
+info,player,Afghanistan,Fazalhaq Farooqi
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BC Broad,d6a7dd38
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,Fazalhaq Farooqi,e9c7f0d0
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,Ibrahim Zadran,d4550956
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,Karim Janat,62175638
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mohammad Nabi,62af8546
+info,registry,people,Najibullah Zadran,1212cbec
+info,registry,people,Naveen-ul-Haq,c0c411cb
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,REJ Martinesz,140cdf29
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,Rahmanullah Gurbaz,0bacade8
+info,registry,people,S Samarawickrama,9ab2914d

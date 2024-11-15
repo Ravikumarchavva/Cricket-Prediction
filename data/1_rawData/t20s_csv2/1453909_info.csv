@@ -1,0 +1,63 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mexico
+info,team,Argentina
+info,gender,male
+info,season,2024/25
+info,date,2024/10/13
+info,event,South American Men's Championships
+info,venue,Sao Fernando Polo and Cricket Club
+info,city,Seropedica
+info,toss_winner,Argentina
+info,toss_decision,field
+info,player_of_match,P Baron
+info,umpire,Alex Knight
+info,umpire,Amol Bhatt
+info,winner,Argentina
+info,winner_wickets,8
+info,player,Mexico,Abhilash Patil
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Seetharam Guruvayoorappan
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,R Galgalikar
+info,player,Mexico,A Tripathi
+info,player,Mexico,Harprit Singh
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,R Ankad
+info,player,Argentina,Lucas Rossi
+info,player,Argentina,Guido Angeletti
+info,player,Argentina,P Baron
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,H Fennell
+info,player,Argentina,B Angeltti
+info,player,Argentina,T Rossi
+info,player,Argentina,AAP Rivero
+info,player,Argentina,Santiago Iturbe
+info,player,Argentina,Manuel Iturbe
+info,player,Argentina,A Husain
+info,registry,people,A Husain,034d3c52
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,A Tripathi,07160156
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,Abhilash Patil,e48f748b
+info,registry,people,Alex Knight,dfa9fee7
+info,registry,people,Amol Bhatt,d7e52706
+info,registry,people,B Angeltti,3cdab0cc
+info,registry,people,Guido Angeletti,6d6f52fc
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,Harprit Singh,c60361d7
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Lucas Rossi,2064e555
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,Manuel Iturbe,bddbf5ec
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,R Ankad,5995707a
+info,registry,people,R Galgalikar,3f951265
+info,registry,people,Santiago Iturbe,851b0636
+info,registry,people,Seetharam Guruvayoorappan,9663115e
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,T Rossi,5470418a

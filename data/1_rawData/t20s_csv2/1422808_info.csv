@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kuwait
+info,team,Bahrain
+info,gender,male
+info,season,2023/24
+info,date,2024/03/05
+info,event,Malaysia Open T20 Championship
+info,match_number,2
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,Sarfaraz Ali
+info,umpire,Nasir Ali
+info,umpire,Sarika Prasad
+info,reserve_umpire,V Kalidas
+info,tv_umpire,N Sivan
+info,match_referee,B Ramani
+info,winner,Bahrain
+info,winner_runs,28
+info,method,D/L
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,Mohammad Amin
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Sayed Monib
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Mohamed Shafeeq
+info,player,Kuwait,Mirza Ahmed
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Sachin Kumar
+info,player,Bahrain,S Veerapathiran
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,B Ramani,92ad5353
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mirza Ahmed,9a54c30a
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Mohammad Amin,01b45044
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,Sachin Kumar,b76b2d25
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sayed Monib,b9cfb0b1
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,V Kalidas,42d76418
+info,registry,people,Yasin Patel,ecdd8d60

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Bulgaria
+info,gender,male
+info,season,2024
+info,date,2024/08/25
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,13
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Malta
+info,toss_decision,bat
+info,player_of_match,B George
+info,umpire,AA Baig
+info,umpire,RJ Veillard
+info,reserve_umpire,AY Harris
+info,match_referee,GH Pienaar
+info,winner,Malta
+info,winner_runs,61
+info,player,Malta,R Dianish
+info,player,Malta,Zeeshan Khan
+info,player,Malta,B George
+info,player,Malta,Jaspal Singh
+info,player,Malta,G Thakur
+info,player,Malta,DR Patankar
+info,player,Malta,C Sudarsanan
+info,player,Malta,E Mathew
+info,player,Malta,B Arora
+info,player,Malta,VRB Arachchige
+info,player,Malta,J Shaju
+info,player,Bulgaria,Omar Rassol
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,A Ahmadhel
+info,player,Bulgaria,Firas Hussain
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,A Dowling
+info,player,Bulgaria,Huzaif Yousuf
+info,player,Bulgaria,Ali Rasool
+info,registry,people,A Ahmadhel,55a5cffb
+info,registry,people,A Dowling,ec064d97
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Ali Rasool,1a710f40
+info,registry,people,B Arora,39e9f0c9
+info,registry,people,B George,1bdbf53b
+info,registry,people,C Sudarsanan,391a825b
+info,registry,people,DR Patankar,e661915c
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,E Mathew,e00acf74
+info,registry,people,Firas Hussain,261d591a
+info,registry,people,G Thakur,93720584
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Huzaif Yousuf,95e47073
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,J Shaju,d8bee9a1
+info,registry,people,Jaspal Singh,adca37a2
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,Omar Rassol,6caae2dc
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,R Dianish,17e2a2d6
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,VRB Arachchige,70e1b3a8
+info,registry,people,Zeerak Chughtai,ff0b1636
+info,registry,people,Zeeshan Khan,3f9b1a96

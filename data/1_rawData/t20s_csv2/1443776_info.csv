@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Greece
+info,team,Cyprus
+info,gender,male
+info,season,2024
+info,date,2024/08/24
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,11
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Greece
+info,toss_decision,bat
+info,player_of_match,S Burdekin
+info,umpire,RJ Veillard
+info,umpire,RJ Warren
+info,reserve_umpire,S Wood
+info,match_referee,GH Pienaar
+info,winner,Cyprus
+info,winner_wickets,8
+info,player,Greece,Sajid Khan Afridi
+info,player,Greece,Aslam Mohammad
+info,player,Greece,C Bogdanos
+info,player,Greece,Ali Muaaz
+info,player,Greece,AS Mehmi
+info,player,Greece,GC Galanis
+info,player,Greece,Sinan Khan
+info,player,Greece,Samader Shadab
+info,player,Greece,A Gasteratos
+info,player,Greece,S Vasilakis
+info,player,Greece,N Katechis
+info,player,Cyprus,S Burdekin
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,J Chialoufas
+info,player,Cyprus,S Austin
+info,player,Cyprus,SN Pathirana
+info,player,Cyprus,CPPM Sadun
+info,player,Cyprus,R Siriwardena
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,A Shahi
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,V Khanduri
+info,registry,people,A Gasteratos,e87c009a
+info,registry,people,A Shahi,2011735e
+info,registry,people,AS Mehmi,4612619b
+info,registry,people,Ali Muaaz,52062ed6
+info,registry,people,Aslam Mohammad,67ae5a56
+info,registry,people,C Bogdanos,ecdfdd3c
+info,registry,people,CPPM Sadun,2cf2fc9e
+info,registry,people,GC Galanis,db218528
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,J Chialoufas,90eac542
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,N Katechis,495ded1c
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,R Siriwardena,c3ba4942
+info,registry,people,RJ Veillard,0a8ebf05
+info,registry,people,RJ Warren,9d1c62d7
+info,registry,people,S Austin,40ee633c
+info,registry,people,S Burdekin,98e3f1de
+info,registry,people,S Vasilakis,e18e9598
+info,registry,people,S Wood,fe38aa0b
+info,registry,people,SN Pathirana,f4000a7d
+info,registry,people,Sajid Khan Afridi,edc950ce
+info,registry,people,Samader Shadab,4289ccc9
+info,registry,people,Sinan Khan,251eb801
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,V Khanduri,f0f2b9c5

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Netherlands
+info,team,Papua New Guinea
+info,gender,female
+info,season,2024
+info,date,2024/08/14
+info,event,Netherlands Women's T20I Tri-Series
+info,match_number,1
+info,venue,"VRA Ground, Amstelveen"
+info,city,Amstelveen
+info,toss_winner,Papua New Guinea
+info,toss_decision,field
+info,umpire,MA Din
+info,umpire,Jnanesh Kolli
+info,reserve_umpire,AM Deshpande
+info,match_referee,Adriaan van den Dries
+info,outcome,no result
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,AS van Beuge
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,C de Lange
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,S Siegers
+info,player,Netherlands,CH van Koolwijk
+info,player,Papua New Guinea,N Vare
+info,player,Papua New Guinea,K Frank
+info,player,Papua New Guinea,M Jayphert
+info,player,Papua New Guinea,S Jimmy
+info,player,Papua New Guinea,T Ruma
+info,player,Papua New Guinea,V Araa
+info,player,Papua New Guinea,P Siaka
+info,player,Papua New Guinea,B Tau
+info,player,Papua New Guinea,HJ Thomas
+info,player,Papua New Guinea,GP Tom
+info,player,Papua New Guinea,I Toua
+info,registry,people,AM Deshpande,2622742a
+info,registry,people,AS van Beuge,623c8835
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,B Tau,3a6cbb8e
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,CH van Koolwijk,27d5901c
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,GP Tom,88bcd09d
+info,registry,people,HJ Thomas,a3034d3d
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,I Toua,83cde44d
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,Jnanesh Kolli,56a7dc8f
+info,registry,people,K Frank,f7e96532
+info,registry,people,M Jayphert,dadfffc8
+info,registry,people,MA Din,3e285c0a
+info,registry,people,N Vare,20ace887
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,P Siaka,595433d2
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Jimmy,2daa8e40
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,T Ruma,3697a0ff
+info,registry,people,V Araa,040f11e8

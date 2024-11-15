@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Pakistan
+info,team,India
+info,gender,female
+info,season,2024/25
+info,date,2024/10/06
+info,event,ICC Women's T20 World Cup
+info,match_number,7
+info,venue,Dubai International Cricket Stadium
+info,city,Dubai
+info,toss_winner,Pakistan
+info,toss_decision,bat
+info,player_of_match,A Reddy
+info,umpire,Eloise Sheridan
+info,umpire,Lauren Agenbag
+info,reserve_umpire,CA Polosak
+info,tv_umpire,JM Williams
+info,match_referee,SA Fritz
+info,winner,India
+info,winner_wickets,6
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Gull Feroza
+info,player,Pakistan,Sidra Ameen
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Tuba Hassan
+info,player,Pakistan,Syeda Aroob Shah
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Sadia Iqbal
+info,player,India,Shafali Verma
+info,player,India,S Mandhana
+info,player,India,JI Rodrigues
+info,player,India,H Kaur
+info,player,India,RM Ghosh
+info,player,India,DB Sharma
+info,player,India,S Sajana
+info,player,India,A Reddy
+info,player,India,SR Patil
+info,player,India,S Asha
+info,player,India,Renuka Singh
+info,registry,people,A Reddy,eadc8924
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,CA Polosak,26a360d2
+info,registry,people,DB Sharma,201fef33
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,Gull Feroza,9ff1e91e
+info,registry,people,H Kaur,53cd8da6
+info,registry,people,JI Rodrigues,cb08b611
+info,registry,people,JM Williams,b61d9d70
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,RM Ghosh,721e0199
+info,registry,people,Renuka Singh,7298db76
+info,registry,people,S Asha,77143581
+info,registry,people,S Mandhana,5d2eda89
+info,registry,people,S Sajana,a4dcac97
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,SR Patil,33946d69
+info,registry,people,Sadia Iqbal,53bb50f0
+info,registry,people,Shafali Verma,d8f59089
+info,registry,people,Sidra Ameen,72c9ad99
+info,registry,people,Syeda Aroob Shah,4cf8708b
+info,registry,people,Tuba Hassan,0d56e9a5
+info,registry,people,Umaima Sohail,821d7d46

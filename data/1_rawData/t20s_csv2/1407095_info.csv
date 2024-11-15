@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Uganda
+info,team,Namibia
+info,gender,male
+info,season,2023/24
+info,date,2023/11/24
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,7
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Namibia
+info,toss_decision,field
+info,player_of_match,D Wiese
+info,umpire,L Rusere
+info,umpire,LB Gcuma
+info,reserve_umpire,S Dambanevana
+info,match_referee,GH Pienaar
+info,winner,Namibia
+info,winner_wickets,6
+info,player,Uganda,S Sesazi
+info,player,Uganda,RB Patel
+info,player,Uganda,RG Mukasa
+info,player,Uganda,R Obuya
+info,player,Uganda,AR Ramjani
+info,player,Uganda,Riazat Ali Shah
+info,player,Uganda,DM Nakrani
+info,player,Uganda,B Masaba
+info,player,Uganda,F Nsubuga
+info,player,Uganda,Bilal Hassun
+info,player,Uganda,H Ssenyondo
+info,player,Namibia,M van Lingen
+info,player,Namibia,N Davin
+info,player,Namibia,JP Kotze
+info,player,Namibia,JN Frylinck
+info,player,Namibia,MG Erasmus
+info,player,Namibia,JJ Smit
+info,player,Namibia,BM Scholtz
+info,player,Namibia,ZE Green
+info,player,Namibia,D Wiese
+info,player,Namibia,T Lungameni
+info,player,Namibia,JN Loftie-Eaton
+info,registry,people,AR Ramjani,30d8136b
+info,registry,people,B Masaba,f33cfd25
+info,registry,people,BM Scholtz,e85d03d6
+info,registry,people,Bilal Hassun,1a9e9efe
+info,registry,people,D Wiese,aa8d28ae
+info,registry,people,DM Nakrani,46a7ac78
+info,registry,people,F Nsubuga,87e33d07
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,H Ssenyondo,2b7609f1
+info,registry,people,JJ Smit,bb134e5c
+info,registry,people,JN Frylinck,3c87f0c3
+info,registry,people,JN Loftie-Eaton,f468293b
+info,registry,people,JP Kotze,9f308dfc
+info,registry,people,L Rusere,6a4734ae
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M van Lingen,7eb36269
+info,registry,people,MG Erasmus,95a5e066
+info,registry,people,N Davin,72e361fe
+info,registry,people,R Obuya,6bc04a3e
+info,registry,people,RB Patel,f88dc8de
+info,registry,people,RG Mukasa,011f6b42
+info,registry,people,Riazat Ali Shah,269cc4ff
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Sesazi,c2c975f9
+info,registry,people,T Lungameni,1688f2dc
+info,registry,people,ZE Green,8716233e

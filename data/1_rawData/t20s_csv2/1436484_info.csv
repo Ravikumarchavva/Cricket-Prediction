@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Luxembourg
+info,gender,male
+info,season,2024
+info,date,2024/06/13
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,14
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,C Roberts
+info,umpire,J Jensen
+info,umpire,M Jameson
+info,reserve_umpire,I McDonald
+info,match_referee,G McCrea
+info,winner,France
+info,winner_runs,13
+info,player,France,H Niaz
+info,player,France,HA Jackson
+info,player,France,G Mckeon
+info,player,France,C Roberts
+info,player,France,L Canessane
+info,player,France,Kamran Ahmadzai
+info,player,France,Mukhtar Ghulami
+info,player,France,Usman Khan
+info,player,France,Dawood Ahmadzai
+info,player,France,Zaheer Zahiri
+info,player,France,S Stanikzay
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,A Manepalli
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,A Nanda
+info,player,Luxembourg,S Kushretha
+info,player,Luxembourg,Milad Momend
+info,player,Luxembourg,P Malav
+info,registry,people,A Manepalli,36101309
+info,registry,people,A Nanda,704e0160
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Mees,ab1445ea
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,Milad Momend,84880baf
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,P Malav,02b078b1
+info,registry,people,S Kushretha,4e3fd330
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,SKS Gill,faef026c
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,V Vijh,b857468a
+info,registry,people,WJ Cope,fb34b0ec
+info,registry,people,Zaheer Zahiri,62f6d8ce

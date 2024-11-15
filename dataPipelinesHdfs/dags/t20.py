@@ -5,11 +5,11 @@ import os
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
+from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", '..'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-
 
 # Sources tasks
 from a_data_sources.tasks import download_cricsheet, scrape_espn_stats
@@ -30,8 +30,6 @@ default_args = {
     'start_date': datetime(2024, 1, 10),
 }
 
-
-
 with DAG(
     't20_dag',
     default_args=default_args,
@@ -41,7 +39,11 @@ with DAG(
     max_active_runs=1,
 ) as dag:
     
-
+    # DVC Pull
+    dvc_pull = BashOperator(
+        task_id='dvc_pull',
+        bash_command='dvc pull',
+    )
 
     # Sources
     download_cricsheet_task = PythonOperator(
@@ -94,7 +96,7 @@ with DAG(
         application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "player_stats", "preprocess_team_data.py")}',
         conn_id='spark_default',
         )
-
+    
     combine_data_task = SparkSubmitOperator(
         task_id='combine_data',
         application=f'{os.path.join(os.path.dirname(__file__), "..", "b_data_preprocessing", "player_stats", "combine_data.py")}',
@@ -127,8 +129,23 @@ with DAG(
         conn_id='spark_default',
         )
 
+    # DVC Add
+    dvc_add = BashOperator(
+        task_id='dvc_add',
+        bash_command='dvc add path/to/data',
+    )
+
+    # DVC Push
+    dvc_push = BashOperator(
+        task_id='dvc_push',
+        bash_command='dvc push',
+    )
+
     # Define initial tasks
     [download_cricsheet_task, scrape_espn_stats_task]
+
+    # Tasks dependent on DVC Pull
+    dvc_pull >> [download_cricsheet_task, scrape_espn_stats_task]
 
     # Tasks dependent on download_cricsheet_task
     download_cricsheet_task >> [
@@ -174,3 +191,6 @@ with DAG(
         merge_match_team_stats_task,
         merge_match_players_stats_task
     ] >> filter_data_task
+
+    # DVC Add and Push after data processing
+    filter_data_task >> dvc_add >> dvc_push

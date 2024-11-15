@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,United Arab Emirates
+info,gender,male
+info,season,2023/24
+info,date,2023/10/25
+info,event,Nepal Tri-Nation T20I Series
+info,match_number,6
+info,venue,Mulpani Cricket Ground
+info,city,Kathmandu
+info,toss_winner,Hong Kong
+info,toss_decision,bat
+info,player_of_match,Babar Hayat
+info,umpire,DN Subedi
+info,umpire,Sanjay Gurung
+info,reserve_umpire,VK Jha
+info,match_referee,Muhammad Javed
+info,winner,Hong Kong
+info,winner_runs,69
+info,player,Hong Kong,M Coetzee
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Raag Kapur
+info,player,Hong Kong,A Shukla
+info,player,United Arab Emirates,Waseem Muhammad
+info,player,United Arab Emirates,Khalid Shah
+info,player,United Arab Emirates,V Aravind
+info,player,United Arab Emirates,Asif Khan
+info,player,United Arab Emirates,A Sharafu
+info,player,United Arab Emirates,Basil Hameed
+info,player,United Arab Emirates,Nilansh Keswani
+info,player,United Arab Emirates,SM Sharma
+info,player,United Arab Emirates,Akif Raja
+info,player,United Arab Emirates,Mohammed Faraazuddin
+info,player,United Arab Emirates,Junaid Siddique
+info,registry,people,A Sharafu,06cad4f0
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Akif Raja,9d0344f3
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Asif Khan,074acfb4
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Basil Hameed,adbf0400
+info,registry,people,DN Subedi,fb0a571f
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Junaid Siddique,84dc72db
+info,registry,people,Khalid Shah,9e432a38
+info,registry,people,M Coetzee,3f149080
+info,registry,people,Mohammed Faraazuddin,18ac3318
+info,registry,people,Muhammad Javed,bde2d0ea
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nilansh Keswani,424a7994
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Raag Kapur,296358c9
+info,registry,people,SM Sharma,cec44e08
+info,registry,people,Sanjay Gurung,0ef792dc
+info,registry,people,V Aravind,cddafe26
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Waseem Muhammad,6f02fe2a
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

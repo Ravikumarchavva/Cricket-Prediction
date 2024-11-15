@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,United States of America
+info,gender,male
+info,season,2024
+info,date,2024/08/24
+info,event,Netherlands Tri-Nation T20I Series
+info,match_number,2
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Canada
+info,toss_decision,bat
+info,umpire,N Bathi
+info,umpire,Rizwan Akram
+info,reserve_umpire,M Prabhudesa
+info,match_referee,Philip Thompson
+info,outcome,no result
+info,player,Canada,A Johnson
+info,player,Canada,R Pathan
+info,player,Canada,NR Kirton
+info,player,Canada,H Thaker
+info,player,Canada,S Movva
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,D Heyliger
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Kaleem Sana
+info,player,Canada,JOA Gordon
+info,player,Canada,Parveen Kumar
+info,player,United States of America,MD Patel
+info,player,United States of America,AGS Gous
+info,player,United States of America,NR Kumar
+info,player,United States of America,Aaron Jones
+info,player,United States of America,Shayan Jahangir
+info,player,United States of America,Harmeet Singh
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,SC van Schalkwyk
+info,player,United States of America,NP Kenjige
+info,player,United States of America,Yasir Mohammad
+info,player,United States of America,J Drysdale
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,J Drysdale,23f94c02
+info,registry,people,JOA Gordon,bb9b51f4
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,N Bathi,96a0edf9
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NR Kumar,b3bad3f2
+info,registry,people,Parveen Kumar,e6b3c3cc
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Pathan,7c840f73
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Movva,ee229588
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shayan Jahangir,571e1d2a
+info,registry,people,Yasir Mohammad,fe5175ce

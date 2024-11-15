@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Estonia
+info,gender,male
+info,season,2024
+info,date,2024/08/24
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,12
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,Bilal Masud
+info,umpire,AY Harris
+info,umpire,Jareth McCready
+info,reserve_umpire,AA Baig
+info,match_referee,GH Pienaar
+info,winner,Estonia
+info,winner_wickets,7
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Firas Hussain
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,Omar Rassol
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,O Duff
+info,player,Bulgaria,Ali Rasool
+info,player,Estonia,Arslan Amjad
+info,player,Estonia,S Gooch
+info,player,Estonia,Ali Masood
+info,player,Estonia,Bilal Masud
+info,player,Estonia,Sahil Chauhan
+info,player,Estonia,Habib Khan
+info,player,Estonia,M Vaik
+info,player,Estonia,P Gheewala
+info,player,Estonia,D Robson
+info,player,Estonia,A Paul
+info,player,Estonia,S Hook
+info,registry,people,A Paul,fa308279
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AY Harris,90d95b82
+info,registry,people,Ali Masood,a138f597
+info,registry,people,Ali Rasool,1a710f40
+info,registry,people,Arslan Amjad,c228c52d
+info,registry,people,Bilal Masud,643e4882
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,D Robson,fa39ad19
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Firas Hussain,261d591a
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,Habib Khan,5152ab02
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,M Vaik,5335c5a7
+info,registry,people,O Duff,550c9b2c
+info,registry,people,Omar Rassol,6caae2dc
+info,registry,people,P Gheewala,3b22ee4e
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,S Gooch,622be0d9
+info,registry,people,S Hook,eba871dd
+info,registry,people,Sahil Chauhan,f219df21
+info,registry,people,Zeerak Chughtai,ff0b1636

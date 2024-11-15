@@ -22,7 +22,9 @@ def process_match_players_stats():
 
     try:
         # Initialize Spark session using utils
-        spark = utils.create_spark_session("MatchPlayersStats")
+        spark = utils.create_spark_session("MatchPlayersStats",{
+            "spark.executor.memory": "3g",
+        })
 
         # Step 1: Load data from HDFS using utils
         matchPlayers = utils.load_data(spark, config.PROCESSED_DATA_DIR, 'match_players.csv')
@@ -58,14 +60,14 @@ def process_match_players_stats():
         team_b_swapped = team_a.withColumn("flip", lit(1))
         team_a_swapped = team_b.withColumn("flip", lit(1))
         
-        original_teams = team_a.unionByName(team_b).orderBy("country", "player_id")
-        swapped_teams = team_b_swapped.unionByName(team_a_swapped).orderBy("country")
+        original_teams = team_a.unionByName(team_b).orderBy("Country", "Player")
+        swapped_teams = team_b_swapped.unionByName(team_a_swapped).orderBy("Country")
         
-        matchPlayers = original_teams.unionByName(swapped_teams).orderBy(["match_id", "flip", "country"])
-        matchPlayers = matchPlayers.select(["match_id", "flip", "player_id", "country", "player", "season"])
+        matchPlayers = original_teams.unionByName(swapped_teams).orderBy(["match_id", "flip", "Country"])
+        matchPlayers = matchPlayers.select(["match_id", "flip", "Country", "Player", "Season"])
         
         # Step 6: Join with player statistics
-        matchPlayersStats = matchPlayers.join(playerStats, on=['player_id', 'season'], how='inner')
+        matchPlayersStats = matchPlayers.join(playerStats, on=['Player', 'Country', 'Season'], how='inner')
         matchPlayersStats = matchPlayersStats.sort("match_id", "flip")
         
         # Step 7: Filter matches with exactly 44 records
@@ -74,7 +76,9 @@ def process_match_players_stats():
         matchPlayersStats = matchPlayersStats.filter(col('match_id').isin(match_id_values))
         
         # Step 8: Drop unnecessary columns
-        matchPlayersStats = matchPlayersStats.drop('country', 'player', 'player_id', 'season', 'Player', 'Country')
+        matchPlayersStats = matchPlayersStats.drop('Country', 'Season', 'Player', 'Country')
+        print(matchPlayersStats.show(5))
+        print(matchPlayersStats.count())
         
         # Step 9: Save the merged data
         utils.spark_save_data(matchPlayersStats, config.MERGED_DATA_DIR, 'players_stats_flip.csv')

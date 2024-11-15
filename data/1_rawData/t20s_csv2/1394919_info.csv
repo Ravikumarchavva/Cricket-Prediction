@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mozambique
+info,team,Eswatini
+info,gender,female
+info,season,2023
+info,date,2023/09/02
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,3
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Eswatini
+info,toss_decision,field
+info,player_of_match,P Cuinica
+info,umpire,IO Oyieko
+info,umpire,S Dambanevana
+info,reserve_umpire,K Klaaste
+info,match_referee,SA Fritz
+info,winner,Mozambique
+info,winner_runs,102
+info,player,Mozambique,P Cuinica
+info,player,Mozambique,II Mabunda
+info,player,Mozambique,IE Mulhovo
+info,player,Mozambique,C Magaia
+info,player,Mozambique,RF Duvane
+info,player,Mozambique,I Chuma
+info,player,Mozambique,FA Zavala
+info,player,Mozambique,O Matsolo
+info,player,Mozambique,AA Moiane
+info,player,Mozambique,A Salomao
+info,player,Mozambique,RO Mazumba
+info,player,Eswatini,M Dlamini
+info,player,Eswatini,W Ginindza
+info,player,Eswatini,Ntombizodwa Mkhatshwa
+info,player,Eswatini,D Dlamini
+info,player,Eswatini,N Mabila
+info,player,Eswatini,Ntombizonke MKhatshwa
+info,player,Eswatini,S Mabuza
+info,player,Eswatini,T Malinga
+info,player,Eswatini,N Simelane
+info,player,Eswatini,T Dlamini
+info,player,Eswatini,L Mamba
+info,registry,people,A Salomao,04e145f4
+info,registry,people,AA Moiane,80190078
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,D Dlamini,7a6ce3c9
+info,registry,people,FA Zavala,2edfa6a8
+info,registry,people,I Chuma,b1021056
+info,registry,people,IE Mulhovo,ab750f1f
+info,registry,people,II Mabunda,b2cd0f90
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,L Mamba,bcbb22dc
+info,registry,people,M Dlamini,877a3433
+info,registry,people,N Mabila,21ef59e3
+info,registry,people,N Simelane,c3b5da14
+info,registry,people,Ntombizodwa Mkhatshwa,5d297269
+info,registry,people,Ntombizonke MKhatshwa,1697a7c4
+info,registry,people,O Matsolo,3c4a62c4
+info,registry,people,P Cuinica,efca38df
+info,registry,people,RF Duvane,e8271d27
+info,registry,people,RO Mazumba,2a753483
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Mabuza,8ce93575
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,T Dlamini,b92d1fe6
+info,registry,people,T Malinga,a6f6efba
+info,registry,people,W Ginindza,b5fedf28

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Hong Kong
+info,team,Kuwait
+info,gender,male
+info,season,2024
+info,date,2024/09/09
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,21
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Kuwait
+info,toss_decision,field
+info,umpire,Morshed Ali Khan
+info,umpire,Shiju Sam
+info,reserve_umpire,BB Pradhan
+info,outcome,no result
+info,player,Hong Kong,JJ Atkinson
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,A Mehmood
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Kuwait,R Sandaruwan
+info,player,Kuwait,CV Anto
+info,player,Kuwait,Meet Bhavsar
+info,player,Kuwait,Usman Patel
+info,player,Kuwait,MNM Aslam
+info,player,Kuwait,Muhammad Umar
+info,player,Kuwait,Bilal Tahir
+info,player,Kuwait,Adnan Idrees
+info,player,Kuwait,Yasin Patel
+info,player,Kuwait,Shiraz Khan
+info,player,Kuwait,Mohamed Shafeeq
+info,registry,people,A Mehmood,7cefb2a2
+info,registry,people,Adnan Idrees,0e34c23a
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Bilal Tahir,3cf06094
+info,registry,people,CV Anto,c01ca5af
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,JJ Atkinson,bf2d865c
+info,registry,people,MNM Aslam,20481563
+info,registry,people,Meet Bhavsar,b25a3800
+info,registry,people,Mohamed Shafeeq,ff13b10c
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Umar,0abc33ff
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,R Sandaruwan,cf6acc0d
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shiraz Khan,f310704c
+info,registry,people,Usman Patel,415c6ccf
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Yasin Patel,ecdd8d60
+info,registry,people,Zeeshan Ali,987187b9

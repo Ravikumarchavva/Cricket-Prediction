@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Singapore
+info,gender,male
+info,season,2022/23
+info,date,2022/12/22
+info,event,Quadrangular Twenty20 Series (Malaysia)
+info,match_number,11
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Malaysia
+info,toss_decision,bat
+info,player_of_match,Ahmed Faiz
+info,umpire,L Poobalan
+info,umpire,T Senthil Kumar
+info,reserve_umpire,Rudy Ismandy
+info,match_referee,Ramesh Menon
+info,winner,Malaysia
+info,winner_runs,143
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Aslam Khan
+info,player,Malaysia,S Muniandy
+info,player,Malaysia,Syed Rehmatullah
+info,player,Malaysia,Muhammad Wafiq
+info,player,Malaysia,Fitri Sham
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Rizwan Haider
+info,player,Singapore,A Kaul
+info,player,Singapore,Abdul Rahman
+info,player,Singapore,Aman Desai
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,Janak Prakash
+info,player,Singapore,A Modi
+info,player,Singapore,U Aryaman Sunil
+info,player,Singapore,IP Swaney
+info,player,Singapore,V Baskaran
+info,player,Singapore,NA Karnik
+info,player,Singapore,V Hampihallikar
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,A Modi,4edfc785
+info,registry,people,Abdul Rahman,12f53be7
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Aman Desai,c10fd8f9
+info,registry,people,Aslam Khan,31080a88
+info,registry,people,Fitri Sham,d2ec068c
+info,registry,people,IP Swaney,430b7399
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,L Poobalan,93cc9718
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Muhammad Wafiq,f104c434
+info,registry,people,NA Karnik,835a58da
+info,registry,people,Ramesh Menon,4ed80d22
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,Rudy Ismandy,84682045
+info,registry,people,S Muniandy,57fcfd3b
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Syed Rehmatullah,fcbdc2b0
+info,registry,people,T Senthil Kumar,961ddfac
+info,registry,people,U Aryaman Sunil,13bc54a8
+info,registry,people,V Baskaran,dd5a9067
+info,registry,people,V Hampihallikar,241a104c
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Zubaidi Zulkifle,dca8273d

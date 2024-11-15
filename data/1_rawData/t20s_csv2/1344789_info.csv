@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Canada
+info,team,Bahrain
+info,gender,male
+info,season,2022/23
+info,date,2022/11/17
+info,event,Desert Cup T20I Series
+info,match_number,8
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Bahrain
+info,toss_decision,field
+info,player_of_match,Sarfaraz Ali
+info,umpire,Harikrishna Pillai
+info,umpire,M Surve
+info,tv_umpire,N Krishnan
+info,match_referee,Haider Ali
+info,winner,Bahrain
+info,winner_wickets,8
+info,player,Canada,A Johnson
+info,player,Canada,SA Wijeratne
+info,player,Canada,M Spoors
+info,player,Canada,Pargat Singh
+info,player,Canada,H Thaker
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,D Heyliger
+info,player,Canada,Ammar Khalid
+info,player,Canada,N Dutta
+info,player,Canada,Kaleem Sana
+info,player,Bahrain,DK Mathias
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Sachin Kumar
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Imran Khan
+info,player,Bahrain,Danish Jasnaik
+info,player,Bahrain,Imran Anwar
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ammar Khalid,af98bf5b
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,DK Mathias,bec5cab9
+info,registry,people,Danish Jasnaik,d24ad3e5
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Haider Ali,7d2856df
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Harikrishna Pillai,ed918c90
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Khan,da3b91fd
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,M Spoors,da4a1e46
+info,registry,people,M Surve,f5df456a
+info,registry,people,N Dutta,e258a603
+info,registry,people,N Krishnan,b317852e
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Sachin Kumar,b76b2d25
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sohail Ahmed,4db71b2e

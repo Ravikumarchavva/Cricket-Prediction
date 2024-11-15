@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Cook Islands
+info,gender,male
+info,season,2024
+info,date,2024/08/20
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,6
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Cook Islands
+info,toss_decision,field
+info,player_of_match,A Sokovagone
+info,umpire,L McCabe
+info,umpire,M Kenni
+info,reserve_umpire,Kim Cotton
+info,match_referee,Kent Hannam
+info,winner,Fiji
+info,winner_runs,104
+info,player,Fiji,M Beitaki
+info,player,Fiji,DR Tawake
+info,player,Fiji,PV Vuniwaqa
+info,player,Fiji,A Sokovagone
+info,player,Fiji,P Dakainivanua
+info,player,Fiji,J Cama
+info,player,Fiji,TS Waqavakatoga
+info,player,Fiji,P Kotoisuva
+info,player,Fiji,ST Yalimaiwai
+info,player,Fiji,S Tabuisulu
+info,player,Fiji,JQK Moala
+info,player,Cook Islands,HB Dickson
+info,player,Cook Islands,T Parima
+info,player,Cook Islands,MTMMJ Ave
+info,player,Cook Islands,A Parima
+info,player,Cook Islands,C Dickson
+info,player,Cook Islands,OE Taylor
+info,player,Cook Islands,L Denny
+info,player,Cook Islands,JL Tutty
+info,player,Cook Islands,T Ritawa
+info,player,Cook Islands,AJA Samuels
+info,player,Cook Islands,T Wuatai
+info,registry,people,A Parima,866d3ac8
+info,registry,people,A Sokovagone,10e34eef
+info,registry,people,AJA Samuels,9a28e6e1
+info,registry,people,C Dickson,26b59073
+info,registry,people,DR Tawake,8c11c10a
+info,registry,people,HB Dickson,e8c95491
+info,registry,people,J Cama,6a868271
+info,registry,people,JL Tutty,11b37b2a
+info,registry,people,JQK Moala,d77ddc9f
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Denny,e112732d
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,M Beitaki,3d29b5fc
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,MTMMJ Ave,00863408
+info,registry,people,OE Taylor,24a93558
+info,registry,people,P Dakainivanua,5485c999
+info,registry,people,P Kotoisuva,b3e5205c
+info,registry,people,PV Vuniwaqa,653a7fa8
+info,registry,people,S Tabuisulu,62708dce
+info,registry,people,ST Yalimaiwai,d88f9163
+info,registry,people,T Parima,ecd51f8e
+info,registry,people,T Ritawa,1c8ada57
+info,registry,people,T Wuatai,307684f3
+info,registry,people,TS Waqavakatoga,039cabd9

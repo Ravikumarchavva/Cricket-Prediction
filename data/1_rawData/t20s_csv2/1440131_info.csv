@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Jersey
+info,team,Guernsey
+info,gender,male
+info,season,2024
+info,date,2024/06/23
+info,event,Jersey tour of Guernsey
+info,match_number,3
+info,venue,"Guernsey Rovers Athletic Club Ground, Port Soif"
+info,city,Port  Soif
+info,toss_winner,Guernsey
+info,toss_decision,field
+info,player_of_match,T Nightingale
+info,umpire,J Vosser
+info,reserve_umpire,C Brooks
+info,winner,Guernsey
+info,winner_wickets,4
+info,player,Jersey,C Brennan
+info,player,Jersey,NA Greenwood
+info,player,Jersey,JW Jenner
+info,player,Jersey,JAD Lawrenson
+info,player,Jersey,H Carlyon
+info,player,Jersey,ZM Tribe
+info,player,Jersey,B Ward
+info,player,Jersey,J Kemp
+info,player,Jersey,D Birrell
+info,player,Jersey,S Simpson
+info,player,Jersey,T Britton
+info,player,Guernsey,B Fitchet
+info,player,Guernsey,A Martel
+info,player,Guernsey,T Nightingale
+info,player,Guernsey,MWR Stokes
+info,player,Guernsey,IDA Damarell
+info,player,Guernsey,OB Nightingale
+info,player,Guernsey,M Dale-Bradley
+info,player,Guernsey,LB Ferbrache
+info,player,Guernsey,D Mullen
+info,player,Guernsey,LT Bichard
+info,player,Guernsey,C Forshaw
+info,registry,people,A Martel,65cd62a9
+info,registry,people,B Fitchet,d77ecd14
+info,registry,people,B Ward,9e0bd203
+info,registry,people,C Brennan,80f9fd4f
+info,registry,people,C Brooks,53e855df
+info,registry,people,C Forshaw,0ed66ce6
+info,registry,people,D Birrell,aea11d1d
+info,registry,people,D Mullen,61da7440
+info,registry,people,H Carlyon,42bf1b7d
+info,registry,people,IDA Damarell,580ae7f2
+info,registry,people,J Kemp,0ab42b8d
+info,registry,people,J Vosser,d1b1eba7
+info,registry,people,JAD Lawrenson,c810b349
+info,registry,people,JW Jenner,32a8161e
+info,registry,people,LB Ferbrache,0f72f582
+info,registry,people,LT Bichard,dfcdb11e
+info,registry,people,M Dale-Bradley,62b2aa65
+info,registry,people,MWR Stokes,c573d173
+info,registry,people,NA Greenwood,7ca68967
+info,registry,people,OB Nightingale,1deb4c0c
+info,registry,people,S Simpson,c8ea9add
+info,registry,people,T Britton,f91c322b
+info,registry,people,T Nightingale,51a125b3
+info,registry,people,ZM Tribe,96fe3e9f

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,New Zealand
+info,gender,female
+info,season,2023/24
+info,date,2024/03/19
+info,event,England Women tour of New Zealand
+info,match_number,1
+info,venue,"University Oval, Dunedin"
+info,city,Dunedin
+info,toss_winner,New Zealand
+info,toss_decision,field
+info,player_of_match,HC Knight
+info,umpire,Eloise Sheridan
+info,umpire,Kim Cotton
+info,reserve_umpire,KS Jagannathan
+info,tv_umpire,C Black
+info,match_referee,TL Anderson
+info,winner,England
+info,winner_runs,27
+info,player,England,TT Beaumont
+info,player,England,SIR Dunkley
+info,player,England,ME Bouchier
+info,player,England,HC Knight
+info,player,England,AE Jones
+info,player,England,DR Gibson
+info,player,England,BAM Heath
+info,player,England,CE Dean
+info,player,England,S Glenn
+info,player,England,L Filer
+info,player,England,LK Bell
+info,player,New Zealand,SW Bates
+info,player,New Zealand,IC Gaze
+info,player,New Zealand,GE Plimmer
+info,player,New Zealand,ML Green
+info,player,New Zealand,BM Halliday
+info,player,New Zealand,MJ Greig
+info,player,New Zealand,JM Kerr
+info,player,New Zealand,HM Rowe
+info,player,New Zealand,LMM Tahuhu
+info,player,New Zealand,RA Mair
+info,player,New Zealand,FC Jonas
+info,registry,people,AE Jones,b05e45e4
+info,registry,people,BAM Heath,3b5a9438
+info,registry,people,BM Halliday,efb6cb2a
+info,registry,people,C Black,75b42f71
+info,registry,people,CE Dean,c6625a26
+info,registry,people,DR Gibson,d2763568
+info,registry,people,Eloise Sheridan,d8d43840
+info,registry,people,FC Jonas,6df697a9
+info,registry,people,GE Plimmer,575494db
+info,registry,people,HC Knight,4ba0289e
+info,registry,people,HM Rowe,8ca1f93a
+info,registry,people,IC Gaze,60c250bf
+info,registry,people,JM Kerr,9af58032
+info,registry,people,KS Jagannathan,9bc8dcec
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,L Filer,31adb911
+info,registry,people,LK Bell,38b4583c
+info,registry,people,LMM Tahuhu,60471339
+info,registry,people,ME Bouchier,c2554b59
+info,registry,people,MJ Greig,84c422e3
+info,registry,people,ML Green,865eae1f
+info,registry,people,RA Mair,d5eb8b84
+info,registry,people,S Glenn,b34e0c77
+info,registry,people,SIR Dunkley,3a9e9cb2
+info,registry,people,SW Bates,89bbc67a
+info,registry,people,TL Anderson,f52ddf8d
+info,registry,people,TT Beaumont,b2664905

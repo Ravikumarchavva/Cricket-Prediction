@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Finland
+info,team,Norway
+info,gender,male
+info,season,2023
+info,date,2023/05/20
+info,event,Nordic T20 Cup
+info,match_number,9
+info,venue,"Solvangs Park, Glostrup"
+info,city,Copenhagen
+info,toss_winner,Finland
+info,toss_decision,bat
+info,player_of_match,Raza Iqbal
+info,umpire,A From-Hansen
+info,umpire,AK Saini
+info,winner,Norway
+info,winner_wickets,7
+info,player,Finland,PF Gallagher
+info,player,Finland,Atif Rasheed
+info,player,Finland,AK Mohan
+info,player,Finland,Jordan O'Brien
+info,player,Finland,VS Padhaal
+info,player,Finland,Faheem Nellancheri
+info,player,Finland,Amjad Sher
+info,player,Finland,Areeb Quadir
+info,player,Finland,Parveen Kumar
+info,player,Finland,Raaz Mohammad
+info,player,Finland,M Brasier
+info,player,Norway,Chaudhary Akram
+info,player,Norway,Raza Iqbal
+info,player,Norway,D Abeyrathna
+info,player,Norway,Sher Sahak
+info,player,Norway,Tafseer Ali
+info,player,Norway,Rafaqat Ali
+info,player,Norway,M Shahbaz Butt
+info,player,Norway,Junaid Mehmood
+info,player,Norway,Qamar Mushtaque
+info,player,Norway,Vinay Ravi
+info,player,Norway,Ali Saleem
+info,registry,people,A From-Hansen,d60640f9
+info,registry,people,AK Mohan,d55474ac
+info,registry,people,AK Saini,894ebe7e
+info,registry,people,Ali Saleem,661e8a03
+info,registry,people,Amjad Sher,3b4a8cfb
+info,registry,people,Areeb Quadir,19845ff5
+info,registry,people,Atif Rasheed,c7726eec
+info,registry,people,Chaudhary Akram,3e697d4a
+info,registry,people,D Abeyrathna,ee17d329
+info,registry,people,Faheem Nellancheri,6513502f
+info,registry,people,Jordan O'Brien,c31d7da1
+info,registry,people,Junaid Mehmood,3e46c4f3
+info,registry,people,M Brasier,fda4150a
+info,registry,people,M Shahbaz Butt,5ef3c310
+info,registry,people,PF Gallagher,8e9d3dc4
+info,registry,people,Parveen Kumar,babc65d3
+info,registry,people,Qamar Mushtaque,fc362c5d
+info,registry,people,Raaz Mohammad,f83b77f9
+info,registry,people,Rafaqat Ali,b3f90695
+info,registry,people,Raza Iqbal,eee46f77
+info,registry,people,Sher Sahak,8299b9a2
+info,registry,people,Tafseer Ali,b9c3ffcd
+info,registry,people,VS Padhaal,c4fb0b39
+info,registry,people,Vinay Ravi,9c181b99

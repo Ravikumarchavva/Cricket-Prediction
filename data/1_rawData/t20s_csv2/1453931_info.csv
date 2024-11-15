@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Mozambique
+info,gender,male
+info,season,2024/25
+info,date,2024/10/23
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,11
+info,venue,"Gymkhana Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,F Damiao Couana
+info,umpire,Charles Kariuki
+info,umpire,F Mutizwa
+info,reserve_umpire,P Sizara
+info,match_referee,ET Dube
+info,winner,Mozambique
+info,winner_wickets,7
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,I Niyomugabo
+info,player,Rwanda,D Gumyusenge
+info,player,Rwanda,Yves Cyusa
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,I Mugisha
+info,player,Rwanda,E Kubwimana
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,player,Mozambique,JJ Huo
+info,player,Mozambique,LI Salomone
+info,player,Mozambique,VE Tembo
+info,player,Mozambique,F Damiao Couana
+info,player,Mozambique,FFZ Nhaduate
+info,player,Mozambique,AA Navicha
+info,player,Mozambique,FA Cossa
+info,player,Mozambique,MF Manjate
+info,player,Mozambique,JM Joao
+info,player,Mozambique,CB Roposo
+info,player,Mozambique,DV Macome
+info,registry,people,AA Navicha,5c805a60
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,CB Roposo,31f01815
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Gumyusenge,eeb78e0a
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,DV Macome,af4c15c5
+info,registry,people,E Kubwimana,bfc7799f
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Damiao Couana,2c535f08
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,FA Cossa,3b52d247
+info,registry,people,FFZ Nhaduate,a82e0db7
+info,registry,people,I Mugisha,d3eedb51
+info,registry,people,I Niyomugabo,72bf5103
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,JJ Huo,d816fc1c
+info,registry,people,JM Joao,2ef6c852
+info,registry,people,LI Salomone,a7b67d5d
+info,registry,people,MF Manjate,882fd091
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,VE Tembo,1439a13c
+info,registry,people,Yves Cyusa,b5aa28ce
+info,registry,people,Z Bimenyimana,ba57fb08

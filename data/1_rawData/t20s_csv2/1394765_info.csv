@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,China
+info,team,Thailand
+info,gender,female
+info,season,2023
+info,date,2023/09/03
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,15
+info,venue,"UKM-YSD Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,China
+info,toss_decision,bat
+info,player_of_match,P Maya
+info,umpire,LDVV Silva
+info,umpire,Tabarak Dar
+info,reserve_umpire,Shivani Mishra
+info,match_referee,M Nayyar
+info,winner,Thailand
+info,winner_wickets,9
+info,player,China,C Zhou
+info,player,China,Chen Yue
+info,player,China,Zi Mei
+info,player,China,Han Lili
+info,player,China,M Zhu
+info,player,China,Xiuli Jin
+info,player,China,Rongyu Zhao
+info,player,China,Zheng Lili
+info,player,China,Yuanyuan Cai
+info,player,China,Mengting Liu
+info,player,China,Xu Qian
+info,player,Thailand,S Khiaoto
+info,player,Thailand,N Koncharoenkai
+info,player,Thailand,N Chantam
+info,player,Thailand,S Tippoch
+info,player,Thailand,N Chaiwai
+info,player,Thailand,C Sutthiruang
+info,player,Thailand,P Maya
+info,player,Thailand,N Boochatham
+info,player,Thailand,O Kamchomphu
+info,player,Thailand,T Putthawong
+info,player,Thailand,S Chaturongrattana
+info,registry,people,C Sutthiruang,f6ddfe08
+info,registry,people,C Zhou,5b84f3bc
+info,registry,people,Chen Yue,8b582549
+info,registry,people,Han Lili,cd7134f5
+info,registry,people,LDVV Silva,6e226c31
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,M Zhu,36c3302e
+info,registry,people,Mengting Liu,1119a645
+info,registry,people,N Boochatham,58acb320
+info,registry,people,N Chaiwai,0825e4b3
+info,registry,people,N Chantam,b5626ff7
+info,registry,people,N Koncharoenkai,82c78412
+info,registry,people,O Kamchomphu,519b872a
+info,registry,people,P Maya,72eada4c
+info,registry,people,Rongyu Zhao,fc2b858f
+info,registry,people,S Chaturongrattana,bd36bc39
+info,registry,people,S Khiaoto,3ac854ca
+info,registry,people,S Tippoch,9c4b58db
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,T Putthawong,23e3f2d6
+info,registry,people,Tabarak Dar,2259c12d
+info,registry,people,Xiuli Jin,f1d76e6f
+info,registry,people,Xu Qian,4d382b64
+info,registry,people,Yuanyuan Cai,39b12998
+info,registry,people,Zheng Lili,9c2bb7da
+info,registry,people,Zi Mei,72070f05

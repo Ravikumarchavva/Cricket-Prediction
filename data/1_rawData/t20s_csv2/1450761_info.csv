@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Lesotho
+info,team,Mali
+info,gender,male
+info,season,2024
+info,date,2024/09/25
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,11
+info,venue,"Gymkhana Club Ground, Dar-es-Salaam"
+info,city,Dar-es-Salaam
+info,toss_winner,Mali
+info,toss_decision,field
+info,player_of_match,Waseem Yaqoob
+info,umpire,A Kassam
+info,umpire,Habib Enesi
+info,reserve_umpire,A Premji
+info,match_referee,S Wadvalla
+info,winner,Lesotho
+info,winner_runs,112
+info,player,Lesotho,LM Gabriel
+info,player,Lesotho,Maaz Khan
+info,player,Lesotho,Sajid Patel
+info,player,Lesotho,Waseem Yaqoob
+info,player,Lesotho,C Tlali
+info,player,Lesotho,V Jayant
+info,player,Lesotho,ME Leoela
+info,player,Lesotho,Omar Hussain
+info,player,Lesotho,L Monanthane
+info,player,Lesotho,TD Chaoana
+info,player,Lesotho,TJ Ramphoma
+info,player,Mali,TM Macalou
+info,player,Mali,MS Diakite
+info,player,Mali,L Berthe
+info,player,Mali,A Nimaga
+info,player,Mali,S Kamate
+info,player,Mali,CA Keita
+info,player,Mali,D Berthe
+info,player,Mali,M Malle
+info,player,Mali,Y Konate
+info,player,Mali,AD Fofana
+info,player,Mali,L Sanogo
+info,registry,people,A Kassam,7d13b388
+info,registry,people,A Nimaga,bc304f82
+info,registry,people,A Premji,40a68f89
+info,registry,people,AD Fofana,8d4a236d
+info,registry,people,C Tlali,70841eab
+info,registry,people,CA Keita,5b9b8d98
+info,registry,people,D Berthe,a671e99e
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,L Berthe,8eb7c5a6
+info,registry,people,L Monanthane,07e5bda2
+info,registry,people,L Sanogo,abbc06cf
+info,registry,people,LM Gabriel,88a5adcf
+info,registry,people,M Malle,e15c6692
+info,registry,people,ME Leoela,3b107df5
+info,registry,people,MS Diakite,69795fcd
+info,registry,people,Maaz Khan,6f14ddcb
+info,registry,people,Omar Hussain,2002c586
+info,registry,people,S Kamate,d7af6207
+info,registry,people,S Wadvalla,c1a1acf3
+info,registry,people,Sajid Patel,f8279d15
+info,registry,people,TD Chaoana,16ddd36b
+info,registry,people,TJ Ramphoma,9d6cba1d
+info,registry,people,TM Macalou,8a9320a1
+info,registry,people,V Jayant,6535cc7b
+info,registry,people,Waseem Yaqoob,06b387f1
+info,registry,people,Y Konate,5934e1b2

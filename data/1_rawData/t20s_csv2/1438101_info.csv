@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cyprus
+info,team,Estonia
+info,gender,female
+info,season,2024
+info,date,2024/06/19
+info,event,Estonia Women tour of Cyprus
+info,match_number,6
+info,venue,Happy Valley Ground
+info,city,Episkopi
+info,toss_winner,Estonia
+info,toss_decision,field
+info,player_of_match,I Chathurani
+info,umpire,P Burdekin
+info,umpire,T Pasquill
+info,winner,Cyprus
+info,winner_runs,27
+info,player,Cyprus,T Gedarage
+info,player,Cyprus,S Jayakodi
+info,player,Cyprus,I Chathurani
+info,player,Cyprus,A Dirannehelage
+info,player,Cyprus,T De Silva
+info,player,Cyprus,A Taylor
+info,player,Cyprus,D Koralalage
+info,player,Cyprus,N Liyanage
+info,player,Cyprus,S Dunukedeniya
+info,player,Cyprus,C Wijesinghe
+info,player,Cyprus,A Hewage
+info,player,Estonia,M Valner
+info,player,Estonia,N Zholudz
+info,player,Estonia,L Dalbina
+info,player,Estonia,L Sormus
+info,player,Estonia,H Kerge
+info,player,Estonia,M Frey
+info,player,Estonia,Viktoria Frey
+info,player,Estonia,A Vessik
+info,player,Estonia,N Tykhonravova
+info,player,Estonia,E Ellermaa
+info,player,Estonia,M Pugi
+info,registry,people,A Dirannehelage,039168c7
+info,registry,people,A Hewage,be53a6a2
+info,registry,people,A Taylor,723f9bee
+info,registry,people,A Vessik,d30d4a0c
+info,registry,people,C Wijesinghe,db86ac96
+info,registry,people,D Koralalage,5e6041a4
+info,registry,people,E Ellermaa,37c085d2
+info,registry,people,H Kerge,76207d36
+info,registry,people,I Chathurani,85364088
+info,registry,people,L Dalbina,2b661b53
+info,registry,people,L Sormus,3486a171
+info,registry,people,M Frey,4b5debcd
+info,registry,people,M Pugi,4641d20b
+info,registry,people,M Valner,b5472435
+info,registry,people,N Liyanage,2ee5997e
+info,registry,people,N Tykhonravova,b9f09828
+info,registry,people,N Zholudz,a60bff88
+info,registry,people,P Burdekin,de27f4f9
+info,registry,people,S Dunukedeniya,3134e4a4
+info,registry,people,S Jayakodi,64875d5c
+info,registry,people,T De Silva,31821596
+info,registry,people,T Gedarage,5be7eb8a
+info,registry,people,T Pasquill,ff74218b
+info,registry,people,Viktoria Frey,fed9a316

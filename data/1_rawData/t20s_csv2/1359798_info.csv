@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Bahamas
+info,gender,male
+info,season,2022/23
+info,date,2023/03/02
+info,event,ICC Men's T20 World Cup Americas Region Qualifier
+info,match_number,8
+info,venue,"St Albans Club, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Argentina
+info,toss_decision,bat
+info,player_of_match,LA Musiani
+info,umpire,Emmerson Carrington
+info,umpire,Jermaine Lindo
+info,reserve_umpire,SN Bandekar
+info,match_referee,Reon King
+info,winner,Argentina
+info,winner_runs,43
+info,player,Argentina,P Baron
+info,player,Argentina,T Rossi
+info,player,Argentina,A Ferguson
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,LA Musiani
+info,player,Argentina,R Escobar
+info,player,Argentina,S Rossi
+info,player,Argentina,AAP Rivero
+info,player,Argentina,D Mauro
+info,player,Argentina,H Fennell
+info,player,Argentina,A Husain
+info,player,Bahamas,M Taylor
+info,player,Bahamas,NH Ekanayake
+info,player,Bahamas,Festus Benn
+info,player,Bahamas,D Wheatley
+info,player,Bahamas,K Hinds
+info,player,Bahamas,T Brown
+info,player,Bahamas,GT Taylor
+info,player,Bahamas,Sandeep Goud
+info,player,Bahamas,JE Scott
+info,player,Bahamas,J Jemison
+info,player,Bahamas,JR Barry
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Husain,034d3c52
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,D Mauro,5f0f398d
+info,registry,people,D Wheatley,04539335
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,Festus Benn,de6b3760
+info,registry,people,GT Taylor,c674f722
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,J Jemison,ce1abd25
+info,registry,people,JE Scott,732c9016
+info,registry,people,JR Barry,9bc324b5
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,K Hinds,a268c07b
+info,registry,people,LA Musiani,efbd35a9
+info,registry,people,M Taylor,92075cdc
+info,registry,people,NH Ekanayake,00c98c78
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,R Escobar,9fa5496f
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Rossi,56544f81
+info,registry,people,SN Bandekar,350528bb
+info,registry,people,Sandeep Goud,c83ef4d6
+info,registry,people,T Brown,e4bc45e0
+info,registry,people,T Rossi,5470418a

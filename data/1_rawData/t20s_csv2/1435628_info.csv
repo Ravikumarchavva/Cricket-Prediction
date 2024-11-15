@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Nigeria
+info,gender,female
+info,season,2024
+info,date,2024/06/01
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,10
+info,venue,"Gahanga International Cricket Stadium, Rwanda"
+info,city,Kigali City
+info,toss_winner,Cameroon
+info,toss_decision,bat
+info,player_of_match,L Udeh
+info,umpire,Gaston Niyibizi
+info,umpire,R Singinzwa
+info,reserve_umpire,V Iriho
+info,winner,Nigeria
+info,winner_wickets,9
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,JAN Ngono
+info,player,Cameroon,CD Mboe
+info,player,Cameroon,B Waluma
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,O Ranedoumoun
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,SA Nono
+info,player,Cameroon,CN Messina
+info,player,Cameroon,E Guehoada
+info,player,Nigeria,F Eseigbe
+info,player,Nigeria,E Sandy
+info,player,Nigeria,L Piety
+info,player,Nigeria,V Igbinedion
+info,player,Nigeria,S Sunday
+info,player,Nigeria,A Akhigbe
+info,player,Nigeria,L Udeh
+info,player,Nigeria,A Adekunle
+info,player,Nigeria,S Etim
+info,player,Nigeria,A Igbobie
+info,player,Nigeria,P Agboya
+info,registry,people,A Adekunle,1b0ce76e
+info,registry,people,A Akhigbe,ed0ec1fe
+info,registry,people,A Igbobie,8e75f2c7
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,CD Mboe,14198941
+info,registry,people,CN Messina,1afd0d5c
+info,registry,people,E Guehoada,8c03f3b8
+info,registry,people,E Sandy,59063d6b
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,F Eseigbe,292d11ee
+info,registry,people,Gaston Niyibizi,eb99c84c
+info,registry,people,JAN Ngono,0bc162c4
+info,registry,people,L Piety,46a29dd0
+info,registry,people,L Udeh,8451562a
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,O Ranedoumoun,71ee8c8d
+info,registry,people,P Agboya,532ddb12
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Etim,aa197946
+info,registry,people,S Sunday,594a0dec
+info,registry,people,SA Nono,f6019e5d
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,V Igbinedion,9525b9e5
+info,registry,people,V Iriho,2853eafb

@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Argentina
+info,team,Cayman Islands
+info,gender,male
+info,season,2022/23
+info,date,2023/03/04
+info,event,ICC Men's T20 World Cup Americas Region Qualifier
+info,match_number,10
+info,venue,"Belgrano Athletic Club Ground, Buenos Aires"
+info,city,Buenos Aires
+info,toss_winner,Argentina
+info,toss_decision,bat
+info,umpire,Jermaine Lindo
+info,umpire,N Duguid
+info,reserve_umpire,Emmerson Carrington
+info,match_referee,Reon King
+info,winner,Cayman Islands
+info,winner_wickets,3
+info,player,Argentina,P Baron
+info,player,Argentina,T Rossi
+info,player,Argentina,A Ferguson
+info,player,Argentina,A Kirschbaum
+info,player,Argentina,LA Musiani
+info,player,Argentina,S Rossi
+info,player,Argentina,R Escobar
+info,player,Argentina,AAP Rivero
+info,player,Argentina,H Fennell
+info,player,Argentina,A Husain
+info,player,Argentina,D Mauro
+info,player,Cayman Islands,YSD Seneveratne
+info,player,Cayman Islands,BKB Corbin
+info,player,Cayman Islands,P Manning
+info,player,Cayman Islands,RA Sealy
+info,player,Cayman Islands,AF Ifill
+info,player,Cayman Islands,P Chin
+info,player,Cayman Islands,D Johnson
+info,player,Cayman Islands,T Taylor
+info,player,Cayman Islands,C Wright
+info,player,Cayman Islands,A Wright
+info,player,Cayman Islands,J Buchanan
+info,registry,people,A Ferguson,4a8d1b14
+info,registry,people,A Husain,034d3c52
+info,registry,people,A Kirschbaum,d953bf92
+info,registry,people,A Wright,4bb7f51e
+info,registry,people,AAP Rivero,1911dcbc
+info,registry,people,AF Ifill,0e6c2f00
+info,registry,people,BKB Corbin,036b8660
+info,registry,people,C Wright,d465c6d7
+info,registry,people,D Johnson,d406e303
+info,registry,people,D Mauro,5f0f398d
+info,registry,people,Emmerson Carrington,a428109a
+info,registry,people,H Fennell,0d38ab25
+info,registry,people,J Buchanan,01127aa9
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,LA Musiani,efbd35a9
+info,registry,people,N Duguid,64495506
+info,registry,people,P Baron,c6d1b1e4
+info,registry,people,P Chin,21267b60
+info,registry,people,P Manning,f06b5585
+info,registry,people,R Escobar,9fa5496f
+info,registry,people,RA Sealy,1e98804a
+info,registry,people,Reon King,20fbf68c
+info,registry,people,S Rossi,56544f81
+info,registry,people,T Rossi,5470418a
+info,registry,people,T Taylor,1d6e8f52
+info,registry,people,YSD Seneveratne,0f71478c

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Nigeria
+info,team,Rwanda
+info,gender,male
+info,season,2023/24
+info,date,2023/11/24
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,6
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Rwanda
+info,toss_decision,field
+info,umpire,A Louw
+info,umpire,F Mutizwa
+info,reserve_umpire,Lauren Agenbag
+info,match_referee,GH Pienaar
+info,outcome,no result
+info,player,Nigeria,Sulaimon Runsewe
+info,player,Nigeria,D Ajekun
+info,player,Nigeria,AA Onikoyi
+info,player,Nigeria,JO Adedeji
+info,player,Nigeria,P Aho
+info,player,Nigeria,IO Okpe
+info,player,Nigeria,P Useni
+info,player,Nigeria,R Abdulkareem
+info,player,Nigeria,SA Okpe
+info,player,Nigeria,C Udekwe
+info,player,Nigeria,I Danladi
+info,player,Rwanda,E Dusingizimana
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,O Tuyisenge
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,M Akayezu
+info,player,Rwanda,E Sebareme
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Hamza Khan
+info,player,Rwanda,Muhammad Nadir
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AA Onikoyi,409ce380
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,C Udekwe,74a578d0
+info,registry,people,D Ajekun,2494ff9e
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Dusingizimana,c15e7ba4
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,E Sebareme,f99a219a
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Hamza Khan,44a5f2b2
+info,registry,people,I Danladi,c156cc1f
+info,registry,people,IO Okpe,1c5c3dce
+info,registry,people,JO Adedeji,abee08c7
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Akayezu,1f3b9f8d
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,O Tuyisenge,e6a6888f
+info,registry,people,P Aho,2e392afa
+info,registry,people,P Useni,71fa64d6
+info,registry,people,R Abdulkareem,b9e07e44
+info,registry,people,SA Okpe,681f522f
+info,registry,people,Sulaimon Runsewe,c25d26dc
+info,registry,people,Z Bimenyimana,ba57fb08

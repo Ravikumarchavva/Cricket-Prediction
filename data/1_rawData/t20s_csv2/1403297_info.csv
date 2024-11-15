@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Chile
+info,team,Mexico
+info,gender,male
+info,season,2023/24
+info,date,2023/10/18
+info,event,South American Men's Championships
+info,match_number,3
+info,venue,St Georges Quilmes
+info,city,
+info,toss_winner,Chile
+info,toss_decision,bat
+info,player_of_match,Shashikant Laxman
+info,umpire,A Elliott
+info,umpire,Mark McCormack
+info,winner,Mexico
+info,winner_wickets,5
+info,player,Chile,Guillermo Aburto
+info,player,Chile,Amit Uniyal
+info,player,Chile,John Bartlett
+info,player,Chile,Simon Shalders
+info,player,Chile,Anthony Roe
+info,player,Chile,Edward Taylor
+info,player,Chile,Nelson Jesus Navarrete Aburto
+info,player,Chile,Alex Carthew
+info,player,Chile,Jack Inglis
+info,player,Chile,Mario Ovalle
+info,player,Chile,Alfredo Puentes
+info,player,Mexico,Tarun Sharma
+info,player,Mexico,Shashikant Laxman
+info,player,Mexico,Puneet Arora
+info,player,Mexico,Shantanu Kaveri
+info,player,Mexico,Kaushal Kumar
+info,player,Mexico,Praveen Santhanakrishnan
+info,player,Mexico,Luis Hermida
+info,player,Mexico,Pratik Singh Bais
+info,player,Mexico,Bhargav Narasimha
+info,player,Mexico,Shoaib Rafiq
+info,player,Mexico,Mukesh Singh
+info,registry,people,A Elliott,f48d5563
+info,registry,people,Alex Carthew,ea6ec2d9
+info,registry,people,Alfredo Puentes,e214be36
+info,registry,people,Amit Uniyal,085071f2
+info,registry,people,Anthony Roe,0dcd8fbd
+info,registry,people,Bhargav Narasimha,e60e8014
+info,registry,people,Edward Taylor,9adb9f71
+info,registry,people,Guillermo Aburto,08deefa3
+info,registry,people,Jack Inglis,06da3abc
+info,registry,people,John Bartlett,6b7f9d9d
+info,registry,people,Kaushal Kumar,8cc37805
+info,registry,people,Luis Hermida,03beb59f
+info,registry,people,Mario Ovalle,f0fbdf0a
+info,registry,people,Mark McCormack,8f207fbf
+info,registry,people,Mukesh Singh,c44bf6a2
+info,registry,people,Nelson Jesus Navarrete Aburto,0f1ea8c4
+info,registry,people,Pratik Singh Bais,5b351aff
+info,registry,people,Praveen Santhanakrishnan,22fb205e
+info,registry,people,Puneet Arora,c2f8f36e
+info,registry,people,Shantanu Kaveri,091880f7
+info,registry,people,Shashikant Laxman,8cf61570
+info,registry,people,Shoaib Rafiq,27df03d2
+info,registry,people,Simon Shalders,167b3c71
+info,registry,people,Tarun Sharma,1ba16d18

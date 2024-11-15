@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malaysia
+info,team,Myanmar
+info,gender,male
+info,season,2023
+info,date,2023/07/30
+info,event,ICC Men's T20 World Cup Asia B Qualifier
+info,match_number,7
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Myanmar
+info,toss_decision,field
+info,player_of_match,Ahmed Faiz
+info,umpire,Ramasamy Venkatesh
+info,umpire,VG Rathi
+info,reserve_umpire,V Kalidas
+info,match_referee,JM Pereira
+info,winner,Malaysia
+info,winner_runs,184
+info,player,Malaysia,Syed Aziz
+info,player,Malaysia,Zubaidi Zulkifle
+info,player,Malaysia,Ahmed Faiz
+info,player,Malaysia,Virandeep Singh
+info,player,Malaysia,Muhammad Amir
+info,player,Malaysia,Khizar Hayat
+info,player,Malaysia,Ainool Hafizs
+info,player,Malaysia,Syazrul Idrus
+info,player,Malaysia,S Vijay Unni
+info,player,Malaysia,Pavandeep Singh
+info,player,Malaysia,Rizwan Haider
+info,player,Myanmar,Swann Htet Ko Ko
+info,player,Myanmar,H Lin Oo
+info,player,Myanmar,KK Lin Thu
+info,player,Myanmar,Pyae Phyo Wai
+info,player,Myanmar,Khin Aye
+info,player,Myanmar,Y Naing Tun
+info,player,Myanmar,H Lin Aung
+info,player,Myanmar,Thuya Aung
+info,player,Myanmar,Paing Danu
+info,player,Myanmar,Myat Thu Aung
+info,player,Myanmar,Aung Ko Ko
+info,registry,people,Ahmed Faiz,f6b4f746
+info,registry,people,Ainool Hafizs,1bada9da
+info,registry,people,Aung Ko Ko,648d060e
+info,registry,people,H Lin Aung,c343a8c6
+info,registry,people,H Lin Oo,2e005bfd
+info,registry,people,JM Pereira,f9a4a039
+info,registry,people,KK Lin Thu,6cf75582
+info,registry,people,Khin Aye,ad2efd29
+info,registry,people,Khizar Hayat,78bbeba1
+info,registry,people,Muhammad Amir,60bec5c3
+info,registry,people,Myat Thu Aung,cebbf3c9
+info,registry,people,Paing Danu,1eb5affb
+info,registry,people,Pavandeep Singh,78fcc740
+info,registry,people,Pyae Phyo Wai,09e86895
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Rizwan Haider,dc60abdc
+info,registry,people,S Vijay Unni,f737ab44
+info,registry,people,Swann Htet Ko Ko,9ee21ee4
+info,registry,people,Syazrul Idrus,6dba59e0
+info,registry,people,Syed Aziz,6667067e
+info,registry,people,Thuya Aung,2e092d2c
+info,registry,people,V Kalidas,42d76418
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,Virandeep Singh,415d30b6
+info,registry,people,Y Naing Tun,97b109d2
+info,registry,people,Zubaidi Zulkifle,dca8273d

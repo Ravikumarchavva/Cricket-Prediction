@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,United Arab Emirates
+info,gender,female
+info,season,2024
+info,date,2024/05/05
+info,event,ICC Women's T20 World Cup Qualifier
+info,venue,"Zayed Cricket Stadium, Abu Dhabi"
+info,city,Abu Dhabi
+info,toss_winner,United Arab Emirates
+info,toss_decision,field
+info,player_of_match,ER Oza
+info,umpire,Gazi Sohel
+info,umpire,K Klaaste
+info,reserve_umpire,S Dambanevana
+info,match_referee,SM Bartlett
+info,winner,Sri Lanka
+info,winner_runs,15
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,GWHM Perera
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,BMSM Kumari
+info,player,Sri Lanka,WGAKK Kulasuriya
+info,player,Sri Lanka,SIP Fernando
+info,player,Sri Lanka,KDU Prabodhani
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,Khushi Sharma
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,H Hotchandani
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,United Arab Emirates,L Keny
+info,player,United Arab Emirates,S Gokhale
+info,player,United Arab Emirates,I Nandakumar
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,GWHM Perera,53068b45
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,H Hotchandani,f537d39c
+info,registry,people,H Madavi,85021bcd
+info,registry,people,I Nandakumar,9f87d0f0
+info,registry,people,K Klaaste,6cc1d918
+info,registry,people,KDU Prabodhani,a0fdf513
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Khushi Sharma,a259c414
+info,registry,people,L Keny,aea89d48
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,S Dambanevana,039923bd
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Gokhale,62653085
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,SM Bartlett,7ba18406
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,Vaishnave Mahesh,31c56f40
+info,registry,people,WGAKK Kulasuriya,550373ea
+info,registry,people,WK Dilhari,c34a15e6

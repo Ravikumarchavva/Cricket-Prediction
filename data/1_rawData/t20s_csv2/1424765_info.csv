@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Kenya
+info,gender,male
+info,season,2023/24
+info,date,2024/03/21
+info,event,African Games
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,T Musekiwa
+info,umpire,A Kassam
+info,umpire,Habib Enesi
+info,reserve_umpire,Patric Makumbi
+info,match_referee,O Chirombe
+info,winner,Zimbabwe
+info,winner_runs,70
+info,player,Zimbabwe,R Mupfudza
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,J Campbell
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,T Munyonga
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,WT Mubayiwa
+info,player,Zimbabwe,K Macheka
+info,player,Zimbabwe,T Gwandu
+info,player,Zimbabwe,O Muzondo
+info,player,Kenya,CO Obuya
+info,player,Kenya,N Mugabe
+info,player,Kenya,S Singh
+info,player,Kenya,RR Patel
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,SO Ngoche
+info,player,Kenya,LN Oluoch
+info,player,Kenya,F Mutua
+info,player,Kenya,EB Ringera
+info,player,Kenya,Vishil Patel
+info,player,Kenya,Aarnav Patel
+info,registry,people,A Kassam,7d13b388
+info,registry,people,Aarnav Patel,b66201dd
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,C Madande,3560a786
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,EB Ringera,6cedad99
+info,registry,people,F Mutua,21b67523
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,J Campbell,0e63259d
+info,registry,people,K Macheka,9124e5ee
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,N Mugabe,3e28808e
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,O Chirombe,6345307f
+info,registry,people,O Muzondo,ffc308ee
+info,registry,people,Patric Makumbi,e4c69c16
+info,registry,people,R Mupfudza,f4417987
+info,registry,people,RR Patel,7fa6bd8e
+info,registry,people,S Singh,612a395c
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,T Gwandu,d1d83db3
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Munyonga,fbcfa528
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,Vishil Patel,3df8f9d5
+info,registry,people,WT Mubayiwa,2343b4bf

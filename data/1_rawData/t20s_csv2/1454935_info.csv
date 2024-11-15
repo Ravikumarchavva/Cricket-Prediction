@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Serbia
+info,team,Bulgaria
+info,gender,female
+info,season,2024/25
+info,date,2024/10/12
+info,event,Bulgaria Women tour of Serbia
+info,match_number,2
+info,venue,Lisicji Jarak Cricket Ground
+info,city,Belgrade
+info,toss_winner,Bulgaria
+info,toss_decision,field
+info,player_of_match,A Mesarovic
+info,winner,Serbia
+info,winner_runs,138
+info,player,Serbia,M Perisic
+info,player,Serbia,T Trajkovic
+info,player,Serbia,A Mesarovic
+info,player,Serbia,S Matijevic
+info,player,Serbia,M Nikolic
+info,player,Serbia,T Martic
+info,player,Serbia,N Nojic
+info,player,Serbia,E Prokic
+info,player,Serbia,M Trajkovi
+info,player,Serbia,B Ercegovcevic
+info,player,Serbia,M Jevdjenovic
+info,player,Bulgaria,N Toleva
+info,player,Bulgaria,I Stoilva
+info,player,Bulgaria,G Ilarionova
+info,player,Bulgaria,D Ruynekova
+info,player,Bulgaria,B Shotorova
+info,player,Bulgaria,V NIkolova
+info,player,Bulgaria,K Srandeva
+info,player,Bulgaria,S Sarandeva
+info,player,Bulgaria,S Galabova
+info,player,Bulgaria,K Paskova
+info,player,Bulgaria,M Zdravkova
+info,registry,people,A Mesarovic,15404b57
+info,registry,people,B Ercegovcevic,be5b6d0d
+info,registry,people,B Shotorova,cbef9f64
+info,registry,people,D Ruynekova,c3890e1e
+info,registry,people,E Prokic,6153ce0d
+info,registry,people,G Ilarionova,b56786e5
+info,registry,people,I Stoilva,1a5070f6
+info,registry,people,K Paskova,c745f462
+info,registry,people,K Srandeva,38602b15
+info,registry,people,M Jevdjenovic,3be2b0a3
+info,registry,people,M Nikolic,852f74c8
+info,registry,people,M Perisic,81599c08
+info,registry,people,M Trajkovi,2f208ab6
+info,registry,people,M Zdravkova,d9645cab
+info,registry,people,N Nojic,ef537c2e
+info,registry,people,N Toleva,d381938d
+info,registry,people,S Galabova,21bcbbdd
+info,registry,people,S Matijevic,eae6959b
+info,registry,people,S Sarandeva,dacecca3
+info,registry,people,T Martic,1acf530e
+info,registry,people,T Trajkovic,1e630426
+info,registry,people,V NIkolova,078d1eb5

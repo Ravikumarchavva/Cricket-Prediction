@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Turkey
+info,team,Italy
+info,gender,male
+info,season,2024
+info,date,2024/06/13
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,16
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Turkey
+info,toss_decision,bat
+info,umpire,I McDonald
+info,umpire,M Jameson
+info,reserve_umpire,J Jensen
+info,match_referee,G McCrea
+info,winner,Italy
+info,winner_wickets,9
+info,player,Turkey,Abdullah Khan Lodhi
+info,player,Turkey,Shamsullah Ehsan
+info,player,Turkey,I Elec
+info,player,Turkey,R Nath
+info,player,Turkey,A Turkmen
+info,player,Turkey,Ilyas Ataullah
+info,player,Turkey,GG Alta
+info,player,Turkey,M Ozturk
+info,player,Turkey,Zafer Durmaz
+info,player,Turkey,Ibrahim Kursad Dalyan
+info,player,Turkey,Muhammet Bicer
+info,player,Italy,J Mosca
+info,player,Italy,Syed Naqvi
+info,player,Italy,JA Burns
+info,player,Italy,AJ Mosca
+info,player,Italy,HJ Manenti
+info,player,Italy,M Campopiano
+info,player,Italy,GP Meade
+info,player,Italy,Zain Ali
+info,player,Italy,Jaspreet Singh
+info,player,Italy,DKD Warnakulasuriya
+info,player,Italy,S di Bartolomeo
+info,registry,people,A Turkmen,e56f4180
+info,registry,people,AJ Mosca,19c56e6e
+info,registry,people,Abdullah Khan Lodhi,6d8b7ac4
+info,registry,people,DKD Warnakulasuriya,832b77c6
+info,registry,people,G McCrea,46f4a901
+info,registry,people,GG Alta,c7bb2416
+info,registry,people,GP Meade,3957a70a
+info,registry,people,HJ Manenti,0e56c514
+info,registry,people,I Elec,4d0d5b7d
+info,registry,people,I McDonald,37b55799
+info,registry,people,Ibrahim Kursad Dalyan,f0f20cf8
+info,registry,people,Ilyas Ataullah,357484e9
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,J Mosca,8f02f6a8
+info,registry,people,JA Burns,7a5f232a
+info,registry,people,Jaspreet Singh,d76ab352
+info,registry,people,M Campopiano,26d80a9d
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,M Ozturk,d62f04f5
+info,registry,people,Muhammet Bicer,7990dc16
+info,registry,people,R Nath,126f1e28
+info,registry,people,S di Bartolomeo,823a57a9
+info,registry,people,Shamsullah Ehsan,356bf068
+info,registry,people,Syed Naqvi,c520c3b9
+info,registry,people,Zafer Durmaz,755819f4
+info,registry,people,Zain Ali,cccac242

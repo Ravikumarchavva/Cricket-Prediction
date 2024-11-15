@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Namibia
+info,team,South Africa
+info,gender,female
+info,season,2023/24
+info,date,2024/03/07
+info,event,Women's African Games
+info,match_number,1
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Namibia
+info,toss_decision,bat
+info,player_of_match,KA Green
+info,umpire,A Kassam
+info,umpire,I Chabi
+info,reserve_umpire,P Sizara
+info,match_referee,ET Dube
+info,winner,Namibia
+info,winner_runs,1
+info,method,D/L
+info,player,Namibia,Yasmeen Khan
+info,player,Namibia,JA Diergaardt
+info,player,Namibia,M Gorases
+info,player,Namibia,W Mwatile
+info,player,Namibia,E Van Zyl
+info,player,Namibia,SN Shihepo
+info,player,Namibia,KA Green
+info,player,Namibia,M Mwatile
+info,player,Namibia,N Benjamin
+info,player,Namibia,D Foerster
+info,player,Namibia,V Hamunyela
+info,player,South Africa,A Dercksen
+info,player,South Africa,J Botha
+info,player,South Africa,F Tunnicliffe
+info,player,South Africa,N Shangase
+info,player,South Africa,M Smit
+info,player,South Africa,K Meso
+info,player,South Africa,K Reyneke
+info,player,South Africa,G Jafta
+info,player,South Africa,L Jones
+info,player,South Africa,J Winster
+info,player,South Africa,C Wyngaard
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,A Kassam,7d13b388
+info,registry,people,C Wyngaard,86ae7e09
+info,registry,people,D Foerster,5596d5bf
+info,registry,people,E Van Zyl,79ff52b5
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Tunnicliffe,41f534cd
+info,registry,people,G Jafta,c7fee762
+info,registry,people,I Chabi,5e39110e
+info,registry,people,J Botha,eae9fe8a
+info,registry,people,J Winster,ecb8ba2c
+info,registry,people,JA Diergaardt,b72a8938
+info,registry,people,K Meso,130336c6
+info,registry,people,K Reyneke,9e5f4ad7
+info,registry,people,KA Green,fa9fdefa
+info,registry,people,L Jones,c7fcc20b
+info,registry,people,M Gorases,d034d60a
+info,registry,people,M Mwatile,92b9e9af
+info,registry,people,M Smit,996ed07c
+info,registry,people,N Benjamin,58317766
+info,registry,people,N Shangase,b17a4a93
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,SN Shihepo,1b3f7dbb
+info,registry,people,V Hamunyela,d758a366
+info,registry,people,W Mwatile,5728635a
+info,registry,people,Yasmeen Khan,ade5c0c0

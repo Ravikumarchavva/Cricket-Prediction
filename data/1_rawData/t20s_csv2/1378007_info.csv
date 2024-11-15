@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Turkey
+info,team,Sweden
+info,gender,female
+info,season,2023
+info,date,2023/05/29
+info,event,ICC Women's T20 World Cup Europe Division 2 Qualifier
+info,match_number,2
+info,venue,"FB Fields, St Clement"
+info,city,St Clement
+info,toss_winner,Sweden
+info,toss_decision,field
+info,player_of_match,SK Ravuri
+info,umpire,Jareth McCready
+info,umpire,J Naeem
+info,reserve_umpire,Ryan Milne
+info,match_referee,G McCrea
+info,winner,Sweden
+info,winner_wickets,10
+info,player,Turkey,G Ayan
+info,player,Turkey,G Keles
+info,player,Turkey,Ezgi Nur Kilic
+info,player,Turkey,K Canavarci
+info,player,Turkey,B Taylan
+info,player,Turkey,G Cengiz
+info,player,Turkey,Rabia Sahan
+info,player,Turkey,H Okcu
+info,player,Turkey,Rumeysa Alp
+info,player,Turkey,YP Karadogan
+info,player,Turkey,O Essiz
+info,player,Sweden,Kanchan Rana
+info,player,Sweden,S Lundell
+info,player,Sweden,SK Ravuri
+info,player,Sweden,S Bhanushali
+info,player,Sweden,H Chamto
+info,player,Sweden,Eman Asim
+info,player,Sweden,Jayasooriya
+info,player,Sweden,A Vaidya
+info,player,Sweden,G Shukla
+info,player,Sweden,RG Somashekhar
+info,player,Sweden,E Thelander
+info,registry,people,A Vaidya,b7d8c07d
+info,registry,people,B Taylan,416863d4
+info,registry,people,E Thelander,45cb4feb
+info,registry,people,Eman Asim,fd8038e1
+info,registry,people,Ezgi Nur Kilic,ec8132b2
+info,registry,people,G Ayan,66d258e2
+info,registry,people,G Cengiz,be59ed3f
+info,registry,people,G Keles,3e84a803
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Shukla,6b4817d9
+info,registry,people,H Chamto,5e181be6
+info,registry,people,H Okcu,7ddce42e
+info,registry,people,J Naeem,0dc3fee0
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,Jayasooriya,39183970
+info,registry,people,K Canavarci,556ad437
+info,registry,people,Kanchan Rana,d5d87f3f
+info,registry,people,O Essiz,80d9e011
+info,registry,people,RG Somashekhar,881cb071
+info,registry,people,Rabia Sahan,d37581d9
+info,registry,people,Rumeysa Alp,2ffdf67d
+info,registry,people,Ryan Milne,d2343b26
+info,registry,people,S Bhanushali,da6576af
+info,registry,people,S Lundell,0d298cc9
+info,registry,people,SK Ravuri,0398fc0f
+info,registry,people,YP Karadogan,5493e269

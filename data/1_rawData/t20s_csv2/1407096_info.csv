@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Kenya
+info,team,Tanzania
+info,gender,male
+info,season,2023/24
+info,date,2023/11/25
+info,event,ICC Men's T20 World Cup Africa Region Qualifier
+info,match_number,8
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,CO Obuya
+info,umpire,Kehinde Olanbiwonnu
+info,umpire,Stephen Harris
+info,reserve_umpire,A Louw
+info,match_referee,GH Pienaar
+info,winner,Kenya
+info,winner_runs,50
+info,player,Kenya,RN Patel
+info,player,Kenya,CO Obuya
+info,player,Kenya,IA Karim
+info,player,Kenya,P Sharma
+info,player,Kenya,SO Ngoche
+info,player,Kenya,SR Bhudia
+info,player,Kenya,S Singh
+info,player,Kenya,NM Odhiambo
+info,player,Kenya,LN Oluoch
+info,player,Kenya,Vraj Patel
+info,player,Kenya,GM Muthui
+info,player,Tanzania,AR Patwa
+info,player,Tanzania,II Selemani
+info,player,Tanzania,Akhil Anil
+info,player,Tanzania,AP Rajeevan
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,HA Chohan
+info,player,Tanzania,YM Nkanya
+info,player,Tanzania,S Thakor
+info,registry,people,A Louw,5eecae5d
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,AP Rajeevan,63d6f031
+info,registry,people,AR Patwa,b43f7a6a
+info,registry,people,Akhil Anil,c06c25fd
+info,registry,people,CO Obuya,5680f1ad
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,GM Muthui,d7e51f87
+info,registry,people,HA Chohan,847b4bdd
+info,registry,people,IA Karim,ca92a578
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,Kehinde Olanbiwonnu,e7e9f2cd
+info,registry,people,LN Oluoch,eb4f9c61
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,NM Odhiambo,c07a1f41
+info,registry,people,P Sharma,d047f983
+info,registry,people,RN Patel,db1bf9c2
+info,registry,people,S Singh,612a395c
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,SA Jumbe,91056862
+info,registry,people,SO Ngoche,49118dc7
+info,registry,people,SR Bhudia,e9173fb0
+info,registry,people,Stephen Harris,fdcfd4aa
+info,registry,people,Vraj Patel,2af28253
+info,registry,people,YM Nkanya,9238dd92

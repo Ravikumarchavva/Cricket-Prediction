@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Croatia
+info,gender,male
+info,season,2024
+info,date,2024/08/04
+info,event,Spain tour of Croatia
+info,match_number,5
+info,venue,"Mladost Cricket Ground, Zagreb"
+info,city,Zagreb
+info,toss_winner,Croatia
+info,toss_decision,field
+info,player_of_match,D Long Martinez
+info,winner,Spain
+info,winner_runs,161
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,D Long Martinez
+info,player,Spain,Yasir Ali
+info,player,Spain,D Doyle-Calle
+info,player,Spain,Hamza Dar
+info,player,Spain,C Munoz-Mills
+info,player,Spain,A Davidson Soler
+info,player,Spain,LA Burns
+info,player,Spain,Atif Mehmood
+info,player,Spain,C Rumistrzewicz
+info,player,Spain,Mohammad Atif
+info,player,Croatia,A Shukla
+info,player,Croatia,J Danikula
+info,player,Croatia,Saghar Manzoor
+info,player,Croatia,A Maheshwari
+info,player,Croatia,S Houghton
+info,player,Croatia,V Rathinasamy
+info,player,Croatia,H Satheedevi
+info,player,Croatia,A Chaubey
+info,player,Croatia,V Pulibanti
+info,player,Croatia,K Kekez
+info,player,Croatia,P Bosnjak
+info,registry,people,A Chaubey,c577d7d4
+info,registry,people,A Davidson Soler,524943f1
+info,registry,people,A Maheshwari,3ec513ea
+info,registry,people,A Shukla,c594137f
+info,registry,people,Atif Mehmood,7fcc57bf
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,C Rumistrzewicz,3ed4e2ad
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,D Long Martinez,c44ddfb9
+info,registry,people,H Satheedevi,a17a9548
+info,registry,people,Hamza Dar,557550a4
+info,registry,people,J Danikula,98e4af63
+info,registry,people,K Kekez,fe11e1a3
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,Mohammad Atif,705b8c5c
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,P Bosnjak,fed92736
+info,registry,people,S Houghton,4895df9e
+info,registry,people,Saghar Manzoor,9d103769
+info,registry,people,V Pulibanti,ac02a458
+info,registry,people,V Rathinasamy,305c9b8a
+info,registry,people,Yasir Ali,79209272

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Japan
+info,team,Samoa
+info,gender,female
+info,season,2023
+info,date,2023/09/02
+info,event,ICC Women's T20 World Cup East Asia-Pacific Region Qualifier
+info,match_number,5
+info,venue,Vanuatu Cricket Ground (Oval 2)
+info,city,Port Vila
+info,toss_winner,Samoa
+info,toss_decision,field
+info,player_of_match,Erika Oda
+info,umpire,Ashlee Gibbons
+info,umpire,Kim Cotton
+info,reserve_umpire,K Tanuvasa
+info,match_referee,RW Stratford
+info,winner,Japan
+info,winner_runs,48
+info,player,Japan,A Kano
+info,player,Japan,Erika Oda
+info,player,Japan,H Iwasaki
+info,player,Japan,A Chandel
+info,player,Japan,M Yanagida
+info,player,Japan,S Kato
+info,player,Japan,K Ota
+info,player,Japan,E Toguchi-Quinn
+info,player,Japan,M Yoshioka
+info,player,Japan,E Kusuda-Nairn
+info,player,Japan,Nonoha Yasumoto
+info,player,Samoa,VM Andrew
+info,player,Samoa,AF Aoina
+info,player,Samoa,J Sanele
+info,player,Samoa,T Lafai
+info,player,Samoa,TH Semau
+info,player,Samoa,A Iopu
+info,player,Samoa,RP Johnston
+info,player,Samoa,Leitu Leong
+info,player,Samoa,AM Kupito
+info,player,Samoa,A Sootaga
+info,player,Samoa,TM Faimalo
+info,registry,people,A Chandel,78fa5f6d
+info,registry,people,A Iopu,e77d4107
+info,registry,people,A Kano,e92841c0
+info,registry,people,A Sootaga,967984d0
+info,registry,people,AF Aoina,217f5194
+info,registry,people,AM Kupito,e97f6f96
+info,registry,people,Ashlee Gibbons,b81712f7
+info,registry,people,E Kusuda-Nairn,95c5ce07
+info,registry,people,E Toguchi-Quinn,d144423b
+info,registry,people,Erika Oda,4c8a1197
+info,registry,people,H Iwasaki,f2698c78
+info,registry,people,J Sanele,67bd483c
+info,registry,people,K Ota,211f48fe
+info,registry,people,K Tanuvasa,34fa0472
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,Leitu Leong,672e1aea
+info,registry,people,M Yanagida,f20e7e23
+info,registry,people,M Yoshioka,3a93120a
+info,registry,people,Nonoha Yasumoto,eb33378d
+info,registry,people,RP Johnston,c110235a
+info,registry,people,RW Stratford,85489579
+info,registry,people,S Kato,ef9ff861
+info,registry,people,T Lafai,10cfda7c
+info,registry,people,TH Semau,175d59dd
+info,registry,people,TM Faimalo,e8cea6cf
+info,registry,people,VM Andrew,ca9a7e09

@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Malaysia
+info,gender,female
+info,season,2023
+info,date,2023/09/04
+info,event,ICC Women's T20 World Cup Asia Region Qualifier
+info,match_number,18
+info,venue,"Selangor Turf Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Malaysia
+info,toss_decision,field
+info,player_of_match,Nur Dania Syuhada
+info,umpire,N Janani
+info,umpire,N Perera
+info,reserve_umpire,VK Jha
+info,match_referee,M Nayyar
+info,winner,Malaysia
+info,winner_wickets,8
+info,player,Bhutan,N Choden
+info,player,Bhutan,Y Choden
+info,player,Bhutan,D Wangmo
+info,player,Bhutan,S Choden
+info,player,Bhutan,T Zangmo
+info,player,Bhutan,A Gurung
+info,player,Bhutan,K Dema
+info,player,Bhutan,Sonam
+info,player,Bhutan,Chado Om
+info,player,Bhutan,Anjuli Ghalley
+info,player,Bhutan,Tshering Choden
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Mas Elysa
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,J Intan
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Nur Arianna Natsya
+info,player,Malaysia,Wan Nor Zulaika
+info,player,Malaysia,Nur Dania Syuhada
+info,registry,people,A Gurung,10854c82
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Anjuli Ghalley,cfb49f67
+info,registry,people,Chado Om,f53fa89c
+info,registry,people,D Wangmo,760fcf65
+info,registry,people,J Intan,2dfdd316
+info,registry,people,K Dema,0b211a32
+info,registry,people,M Nayyar,b7bccddb
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,Mas Elysa,857de42e
+info,registry,people,N Choden,a904600a
+info,registry,people,N Janani,d06a665d
+info,registry,people,N Perera,129709f9
+info,registry,people,Nur Arianna Natsya,4db4c8be
+info,registry,people,Nur Dania Syuhada,3af75717
+info,registry,people,S Choden,e1e0775d
+info,registry,people,Sonam,09cbca15
+info,registry,people,T Zangmo,b1f21c0f
+info,registry,people,Tshering Choden,3f38caff
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,Wan Julia,bee0c85c
+info,registry,people,Wan Nor Zulaika,ae99724d
+info,registry,people,Y Choden,6f17c546

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Mongolia
+info,team,Hong Kong
+info,gender,female
+info,season,2024/25
+info,date,2024/11/09
+info,event,Women's T20I Quadrangular Series (in China)
+info,match_number,6
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Mongolia
+info,toss_decision,bat
+info,player_of_match,M Wai Siu
+info,umpire,Zheng Lili
+info,umpire,Z Lyu
+info,reserve_umpire,Aye Min Than
+info,tv_umpire,Sun Meng Yao
+info,match_referee,G Sankaranarayanan
+info,winner,Hong Kong
+info,winner_wickets,9
+info,player,Mongolia,G Anujin
+info,player,Mongolia,B Ichinkhorloo
+info,player,Mongolia,B Namuunzul
+info,player,Mongolia,T Ariuntsetseg
+info,player,Mongolia,O Erdenebaatar
+info,player,Mongolia,M Batnasan
+info,player,Mongolia,U Bayarjavkhlan
+info,player,Mongolia,M Enkhzul
+info,player,Mongolia,G Urjindulam
+info,player,Mongolia,O Amarjargal
+info,player,Mongolia,U Anujin
+info,player,Hong Kong,Shanzeen Shahzad
+info,player,Hong Kong,KY Chan
+info,player,Hong Kong,Y Daswani
+info,player,Hong Kong,Chan Sau Har
+info,player,Hong Kong,WK Lai
+info,player,Hong Kong,K Poon
+info,player,Hong Kong,M Wai Siu
+info,player,Hong Kong,Hiu Ying Cheung
+info,player,Hong Kong,Ruchitha Venkatesh
+info,player,Hong Kong,M Bibi
+info,player,Hong Kong,Chan Ka Man
+info,registry,people,Aye Min Than,37f3bba0
+info,registry,people,B Ichinkhorloo,3cc55f88
+info,registry,people,B Namuunzul,e14e70c0
+info,registry,people,Chan Ka Man,c4022bff
+info,registry,people,Chan Sau Har,3c567308
+info,registry,people,G Anujin,e749f016
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,G Urjindulam,a51e7c73
+info,registry,people,Hiu Ying Cheung,9efce9fd
+info,registry,people,K Poon,f25c0231
+info,registry,people,KY Chan,6348c6e9
+info,registry,people,M Batnasan,0e01e881
+info,registry,people,M Bibi,34f86a2d
+info,registry,people,M Enkhzul,5f45a88b
+info,registry,people,M Wai Siu,74eecff4
+info,registry,people,O Amarjargal,c054cf6f
+info,registry,people,O Erdenebaatar,f40bc7e3
+info,registry,people,Ruchitha Venkatesh,106135f5
+info,registry,people,Shanzeen Shahzad,ce291858
+info,registry,people,Sun Meng Yao,84a96566
+info,registry,people,T Ariuntsetseg,2f8c4e6e
+info,registry,people,U Anujin,0ba1c242
+info,registry,people,U Bayarjavkhlan,92c81a4f
+info,registry,people,WK Lai,6ab99b17
+info,registry,people,Y Daswani,2038a273
+info,registry,people,Z Lyu,5a058533
+info,registry,people,Zheng Lili,9c2bb7da

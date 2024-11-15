@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Singapore
+info,gender,female
+info,season,2024/25
+info,date,2024/10/27
+info,event,Singapore Women's T20I Tri-Series
+info,match_number,7
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Myanmar
+info,toss_decision,bat
+info,player_of_match,TT Soe
+info,umpire,Foyes Ahmed
+info,umpire,Shriya Kumari
+info,reserve_umpire,Mahalakshmi
+info,match_referee,A Natarajan
+info,winner,Myanmar
+info,winner_runs,65
+info,player,Myanmar,TT Aung
+info,player,Myanmar,Zon Lin
+info,player,Myanmar,MPP San
+info,player,Myanmar,AE Moe
+info,player,Myanmar,KM Myat
+info,player,Myanmar,TT Soe
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,ZL Win
+info,player,Myanmar,ZL Thoon
+info,player,Myanmar,LL Htun
+info,player,Myanmar,Thae Thae Po
+info,player,Singapore,GK Diviya
+info,player,Singapore,LAR Bommareddy
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,RR Seth
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,DA Galia
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,I Shukla
+info,player,Singapore,C Boyle
+info,player,Singapore,E Ungerman
+info,registry,people,A Natarajan,a2b73ae0
+info,registry,people,AE Moe,aac82442
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,C Boyle,11374353
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,E Ungerman,3959c505
+info,registry,people,Foyes Ahmed,465cdd1d
+info,registry,people,GK Diviya,992979fa
+info,registry,people,I Shukla,ce490298
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,LAR Bommareddy,3da8cd3a
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,MPP San,5bc290a2
+info,registry,people,Mahalakshmi,3204216e
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,ZL Thoon,8d0543ce
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d

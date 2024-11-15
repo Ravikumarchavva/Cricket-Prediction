@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Myanmar
+info,team,Mongolia
+info,gender,female
+info,season,2024/25
+info,date,2024/11/08
+info,event,Women's T20I Quadrangular Series (in China)
+info,match_number,3
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,Myanmar
+info,toss_decision,bat
+info,player_of_match,TT Aung
+info,umpire,Zheng Lili
+info,umpire,Z Lyu
+info,reserve_umpire,John Prakash
+info,tv_umpire,Aye Min Than
+info,match_referee,G Sankaranarayanan
+info,winner,Myanmar
+info,winner_runs,78
+info,player,Myanmar,KM Myat
+info,player,Myanmar,TT Aung
+info,player,Myanmar,MPP San
+info,player,Myanmar,TT Soe
+info,player,Myanmar,ZL Win
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,ZL Thoon
+info,player,Myanmar,LL Htun
+info,player,Myanmar,HH Aung
+info,player,Myanmar,AE Moe
+info,player,Myanmar,SY Win
+info,player,Mongolia,G Anujin
+info,player,Mongolia,B Ichinkhorloo
+info,player,Mongolia,T Ariuntsetseg
+info,player,Mongolia,O Erdenebaatar
+info,player,Mongolia,B Namuunzul
+info,player,Mongolia,M Batnasan
+info,player,Mongolia,U Bayarjavkhlan
+info,player,Mongolia,O Amarjargal
+info,player,Mongolia,U Anujin
+info,player,Mongolia,M Enkhzul
+info,player,Mongolia,J Tugsjargal
+info,registry,people,AE Moe,aac82442
+info,registry,people,Aye Min Than,37f3bba0
+info,registry,people,B Ichinkhorloo,3cc55f88
+info,registry,people,B Namuunzul,e14e70c0
+info,registry,people,G Anujin,e749f016
+info,registry,people,G Sankaranarayanan,a4a348f9
+info,registry,people,HH Aung,860042f6
+info,registry,people,J Tugsjargal,e7af8a61
+info,registry,people,John Prakash,b5f3d429
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,M Batnasan,0e01e881
+info,registry,people,M Enkhzul,5f45a88b
+info,registry,people,MPP San,5bc290a2
+info,registry,people,O Amarjargal,c054cf6f
+info,registry,people,O Erdenebaatar,f40bc7e3
+info,registry,people,SY Win,33d65ab4
+info,registry,people,T Ariuntsetseg,2f8c4e6e
+info,registry,people,TT Aung,57fb24e6
+info,registry,people,TT Soe,59f44fde
+info,registry,people,U Anujin,0ba1c242
+info,registry,people,U Bayarjavkhlan,92c81a4f
+info,registry,people,Z Lyu,5a058533
+info,registry,people,ZL Thoon,8d0543ce
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zheng Lili,9c2bb7da

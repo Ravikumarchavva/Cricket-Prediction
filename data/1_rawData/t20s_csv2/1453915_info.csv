@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Thailand
+info,team,Maldives
+info,gender,male
+info,season,2024/25
+info,date,2024/10/22
+info,event,Bhutan Quadrangular T20I Series
+info,match_number,5
+info,venue,Gelephu International Cricket Ground
+info,city,Gelephu
+info,toss_winner,Thailand
+info,toss_decision,bat
+info,player_of_match,AV Lazarus
+info,umpire,ON Pradhan
+info,umpire,U Dorji
+info,reserve_umpire,AK Rai
+info,tv_umpire,Dorji
+info,match_referee,Sarika Prasad
+info,winner,Thailand
+info,winner_runs,44
+info,player,Thailand,AP Yadav
+info,player,Thailand,C Chatphaisan
+info,player,Thailand,Y Saranonnakkun
+info,player,Thailand,AV Lazarus
+info,player,Thailand,J Coetzee
+info,player,Thailand,S Rungrueang
+info,player,Thailand,MK Thakur
+info,player,Thailand,N Senamontree
+info,player,Thailand,K Senamontree
+info,player,Thailand,Sarawut Maliwan
+info,player,Thailand,K Namchaikul
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Ismail Ali
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Ibrahim Nashath
+info,player,Maldives,Ameel Mauroof
+info,player,Maldives,Shaof Hassan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Shunan Ali
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Hassan Rasheed
+info,registry,people,AK Rai,1d70834a
+info,registry,people,AP Yadav,a5501504
+info,registry,people,AV Lazarus,30c917bf
+info,registry,people,Ameel Mauroof,1579d497
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,C Chatphaisan,85c56be8
+info,registry,people,Dorji,a6b688ef
+info,registry,people,Hassan Rasheed,1ca51098
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Nashath,98514dce
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,J Coetzee,3ad06915
+info,registry,people,K Namchaikul,f4ccbe6f
+info,registry,people,K Senamontree,e553e27f
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,MK Thakur,2d9451cc
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,N Senamontree,44e00a4c
+info,registry,people,ON Pradhan,d41a08d6
+info,registry,people,S Rungrueang,35ae9e8a
+info,registry,people,Sarawut Maliwan,36a0a88c
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shaof Hassan,f6e160d7
+info,registry,people,Shunan Ali,3b2ca392
+info,registry,people,U Dorji,12bba2d4
+info,registry,people,Y Saranonnakkun,9c93c0a3

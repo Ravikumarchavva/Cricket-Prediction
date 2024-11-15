@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,Netherlands
+info,gender,male
+info,season,2022/23
+info,date,2022/10/24
+info,event,ICC Men's T20 World Cup
+info,match_number,17
+info,venue,"Bellerive Oval, Hobart"
+info,city,Hobart
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,player_of_match,Taskin Ahmed
+info,umpire,CB Gaffaney
+info,umpire,Nitin Menon
+info,reserve_umpire,Ahsan Raza
+info,tv_umpire,MA Gough
+info,match_referee,DC Boon
+info,winner,Bangladesh
+info,winner_runs,9
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Shakib Al Hasan
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Yasir Ali Chowdhury
+info,player,Bangladesh,Nurul Hasan
+info,player,Bangladesh,Mosaddek Hossain
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Hasan Mahmud
+info,player,Bangladesh,Mustafizur Rahman
+info,player,Netherlands,Vikramjit Singh
+info,player,Netherlands,MP O'Dowd
+info,player,Netherlands,BFW de Leede
+info,player,Netherlands,CN Ackermann
+info,player,Netherlands,TLW Cooper
+info,player,Netherlands,SA Edwards
+info,player,Netherlands,TJG Pringle
+info,player,Netherlands,LV van Beek
+info,player,Netherlands,Shariz Ahmad
+info,player,Netherlands,FJ Klaassen
+info,player,Netherlands,PA van Meekeren
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Ahsan Raza,e0e5b209
+info,registry,people,BFW de Leede,fc4375ef
+info,registry,people,CB Gaffaney,d5ac41d8
+info,registry,people,CN Ackermann,e734d090
+info,registry,people,DC Boon,e79a1fe3
+info,registry,people,FJ Klaassen,c042b412
+info,registry,people,Hasan Mahmud,80ad39ac
+info,registry,people,LV van Beek,782fb776
+info,registry,people,Liton Das,0404d43c
+info,registry,people,MA Gough,76752ac8
+info,registry,people,MP O'Dowd,b699df47
+info,registry,people,Mosaddek Hossain,8919756f
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Nurul Hasan,d365d463
+info,registry,people,PA van Meekeren,4557dc54
+info,registry,people,SA Edwards,b59db04f
+info,registry,people,Shakib Al Hasan,7dc35884
+info,registry,people,Shariz Ahmad,7595b47f
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,TJG Pringle,8ce2080b
+info,registry,people,TLW Cooper,2318ba22
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Vikramjit Singh,2a9eee66
+info,registry,people,Yasir Ali Chowdhury,5791b840

@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Zimbabwe
+info,gender,female
+info,season,2024
+info,date,2024/09/07
+info,event,Namibia Women's T20I Tri-Series
+info,match_number,2
+info,venue,"Wanderers Cricket Ground, Windhoek"
+info,city,Windhoek
+info,toss_winner,Zimbabwe
+info,toss_decision,field
+info,player_of_match,K Chigora
+info,umpire,M Short
+info,umpire,S Schoonbee
+info,winner,Zimbabwe
+info,winner_wickets,3
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,United Arab Emirates,H Hotchandani
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,Keziah Miriam Sabin
+info,player,United Arab Emirates,L Keny
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,United Arab Emirates,I Nandakumar
+info,player,United Arab Emirates,Archara Supriya
+info,player,Zimbabwe,K Ndlovu
+info,player,Zimbabwe,M Mupachikwa
+info,player,Zimbabwe,B Biza
+info,player,Zimbabwe,CS Mugeri-Tiripano
+info,player,Zimbabwe,CT Dhururu
+info,player,Zimbabwe,L Phiri
+info,player,Zimbabwe,J Nkomo
+info,player,Zimbabwe,C Mutasa
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,K Chigora
+info,player,Zimbabwe,L Mabhero
+info,registry,people,Archara Supriya,b245cd8b
+info,registry,people,B Biza,8a522c6c
+info,registry,people,C Mutasa,1ba50005
+info,registry,people,CS Mugeri-Tiripano,99c86133
+info,registry,people,CT Dhururu,8d7fba79
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,H Hotchandani,f537d39c
+info,registry,people,I Nandakumar,9f87d0f0
+info,registry,people,J Nkomo,36dfa62e
+info,registry,people,K Chigora,5f311f1a
+info,registry,people,K Ndlovu,8d25271a
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Keziah Miriam Sabin,b5b21b1d
+info,registry,people,L Keny,aea89d48
+info,registry,people,L Mabhero,37f9eb59
+info,registry,people,L Phiri,cca8bdca
+info,registry,people,M Mupachikwa,6657b319
+info,registry,people,M Short,0e283b75
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Schoonbee,9cefa638
+info,registry,people,T Marumani,67a9fe72
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,Vaishnave Mahesh,31c56f40

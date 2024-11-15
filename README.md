@@ -11,6 +11,7 @@ This project is an **end-to-end data science solution** designed to predict the 
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
+- [Data Versioning with DVC](#data-versioning-with-dvc)
 
 ## Overview
 
@@ -119,3 +120,33 @@ This model is deployed in a **portfolio website** as part of a static visual sho
 1. **Live API**: Introduce a server that ingests real-time match data for live prediction capabilities.
 2. **Advanced Model Tuning**: Explore ensemble techniques or reinforcement learning for enhanced predictions.
 3. **Visual Dashboard**: Develop a dynamic dashboard to visualize ongoing predictions in a user-friendly format.
+
+## Data Versioning with DVC
+
+1. **Initialize DVC:**
+   ```bash
+   dvc init
+   ```
+
+2. **Configure Remote Storage:**
+   ```bash
+   dvc remote add -d hdfs hdfs://namenode_host:port/path/to/hdfs/storage
+   ```
+
+3. **Add Data to DVC:**
+   ```bash
+   dvc add path/to/data
+   ```
+
+4. **Commit and Push:**
+   ```bash
+   git add data.dvc .gitignore
+   git commit -m "Add data with DVC"
+   dvc push
+   ```
+
+5. **Pull Data When Cloning the Repository:**
+   ```bash
+   git clone <repo_url>
+   dvc pull
+   ```

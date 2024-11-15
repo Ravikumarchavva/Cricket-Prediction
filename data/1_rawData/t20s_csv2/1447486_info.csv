@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Maldives
+info,team,Hong Kong
+info,gender,male
+info,season,2024
+info,date,2024/09/03
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,10
+info,venue,"YSD-UKM Cricket Oval, Bangi"
+info,city,Bangi
+info,toss_winner,Hong Kong
+info,toss_decision,field
+info,player_of_match,Ateeq Iqbal
+info,umpire,Faisal Afridi
+info,umpire,Shiju Sam
+info,reserve_umpire,Morshed Ali Khan
+info,match_referee,V Narayan Kutty
+info,winner,Hong Kong
+info,winner_wickets,9
+info,player,Maldives,GPK Wijesingha
+info,player,Maldives,Umar Adam
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,Mohamed Shiyam
+info,player,Maldives,Mabsar Abdulla
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,Azin Rafeeg
+info,player,Maldives,Mohamed Miuvaan
+info,player,Maldives,Shunan Ali
+info,player,Hong Kong,JJ Atkinson
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Anas Khan
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Ateeq Iqbal
+info,player,Hong Kong,Nasrulla Rana
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anas Khan,66a7f213
+info,registry,people,Ateeq Iqbal,29b322c7
+info,registry,people,Azin Rafeeg,050bdc77
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,GPK Wijesingha,91f4a6e5
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,JJ Atkinson,bf2d865c
+info,registry,people,Mabsar Abdulla,216697bf
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Miuvaan,a5bdacc3
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,Mohamed Shiyam,946d4d9a
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Shunan Ali,3b2ca392
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zeeshan Ali,987187b9

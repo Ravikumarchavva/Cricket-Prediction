@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Maldives
+info,gender,male
+info,season,2024
+info,date,2024/08/31
+info,event,ICC Men's T20 World Cup Asia Qualifier A
+info,match_number,4
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,Manpreet Singh
+info,umpire,BB Pradhan
+info,umpire,V Kalidas
+info,reserve_umpire,Faisal Afridi
+info,match_referee,V Narayan Kutty
+info,winner,Singapore
+info,winner_runs,47
+info,player,Singapore,Aritra Dutta
+info,player,Singapore,R Sheshadri
+info,player,Singapore,A Mutreja
+info,player,Singapore,WA Simpson
+info,player,Singapore,A Kaul
+info,player,Singapore,Manpreet Singh
+info,player,Singapore,S Chandramohan
+info,player,Singapore,Janak Prakash
+info,player,Singapore,R Kalimuthu
+info,player,Singapore,H Bharadwaj
+info,player,Singapore,AR Puri
+info,player,Maldives,Azyan Farhath
+info,player,Maldives,Umar Adam
+info,player,Maldives,Mohamed Azzam
+info,player,Maldives,GPK Wijesingha
+info,player,Maldives,Mohamed Rishwan
+info,player,Maldives,Ismail Ali
+info,player,Maldives,Mohamed Shiyam
+info,player,Maldives,Ibrahim Hassan
+info,player,Maldives,Ibrahim Rizan
+info,player,Maldives,L Shafeeg
+info,player,Maldives,Shunan Ali
+info,registry,people,A Kaul,53d0b0dc
+info,registry,people,A Mutreja,a2ec22d2
+info,registry,people,AR Puri,1f490b28
+info,registry,people,Aritra Dutta,f3a5c378
+info,registry,people,Azyan Farhath,3e06e7ac
+info,registry,people,BB Pradhan,8603d942
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,GPK Wijesingha,91f4a6e5
+info,registry,people,H Bharadwaj,2e89652e
+info,registry,people,Ibrahim Hassan,4add4c98
+info,registry,people,Ibrahim Rizan,7267e3cd
+info,registry,people,Ismail Ali,5117fa55
+info,registry,people,Janak Prakash,f092b4c7
+info,registry,people,L Shafeeg,ed82d9a5
+info,registry,people,Manpreet Singh,e9d6a2ce
+info,registry,people,Mohamed Azzam,e43c9818
+info,registry,people,Mohamed Rishwan,7d15170b
+info,registry,people,Mohamed Shiyam,946d4d9a
+info,registry,people,R Kalimuthu,5892ac75
+info,registry,people,R Sheshadri,d4aa2ddb
+info,registry,people,S Chandramohan,2a6ccc1c
+info,registry,people,Shunan Ali,3b2ca392
+info,registry,people,Umar Adam,5d77a96a
+info,registry,people,V Kalidas,42d76418
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,WA Simpson,6de0f650

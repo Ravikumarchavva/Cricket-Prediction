@@ -1,0 +1,60 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Malta
+info,team,Isle of Man
+info,gender,female
+info,season,2023
+info,date,2023/08/05
+info,event,Women's Continental Cup
+info,match_number,5
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Isle of Man
+info,toss_decision,field
+info,player_of_match,L Barnett
+info,winner,Isle of Man
+info,winner_wickets,7
+info,player,Malta,S Cholasseri
+info,player,Malta,A Rameshan
+info,player,Malta,JA Rymer
+info,player,Malta,P Bhandari
+info,player,Malta,S Khatri
+info,player,Malta,C Sammut
+info,player,Malta,T Calingin
+info,player,Malta,M Macelli
+info,player,Malta,J Neupane
+info,player,Malta,S Iushchenko
+info,player,Malta,Bibina Baby
+info,player,Isle of Man,L Barnett
+info,player,Isle of Man,K Carney
+info,player,Isle of Man,E Cleator
+info,player,Isle of Man,E Miller
+info,player,Isle of Man,R Webster
+info,player,Isle of Man,A Littlejohns
+info,player,Isle of Man,A Thorpe
+info,player,Isle of Man,C Perry
+info,player,Isle of Man,B Murtagh
+info,player,Isle of Man,Joanne Hicks
+info,player,Isle of Man,F Martin
+info,registry,people,A Littlejohns,3498a188
+info,registry,people,A Rameshan,f0f9d832
+info,registry,people,A Thorpe,6c54bd7a
+info,registry,people,B Murtagh,7bd61c82
+info,registry,people,Bibina Baby,9edc0abb
+info,registry,people,C Perry,152d3c9d
+info,registry,people,C Sammut,ea4f7003
+info,registry,people,E Cleator,9c94176e
+info,registry,people,E Miller,6e6c769e
+info,registry,people,F Martin,b6bc4d31
+info,registry,people,J Neupane,b6dfa72f
+info,registry,people,JA Rymer,ae779954
+info,registry,people,Joanne Hicks,802febe2
+info,registry,people,K Carney,7097b37e
+info,registry,people,L Barnett,d9a2345a
+info,registry,people,M Macelli,9f2cca6b
+info,registry,people,P Bhandari,19499257
+info,registry,people,R Webster,cdfb59b8
+info,registry,people,S Cholasseri,66e189ac
+info,registry,people,S Iushchenko,ce192a4c
+info,registry,people,S Khatri,e93f9604
+info,registry,people,T Calingin,542dc48f

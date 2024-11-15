@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bhutan
+info,team,Indonesia
+info,gender,male
+info,season,2024/25
+info,date,2024/10/22
+info,event,Bhutan Quadrangular T20I Series
+info,match_number,6
+info,venue,Gelephu International Cricket Ground
+info,city,Gelephu
+info,toss_winner,Bhutan
+info,toss_decision,bat
+info,player_of_match,RM Dorji
+info,umpire,AK Rai
+info,umpire,Dorji
+info,reserve_umpire,ON Pradhan
+info,tv_umpire,U Dorji
+info,match_referee,Sarika Prasad
+info,winner,Bhutan
+info,winner_runs,56
+info,player,Bhutan,S Pradhan
+info,player,Bhutan,Tenjin Rabgey
+info,player,Bhutan,RM Dorji
+info,player,Bhutan,J Singye
+info,player,Bhutan,T Jamtsho
+info,player,Bhutan,S Loday
+info,player,Bhutan,Namgay Thinley
+info,player,Bhutan,Tshering Tashi
+info,player,Bhutan,S Yeshi
+info,player,Bhutan,T Wangchuk
+info,player,Bhutan,Karma Dorji
+info,player,Indonesia,Ahmad Ramdoni
+info,player,Indonesia,Anjar Tadarus
+info,player,Indonesia,KD Kesuma
+info,player,Indonesia,DJ Hawoe
+info,player,Indonesia,GA Priandana
+info,player,Indonesia,J Dzulfikar
+info,player,Indonesia,IKEG Artawan
+info,player,Indonesia,GD Arta
+info,player,Indonesia,DGAPD Wiswi
+info,player,Indonesia,RM Koda
+info,player,Indonesia,F Banunaek
+info,registry,people,AK Rai,1d70834a
+info,registry,people,Ahmad Ramdoni,b5f30525
+info,registry,people,Anjar Tadarus,72275237
+info,registry,people,DGAPD Wiswi,d3d096f5
+info,registry,people,DJ Hawoe,a62f55ba
+info,registry,people,Dorji,a6b688ef
+info,registry,people,F Banunaek,3c8faed4
+info,registry,people,GA Priandana,2af0e3b1
+info,registry,people,GD Arta,e969e580
+info,registry,people,IKEG Artawan,190957d2
+info,registry,people,J Dzulfikar,05ea0342
+info,registry,people,J Singye,28574428
+info,registry,people,KD Kesuma,4b349dc0
+info,registry,people,Karma Dorji,80058153
+info,registry,people,Namgay Thinley,9c333e40
+info,registry,people,ON Pradhan,d41a08d6
+info,registry,people,RM Dorji,3d7f02d4
+info,registry,people,RM Koda,f0a45427
+info,registry,people,S Loday,448dab1a
+info,registry,people,S Pradhan,04f0d409
+info,registry,people,S Yeshi,0c24fb7b
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,T Jamtsho,c01d1c0a
+info,registry,people,T Wangchuk,39799e49
+info,registry,people,Tenjin Rabgey,1fed517a
+info,registry,people,Tshering Tashi,596c60cf
+info,registry,people,U Dorji,12bba2d4

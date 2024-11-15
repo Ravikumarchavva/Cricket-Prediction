@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Luxembourg
+info,team,Switzerland
+info,gender,male
+info,season,2023
+info,date,2023/07/14
+info,event,Valletta Cup
+info,match_number,5
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,Switzerland
+info,toss_decision,field
+info,player_of_match,Osama Mahmood
+info,umpire,S Gowda
+info,umpire,Vinay Malhotra
+info,reserve_umpire,V Sridhar
+info,match_referee,S Harnal
+info,winner,Switzerland
+info,winner_wickets,8
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,E Jabarkhel
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,A Dhingra
+info,player,Luxembourg,A Nanda
+info,player,Switzerland,Faheem Nazir
+info,player,Switzerland,Osama Mahmood
+info,player,Switzerland,Arjun Vinod
+info,player,Switzerland,Ahmed Hassan
+info,player,Switzerland,Izhar Hussain
+info,player,Switzerland,Ali Nayyer
+info,player,Switzerland,NK Aneesh Kumar
+info,player,Switzerland,MK Gnanasekaram
+info,player,Switzerland,K Fletcher
+info,player,Switzerland,Ashwin Vinod
+info,player,Switzerland,Abdullah Rana
+info,registry,people,A Dhingra,753ada66
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Nanda,704e0160
+info,registry,people,Abdullah Rana,c4ab9b94
+info,registry,people,Ahmed Hassan,c439461b
+info,registry,people,Ali Nayyer,4ec0443d
+info,registry,people,Arjun Vinod,033e9d59
+info,registry,people,Ashwin Vinod,8a99caa9
+info,registry,people,E Jabarkhel,21526a38
+info,registry,people,Faheem Nazir,7e00711f
+info,registry,people,Izhar Hussain,1bc71d98
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Mees,ab1445ea
+info,registry,people,K Fletcher,443d1fd8
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,MK Gnanasekaram,24b3651c
+info,registry,people,NK Aneesh Kumar,e23da78c
+info,registry,people,Osama Mahmood,601544aa
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,SKS Gill,faef026c
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Sridhar,42314166
+info,registry,people,V Vijh,b857468a
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,WJ Cope,fb34b0ec

@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Italy
+info,team,Netherlands
+info,gender,female
+info,season,2024
+info,date,2024/05/30
+info,event,Italy Women tour of Netherlands
+info,match_number,4
+info,venue,"Sportpark Harga, Schiedam"
+info,city,Schiedam
+info,toss_winner,Italy
+info,toss_decision,bat
+info,player_of_match,B de Leede
+info,umpire,M Prabhudesa
+info,umpire,WPM van Liemt
+info,reserve_umpire,M Hancock
+info,winner,Netherlands
+info,winner_wickets,8
+info,player,Italy,M Rathnayake
+info,player,Italy,D Nanayakkara
+info,player,Italy,C Mahamalage
+info,player,Italy,Ilenia Sims
+info,player,Italy,EL Bartram
+info,player,Italy,K Peddrick
+info,player,Italy,T Araliya
+info,player,Italy,K Kaur
+info,player,Italy,IU Jayamannage
+info,player,Italy,S Malwatta
+info,player,Italy,S Kanankege
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,SL Kalis
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,C de Lange
+info,player,Netherlands,F Overdijk
+info,player,Netherlands,S Siegers
+info,player,Netherlands,S Khurana
+info,player,Netherlands,AH Thomson
+info,registry,people,AH Thomson,5d2031f0
+info,registry,people,B de Leede,b3020075
+info,registry,people,C Mahamalage,3250b7db
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,D Nanayakkara,dbf22922
+info,registry,people,EL Bartram,5fa7f030
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,F Overdijk,022745d5
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,IU Jayamannage,308d6f62
+info,registry,people,Ilenia Sims,03c98aa6
+info,registry,people,K Kaur,7ee0f839
+info,registry,people,K Peddrick,a031b75e
+info,registry,people,M Hancock,deb8c9a5
+info,registry,people,M Prabhudesa,c36bcd1e
+info,registry,people,M Rathnayake,a969dc4c
+info,registry,people,R Rijke,42e4b276
+info,registry,people,S Kanankege,01815edc
+info,registry,people,S Khurana,9a9a056d
+info,registry,people,S Malwatta,bc11f3a3
+info,registry,people,S Siegers,9a58f2c8
+info,registry,people,SL Kalis,2b150c6b
+info,registry,people,T Araliya,d423f390
+info,registry,people,WPM van Liemt,2bd48588

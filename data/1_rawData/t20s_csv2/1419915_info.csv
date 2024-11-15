@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United Arab Emirates
+info,team,Oman
+info,gender,female
+info,season,2023/24
+info,date,2024/02/11
+info,event,Asian Cricket Council Women's Premier Cup
+info,match_number,10
+info,venue,"Royal Selangor Club, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Oman
+info,toss_decision,field
+info,player_of_match,ER Oza
+info,umpire,Nur Hijrah
+info,umpire,Zahid Usman
+info,reserve_umpire,Ramasamy Venkatesh
+info,match_referee,Edwin Seah
+info,winner,United Arab Emirates
+info,winner_runs,148
+info,player,United Arab Emirates,ER Oza
+info,player,United Arab Emirates,KKN Egodage
+info,player,United Arab Emirates,Theertha Satish
+info,player,United Arab Emirates,H Hotchandani
+info,player,United Arab Emirates,Khushi Sharma
+info,player,United Arab Emirates,Mehak Thakur
+info,player,United Arab Emirates,Rinitha Rajith
+info,player,United Arab Emirates,S Dharnidharka
+info,player,United Arab Emirates,S Gokhale
+info,player,United Arab Emirates,S Kotte
+info,player,United Arab Emirates,Vaishnave Mahesh
+info,player,Oman,SV Shetty
+info,player,Oman,N Joshi
+info,player,Oman,Javed Hina
+info,player,Oman,PE Mendonca
+info,player,Oman,A Dcosta
+info,player,Oman,A Gunasekar
+info,player,Oman,TB Pawde
+info,player,Oman,Sameera Khan
+info,player,Oman,CM Saldanha
+info,player,Oman,Sani E Zehra
+info,player,Oman,Alifiya Sayed
+info,registry,people,A Dcosta,3a4d914f
+info,registry,people,A Gunasekar,b5223cb0
+info,registry,people,Alifiya Sayed,81423620
+info,registry,people,CM Saldanha,aee1bc06
+info,registry,people,ER Oza,fdc6b34d
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,H Hotchandani,f537d39c
+info,registry,people,Javed Hina,a487762e
+info,registry,people,KKN Egodage,5bb904d4
+info,registry,people,Khushi Sharma,a259c414
+info,registry,people,Mehak Thakur,cf712c6d
+info,registry,people,N Joshi,cfece11f
+info,registry,people,Nur Hijrah,6c068720
+info,registry,people,PE Mendonca,70bab30b
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Rinitha Rajith,36ba7f0b
+info,registry,people,S Dharnidharka,f8b50da3
+info,registry,people,S Gokhale,62653085
+info,registry,people,S Kotte,6c8904c8
+info,registry,people,SV Shetty,db7a7301
+info,registry,people,Sameera Khan,237baa2c
+info,registry,people,Sani E Zehra,64442beb
+info,registry,people,TB Pawde,42d5be2e
+info,registry,people,Theertha Satish,ee3dcb3f
+info,registry,people,Vaishnave Mahesh,31c56f40
+info,registry,people,Zahid Usman,5ee3b5bd

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Hong Kong
+info,gender,male
+info,season,2024
+info,date,2024/04/14
+info,event,ACC Men's Premier Cup
+info,match_number,10
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2)
+info,city,Al Amarat
+info,toss_winner,Saudi Arabia
+info,toss_decision,bat
+info,player_of_match,Abdul Waheed
+info,umpire,Abdul Jabbar
+info,umpire,Tariq Rasheed
+info,reserve_umpire,Shiju Sam
+info,tv_umpire,Morshed Ali Khan
+info,match_referee,Hamim Khan
+info,winner,Saudi Arabia
+info,winner_runs,55
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Saad Khan
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Ahmad Raza
+info,player,Hong Kong,Yasim Murtaza
+info,player,Hong Kong,Anshuman Rath
+info,player,Hong Kong,Nizakat Khan
+info,player,Hong Kong,Babar Hayat
+info,player,Hong Kong,Aizaz Khan
+info,player,Hong Kong,Zeeshan Ali
+info,player,Hong Kong,Nasrulla Rana
+info,player,Hong Kong,Ehsan Khan
+info,player,Hong Kong,Raunaq Kapur
+info,player,Hong Kong,A Shukla
+info,player,Hong Kong,Dhananjay Rao
+info,registry,people,A Shukla,a1e80d06
+info,registry,people,Abdul Jabbar,3f4b9ae5
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmad Raza,6bfa638b
+info,registry,people,Aizaz Khan,f6c2659d
+info,registry,people,Anshuman Rath,552b228c
+info,registry,people,Babar Hayat,fbb657bb
+info,registry,people,Dhananjay Rao,6a11facf
+info,registry,people,Ehsan Khan,d3851cd8
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Hamim Khan,f82540a3
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Nasrulla Rana,9ffb7550
+info,registry,people,Nizakat Khan,e3eb9e46
+info,registry,people,Raunaq Kapur,8831b92e
+info,registry,people,Saad Khan,28e0f645
+info,registry,people,Shiju Sam,1e2f3eae
+info,registry,people,Tariq Rasheed,1008518c
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Yasim Murtaza,c9d05f1a
+info,registry,people,Zain Ul Abidin,b93b87ae
+info,registry,people,Zeeshan Ali,987187b9

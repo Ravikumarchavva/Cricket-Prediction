@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Malawi
+info,gender,female
+info,season,2024
+info,date,2024/06/04
+info,event,Kwibuka Women's Twenty20 Tournament
+info,match_number,20
+info,venue,"Gahanga B Ground, Rwanda"
+info,city,Kigali City
+info,toss_winner,Cameroon
+info,toss_decision,bat
+info,player_of_match,LL Dimba
+info,umpire,R Singinzwa
+info,umpire,TJ Onikoyi
+info,reserve_umpire,V Iriho
+info,winner,Malawi
+info,winner_wickets,8
+info,player,Cameroon,JAN Ngono
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,BMA Mbida
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,B Waluma
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,CD Mboe
+info,player,Cameroon,CN Messina
+info,player,Cameroon,E Guehoada
+info,player,Malawi,P Maziya
+info,player,Malawi,S Chinawa
+info,player,Malawi,T Luka
+info,player,Malawi,LL Dimba
+info,player,Malawi,L Malino
+info,player,Malawi,A Alfonso
+info,player,Malawi,M Kudimba
+info,player,Malawi,S Kananji
+info,player,Malawi,T Chabila
+info,player,Malawi,KM Chingaipe
+info,player,Malawi,V Phiri
+info,registry,people,A Alfonso,5088c217
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,BMA Mbida,e3c23cef
+info,registry,people,CD Mboe,14198941
+info,registry,people,CN Messina,1afd0d5c
+info,registry,people,E Guehoada,8c03f3b8
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,JAN Ngono,0bc162c4
+info,registry,people,KM Chingaipe,db32d60a
+info,registry,people,L Malino,7a81836e
+info,registry,people,LL Dimba,53f88bf1
+info,registry,people,M Kudimba,24ce1fcb
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,P Maziya,4f85f02c
+info,registry,people,R Singinzwa,0e58e89d
+info,registry,people,S Chinawa,bdbde085
+info,registry,people,S Kananji,23917bf0
+info,registry,people,T Chabila,f18b67a3
+info,registry,people,T Luka,44e008a5
+info,registry,people,TJ Onikoyi,b68d9bc6
+info,registry,people,TMA Leslie,c7fa1e4c
+info,registry,people,V Iriho,2853eafb
+info,registry,people,V Phiri,8ffa1b3c

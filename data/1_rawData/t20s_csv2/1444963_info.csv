@@ -1,0 +1,66 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Samoa
+info,team,Vanuatu
+info,gender,male
+info,season,2024
+info,date,2024/08/24
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,12
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Samoa
+info,toss_decision,bat
+info,player_of_match,SF Tiai
+info,umpire,Kim Cotton
+info,umpire,PJ Gillespie
+info,match_referee,Kent Hannam
+info,winner,Samoa
+info,winner_runs,8
+info,player,Samoa,S Cotter
+info,player,Samoa,DE Roache
+info,player,Samoa,CK Jasmat
+info,player,Samoa,D Visser
+info,player,Samoa,F Suluoto
+info,player,Samoa,SF Tiai
+info,player,Samoa,DE Burgess
+info,player,Samoa,A Ilaoa
+info,player,Samoa,SM Nash
+info,player,Samoa,D Finau
+info,player,Samoa,Noah Mead
+info,player,Vanuatu,N Nipiko
+info,player,Vanuatu,C Tommy
+info,player,Vanuatu,A Mansale
+info,player,Vanuatu,W Nalisa
+info,player,Vanuatu,J Rasu
+info,player,Vanuatu,BA Viraliliu
+info,player,Vanuatu,W Wotu
+info,player,Vanuatu,JP Kaltapau
+info,player,Vanuatu,TL Cutler
+info,player,Vanuatu,AL Stephen
+info,player,Vanuatu,D Wotu
+info,registry,people,A Ilaoa,4d733a54
+info,registry,people,A Mansale,a22b4f3f
+info,registry,people,AL Stephen,49f6d023
+info,registry,people,BA Viraliliu,7d85b1e9
+info,registry,people,C Tommy,c6d4cff0
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Finau,63772ee4
+info,registry,people,D Visser,bb4da4d3
+info,registry,people,D Wotu,9585854d
+info,registry,people,DE Burgess,7bf39e5c
+info,registry,people,DE Roache,110b180a
+info,registry,people,F Suluoto,ae380321
+info,registry,people,J Rasu,1021b6e5
+info,registry,people,JP Kaltapau,d8dccff5
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,Kim Cotton,67a7c2ee
+info,registry,people,N Nipiko,c498c510
+info,registry,people,Noah Mead,0095a0e3
+info,registry,people,PJ Gillespie,3e253a50
+info,registry,people,S Cotter,e6127436
+info,registry,people,SF Tiai,bf19d427
+info,registry,people,SM Nash,4f3a89ae
+info,registry,people,TL Cutler,384fa385
+info,registry,people,W Nalisa,673be48f
+info,registry,people,W Wotu,6b25ef46

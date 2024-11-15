@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Luxembourg
+info,gender,male
+info,season,2023
+info,date,2023/07/15
+info,event,Valletta Cup
+info,match_number,10
+info,venue,Marsa Sports Club
+info,city,Marsa
+info,toss_winner,France
+info,toss_decision,bat
+info,player_of_match,Anoop Orsu
+info,umpire,S Harnal
+info,umpire,Vinay Malhotra
+info,reserve_umpire,S Fernando
+info,match_referee,S Gowda
+info,winner,Luxembourg
+info,winner_wickets,4
+info,player,France,Zain Ahmad
+info,player,France,HA Jackson
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Noman Amjad
+info,player,France,SM Warnakulasuriya
+info,player,France,Ibrahim Jabarkhel
+info,player,France,Usman Khan
+info,player,France,Rahmatullah Mangal
+info,player,France,R Mangal
+info,player,France,Dawood Ahmadzai
+info,player,Luxembourg,WJ Cope
+info,player,Luxembourg,A Halbhavi
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,E Jabarkhel
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,G Venkateswaran
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,P Malav
+info,player,Luxembourg,A Nanda
+info,registry,people,A Halbhavi,df1b4c8f
+info,registry,people,A Nanda,704e0160
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,E Jabarkhel,21526a38
+info,registry,people,G Venkateswaran,a4bcaba7
+info,registry,people,HA Jackson,ee40679e
+info,registry,people,Ibrahim Jabarkhel,c311564c
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Noman Amjad,c079c66a
+info,registry,people,P Malav,02b078b1
+info,registry,people,R Mangal,5360c9be
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Fernando,bbeb5b15
+info,registry,people,S Gowda,52f6fb22
+info,registry,people,S Harnal,756fe781
+info,registry,people,SKS Gill,faef026c
+info,registry,people,SM Warnakulasuriya,8a5a8cf0
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,V Vijh,b857468a
+info,registry,people,Vinay Malhotra,452837d1
+info,registry,people,WJ Cope,fb34b0ec
+info,registry,people,Zain Ahmad,ea2c0aff

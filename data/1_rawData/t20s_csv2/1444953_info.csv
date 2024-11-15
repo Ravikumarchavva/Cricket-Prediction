@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Fiji
+info,team,Samoa
+info,gender,male
+info,season,2024
+info,date,2024/08/17
+info,event,ICC Men's T20 World Cup East Asia-Pacific Region Qualifier A
+info,match_number,2
+info,venue,"Faleata Oval No 2, Apia"
+info,city,Apia
+info,toss_winner,Fiji
+info,toss_decision,bat
+info,player_of_match,D Visser
+info,umpire,L Oala
+info,umpire,L McCabe
+info,reserve_umpire,M Kenni
+info,match_referee,Kent Hannam
+info,winner,Samoa
+info,winner_wickets,9
+info,player,Fiji,JMV Junior
+info,player,Fiji,DR Tawake
+info,player,Fiji,PV Vuniwaqa
+info,player,Fiji,J Cama
+info,player,Fiji,A Sokovagone
+info,player,Fiji,P Dakainivanua
+info,player,Fiji,M Beitaki
+info,player,Fiji,P Kotoisuva
+info,player,Fiji,AZ Shah
+info,player,Fiji,JQK Moala
+info,player,Fiji,S Tabuisulu
+info,player,Samoa,S Cotter
+info,player,Samoa,SM Nash
+info,player,Samoa,D Visser
+info,player,Samoa,D Finau
+info,player,Samoa,SF Tiai
+info,player,Samoa,DE Roache
+info,player,Samoa,F Suluoto
+info,player,Samoa,CK Jasmat
+info,player,Samoa,A Ilaoa
+info,player,Samoa,Noah Mead
+info,player,Samoa,P Sua
+info,registry,people,A Ilaoa,4d733a54
+info,registry,people,A Sokovagone,10e34eef
+info,registry,people,AZ Shah,e0c5125f
+info,registry,people,CK Jasmat,5299063a
+info,registry,people,D Finau,63772ee4
+info,registry,people,D Visser,bb4da4d3
+info,registry,people,DE Roache,110b180a
+info,registry,people,DR Tawake,8c11c10a
+info,registry,people,F Suluoto,ae380321
+info,registry,people,J Cama,6a868271
+info,registry,people,JMV Junior,c38bf66d
+info,registry,people,JQK Moala,d77ddc9f
+info,registry,people,Kent Hannam,8cc171e7
+info,registry,people,L McCabe,1dbc4a64
+info,registry,people,L Oala,48a506ab
+info,registry,people,M Beitaki,3d29b5fc
+info,registry,people,M Kenni,1feb0d3c
+info,registry,people,Noah Mead,0095a0e3
+info,registry,people,P Dakainivanua,5485c999
+info,registry,people,P Kotoisuva,b3e5205c
+info,registry,people,P Sua,f6657f66
+info,registry,people,PV Vuniwaqa,653a7fa8
+info,registry,people,S Cotter,e6127436
+info,registry,people,S Tabuisulu,62708dce
+info,registry,people,SF Tiai,bf19d427
+info,registry,people,SM Nash,4f3a89ae

@@ -19,7 +19,7 @@ def combine_data():
         batting_data = load_data(spark, config.PROCESSED_DATA_DIR, 'batting_data.csv')
         bowling_data = load_data(spark, config.PROCESSED_DATA_DIR, 'bowling_data.csv')
         fielding_data = load_data(spark, config.PROCESSED_DATA_DIR, 'fielding_data.csv')
-        players_data = load_data(spark, config.PROCESSED_DATA_DIR, 'match_players.csv').withColumnRenamed("country", "Country").withColumnRenamed("season", "Season").withColumnRenamed("player", "Player")
+        players_data = load_data(spark, config.PROCESSED_DATA_DIR, 'players.csv').withColumnRenamed("country", "Country").withColumnRenamed("season", "Season").withColumnRenamed("player", "Player")
 
         # Data quality checks
         datasets = {
@@ -37,6 +37,8 @@ def combine_data():
         print("Bowling data columns:", bowling_data.columns)
         print("Fielding data columns:", fielding_data.columns)
         print("Players data columns:", players_data.columns)
+        print(batting_data.count(), bowling_data.count(), fielding_data.count())
+        print(batting_data.columns, bowling_data.columns, fielding_data.columns)    
 
         required_columns = {
             "batting_data": ['Player', 'Country', 'Season', 'Cum Mat Total', 'Cum Inns Total', 'Cum Runs Total', 'Cum Batting Ave', 'Cum SR'],
@@ -50,18 +52,17 @@ def combine_data():
                 logging.error(f"Missing columns in {name}: {missing_cols}")
                 raise ValueError(f"Missing columns in {name}: {missing_cols}")
 
-        batting_data = batting_data.join(players_data, ['Player', 'Country', 'Season'], 'inner')
-        bowling_data = bowling_data.join(players_data, ['Player', 'Country', 'Season'], 'inner')
-        fielding_data = fielding_data.join(players_data, ['Player', 'Country', 'Season'], 'inner')
 
-        batting_data = batting_data.select(['player_id', 'Player', 'Country', "Season","Cum Mat Total", "Cum Runs Total", 'Cum SR']).sort("Player","Season")
-        bowling_data = bowling_data.select(['player_id', 'Player', 'Country', "Season","Cumulative Mat", "Cumulative Inns", 'Cumulative Overs','Cumulative Runs','Cumulative Wkts','Cumulative Econ']).withColumnRenamed("Cumulative Runs","Cumulative Bowling Runs")
-        fielding_data = fielding_data.select(['player_id', 'Player', 'Country', "Season","Cumulative Mat", "Cumulative Inns", 'Cumulative Dis','Cumulative Ct','Cumulative St','Cumulative D/I'])
+        batting_data = batting_data.select(['Player', 'Country', "Season","Cum Mat Total", "Cum Runs Total", 'Cum SR']).sort("Player","Season")
+        bowling_data = bowling_data.select(['Player', 'Country', "Season","Cumulative Mat", "Cumulative Inns", 'Cumulative Overs','Cumulative Runs','Cumulative Wkts','Cumulative Econ']).withColumnRenamed("Cumulative Runs","Cumulative Bowling Runs")
+        fielding_data = fielding_data.select(['Player', 'Country', "Season","Cumulative Mat", "Cumulative Inns", 'Cumulative Dis','Cumulative Ct','Cumulative St','Cumulative D/I'])
         print(batting_data.count(), bowling_data.count(), fielding_data.count())
         print(batting_data.columns, bowling_data.columns, fielding_data.columns)
 
-        player_data = batting_data.join(bowling_data, on=['player_id','Player',"Country","Season"], how='inner').join(fielding_data, on=['player_id','Player',"Country","Season"], how='inner')\
+        player_data = batting_data.join(bowling_data, on=['Player',"Country","Season"], how='inner').join(fielding_data, on=['Player',"Country","Season"], how='inner')\
                         .drop('Cumulative Mat','Cumulative Inns')
+        
+        player_data = player_data.select([ 'Player', 'Country', "Season","Cum Mat Total","Cum Runs Total","Cum SR","Cumulative Overs","Cumulative Bowling Runs","Cumulative Wkts","Cumulative Econ","Cumulative Dis","Cumulative Ct","Cumulative St","Cumulative D/I"]).sort("Player","Season")
 
         # Add print statements to display columns and count
         print("Combined player data columns:", player_data.columns)

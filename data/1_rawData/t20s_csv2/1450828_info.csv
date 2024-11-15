@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Oman
+info,team,Canada
+info,gender,male
+info,season,2024
+info,date,2024/10/03
+info,event,Canada T20 Tri-Series
+info,match_number,6
+info,venue,"Maple Leaf North-West Ground, King City"
+info,city,King City
+info,toss_winner,Canada
+info,toss_decision,field
+info,umpire,AR Maddela
+info,umpire,R Shah
+info,reserve_umpire,V Sudhakar
+info,match_referee,Neeyamur Rashid
+info,winner,Canada
+info,winner_wickets,5
+info,player,Oman,Aqib Ilyas
+info,player,Oman,Jatinder Singh
+info,player,Oman,Shoaib Khan
+info,player,Oman,Zeeshan Maqsood
+info,player,Oman,Khalid Kail
+info,player,Oman,Hammad Mirza
+info,player,Oman,B Siddharth
+info,player,Oman,Mehran Khan
+info,player,Oman,Shakeel Ahmed
+info,player,Oman,Rafiullah
+info,player,Oman,Kaleemullah
+info,player,Canada,K Tathgur
+info,player,Canada,DS Bajwa
+info,player,Canada,NS Dhaliwal
+info,player,Canada,H Thaker
+info,player,Canada,S Movva
+info,player,Canada,NR Kirton
+info,player,Canada,Ravinderpal Singh
+info,player,Canada,Parveen Kumar
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Kaleem Sana
+info,player,Canada,Akhil Kumar
+info,registry,people,AR Maddela,5c861579
+info,registry,people,Akhil Kumar,2feb5b8d
+info,registry,people,Aqib Ilyas,b3b39bed
+info,registry,people,B Siddharth,80de053e
+info,registry,people,DS Bajwa,e3540b8c
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Hammad Mirza,0b7b78c6
+info,registry,people,Jatinder Singh,b80dd12c
+info,registry,people,K Tathgur,f190c775
+info,registry,people,Kaleem Sana,14810ee7
+info,registry,people,Kaleemullah,72253b87
+info,registry,people,Khalid Kail,3ee90b67
+info,registry,people,Mehran Khan,d7bfcc0b
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Neeyamur Rashid,bd81a027
+info,registry,people,Parveen Kumar,e6b3c3cc
+info,registry,people,R Shah,3424e050
+info,registry,people,Rafiullah,369cc49c
+info,registry,people,Ravinderpal Singh,f80682f8
+info,registry,people,S Movva,ee229588
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,Shakeel Ahmed,e29e9c12
+info,registry,people,Shoaib Khan,21afb939
+info,registry,people,V Sudhakar,816e48f6
+info,registry,people,Zeeshan Maqsood,34464143

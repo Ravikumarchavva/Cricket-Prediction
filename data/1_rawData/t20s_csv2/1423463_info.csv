@@ -1,0 +1,69 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Tanzania
+info,team,South Africa
+info,gender,female
+info,season,2023/24
+info,date,2024/03/08
+info,event,Women's African Games
+info,match_number,5
+info,venue,"Achimota Senior Secondary School A Field, Accra"
+info,city,Accra
+info,toss_winner,Tanzania
+info,toss_decision,bat
+info,player_of_match,N Shangase
+info,umpire,Habib Enesi
+info,umpire,P Sizara
+info,reserve_umpire,IO Oyieko
+info,match_referee,ET Dube
+info,winner,South Africa
+info,winner_wickets,8
+info,player,Tanzania,S Mtae
+info,player,Tanzania,PZ Kamunya
+info,player,Tanzania,NJ Pius
+info,player,Tanzania,HM Omary
+info,player,Tanzania,AS Qwele
+info,player,Tanzania,MA Swedy
+info,player,Tanzania,A Mohamed
+info,player,Tanzania,TS Omary
+info,player,Tanzania,SF Jerome
+info,player,Tanzania,SD Hussein
+info,player,Tanzania,MH Ushanga
+info,player,South Africa,A Dercksen
+info,player,South Africa,J Botha
+info,player,South Africa,F Tunnicliffe
+info,player,South Africa,N Shangase
+info,player,South Africa,K Meso
+info,player,South Africa,J Winster
+info,player,South Africa,L Jones
+info,player,South Africa,K Reyneke
+info,player,South Africa,S Naidu
+info,player,South Africa,M Smit
+info,player,South Africa,G Jafta
+info,registry,people,A Dercksen,d2b1f515
+info,registry,people,A Mohamed,86a68879
+info,registry,people,AS Qwele,26b3df21
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Tunnicliffe,41f534cd
+info,registry,people,G Jafta,c7fee762
+info,registry,people,HM Omary,2cbe5db1
+info,registry,people,Habib Enesi,fb35ab1f
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,J Botha,eae9fe8a
+info,registry,people,J Winster,ecb8ba2c
+info,registry,people,K Meso,130336c6
+info,registry,people,K Reyneke,9e5f4ad7
+info,registry,people,L Jones,c7fcc20b
+info,registry,people,M Smit,996ed07c
+info,registry,people,MA Swedy,202ce08c
+info,registry,people,MH Ushanga,0286eabe
+info,registry,people,N Shangase,b17a4a93
+info,registry,people,NJ Pius,f4270fc7
+info,registry,people,P Sizara,5d45bb7f
+info,registry,people,PZ Kamunya,6e60bbe2
+info,registry,people,S Mtae,bb641155
+info,registry,people,S Naidu,ff20c3ed
+info,registry,people,SD Hussein,5f36cd39
+info,registry,people,SF Jerome,e393c6c1
+info,registry,people,Saidat Mbaki,91d279d9
+info,registry,people,TS Omary,88e90658

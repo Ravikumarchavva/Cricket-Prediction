@@ -1,0 +1,64 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Gibraltar
+info,team,Luxembourg
+info,gender,male
+info,season,2023/24
+info,date,2023/10/15
+info,event,Luxembourg tour of Gibraltar
+info,match_number,1
+info,venue,Europa Sports Complex
+info,city,Gibraltar
+info,toss_winner,Luxembourg
+info,toss_decision,field
+info,player_of_match,KJ Stagno
+info,umpire,S Maynard
+info,umpire,T Atoloye
+info,winner,Gibraltar
+info,winner_runs,24
+info,player,Gibraltar,BA Pai
+info,player,Gibraltar,L Bruce
+info,player,Gibraltar,KJ Stagno
+info,player,Gibraltar,P Hatchman
+info,player,Gibraltar,K Nestor
+info,player,Gibraltar,S Bodha
+info,player,Gibraltar,JA Fitzgerald
+info,player,Gibraltar,K Mirpuri
+info,player,Gibraltar,J Horrocks
+info,player,Gibraltar,A Reyes
+info,player,Gibraltar,A Sawyer
+info,player,Luxembourg,TC Barker
+info,player,Luxembourg,SKS Gill
+info,player,Luxembourg,V Vijh
+info,player,Luxembourg,Anoop Orsu
+info,player,Luxembourg,J Barker
+info,player,Luxembourg,T Martin
+info,player,Luxembourg,J Mees
+info,player,Luxembourg,M Dixit
+info,player,Luxembourg,Milad Momend
+info,player,Luxembourg,H Virdee
+info,player,Luxembourg,A Nanda
+info,registry,people,A Nanda,704e0160
+info,registry,people,A Reyes,fd2b8c06
+info,registry,people,A Sawyer,201d3a67
+info,registry,people,Anoop Orsu,488b7e22
+info,registry,people,BA Pai,716bf559
+info,registry,people,H Virdee,38952986
+info,registry,people,J Barker,c18cecbe
+info,registry,people,J Horrocks,1c8cd1c3
+info,registry,people,J Mees,ab1445ea
+info,registry,people,JA Fitzgerald,4e6ff836
+info,registry,people,K Mirpuri,441006af
+info,registry,people,K Nestor,b89cde87
+info,registry,people,KJ Stagno,46ad7e01
+info,registry,people,L Bruce,2a03bd2f
+info,registry,people,M Dixit,d85d52c2
+info,registry,people,Milad Momend,84880baf
+info,registry,people,P Hatchman,b504e8b8
+info,registry,people,S Bodha,00467a76
+info,registry,people,S Maynard,12a7e02a
+info,registry,people,SKS Gill,faef026c
+info,registry,people,T Atoloye,9d4f3a74
+info,registry,people,T Martin,32e97806
+info,registry,people,TC Barker,c31adb5c
+info,registry,people,V Vijh,b857468a

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bahrain
+info,team,Tanzania
+info,gender,male
+info,season,2023/24
+info,date,2024/03/09
+info,event,Malaysia Open T20 Championship
+info,match_number,8
+info,venue,"Bayuemas Oval, Kuala Lumpur"
+info,city,Kuala Lumpur
+info,toss_winner,Tanzania
+info,toss_decision,field
+info,player_of_match,Rizwan Butt
+info,umpire,N Sivan
+info,umpire,V Kalidas
+info,reserve_umpire,Nasir Ali
+info,tv_umpire,Sarika Prasad
+info,match_referee,Edwin Seah
+info,winner,Bahrain
+info,winner_runs,52
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Sarfaraz Ali
+info,player,Bahrain,Sohail Ahmed
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Ahmer Bin Nisar
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,S Veerapathiran
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Tanzania,II Selemani
+info,player,Tanzania,J Masquater
+info,player,Tanzania,MO Kitunda
+info,player,Tanzania,K Nassoro
+info,player,Tanzania,SA Jumbe
+info,player,Tanzania,M Yunusu Issa
+info,player,Tanzania,S Thakor
+info,player,Tanzania,ZR Jaboneke
+info,player,Tanzania,AM Kimote
+info,player,Tanzania,JJ Nyambo
+info,player,Tanzania,YM Nkanya
+info,registry,people,AM Kimote,34e36b65
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Ahmer Bin Nisar,afbc53ba
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Edwin Seah,be24f868
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,II Selemani,b2dadc51
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,J Masquater,f6d3cab2
+info,registry,people,JJ Nyambo,ffb3b559
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,K Nassoro,29ee9bf9
+info,registry,people,M Yunusu Issa,bbab35a3
+info,registry,people,MO Kitunda,badef0dc
+info,registry,people,N Sivan,8f4a0102
+info,registry,people,Nasir Ali,567675c8
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,S Thakor,0848ac5f
+info,registry,people,S Veerapathiran,1e569fb0
+info,registry,people,SA Jumbe,91056862
+info,registry,people,Sarfaraz Ali,db95ddeb
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Sohail Ahmed,4db71b2e
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,V Kalidas,42d76418
+info,registry,people,YM Nkanya,9238dd92
+info,registry,people,ZR Jaboneke,438aef39

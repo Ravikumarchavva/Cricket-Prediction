@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Cameroon
+info,team,Mozambique
+info,gender,female
+info,season,2023
+info,date,2023/09/05
+info,event,ICC Women's T20 World Cup Africa Region Division Two Qualifier
+info,match_number,9
+info,venue,"Botswana Cricket Association Oval 1, Gaborone"
+info,city,Gaborone
+info,toss_winner,Mozambique
+info,toss_decision,field
+info,player_of_match,MLN Sissako
+info,umpire,EB French
+info,umpire,F Mutizwa
+info,reserve_umpire,Lauren Agenbag
+info,match_referee,SA Fritz
+info,winner,Cameroon
+info,winner_runs,33
+info,player,Cameroon,MLN Sissako
+info,player,Cameroon,MSN Ekani
+info,player,Cameroon,ME Bessala
+info,player,Cameroon,CD Mboe
+info,player,Cameroon,BMA Mbida
+info,player,Cameroon,O Ranedoumoun
+info,player,Cameroon,B Waluma
+info,player,Cameroon,CI Manidom
+info,player,Cameroon,TMA Leslie
+info,player,Cameroon,EGS Kana
+info,player,Cameroon,SA Akenji
+info,player,Mozambique,P Cuinica
+info,player,Mozambique,II Mabunda
+info,player,Mozambique,IE Mulhovo
+info,player,Mozambique,C Magaia
+info,player,Mozambique,FA Zavala
+info,player,Mozambique,O Matsolo
+info,player,Mozambique,I Chuma
+info,player,Mozambique,RF Duvane
+info,player,Mozambique,AA Moiane
+info,player,Mozambique,A Salomao
+info,player,Mozambique,RO Mazumba
+info,registry,people,A Salomao,04e145f4
+info,registry,people,AA Moiane,80190078
+info,registry,people,B Waluma,fb56dda6
+info,registry,people,BMA Mbida,e3c23cef
+info,registry,people,C Magaia,bb4d1237
+info,registry,people,CD Mboe,14198941
+info,registry,people,CI Manidom,f0396c01
+info,registry,people,EB French,971e4db1
+info,registry,people,EGS Kana,8a91d0f1
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,FA Zavala,2edfa6a8
+info,registry,people,I Chuma,b1021056
+info,registry,people,IE Mulhovo,ab750f1f
+info,registry,people,II Mabunda,b2cd0f90
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,ME Bessala,a8301fdc
+info,registry,people,MLN Sissako,52a0e81d
+info,registry,people,MSN Ekani,46c81920
+info,registry,people,O Matsolo,3c4a62c4
+info,registry,people,O Ranedoumoun,71ee8c8d
+info,registry,people,P Cuinica,efca38df
+info,registry,people,RF Duvane,e8271d27
+info,registry,people,RO Mazumba,2a753483
+info,registry,people,SA Akenji,d1504c13
+info,registry,people,SA Fritz,d15e60c8
+info,registry,people,TMA Leslie,c7fa1e4c

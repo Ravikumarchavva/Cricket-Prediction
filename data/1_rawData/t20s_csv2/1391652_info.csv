@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Myanmar
+info,gender,female
+info,season,2023
+info,date,2023/08/27
+info,event,Myanmar Women tour of Singapore
+info,match_number,3
+info,venue,Turf City B Cricket Ground
+info,city,Singapore
+info,toss_winner,Myanmar
+info,toss_decision,field
+info,player_of_match,MPP San
+info,umpire,Sathish Balasubramaniam
+info,umpire,S Ramesh
+info,reserve_umpire,T Sathyendra Kumar
+info,match_referee,T Senthil Kumar
+info,winner,Myanmar
+info,winner_wickets,9
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,S Merican
+info,player,Singapore,Shafina Mahesh
+info,player,Singapore,RR Seth
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,GK Diviya
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,Damini Ramesh
+info,player,Singapore,NL Jacinta Si Ping
+info,player,Singapore,RK Raval
+info,player,Myanmar,LL Htun
+info,player,Myanmar,MPP San
+info,player,Myanmar,TT Soe
+info,player,Myanmar,KM Myat
+info,player,Myanmar,ZT Kyaw
+info,player,Myanmar,ZL Win
+info,player,Myanmar,Thae Thae Po
+info,player,Myanmar,San Nyo Htwe
+info,player,Myanmar,SY Win
+info,player,Myanmar,Pan Ei Phyu
+info,player,Myanmar,Zon Lin
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Damini Ramesh,c4480b25
+info,registry,people,GK Diviya,992979fa
+info,registry,people,KM Myat,c1b4e25c
+info,registry,people,LL Htun,ec687c3a
+info,registry,people,MPP San,5bc290a2
+info,registry,people,NL Jacinta Si Ping,68c9a36f
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,Pan Ei Phyu,9fcaeb60
+info,registry,people,RK Raval,96611f9f
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,S Merican,f3f6f5a0
+info,registry,people,S Ramesh,6055237d
+info,registry,people,SY Win,33d65ab4
+info,registry,people,San Nyo Htwe,11430949
+info,registry,people,Sathish Balasubramaniam,b4794f2a
+info,registry,people,Shafina Mahesh,0c40b02d
+info,registry,people,T Sathyendra Kumar,f56197be
+info,registry,people,T Senthil Kumar,961ddfac
+info,registry,people,TT Soe,59f44fde
+info,registry,people,Thae Thae Po,48a372a4
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,ZL Win,b5714cf9
+info,registry,people,ZT Kyaw,cdf63aaa
+info,registry,people,Zon Lin,3b492b8d

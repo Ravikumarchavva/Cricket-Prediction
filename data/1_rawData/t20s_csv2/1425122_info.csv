@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,United States of America
+info,team,Canada
+info,gender,male
+info,season,2024
+info,date,2024/04/09
+info,event,Canada tour of United States of America
+info,match_number,2
+info,venue,Prairie View Cricket Complex
+info,city,Houston
+info,toss_winner,Canada
+info,toss_decision,field
+info,player_of_match,MD Patel
+info,umpire,A Gajjar
+info,umpire,Vijaya Mallela
+info,tv_umpire,Jermaine Lindo
+info,match_referee,Reon King
+info,winner,United States of America
+info,winner_runs,31
+info,player,United States of America,SR Taylor
+info,player,United States of America,MD Patel
+info,player,United States of America,AGS Gous
+info,player,United States of America,Aaron Jones
+info,player,United States of America,SC van Schalkwyk
+info,player,United States of America,Milind Kumar
+info,player,United States of America,NK Patel
+info,player,United States of America,Jasdeep Singh
+info,player,United States of America,NP Kenjige
+info,player,United States of America,SN Netravalkar
+info,player,United States of America,Harmeet Singh
+info,player,Canada,A Johnson
+info,player,Canada,SA Wijeratne
+info,player,Canada,Pargat Singh
+info,player,Canada,NR Kirton
+info,player,Canada,NS Dhaliwal
+info,player,Canada,H Thaker
+info,player,Canada,Saad Bin Zafar
+info,player,Canada,Parveen Kumar
+info,player,Canada,D Heyliger
+info,player,Canada,RR Joshi
+info,player,Canada,U Bhagwan
+info,registry,people,A Gajjar,37db06ef
+info,registry,people,A Johnson,a28a7fba
+info,registry,people,AGS Gous,d1305df0
+info,registry,people,Aaron Jones,17aa4f1d
+info,registry,people,D Heyliger,f8c72766
+info,registry,people,H Thaker,c01d7726
+info,registry,people,Harmeet Singh,0bf15e52
+info,registry,people,Jasdeep Singh,5ec41cd7
+info,registry,people,Jermaine Lindo,1154bf4f
+info,registry,people,MD Patel,25d7f1ac
+info,registry,people,Milind Kumar,b4296080
+info,registry,people,NK Patel,c6e10e5c
+info,registry,people,NP Kenjige,f7d267f7
+info,registry,people,NR Kirton,6b75c2b1
+info,registry,people,NS Dhaliwal,cbabd6ad
+info,registry,people,Pargat Singh,d2e67105
+info,registry,people,Parveen Kumar,e6b3c3cc
+info,registry,people,RR Joshi,a323465c
+info,registry,people,Reon King,20fbf68c
+info,registry,people,SA Wijeratne,5fbd0632
+info,registry,people,SC van Schalkwyk,97b0e4ff
+info,registry,people,SN Netravalkar,c8a3f688
+info,registry,people,SR Taylor,a9231c3f
+info,registry,people,Saad Bin Zafar,f28a60e0
+info,registry,people,U Bhagwan,44a2bb4f
+info,registry,people,Vijaya Mallela,85b6244a

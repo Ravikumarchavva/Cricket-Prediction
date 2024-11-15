@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bulgaria
+info,team,Romania
+info,gender,male
+info,season,2024
+info,date,2024/05/24
+info,event,Continental Cup
+info,match_number,3
+info,venue,"Moara Vlasiei Cricket Ground, Ilfov County"
+info,city,Ilfov County
+info,toss_winner,Bulgaria
+info,toss_decision,bat
+info,player_of_match,Taranjeet Singh
+info,umpire,A Begg
+info,umpire,Syed Atif Naqvi
+info,reserve_umpire,I Doekhie
+info,match_referee,K Chavan
+info,winner,Romania
+info,winner_wickets,7
+info,player,Bulgaria,D Nikolov
+info,player,Bulgaria,Manan Bashir
+info,player,Bulgaria,Firas Hussain
+info,player,Bulgaria,M Gogev
+info,player,Bulgaria,P Mishra
+info,player,Bulgaria,Isa Zaroo
+info,player,Bulgaria,Zaid Soulat
+info,player,Bulgaria,Zeerak Chughtai
+info,player,Bulgaria,Danyal Raja
+info,player,Bulgaria,Gagandeep Singh
+info,player,Bulgaria,B Ivanov
+info,player,Romania,S Nadigotla
+info,player,Romania,Taranjeet Singh
+info,player,Romania,Muhammad Moiz
+info,player,Romania,A Rajshekara
+info,player,Romania,KA Vimlesh
+info,player,Romania,S Vashisht
+info,player,Romania,S Periyalwar
+info,player,Romania,Luca Petre
+info,player,Romania,Asif Bevinje
+info,player,Romania,R Kumar
+info,player,Romania,M Koli
+info,registry,people,A Begg,ef618cab
+info,registry,people,A Rajshekara,1f3e41fe
+info,registry,people,Asif Bevinje,9865ed99
+info,registry,people,B Ivanov,7d4f6e1f
+info,registry,people,D Nikolov,9c3a8776
+info,registry,people,Danyal Raja,324e00a9
+info,registry,people,Firas Hussain,261d591a
+info,registry,people,Gagandeep Singh,4a370769
+info,registry,people,I Doekhie,b37e3c48
+info,registry,people,Isa Zaroo,9822fb85
+info,registry,people,K Chavan,7ca4ac4f
+info,registry,people,KA Vimlesh,6d2081aa
+info,registry,people,Luca Petre,b31d458f
+info,registry,people,M Gogev,995fd3b2
+info,registry,people,M Koli,eb0f2802
+info,registry,people,Manan Bashir,5c14bd52
+info,registry,people,Muhammad Moiz,906b7d48
+info,registry,people,P Mishra,3fa5672e
+info,registry,people,R Kumar,2df874e6
+info,registry,people,S Nadigotla,b78b3ffd
+info,registry,people,S Periyalwar,d207e4fb
+info,registry,people,S Vashisht,20ac8219
+info,registry,people,Syed Atif Naqvi,1e2a1dff
+info,registry,people,Taranjeet Singh,ec483176
+info,registry,people,Zaid Soulat,14cbe9b7
+info,registry,people,Zeerak Chughtai,ff0b1636

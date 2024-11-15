@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Malaysia
+info,gender,female
+info,season,2024
+info,date,2024/07/22
+info,event,Women's Asia Cup
+info,match_number,7
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Sri Lanka
+info,toss_decision,bat
+info,player_of_match,AC Jayangani
+info,umpire,Saleema Imtiaz
+info,umpire,Shathira Jakir
+info,reserve_umpire,VG Rathi
+info,tv_umpire,H Yerzal
+info,match_referee,GS Lakshmi
+info,winner,Sri Lanka
+info,winner_runs,144
+info,player,Sri Lanka,RMVD Gunaratne
+info,player,Sri Lanka,AC Jayangani
+info,player,Sri Lanka,H Madavi
+info,player,Sri Lanka,MAA Sanjeewani
+info,player,Sri Lanka,WK Dilhari
+info,player,Sri Lanka,NND de Silva
+info,player,Sri Lanka,KADA Kanchana
+info,player,Sri Lanka,SIP Fernando
+info,player,Sri Lanka,K Kavindi
+info,player,Sri Lanka,S Nisansala
+info,player,Sri Lanka,S Gimhani
+info,player,Malaysia,WA Duraisingam
+info,player,Malaysia,Wan Julia
+info,player,Malaysia,Siow Tzin Yee
+info,player,Malaysia,Mahirah Izzati Ismail
+info,player,Malaysia,Ainna Hamizah Hashim
+info,player,Malaysia,Aina Najwa
+info,player,Malaysia,SM Dhanusri
+info,player,Malaysia,Aisya Eleesa
+info,player,Malaysia,Suabika Manivannan
+info,player,Malaysia,Nur Izzatul Syafiqa
+info,player,Malaysia,Amalin Sorfina
+info,registry,people,AC Jayangani,ac56b5a7
+info,registry,people,Aina Najwa,31453abb
+info,registry,people,Ainna Hamizah Hashim,4c7744de
+info,registry,people,Aisya Eleesa,2cd18a73
+info,registry,people,Amalin Sorfina,734cded2
+info,registry,people,BMSM Kumari,b55fb828
+info,registry,people,GS Lakshmi,ba8d5615
+info,registry,people,H Madavi,85021bcd
+info,registry,people,H Yerzal,86197ea5
+info,registry,people,K Kavindi,2fa916b3
+info,registry,people,KADA Kanchana,4ac6664d
+info,registry,people,MAA Sanjeewani,318a4039
+info,registry,people,Mahirah Izzati Ismail,b9b32e3c
+info,registry,people,NND de Silva,f0b4294e
+info,registry,people,Nur Izzatul Syafiqa,fc282a40
+info,registry,people,RMVD Gunaratne,9e866b59
+info,registry,people,S Gimhani,11b78c67
+info,registry,people,S Nisansala,1251a339
+info,registry,people,SIP Fernando,5838cb64
+info,registry,people,SM Dhanusri,4e4d2c20
+info,registry,people,Saleema Imtiaz,d17d21d5
+info,registry,people,Shathira Jakir,6b992a6f
+info,registry,people,Siow Tzin Yee,686b7194
+info,registry,people,Suabika Manivannan,a044506e
+info,registry,people,VG Rathi,144e5b16
+info,registry,people,WA Duraisingam,7467fe01
+info,registry,people,WK Dilhari,c34a15e6
+info,registry,people,Wan Julia,bee0c85c

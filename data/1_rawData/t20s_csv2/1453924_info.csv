@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Rwanda
+info,team,Seychelles
+info,gender,male
+info,season,2024/25
+info,date,2024/10/24
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,13
+info,venue,"Ruaraka Sports Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Rwanda
+info,toss_decision,bat
+info,player_of_match,Yves Cyusa
+info,umpire,F Mutizwa
+info,umpire,Morshed Ali Khan
+info,reserve_umpire,Charles Kariuki
+info,match_referee,ET Dube
+info,winner,Rwanda
+info,winner_runs,73
+info,player,Rwanda,O Manishimwe
+info,player,Rwanda,D Ndikubwimana
+info,player,Rwanda,I Niyomugabo
+info,player,Rwanda,D Gumyusenge
+info,player,Rwanda,Yves Cyusa
+info,player,Rwanda,C Rububagumya
+info,player,Rwanda,E Rukiriza
+info,player,Rwanda,Muhammad Nadir
+info,player,Rwanda,I Mugisha
+info,player,Rwanda,Z Bimenyimana
+info,player,Rwanda,I Ntirenganya
+info,player,Seychelles,T Horpinitch
+info,player,Seychelles,TKP Rajapaksha
+info,player,Seychelles,M Mariyappan
+info,player,Seychelles,Mazharul Islam
+info,player,Seychelles,SKDT Madusanka
+info,player,Seychelles,HL Harji
+info,player,Seychelles,STRA de Silva
+info,player,Seychelles,Jobayer Hossen
+info,player,Seychelles,SR Mohan
+info,player,Seychelles,N Krishna
+info,player,Seychelles,S Rukmal
+info,registry,people,C Rububagumya,8088632c
+info,registry,people,Charles Kariuki,8de34db0
+info,registry,people,D Gumyusenge,eeb78e0a
+info,registry,people,D Ndikubwimana,3cbedf51
+info,registry,people,E Rukiriza,3ac13a94
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Mutizwa,d3e83eef
+info,registry,people,HL Harji,29663fda
+info,registry,people,I Mugisha,d3eedb51
+info,registry,people,I Niyomugabo,72bf5103
+info,registry,people,I Ntirenganya,e73f6c4b
+info,registry,people,Jobayer Hossen,656fc15b
+info,registry,people,M Mariyappan,69cbd850
+info,registry,people,Mazharul Islam,30564b3e
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Nadir,090f96e4
+info,registry,people,N Krishna,c62a0327
+info,registry,people,O Manishimwe,fb31ca49
+info,registry,people,S Rukmal,f5be7b08
+info,registry,people,SKDT Madusanka,95c2d309
+info,registry,people,SR Mohan,58533699
+info,registry,people,STRA de Silva,21fe743b
+info,registry,people,T Horpinitch,90c734f8
+info,registry,people,TKP Rajapaksha,b5dcec37
+info,registry,people,Yves Cyusa,b5aa28ce
+info,registry,people,Z Bimenyimana,ba57fb08

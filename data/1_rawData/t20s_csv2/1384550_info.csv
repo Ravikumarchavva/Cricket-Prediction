@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Scotland
+info,team,Netherlands
+info,gender,female
+info,season,2023
+info,date,2023/07/15
+info,event,Netherlands Women's T20I Tri-Series
+info,match_number,6
+info,venue,"Sportpark Maarschalkerweerd, Utrecht"
+info,city,Utrecht
+info,toss_winner,Netherlands
+info,toss_decision,field
+info,umpire,M Hancock
+info,umpire,Rizwan Akram
+info,reserve_umpire,WPM van Liemt
+info,match_referee,Adriaan van den Dries
+info,winner,Netherlands
+info,winner_wickets,7
+info,player,Scotland,A Lister
+info,player,Scotland,DEM Carter
+info,player,Scotland,KE Bryce
+info,player,Scotland,SJ Bryce
+info,player,Scotland,L Jack
+info,player,Scotland,S Haggo
+info,player,Scotland,EL Watson
+info,player,Scotland,M McColl
+info,player,Scotland,R Slater
+info,player,Scotland,HRA Rainey
+info,player,Scotland,AH Maqsood
+info,player,Netherlands,HDJ Siegers
+info,player,Netherlands,IJR Zwilling
+info,player,Netherlands,B de Leede
+info,player,Netherlands,R Rijke
+info,player,Netherlands,P Molkenboer
+info,player,Netherlands,EN Lynch
+info,player,Netherlands,C de Lange
+info,player,Netherlands,HWA Landheer
+info,player,Netherlands,J van Vliet
+info,player,Netherlands,AH Thomson
+info,player,Netherlands,I van der Woning
+info,registry,people,A Lister,090c0213
+info,registry,people,AH Maqsood,f61e2829
+info,registry,people,AH Thomson,5d2031f0
+info,registry,people,Adriaan van den Dries,94b5ec3b
+info,registry,people,B de Leede,b3020075
+info,registry,people,C de Lange,c6a019f5
+info,registry,people,DEM Carter,c3394c16
+info,registry,people,EL Watson,45dd7433
+info,registry,people,EN Lynch,4d35d0b3
+info,registry,people,HDJ Siegers,6d48df01
+info,registry,people,HRA Rainey,7027d12f
+info,registry,people,HWA Landheer,a6ec88f4
+info,registry,people,I van der Woning,5aa8574b
+info,registry,people,IJR Zwilling,47b32a5a
+info,registry,people,J van Vliet,cb665b69
+info,registry,people,KE Bryce,f13d3eba
+info,registry,people,L Jack,e565ceb7
+info,registry,people,M Hancock,deb8c9a5
+info,registry,people,M McColl,d5fa2ab3
+info,registry,people,P Molkenboer,fa9db243
+info,registry,people,R Rijke,42e4b276
+info,registry,people,R Slater,8a452195
+info,registry,people,Rizwan Akram,b5346f1e
+info,registry,people,S Haggo,35230fa3
+info,registry,people,SJ Bryce,2ca65aee
+info,registry,people,WPM van Liemt,2bd48588

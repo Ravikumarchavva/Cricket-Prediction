@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Singapore
+info,team,Kuwait
+info,gender,female
+info,season,2024/25
+info,date,2024/10/22
+info,event,Singapore Women's T20I Tri-Series
+info,match_number,3
+info,venue,Singapore National Cricket Ground
+info,city,Singapore
+info,toss_winner,Singapore
+info,toss_decision,bat
+info,player_of_match,Mariamma Hyder
+info,umpire,Shriya Kumari
+info,umpire,KSVP Venu Madhav
+info,reserve_umpire,V Prabhu
+info,match_referee,A Natarajan
+info,winner,Kuwait
+info,winner_wickets,5
+info,player,Singapore,GK Diviya
+info,player,Singapore,R Gnanaraj
+info,player,Singapore,Vinu Kumar
+info,player,Singapore,RR Seth
+info,player,Singapore,Ada Bhasin
+info,player,Singapore,DA Galia
+info,player,Singapore,Riyaa Bhasin
+info,player,Singapore,PSR Gurusinghe
+info,player,Singapore,JS Pooranakaran
+info,player,Singapore,I Shukla
+info,player,Singapore,C Boyle
+info,player,Kuwait,Priyada Murali
+info,player,Kuwait,Zeefa Jilani
+info,player,Kuwait,Khadija Khalil
+info,player,Kuwait,B Shanti
+info,player,Kuwait,Amna Tariq
+info,player,Kuwait,S Lita D'Sa
+info,player,Kuwait,SL Gomez
+info,player,Kuwait,Maryyam Ashraf
+info,player,Kuwait,Mariamma Hyder
+info,player,Kuwait,Maria Jasvi
+info,player,Kuwait,CJ Dias
+info,registry,people,A Natarajan,a2b73ae0
+info,registry,people,Ada Bhasin,b1c113d7
+info,registry,people,Amna Tariq,44b53fba
+info,registry,people,B Shanti,f50ca46d
+info,registry,people,C Boyle,11374353
+info,registry,people,CJ Dias,7e6a3f17
+info,registry,people,DA Galia,ae0b5b95
+info,registry,people,GK Diviya,992979fa
+info,registry,people,I Shukla,ce490298
+info,registry,people,JS Pooranakaran,417bde96
+info,registry,people,KSVP Venu Madhav,8c7fb752
+info,registry,people,Khadija Khalil,7c61a686
+info,registry,people,Maria Jasvi,4bed6af7
+info,registry,people,Mariamma Hyder,c8ae2573
+info,registry,people,Maryyam Ashraf,1b9d3eb3
+info,registry,people,PSR Gurusinghe,591a7004
+info,registry,people,Priyada Murali,f4b942ae
+info,registry,people,R Gnanaraj,6ab0658d
+info,registry,people,RR Seth,7ccc0a38
+info,registry,people,Riyaa Bhasin,3ff26cea
+info,registry,people,S Lita D'Sa,a289cfa0
+info,registry,people,SL Gomez,02264be0
+info,registry,people,Shriya Kumari,5e452781
+info,registry,people,V Prabhu,9d46f7c2
+info,registry,people,Vinu Kumar,3775b9f9
+info,registry,people,Zeefa Jilani,3f2b40f0

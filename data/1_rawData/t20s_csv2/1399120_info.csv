@@ -1,0 +1,67 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Afghanistan
+info,team,India
+info,gender,male
+info,season,2023
+info,date,2023/10/07
+info,event,Asian Games Men's Cricket Competition
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,India
+info,toss_decision,field
+info,umpire,Masudur Rahman
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,Ramasamy Venkatesh
+info,tv_umpire,Asif Yaqoob
+info,match_referee,GF Labrooy
+info,outcome,no result
+info,player,Afghanistan,Zubaid Akbari
+info,player,Afghanistan,Mohammad Shahzad
+info,player,Afghanistan,Noor Ali Zadran
+info,player,Afghanistan,Shahidullah
+info,player,Afghanistan,Afsar Zazai
+info,player,Afghanistan,Karim Janat
+info,player,Afghanistan,Gulbadin Naib
+info,player,Afghanistan,Sharafuddin Ashraf
+info,player,Afghanistan,Qais Ahmad
+info,player,Afghanistan,Fareed Ahmad
+info,player,Afghanistan,Zahir Khan
+info,player,India,RD Gaikwad
+info,player,India,YBK Jaiswal
+info,player,India,Tilak Varma
+info,player,India,JM Sharma
+info,player,India,RK Singh
+info,player,India,S Dube
+info,player,India,Washington Sundar
+info,player,India,Shahbaz Ahmed
+info,player,India,R Sai Kishore
+info,player,India,Ravi Bishnoi
+info,player,India,Arshdeep Singh
+info,registry,people,Afsar Zazai,50930025
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Fareed Ahmad,67b7bad4
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,Gulbadin Naib,9f77963a
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,Karim Janat,62175638
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mohammad Shahzad,d6dcb0c9
+info,registry,people,Noor Ali Zadran,72e46d30
+info,registry,people,Qais Ahmad,8d5d991e
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Ramasamy Venkatesh,8ad68ea7
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Shahidullah,82b90140
+info,registry,people,Sharafuddin Ashraf,7e678d00
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,Zahir Khan,786b7fe8
+info,registry,people,Zubaid Akbari,a18d14c7

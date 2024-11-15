@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,England
+info,team,Ireland
+info,gender,female
+info,season,2024
+info,date,2024/09/14
+info,event,England Women tour of Ireland
+info,match_number,1
+info,venue,"Castle Avenue, Dublin"
+info,city,Dublin
+info,toss_winner,Ireland
+info,toss_decision,field
+info,player_of_match,BF Smith
+info,umpire,Jonathan Kennedy
+info,umpire,Lauren Agenbag
+info,reserve_umpire,Aidan Seaver
+info,tv_umpire,R Black
+info,match_referee,Philip Thompson
+info,winner,England
+info,winner_runs,67
+info,player,England,BF Smith
+info,player,England,TT Beaumont
+info,player,England,S Smale
+info,player,England,PJ Scholfield
+info,player,England,GL Adams
+info,player,England,HJ Armitage
+info,player,England,MK Villiers
+info,player,England,C Pavely
+info,player,England,IECM Wong
+info,player,England,KL Cross
+info,player,England,M Gaur
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Paul
+info,player,Ireland,R Stokell
+info,player,Ireland,S Forbes
+info,player,Ireland,AN Kelly
+info,player,Ireland,A Canning
+info,player,Ireland,J Maguire
+info,player,Ireland,FA Sargent
+info,player,Ireland,AK Maguire
+info,registry,people,A Canning,ffd5fcd8
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AK Maguire,f888a374
+info,registry,people,AN Kelly,397369e0
+info,registry,people,Aidan Seaver,862c0b16
+info,registry,people,BF Smith,c64b7c5b
+info,registry,people,C Pavely,907e5f6c
+info,registry,people,FA Sargent,fa6e2cb3
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,GL Adams,7b1f2542
+info,registry,people,HJ Armitage,f05167d2
+info,registry,people,IECM Wong,e5b17517
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,Jonathan Kennedy,f7ad4494
+info,registry,people,KL Cross,1ade138e
+info,registry,people,L Paul,07248d8e
+info,registry,people,Lauren Agenbag,40849abd
+info,registry,people,M Gaur,df9cdebf
+info,registry,people,MK Villiers,cd62f670
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,PJ Scholfield,588360ee
+info,registry,people,Philip Thompson,0c677650
+info,registry,people,R Black,156c8fb1
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,S Forbes,5ecfab18
+info,registry,people,S Smale,3247d54e
+info,registry,people,TT Beaumont,b2664905

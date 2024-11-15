@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Bangladesh
+info,team,India
+info,gender,male
+info,season,2023
+info,date,2023/10/06
+info,event,Asian Games Men's Cricket Competition
+info,venue,Zhejiang University of Technology Cricket Field
+info,city,Hangzhou
+info,toss_winner,India
+info,toss_decision,field
+info,umpire,Asif Yaqoob
+info,umpire,Mahmood Kharoti
+info,reserve_umpire,Sarika Prasad
+info,tv_umpire,RSA Palliyaguruge
+info,match_referee,GF Labrooy
+info,winner,India
+info,winner_wickets,9
+info,player,Bangladesh,Parvez Hossain Emon
+info,player,Bangladesh,Mahmudul Hasan Joy
+info,player,Bangladesh,Saif Hassan
+info,player,Bangladesh,Zakir Hasan
+info,player,Bangladesh,Afif Hossain
+info,player,Bangladesh,Shahadat Hossain
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Mrittunjoy Chowdhury
+info,player,Bangladesh,Rakibul Hasan
+info,player,Bangladesh,R Mondol
+info,player,Bangladesh,Hasan Murad
+info,player,India,YBK Jaiswal
+info,player,India,RD Gaikwad
+info,player,India,Tilak Varma
+info,player,India,JM Sharma
+info,player,India,RK Singh
+info,player,India,S Dube
+info,player,India,Washington Sundar
+info,player,India,Shahbaz Ahmed
+info,player,India,R Sai Kishore
+info,player,India,Ravi Bishnoi
+info,player,India,Arshdeep Singh
+info,registry,people,Afif Hossain,37138918
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,GF Labrooy,8e088dbc
+info,registry,people,Hasan Murad,da9f58aa
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,Mahmood Kharoti,d8ff8121
+info,registry,people,Mahmudul Hasan Joy,4b51bd51
+info,registry,people,Mrittunjoy Chowdhury,21b97584
+info,registry,people,Parvez Hossain Emon,489aaf0a
+info,registry,people,R Mondol,492ff0c2
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,Rakibul Hasan,77768f72
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,Saif Hassan,bb95564b
+info,registry,people,Sarika Prasad,8ff397fa
+info,registry,people,Shahadat Hossain,69e23303
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Washington Sundar,f19ccfad
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,Zakir Hasan,e3e09091

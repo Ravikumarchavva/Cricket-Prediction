@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Spain
+info,team,Cyprus
+info,gender,male
+info,season,2024
+info,date,2024/08/21
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier Group C
+info,match_number,1
+info,venue,"King George V Sports Ground, Castel"
+info,city,Castel
+info,toss_winner,Cyprus
+info,toss_decision,field
+info,player_of_match,A Davidson Soler
+info,umpire,AY Harris
+info,umpire,AA Baig
+info,reserve_umpire,Jareth McCready
+info,match_referee,GH Pienaar
+info,winner,Spain
+info,winner_runs,15
+info,player,Spain,Muhammad Yasin
+info,player,Spain,Mohammad Ihsan
+info,player,Spain,Yasir Ali
+info,player,Spain,D Doyle-Calle
+info,player,Spain,Hamza Dar
+info,player,Spain,A Davidson Soler
+info,player,Spain,C Munoz-Mills
+info,player,Spain,LA Burns
+info,player,Spain,C Rumistrzewicz
+info,player,Spain,Raja Adeel
+info,player,Spain,Mohammad Atif
+info,player,Cyprus,R Mazumder
+info,player,Cyprus,P Deol
+info,player,Cyprus,J Chialoufas
+info,player,Cyprus,MPGT Ketiyage
+info,player,Cyprus,CPPM Sadun
+info,player,Cyprus,Taranjit Singh
+info,player,Cyprus,A Shahi
+info,player,Cyprus,R Siriwardena
+info,player,Cyprus,B Mahesh
+info,player,Cyprus,V Khanduri
+info,player,Cyprus,SN Pathirana
+info,registry,people,A Davidson Soler,524943f1
+info,registry,people,A Shahi,2011735e
+info,registry,people,AA Baig,5c67c7a6
+info,registry,people,AY Harris,90d95b82
+info,registry,people,B Mahesh,90bd1f11
+info,registry,people,C Munoz-Mills,17bc032c
+info,registry,people,C Rumistrzewicz,3ed4e2ad
+info,registry,people,CPPM Sadun,2cf2fc9e
+info,registry,people,D Doyle-Calle,74be2916
+info,registry,people,GH Pienaar,3516e46b
+info,registry,people,Hamza Dar,557550a4
+info,registry,people,J Chialoufas,90eac542
+info,registry,people,Jareth McCready,84fa5232
+info,registry,people,LA Burns,5b616bf0
+info,registry,people,MPGT Ketiyage,2d45d7d2
+info,registry,people,Mohammad Atif,705b8c5c
+info,registry,people,Mohammad Ihsan,510e33d3
+info,registry,people,Muhammad Yasin,57888f3c
+info,registry,people,P Deol,ecfa6005
+info,registry,people,R Mazumder,b23d3ec5
+info,registry,people,R Siriwardena,c3ba4942
+info,registry,people,Raja Adeel,7ee25c46
+info,registry,people,SN Pathirana,f4000a7d
+info,registry,people,Taranjit Singh,985b649e
+info,registry,people,V Khanduri,f0f2b9c5
+info,registry,people,Yasir Ali,79209272

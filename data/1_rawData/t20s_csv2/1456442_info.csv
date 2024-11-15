@@ -1,0 +1,71 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,Sri Lanka
+info,gender,male
+info,season,2024/25
+info,date,2024/11/10
+info,event,New Zealand tour of Sri Lanka
+info,match_number,2
+info,venue,Rangiri Dambulla International Stadium
+info,city,Dambulla
+info,toss_winner,Sri Lanka
+info,toss_decision,field
+info,player_of_match,LH Ferguson
+info,umpire,RMPJ Rambukwella
+info,umpire,RSA Palliyaguruge
+info,reserve_umpire,RR Wimalasiri
+info,tv_umpire,LE Hannibal
+info,match_referee,RS Madugalle
+info,winner,New Zealand
+info,winner_runs,5
+info,player,New Zealand,TB Robinson
+info,player,New Zealand,WA Young
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MG Bracewell
+info,player,New Zealand,MJ Hay
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,JA Clarkson
+info,player,New Zealand,ZGF Foulkes
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,LH Ferguson
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,MDKJ Perera
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,PBB Rajapaksa
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,DN Wellalage
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,N Thushara
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HM Nicholls,03521fd3
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,JA Clarkson,bed90114
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,LE Hannibal,3c04e91a
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MDKJ Perera,f21043a5
+info,registry,people,MG Bracewell,e38bce7a
+info,registry,people,MJ Hay,732f711b
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,N Thushara,ee1b6c27
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PBB Rajapaksa,6c882e9a
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RMPJ Rambukwella,13fa6ffc
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,RS Madugalle,766b5798
+info,registry,people,RSA Palliyaguruge,4339c19d
+info,registry,people,TB Robinson,5d664346
+info,registry,people,WA Young,8afe73e2
+info,registry,people,ZGF Foulkes,30f92334

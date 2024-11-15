@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Zimbabwe
+info,team,Gambia
+info,gender,male
+info,season,2024/25
+info,date,2024/10/23
+info,event,ICC Men's T20 World Cup Sub Regional Africa Qualifier
+info,match_number,12
+info,venue,"Ruaraka Sports Club Ground, Nairobi"
+info,city,Nairobi
+info,toss_winner,Zimbabwe
+info,toss_decision,bat
+info,player_of_match,Sikandar Raza
+info,umpire,D Odhiambo
+info,umpire,IO Oyieko
+info,reserve_umpire,LB Gcuma
+info,match_referee,ET Dube
+info,winner,Zimbabwe
+info,winner_runs,290
+info,player,Zimbabwe,BJ Bennett
+info,player,Zimbabwe,T Marumani
+info,player,Zimbabwe,D Myers
+info,player,Zimbabwe,Sikandar Raza
+info,player,Zimbabwe,RP Burl
+info,player,Zimbabwe,C Madande
+info,player,Zimbabwe,W Madhevere
+info,player,Zimbabwe,T Musekiwa
+info,player,Zimbabwe,B Muzarabani
+info,player,Zimbabwe,B Mavuta
+info,player,Zimbabwe,R Ngarava
+info,player,Gambia,Ismaila Tanba
+info,player,Gambia,Muhammed Manga
+info,player,Gambia,Asim Ashraf
+info,player,Gambia,AM Rajpurohit
+info,player,Gambia,F Campbell
+info,player,Gambia,Mustapha Suwareh
+info,player,Gambia,Abubacarr Kuyateh
+info,player,Gambia,G Riley
+info,player,Gambia,M Jobarteh
+info,player,Gambia,Andre Jarju
+info,player,Gambia,Basiru Jaye
+info,registry,people,AM Rajpurohit,06b8bdb3
+info,registry,people,Abubacarr Kuyateh,0ec45a9a
+info,registry,people,Andre Jarju,53dd7d8e
+info,registry,people,Asim Ashraf,ca47f0fb
+info,registry,people,B Mavuta,dadb9703
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,BJ Bennett,eaa36b2a
+info,registry,people,Basiru Jaye,6e80042d
+info,registry,people,C Madande,3560a786
+info,registry,people,D Myers,d96165b5
+info,registry,people,D Odhiambo,45994517
+info,registry,people,ET Dube,4c0891bc
+info,registry,people,F Campbell,02c3024c
+info,registry,people,G Riley,af16cd9e
+info,registry,people,IO Oyieko,de4828fa
+info,registry,people,Ismaila Tanba,180e2c15
+info,registry,people,LB Gcuma,02ba88e3
+info,registry,people,M Jobarteh,4a2ce060
+info,registry,people,Muhammed Manga,6084f6ee
+info,registry,people,Mustapha Suwareh,44116edc
+info,registry,people,R Ngarava,6e3f5a5c
+info,registry,people,RP Burl,b08252b8
+info,registry,people,Sikandar Raza,26d041c4
+info,registry,people,T Marumani,3d5d51a5
+info,registry,people,T Musekiwa,06fc82b8
+info,registry,people,W Madhevere,a879b92c

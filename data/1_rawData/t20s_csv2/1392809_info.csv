@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Saudi Arabia
+info,team,Bahrain
+info,gender,male
+info,season,2023
+info,date,2023/09/18
+info,event,Gulf Cricket T20I Championship
+info,match_number,8
+info,venue,"West End Park International Cricket Stadium, Doha"
+info,city,Doha
+info,toss_winner,Saudi Arabia
+info,toss_decision,bat
+info,player_of_match,Rizwan Butt
+info,umpire,Imran Mustafa
+info,umpire,Mohammad Nasim
+info,reserve_umpire,Furqan Dawood Sange
+info,tv_umpire,Azad KR
+info,match_referee,Shivani Mishra
+info,winner,Bahrain
+info,winner_wickets,6
+info,player,Saudi Arabia,Kashif Abbas
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Saad Khan
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Ahmed Baladraf
+info,player,Saudi Arabia,Sarfraz Butt
+info,player,Saudi Arabia,Atif-Ur-Rehman
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Bahrain,Umer Imtiaz
+info,player,Bahrain,Imran Ali Butt
+info,player,Bahrain,Imran Anwar
+info,player,Bahrain,Haider Butt
+info,player,Bahrain,Fiaz Ahmed
+info,player,Bahrain,Junaid Aziz
+info,player,Bahrain,Abdul Majid Abbasi
+info,player,Bahrain,Rizwan Butt
+info,player,Bahrain,Ali Dawood
+info,player,Bahrain,Mohsin Zaki
+info,player,Bahrain,Yousif Wali
+info,registry,people,Abdul Majid Abbasi,0cfb42b5
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmed Baladraf,8bbb89ab
+info,registry,people,Ali Dawood,596982e6
+info,registry,people,Atif-Ur-Rehman,d20e22f7
+info,registry,people,Azad KR,d620b86a
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Fiaz Ahmed,df1f2f29
+info,registry,people,Furqan Dawood Sange,a46ccefa
+info,registry,people,Haider Butt,14fd10b5
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Imran Ali Butt,5d60560f
+info,registry,people,Imran Anwar,a9a18e3e
+info,registry,people,Imran Mustafa,f11bc2ff
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Junaid Aziz,c39ee9e0
+info,registry,people,Kashif Abbas,63578359
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Mohammad Nasim,0aaa8310
+info,registry,people,Mohsin Zaki,09c766ec
+info,registry,people,Rizwan Butt,e741ed8f
+info,registry,people,Saad Khan,28e0f645
+info,registry,people,Sarfraz Butt,b73625cb
+info,registry,people,Shivani Mishra,2982a0c7
+info,registry,people,Umer Imtiaz,7b729851
+info,registry,people,Yousif Wali,ed27d267
+info,registry,people,Zain Ul Abidin,b93b87ae

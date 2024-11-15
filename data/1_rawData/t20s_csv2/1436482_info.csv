@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Israel
+info,team,Hungary
+info,gender,male
+info,season,2024
+info,date,2024/06/12
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,match_number,12
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Israel
+info,toss_decision,bat
+info,player_of_match,Muhammad Burhan
+info,umpire,J Jensen
+info,umpire,MJ Saggers
+info,reserve_umpire,I McDonald
+info,match_referee,G McCrea
+info,winner,Hungary
+info,winner_wickets,1
+info,player,Israel,Yogev Nagavkar
+info,player,Israel,E Solomon
+info,player,Israel,S Bangera
+info,player,Israel,J Evans
+info,player,Israel,LSP Siriwardene
+info,player,Israel,Yair Nagavkar
+info,player,Israel,Niv Nagavkar
+info,player,Israel,Virendra Kumar
+info,player,Israel,T Kahamker
+info,player,Israel,Aviel Warsulkar
+info,player,Israel,Elan Talker
+info,player,Hungary,Abbas Ghani
+info,player,Hungary,V Ravindran
+info,player,Hungary,HV Mandhyan
+info,player,Hungary,Sheikh Rasik
+info,player,Hungary,Abhishek Ahuja
+info,player,Hungary,Amal Jacob
+info,player,Hungary,Ali Farasat
+info,player,Hungary,M Fontaine
+info,player,Hungary,Ali Yalmaz
+info,player,Hungary,Muhammad Burhan
+info,player,Hungary,Kamran Wahid
+info,registry,people,Abbas Ghani,a8f91f78
+info,registry,people,Abhishek Ahuja,65cf74b4
+info,registry,people,Ali Farasat,5845b99b
+info,registry,people,Ali Yalmaz,026e1314
+info,registry,people,Amal Jacob,5772882c
+info,registry,people,Aviel Warsulkar,5b7efabe
+info,registry,people,E Solomon,8da9a284
+info,registry,people,Elan Talker,bb939fa3
+info,registry,people,G McCrea,46f4a901
+info,registry,people,HV Mandhyan,11f56b14
+info,registry,people,I McDonald,37b55799
+info,registry,people,J Evans,027662be
+info,registry,people,J Jensen,fc80e7a2
+info,registry,people,Kamran Wahid,5592153b
+info,registry,people,LSP Siriwardene,f2637e05
+info,registry,people,M Fontaine,1339f52a
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Muhammad Burhan,a92609f2
+info,registry,people,Niv Nagavkar,e2abcf16
+info,registry,people,S Bangera,856fc47a
+info,registry,people,Sheikh Rasik,5f25b104
+info,registry,people,T Kahamker,125853c3
+info,registry,people,V Ravindran,e5ecb1ef
+info,registry,people,Virendra Kumar,20988564
+info,registry,people,Yair Nagavkar,138e30ab
+info,registry,people,Yogev Nagavkar,c85bea6b

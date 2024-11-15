@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Ireland
+info,team,Pakistan
+info,gender,female
+info,season,2022/23
+info,date,2022/11/14
+info,event,Ireland Women tour of Pakistan
+info,match_number,2
+info,venue,"Gaddafi Stadium, Lahore"
+info,city,Lahore
+info,toss_winner,Pakistan
+info,toss_decision,field
+info,player_of_match,Nida Dar
+info,umpire,Asif Yaqoob
+info,umpire,Faisal Afridi
+info,reserve_umpire,Imran Javed
+info,match_referee,Ali Naqvi
+info,winner,Pakistan
+info,winner_wickets,6
+info,player,Ireland,A Hunter
+info,player,Ireland,GH Lewis
+info,player,Ireland,O Prendergast
+info,player,Ireland,L Delany
+info,player,Ireland,EAJ Richardson
+info,player,Ireland,R Stokell
+info,player,Ireland,AN Kelly
+info,player,Ireland,L Little
+info,player,Ireland,MV Waldron
+info,player,Ireland,C Murray
+info,player,Ireland,J Maguire
+info,player,Pakistan,Javeria Khan
+info,player,Pakistan,Muneeba Ali
+info,player,Pakistan,Bismah Maroof
+info,player,Pakistan,Nida Dar
+info,player,Pakistan,Ayesha Naseem
+info,player,Pakistan,Aliya Riaz
+info,player,Pakistan,Umaima Sohail
+info,player,Pakistan,Fatima Sana
+info,player,Pakistan,Aiman Anwer
+info,player,Pakistan,Nashra Sandhu
+info,player,Pakistan,Ghulam Fatima
+info,registry,people,A Hunter,e8fa03ed
+info,registry,people,AN Kelly,397369e0
+info,registry,people,Aiman Anwer,c736a96b
+info,registry,people,Ali Naqvi,3c89fc88
+info,registry,people,Aliya Riaz,2904b4b6
+info,registry,people,Asif Yaqoob,6b35790c
+info,registry,people,Ayesha Naseem,8c2c0a03
+info,registry,people,Bismah Maroof,3b770527
+info,registry,people,C Murray,5a50471c
+info,registry,people,EAJ Richardson,50ee0500
+info,registry,people,Faisal Afridi,ed0bc503
+info,registry,people,Fatima Sana,ea9c54de
+info,registry,people,GH Lewis,1b9d1579
+info,registry,people,Ghulam Fatima,3d689960
+info,registry,people,Imran Javed,9a1405c8
+info,registry,people,J Maguire,1b1c23bb
+info,registry,people,Javeria Khan,d921449d
+info,registry,people,L Delany,b4f73b44
+info,registry,people,L Little,4f86926b
+info,registry,people,MV Waldron,2e4f11e9
+info,registry,people,Muneeba Ali,86fdf668
+info,registry,people,Nashra Sandhu,c981d3c2
+info,registry,people,Nida Dar,ed840f44
+info,registry,people,O Prendergast,d8f20ba5
+info,registry,people,R Stokell,def7b1bb
+info,registry,people,Umaima Sohail,821d7d46

@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,Bangladesh
+info,gender,male
+info,season,2023/24
+info,date,2024/03/04
+info,event,Sri Lanka tour of Bangladesh
+info,match_number,1
+info,venue,Sylhet International Cricket Stadium
+info,city,Sylhet
+info,toss_winner,Bangladesh
+info,toss_decision,field
+info,player_of_match,KIC Asalanka
+info,umpire,Masudur Rahman
+info,umpire,Tanvir Ahmed
+info,reserve_umpire,Gazi Sohel
+info,tv_umpire,Sharfuddoula
+info,match_referee,AJ Pycroft
+info,winner,Sri Lanka
+info,winner_runs,3
+info,player,Sri Lanka,WIA Fernando
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,PHKD Mendis
+info,player,Sri Lanka,S Samarawickrama
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,AD Mathews
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,A Dananjaya
+info,player,Sri Lanka,B Fernando
+info,player,Sri Lanka,M Pathirana
+info,player,Bangladesh,Liton Das
+info,player,Bangladesh,Soumya Sarkar
+info,player,Bangladesh,Nazmul Hossain Shanto
+info,player,Bangladesh,Towhid Hridoy
+info,player,Bangladesh,Mahmudullah
+info,player,Bangladesh,Jaker Ali
+info,player,Bangladesh,Mahedi Hasan
+info,player,Bangladesh,Rishad Hossain
+info,player,Bangladesh,Taskin Ahmed
+info,player,Bangladesh,Shoriful Islam
+info,player,Bangladesh,Mustafizur Rahman
+info,registry,people,A Dananjaya,5b16a806
+info,registry,people,AD Mathews,896d78ad
+info,registry,people,AJ Pycroft,685d3f80
+info,registry,people,B Fernando,dabbd0ae
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,Gazi Sohel,f0df3ed7
+info,registry,people,Jaker Ali,cd56a813
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,Liton Das,0404d43c
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,Mahedi Hasan,9dad0f2e
+info,registry,people,Mahmudullah,bf1d7d3e
+info,registry,people,Masudur Rahman,9581ac6b
+info,registry,people,Mustafizur Rahman,0a8fce53
+info,registry,people,Nazmul Hossain Shanto,1274d7ab
+info,registry,people,PHKD Mendis,08548b13
+info,registry,people,Rishad Hossain,5935d694
+info,registry,people,S Samarawickrama,9ab2914d
+info,registry,people,Sharfuddoula,63896abb
+info,registry,people,Shoriful Islam,bb34fd31
+info,registry,people,Soumya Sarkar,4d9f9686
+info,registry,people,Tanvir Ahmed,ea2df1f1
+info,registry,people,Taskin Ahmed,ef18b66e
+info,registry,people,Towhid Hridoy,9e52a414
+info,registry,people,WIA Fernando,9550470d

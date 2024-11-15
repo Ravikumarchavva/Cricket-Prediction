@@ -1,0 +1,70 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,Qatar
+info,team,Saudi Arabia
+info,gender,male
+info,season,2024
+info,date,2024/04/16
+info,event,ACC Men's Premier Cup
+info,match_number,15
+info,venue,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)
+info,city,Al Amarat
+info,toss_winner,Saudi Arabia
+info,toss_decision,field
+info,player_of_match,Gayan Munaweera
+info,umpire,Morshed Ali Khan
+info,umpire,VK Jha
+info,reserve_umpire,Rahul Asher
+info,tv_umpire,Ahmed Shah Durrani
+info,match_referee,Hamim Khan
+info,winner,Qatar
+info,winner_runs,15
+info,player,Qatar,Kamran Khan
+info,player,Qatar,Saqlain Arshad
+info,player,Qatar,Mohammad Ahnaff
+info,player,Qatar,Muhammad Tanveer
+info,player,Qatar,Shahzaib Jamil
+info,player,Qatar,H Rathod
+info,player,Qatar,Mohammed Irshad
+info,player,Qatar,Amir Farooq
+info,player,Qatar,Gayan Munaweera
+info,player,Qatar,Muhammad Jabir
+info,player,Qatar,Musawar Shah
+info,player,Saudi Arabia,Abdul Waheed
+info,player,Saudi Arabia,Usman Khalid
+info,player,Saudi Arabia,Faisal Khan
+info,player,Saudi Arabia,Hisham Sheikh
+info,player,Saudi Arabia,Manan Ali
+info,player,Saudi Arabia,Waji Ul Hassan
+info,player,Saudi Arabia,Kashif Abbas
+info,player,Saudi Arabia,Zain Ul Abidin
+info,player,Saudi Arabia,Usman Najeeb
+info,player,Saudi Arabia,Ishtiaq Ahmad
+info,player,Saudi Arabia,Atif-Ur-Rehman
+info,registry,people,Abdul Waheed,23fa9ea9
+info,registry,people,Ahmed Shah Durrani,af23265a
+info,registry,people,Amir Farooq,6e991bd4
+info,registry,people,Atif-Ur-Rehman,d20e22f7
+info,registry,people,Faisal Khan,a7553f15
+info,registry,people,Gayan Munaweera,62141a22
+info,registry,people,H Rathod,1f943bef
+info,registry,people,Hamim Khan,f82540a3
+info,registry,people,Hisham Sheikh,c4441675
+info,registry,people,Ishtiaq Ahmad,056b433b
+info,registry,people,Kamran Khan,922e3dcc
+info,registry,people,Kashif Abbas,63578359
+info,registry,people,Manan Ali,d0b643e1
+info,registry,people,Mohammad Ahnaff,9b85a13a
+info,registry,people,Mohammed Irshad,1a54d618
+info,registry,people,Morshed Ali Khan,a7c3cf5f
+info,registry,people,Muhammad Jabir,b67af1c4
+info,registry,people,Muhammad Tanveer,aef39fe4
+info,registry,people,Musawar Shah,d482c8b8
+info,registry,people,Rahul Asher,4956b0bf
+info,registry,people,Saqlain Arshad,71ad618b
+info,registry,people,Shahzaib Jamil,fbb6d1a7
+info,registry,people,Usman Khalid,314f0889
+info,registry,people,Usman Najeeb,615688b6
+info,registry,people,VK Jha,5d46eb72
+info,registry,people,Waji Ul Hassan,6892f9c3
+info,registry,people,Zain Ul Abidin,b93b87ae

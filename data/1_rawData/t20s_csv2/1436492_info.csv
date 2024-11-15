@@ -1,0 +1,68 @@
+version,2.2.0
+info,balls_per_over,6
+info,team,France
+info,team,Austria
+info,gender,male
+info,season,2024
+info,date,2024/06/16
+info,event,ICC Men's T20 World Cup Sub Regional Europe Qualifier
+info,venue,"Simar Cricket Ground, Rome"
+info,city,Rome
+info,toss_winner,Austria
+info,toss_decision,field
+info,player_of_match,Bilal Zalmai
+info,umpire,Adeel Ashiq
+info,umpire,M Jameson
+info,reserve_umpire,MJ Saggers
+info,match_referee,G McCrea
+info,winner,Austria
+info,winner_wickets,6
+info,player,France,H Niaz
+info,player,France,G Mckeon
+info,player,France,Zain Ahmad
+info,player,France,C Roberts
+info,player,France,Mukhtar Ghulami
+info,player,France,L Canessane
+info,player,France,Kamran Ahmadzai
+info,player,France,Usman Khan
+info,player,France,Zaheer Zahiri
+info,player,France,Dawood Ahmadzai
+info,player,France,S Stanikzay
+info,player,Austria,Amar Naeem
+info,player,Austria,Karanbir Singh
+info,player,Austria,Bilal Zalmai
+info,player,Austria,Aqib Iqbal
+info,player,Austria,A Randhawa
+info,player,Austria,Baseer Khan
+info,player,Austria,Waqar Zalmai
+info,player,Austria,I Asif
+info,player,Austria,Abrar Bilal
+info,player,Austria,Abdullah Akbarjan
+info,player,Austria,Zeshan Arif
+info,registry,people,A Randhawa,1798078c
+info,registry,people,Abdullah Akbarjan,5de198db
+info,registry,people,Abrar Bilal,6ddaee2d
+info,registry,people,Adeel Ashiq,e44cb88f
+info,registry,people,Amar Naeem,f9dc404a
+info,registry,people,Aqib Iqbal,14157abf
+info,registry,people,Baseer Khan,75ebfe19
+info,registry,people,Bilal Zalmai,33b67317
+info,registry,people,C Roberts,07ac9c54
+info,registry,people,Dawood Ahmadzai,951686f5
+info,registry,people,G McCrea,46f4a901
+info,registry,people,G Mckeon,31366b7e
+info,registry,people,H Niaz,d0e2e8ea
+info,registry,people,I Asif,663ad386
+info,registry,people,Kamran Ahmadzai,afa2ebba
+info,registry,people,Karanbir Singh,6a97c7a4
+info,registry,people,L Canessane,72a4c3b2
+info,registry,people,M Jameson,bdf1ffe3
+info,registry,people,MJ Saggers,402d5937
+info,registry,people,Mukhtar Ghulami,d3b1d991
+info,registry,people,Rahmatullah Mangal,ec106638
+info,registry,people,S Stanikzay,c5445834
+info,registry,people,Usman Khan,e8a552ef
+info,registry,people,Waqar Zalmai,74571ec4
+info,registry,people,Zaheer Zahiri,62f6d8ce
+info,registry,people,Zain Ahmad,ea2c0aff
+info,registry,people,Zeshan Arif,6829b373
