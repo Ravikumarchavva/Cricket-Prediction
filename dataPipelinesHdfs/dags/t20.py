@@ -8,6 +8,8 @@ from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOpe
 from datetime import datetime, timedelta
 
 sys.path.append(os.path.join(os.path.dirname(__file__), "..", '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 
 # Sources tasks
 from a_data_sources.tasks import download_cricsheet, scrape_espn_stats

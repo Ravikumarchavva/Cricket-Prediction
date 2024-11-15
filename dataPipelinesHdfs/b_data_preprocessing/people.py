@@ -1,15 +1,20 @@
 """Module for processing player information from T20 cricket matches."""
 
-
 import os
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
+import logging
+import pandas as pd
+from typing import List
+# ...existing imports...
+
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import config
 import utils
 
-import logging
-# Initialize logging
-logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 def process_players_data():
     """
@@ -38,7 +43,6 @@ def process_players_data():
         if len(info_files) == 0:
             logging.warning(f'No info files found in {os.path.join(config.RAW_DATA_DIR, "t20s_csv2")}. Please check the directory and file permissions.')
 
-        import pandas as pd
         dataframes = pd.DataFrame(columns=['country', 'player', 'player_id', 'season', 'match_id'])
         injured_matches = []
         from tqdm import tqdm
@@ -62,6 +66,16 @@ def process_players_data():
 
         logging.info(f'Processed all files. Injured matches: {injured_matches}')
 
+        # Data quality checks for match_players DataFrame
+        if dataframes.empty:
+            logging.error("No player data extracted.")
+            raise ValueError("Extracted player data is empty.")
+        required_columns = ["country", "player", "player_id", "season", "match_id"]
+        missing_columns = [col for col in required_columns if col not in dataframes.columns]
+        if missing_columns:
+            logging.error(f"Missing columns in player data: {missing_columns}")
+            raise ValueError(f"Missing columns in player data: {missing_columns}")
+
         # Save dataframes to HDFS
         try:
             data = dataframes.to_csv(index=False)
@@ -73,6 +87,11 @@ def process_players_data():
 
         # Individual player's data
         players = dataframes.drop('match_id', axis=1).drop_duplicates(subset=['player', 'country', 'player_id'])
+
+        # Data quality checks for players DataFrame
+        if players.empty:
+            logging.error("No unique players data extracted.")
+            raise ValueError("Extracted unique players data is empty.")
 
         # Save players to HDFS
         try:

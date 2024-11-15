@@ -1,25 +1,41 @@
 """Module for processing team statistics data."""
 
 import os
-import logging
 import sys
+import logging
+from pyspark.sql.functions import col, when, round, sum as spark_sum, row_number
+from pyspark.sql import Window
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
+# Adjust sys.path to import custom modules
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import config
 import utils
+
 
 def preprocess_team_data():
     """Process and transform team statistics data."""
     logging.info("Starting preprocess_team_data task.")
-    
+
     try:
-        # Create Spark session
-        spark = utils.create_spark_session("TeamStatsPreprocessing")
+        spark = utils.create_spark_session("TeamStatsPreprocessing", {
+            "spark.executor.memory": "0.4g",
+        })
 
         # Read team data
         team_data = utils.load_data(spark, config.RAW_DATA_DIR, 't20_team_stats.csv')
 
-        from pyspark.sql.functions import col, when, round
+        # Data quality checks
+        if team_data is None or team_data.rdd.isEmpty():
+            logging.error("Team data is empty.")
+            raise ValueError("Team data is empty.")
+        required_columns = ["Team", "Season", "Mat", "Won", "Lost", "Tied", "NR", "Ave", "RPO"]
+        missing_columns = [col for col in required_columns if col not in team_data.columns]
+        if missing_columns:
+            logging.error(f"Missing columns in team data: {missing_columns}")
+            raise ValueError(f"Missing columns: {missing_columns}")
+
         team_data = team_data.withColumn(
             "W/L",
             round(
@@ -32,8 +48,6 @@ def preprocess_team_data():
             "AveRPO", when(col("RPO") == '-', 0).otherwise(col("RPO")).cast("float")).drop("RPO", "LS")
 
         # Cumulative calculations
-        from pyspark.sql import Window
-        from pyspark.sql.functions import col, sum as spark_sum, when, row_number, round
 
         # Define the window specification for cumulative calculations
         window_spec = Window.partitionBy("Team").orderBy("Season").rowsBetween(
@@ -89,13 +103,14 @@ def preprocess_team_data():
 
         # Save processed data
         utils.spark_save_data(team_data, config.PROCESSED_DATA_DIR, 'team_stats.csv')
-        
+
     except Exception as e:
         logging.error(f"Error in preprocess_team_data task: {e}")
         raise
     finally:
         spark.stop()
         logging.info("Spark session stopped.")
+
 
 if __name__ == "__main__":
     preprocess_team_data()

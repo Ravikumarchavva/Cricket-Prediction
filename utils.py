@@ -7,14 +7,14 @@ from pyspark.sql import SparkSession
 from airflow.providers.apache.hdfs.hooks.webhdfs import WebHDFSHook
 
 
-def create_spark_session(name=None, SPARK_CONFIG=None):
+def create_spark_session(name : str =None, SPARK_CONFIG : dict = config.SPARK_CONFIG, update_config = False):
     """Create and return a Spark session."""
     logging.info("Creating Spark session.")
     try:
         if not name:
             name = config.SPARK_APP_NAME
-        if SPARK_CONFIG is None:
-            SPARK_CONFIG = config.SPARK_CONFIG
+        if update_config:
+            SPARK_CONFIG.update(config.SPARK_CONFIG)
         builder = (SparkSession.builder
                   .appName(name)
                   .master(config.SPARK_MASTER))

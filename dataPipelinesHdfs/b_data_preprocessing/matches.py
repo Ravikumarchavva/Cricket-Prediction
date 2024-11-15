@@ -1,25 +1,26 @@
-"""Module for preprocessing T20 cricket match data from raw files into structured format."""
+"""Module for preprocessing T20 cricket match data into structured format."""
 
-import logging
-import pandas as pd
 import os
 import sys
+import logging
+import pandas as pd
 import concurrent.futures
 from tqdm import tqdm
 
-# Add the parent directory to sys.path for importing config and utils
-sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
 import config
 import utils
 import io
 
-def process_single_match(client, match_id):
+
+def process_single_match(client, match_id: str) -> pd.DataFrame:
     """
     Process a single match file and return the processed DataFrame or None on failure.
 
     Args:
         client: The HDFS client for file operations.
-        match: The match ID.
         match_id: Unique ID for each match.
 
     Returns:
@@ -39,6 +40,7 @@ def process_single_match(client, match_id):
         logging.warning(f"Error processing match {match_id}: {e}")
         return None
 
+
 def preprocess_matches():
     """
     Process raw match data files and create a structured matches dataset.
@@ -46,11 +48,9 @@ def preprocess_matches():
     Returns:
         None
     """
-    # Initialize logging
-    logging.basicConfig(level=logging.WARNING, format='%(asctime)s - %(levelname)s - %(message)s')
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     try:
-        # Initialize HDFS client
         client = utils.get_hdfs_client()
 
         # List contents of HDFS directory
@@ -85,12 +85,29 @@ def preprocess_matches():
                     logging.error(f"Error in future for match {match}: {e}")
                     injured_matches.append(match)
 
+        if not recalculated_matches:
+            logging.critical('No matches were successfully processed.')
+            raise ValueError('No matches were successfully processed.')
+
+        matches_data = pd.concat(recalculated_matches, ignore_index=True)
+
+
         if recalculated_matches:
             # Concatenate all match DataFrames
             matches_data = pd.concat(recalculated_matches, ignore_index=True)
             matches_data.columns = ['match_id', 'team1', 'team2', 'team1_duplicate', 'team2_duplicate', 'gender', 'season', 'winner']
             matches_data = matches_data.drop(columns=['team1_duplicate', 'team2_duplicate'])
 
+            # Data quality checks
+            if matches_data.empty:
+                logging.error("No match data consolidated.")
+                raise ValueError("Consolidated match data is empty.")
+            required_columns = ["match_id", "team1", "team2", "gender", "season", "winner"]
+            missing_columns = [col for col in required_columns if col not in matches_data.columns]
+            if missing_columns:
+                logging.error(f"Missing columns in matches data: {missing_columns}")
+                raise ValueError(f"Missing columns in matches data: {missing_columns}")
+            
             # Save matches_data directly to HDFS
             utils.ensure_hdfs_directory(client, config.PROCESSED_DATA_DIR)
             matches_csv_path = os.path.join(config.PROCESSED_DATA_DIR, 'matches.csv')
@@ -107,6 +124,7 @@ def preprocess_matches():
     except Exception as e:
         logging.critical(f'Critical error: {e}')
         raise
+
 
 if __name__ == '__main__':
     preprocess_matches()

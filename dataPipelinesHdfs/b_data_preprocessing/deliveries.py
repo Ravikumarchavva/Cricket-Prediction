@@ -1,10 +1,7 @@
-"""Module for preprocessing ball-by-ball delivery data from T20 cricket matches.
-
-Handles the processing of delivery-level data including runs, wickets, and other
-ball-by-ball events in cricket matches.
-"""
+"""Module for preprocessing ball-by-ball delivery data from T20 cricket matches."""
 
 import os
+import sys
 import logging
 from pyspark.sql.types import (
     StructType, StructField, IntegerType,
@@ -12,28 +9,23 @@ from pyspark.sql.types import (
 )
 from pyspark.sql.functions import col, when
 
-import os
-import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
-import config, utils
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+import config
+import utils
 
 
 def preprocess_deliveries():
     """
     Process ball-by-ball delivery data from cricket matches.
 
-    Reads raw delivery data files, processes them to extract ball-by-ball
-    information including runs, wickets, and other events, and saves the
-    processed data to HDFS.
-
     Returns:
         None
     """
-    # Initialize logging
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
     try:
-        # Initialize HDFS client
         client = utils.get_hdfs_client()
 
         # Check the contents of the directory on HDFS
@@ -49,7 +41,10 @@ def preprocess_deliveries():
             logging.warning(f'No delivery files found in {os.path.join(config.RAW_DATA_DIR, "t20s_csv2")}. Please check the directory and file permissions.')
 
         # Initialize Spark session with HDFS configuration
-        spark = utils.create_spark_session("PrerocessDeliveries")
+        spark = utils.create_spark_session("PrerocessDeliveries",{
+            "spark.executor.memory": "4g",
+            "spark.executor.cores": "4"
+        })
 
         # Define the schema for the deliveries data
         delivery_schema = StructType([
@@ -81,6 +76,16 @@ def preprocess_deliveries():
         deliveries_data = spark.read.csv(delivery_paths, header=True, schema=delivery_schema)
         # Fill null values
         deliveries_data = deliveries_data.fillna(0)
+
+        # Data quality checks
+        if deliveries_data is None or deliveries_data.head(1) == []:
+            logging.error("Deliveries data is empty.")
+            raise ValueError("Deliveries data is empty.")
+        required_columns = ["match_id", "innings", "ball", "batting_team", "bowling_team", "striker", "bowler", "runs_off_bat", "extras"]
+        missing_columns = [col for col in required_columns if col not in deliveries_data.columns]
+        if missing_columns:
+            logging.error(f"Missing columns in deliveries data: {missing_columns}")
+            raise ValueError(f"Missing columns in deliveries data: {missing_columns}")
 
         # Convert specific columns to integer type
         deliveries_data = deliveries_data.withColumn(

@@ -29,17 +29,16 @@ SPARK_MASTER = f'spark://{HDFS_HOST}:{SPARK_MASTER_PORT}'
 SPARK_CONFIG = {
     'spark.master': f'spark://{HDFS_HOST}:{SPARK_MASTER_PORT}',
     
-    'spark.executor.memory': os.getenv('SPARK_EXECUTOR_MEMORY', '2g'),
+    'spark.executor.memory': os.getenv('SPARK_EXECUTOR_MEMORY', '1g'),
     'spark.executor.cores': os.getenv('SPARK_EXECUTOR_CORES', '2'),
 
     'spark.dynamicAllocation.enabled': 'true',
-    'spark.dynamicAllocation.minExecutors': '1',
+    'spark.dynamicAllocation.minExecutors': '0',
     'spark.shuffle.service.enabled': 'true',
     'spark.dynamicAllocation.shuffleTracking.enabled': 'true',
     'spark.shuffle.service.enabled': 'true',
 
     'spark.dynamicAllocation.maxExecutors': '4',
-    'spark.cores.max': os.getenv('SPARK_CORES_MAX', '12'),
     'spark.hadoop.fs.defaultFS': HDFS_NAMENODE,
     'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',
     'spark.hadoop.fs.file.impl': 'org.apache.hadoop.fs.LocalFileSystem'
