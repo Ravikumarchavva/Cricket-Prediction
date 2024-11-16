@@ -68,7 +68,7 @@ def merge_data():
         window_spec = Window.partitionBy("match_id", "innings").orderBy("ball")
         deliveries = deliveries.withColumn("curr_score", F_sum("runs").over(window_spec))
         deliveries = deliveries.withColumn("curr_wickets", F_sum("wickets").over(window_spec))
-        deliveries = deliveries.drop("runs", "wickets")
+        # deliveries = deliveries.drop("runs", "wickets")
         
         # Join deliveries with matches data
         data = deliveries.join(matches, on='match_id').drop('season', 'venue', 'gender')
@@ -87,7 +87,7 @@ def merge_data():
         data_combined = data1.unionByName(data2).sort('match_id') \
             .withColumn("won", when(col('winner') == col('team1'), 1).otherwise(0))
         
-        data = data_combined.select('match_id', 'flip', 'innings', 'ball', 'curr_score', 'curr_wickets', 'won')
+        data = data_combined.select('match_id', 'flip', 'innings', 'ball', 'runs', 'wickets', 'curr_score', 'curr_wickets', 'won')
         data = data.sort('match_id', 'flip', 'innings', 'ball')
         
         # Calculate target scores
@@ -99,6 +99,11 @@ def merge_data():
                 col("curr_score")
             ).otherwise(lit(None))
         )
+        data = data.withColumn("overs", col("ball").cast("int"))
+        data = data.withColumn("run_rate",
+                       when(col("overs")!=0,
+                       col("curr_score")/col("overs")
+                       ).otherwise(0).cast("float"))
         data = data.withColumn("target", last("target", ignorenulls=True).over(window_spec_ffill))
         data = data.withColumn("target", when(col("innings") == 1, 0).otherwise(col("target")))
         

@@ -34,7 +34,7 @@ def filter_data():
     filtered_balltoball = balltoball.filter(balltoball.match_id.isin(common_match_ids_list)).drop("_c0")
     filtered_playersStats = playersStats.filter(playersStats.match_id.isin(common_match_ids_list)).drop("_c0")
 
-    filtered_balltoball = filtered_balltoball.select('match_id','flip','innings','ball','curr_score','curr_wickets','target',"won")
+    filtered_balltoball = filtered_balltoball.select('match_id','flip','innings','ball', 'runs', 'wickets', "overs", "run_rate",'curr_score','curr_wickets','target',"won")
 
     print(filtered_team12Stats.count(),"team12Stats,", filtered_balltoball.count(), "balltoball,", filtered_playersStats.count(), "playersStats")
     # Save filtered datasets to HDFS
