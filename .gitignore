@@ -6,6 +6,8 @@ wandb-debug.log
 
 
 data/5_pytorchData/*.pkl
+**/*.pkl
+**/*.csv
 
 .env
 

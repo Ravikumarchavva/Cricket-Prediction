@@ -106,6 +106,8 @@ def merge_data():
                        ).otherwise(0).cast("float"))
         data = data.withColumn("target", last("target", ignorenulls=True).over(window_spec_ffill))
         data = data.withColumn("target", when(col("innings") == 1, 0).otherwise(col("target")))
+        print(data.columns)
+        print(data.show(2))
         
         # Save the merged data to HDFS using utils
         utils.spark_save_data(data, config.MERGED_DATA_DIR, 'ball_by_ball_flip.csv')
