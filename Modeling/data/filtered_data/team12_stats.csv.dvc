@@ -1,0 +1,6 @@
+outs:
+- md5: 5c730184e0b7de7e8bc6fd981cba56d9
+  size: 129645
+  isexec: true
+  hash: md5
+  path: team12_stats.csv
