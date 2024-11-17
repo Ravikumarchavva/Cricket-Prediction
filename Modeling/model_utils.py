@@ -54,3 +54,4 @@ def collate_fn_with_padding(batch):
     labels = torch.tensor(labels, dtype=torch.float32)
 
     return team_inputs, player_inputs, padded_ball_inputs, labels, mask
+
