@@ -53,8 +53,10 @@ models/
 **/models/
 .cache/
 **/.cache/
+**/dvc_storage/
 
 # MLflow artifacts
+data/dvc
 mlruns/
 **/mlruns/
 
@@ -71,3 +73,4 @@ dataPipelinesHdfs/**/__pycache__/
 dataPipelinesHdfs/**/**.pyc
 dataPipelinesHdfs/dags/**/__pycache__/
 dataPipelinesHdfs/dags/**.pyc
+/metadata.json
