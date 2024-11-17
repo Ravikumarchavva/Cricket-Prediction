@@ -9,9 +9,10 @@ def filter_data():
 
     spark = utils.create_spark_session("DataFiltering")
 
-    team12Stats = utils.load_data(spark, config.MERGED_DATA_DIR, 'team12_stats_flip.csv')
-    balltoball = utils.load_data(spark, config.MERGED_DATA_DIR, 'ball_by_ball_flip.csv')
-    playersStats = utils.load_data(spark, config.MERGED_DATA_DIR, 'players_stats_flip.csv')
+    # Update data file names
+    team12Stats = utils.load_data(spark, config.MERGED_DATA_DIR, 'team_stats.csv')
+    balltoball = utils.load_data(spark, config.MERGED_DATA_DIR, 'ball_by_ball.csv')
+    playersStats = utils.load_data(spark, config.MERGED_DATA_DIR, 'player_stats.csv')
 
     print(team12Stats.select('match_id').distinct().count(), balltoball.select('match_id').distinct().count(), playersStats.select('match_id').distinct().count())
 
@@ -34,7 +35,12 @@ def filter_data():
     filtered_balltoball = balltoball.filter(balltoball.match_id.isin(common_match_ids_list)).drop("_c0")
     filtered_playersStats = playersStats.filter(playersStats.match_id.isin(common_match_ids_list)).drop("_c0")
 
-    filtered_balltoball = filtered_balltoball.select('match_id','flip','innings','ball', 'runs', 'wickets', "overs", "run_rate",'curr_score','curr_wickets','target',"won")
+    # Adjust columns selected in filtered_balltoball
+    filtered_balltoball = filtered_balltoball.select(
+        'match_id', 'innings', 'ball', 'runs', 'wickets',
+        'curr_score', 'curr_wickets', 'overs', 'run_rate', 'required_run_rate',
+        'target', 'won'
+    )
 
     print(filtered_team12Stats.count(),"team12Stats,", filtered_balltoball.count(), "balltoball,", filtered_playersStats.count(), "playersStats")
     # Save filtered datasets to HDFS
@@ -42,6 +48,9 @@ def filter_data():
     utils.spark_save_data(filtered_team12Stats, config.FILTERED_DATA_DIR, 'team12_stats.csv')
     utils.spark_save_data(filtered_balltoball, config.FILTERED_DATA_DIR, 'ball_to_ball.csv')
     utils.spark_save_data(filtered_playersStats, config.FILTERED_DATA_DIR, 'players_stats.csv')
+
+    # Stop the Spark session
+    spark.stop()
 
 if __name__ == '__main__':
     filter_data()

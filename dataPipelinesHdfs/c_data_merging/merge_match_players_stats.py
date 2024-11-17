@@ -44,44 +44,27 @@ def process_match_players_stats():
         logging.info('Null values in playerStats data:')
         playerStats_nulls.show()
         
-        # Add flip column
-        matchPlayers = matchPlayers.withColumn("flip", lit(0))
+        # After loading matchPlayers, rename columns to match playerStats
+        matchPlayers = matchPlayers.withColumnRenamed("country", "Country") \
+                                   .withColumnRenamed("player", "Player") \
+                                   .withColumnRenamed("season", "Season")
         
-        # Step 2: Define window specification
-        window_spec = Window.partitionBy("match_id").orderBy("flip")
-        
-        # Step 3: Assign row numbers and split into teams
-        matchPlayers = matchPlayers.withColumn("row_num", row_number().over(window_spec))
-        
-        team_a = matchPlayers.filter(col("row_num") <= 11).withColumn("flip", lit(0))
-        team_b = matchPlayers.filter(col("row_num") > 11).withColumn("flip", lit(0))
-        
-        # Step 4: Create swapped teams with flip = 1
-        team_b_swapped = team_a.withColumn("flip", lit(1))
-        team_a_swapped = team_b.withColumn("flip", lit(1))
-        
-        original_teams = team_a.unionByName(team_b).orderBy("Country", "Player")
-        swapped_teams = team_b_swapped.unionByName(team_a_swapped).orderBy("Country")
-        
-        matchPlayers = original_teams.unionByName(swapped_teams).orderBy(["match_id", "flip", "Country"])
-        matchPlayers = matchPlayers.select(["match_id", "flip", "Country", "Player", "Season"])
-        
-        # Step 6: Join with player statistics
+        # Join with player statistics
         matchPlayersStats = matchPlayers.join(playerStats, on=['Player', 'Country', 'Season'], how='inner')
-        matchPlayersStats = matchPlayersStats.sort("match_id", "flip")
-        
-        # Step 7: Filter matches with exactly 44 records
-        match_id = matchPlayersStats.groupBy('match_id').count().filter(col('count') == 44).select('match_id')
+        matchPlayersStats = matchPlayersStats.sort("match_id")
+
+        # Filter matches with exactly 22 players before processing flips
+        match_id = matchPlayers.groupBy('match_id').count().filter(col('count') == 22).select('match_id')
         match_id_values = [row.match_id for row in match_id.collect()]
-        matchPlayersStats = matchPlayersStats.filter(col('match_id').isin(match_id_values))
+        matchPlayers = matchPlayers.filter(col('match_id').isin(match_id_values))
         
-        # Step 8: Drop unnecessary columns
-        matchPlayersStats = matchPlayersStats.drop('Country', 'Season', 'Player', 'Country')
+        # Drop unnecessary columns
+        matchPlayersStats = matchPlayersStats.drop('Country', 'Player', 'player_id', 'Season')
         print(matchPlayersStats.show(5))
         print(matchPlayersStats.count())
         
-        # Step 9: Save the merged data
-        utils.spark_save_data(matchPlayersStats, config.MERGED_DATA_DIR, 'players_stats_flip.csv')
+        # Save the merged data
+        utils.spark_save_data(matchPlayersStats, config.MERGED_DATA_DIR, 'players_stats.csv')
         logging.info('Match players stats data saved successfully.')
         
     except Exception as e:

@@ -22,9 +22,9 @@ def partition_data_with_keys(df, group_keys):
     return keys, partitions
 
 # Use the updated partition_data_with_keys function
-balltoball_keys, balltoball_partitions = partition_data_with_keys(balltoball, ["match_id", "flip"])
-team_stats_keys, team_stats_partitions = partition_data_with_keys(team_stats, ["match_id", "flip"])
-players_stats_keys, players_stats_partitions = partition_data_with_keys(players_stats, ["match_id", "flip"])
+balltoball_keys, balltoball_partitions = partition_data_with_keys(balltoball, ["match_id"])
+team_stats_keys, team_stats_partitions = partition_data_with_keys(team_stats, ["match_id"])
+players_stats_keys, players_stats_partitions = partition_data_with_keys(players_stats, ["match_id"])
 
 # Align the partitions using common keys
 common_keys = set(balltoball_keys) & set(team_stats_keys) & set(players_stats_keys)
