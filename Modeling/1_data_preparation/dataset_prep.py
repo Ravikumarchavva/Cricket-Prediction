@@ -1,10 +1,7 @@
 import os
 import sys
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
 sys.path.append(os.path.join(os.getcwd(),".."))
-from model_utils import CricketDataset, collate_fn_with_padding
+from model_utils import CricketDataset, collate_fn_with_packing, partition_data_with_keys
 
 import polars as pl
 # import data
@@ -15,11 +12,6 @@ def load_data():
     return balltoball, team_stats, players_stats
 balltoball,team_stats,players_stats = load_data()
 
-def partition_data_with_keys(df, group_keys):
-    partitions = df.partition_by(group_keys)
-    keys = [tuple(partition.select(group_keys).unique().to_numpy()[0]) for partition in partitions]
-    partitions = [partition.drop(group_keys).to_numpy() for partition in partitions]
-    return keys, partitions
 
 # Use the updated partition_data_with_keys function
 balltoball_keys, balltoball_partitions = partition_data_with_keys(balltoball, ["match_id"])
@@ -52,19 +44,7 @@ for key in common_keys:
 import numpy as np
 labels = np.array(labels)
 
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-# Compute class weights
-from torch import tensor
-pos_count = np.sum(labels == 1)
-neg_count = np.sum(labels == 0)
-if pos_count > 0 and neg_count > 0:
-    pos_weight = neg_count / pos_count
-    pos_weight_tensor = tensor([pos_weight]).to(device)
-    # Update the loss function with pos_weight
-    criterion = nn.BCEWithLogitsLoss(pos_weight=pos_weight_tensor)
-else:
-    # Fallback if no imbalance
-    criterion = nn.BCEWithLogitsLoss()
+
 
 from sklearn.model_selection import train_test_split
 from torch.utils.data import DataLoader, Subset
@@ -87,17 +67,9 @@ train_dataset = Subset(dataset, train_indices)
 val_dataset = Subset(dataset, val_indices)
 test_dataset = Subset(dataset, test_indices)
 
-train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn_with_padding)
-val_dataloader = DataLoader(val_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn_with_padding)
-test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn_with_padding)
-
-for team_input, player_input, ball_input, labels, mask in train_dataloader:
-    print(f"Team input shape: {team_input.shape}")  # [batch_size, team_feature_dim]
-    print(f"Player input shape: {player_input.shape}")  # [batch_size, player_feature_dim]
-    print(f"Padded ball input shape: {ball_input.shape}")  # [batch_size, max_seq_len, ball_feature_dim]
-    print(f"Mask shape: {mask.shape}")  # [batch_size, max_seq_len]
-    print(f"Labels shape: {labels.shape}")  # [batch_size]
-    break
+train_dataloader = DataLoader(train_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn_with_packing)
+val_dataloader = DataLoader(val_dataset, batch_size=32, shuffle=True, collate_fn=collate_fn_with_packing)
+test_dataloader = DataLoader(test_dataset, batch_size=32, shuffle=False, collate_fn=collate_fn_with_packing)
 
 
 import pickle

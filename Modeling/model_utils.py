@@ -1,5 +1,6 @@
 import torch
 from torch.utils.data import Dataset
+from torch.nn.utils.rnn import pack_sequence
 
 # Create a custom Dataset
 class CricketDataset(Dataset):
@@ -20,38 +21,28 @@ class CricketDataset(Dataset):
         ball_input = ball_stats
         label = torch.tensor(self.labels[idx], dtype=torch.float32)
         return team_input, player_input, ball_input, label
-    
-from torch.nn.utils.rnn import pack_sequence
 
-def collate_fn_with_padding(batch):
+def collate_fn_with_packing(batch):
     team_inputs = []
     player_inputs = []
     ball_inputs = []
     labels = []
-    ball_lengths = []
 
     for team_input, player_input, ball_input, label in batch:
         team_inputs.append(team_input)
         player_inputs.append(player_input)
         ball_inputs.append(ball_input)
         labels.append(label)
-        ball_lengths.append(ball_input.shape[0])
 
-    max_seq_len = max(ball_lengths)
-    feature_dim = ball_inputs[0].shape[1]
-
-    # Pad ball inputs and create a mask
-    padded_ball_inputs = torch.zeros(len(ball_inputs), max_seq_len, feature_dim, dtype=torch.float32)
-    mask = torch.zeros(len(ball_inputs), max_seq_len, dtype=torch.bool)
-
-    for i, ball_input in enumerate(ball_inputs):
-        seq_len = ball_input.shape[0]
-        padded_ball_inputs[i, :seq_len, :] = ball_input
-        mask[i, :seq_len] = True  # True for valid entries
-
+    packed_ball_inputs = pack_sequence(ball_inputs, enforce_sorted=False)
     team_inputs = torch.stack(team_inputs)
     player_inputs = torch.stack(player_inputs)
     labels = torch.tensor(labels, dtype=torch.float32)
 
-    return team_inputs, player_inputs, padded_ball_inputs, labels, mask
+    return team_inputs, player_inputs, packed_ball_inputs, labels
 
+def partition_data_with_keys(df, group_keys):
+    partitions = df.partition_by(group_keys)
+    keys = [tuple(partition.select(group_keys).unique().to_numpy()[0]) for partition in partitions]
+    partitions = [partition.drop(group_keys).to_numpy() for partition in partitions]
+    return keys, partitions
