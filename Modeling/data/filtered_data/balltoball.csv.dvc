@@ -1,6 +1,6 @@
 outs:
-- md5: d6d37c0fb8b64ffb7c88fcfb096744d8
-  size: 20855566
+- md5: 3878242999f8c350c4c846354e2fcc8a
+  size: 10384055
   isexec: true
   hash: md5
   path: balltoball.csv
