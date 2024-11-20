@@ -41,6 +41,22 @@ def collate_fn_with_packing(batch):
 
     return team_inputs, player_inputs, packed_ball_inputs, labels
 
+# Update the collate function to avoid UserWarning
+from torch.nn.utils.rnn import pad_sequence
+
+def collate_fn_with_padding(batch):
+    team_batch, player_batch, ball_batch, labels = zip(*batch)
+    team_batch = [team.clone().detach() if torch.is_tensor(team) else torch.tensor(team) for team in team_batch]
+    player_batch = [player.clone().detach() if torch.is_tensor(player) else torch.tensor(player) for player in player_batch]
+    ball_batch = [ball.clone().detach() if torch.is_tensor(ball) else torch.tensor(ball) for ball in ball_batch]
+
+    team_batch = pad_sequence(team_batch, batch_first=True, padding_value=0)
+    player_batch = pad_sequence(player_batch, batch_first=True, padding_value=0)
+    ball_batch = pad_sequence(ball_batch, batch_first=True, padding_value=0)
+
+    labels = torch.tensor(labels).float().unsqueeze(1)
+    return team_batch, player_batch, ball_batch, labels
+
 def partition_data_with_keys(df, group_keys):
     partitions = df.partition_by(group_keys)
     keys = [tuple(partition.select(group_keys).unique().to_numpy()[0]) for partition in partitions]

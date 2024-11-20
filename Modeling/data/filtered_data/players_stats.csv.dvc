@@ -1,6 +1,5 @@
 outs:
-- md5: 72ef30f680bb6ea03aa3d516d0abd672
-  size: 1311076
-  isexec: true
+- md5: 6fbf8e5beeaed008ad140437a63c483d
+  size: 1476384
   hash: md5
   path: players_stats.csv

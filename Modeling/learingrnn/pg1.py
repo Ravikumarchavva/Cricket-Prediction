@@ -1,268 +1,299 @@
 import os
 import sys
-import pickle
-import matplotlib.pyplot as plt
-import polars as pl
 import numpy as np
+import polars as pl
 import torch
 import torch.nn as nn
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import confusion_matrix, accuracy_score
-from torch.nn import Transformer
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from torch.utils.data import DataLoader, Subset
+from torch.optim.lr_scheduler import ReduceLROnPlateau
+from tqdm import tqdm
+from matplotlib import pyplot as plt
+from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
 
-sys.path.append(os.path.join(os.getcwd(), '..'))
+sys.path.append(os.path.join(os.getcwd(), ".."))
+from model_utils import CricketDataset, collate_fn_with_padding
 
-# Load the dataloaders
-train_dataloader = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'train_dataloader.pkl'), 'rb'))
-val_dataloader = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'val_dataloader.pkl'), 'rb'))
-test_dataloader = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'test_dataloader.pkl'), 'rb'))
+# Step 1: Load Data
+def load_data():
+    balltoball = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "balltoball.csv")))
+    team_stats = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "team12_stats.csv")))
+    players_stats = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "players_stats.csv")))
+    return balltoball, team_stats, players_stats
 
-# Function to collect and process all matches
-def collect_all_matches(dataloaders):
-    all_innings1 = []
-    all_innings2 = []
-    for dataloader in dataloaders:
-        for team_input, player_input, ball_input, labels, mask in dataloader:
-            # Flatten the ball input data
-            ball_input_flat = ball_input.view(-1, ball_input.size(-1)).numpy()
-            data = pl.DataFrame(ball_input_flat, schema=["innings", "ball", "runs", "wickets", "curr_score", "curr_wickets", "overs", "run_rate", "required_run_rate", "target"])
-            innings1 = data.filter(data['innings'] == 1)
-            innings2 = data.filter(data['innings'] == 2)
-            all_innings1.append(innings1)
-            all_innings2.append(innings2)
-    return all_innings1, all_innings2
+balltoball, team_stats, players_stats = load_data()
 
-# Collect all matches data
-all_innings1, all_innings2 = collect_all_matches([train_dataloader, val_dataloader, test_dataloader])
+# Step 2: Partition Data
+def partition_data_with_keys(df, group_keys):
+    partitions = df.partition_by(group_keys)
+    keys = [tuple(partition.select(group_keys).unique().to_numpy()[0]) for partition in partitions]
+    partitions = [partition.drop(group_keys).to_numpy() for partition in partitions]
+    return keys, partitions
 
-# Combine all innings data
-combined_innings1 = pl.concat(all_innings1)
-combined_innings2 = pl.concat(all_innings2)
-print(combined_innings1.shape, combined_innings2.shape)
-# Define the number of balls in the last 5 overs (assuming 6 balls per over)
-forecast_balls = 30
+balltoball_keys, balltoball_partitions = partition_data_with_keys(balltoball, ["match_id"])
+team_stats_keys, team_stats_partitions = partition_data_with_keys(team_stats, ["match_id"])
+players_stats_keys, players_stats_partitions = partition_data_with_keys(players_stats, ["match_id"])
 
-# # Total number of balls in innings 1 and innings 2
-total_balls_innings1 = len(combined_innings1)
-total_balls_innings2 = len(combined_innings2)
+# Step 3: Align Partitions
+common_keys = set(balltoball_keys) & set(team_stats_keys) & set(players_stats_keys)
 
-# # Calculate training and forecasting indices
-train_balls_innings1 = total_balls_innings1
-train_balls_innings2 = max(1, total_balls_innings2 - forecast_balls)
+balltoball_dict = dict(zip(balltoball_keys, balltoball_partitions))
+team_stats_dict = dict(zip(team_stats_keys, team_stats_partitions))
+players_stats_dict = dict(zip(players_stats_keys, players_stats_partitions))
 
-# Define the Transformer model class
-class TransformerModel(nn.Module):
-    def __init__(self, input_size, hidden_size, output_size, num_layers=2, nhead=2):
-        super(TransformerModel, self).__init__()
-        self.transformer = Transformer(d_model=hidden_size, nhead=nhead, num_encoder_layers=num_layers, num_decoder_layers=num_layers, batch_first=True)
-        self.fc_in = nn.Linear(input_size, hidden_size)
-        self.fc_out = nn.Linear(hidden_size, output_size)
+aligned_balltoball_partitions = []
+aligned_team_stats_partitions = []
+aligned_players_stats_partitions = []
+labels = []
 
-    def forward(self, src, trg):
-        src = self.fc_in(src)
-        trg = self.fc_in(trg)
-        output = self.transformer(src, trg)
-        output = self.fc_out(output)
+for key in common_keys:
+    balltoball_partition = balltoball_dict[key]
+    team_stats_partition = team_stats_dict[key]
+    players_stats_partition = players_stats_dict[key]
+
+    label = balltoball_partition[:, -1][0]
+    aligned_balltoball_partitions.append(balltoball_partition[:-1, :-1])  # remove the last row and column
+    aligned_team_stats_partitions.append(team_stats_partition)
+    aligned_players_stats_partitions.append(players_stats_partition)
+    labels.append(label)
+
+labels = np.array(labels)
+
+# Step 4: Prepare Data for Training
+team_data = [team.to_numpy() if isinstance(team, pl.DataFrame) else team for team in aligned_team_stats_partitions]
+player_data = [players.to_numpy() if isinstance(players, pl.DataFrame) else players for players in aligned_players_stats_partitions]
+ball_data = [ball.to_numpy() if isinstance(ball, pl.DataFrame) else ball for ball in aligned_balltoball_partitions]
+
+dataset = CricketDataset(team_data, player_data, ball_data, labels)
+
+train_indices, temp_indices = train_test_split(np.arange(len(labels)), test_size=0.2, random_state=42)
+val_indices, test_indices = train_test_split(temp_indices, test_size=0.5, random_state=42)
+
+train_dataset = Subset(dataset, train_indices)
+val_dataset = Subset(dataset, val_indices)
+test_dataset = Subset(dataset, test_indices)
+
+print(f'Number of samples: {len(dataset)}')
+print(f'Number of training samples: {len(train_dataset)}')
+print(f'Number of validation samples: {len(val_dataset)}')
+print(f'Number of test samples: {len(test_dataset)}')
+
+# Step 5: Create DataLoaders
+train_dataloader = DataLoader(train_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn_with_padding)
+val_dataloader = DataLoader(val_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn_with_padding)
+test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False, collate_fn=collate_fn_with_padding)
+
+# Step 6: Normalize Data
+scaler_team = StandardScaler()
+scaler_player = StandardScaler()
+scaler_ball = StandardScaler()
+
+team_data = [scaler_team.fit_transform(team) for team in team_data]
+player_data = [scaler_player.fit_transform(player) for player in player_data]
+ball_data = [scaler_ball.fit_transform(ball) for ball in ball_data]
+
+# Step 7: Define Model
+class Encoder(nn.Module):
+    def __init__(self, input_size, hidden_size, num_layers, dropout=0.5):
+        super(Encoder, self).__init__()
+        self.hidden_size = hidden_size
+        self.num_layers = num_layers
+        self.rnn = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True, dropout=dropout)
+
+    def forward(self, x):
+        h0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size)
+        c0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size)
+        out, (hidden, _) = self.rnn(x, (h0, c0))
+        return hidden
+
+class Decoder(nn.Module):
+    def __init__(self, input_size, num_classes):
+        super(Decoder, self).__init__()
+        self.fc = nn.Linear(input_size, num_classes)
+        self.sigmoid = nn.Sigmoid()
+
+    def forward(self, x):
+        x = self.fc(x)
+        x = self.sigmoid(x)
+        return x
+
+class EncoderDecoderModel(nn.Module):
+    def __init__(self, team_input_size, player_input_size, ball_input_size, hidden_size, num_layers, num_classes):
+        super(EncoderDecoderModel, self).__init__()
+        self.team_encoder = Encoder(team_input_size, hidden_size, num_layers)
+        self.player_encoder = Encoder(player_input_size, hidden_size, num_layers)
+        self.ball_encoder = Encoder(ball_input_size, hidden_size, num_layers)
+        self.decoder = Decoder(hidden_size * 3, num_classes)
+
+    def forward(self, team, player, ball):
+        team = team.float()
+        player = player.float()
+        ball = ball.float()
+
+        if team.dim() == 2:
+            team = team.unsqueeze(1)
+        team_hidden = self.team_encoder(team)[-1]
+
+        if player.dim() == 2:
+            player = player.unsqueeze(1)
+        player_hidden = self.player_encoder(player)[-1]
+
+        if ball.dim() == 2:
+            ball = ball.unsqueeze(1)
+        ball_hidden = self.ball_encoder(ball)[-1]
+
+        combined_hidden = torch.cat((team_hidden, player_hidden, ball_hidden), dim=1)
+        output = self.decoder(combined_hidden)
         return output
 
-# Update input_size to match the actual input feature size
-input_size = 1  # Since we are using "curr_score" as the input feature
-hidden_size = 50
-output_size = 1
+model = EncoderDecoderModel(
+    team_input_size=team_data[0].shape[1],
+    player_input_size=player_data[0].shape[1],
+    ball_input_size=ball_data[0].shape[1],
+    hidden_size=64,
+    num_layers=2,
+    num_classes=1
+)
 
-# Check for GPU
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-print(f"Using device: {device}")
+criterion = nn.BCELoss()
+optimizer = torch.optim.Adam(model.parameters(), lr=0.003)
+scheduler = ReduceLROnPlateau(optimizer, mode='min', factor=0.5, patience=5, verbose=True)
 
-model = TransformerModel(input_size, hidden_size, output_size).to(device)
+# Step 8: Train Model
+best_val_loss = float('inf')
+patience = 10
+trigger_times = 0
+num_epochs = 25
 
-# Define loss function and optimizer
-criterion = nn.MSELoss()
-optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+train_losses = []
+val_losses = []
+train_accuracies = []
+val_accuracies = []
 
-# Function to create sequences for Transformer model with smaller batch sizes
-def create_sequences(data, sequence_length=10, batch_size=32):
-    X, y = [], []
-    for i in range(0, len(data) - sequence_length, batch_size):
-        X_batch = []
-        y_batch = []
-        for j in range(i, min(i + batch_size, len(data) - sequence_length)):
-            X_batch.append(data[j:j + sequence_length])
-            y_batch.append(data[j + sequence_length])
-        X.append(np.array(X_batch))
-        y.append(np.array(y_batch))
-    return X, y
+for epoch in range(num_epochs):
+    model.train()
+    running_loss = 0.0
+    running_corrects = 0
+    total = 0
+    for team, player, ball, labels in tqdm(train_dataloader):
+        labels = labels.float()
+        outputs = model(team, player, ball)
+        loss = criterion(outputs, labels)
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
+        running_loss += loss.item()
+        predicted = (outputs.data > 0.5).float()
+        total += labels.size(0)
+        running_corrects += (predicted == labels).sum().item()
+    avg_loss = running_loss / len(train_dataloader)
+    train_acc = 100 * running_corrects / total
 
-# Prepare training data
-train_y_innings1 = combined_innings1.to_pandas()["curr_score"].values
-train_y_innings2 = combined_innings2.to_pandas()["curr_score"].values[:train_balls_innings2]
+    train_losses.append(avg_loss)
+    train_accuracies.append(train_acc)
 
-scaler_innings1 = MinMaxScaler()
-train_y_innings1_scaled = scaler_innings1.fit_transform(train_y_innings1.reshape(-1, 1))
-
-scaler_innings2 = MinMaxScaler()
-train_y_innings2_scaled = scaler_innings2.fit_transform(train_y_innings2.reshape(-1, 1))
-
-sequence_length = 10
-batch_size = 32  # Adjust batch size to fit in GPU memory
-X_innings1_batches, y_innings1_batches = create_sequences(train_y_innings1_scaled.flatten(), sequence_length, batch_size)
-X_innings2_batches, y_innings2_batches = create_sequences(train_y_innings2_scaled.flatten(), sequence_length, batch_size)
-
-# Convert to tensors and ensure they are 3-D
-X_innings1_batches = [torch.tensor(X, dtype=torch.float32).unsqueeze(-1).to(device) for X in X_innings1_batches]  # [batch, seq_len, 1]
-y_innings1_batches = [torch.tensor(y, dtype=torch.float32).unsqueeze(1).unsqueeze(-1).to(device) for y in y_innings1_batches]  # [batch, 1, 1]
-X_innings2_batches = [torch.tensor(X, dtype=torch.float32).unsqueeze(-1).to(device) for X in X_innings2_batches]  # [batch, seq_len, 1]
-y_innings2_batches = [torch.tensor(y, dtype=torch.float32).unsqueeze(1).unsqueeze(-1).to(device) for y in y_innings2_batches]  # [batch, 1, 1]
-
-# Training function with batch processing
-def train_model(model, X_batches, y_batches, optimizer, criterion, epochs=100):
-    for epoch in range(epochs):
-        model.train()
-        for X, y in zip(X_batches, y_batches):
-            optimizer.zero_grad()
-            outputs = model(X, y)  # outputs: [batch, seq_len, 1]
-            loss = criterion(outputs, y)
-            loss.backward()
-            optimizer.step()
-        if epoch % 1 == 0:
-            print(f"Epoch {epoch}, Loss: {loss.item()}")
-
-# Train the model
-train_model(model, X_innings1_batches, y_innings1_batches, optimizer, criterion, epochs=10)
-
-# In the forecasting function, adjust input data shape
-def forecast_remaining_overs(model, innings1_data, innings2_data, steps, sequence_length):
     model.eval()
-    input_seq = np.hstack((innings1_data, innings2_data))[-sequence_length:]
-    input_seq = torch.tensor(input_seq, dtype=torch.float32).unsqueeze(0).unsqueeze(-1).to(device)  # [1, seq_len, 1]
-    predictions = []
+    val_loss = 0.0
+    val_corrects = 0
+    val_total = 0
     with torch.no_grad():
-        for _ in range(steps):
-            # For forecasting, trg should have shape [batch, 1, 1]
-            trg = input_seq[:, -1:, :]  # Take the last time step as trg
-            output = model(input_seq, trg)  # trg: [1, 1, 1]
-            next_value = output[:, -1, :].squeeze().item()  # Get the last output in the sequence
-            predictions.append(next_value)
-            # Prepare the next input by appending the predicted value
-            next_input = torch.tensor([[[next_value]]], dtype=torch.float32).to(device)  # [1, 1, 1]
-            input_seq = torch.cat((input_seq[:, 1:, :], next_input), dim=1)  # Slide the window
-    return np.array(predictions)
+        for team, player, ball, labels in val_dataloader:
+            labels = labels.float()
+            outputs = model(team, player, ball)
+            loss = criterion(outputs, labels)
+            val_loss += loss.item()
+            predicted = (outputs.data > 0.5).float()
+            val_total += labels.size(0)
+            val_corrects += (predicted == labels).sum().item()
+    avg_val_loss = val_loss / len(val_dataloader)
+    val_acc = 100 * val_corrects / val_total
 
-# Forecast remaining overs
-forecast_horizon = total_balls_innings2 - train_balls_innings2
-forecast_y_innings2 = forecast_remaining_overs(
-    model,
-    train_y_innings1_scaled.flatten(),
-    train_y_innings2_scaled.flatten(),
-    forecast_horizon,
-    sequence_length
-)
+    val_losses.append(avg_val_loss)
+    val_accuracies.append(val_acc)
 
-# Inverse scale the forecasted values
-forecast_y_innings2 = scaler_innings2.inverse_transform(
-    forecast_y_innings2.reshape(-1, 1)
-).flatten()
+    print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {avg_loss:.4f}, Acc: {train_acc:.2f}%, Val Loss: {avg_val_loss:.4f}, Val Acc: {val_acc:.2f}%')
 
-# Generate x-axis for forecast
-forecast_x = np.arange(train_balls_innings2 + 1, total_balls_innings2 + 1)
+    scheduler.step(avg_val_loss)
 
-# Plot actual and forecasted values
-fig, ax = plt.subplots(figsize=(12, 6))
+    if avg_val_loss < best_val_loss:
+        best_val_loss = avg_val_loss
+        trigger_times = 0
+        torch.save(model.state_dict(), 'best_model.pth')
+    else:
+        trigger_times += 1
+        if trigger_times >= patience:
+            print('Early stopping!')
+            break
 
-# Ground truth for innings 1 and innings 2
-ax.plot(
-    np.arange(1, len(train_y_innings1) + 1), train_y_innings1,
-    label="Ground Truth Innings 1", linestyle="-", color="blue"
-)
-ax.plot(
-    np.arange(1, len(train_y_innings2) + 1), train_y_innings2,
-    label="Ground Truth Innings 2", linestyle="-", color="orange"
-)
+# Step 9: Plot Training History
+epochs_range = range(1, len(train_losses) + 1)
 
-# Forecasted values
-ax.plot(
-    forecast_x, forecast_y_innings2,
-    label="Forecast Innings 2 (Seq2Seq)", linestyle="--", color="orange"
-)
+plt.figure(figsize=(12, 5))
 
-# Plot settings
-ax.set_title("Score Progression and Forecast using Seq2Seq (PyTorch)")
-ax.set_xlabel("Ball Number")
-ax.set_ylabel("Score")
-ax.legend()
-ax.grid(True)
+plt.subplot(1, 2, 1)
+plt.plot(epochs_range, train_losses, label='Training Loss')
+plt.plot(epochs_range, val_losses, label='Validation Loss')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.title('Loss History')
+plt.legend()
 
+plt.subplot(1, 2, 2)
+plt.plot(epochs_range, train_accuracies, label='Training Accuracy')
+plt.plot(epochs_range, val_accuracies, label='Validation Accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy (%)')
+plt.title('Accuracy History')
+plt.legend()
+
+plt.tight_layout()
 plt.show()
 
-# Determine if 2nd innings will win
-final_score_innings1 = train_y_innings1[-1] if len(train_y_innings1) > 0 else 0
-print(f"Final score of innings 1: {final_score_innings1}")
+# Step 10: Evaluate Model on Test Data
+model.load_state_dict(torch.load('best_model.pth'))
+model.eval()
+all_labels = []
+all_predictions = []
+all_probs = []
 
-if forecast_y_innings2[-1] > final_score_innings1:
-    print(f"2nd innings will likely win. Predicted Final Score: {forecast_y_innings2[-1]:.2f}")
-else:
-    print(f"2nd innings will likely not win. Predicted Final Score: {forecast_y_innings2[-1]:.2f}")
-
-# Function to forecast remaining overs for a single match
-def forecast_remaining_overs_single(model, innings1_data, innings2_data, steps, sequence_length):
-    model.eval()
-    input_seq = np.hstack((innings1_data, innings2_data))[-sequence_length:]
-    input_seq = torch.tensor(input_seq, dtype=torch.float32).unsqueeze(0).unsqueeze(-1).to(device)  # [1, seq_len, 1]
-    predictions = []
-    with torch.no_grad():
-        for _ in range(steps):
-            trg = input_seq[:, -1:, :]  # Take the last time step as trg
-            output = model(input_seq, trg)  # trg: [1, 1, 1]
-            next_value = output[:, -1, :].squeeze().item()  # Get the last output in the sequence
-            predictions.append(next_value)
-            next_input = torch.tensor([[[next_value]]], dtype=torch.float32).to(device)  # [1, 1, 1]
-            input_seq = torch.cat((input_seq[:, 1:, :], next_input), dim=1)  # Slide the window
-    return np.array(predictions)
-
-# Function to evaluate the model on all matches
-def evaluate_model_on_matches(model, all_innings1, all_innings2, forecast_balls, sequence_length):
-    actual_labels = []
-    predicted_labels = []
-    for innings1, innings2 in zip(all_innings1, all_innings2):
-        if len(innings2) < forecast_balls:
-            continue  # Skip matches with insufficient data
-        train_y_innings1 = innings1.to_pandas()["curr_score"].values
-        train_y_innings2 = innings2.to_pandas()["curr_score"].values[:-forecast_balls]
-        actual_final_score_innings2 = innings2.to_pandas()["curr_score"].values[-1]
+with torch.no_grad():
+    correct = 0
+    total = 0
+    for team, player, ball, labels in test_dataloader:
+        team = team.float()
+        player = player.float()
+        ball = ball.float()
+        labels = labels.float()
         
-        scaler_innings1 = MinMaxScaler()
-        train_y_innings1_scaled = scaler_innings1.fit_transform(train_y_innings1.reshape(-1, 1))
-        
-        scaler_innings2 = MinMaxScaler()
-        train_y_innings2_scaled = scaler_innings2.fit_transform(train_y_innings2.reshape(-1, 1))
-        
-        forecast_horizon = forecast_balls
-        forecast_y_innings2 = forecast_remaining_overs_single(
-            model,
-            train_y_innings1_scaled.flatten(),
-            train_y_innings2_scaled.flatten(),
-            forecast_horizon,
-            sequence_length
-        )
-        
-        forecast_y_innings2 = scaler_innings2.inverse_transform(
-            forecast_y_innings2.reshape(-1, 1)
-        ).flatten()
-        
-        final_score_innings1 = train_y_innings1[-1] if len(train_y_innings1) > 0 else 0
-        actual_labels.append(int(actual_final_score_innings2 > final_score_innings1))
-        predicted_labels.append(int(forecast_y_innings2[-1] > final_score_innings1))
+        outputs = model(team, player, ball)
+        probs = outputs.squeeze().cpu().numpy()
+        predicted = (outputs.data > 0.5).float()
+        all_labels.extend(labels.cpu().numpy())
+        all_predictions.extend(predicted.cpu().numpy())
+        all_probs.extend(probs)
+        total += labels.size(0)
+        correct += (predicted == labels).sum().item()
     
-    return actual_labels, predicted_labels
+    print('Test Accuracy: {:.2f} %'.format(100 * correct / total))
 
-# Evaluate the model on all matches
-actual_labels, predicted_labels = evaluate_model_on_matches(
-    model, all_innings1, all_innings2, forecast_balls, sequence_length
-)
+# Step 11: Generate Evaluation Metrics
+conf_matrix = confusion_matrix(all_labels, all_predictions)
+print('Confusion Matrix:')
+print(conf_matrix)
 
-# Calculate confusion matrix and accuracy
-cm = confusion_matrix(actual_labels, predicted_labels)
-accuracy = accuracy_score(actual_labels, predicted_labels)
-print("Confusion Matrix:")
-print(cm)
-print(f"Accuracy: {accuracy * 100:.2f}%")
+class_report = classification_report(all_labels, all_predictions, target_names=['Class 0', 'Class 1'])
+print('Classification Report:')
+print(class_report)
+
+fpr, tpr, _ = roc_curve(all_labels, all_probs)
+roc_auc = auc(fpr, tpr)
+
+plt.figure()
+plt.plot(fpr, tpr, label='ROC Curve (AUC = {:.2f})'.format(roc_auc))
+plt.plot([0, 1], [0, 1], 'k--')
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('Receiver Operating Characteristic (ROC) Curve')
+plt.legend(loc='lower right')
+plt.show()

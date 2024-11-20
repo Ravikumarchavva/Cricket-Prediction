@@ -1,296 +1,263 @@
 import os
 import sys
-sys.path.append(os.path.join(os.getcwd(), '..'))
 import pickle
-
-
-# Load the dataloaders
-train_dataloader = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'train_dataloader.pkl'), 'rb'))
-val_dataloader = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'val_dataloader.pkl'), 'rb'))
-test_dataloader = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'test_dataloader.pkl'), 'rb'))
-
-for team_input, player_input, ball_input, labels, mask in train_dataloader:
-    print(f"Team input shape: {team_input.shape}")  # [batch_size, team_feature_dim]
-    print(f"Player input shape: {player_input.shape}")  # [batch_size, player_feature_dim]
-    print(f"Padded ball input shape: {ball_input.shape}")  # [batch_size, max_seq_len, ball_feature_dim]
-    print(f"Mask shape: {mask.shape}")  # [batch_size, max_seq_len]
-    print(f"Labels shape: {labels.shape}")  # [batch_size]
-    break
-
-# Before training, compute and print class balance
-from collections import Counter
-
-# Get all labels from the training data
-all_labels = []
-for _, _, _, labels, _ in train_dataloader:
-    all_labels.extend(labels.numpy())
-
-class_counts = Counter(all_labels)
-total_samples = len(all_labels)
-print("Class distribution in training data:")
-for cls, count in class_counts.items():
-    print(f"Class {int(cls)}: {count} samples ({(count/total_samples)*100:.2f}%)")
-
-# Architecture of the model
-
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
-# from tqdm import tqdm  # Removed tqdm import
-from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
+from sklearn.preprocessing import StandardScaler
+from torch.optim.lr_scheduler import ReduceLROnPlateau
+from tqdm import tqdm
+from matplotlib import pyplot as plt
+from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
 
-# Implement Attention Mechanism
-class Attention(nn.Module):
-    def __init__(self, hidden_dim):
-        super(Attention, self).__init__()
-        self.hidden_dim = hidden_dim
-        # Ensure in_features matches concatenated hidden states (hidden_dim*4)
-        self.attn = nn.Linear(self.hidden_dim * 4, self.hidden_dim)  # Changed from hidden_dim * 2 to hidden_dim * 4
-        self.v = nn.Parameter(torch.rand(self.hidden_dim))
+sys.path.append(os.path.join(os.getcwd(), '..'))
+from model_utils import CricketDataset, collate_fn_with_padding
+from torch.utils.data import DataLoader
 
-    def forward(self, hidden, encoder_outputs):
-        # hidden: [batch_size, hidden_dim*2]
-        # encoder_outputs: [batch_size, seq_len, hidden_dim*2]
-        attn_energies = self.score(hidden, encoder_outputs)  # [batch_size, seq_len]
-        return F.softmax(attn_energies, dim=1)  # [batch_size, seq_len]
+# Load the Datasets
+train_dataset = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'train_dataset.pkl'), 'rb'))
+val_dataset = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'val_dataset.pkl'), 'rb'))
+test_dataset = pickle.load(open(os.path.join(os.getcwd(), '..', "data", "pytorch_data", 'test_dataset.pkl'), 'rb'))
 
-    def score(self, hidden, encoder_outputs):
-        # hidden: [batch_size, hidden_dim*2]
-        # encoder_outputs: [batch_size, seq_len, hidden_dim*2]
-        hidden = hidden.unsqueeze(1).repeat(1, encoder_outputs.size(1), 1)  # [batch_size, seq_len, hidden_dim*2]
-        # Concatenate hidden and encoder_outputs along the feature dimension
-        energy_input = torch.cat((hidden, encoder_outputs), dim=2)  # [batch_size, seq_len, hidden_dim*4]
-        energy = torch.tanh(self.attn(energy_input))  # [batch_size, seq_len, hidden_dim]
-        energy = energy.transpose(1, 2)  # [batch_size, hidden_dim, seq_len]
-        v = self.v.repeat(encoder_outputs.size(0), 1).unsqueeze(1)  # [batch_size, 1, hidden_dim]
-        energy = torch.bmm(v, energy)  # [batch_size, 1, seq_len]
-        return energy.squeeze(1)  # [batch_size, seq_len]
+# Create DataLoaders
+train_dataloader = DataLoader(train_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn_with_padding)
+val_dataloader = DataLoader(val_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn_with_padding)
+test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False, collate_fn=collate_fn_with_padding)
 
-# Add TeamStatsModel
-class TeamStatsModel(nn.Module):
-    def __init__(self, input_size):
-        super(TeamStatsModel, self).__init__()
-        self.model = nn.Sequential(
-            nn.Linear(input_size, 64),
-            nn.ReLU(),
-            nn.BatchNorm1d(64),
-            nn.Dropout(0.5),
-            nn.Linear(64, 32),
-            nn.ReLU(),
-            nn.BatchNorm1d(32),
-            nn.Dropout(0.5),
-            nn.Linear(32, 16),
-            nn.ReLU()
-        )
+# Step 1: Extract Data from DataLoader
+team_data = []
+player_data = []
+ball_data = []
 
-    def forward(self, x):
-        return self.model(x)
+for team, player, ball, _ in train_dataloader:
+    team_data.append(team.numpy())
+    player_data.append(player.numpy())
+    ball_data.append(ball.numpy())
 
-# Modify PlayerStatsModel to use vertically-oriented convolutional filters
-class PlayerStatsModel(nn.Module):
-    def __init__(self, input_size, seq_len):
-        super(PlayerStatsModel, self).__init__()
-        self.conv1 = nn.Conv2d(in_channels=1, out_channels=32, kernel_size=(3, 1))  # Vertical kernel
-        self.bn1 = nn.BatchNorm2d(32)
-        self.pool1 = nn.MaxPool2d(kernel_size=(2, 1))
-        self.conv2 = nn.Conv2d(32, 64, kernel_size=(3, 1))  # Vertical kernel
-        self.bn2 = nn.BatchNorm2d(64)
-        self.pool2 = nn.MaxPool2d(kernel_size=(2, 1))
-        self.flatten = nn.Flatten()
-        self.fc = nn.Linear(64 * ((seq_len - 4) // 4), 16)  # Adjust input size dynamically
+# Flatten the lists
+team_data = [item for sublist in team_data for item in sublist]
+player_data = [item for sublist in player_data for item in sublist]
+ball_data = [item for sublist in ball_data for item in sublist]
+
+# Reshape the data to 2D arrays
+team_data = [team.reshape(1, -1) if team.ndim == 1 else team for team in team_data]
+player_data = [player.reshape(1, -1) if player.ndim == 1 else player for player in player_data]
+ball_data = [ball.reshape(1, -1) if ball.ndim == 1 else ball for ball in ball_data]
+
+# Step 2: Normalize Data
+scaler_team = StandardScaler()
+scaler_player = StandardScaler()
+scaler_ball = StandardScaler()
+
+team_data = [scaler_team.fit_transform(team) for team in team_data]
+player_data = [scaler_player.fit_transform(player) for player in player_data]
+ball_data = [scaler_ball.fit_transform(ball) for ball in ball_data]
+
+# Step 3: Define Model
+class Encoder(nn.Module):
+    def __init__(self, input_size, hidden_size, num_layers, dropout=0.5):
+        super(Encoder, self).__init__()
+        self.hidden_size = hidden_size
+        self.num_layers = num_layers
+        self.rnn = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True, dropout=dropout)
 
     def forward(self, x):
-        x = x.unsqueeze(1)  # Add channel dimension: (batch, 1, seq_len, input_size)
-        x = F.relu(self.bn1(self.conv1(x)))
-        x = self.pool1(x)
-        x = F.relu(self.bn2(self.conv2(x)))
-        x = self.pool2(x)
-        x = self.flatten(x)
-        x = F.relu(self.fc(x))
+        h0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size)
+        c0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size)
+        out, (hidden, _) = self.rnn(x, (h0, c0))
+        return hidden
+
+class Decoder(nn.Module):
+    def __init__(self, input_size, num_classes):
+        super(Decoder, self).__init__()
+        self.fc = nn.Linear(input_size, num_classes)
+        self.sigmoid = nn.Sigmoid()
+
+    def forward(self, x):
+        x = self.fc(x)
+        x = self.sigmoid(x)
         return x
 
-# Update the model to include attention
-class CricketModel(nn.Module):
-    def __init__(self, team_input_dim, player_input_dim, ball_input_dim, hidden_dim=16, player_seq_len=10):
-        super(CricketModel, self).__init__()
-        self.hidden_dim = hidden_dim
-        self.attention = Attention(hidden_dim)
-        
-        # Initialize TeamStatsModel
-        self.team_stats_model = TeamStatsModel(input_size=team_input_dim)
-        
-        # Initialize PlayerStatsModel with vertical convolution
-        self.player_stats_model = PlayerStatsModel(input_size=player_input_dim, seq_len=player_seq_len)
-        
-        # Player team aggregation
-        self.player_team_fc = nn.Sequential(
-            nn.Linear(16 * 11, 32),
-            nn.ReLU(),
-            nn.Dropout(0.3)
-        )
-        # Team stats encoding
-        self.team_fc = nn.Sequential(
-            nn.Linear(16, 32),  # Output from TeamStatsModel is 16
-            nn.ReLU(),
-            nn.Dropout(0.3)
-        )
-        # Ball-by-ball sequence encoding with GRU
-        self.rnn = nn.GRU(ball_input_dim, hidden_dim, num_layers=1, batch_first=True, bidirectional=True)
-        # Final classification layer
-        self.fc = nn.Sequential(
-            nn.Linear(32 + 32 + hidden_dim * 2, 32),  # hidden_dim * 2 = 32
-            nn.ReLU(),
-            nn.Dropout(0.3),
-            nn.Linear(32, 1)
-        )
+class EncoderDecoderModel(nn.Module):
+    def __init__(self, team_input_size, player_input_size, ball_input_size, hidden_size, num_layers, num_classes):
+        super(EncoderDecoderModel, self).__init__()
+        self.team_encoder = Encoder(team_input_size, hidden_size, num_layers)
+        self.player_encoder = Encoder(player_input_size, hidden_size, num_layers)
+        self.ball_encoder = Encoder(ball_input_size, hidden_size, num_layers)
+        self.decoder = Decoder(hidden_size * 3, num_classes)
 
-    def forward(self, team_input, player_input, ball_input, mask):
-        # Team stats encoding
-        team_out = self.team_stats_model(team_input)  # Output: [batch_size, 16]
-        team_out = self.team_fc(team_out)  # Output: [batch_size, 32]
+    def forward(self, team, player, ball):
+        team = team.float()
+        player = player.float()
+        ball = ball.float()
 
-        # Player stats encoding per team
-        team1_player_input = player_input[:, :11, :]  # [batch_size, 11, input_size]
-        team2_player_input = player_input[:, 11:, :]  # [batch_size, 11, input_size]
+        if team.dim() == 2:
+            team = team.unsqueeze(1)
+        team_hidden = self.team_encoder(team)[-1]
 
-        # Process each team's players
-        team1_player_out = self.player_stats_model(team1_player_input)  # [batch_size, 16]
-        team2_player_out = self.player_stats_model(team2_player_input)  # [batch_size, 16]
+        if player.dim() == 2:
+            player = player.unsqueeze(1)
+        player_hidden = self.player_encoder(player)[-1]
 
-        # Aggregate player features per team
-        team1_player_out = self.player_team_fc(team1_player_out)  # [batch_size, 32]
-        team2_player_out = self.player_team_fc(team2_player_out)  # [batch_size, 32]
+        if ball.dim() == 2:
+            ball = ball.unsqueeze(1)
+        ball_hidden = self.ball_encoder(ball)[-1]
 
-        # Compute difference between team representations
-        player_diff = team1_player_out - team2_player_out  # [batch_size, 32]
+        combined_hidden = torch.cat((team_hidden, player_hidden, ball_hidden), dim=1)
+        output = self.decoder(combined_hidden)
+        return output
 
-        # Ball-by-ball sequence encoding with attention
-        lengths = mask.sum(1).cpu()
-        packed_ball_input = pack_padded_sequence(ball_input, lengths, batch_first=True, enforce_sorted=False)
-        packed_rnn_out, hidden = self.rnn(packed_ball_input)
-        rnn_out, _ = pad_packed_sequence(packed_rnn_out, batch_first=True)  # [batch_size, seq_len, hidden_dim*2]
-        hidden = torch.cat((hidden[-2,:,:], hidden[-1,:,:]), dim=1)  # [batch_size, hidden_dim*2]
-
-        # Apply attention
-        attn_weights = self.attention(hidden, rnn_out)  # [batch_size, seq_len]
-        context = torch.bmm(attn_weights.unsqueeze(1), rnn_out).squeeze(1)  # [batch_size, hidden_dim*2]
-
-        # Combine all features
-        combined_out = torch.cat((team_out, player_diff, context), dim=1)  # [batch_size, 32 + 32 + hidden_dim*2]
-
-        # Classification
-        return self.fc(combined_out)
-
-# Initialize the model with adjusted parameters
-model = CricketModel(
-    team_input_dim=team_input.shape[1],
-    player_input_dim=player_input.shape[2],
-    ball_input_dim=ball_input.shape[2],
-    hidden_dim=16  # Ensure hidden_dim matches the updated value
+model = EncoderDecoderModel(
+    team_input_size=team_data[0].shape[1],
+    player_input_size=player_data[0].shape[1],
+    ball_input_size=ball_data[0].shape[1],
+    hidden_size=64,
+    num_layers=2,
+    num_classes=1
 )
 
-# Move the model to the GPU
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model.to(device)
+criterion = nn.BCELoss()
+optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+scheduler = ReduceLROnPlateau(optimizer, mode='min', factor=0.5, patience=15, verbose=True)
 
-# Update the loss function
-criterion = nn.BCEWithLogitsLoss()
+# Define the directory to save the best model and plots
+save_dir = os.path.dirname(os.path.abspath(__file__))
 
-# 2. Adjust the optimizer to include weight decay for regularization
-optimizer = torch.optim.Adam(model.parameters(), lr=0.0001, weight_decay=1e-5)  # Added weight_decay
+# Step 4: Train Model
+best_val_loss = float('inf')
+patience = 10
+trigger_times = 0
+num_epochs = 100
 
-# 3. Add a learning rate scheduler
-scheduler = torch.optim.lr_scheduler.StepLR(optimizer, step_size=5, gamma=0.5)
-
-# Lists to store metrics
 train_losses = []
-train_accuracies = []
 val_losses = []
+train_accuracies = []
 val_accuracies = []
 
-# Import additional metrics
-from sklearn.metrics import f1_score, precision_score, recall_score
-# Import ROC AUC metric
-from sklearn.metrics import roc_auc_score
-
-# Training loop
-# from tqdm import tqdm  # Removed tqdm import
-
-num_epochs = 50  # Increased number of epochs from 20 to 50
 for epoch in range(num_epochs):
     model.train()
     running_loss = 0.0
-    correct_preds = 0
-    total_preds = 0
-    y_true_train = []
-    y_pred_train = []
-    y_pred_prob_train = []  # Add this list
-    # Removed tqdm from the loop
-    for team_input, player_input, ball_input, labels, mask in train_dataloader:
-        team_input, player_input, ball_input, labels, mask = team_input.to(device), player_input.to(device), ball_input.to(device), labels.to(device), mask.to(device)
+    running_corrects = 0
+    total = 0
+    for team, player, ball, labels in tqdm(train_dataloader):
+        labels = labels.float()
+        outputs = model(team, player, ball)
+        loss = criterion(outputs, labels)
         optimizer.zero_grad()
-        outputs = model(team_input, player_input, ball_input, mask).squeeze()
-        loss = criterion(outputs, labels.float())
         loss.backward()
         optimizer.step()
-
         running_loss += loss.item()
-        probs = torch.sigmoid(outputs).cpu().detach().numpy()
-        predictions = (probs > 0.5).astype(int)
-        correct_preds += (predictions == labels.cpu().detach().numpy()).sum()
-        total_preds += labels.size(0)
+        predicted = (outputs.data > 0.5).float()
+        total += labels.size(0)
+        running_corrects += (predicted == labels).sum().item()
+    avg_loss = running_loss / len(train_dataloader)
+    train_acc = 100 * running_corrects / total
 
-        y_true_train.extend(labels.detach().cpu().detach().numpy())
-        y_pred_train.extend(predictions)
-        y_pred_prob_train.extend(probs)  # Collect probabilities
-    train_loss = running_loss / len(train_dataloader)
-    train_acc = correct_preds / total_preds
-
-    # Calculate additional metrics
-    train_f1 = f1_score(y_true_train, y_pred_train)
-    train_precision = precision_score(y_true_train, y_pred_train, zero_division=0)
-    train_recall = recall_score(y_true_train, y_pred_train, zero_division=0)
-    train_auc = roc_auc_score(y_true_train, y_pred_prob_train)  # Compute AUC
-    train_losses.append(train_loss)
+    train_losses.append(avg_loss)
     train_accuracies.append(train_acc)
 
-    # Validation loop with accuracy calculation
     model.eval()
-    val_running_loss = 0.0
-    val_correct_preds = 0
-    val_total_preds = 0
-    y_true_val = []
-    y_pred_val = []
-    y_pred_prob_val = []  # Add this list
+    val_loss = 0.0
+    val_corrects = 0
+    val_total = 0
     with torch.no_grad():
-        for team_input, player_input, ball_input, labels, mask in val_dataloader:
-            team_input, player_input, ball_input, labels, mask = team_input.to(device), player_input.to(device), ball_input.to(device), labels.to(device), mask.to(device)
-            outputs = model(team_input, player_input, ball_input, mask).squeeze()
-            loss = criterion(outputs, labels.float())
-            val_running_loss += loss.item()
-            probs = torch.sigmoid(outputs).cpu().detach().numpy()
-            predictions = (probs > 0.5).astype(int)
-            val_correct_preds += (predictions == labels.detach().cpu().detach().numpy()).sum()
-            val_total_preds += labels.size(0)
+        for team, player, ball, labels in val_dataloader:
+            labels = labels.float()
+            outputs = model(team, player, ball)
+            loss = criterion(outputs, labels)
+            val_loss += loss.item()
+            predicted = (outputs.data > 0.5).float()
+            val_total += labels.size(0)
+            val_corrects += (predicted == labels).sum().item()
+    avg_val_loss = val_loss / len(val_dataloader)
+    val_acc = 100 * val_corrects / val_total
 
-            y_true_val.extend(labels.cpu().detach().numpy())
-            y_pred_val.extend(predictions)
-            y_pred_prob_val.extend(probs)  # Collect probabilities
-    val_loss = val_running_loss / len(val_dataloader)
-    val_acc = val_correct_preds / val_total_preds
-
-    # Calculate additional metrics
-    val_f1 = f1_score(y_true_val, y_pred_val, zero_division=0)
-    val_precision = precision_score(y_true_val, y_pred_val, zero_division=0)
-    val_recall = recall_score(y_true_val, y_pred_val, zero_division=0)
-    val_auc = roc_auc_score(y_true_val, y_pred_prob_val)  # Compute AUC
-    val_losses.append(val_loss)
+    val_losses.append(avg_val_loss)
     val_accuracies.append(val_acc)
 
-    print(f"Epoch {epoch+1}/{num_epochs}, "
-          f"Train Loss: {train_loss:.4f}, Train Acc: {train_acc:.4f}, Train AUC: {train_auc:.4f}, "
-          f"Train F1: {train_f1:.4f}, "
-          f"Val Loss: {val_loss:.4f}, Val Acc: {val_acc:.4f}, Val AUC: {val_auc:.4f}, Val F1: {val_f1:.4f}")
+    print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {avg_loss:.4f}, Acc: {train_acc:.2f}%, Val Loss: {avg_val_loss:.4f}, Val Acc: {val_acc:.2f}%')
 
-    # Step the scheduler
-    scheduler.step()
+    scheduler.step(avg_val_loss)
+
+    if avg_val_loss < best_val_loss:
+        best_val_loss = avg_val_loss
+        trigger_times = 0
+        torch.save(model.state_dict(), os.path.join(save_dir, 'best_model.pth'))
+    else:
+        trigger_times += 1
+        if trigger_times >= patience:
+            print('Early stopping!')
+            break
+
+# Step 5: Plot Training History
+epochs_range = range(1, len(train_losses) + 1)
+
+plt.figure(figsize=(12, 5))
+
+plt.subplot(1, 2, 1)
+plt.plot(epochs_range, train_losses, label='Training Loss')
+plt.plot(epochs_range, val_losses, label='Validation Loss')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.title('Loss History')
+plt.legend()
+
+plt.subplot(1, 2, 2)
+plt.plot(epochs_range, train_accuracies, label='Training Accuracy')
+plt.plot(epochs_range, val_accuracies, label='Validation Accuracy')
+plt.xlabel('Epochs')
+plt.ylabel('Accuracy (%)')
+plt.title('Accuracy History')
+plt.legend()
+
+plt.tight_layout()
+plt.savefig(os.path.join(save_dir, 'training_history.png'))
+plt.show()
+
+# Step 6: Evaluate Model on Test Data
+model.load_state_dict(torch.load(os.path.join(save_dir, 'best_model.pth')))
+model.eval()
+all_labels = []
+all_predictions = []
+all_probs = []
+
+with torch.no_grad():
+    correct = 0
+    total = 0
+    for team, player, ball, labels in test_dataloader:
+        team = team.float()
+        player = player.float()
+        ball = ball.float()
+        labels = labels.float()
+        
+        outputs = model(team, player, ball)
+        probs = outputs.squeeze().cpu().numpy()
+        predicted = (outputs.data > 0.5).float()
+        all_labels.extend(labels.cpu().numpy())
+        all_predictions.extend(predicted.cpu().numpy())
+        all_probs.extend(probs)
+        total += labels.size(0)
+        correct += (predicted == labels).sum().item()
+    
+    print('Test Accuracy: {:.2f} %'.format(100 * correct / total))
+
+# Step 7: Generate Evaluation Metrics
+conf_matrix = confusion_matrix(all_labels, all_predictions)
+print('Confusion Matrix:')
+print(conf_matrix)
+
+class_report = classification_report(all_labels, all_predictions, target_names=['Class 0', 'Class 1'])
+print('Classification Report:')
+print(class_report)
+
+fpr, tpr, _ = roc_curve(all_labels, all_probs)
+roc_auc = auc(fpr, tpr)
+
+plt.figure()
+plt.plot(fpr, tpr, label='ROC Curve (AUC = {:.2f})'.format(roc_auc))
+plt.plot([0, 1], [0, 1], 'k--')
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('Receiver Operating Characteristic (ROC) Curve')
+plt.legend(loc='lower right')
+plt.savefig(os.path.join(save_dir, 'roc_curve.png'))
+plt.show()

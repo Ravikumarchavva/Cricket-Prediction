@@ -1,6 +1,5 @@
 outs:
-- md5: df3fde24e4af678db4f0388ed942c5bd
-  size: 57260
-  isexec: true
+- md5: 64fc97d15b72b7625cd8e899ebd7fb4a
+  size: 57083
   hash: md5
   path: team12_stats.csv
