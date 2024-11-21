@@ -15,7 +15,7 @@ import pandas as pd
 wandb.init(project="T20I")
 
 sys.path.append(os.path.join(os.getcwd(), '..'))
-from model_utils import collate_fn_with_padding
+from model_utils import collate_fn_with_padding, EncoderDecoderModel, extract_data
 from torch.utils.data import DataLoader
 
 # Load the Datasets
@@ -28,133 +28,12 @@ train_dataloader = DataLoader(train_dataset, batch_size=16, shuffle=True, collat
 val_dataloader = DataLoader(val_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn_with_padding)
 test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False, collate_fn=collate_fn_with_padding)
 
-# Step 1: Extract Data from DataLoader
-team_data = []
-player_data = []
-ball_data = []
-
-for team, player, ball, _ in train_dataloader:
-    team_data.append(team.numpy())
-    player_data.append(player.numpy())
-    ball_data.append(ball.numpy())
-
-# Flatten the lists
-team_data = [item for sublist in team_data for item in sublist]
-player_data = [item for sublist in player_data for item in sublist]
-ball_data = [item for sublist in ball_data for item in sublist]
-
-# Reshape the data to 2D arrays
-team_data = [team.reshape(1, -1) if team.ndim == 1 else team for team in team_data]
-player_data = [player.reshape(1, -1) if player.ndim == 1 else player for player in player_data]
-ball_data = [ball.reshape(1, -1) if ball.ndim == 1 else ball for ball in ball_data]
-
-# Step 2: Normalize Data
-scaler_team = StandardScaler()
-scaler_player = StandardScaler()
-scaler_ball = StandardScaler()
-
-team_data = [scaler_team.fit_transform(team) for team in team_data]
-player_data = [scaler_player.fit_transform(player) for player in player_data]
-ball_data = [scaler_ball.fit_transform(ball) for ball in ball_data]
+team_data, player_data, ball_data, labels = extract_data(train_dataset)
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-# Step 3: Define Model
-class TeamEncoder(nn.Module):
-    def __init__(self, input_size, hidden_size, dropout=0.5):
-        super(TeamEncoder, self).__init__()
-        self.fc1 = nn.Linear(input_size, hidden_size)
-        self.dropout = nn.Dropout(dropout)
-        self.relu = nn.ReLU()
-
-    def forward(self, x):
-        x = self.fc1(x)
-        x = self.dropout(x)
-        x = self.relu(x)
-        return x
-
-class PlayerEncoder(nn.Module):
-    def __init__(self, input_channels, hidden_size, dropout=0.5):
-        super(PlayerEncoder, self).__init__()
-        self.conv1 = nn.Conv2d(input_channels, 32, kernel_size=3, padding=1)
-        self.conv2 = nn.Conv2d(32, 64, kernel_size=3, padding=1)
-        self.pool = nn.MaxPool2d(kernel_size=2, stride=2)
-        self.dropout = nn.Dropout(dropout)
-        self.relu = nn.ReLU()
-        self.hidden_size = hidden_size
-
-    def forward(self, x):
-        x = x.to(device)  # Ensure input tensor is on the same device
-        x = self.conv1(x)
-        x = self.relu(x)
-        x = self.pool(x)
-        x = self.conv2(x)
-        x = self.relu(x)
-        x = self.pool(x)
-        x = x.view(x.size(0), -1)  # Flatten the tensor
-        if not hasattr(self, 'fc1'):
-            self.fc1 = nn.Linear(x.size(1), self.hidden_size).to(device)  # Ensure fc1 is on the same device
-        x = self.fc1(x)
-        x = self.dropout(x)
-        x = self.relu(x)
-        return x
-
-class BallEncoder(nn.Module):
-    def __init__(self, input_size, hidden_size, num_layers, dropout=0.5):
-        super(BallEncoder, self).__init__()
-        self.hidden_size = hidden_size
-        self.num_layers = num_layers
-        self.rnn = nn.LSTM(input_size, hidden_size, num_layers, batch_first=True, dropout=dropout)
-        self.dropout = nn.Dropout(dropout)
-
-    def forward(self, x):
-        h0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size).to(device)
-        c0 = torch.zeros(self.num_layers, x.size(0), self.hidden_size).to(device)
-        out, (hidden, _) = self.rnn(x, (h0, c0))
-        hidden = self.dropout(hidden)
-        return hidden
-
-class Decoder(nn.Module):
-    def __init__(self, input_size, num_classes, dropout=0.5):
-        super(Decoder, self).__init__()
-        self.fc = nn.Linear(input_size, num_classes)
-        self.sigmoid = nn.Sigmoid()
-        self.dropout = nn.Dropout(dropout)
-
-    def forward(self, x):
-        x = self.dropout(x)
-        x = self.fc(x)
-        x = self.sigmoid(x)
-        return x
-class EncoderDecoderModel(nn.Module):
-    def __init__(self, team_input_size, player_input_channels, ball_input_size, hidden_size, num_layers, num_classes, dropout=0.5):
-        super(EncoderDecoderModel, self).__init__()
-        self.team_encoder = TeamEncoder(team_input_size, hidden_size, dropout)
-        self.player_encoder = PlayerEncoder(player_input_channels, hidden_size, dropout)
-        self.ball_encoder = BallEncoder(ball_input_size, hidden_size, num_layers, dropout)
-        self.decoder = Decoder(hidden_size * 3, num_classes, dropout)
-
-    def forward(self, team, player, ball):
-        team = team.float()
-        player = player.float()
-        ball = ball.float()
-
-        team_hidden = self.team_encoder(team)
-
-        if player.dim() == 3:
-            player = player.unsqueeze(1)  # Add channel dimension
-        player_hidden = self.player_encoder(player)
-
-        if ball.dim() == 2:
-            ball = ball.unsqueeze(1)
-        ball_hidden = self.ball_encoder(ball)[-1]
-
-        combined_hidden = torch.cat((team_hidden, player_hidden, ball_hidden), dim=1)
-        output = self.decoder(combined_hidden)
-        return output
-
 model = EncoderDecoderModel(
-    team_input_size=team_data[0].shape[1],
+    team_input_size=team_data[0].shape[0],
     player_input_channels=1,  # Assuming player data is 2D and needs a channel dimension
     ball_input_size=ball_data[0].shape[1],
     hidden_size=64,

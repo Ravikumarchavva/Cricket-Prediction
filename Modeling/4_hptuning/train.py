@@ -6,15 +6,17 @@ import torch.nn as nn
 import wandb
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 from tqdm import tqdm
-from matplotlib import pyplot as plt
-from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc, precision_score, accuracy_score, recall_score, f1_score
+from sklearn.metrics import (
+    confusion_matrix, classification_report, roc_curve, auc,
+    accuracy_score, precision_score, recall_score, f1_score
+)
 import pandas as pd
 
 # Initialize Weights & Biases
 wandb.init(project="T20I")
 
 sys.path.append(os.path.join(os.getcwd(), '..'))
-from model_utils import collate_fn_with_padding, extract_data, augment_match_data, CricketDataset, EncoderDecoderModel
+from model_utils import collate_fn_with_padding, extract_data, augment_match_data, CricketDataset, EncoderDecoderModel, plot_training_history, plot_roc_curve
 from torch.utils.data import DataLoader
 
 # Load the Datasets
@@ -47,6 +49,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
 
 # Step 3: Define Model
+
 model = EncoderDecoderModel(
     team_input_size=train_team_data[0].shape[0],
     player_input_channels=1,  # Assuming player data is 2D and needs a channel dimension
@@ -146,27 +149,15 @@ for epoch in range(num_epochs):
 # Step 5: Plot Training History
 epochs_range = range(1, len(train_losses) + 1)
 
-plt.figure(figsize=(12, 5))
-
-plt.subplot(1, 2, 1)
-plt.plot(epochs_range, train_losses, label='Training Loss')
-plt.plot(epochs_range, val_losses, label='Validation Loss')
-plt.xlabel('Epochs')
-plt.ylabel('Loss')
-plt.title('Loss History')
-plt.legend()
-
-plt.subplot(1, 2, 2)
-plt.plot(epochs_range, train_accuracies, label='Training Accuracy')
-plt.plot(epochs_range, val_accuracies, label='Validation Accuracy')
-plt.xlabel('Epochs')
-plt.ylabel('Accuracy (%)')
-plt.title('Accuracy History')
-plt.legend()
-
-plt.tight_layout()
-plt.savefig(os.path.join(save_dir, 'training_history.png'))
-plt.show()
+# Plot training history using plot module
+plot_training_history(
+    epochs_range=epochs_range,
+    train_losses=train_losses,
+    val_losses=val_losses,
+    train_accuracies=train_accuracies,
+    val_accuracies=val_accuracies,
+    save_path=os.path.join(save_dir, 'training_history.png')
+)
 
 # Log final plots to Weights & Biases
 wandb.log({"training_history": wandb.Image(os.path.join(save_dir, 'training_history.png'))})
@@ -250,7 +241,7 @@ with torch.no_grad():
     stage_df.index.name = 'Stage'
     stage_df.reset_index(inplace=True)
     
-    overall_df = pd.DataFrame(overall_metrics, index=['Overall']).reset_index()
+    overall_df = pd.DataFrame([overall_metrics], index=['Overall']).reset_index()
     overall_df.rename(columns={'index': 'Stage'}, inplace=True)
     
     # Print metrics in DataFrame format
@@ -261,8 +252,8 @@ with torch.no_grad():
     print(overall_df.to_string(index=False))
     
     # Convert DataFrames to wandb Tables
-    stage_table = wandb.Table(data=stage_df)
-    overall_table = wandb.Table(data=overall_df)
+    stage_table = wandb.Table(dataframe=stage_df)
+    overall_table = wandb.Table(dataframe=overall_df)
     
     # Log metrics tables to Weights & Biases
     wandb.log({
@@ -275,29 +266,30 @@ conf_matrix = confusion_matrix(all_labels, all_predictions)
 print('Confusion Matrix:')
 print(conf_matrix)
 
-class_report = classification_report(all_labels, all_predictions, target_names=['Class 0', 'Class 1'])
+class_report = classification_report(all_labels, all_predictions, target_names=['Loss', 'Won'])
 print('Classification Report:')
 print(class_report)
 
 fpr, tpr, _ = roc_curve(all_labels, all_probs)
 roc_auc = auc(fpr, tpr)
 
-plt.figure()
-plt.plot(fpr, tpr, label='ROC Curve (AUC = {:.2f})'.format(roc_auc))
-plt.plot([0, 1], [0, 1], 'k--')
-plt.xlabel('False Positive Rate')
-plt.ylabel('True Positive Rate')
-plt.title('Receiver Operating Characteristic (ROC) Curve')
-plt.legend(loc='lower right')
-plt.savefig(os.path.join(save_dir, 'roc_curve.png'))
-plt.show()
+# Plot ROC curve using plot module
+plot_roc_curve(
+    fpr=fpr,
+    tpr=tpr,
+    roc_auc=roc_auc,
+    save_path=os.path.join(save_dir, 'roc_curve.png')
+)
+
+# Log ROC curve to Weights & Biases
+wandb.log({"roc_curve": wandb.Image(os.path.join(save_dir, 'roc_curve.png'))})
 
 # Convert confusion matrix to DataFrame for logging
-conf_matrix_df = pd.DataFrame(conf_matrix, index=['Actual Class 0', 'Actual Class 1'], columns=['Predicted Class 0', 'Predicted Class 1'])
+conf_matrix_df = pd.DataFrame(conf_matrix, index=['Actual Loss', 'Actual Won'], columns=['Predicted Loss', 'Predicted Won'])
 
 # Log evaluation metrics to Weights & Biases
 wandb.log({
-    "confusion_matrix": wandb.Table(dataframe=conf_matrix_df)
+    "confusion_matrix": wandb.Table(dataframe=conf_matrix_df),
 })
 
 # Finish the Weights & Biases run

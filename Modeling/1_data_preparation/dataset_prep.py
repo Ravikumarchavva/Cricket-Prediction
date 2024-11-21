@@ -2,15 +2,20 @@ import os
 import sys
 import numpy as np
 import polars as pl
-from sklearn.model_selection import train_test_split
-from torch.utils.data import DataLoader, Subset
 import pickle
+from typing import Tuple
 
 sys.path.append(os.path.join(os.getcwd(), ".."))
-from model_utils import CricketDataset, collate_fn_with_padding
+from model_utils import CricketDataset, partition_data_with_keys
 
 # Step 1: Load Data
-def load_data():
+def load_data() -> Tuple[pl.DataFrame, pl.DataFrame, pl.DataFrame]:
+    """
+    Loads the ball-by-ball data, team statistics, and player statistics.
+
+    Returns:
+        Tuple containing ball-by-ball DataFrame, team statistics DataFrame, and player statistics DataFrame.
+    """
     balltoball = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "balltoball.csv")))
     team_stats = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "team12_stats.csv")))
     players_stats = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "players_stats.csv")))
@@ -19,11 +24,6 @@ def load_data():
 balltoball, team_stats, players_stats = load_data()
 
 # Step 2: Partition Data
-def partition_data_with_keys(df, group_keys):
-    partitions = df.partition_by(group_keys)
-    keys = [tuple(partition.select(group_keys).unique().to_numpy()[0]) for partition in partitions]
-    partitions = [partition.drop(group_keys).to_numpy() for partition in partitions]
-    return keys, partitions
 
 balltoball_keys, balltoball_partitions = partition_data_with_keys(balltoball, ["match_id"])
 team_stats_keys, team_stats_partitions = partition_data_with_keys(team_stats, ["match_id"])
@@ -61,23 +61,27 @@ ball_data = [ball.to_numpy() if isinstance(ball, pl.DataFrame) else ball for bal
 
 dataset = CricketDataset(team_data, player_data, ball_data, labels)
 
+from sklearn.model_selection import train_test_split
+
 train_indices, temp_indices = train_test_split(np.arange(len(labels)), test_size=0.2, random_state=42)
 val_indices, test_indices = train_test_split(temp_indices, test_size=0.5, random_state=42)
+
+from torch.utils.data import Subset
 
 train_dataset = Subset(dataset, train_indices)
 val_dataset = Subset(dataset, val_indices)
 test_dataset = Subset(dataset, test_indices)
 
-train_dataloader = DataLoader(train_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn_with_padding)
-val_dataloader = DataLoader(val_dataset, batch_size=16, shuffle=True, collate_fn=collate_fn_with_padding)
-test_dataloader = DataLoader(test_dataset, batch_size=16, shuffle=False, collate_fn=collate_fn_with_padding)
+# Ensure paths are correctly resolved
+data_dir = os.path.join('..', 'data', 'pytorch_data')
+os.makedirs(data_dir, exist_ok=True)
 
 # Save Datasets
-with open(os.path.join('..', "data", "pytorch_data", "train_dataset.pkl"), "wb") as f:
+with open(os.path.join(data_dir, 'train_dataset.pkl'), 'wb') as f:
     pickle.dump(train_dataset, f)
 
-with open(os.path.join('..', "data", "pytorch_data", "val_dataset.pkl"), "wb") as f:
+with open(os.path.join(data_dir, 'val_dataset.pkl'), 'wb') as f:
     pickle.dump(val_dataset, f)
 
-with open(os.path.join('..', "data", "pytorch_data", "test_dataset.pkl"), "wb") as f:
+with open(os.path.join(data_dir, 'test_dataset.pkl'), 'wb') as f:
     pickle.dump(test_dataset, f)
