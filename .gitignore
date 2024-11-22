@@ -71,8 +71,7 @@ mlruns/
 **/.huggingface/
 
 # Data Pipeline specific
-dataPipelinesHdfs/**/__pycache__/
-dataPipelinesHdfs/**/**.pyc
-dataPipelinesHdfs/dags/**/__pycache__/
-dataPipelinesHdfs/dags/**.pyc
-/metadata.json
+data_pipelines/**/__pycache__/
+data_pipelines/**/**.pyc
+data_pipelines/dags/**/__pycache__/
+data_pipelines/dags/**.pyc

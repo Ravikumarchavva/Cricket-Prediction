@@ -2,14 +2,14 @@
   "os": "Windows-10-10.0.22631-SP0",
   "python": "3.9.20",
   "startedAt": "2024-11-22T05:58:45.639172Z",
-  "program": "D:\\github\\Cricket-Prediction\\Modeling\\4_hptuning\\train.py",
-  "codePath": "Modeling\\4_hptuning\\train.py",
+  "program": "D:\\github\\Cricket-Prediction\\ml_modeling\\4_hptuning\\train.py",
+  "codePath": "ml_modeling\\4_hptuning\\train.py",
   "git": {
     "remote": "https://github.com/Ravikumarchavva/Cricket-Prediction.git",
     "commit": "277282d243316552ad4c78dcb5298cf0a858a2f2"
   },
   "email": "ravikumarchavva@outlook.com",
-  "root": "D:\\github\\Cricket-Prediction\\Modeling\\4_hptuning",
+  "root": "D:\\github\\Cricket-Prediction\\ml_modeling\\4_hptuning",
   "host": "ravikumar",
   "username": "chavv",
   "executable": "C:\\Users\\chavv\\anaconda\\envs\\huggingface-torch\\python.exe",

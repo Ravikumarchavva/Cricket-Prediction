@@ -45,7 +45,7 @@ num_layers:
 python_version:
     value: 3.9.20 (main, Oct  3 2024, 07:38:01) [MSC v.1929 64 bit (AMD64)]
 save_dir:
-    value: D:\github\Cricket-Prediction\Modeling\4_hptuning
+    value: D:\github\Cricket-Prediction\ml_modeling\4_hptuning
 torch_version:
     value: 2.4.1
 weight_decay:

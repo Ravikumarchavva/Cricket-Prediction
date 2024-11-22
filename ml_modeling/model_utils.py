@@ -354,6 +354,27 @@ def initialize_logging():
 def initialize_wandb():
     wandb.init(project="T20I-Cricket-Win-Prediction")
     return wandb.config
+
+def set_default_config(config):
+    """
+    Sets default configuration values if they are not provided.
+
+    Args:
+        config: The configuration object.
+    """
+    defaults = {
+        'batch_size': 32,
+        'hidden_size': 128,
+        'num_layers': 2,
+        'dropout': 0.5,
+        'lr': 0.001,
+        'weight_decay': 0.0001,
+        'num_epochs': 50
+    }
+    for key, value in defaults.items():
+        if not hasattr(config, key):
+            setattr(config, key, value)
+
 import pickle
 def load_datasets():
     base_path = os.path.join(os.getcwd(), '..', "data", "pytorch_data")

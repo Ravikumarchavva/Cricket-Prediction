@@ -7,7 +7,7 @@ This project is an **end-to-end data science solution** designed to predict the 
 - [Overview](#overview)
 - [Directory Structure](#directory-structure)
 - [Data Processing Pipeline](#data-processing-pipeline)
-- [Modeling Approach](#modeling-approach)
+- [ml_modeling Approach](#modeling-approach)
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
@@ -33,13 +33,13 @@ Here's a high-level structure of the project folders:
 │   ├── 3_aftermerging       # Data after merging individual stats
 │   ├── 4_filteredData       # Filtered data for modeling
 │   └── 5_pytorchData        # Prepared data for PyTorch model training
-├── dataPipelinesHdfs        # ETL pipeline in Airflow for data ingestion and processing
+├── data_pipelines        # ETL pipeline in Airflow for data ingestion and processing
 │   ├── a_data_sources
 │   ├── b_data_preprocessing
 │   ├── c_data_merging
 │   ├── d_data_filtering
 │   └── dags                 # Airflow DAGs
-├── sparkDataManuplation     # Spark scripts for preprocessing, EDA, merging, and filtering data
+├── data_manuplation     # Spark scripts for preprocessing, EDA, merging, and filtering data
 │   ├── 1_preprocessing
 │   ├── 2_eda
 │   ├── 3_mergers
@@ -73,11 +73,11 @@ The entire data pipeline is visualized in Airflow, with each step from data extr
 
 
 
-## Modeling Approach
+## ml_modeling Approach
 
 This solution employs a sophisticated **multi-model architecture**:
 
-1. **RNN or Transformer for Sequence Modeling**: Processes ball-by-ball data to capture temporal match dynamics.
+1. **RNN or Transformer for Sequence ml_modeling**: Processes ball-by-ball data to capture temporal match dynamics.
 2. **CNN for Player Stats**: Extracts features from player statistics, taking advantage of CNNs for feature aggregation.
 3. **DNN for Team Stats**: Processes high-level team statistics for match conditions and overall team strength.
 4. **Ensemble Model (DNN)**: Combines outputs from the RNN, CNN, and team DNN into a final DNN that predicts win probability.

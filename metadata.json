@@ -1,0 +1,33 @@
+{
+  "data": {
+    "1_rawData": {
+      "t20s_csv2": "balltoball and other historical data",
+      "people.csv": "mapping from cricsheet to espncricinfo",
+      "t20_batting_stats": "batting data scrapped",
+      "t20_bowling_stats": "bowling data scrapped",
+      "t20_fielding_stats": "fielding data scrapped",
+      "t20_team_stats": "Country or team data scrapped"
+    },
+    "2_preprocessedData": {
+      "deliveries": "balltoball",
+      "matches": "every match result",
+      "batting": "batting scrapped data preprocessed",
+      "bowling": "bowling scrapped data preprocessed",
+      "fielding": "fielding scrapped data preprocessed",
+      "MatchPlayers": "team players of each match",
+      "players": "mapping player ids of cricksheetSource with cricinfo",
+      "playerStats": "data representing players",
+      "teamStats": "team scrapped data preprocessed"
+    },
+    "3_aftermerging": {
+      "balltoballflip": "merged matches and deliveries and also added flip to see teams perspective",
+      "playerStatsflip": "merged matchPlayers and player teamStats",
+      "team12Statsflip": "merged matches and teamStats"
+    },
+    "4_filteredData": {
+      "balltoball": "intersect matches deliveries and players matchid",
+      "playerStats": "intersect matches deliveries and players matchid",
+      "team12Stats": "intersect matches deliveries and players matchid"
+    }
+  }
+}

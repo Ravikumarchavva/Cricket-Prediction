@@ -9,7 +9,7 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 
 import config
 from utils import create_spark_session, load_data, spark_save_data, country_codes
-from dataPipelinesHdfs.b_data_preprocessing.player_stats.preprocessing import (
+from data_pipelines.b_data_preprocessing.player_stats.preprocessing import (
     preprocess_bowling_data,
     map_country_codes
 )

@@ -21,7 +21,7 @@ players_stats = spark.read.csv(f'hdfs://{HDFS_HOST}:{NAMENODE_PORT}/usr/ravi/t20
 import pandas as pd
 import os
 
-modeling = '/mnt/d/github/Cricket-Prediction/Modeling'
+modeling = '/mnt/d/github/Cricket-Prediction/ml_modeling'
 
 # Convert and save balltoball dataset
 balltoball_data = balltoball.collect()
