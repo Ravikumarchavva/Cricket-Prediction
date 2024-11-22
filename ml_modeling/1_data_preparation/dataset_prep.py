@@ -6,7 +6,9 @@ import pickle
 from typing import Tuple
 
 sys.path.append(os.path.join(os.getcwd(), ".."))
-from model_utils import CricketDataset, partition_data_with_keys
+from model_utils import partition_data_with_keys
+from architecture import CricketDataset
+
 
 # Step 1: Load Data
 def load_data() -> Tuple[pl.DataFrame, pl.DataFrame, pl.DataFrame]:
@@ -16,10 +18,17 @@ def load_data() -> Tuple[pl.DataFrame, pl.DataFrame, pl.DataFrame]:
     Returns:
         Tuple containing ball-by-ball DataFrame, team statistics DataFrame, and player statistics DataFrame.
     """
-    balltoball = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "balltoball.csv")))
-    team_stats = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "team12_stats.csv")))
-    players_stats = pl.read_csv(os.path.join(os.path.join('..', "data", "filtered_data", "players_stats.csv")))
+    balltoball = pl.read_csv(
+        os.path.join(os.path.join("..", "data", "filtered_data", "balltoball.csv"))
+    )
+    team_stats = pl.read_csv(
+        os.path.join(os.path.join("..", "data", "filtered_data", "team12_stats.csv"))
+    )
+    players_stats = pl.read_csv(
+        os.path.join(os.path.join("..", "data", "filtered_data", "players_stats.csv"))
+    )
     return balltoball, team_stats, players_stats
+
 
 balltoball, team_stats, players_stats = load_data()
 
@@ -28,6 +37,7 @@ balltoball, team_stats, players_stats = load_data()
 balltoball_keys, balltoball_partitions = partition_data_with_keys(balltoball, ["match_id"])
 team_stats_keys, team_stats_partitions = partition_data_with_keys(team_stats, ["match_id"])
 players_stats_keys, players_stats_partitions = partition_data_with_keys(players_stats, ["match_id"])
+
 
 # Step 3: Align Partitions
 common_keys = set(balltoball_keys) & set(team_stats_keys) & set(players_stats_keys)
@@ -47,7 +57,9 @@ for key in common_keys:
     players_stats_partition = players_stats_dict[key]
 
     label = balltoball_partition[:, -1][0]
-    aligned_balltoball_partitions.append(balltoball_partition[:-1, :-1])  # remove the last row and column
+    aligned_balltoball_partitions.append(
+        balltoball_partition[:-1, :-1]
+    )  # remove the last row and column
     aligned_team_stats_partitions.append(team_stats_partition)
     aligned_players_stats_partitions.append(players_stats_partition)
     labels.append(label)
@@ -55,16 +67,29 @@ for key in common_keys:
 labels = np.array(labels)
 
 # Step 4: Prepare Data for Training
-team_data = [team.to_numpy() if isinstance(team, pl.DataFrame) else team for team in aligned_team_stats_partitions]
-player_data = [players.to_numpy() if isinstance(players, pl.DataFrame) else players for players in aligned_players_stats_partitions]
-ball_data = [ball.to_numpy() if isinstance(ball, pl.DataFrame) else ball for ball in aligned_balltoball_partitions]
+team_data = [
+    team.to_numpy() if isinstance(team, pl.DataFrame) else team
+    for team in aligned_team_stats_partitions
+]
+player_data = [
+    players.to_numpy() if isinstance(players, pl.DataFrame) else players
+    for players in aligned_players_stats_partitions
+]
+ball_data = [
+    ball.to_numpy() if isinstance(ball, pl.DataFrame) else ball
+    for ball in aligned_balltoball_partitions
+]
 
 dataset = CricketDataset(team_data, player_data, ball_data, labels)
 
 from sklearn.model_selection import train_test_split
 
-train_indices, temp_indices = train_test_split(np.arange(len(labels)), test_size=0.2, random_state=42)
-val_indices, test_indices = train_test_split(temp_indices, test_size=0.5, random_state=42)
+train_indices, temp_indices = train_test_split(
+    np.arange(len(labels)), test_size=0.2, random_state=42
+)
+val_indices, test_indices = train_test_split(
+    temp_indices, test_size=0.5, random_state=42
+)
 
 from torch.utils.data import Subset
 
@@ -73,15 +98,43 @@ val_dataset = Subset(dataset, val_indices)
 test_dataset = Subset(dataset, test_indices)
 
 # Ensure paths are correctly resolved
-data_dir = os.path.join('..', 'data', 'pytorch_data')
+data_dir = os.path.join("..", "data", "pytorch_data")
 os.makedirs(data_dir, exist_ok=True)
 
+train_path = os.path.join(data_dir, "train_dataset.pkl")
+val_path = os.path.join(data_dir, "val_dataset.pkl")
+test_path = os.path.join(data_dir, "test_dataset.pkl")
+
 # Save Datasets
-with open(os.path.join(data_dir, 'train_dataset.pkl'), 'wb') as f:
+with open(train_path, "wb") as f:
     pickle.dump(train_dataset, f)
 
-with open(os.path.join(data_dir, 'val_dataset.pkl'), 'wb') as f:
+with open(val_path, "wb") as f:
     pickle.dump(val_dataset, f)
 
-with open(os.path.join(data_dir, 'test_dataset.pkl'), 'wb') as f:
+with open(test_path, "wb") as f:
     pickle.dump(test_dataset, f)
+
+import wandb
+
+# Step 5: Save datasets to W&B using artifacts
+wandb.init(project="T20I-CRICKET-WINNER-PREDICTION", name="dataset-upload")
+
+# Create artifact
+artifact = wandb.Artifact(
+    "cricket-dataset",
+    type="dataset",
+    description="Train, validation, and test sets for T20I cricket winner prediction",
+    metadata={"total_samples": len(labels), "train_split": len(train_indices), "val_split": len(val_indices), "test_split": len(test_indices)},
+)
+
+# Add files to artifact
+artifact.add_file(train_path)
+artifact.add_file(val_path)
+artifact.add_file(test_path)
+
+# Log artifact
+wandb.log_artifact(artifact)
+
+# Finish W&B run
+wandb.finish()

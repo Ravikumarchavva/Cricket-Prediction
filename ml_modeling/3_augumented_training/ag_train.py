@@ -2,7 +2,6 @@ import os
 import sys
 import torch
 import wandb
-from tqdm import tqdm
 from matplotlib import pyplot as plt
 from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
 import pandas as pd
@@ -12,103 +11,18 @@ wandb.init(project="T20I-Cricket-Win-Prediction")
 
 sys.path.append(os.path.join(os.getcwd(), '..'))
 from model_utils import (
-    set_seed, initialize_logging, initialize_wandb, load_datasets, preprocess_data,
-    create_datasets, create_dataloaders, initialize_model, evaluate_model
+    set_seed, initialize_logging, initialize_wandb, set_default_config, load_datasets, augument_data,
+    create_datasets, create_dataloaders, initialize_model, evaluate_model, train_and_evaluate
 )
-
-def train_and_evaluate(model, train_dataloader, val_dataloader, config, device, save_dir):
-    criterion = torch.nn.BCELoss()
-    optimizer = torch.optim.Adam(model.parameters(), lr=config.lr, weight_decay=config.weight_decay)
-    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer, mode='min', factor=0.5, patience=20, verbose=True)
-
-    best_val_loss = float('inf')
-    patience = 10
-    trigger_times = 0
-    num_epochs = config.num_epochs
-
-    train_losses = []
-    val_losses = []
-    train_accuracies = []
-    val_accuracies = []
-
-    for epoch in range(num_epochs):
-        model.train()
-        running_loss = 0.0
-        running_corrects = 0
-        total = 0
-        for team, player, ball, labels in tqdm(train_dataloader):
-            team, player, ball, labels = team.to(device), player.to(device), ball.to(device), labels.to(device)
-            labels = labels.float()
-            outputs = model(team, player, ball)
-            loss = criterion(outputs, labels)
-            optimizer.zero_grad()
-            loss.backward()
-            optimizer.step()
-            running_loss += loss.item()
-            predicted = (outputs.data > 0.5).float()
-            total += labels.size(0)
-            running_corrects += (predicted == labels).sum().item()
-        avg_loss = running_loss / len(train_dataloader)
-        train_acc = 100 * running_corrects / total
-
-        train_losses.append(avg_loss)
-        train_accuracies.append(train_acc)
-
-        model.eval()
-        val_loss = 0.0
-        val_corrects = 0
-        val_total = 0
-        with torch.no_grad():
-            for team, player, ball, labels in val_dataloader:
-                team, player, ball, labels = team.to(device), player.to(device), ball.to(device), labels.to(device)
-                labels = labels.float()
-                outputs = model(team, player, ball)
-                loss = criterion(outputs, labels)
-                val_loss += loss.item()
-                predicted = (outputs.data > 0.5).float()
-                val_total += labels.size(0)
-                val_corrects += (predicted == labels).sum().item()
-        avg_val_loss = val_loss / len(val_dataloader)
-        val_acc = 100 * val_corrects / val_total
-
-        val_losses.append(avg_val_loss)
-        val_accuracies.append(val_acc)
-
-        print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {avg_loss:.4f}, Acc: {train_acc:.2f}%, Val Loss: {avg_val_loss:.4f}, Val Acc: {val_acc:.2f}%')
-
-        # Log metrics to Weights & Biases
-        wandb.log({
-            "epoch": epoch + 1,
-            "train_loss": avg_loss,
-            "train_accuracy": train_acc,
-            "val_loss": avg_val_loss,
-            "val_accuracy": val_acc
-        })
-
-        scheduler.step(avg_val_loss)
-
-        if avg_val_loss < best_val_loss:
-            best_val_loss = avg_val_loss
-            trigger_times = 0
-            torch.save(model.state_dict(), os.path.join(save_dir, 'best_model.pth'))
-            # Save model checkpoint to Weights & Biases
-            wandb.save(os.path.join(save_dir, 'best_model.pth'))
-        else:
-            trigger_times += 1
-            if trigger_times >= patience:
-                print('Early stopping!')
-                break
-
-    # Log final plots to Weights & Biases
-    wandb.log({"training_history": wandb.Image(os.path.join(save_dir, 'training_history.png'))})
 
 def main():
     set_seed()
     logger = initialize_logging()
     config = initialize_wandb()
+    set_default_config(config)  # Set default configuration values
 
     train_dataset, val_dataset, test_dataset = load_datasets()
-    train_data, val_data, test_data = preprocess_data(train_dataset, val_dataset, test_dataset)
+    train_data, val_data, test_data = augument_data(train_dataset, val_dataset, test_dataset)
     train_dataset, val_dataset, test_dataset = create_datasets(train_data, val_data, test_data)
 
     batch_size = config.batch_size
@@ -117,7 +31,7 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     logger.info(f"Using device: {device}")
 
-    model = initialize_model(config, train_data[0], train_data[2], device)
+    model = initialize_model(config, train_dataset, device)
     save_dir = os.path.dirname(os.path.abspath(__file__))
 
     train_and_evaluate(model, train_dataloader, val_dataloader, config, device, save_dir)
