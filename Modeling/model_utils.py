@@ -1,10 +1,15 @@
 import torch
-from torch.utils.data import Dataset
+from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pad_sequence
 from torch import nn
 import numpy as np
 import polars as pl
 from typing import List, Tuple
+import random
+import logging
+import wandb
+import os
+import matplotlib.pyplot as plt
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -335,10 +340,64 @@ class EncoderDecoderModel(nn.Module):
         output = self.decoder(combined_hidden)
         return output
 
+def set_seed(seed=42):
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
 
-# Plot
+def initialize_logging():
+    logging.basicConfig(level=logging.INFO)
+    return logging.getLogger(__name__)
 
-import matplotlib.pyplot as plt
+def initialize_wandb():
+    wandb.init(project="T20I-Cricket-Win-Prediction")
+    return wandb.config
+import pickle
+def load_datasets():
+    base_path = os.path.join(os.getcwd(), '..', "data", "pytorch_data")
+    train_dataset = pickle.load(open(os.path.join(base_path, 'train_dataset.pkl'), 'rb'))
+    val_dataset = pickle.load(open(os.path.join(base_path, 'val_dataset.pkl'), 'rb'))
+    test_dataset = pickle.load(open(os.path.join(base_path, 'test_dataset.pkl'), 'rb'))
+    return train_dataset, val_dataset, test_dataset
+
+def preprocess_data(train_dataset, val_dataset, test_dataset):
+    train_team_data, train_player_data, train_ball_data, train_labels = extract_data(train_dataset)
+    val_team_data, val_player_data, val_ball_data, val_labels = extract_data(val_dataset)
+    test_team_data, test_player_data, test_ball_data, test_labels = extract_data(test_dataset)
+
+    train_ball_data, train_team_data, train_player_data, train_labels = augment_match_data(train_ball_data, train_team_data, train_player_data, train_labels)
+    val_ball_data, val_team_data, val_player_data, val_labels = augment_match_data(val_ball_data, val_team_data, val_player_data, val_labels)
+    test_ball_data, test_team_data, test_player_data, test_labels = augment_match_data(test_ball_data, test_team_data, test_player_data, test_labels)
+
+    return (train_team_data, train_player_data, train_ball_data, train_labels), \
+           (val_team_data, val_player_data, val_ball_data, val_labels), \
+           (test_team_data, test_player_data, test_ball_data, test_labels)
+
+def create_datasets(train_data, val_data, test_data):
+    train_dataset = CricketDataset(*train_data)
+    val_dataset = CricketDataset(*val_data)
+    test_dataset = CricketDataset(*test_data)
+    return train_dataset, val_dataset, test_dataset
+
+def create_dataloaders(train_dataset, val_dataset, test_dataset, batch_size):
+    train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, collate_fn=collate_fn_with_padding)
+    val_dataloader = DataLoader(val_dataset, batch_size=batch_size, shuffle=True, collate_fn=collate_fn_with_padding)
+    test_dataloader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False, collate_fn=collate_fn_with_padding)
+    return train_dataloader, val_dataloader, test_dataloader
+
+def initialize_model(config, train_team_data, train_ball_data, device):
+    model = EncoderDecoderModel(
+        team_input_size=train_team_data[0].shape[0],
+        player_input_channels=1,
+        ball_input_size=train_ball_data[0].shape[1],
+        hidden_size=config.hidden_size,
+        num_layers=config.num_layers,
+        num_classes=1,
+        dropout=config.dropout
+    ).to(device)
+    return model
 
 def plot_training_history(epochs_range, train_losses, val_losses, train_accuracies, val_accuracies, save_path):
     plt.figure(figsize=(12, 4))
@@ -377,3 +436,73 @@ def plot_roc_curve(fpr, tpr, roc_auc, save_path):
     plt.legend(loc="lower right")
     plt.savefig(save_path)
     plt.close()
+
+from sklearn.metrics import precision_score, accuracy_score, recall_score, f1_score
+def evaluate_model(model, dataloader, device, window_sizes):
+    model.eval()
+    all_labels = []
+    all_predictions = []
+    all_probs = []
+    stage_metrics = {}
+
+    with torch.no_grad():
+        correct = 0
+        total = 0
+        for team, player, ball, labels in dataloader:
+            team, player, ball, labels = team.to(device), player.to(device), ball.to(device), labels.to(device)
+            team = team.float()
+            player = player.float()
+            ball = ball.float()
+            labels = labels.float()
+            
+            outputs = model(team, player, ball)
+            probs = outputs.squeeze().cpu().numpy()
+            if probs.ndim == 0:
+                probs = probs.reshape(1)
+            predicted = (outputs.data > 0.5).float()
+            all_labels.extend(labels.cpu().numpy())
+            all_predictions.extend(predicted.cpu().numpy())
+            all_probs.extend(probs)
+            total += labels.size(0)
+            correct += (predicted == labels).sum().item()
+        
+        print('Test Accuracy: {:.2f} %'.format(100 * correct / total))
+
+        for window in window_sizes:
+            window_length = window * 6
+            if len(all_labels) >= window_length:
+                window_labels = all_labels[:window_length]
+                window_predictions = all_predictions[:window_length]
+            else:
+                window_labels = all_labels
+                window_predictions = all_predictions
+
+            accuracy = accuracy_score(window_labels, window_predictions)
+            precision = precision_score(window_labels, window_predictions)
+            recall = recall_score(window_labels, window_predictions)
+            f1 = f1_score(window_labels, window_predictions)
+            stage_metrics[f"{window} overs"] = {
+                "accuracy": accuracy,
+                "precision": precision,
+                "recall": recall,
+                "f1": f1
+            }
+
+        overall_accuracy = accuracy_score(all_labels, all_predictions)
+        overall_precision = precision_score(all_labels, all_predictions)
+        overall_recall = recall_score(all_labels, all_predictions)
+        overall_f1 = f1_score(all_labels, all_predictions)
+        
+        overall_metrics = {
+            "accuracy": overall_accuracy,
+            "precision": overall_precision,
+            "recall": overall_recall,
+            "f1": overall_f1
+        }
+        
+        metrics = {
+            "stage_metrics": stage_metrics,
+            "overall_metrics": overall_metrics
+        }
+        
+        return metrics, all_labels, all_predictions, all_probs

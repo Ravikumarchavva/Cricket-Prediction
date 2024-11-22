@@ -54,6 +54,8 @@ models/
 .cache/
 **/.cache/
 **/dvc_storage/
+**/wandb/
+**/artifact/
 
 # MLflow artifacts
 data/dvc

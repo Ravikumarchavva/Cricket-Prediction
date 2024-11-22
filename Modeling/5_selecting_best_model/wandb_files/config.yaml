@@ -1,0 +1,52 @@
+_wandb:
+    value:
+        cli_version: 0.18.3
+        m: []
+        python_version: 3.9.20
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 55
+                - 105
+            "2":
+                - 1
+                - 5
+                - 53
+                - 55
+                - 105
+            "3":
+                - 1
+                - 2
+                - 23
+                - 55
+            "4": 3.9.20
+            "5": 0.18.3
+            "8":
+                - 3
+                - 5
+            "12": 0.18.3
+            "13": windows-amd64
+batch_size:
+    value: 64
+cuda_available:
+    value: true
+dropout:
+    value: 0.42220361454215993
+gpu_count:
+    value: 1
+hidden_size:
+    value: 256
+learning_rate:
+    value: 0.0007095742784487958
+num_layers:
+    value: 2
+python_version:
+    value: 3.9.20 (main, Oct  3 2024, 07:38:01) [MSC v.1929 64 bit (AMD64)]
+save_dir:
+    value: D:\github\Cricket-Prediction\Modeling\4_hptuning
+torch_version:
+    value: 2.4.1
+weight_decay:
+    value: 4.949723571853729e-05

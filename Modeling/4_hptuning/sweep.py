@@ -8,7 +8,7 @@ with open(os.path.join(os.path.dirname(__file__), 'hpconfig.yaml')) as config_fi
     sweep_config = yaml.safe_load(config_file)
 
 # Initialize the sweep
-sweep_id = wandb.sweep(sweep_config, project="T20I")
+sweep_id = wandb.sweep(sweep_config, project="T20I-Cricket-Win-Prediction")
 
 # Define the function to run the training script
 def train():
