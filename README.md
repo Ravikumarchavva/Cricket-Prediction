@@ -11,7 +11,6 @@ This project aims to predict the probability of a T20 cricket team winning at an
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
-- [Data Versioning with DVC](#data-versioning-with-dvc)
 
 ## Overview
 
@@ -27,7 +26,7 @@ These models are trained independently and then merged into a final DNN for comp
 Here's a high-level structure of the project folders:
 
 ```plaintext
-├── data
+├── data                     # This directory is present in HDFS
 │   ├── 1_rawData            # Raw cricket data sources (ball-by-ball and player/team stats)
 │   ├── 2_processedData      # Processed batting, bowling, fielding CSVs
 │   ├── 3_aftermerging       # Data after merging individual stats
@@ -44,14 +43,26 @@ Here's a high-level structure of the project folders:
 │   ├── 2_eda
 │   ├── 3_mergers
 │   └── 4_filteringData
-└── training                 # Training, evaluation, and hyperparameter tuning
+└── ml_modeling                 # Training, evaluation, and hyperparameter tuning
     ├── 1_labeling
     ├── 2_naivetraining
     ├── 3_evaluating
     ├── 4_hptuning
     ├── 5_specialEvaluation
-    └── train
 ```
+
+## Tech Stack
+
+The project utilizes the following technologies:
+
+- **Python**: Programming language for data processing and machine learning.
+- **PyTorch**: Deep learning framework for building and training models.
+- **Apache Spark**: Big data processing for data manipulation tasks.
+- **Apache Airflow**: Workflow management for orchestrating data pipelines.
+- **Hadoop HDFS**: Distributed file system for storing large datasets.
+- **Conda**: Environment management for package and dependency handling.
+- **Jupyter Notebooks**: Interactive development environment for code and documentation.
+- **Git**: Version control system for tracking changes in the codebase.
 
 ## Data Processing Pipeline
 
@@ -120,36 +131,6 @@ This model is deployed in a **portfolio website** as part of a static visual sho
 1. **Live API**: Introduce a server that ingests real-time match data for live prediction capabilities.
 2. **Advanced Model Tuning**: Explore ensemble techniques or reinforcement learning for enhanced predictions.
 3. **Visual Dashboard**: Develop a dynamic dashboard to visualize ongoing predictions in a user-friendly format.
-
-## Data Versioning with DVC
-
-1. **Initialize DVC:**
-   ```bash
-   dvc init
-   ```
-
-2. **Configure Remote Storage:**
-   ```bash
-   dvc remote add -d hdfs hdfs://namenode_host:port/path/to/hdfs/storage
-   ```
-
-3. **Add Data to DVC:**
-   ```bash
-   dvc add path/to/data
-   ```
-
-4. **Commit and Push:**
-   ```bash
-   git add data.dvc .gitignore
-   git commit -m "Add data with DVC"
-   dvc push
-   ```
-
-5. **Pull Data When Cloning the Repository:**
-   ```bash
-   git clone <repo_url>
-   dvc pull
-   ```
 
 ## Conclusion
 
