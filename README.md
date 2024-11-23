@@ -7,18 +7,23 @@ This project aims to predict the probability of a T20 cricket team winning at an
 - [Overview](#overview)
 - [Directory Structure](#directory-structure)
 - [Data Processing Pipeline](#data-processing-pipeline)
-- [Modeling Approach](#modeling-approach)
+- [Modeling Approach](#ml-modeling-approach)
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
+- [Conclusion](#conclusion)
 
 ## Overview
 
 The goal of this project is to provide **real-time predictions** on the likelihood of a team winning a T20 match, based on:
+
+**Encoder**
 - **Ball-by-Ball Sequences**: Utilizes an RNN to process the temporal sequence of game events.
 - **Player Statistics**: Uses a CNN to capture player performance features.
 - **Team Statistics**: Uses a DNN to aggregate overall team stats.
-
+  
+**Decoder**
+  
 These models are trained independently and then merged into a final DNN for comprehensive predictions.
 
 ## Directory Structure
@@ -26,24 +31,23 @@ These models are trained independently and then merged into a final DNN for comp
 Here's a high-level structure of the project folders:
 
 ```plaintext
-├── data                     # This directory is present in HDFS
+├── data                     # This directory is present in HDFS (Get by running Pipeline)
 │   ├── 1_rawData            # Raw cricket data sources (ball-by-ball and player/team stats)
 │   ├── 2_processedData      # Processed batting, bowling, fielding CSVs
 │   ├── 3_aftermerging       # Data after merging individual stats
-│   ├── 4_filteredData       # Filtered data for modeling
-│   └── 5_pytorchData        # Prepared data for PyTorch model training
-├── data_pipelines        # ETL pipeline in Airflow for data ingestion and processing
+│   └── 4_filteredData       # Filtered data for modeling
+├── data_pipelines           # ETL pipeline in Airflow for data ingestion and processing
 │   ├── a_data_sources
 │   ├── b_data_preprocessing
 │   ├── c_data_merging
 │   ├── d_data_filtering
 │   └── dags                 # Airflow DAGs
-├── data_manuplation     # Spark scripts for preprocessing, EDA, merging, and filtering data
+├── data_manuplation         # Spark scripts for preprocessing, EDA, merging, and filtering data
 │   ├── 1_preprocessing
 │   ├── 2_eda
 │   ├── 3_mergers
 │   └── 4_filteringData
-└── ml_modeling                 # Training, evaluation, and hyperparameter tuning
+└── ml_modeling              # Training, evaluation, and hyperparameter tuning
     ├── 1_labeling
     ├── 2_naivetraining
     ├── 3_evaluating
@@ -59,10 +63,11 @@ The project utilizes the following technologies:
 - **PyTorch**: Deep learning framework for building and training models.
 - **Apache Spark**: Big data processing for data manipulation tasks.
 - **Apache Airflow**: Workflow management for orchestrating data pipelines.
-- **Hadoop HDFS**: Distributed file system for storing large datasets.
+- **Hadoop HDFS**: Distributed file system for storing datasets.
 - **Conda**: Environment management for package and dependency handling.
 - **Jupyter Notebooks**: Interactive development environment for code and documentation.
 - **Git**: Version control system for tracking changes in the codebase.
+- **WandB**: Experiment Tracking, Hyperparameter tuning
 
 ## Data Processing Pipeline
 
@@ -71,9 +76,7 @@ The data processing pipeline consists of multiple stages and is orchestrated usi
 1. **Data Collection**: Pulls raw data from sources (e.g., Cricsheet) and ESPN cricket stats.
 2. **Data Preprocessing**: Cleans and transforms raw data for player and team stats.
 3. **Data Merging**: Combines individual datasets for player, team, and ball-by-ball statistics.
-4. **Data Filtering**: Filters datasets for model training, focusing on relevant features.
-5. **HDFS Storage**: Uses Hadoop’s HDFS for storing datasets.
-6. **Pyspark**: Uses Apache Spark for data manuplation.
+4. **Data Filtering**: Filters datasets for model training, focusing on relevant features to remove matches that are not in all 3 datasets (player, team, and ball-by-ball).
 
 ### Pipeline Diagram
 
@@ -82,13 +85,11 @@ The entire data pipeline is visualized in Airflow, with each step from data extr
 ![Airflow ETL Pipeline](./public/airflow_etl_pipeline.png)
 
 
-
-
-## ml_modeling Approach
+## Ml modeling Approach
 
 This solution employs a sophisticated **multi-model architecture**:
 
-1. **RNN or Transformer for Sequence ml_modeling**: Processes ball-by-ball data to capture temporal match dynamics.
+1. **RNN for Sequence**: Processes ball-by-ball data to capture temporal match dynamics.
 2. **CNN for Player Stats**: Extracts features from player statistics, taking advantage of CNNs for feature aggregation.
 3. **DNN for Team Stats**: Processes high-level team statistics for match conditions and overall team strength.
 4. **Ensemble Model (DNN)**: Combines outputs from the RNN, CNN, and team DNN into a final DNN that predicts win probability.
@@ -103,6 +104,7 @@ This solution employs a sophisticated **multi-model architecture**:
 2. Naive training to test baseline model performance.
 3. Evaluation and metrics analysis.
 4. Hyperparameter tuning and additional evaluations.
+5. Selecting best model from wandb sweep
 
 ## Deployment
 
@@ -117,7 +119,7 @@ This model is deployed in a **portfolio website** as part of a static visual sho
 ```Code
     conda env create -f conda-env.yaml
 ```
-3. Set up **Airflow** and **HDFS** connections in your environment configuration. and change configuration in /dataPipelineHdfs/config.py
+3. Set up **Airflow** and **HDFS** connections in your environment configuration. and change configuration in ```/data_pipelines/config.py```
 
 ### Run Pipeline
 
@@ -129,7 +131,7 @@ This model is deployed in a **portfolio website** as part of a static visual sho
 ## Future Enhancements
 
 1. **Live API**: Introduce a server that ingests real-time match data for live prediction capabilities.
-2. **Advanced Model Tuning**: Explore ensemble techniques or reinforcement learning for enhanced predictions.
+2. **Advanced Model Tuning**: Explore ```ensemble techniques``` or enhace feature engineering using ```Domain Knowledge``` for enhanced predictions.
 3. **Visual Dashboard**: Develop a dynamic dashboard to visualize ongoing predictions in a user-friendly format.
 
 ## Conclusion
