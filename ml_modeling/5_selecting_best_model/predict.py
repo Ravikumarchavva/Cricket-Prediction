@@ -6,10 +6,10 @@ import wandb
 import numpy as np
 
 # Initialize Weights & Biases
-wandb.init(project="T20I-Cricket-Win-Prediction", job_type="inference")
+wandb.init(project="T20I-CRICKET-WINNER-PREDICTION", job_type="inference")
 
 # Get the best model artifact
-artifact = wandb.use_artifact('ravikumarchavva-org/T20I-Cricket-Win-Prediction/best_model:latest', type='model')
+artifact = wandb.use_artifact('ravikumarchavva-org/T20I-CRICKET-WINNER-PREDICTION/best_model:latest', type='model')
 artifact_dir = artifact.download()
 model_path = os.path.join(artifact_dir, 'best_model.pth')
 

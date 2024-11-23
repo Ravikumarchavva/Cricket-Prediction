@@ -1,13 +1,13 @@
 # T20 Cricket Win Prediction Project
 
-This project is an **end-to-end data science solution** designed to predict the probability of a T20 cricket team winning at any given point in a match. The solution uses a combination of **RNNs, CNNs, and DNNs** for analyzing sequential data (ball-by-ball), player statistics, and team-level statistics, respectively. These models are integrated into a deep neural network that yields real-time predictions. The final model is deployed as part of a portfolio site, with results showcased through visualizations and snapshots.
+This project aims to predict the probability of a T20 cricket team winning at any given point in a match. By incorporating this model into a cricket app, we can attract more viewers by providing real-time predictions and insights during live matches. The solution uses a combination of **RNNs, CNNs, and DNNs** for analyzing sequential data (ball-by-ball), player statistics, and team-level statistics, respectively. These models are integrated into a deep neural network that yields real-time predictions. The final model is deployed as part of a portfolio site, with results showcased through visualizations and snapshots.
 
 ## Table of Contents
 
 - [Overview](#overview)
 - [Directory Structure](#directory-structure)
 - [Data Processing Pipeline](#data-processing-pipeline)
-- [ml_modeling Approach](#modeling-approach)
+- [Modeling Approach](#modeling-approach)
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
@@ -150,3 +150,7 @@ This model is deployed in a **portfolio website** as part of a static visual sho
    git clone <repo_url>
    dvc pull
    ```
+
+## Conclusion
+
+This project showcases a comprehensive method for predicting the outcome of T20 cricket matches by utilizing an encoder-decoder architecture and integrating multiple machine learning models. By employing industry-standard tools like Hadoop HDFS, Apache Airflow, Apache Spark, PyTorch, and Weights & Biases (wandb), we've created a robust pipeline capable of handling large datasets and delivering real-time predictions. Incorporating this model into a cricket app can enhance user engagement by providing insightful analytics and live win probabilities.

@@ -7,7 +7,7 @@ from sklearn.metrics import confusion_matrix, classification_report, roc_curve, 
 import pandas as pd
 
 # Initialize Weights & Biases
-wandb.init(project="T20I-Cricket-Win-Prediction")
+wandb.init(project="T20I-CRICKET-WINNER-PREDICTION")
 
 sys.path.append(os.path.join(os.getcwd(), ".."))
 from model_utils import (
@@ -55,9 +55,16 @@ def evaluate_model(model, test_dataloader, device, save_dir=os.getcwd()):
 def main():
     set_seed()
     logger = initialize_logging()
-    config = initialize_wandb()
+    
+    # Ensure wandb is initialized
+    if not wandb.run:
+        config = initialize_wandb()
+    else:
+        config = wandb.config
+
     set_default_config(config)  # Set default configuration values
 
+    # Load datasets only once
     train_dataset, val_dataset, test_dataset = load_datasets()
 
     batch_size = config.batch_size

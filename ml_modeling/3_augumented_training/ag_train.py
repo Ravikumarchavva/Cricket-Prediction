@@ -7,7 +7,7 @@ from sklearn.metrics import confusion_matrix, classification_report, roc_curve, 
 import pandas as pd
 
 # Initialize Weights & Biases
-wandb.init(project="T20I-Cricket-Win-Prediction")
+wandb.init(project="T20I-CRICKET-WINNER-PREDICTION")
 
 sys.path.append(os.path.join(os.getcwd(), '..'))
 from model_utils import (

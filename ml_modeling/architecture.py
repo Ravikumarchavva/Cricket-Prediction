@@ -102,6 +102,7 @@ class PlayerEncoder(nn.Module):
         self.dropout = nn.Dropout(dropout)
         self.relu = nn.ReLU()
         self.hidden_size = hidden_size
+        self.fc1 = nn.Linear(64 * 3 * 5, hidden_size).to(device)  # Adjust input size to 960
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
@@ -125,10 +126,6 @@ class PlayerEncoder(nn.Module):
         x = self.pool(x)
         x = self.dropout(x)
         x = x.view(x.size(0), -1)  # Flatten the tensor
-        if not hasattr(self, "fc1"):
-            self.fc1 = nn.Linear(x.size(1), self.hidden_size).to(
-                device
-            )  # Ensure fc1 is on the same device
         x = self.fc1(x)
         x = self.dropout(x)
         x = self.relu(x)

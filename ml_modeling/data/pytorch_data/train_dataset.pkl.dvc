@@ -1,5 +1,0 @@
-outs:
-- md5: 72133401ebc97afa3d8d1229966c3e2c
-  size: 21645291
-  hash: md5
-  path: train_dataset.pkl

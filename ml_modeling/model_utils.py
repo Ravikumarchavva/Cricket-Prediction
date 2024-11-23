@@ -159,8 +159,9 @@ def initialize_logging():
     return logging.getLogger(__name__)
 
 
-def initialize_wandb(project_name: str = "T20I-Cricket-Win-Prediction"):
-    wandb.init(project=project_name)
+def initialize_wandb(project_name: str = "T20I-CRICKET-WINNER-PREDICTION"):
+    if not wandb.run:
+        wandb.init(project=project_name)
     return wandb.config
 
 
@@ -189,13 +190,42 @@ def set_default_config(config):
 import pickle
 
 
-def load_datasets():
-    base_path = os.path.join(os.getcwd(), "..", "data", "pytorch_data")
-    train_dataset = pickle.load(
-        open(os.path.join(base_path, "train_dataset.pkl"), "rb")
+def load_datasets(
+    entity_name: str = "ravikumarchavva-org",
+    project: str = "T20I-CRICKET-WINNER-PREDICTION",
+    dataset_name: str = "cricket-dataset",
+    version: str = "latest",
+) -> Tuple[Dataset, Dataset, Dataset]:
+    # Ensure wandb is initialized
+    if not wandb.run:
+        wandb.init(project="T20I-CRICKET-WINNER-PREDICTION")
+
+    # Use the artifact
+    artifact = wandb.run.use_artifact(
+        f"{entity_name}/{project}/{dataset_name}:{version}"
     )
-    val_dataset = pickle.load(open(os.path.join(base_path, "val_dataset.pkl"), "rb"))
-    test_dataset = pickle.load(open(os.path.join(base_path, "test_dataset.pkl"), "rb"))
+
+    # Load datasets directly into memory and remove files after loading
+    train_path = artifact.get_entry("train_dataset.pkl").download()
+    with open(train_path, "rb") as train_file:
+        train_dataset = pickle.load(train_file)
+    os.remove(train_path)  # Clean up
+
+    val_path = artifact.get_entry("val_dataset.pkl").download()
+    with open(val_path, "rb") as val_file:
+        val_dataset = pickle.load(val_file)
+    os.remove(val_path)  # Clean up
+
+    test_path = artifact.get_entry("test_dataset.pkl").download()
+    with open(test_path, "rb") as test_file:
+        test_dataset = pickle.load(test_file)
+    os.remove(test_path)  # Clean up
+
+    # Log dataset details
+    print(f"Train Dataset: {len(train_dataset)} samples")
+    print(f"Validation Dataset: {len(val_dataset)} samples")
+    print(f"Test Dataset: {len(test_dataset)} samples")
+
     return train_dataset, val_dataset, test_dataset
 
 
@@ -236,10 +266,20 @@ def augument_data(
         test_ball_data, test_team_data, test_player_data, test_labels
     )
 
+    train_dataset = CricketDataset(
+        train_team_data, train_player_data, train_ball_data, train_labels
+    )
+    val_dataset = CricketDataset(
+        val_team_data, val_player_data, val_ball_data, val_labels
+    )
+    test_dataset = CricketDataset(
+        test_team_data, test_player_data, test_ball_data, test_labels
+    )
+
     return (
-        (train_team_data, train_player_data, train_ball_data, train_labels),
-        (val_team_data, val_player_data, val_ball_data, val_labels),
-        (test_team_data, test_player_data, test_ball_data, test_labels),
+        train_dataset,
+        val_dataset,
+        test_dataset,
     )
 
 
@@ -278,10 +318,10 @@ def initialize_model(config, train_dataset, device):
         team_input_size=train_team_data[0].shape[0],
         player_input_channels=1,
         ball_input_size=train_ball_data[0].shape[1],
-        hidden_size=config.hidden_size,
-        num_layers=config.num_layers,
+        hidden_size=config['hidden_size'],
+        num_layers=config['num_layers'],
         num_classes=1,
-        dropout=config.dropout,
+        dropout=config['dropout'],
     ).to(device)
     return model
 
@@ -400,24 +440,28 @@ def evaluate_model(model, dataloader, device, window_sizes, config, save_dir):
         # Conditionally plot ROC curve
         if config.enable_plots:
             from sklearn.metrics import roc_curve, auc
+
             fpr, tpr, thresholds = roc_curve(all_labels, all_probs)
             roc_auc = auc(fpr, tpr)
             plot_roc_curve(fpr, tpr, roc_auc, os.path.join(save_dir, "roc_curve.png"))
             # Log ROC curve to Weights & Biases
-            wandb.log({
-                "roc_curve": wandb.Image(
-                    os.path.join(save_dir, "roc_curve.png")
-                )
-            })
+            wandb.log(
+                {"roc_curve": wandb.Image(os.path.join(save_dir, "roc_curve.png"))}
+            )
 
         return metrics, all_labels, all_predictions, all_probs
 
-from io import BytesIO
+
 import tempfile
+
 
 def train_and_evaluate(
     model, train_dataloader, val_dataloader, config, device, save_dir
 ):
+    # Ensure wandb is initialized
+    if not wandb.run:
+        initialize_wandb()
+
     criterion = torch.nn.BCELoss()
     optimizer = torch.optim.Adam(
         model.parameters(), lr=config.lr, weight_decay=config.weight_decay
@@ -437,6 +481,7 @@ def train_and_evaluate(
     val_accuracies = []
 
     from tqdm import tqdm
+
     for epoch in range(num_epochs):
         model.train()
         running_loss = 0.0
@@ -511,22 +556,10 @@ def train_and_evaluate(
             best_val_loss = avg_val_loss
             trigger_times = 0
 
-            # Save model checkpoint to Weights & Biases as an artifact
-            with tempfile.NamedTemporaryFile(delete=False, suffix='.pth') as tmp_file:
+            # Save model checkpoint to a temporary file
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".pth") as tmp_file:
                 torch.save(model.state_dict(), tmp_file.name)
-            
-            artifact = wandb.Artifact(f'best_model_epoch_{epoch+1}_val_loss_{avg_val_loss:.4f}', type='model')
-            artifact.add_file(tmp_file.name, 'best_model.pth')
-            artifact.metadata = {
-                "hidden_size": config.hidden_size,
-                "num_layers": config.num_layers,
-                "dropout": config.dropout,
-                "lr": config.lr,
-                "weight_decay": config.weight_decay,
-                "num_epochs": config.num_epochs,
-            }
-            wandb.log_artifact(artifact)
-            os.remove(tmp_file.name)  # Clean up the temporary file
+            best_model_path = tmp_file.name
 
         else:
             trigger_times += 1
@@ -534,16 +567,40 @@ def train_and_evaluate(
                 print("Early stopping!")
                 break
 
+    # Save the best model to Weights & Biases as an artifact after training is done
+    artifact_model = wandb.Artifact(f"best_model_val_loss_{best_val_loss:.4f}", type="model")
+    artifact_model.add_file(best_model_path, "best_model.pth")
+
+    # Log model metadata    
+    artifact_model.metadata = {
+        "hidden_size": config.hidden_size,
+        "num_layers": config.num_layers,
+        "dropout": config.dropout,
+        "lr": config.lr,
+        "weight_decay": config.weight_decay,
+        "num_epochs": config.num_epochs,
+        "batch_size": config.batch_size,
+        "device": device,
+    }
+    wandb.log_artifact(artifact_model)
+    os.remove(best_model_path)  # Clean up the temporary file
+
     # Conditionally plot training history
     if config.enable_plots:
         epochs_range = range(1, len(train_losses) + 1)
         plot_training_history(
-            epochs_range, train_losses, val_losses, train_accuracies, val_accuracies,
-            os.path.join(save_dir, "training_history.png")
+            epochs_range,
+            train_losses,
+            val_losses,
+            train_accuracies,
+            val_accuracies,
+            os.path.join(save_dir, "training_history.png"),
         )
         # Log plots to Weights & Biases
-        wandb.log({
-            "training_history": wandb.Image(
-                os.path.join(save_dir, "training_history.png")
-            )
-        })
+        wandb.log(
+            {
+                "training_history": wandb.Image(
+                    os.path.join(save_dir, "training_history.png")
+                )
+            }
+        )

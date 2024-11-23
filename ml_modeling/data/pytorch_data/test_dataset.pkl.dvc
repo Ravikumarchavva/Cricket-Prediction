@@ -1,5 +1,0 @@
-outs:
-- md5: 32b96febfb2f9d9ce4e4a114a5f26bad
-  size: 21642410
-  hash: md5
-  path: test_dataset.pkl

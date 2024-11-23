@@ -19,13 +19,13 @@ def load_data() -> Tuple[pl.DataFrame, pl.DataFrame, pl.DataFrame]:
         Tuple containing ball-by-ball DataFrame, team statistics DataFrame, and player statistics DataFrame.
     """
     balltoball = pl.read_csv(
-        os.path.join(os.path.join("..", "data", "filtered_data", "balltoball.csv"))
+        os.path.join(os.path.join("..", "filtered_data", "balltoball.csv"))
     )
     team_stats = pl.read_csv(
-        os.path.join(os.path.join("..", "data", "filtered_data", "team12_stats.csv"))
+        os.path.join(os.path.join("..", "filtered_data", "team12_stats.csv"))
     )
     players_stats = pl.read_csv(
-        os.path.join(os.path.join("..", "data", "filtered_data", "players_stats.csv"))
+        os.path.join(os.path.join("..", "filtered_data", "players_stats.csv"))
     )
     return balltoball, team_stats, players_stats
 
@@ -98,7 +98,7 @@ val_dataset = Subset(dataset, val_indices)
 test_dataset = Subset(dataset, test_indices)
 
 # Ensure paths are correctly resolved
-data_dir = os.path.join("..", "data", "pytorch_data")
+data_dir = os.path.join("..", "pytorch_data")
 os.makedirs(data_dir, exist_ok=True)
 
 train_path = os.path.join(data_dir, "train_dataset.pkl")
