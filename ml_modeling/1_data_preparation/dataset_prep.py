@@ -2,12 +2,11 @@ import os
 import sys
 import numpy as np
 import polars as pl
-import pickle
+import torch
 from typing import Tuple
 
 sys.path.append(os.path.join(os.getcwd(), ".."))
-from model_utils import partition_data_with_keys
-from architecture import CricketDataset
+from data_utils import partition_data_with_keys, CricketDataset
 
 
 # Step 1: Load Data
@@ -101,19 +100,29 @@ test_dataset = Subset(dataset, test_indices)
 data_dir = os.path.join("..", "pytorch_data")
 os.makedirs(data_dir, exist_ok=True)
 
-train_path = os.path.join(data_dir, "train_dataset.pkl")
-val_path = os.path.join(data_dir, "val_dataset.pkl")
-test_path = os.path.join(data_dir, "test_dataset.pkl")
+train_path = os.path.join(data_dir, "train_dataset.pt")
+val_path = os.path.join(data_dir, "val_dataset.pt")
+test_path = os.path.join(data_dir, "test_dataset.pt")
 
-# Save Datasets
-with open(train_path, "wb") as f:
-    pickle.dump(train_dataset, f)
+# Prepare data to save subsets
+def save_dataset(dataset: Subset, file_path: str):
+    # Extract subset data
+    team_stats = [dataset.dataset.team_stats_list[i] for i in dataset.indices]
+    player_stats = [dataset.dataset.player_stats_list[i] for i in dataset.indices]
+    ball_stats = [dataset.dataset.ball_stats_list[i] for i in dataset.indices]
+    labels = [dataset.dataset.labels[i] for i in dataset.indices]
 
-with open(val_path, "wb") as f:
-    pickle.dump(val_dataset, f)
+    # Save as a dictionary
+    torch.save({
+        "team_stats": team_stats,
+        "player_stats": player_stats,
+        "ball_stats": ball_stats,
+        "labels": labels,
+    }, file_path)
 
-with open(test_path, "wb") as f:
-    pickle.dump(test_dataset, f)
+save_dataset(train_dataset, train_path)
+save_dataset(val_dataset, val_path)
+save_dataset(test_dataset, test_path)
 
 import wandb
 

@@ -1,23 +1,30 @@
 """Utility functions for Spark session management and data operations."""
 
-import config
-import logging
 import os
+import logging
 from pyspark.sql import SparkSession
 from airflow.providers.apache.hdfs.hooks.webhdfs import WebHDFSHook
+import sys
 
+# Add the configs directory to the system path
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'configs'))
 
-def create_spark_session(name : str =None, SPARK_CONFIG : dict = config.SPARK_CONFIG, update_config = False):
+# Import the configuration from the Python file
+import spark_config as config
+
+def create_spark_session(name: str = None, SPARK_CONFIG: dict = None, update_config=False):
     """Create and return a Spark session."""
     logging.info("Creating Spark session.")
     try:
         if not name:
             name = config.SPARK_APP_NAME
+        if SPARK_CONFIG is None:
+            SPARK_CONFIG = config.SPARK_CONFIG
         if update_config:
             SPARK_CONFIG.update(config.SPARK_CONFIG)
         builder = (SparkSession.builder
-                  .appName(name)
-                  .master(config.SPARK_MASTER))
+                   .appName(name)
+                   .master(config.SPARK_MASTER))
         
         # Add all configurations
         for key, value in SPARK_CONFIG.items():
@@ -61,9 +68,9 @@ def spark_save_data(df, output_dir, filename):
         raise
 
 
-def get_hdfs_client():
+def get_hdfs_client(id='webhdfs_default'):
     """Initialize and return an HDFS client using Airflow's HDFSHook."""
-    hook = WebHDFSHook(webhdfs_conn_id='webhdfs_default')  # Ensure this matches the connection ID in Airflow
+    hook = WebHDFSHook(webhdfs_conn_id=id)  # Ensure this matches the connection ID in Airflow
     return hook.get_conn()
 
 def hdfs_read(client, path):
@@ -95,7 +102,7 @@ def ensure_hdfs_directory(client, path):
     """Ensure that a directory exists on HDFS, creating it if necessary."""
     if not hdfs_exists(client, path):
         hdfs_mkdirs(client, path)
-    return os.getenv('CONDA_DEFAULT_ENV') is not None
+    return True
 
 
 # Country Codes
@@ -131,3 +138,9 @@ country_codes = {
     'SA': 'South Africa', 'SVN': 'Slovenia', 'GUE': 'Guernsey', 'MDV': 'Maldives',
     'BHM': 'Bahamas', 'SWE': 'Sweden', 'MLT': 'Malta', 'ITA': 'Italy',
 }
+
+if __name__ == "__main__":
+    spark = create_spark_session()
+    print(spark.version)
+    spark.stop()
+    print("Spark session stopped.")

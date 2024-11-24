@@ -1,0 +1,48 @@
+_wandb:
+    value:
+        cli_version: 0.18.3
+        m: []
+        python_version: 3.9.20
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 55
+                - 105
+            "2":
+                - 1
+                - 5
+                - 53
+                - 55
+                - 105
+            "3":
+                - 2
+                - 19
+                - 23
+                - 55
+            "4": 3.9.20
+            "5": 0.18.3
+            "8":
+                - 3
+                - 5
+            "12": 0.18.3
+            "13": windows-amd64
+batch_size:
+    value: 32
+dropout:
+    value: 0.5833304002660175
+enable_plots:
+    value: false
+hidden_size:
+    value: 64
+learning_rate:
+    value: 0.0006696961335106653
+lr:
+    value: 0.001
+num_epochs:
+    value: 50
+num_layers:
+    value: 2
+weight_decay:
+    value: 2.7058767505888983e-05

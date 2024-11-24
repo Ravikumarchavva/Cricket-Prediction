@@ -1,16 +1,16 @@
 <mxfile host="65bd71144e">
     <diagram id="0fYgGJFy-fITHafACT3v" name="Page-1">
-        <mxGraphModel dx="728" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="0">
+        <mxGraphModel dx="800" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="11" value="" style="group;" parent="1" vertex="1" connectable="0">
+                <mxCell id="11" value="" style="group;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="117" y="150" width="153" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.25;" parent="11" vertex="1">
                     <mxGeometry width="153" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Transformer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="11" vertex="1">
+                <mxCell id="3" value="LSTM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="11" vertex="1">
                     <mxGeometry x="38.25" y="15" width="76.5" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="ball-ball" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="11" vertex="1">

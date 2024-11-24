@@ -1,49 +1,7 @@
 import torch
 import torch.nn as nn
-from torch.utils.data import Dataset
-from typing import List, Tuple
-import numpy as np
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-# Data
-
-class CricketDataset(Dataset):
-    def __init__(
-        self,
-        team_stats_list: List[np.ndarray],
-        player_stats_list: List[np.ndarray],
-        ball_stats_list: List[np.ndarray],
-        labels: List[int],
-    ) -> None:
-        """
-        Initializes the CricketDataset.
-
-        Args:
-            team_stats_list (List[np.ndarray]): List of team statistics arrays.
-            player_stats_list (List[np.ndarray]): List of player statistics arrays.
-            ball_stats_list (List[np.ndarray]): List of ball-by-ball data arrays.
-            labels (List[int]): List of match outcome labels.
-        """
-        self.team_stats_list = team_stats_list
-        self.player_stats_list = player_stats_list
-        self.ball_stats_list = ball_stats_list
-        self.labels = labels
-
-    def __len__(self) -> int:
-        return len(self.team_stats_list)
-
-    def __getitem__(
-        self, idx: int
-    ) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor, torch.Tensor]:
-        team_input = torch.tensor(self.team_stats_list[idx], dtype=torch.float32)
-        team_input = team_input.squeeze()
-        player_input = torch.tensor(self.player_stats_list[idx], dtype=torch.float32)
-        ball_stats = torch.tensor(self.ball_stats_list[idx], dtype=torch.float32)
-        ball_input = ball_stats
-        label = torch.tensor(self.labels[idx], dtype=torch.float32)
-        return team_input, player_input, ball_input, label
-
 
 # Model Architecture
 
@@ -61,8 +19,20 @@ class TeamEncoder(nn.Module):
         super(TeamEncoder, self).__init__()
         self.fc1 = nn.Linear(input_size, hidden_size)
         self.batch_norm1 = nn.BatchNorm1d(hidden_size)
-        self.dropout = nn.Dropout(dropout)
         self.relu = nn.ReLU()
+        self.dropout = nn.Dropout(dropout)
+        self._initialize_weights()
+
+    def _initialize_weights(self):
+        for m in self.modules():
+            if isinstance(m, nn.Linear):
+                nn.init.xavier_uniform_(m.weight)
+                if m.bias is not None:
+                    nn.init.zeros_(m.bias)
+            elif isinstance(m, nn.Conv2d):
+                nn.init.kaiming_uniform_(m.weight, nonlinearity='relu')
+                if m.bias is not None:
+                    nn.init.zeros_(m.bias)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
@@ -83,14 +53,21 @@ class TeamEncoder(nn.Module):
 
 class PlayerEncoder(nn.Module):
     def __init__(
-        self, input_channels: int, hidden_size: int, dropout: float = 0.5
-    ) -> None:
+        self,
+        input_channels: int,
+        hidden_size: int,
+        input_height: int,
+        input_width: int,
+        dropout: float = 0.5,
+    ):
         """
         Initializes the PlayerEncoder.
 
         Args:
             input_channels (int): Number of input channels.
             hidden_size (int): Size of the hidden layer.
+            input_height (int): Height of the input.
+            input_width (int): Width of the input.
             dropout (float): Dropout rate.
         """
         super(PlayerEncoder, self).__init__()
@@ -101,8 +78,49 @@ class PlayerEncoder(nn.Module):
         self.pool = nn.MaxPool2d(kernel_size=2, stride=2)
         self.dropout = nn.Dropout(dropout)
         self.relu = nn.ReLU()
-        self.hidden_size = hidden_size
-        self.fc1 = nn.Linear(64 * 3 * 5, hidden_size).to(device)  # Adjust input size to 960
+
+        # Compute flattened size dynamically
+        self.flattened_size = self._calculate_flattened_size(input_height, input_width)
+        self.fc1 = nn.Linear(self.flattened_size, hidden_size)
+        self._initialize_weights()
+
+    def _initialize_weights(self):
+        for m in self.modules():
+            if isinstance(m, nn.Conv2d):
+                nn.init.kaiming_uniform_(m.weight, nonlinearity='relu')
+                if m.bias is not None:
+                    nn.init.zeros_(m.bias)
+            elif isinstance(m, nn.Linear):
+                nn.init.xavier_uniform_(m.weight)
+                if m.bias is not None:
+                    nn.init.zeros_(m.bias)
+
+    def _calculate_flattened_size(self, height: int, width: int) -> int:
+        """
+        Calculates the flattened size after convolutions and pooling.
+
+        Args:
+            height (int): Input height.
+            width (int): Input width.
+
+        Returns:
+            int: Flattened size.
+        """
+        # After first conv + pool
+        height = (height + 2 * 1 - 3) // 1 + 1  # Conv padding=1, kernel_size=3
+        height = height // 2  # MaxPool kernel_size=2, stride=2
+
+        width = (width + 2 * 1 - 3) // 1 + 1  # Conv padding=1, kernel_size=3
+        width = width // 2  # MaxPool kernel_size=2, stride=2
+
+        # After second conv + pool
+        height = (height + 2 * 1 - 3) // 1 + 1
+        height = height // 2
+
+        width = (width + 2 * 1 - 3) // 1 + 1
+        width = width // 2
+
+        return height * width * 64  # 64 channels from the second convolution layer
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
@@ -114,17 +132,22 @@ class PlayerEncoder(nn.Module):
         Returns:
             torch.Tensor: Output tensor.
         """
-        x = x.to(device)  # Ensure input tensor is on the same device
+        # Add input validation
+        if x.dim() != 4:
+            raise ValueError(
+                f"Expected 4D input (batch_size, channels, height, width), got {x.dim()}D"
+            )
+
         x = self.conv1(x)
         x = self.batch_norm1(x)
         x = self.relu(x)
         x = self.pool(x)
-        x = self.dropout(x)
+
         x = self.conv2(x)
         x = self.batch_norm2(x)
         x = self.relu(x)
         x = self.pool(x)
-        x = self.dropout(x)
+
         x = x.view(x.size(0), -1)  # Flatten the tensor
         x = self.fc1(x)
         x = self.dropout(x)
@@ -152,6 +175,16 @@ class BallEncoder(nn.Module):
             input_size, hidden_size, num_layers, batch_first=True, dropout=dropout
         )
         self.dropout = nn.Dropout(dropout)
+        self._initialize_weights()
+
+    def _initialize_weights(self):
+        for m in self.modules():
+            if isinstance(m, nn.LSTM):
+                for name, param in m.named_parameters():
+                    if 'weight' in name:
+                        nn.init.xavier_uniform_(param)
+                    elif 'bias' in name:
+                        nn.init.zeros_(param)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
@@ -184,6 +217,12 @@ class Decoder(nn.Module):
         self.fc = nn.Linear(input_size, num_classes)
         self.sigmoid = nn.Sigmoid()
         self.dropout = nn.Dropout(dropout)
+        self._initialize_weights()
+
+    def _initialize_weights(self):
+        nn.init.xavier_uniform_(self.fc.weight)
+        if self.fc.bias is not None:
+            nn.init.zeros_(self.fc.bias)
 
     def forward(self, x: torch.Tensor) -> torch.Tensor:
         """
@@ -206,6 +245,8 @@ class EncoderDecoderModel(nn.Module):
         self,
         team_input_size: int,
         player_input_channels: int,
+        player_input_height: int,
+        player_input_width: int,
         ball_input_size: int,
         hidden_size: int,
         num_layers: int,
@@ -218,6 +259,8 @@ class EncoderDecoderModel(nn.Module):
         Args:
             team_input_size (int): Size of the team input features.
             player_input_channels (int): Number of player input channels.
+            player_input_height (int): Height of the player input.
+            player_input_width (int): Width of the player input.
             ball_input_size (int): Size of the ball input features.
             hidden_size (int): Size of the hidden layer.
             num_layers (int): Number of LSTM layers.
@@ -226,11 +269,24 @@ class EncoderDecoderModel(nn.Module):
         """
         super(EncoderDecoderModel, self).__init__()
         self.team_encoder = TeamEncoder(team_input_size, hidden_size, dropout)
-        self.player_encoder = PlayerEncoder(player_input_channels, hidden_size, dropout)
+        self.player_encoder = PlayerEncoder(
+            player_input_channels,
+            hidden_size,
+            player_input_height,
+            player_input_width,
+            dropout,
+        )
         self.ball_encoder = BallEncoder(
             ball_input_size, hidden_size, num_layers, dropout
         )
         self.decoder = Decoder(hidden_size * 3, num_classes, dropout)
+        self._initialize_weights()
+
+    def _initialize_weights(self):
+        self.team_encoder._initialize_weights()
+        self.player_encoder._initialize_weights()
+        self.ball_encoder._initialize_weights()
+        self.decoder._initialize_weights()
 
     def forward(
         self, team: torch.Tensor, player: torch.Tensor, ball: torch.Tensor
@@ -253,7 +309,7 @@ class EncoderDecoderModel(nn.Module):
         team_hidden = self.team_encoder(team)
 
         if player.dim() == 3:
-            player = player.unsqueeze(1)  # Add channel dimension
+            player = player.unsqueeze(1)  # Add channel dimension if missing
         player_hidden = self.player_encoder(player)
 
         if ball.dim() == 2:
@@ -263,3 +319,12 @@ class EncoderDecoderModel(nn.Module):
         combined_hidden = torch.cat((team_hidden, player_hidden, ball_hidden), dim=1)
         output = self.decoder(combined_hidden)
         return output
+
+    def to(self, device):
+        # Ensure all sub-modules are on the same device
+        super().to(device)
+        self.team_encoder.to(device)
+        self.player_encoder.to(device)
+        self.ball_encoder.to(device)
+        self.decoder.to(device)
+        return self

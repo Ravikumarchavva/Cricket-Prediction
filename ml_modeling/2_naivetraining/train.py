@@ -2,7 +2,6 @@ import os
 import sys
 import torch
 import wandb
-from tqdm import tqdm
 from sklearn.metrics import confusion_matrix, classification_report, roc_curve, auc
 import pandas as pd
 
@@ -14,16 +13,18 @@ from model_utils import (
     set_seed,
     initialize_logging,
     initialize_wandb,
-    load_datasets,
     plot_roc_curve,
-    create_dataloaders,
     initialize_model,
     set_default_config,
     train_and_evaluate,
 )
+from data_utils import load_datasets, create_dataloaders
+
 
 def evaluate_model(model, test_dataloader, device, save_dir=os.getcwd()):
-    model.load_state_dict(torch.load(os.path.join(save_dir, 'best_model.pth'), weights_only=True))
+    model.load_state_dict(
+        torch.load(os.path.join(save_dir, "best_model.pth"), weights_only=True)
+    )
     model.eval()
     all_labels = []
     all_predictions = []
@@ -39,7 +40,7 @@ def evaluate_model(model, test_dataloader, device, save_dir=os.getcwd()):
                 labels.to(device),
             )
             labels = labels.float()
-            
+
             outputs = model(team, player, ball)
             probs = outputs.squeeze().cpu().numpy()
             predicted = (outputs.data > 0.5).float()
@@ -48,14 +49,15 @@ def evaluate_model(model, test_dataloader, device, save_dir=os.getcwd()):
             all_probs.extend(probs)
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
-        
-        print('Test Accuracy: {:.2f} %'.format(100 * correct / total))
+
+        print("Test Accuracy: {:.2f} %".format(100 * correct / total))
     return all_labels, all_predictions, all_probs
+
 
 def main():
     set_seed()
     logger = initialize_logging()
-    
+
     # Ensure wandb is initialized
     if not wandb.run:
         config = initialize_wandb()
@@ -101,7 +103,8 @@ def main():
     fpr, tpr, _ = roc_curve(all_labels, all_probs)
     roc_auc = auc(fpr, tpr)
 
-    plot_roc_curve(fpr=fpr, tpr=tpr, roc_auc=roc_auc, save_path=save_dir)
+    plot_roc_curve(fpr=fpr, tpr=tpr, roc_auc=roc_auc)
+
     # Convert confusion matrix to DataFrame for logging
     conf_matrix_df = pd.DataFrame(
         conf_matrix,

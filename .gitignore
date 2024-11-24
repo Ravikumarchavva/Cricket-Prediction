@@ -1,77 +1,21 @@
-.log
+.env
 
 # wandb related files
 **/wandb/
-wandb-debug.log
+**/*.log
+**/artifact/
 
-
-data/5_pytorchData/*.pkl
+# Data files
 **/*.pkl
 **/*.csv
 
-.env
-
-# python cache
-__pycache__/
-**/__pycache__/
-
-.ipynb_checkpoints
-**/.ipynb_checkpoints
-
-# cache files
-cache/
-**/cache/
-*.cache
-
-# Data science cache files
-*.h5
-*.hdf5
-*.npy
-*.npz
-*.joblib
-*.sav
-
 # Model files
-*.ckpt
 *.pth
 *.pt
 *.onnx
-*.pb
-*.tflite
-*.mlmodel
 
-# Experiment and cache directories
-logs/
-**/logs/
-runs/
-**/runs/
-experiments/
-**/experiments/
-checkpoints/
-**/checkpoints/
-models/
-**/models/
-.cache/
-**/.cache/
-**/dvc_storage/
-**/wandb/
-**/artifact/
-
-# MLflow artifacts
-data/dvc
-mlruns/
-**/mlruns/
-
-# DVC cache
-.dvc/
-**/.dvc/
-
-# Hugging Face transformers cache
-.huggingface/
-**/.huggingface/
-
+# python cache files
+**/__pycache__/
+**/.ipynb_checkpoints
 # Data Pipeline specific
-data_pipelines/**/__pycache__/
-data_pipelines/**/**.pyc
-data_pipelines/dags/**/__pycache__/
-data_pipelines/dags/**.pyc
+**/**.pyc
