@@ -7,10 +7,10 @@ from airflow.providers.apache.hdfs.hooks.webhdfs import WebHDFSHook
 import sys
 
 # Add the configs directory to the system path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'configs'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 # Import the configuration from the Python file
-import spark_config as config
+from configs import spark_config as config
 
 def create_spark_session(name: str = None, SPARK_CONFIG: dict = None, update_config=False):
     """Create and return a Spark session."""

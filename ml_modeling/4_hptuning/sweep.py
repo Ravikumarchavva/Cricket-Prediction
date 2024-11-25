@@ -4,13 +4,13 @@ import os
 import sys
 import torch
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from model_utils import set_seed
-from data_utils import load_datasets
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+from utils.model_utils import set_seed
+from utils.data_utils import load_datasets
 import train
 
 # Load the sweep configuration
-with open(os.path.join(os.path.dirname(__file__), 'hpconfig.yaml')) as config_file:
+with open(os.path.join(os.getcwd(), '..', '..', 'configs' , 'hp_config.yaml')) as config_file:
     sweep_config = yaml.safe_load(config_file)
 
 # Initialize the sweep

@@ -5,7 +5,7 @@ import logging
 import wandb
 import os
 import matplotlib.pyplot as plt
-from architecture import EncoderDecoderModel
+from .architecture import EncoderDecoderModel
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -29,7 +29,7 @@ def initialize_wandb(project_name: str = "T20I-CRICKET-WINNER-PREDICTION"):
     return wandb.config
 
 
-def set_default_config(config):
+def set_default_config_if_not_present(config):
     """
     Sets default configuration values if they are not provided.
 
@@ -37,13 +37,13 @@ def set_default_config(config):
         config: The configuration object.
     """
     defaults = {
-        "batch_size": 32,
+        "batch_size": 16,
         "hidden_size": 128,
-        "num_layers": 2,
+        "num_layers": 1,
         "dropout": 0.5,
-        "lr": 0.001,
+        "lr": 0.0001,
         "weight_decay": 0.0001,
-        "num_epochs": 50,
+        "num_epochs": 100,
         "enable_plots": False,  # Add flag to control plotting
     }
     for key, value in defaults.items():
@@ -54,7 +54,7 @@ def set_default_config(config):
 def initialize_model(config, train_dataset, device):
     # Extract sample data from the dataset
     sample_team_input, sample_player_input, sample_ball_input, _ = train_dataset[0]
-    
+
     # Get input sizes based on sample data
     team_input_size = sample_team_input.shape[0]
     player_input_size = sample_player_input.shape
@@ -78,7 +78,12 @@ def initialize_model(config, train_dataset, device):
 
 
 def plot_training_history(
-    epochs_range, train_losses, val_losses, train_accuracies, val_accuracies, save_path
+    epochs_range,
+    train_losses,
+    val_losses,
+    train_accuracies,
+    val_accuracies,
+    save_path=None,
 ):
     plt.figure(figsize=(12, 4))
 
@@ -101,7 +106,8 @@ def plot_training_history(
     plt.title("Training and Validation Accuracy")
 
     plt.tight_layout()
-    plt.savefig(save_path)
+    if save_path:
+        plt.savefig(save_path)
     plt.close()
 
 
@@ -153,7 +159,7 @@ def evaluate_model(model, dataloader, device, window_sizes, config, save_dir):
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
 
-        print("Test Accuracy: {:.2f} %".format(100 * correct / total))
+        print("Accuracy: {:.2f} %".format(100 * correct / total))
 
         for window in window_sizes:
             window_length = window * 6
@@ -190,7 +196,7 @@ def evaluate_model(model, dataloader, device, window_sizes, config, save_dir):
         metrics = {"stage_metrics": stage_metrics, "overall_metrics": overall_metrics}
 
         # Conditionally plot ROC curve
-        if config['enable_plots']:
+        if config["enable_plots"]:
             from sklearn.metrics import roc_curve, auc
 
             fpr, tpr, thresholds = roc_curve(all_labels, all_probs)
@@ -204,11 +210,16 @@ def evaluate_model(model, dataloader, device, window_sizes, config, save_dir):
         return metrics, all_labels, all_predictions, all_probs
 
 
-import tempfile
-
 
 def train_and_evaluate(
-    model, train_dataloader, val_dataloader, config, device, save_dir, save_full_model=True
+    model,
+    train_dataloader,
+    val_dataloader,
+    config,
+    device,
+    save_dir,
+    save_full_model=True,
+    patience=10,
 ):
     # Ensure wandb is initialized
     if not wandb.run:
@@ -216,16 +227,16 @@ def train_and_evaluate(
 
     criterion = torch.nn.BCELoss()
     optimizer = torch.optim.Adam(
-        model.parameters(), lr=config['lr'], weight_decay=config['weight_decay']
+        model.parameters(), lr=config["lr"], weight_decay=config["weight_decay"]
     )
     scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
-        optimizer, mode="min", factor=0.5, patience=20, verbose=True
+        optimizer, mode="min", factor=0.5, patience=3, verbose=True
     )
 
     best_val_loss = float("inf")
     trigger_times = 0
-    num_epochs = config['num_epochs']
-    patience = 20
+    num_epochs = config["num_epochs"]
+    patience = 10
 
     train_losses = []
     val_losses = []
@@ -233,6 +244,8 @@ def train_and_evaluate(
     val_accuracies = []
 
     from tqdm import tqdm
+
+    best_model_path = None  # Initialize best_model_path
 
     for epoch in range(num_epochs):
         model.train()
@@ -308,13 +321,12 @@ def train_and_evaluate(
             best_val_loss = avg_val_loss
             trigger_times = 0
 
-            # Save model checkpoint to a temporary file
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".pth") as tmp_file:
-                if save_full_model:
-                    torch.save(model, tmp_file.name)
-                else:
-                    torch.save(model.state_dict(), tmp_file.name)
-            best_model_path = tmp_file.name
+            # Save model checkpoint to a file
+            best_model_path = os.path.join(save_dir, f"best_model_epoch_{epoch+1}.pth")
+            if save_full_model:
+                torch.save(model, best_model_path)
+            else:
+                torch.save(model.state_dict(), best_model_path)
 
         else:
             trigger_times += 1
@@ -326,24 +338,13 @@ def train_and_evaluate(
     artifact_model = wandb.Artifact(
         f"best_model_val_loss_{best_val_loss:.4f}", type="model"
     )
-    artifact_model.add_file(best_model_path, "best_model.pth")
-
-    # Log model metadata
-    artifact_model.metadata = {
-        "hidden_size": config['hidden_size'],
-        "num_layers": config['num_layers'],
-        "dropout": config['dropout'],
-        "lr": config['lr'],
-        "weight_decay": config['weight_decay'],
-        "num_epochs": config['num_epochs'],
-        "batch_size": config['batch_size'],
-        "device": device,
-    }
-    wandb.log_artifact(artifact_model)
+    artifact_model.add_file(best_model_path, name="best_model.pth")
+    logged_artifact = wandb.log_artifact(artifact_model)
+    logged_artifact.wait()  # Wait for the artifact to finish logging
     os.remove(best_model_path)  # Clean up the temporary file
 
     # Conditionally plot training history
-    if config['enable_plots']:
+    if config["enable_plots"]:
         epochs_range = range(1, len(train_losses) + 1)
         plot_training_history(
             epochs_range,

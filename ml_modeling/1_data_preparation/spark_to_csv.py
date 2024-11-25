@@ -1,39 +1,34 @@
 import os
 import pandas as pd
-from pyspark.sql import SparkSession
+import sys
+
+sys.path.append(os.path.join(os.getcwd(), '..','..'))
+from configs import spark_config as config
+from utils import spark_utils as utils
 
 # create a SparkSession
-spark = (
-    SparkSession.builder.appName("CricketPrediction")
-    .config("spark.sql.execution.arrow.pyspark.enabled", "false")
-    .getOrCreate()
-)
-
-# HDFS configuration
-HDFS_HOST = os.getenv("HDFS_HOST", "192.168.245.142")
-NAMENODE_PORT = os.getenv("NAMENODE_PORT", "8020")
+spark = utils.create_spark_session("Data Preparation")
 
 # Load data
 balltoball = spark.read.csv(
-    f"hdfs://{HDFS_HOST}:{NAMENODE_PORT}/usr/ravi/t20/data/4_filteredData/ball_to_ball.csv",
+    f"{config.HDFS_NAMENODE}/usr/ravi/t20/data/4_filteredData/ball_to_ball.csv",
     header=True,
     inferSchema=True,
 )
 team12_stats = spark.read.csv(
-    f"hdfs://{HDFS_HOST}:{NAMENODE_PORT}/usr/ravi/t20/data/4_filteredData/team12_stats.csv",
+    f"{config.HDFS_NAMENODE}/usr/ravi/t20/data/4_filteredData/team12_stats.csv",
     header=True,
     inferSchema=True,
 )
 players_stats = spark.read.csv(
-    f"hdfs://{HDFS_HOST}:{NAMENODE_PORT}/usr/ravi/t20/data/4_filteredData/players_stats.csv",
+    f"{config.HDFS_NAMENODE}/usr/ravi/t20/data/4_filteredData/players_stats.csv",
     header=True,
     inferSchema=True,
 )
 
-import pandas as pd
-import os
 
-modeling = os.path.join("..", "ml_modeling")
+modeling = os.path.join(os.path.dirname(__file__), "..")
+
 
 # Convert and save balltoball dataset
 balltoball_data = balltoball.collect()

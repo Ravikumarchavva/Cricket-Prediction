@@ -8,17 +8,17 @@ import pandas as pd
 # Initialize Weights & Biases
 wandb.init(project="T20I-CRICKET-WINNER-PREDICTION")
 
-sys.path.append(os.path.join(os.getcwd(), ".."))
-from model_utils import (
+sys.path.append(os.path.join(os.getcwd(), "..", ".."))
+from utils.model_utils import (
     set_seed,
     initialize_logging,
     initialize_wandb,
     plot_roc_curve,
     initialize_model,
-    set_default_config,
+    set_default_config_if_not_present,
     train_and_evaluate,
 )
-from data_utils import load_datasets, create_dataloaders
+from utils.data_utils import load_datasets, create_dataloaders
 
 
 def evaluate_model(model, test_dataloader, device, save_dir=os.getcwd()):
@@ -64,7 +64,7 @@ def main():
     else:
         config = wandb.config
 
-    set_default_config(config)  # Set default configuration values
+    set_default_config_if_not_present(config)  # Set default configuration values
 
     # Load datasets only once
     train_dataset, val_dataset, test_dataset = load_datasets()

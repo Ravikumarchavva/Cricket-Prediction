@@ -5,8 +5,8 @@ import polars as pl
 import torch
 from typing import Tuple
 
-sys.path.append(os.path.join(os.getcwd(), ".."))
-from data_utils import partition_data_with_keys, CricketDataset
+sys.path.append(os.path.join(os.getcwd(), "..", ".."))
+from utils.data_utils import partition_data_with_keys, CricketDataset
 
 
 # Step 1: Load Data
@@ -33,9 +33,15 @@ balltoball, team_stats, players_stats = load_data()
 
 # Step 2: Partition Data
 
-balltoball_keys, balltoball_partitions = partition_data_with_keys(balltoball, ["match_id"])
-team_stats_keys, team_stats_partitions = partition_data_with_keys(team_stats, ["match_id"])
-players_stats_keys, players_stats_partitions = partition_data_with_keys(players_stats, ["match_id"])
+balltoball_keys, balltoball_partitions = partition_data_with_keys(
+    balltoball, ["match_id"]
+)
+team_stats_keys, team_stats_partitions = partition_data_with_keys(
+    team_stats, ["match_id"]
+)
+players_stats_keys, players_stats_partitions = partition_data_with_keys(
+    players_stats, ["match_id"]
+)
 
 
 # Step 3: Align Partitions
@@ -104,6 +110,7 @@ train_path = os.path.join(data_dir, "train_dataset.pt")
 val_path = os.path.join(data_dir, "val_dataset.pt")
 test_path = os.path.join(data_dir, "test_dataset.pt")
 
+
 # Prepare data to save subsets
 def save_dataset(dataset: Subset, file_path: str):
     # Extract subset data
@@ -113,12 +120,16 @@ def save_dataset(dataset: Subset, file_path: str):
     labels = [dataset.dataset.labels[i] for i in dataset.indices]
 
     # Save as a dictionary
-    torch.save({
-        "team_stats": team_stats,
-        "player_stats": player_stats,
-        "ball_stats": ball_stats,
-        "labels": labels,
-    }, file_path)
+    torch.save(
+        {
+            "team_stats": team_stats,
+            "player_stats": player_stats,
+            "ball_stats": ball_stats,
+            "labels": labels,
+        },
+        file_path,
+    )
+
 
 save_dataset(train_dataset, train_path)
 save_dataset(val_dataset, val_path)
@@ -134,7 +145,12 @@ artifact = wandb.Artifact(
     "cricket-dataset",
     type="dataset",
     description="Train, validation, and test sets for T20I cricket winner prediction",
-    metadata={"total_samples": len(labels), "train_split": len(train_indices), "val_split": len(val_indices), "test_split": len(test_indices)},
+    metadata={
+        "total_samples": len(labels),
+        "train_split": len(train_indices),
+        "val_split": len(val_indices),
+        "test_split": len(test_indices),
+    },
 )
 
 # Add files to artifact

@@ -8,25 +8,25 @@ import pandas as pd
 # Initialize Weights & Biases
 wandb.init(project="T20I-CRICKET-WINNER-PREDICTION")
 
-sys.path.append(os.path.join(os.getcwd(), ".."))
-from model_utils import (
+sys.path.append(os.path.join(os.getcwd(), "..", ".."))
+from utils.model_utils import (
     set_seed,
     initialize_logging,
     initialize_wandb,
-    set_default_config,
+    set_default_config_if_not_present,
     initialize_model,
     evaluate_model,
     train_and_evaluate,
     plot_roc_curve,
 )
-from data_utils import load_datasets, augument_data, create_dataloaders
+from utils.data_utils import load_datasets, augument_data, create_dataloaders
 
 
 def main():
     set_seed()
     logger = initialize_logging()
     config = initialize_wandb()
-    set_default_config(config)  # Set default configuration values
+    set_default_config_if_not_present(config)  # Set default configuration values
 
     train_dataset, val_dataset, test_dataset = load_datasets()
     train_dataset, val_dataset, test_dataset = augument_data(
@@ -94,7 +94,7 @@ def main():
     fpr, tpr, _ = roc_curve(all_labels, all_probs)
     roc_auc = auc(fpr, tpr)
 
-    plot_roc_curve(fpr=fpr, tpr=tpr, roc_auc=roc_auc, save_path=save_dir)
+    plot_roc_curve(fpr=fpr, tpr=tpr, roc_auc=roc_auc)
 
     # Convert confusion matrix to DataFrame for logging
     conf_matrix_df = pd.DataFrame(

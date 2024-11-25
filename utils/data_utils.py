@@ -319,7 +319,7 @@ def create_dataloaders(train_dataset, val_dataset, test_dataset, batch_size):
     val_dataloader = DataLoader(
         val_dataset,
         batch_size=batch_size,
-        shuffle=True,
+        shuffle=False,
         collate_fn=collate_fn_with_padding,
     )
     test_dataloader = DataLoader(

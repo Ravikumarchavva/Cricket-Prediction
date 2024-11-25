@@ -1,19 +1,18 @@
 import os
 import sys
 import torch
-import wandb
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-from model_utils import (
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+from utils.model_utils import (
     set_seed, initialize_logging,
-    initialize_model, train_and_evaluate, evaluate_model, set_default_config
+    initialize_model, train_and_evaluate, evaluate_model, set_default_config_if_not_present
 )
-from data_utils import create_dataloaders, load_datasets, augument_data
+from utils.data_utils import create_dataloaders, load_datasets, augument_data
 
 def train(config, train_dataset, val_dataset, test_dataset, device):
     set_seed()
     logger = initialize_logging()
-    set_default_config(config)
+    set_default_config_if_not_present(config)
 
     batch_size = config.batch_size
     train_dataset, val_dataset, test_dataset = augument_data(
@@ -36,7 +35,7 @@ def train(config, train_dataset, val_dataset, test_dataset, device):
 if __name__ == "__main__":
     # Example usage
     config={}
-    set_default_config(config)
+    set_default_config_if_not_present(config)
     train_dataset, val_dataset, test_dataset = load_datasets()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
