@@ -1,0 +1,52 @@
+services:
+  hdfs-namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: hdfs-namenode
+    environment:
+      - CLUSTER_NAME=hadoop
+    ports:
+      - 9870:9870
+    volumes:
+      - hdfs-namenode-data:/hadoop/dfs/name
+
+  hdfs-datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: hdfs-datanode
+    environment:
+      - CLUSTER_NAME=hadoop
+      - CORE_CONF_fs_defaultFS=hdfs://hdfs-namenode:8020
+    ports:
+      - 9864:9864
+    volumes:
+      - hdfs-datanode-data:/hadoop/dfs/data
+    depends_on:
+      - hdfs-namenode
+
+  spark:
+    image: bitnami/spark:3.4
+    container_name: spark
+    environment:
+      - SPARK_MODE=master
+    ports:
+      - 7077:7077
+      - 8080:8080
+    depends_on:
+      - hdfs-namenode
+      - hdfs-datanode
+
+  pytorch:
+    image: pytorch/pytorch:2.0.1-cuda11.7-cudnn8-devel
+    container_name: pytorch
+    environment:
+      - PYTHON_VERSION=3.12
+    volumes:
+      - ./notebooks:/workspace
+    working_dir: /workspace
+    ports:
+      - 8888:8888
+    command: ["jupyter", "notebook", "--ip=0.0.0.0", "--no-browser", "--allow-root"]
+
+volumes:
+  hdfs-namenode-data:
+  hdfs-datanode-data:
+  postgres-data:

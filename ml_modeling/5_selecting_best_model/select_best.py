@@ -57,7 +57,7 @@ def prepare_dataloaders(config):
 
     set_seed()
     # Load the datasets
-    train_dataset, test_dataset, val_dataset = load_datasets()
+    train_dataset, val_dataset, test_dataset = load_datasets()
 
     # Augment data
     train_dataset, test_dataset, val_dataset = augument_data(
@@ -151,7 +151,7 @@ def main():
 
     config = best_run.config
 
-    train_dataloader, val_dataloader, test_dataloader = prepare_dataloaders(config)
+    train_dataset, test_dataloader = prepare_dataloaders(config)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -164,7 +164,7 @@ def main():
 
     window_sizes = [20, 25, 30, 35, 40, 45]
     evaluate_model_and_print_metrics(
-        model, val_dataloader, device, window_sizes, config, save_dir
+        model, test_dataloader, device, window_sizes, config, save_dir
     )
 
     wandb.finish()

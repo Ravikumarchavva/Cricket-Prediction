@@ -1,0 +1,4 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+
+apache-airflow-providers-apache-hdfs==4.6.0
+apache-airflow-providers-apache-spark==4.11.2

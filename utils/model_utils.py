@@ -362,3 +362,32 @@ def train_and_evaluate(
                 )
             }
         )
+
+
+def export_model_to_onnx(model, export_path, input_shapes):
+    """
+    Exports the PyTorch model to ONNX format with dynamic axes for variable-length inputs.
+
+    Args:
+        model (torch.nn.Module): The trained model to export.
+        export_path (str): The file path to save the ONNX model.
+        input_shapes (tuple): Example input tensors (team_input, player_input, ball_input).
+    """
+    model.eval()
+    with torch.no_grad():
+        torch.onnx.export(
+            model,
+            input_shapes,
+            export_path,
+            export_params=True,
+            opset_version=12,
+            input_names=['team_input', 'player_input', 'ball_input'],
+            output_names=['output'],
+            dynamic_axes={
+                'team_input': {0: 'batch_size'},
+                'player_input': {0: 'batch_size'},
+                'ball_input': {0: 'batch_size', 1: 'ball_length'},
+                'output': {0: 'batch_size'},
+            },
+        )
+    print(f"Model has been exported to {export_path}")
