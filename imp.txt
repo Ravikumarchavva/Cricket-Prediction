@@ -1,5 +1,0 @@
-webserver - 8085
-postgres - 5433
-
-user - admin
-admin - admin

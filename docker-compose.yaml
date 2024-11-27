@@ -1,3 +1,5 @@
+version: '3.8'
+
 services:
   hdfs-namenode:
     image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
@@ -5,9 +7,11 @@ services:
     environment:
       - CLUSTER_NAME=hadoop
     ports:
-      - 9870:9870
+      - 9870:9870  # HDFS NameNode Web UI
     volumes:
       - hdfs-namenode-data:/hadoop/dfs/name
+    networks:
+      - default
 
   hdfs-datanode:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -16,37 +20,45 @@ services:
       - CLUSTER_NAME=hadoop
       - CORE_CONF_fs_defaultFS=hdfs://hdfs-namenode:8020
     ports:
-      - 9864:9864
+      - 9864:9864  # HDFS DataNode Web UI
     volumes:
       - hdfs-datanode-data:/hadoop/dfs/data
     depends_on:
       - hdfs-namenode
+    networks:
+      - default
 
-  spark:
-    image: bitnami/spark:3.4
-    container_name: spark
+  spark-master:
+    image: bde2020/spark-master:3.0.0-hadoop3.2
+    container_name: spark-master
     environment:
-      - SPARK_MODE=master
+      - SPARK_MASTER_HOST=spark-master
+      - SPARK_MASTER_PORT=7077
+      - SPARK_MASTER_WEBUI_PORT=8080
     ports:
-      - 7077:7077
-      - 8080:8080
+      - 8080:8080  # Spark Master Web UI
+      - 7077:7077  # Spark Master Port
+    networks:
+      - default
+
+  spark-worker:
+    image: bde2020/spark-worker:3.0.0-hadoop3.2
+    container_name: spark-worker
+    environment:
+      - SPARK_WORKER_CORES=4          # Allocate CPU cores
+      - SPARK_WORKER_MEMORY=4g        # Allocate memory
+      - SPARK_MASTER=spark://spark-master:7077
     depends_on:
-      - hdfs-namenode
-      - hdfs-datanode
-
-  pytorch:
-    image: pytorch/pytorch:2.0.1-cuda11.7-cudnn8-devel
-    container_name: pytorch
-    environment:
-      - PYTHON_VERSION=3.12
-    volumes:
-      - ./notebooks:/workspace
-    working_dir: /workspace
+      - spark-master
     ports:
-      - 8888:8888
-    command: ["jupyter", "notebook", "--ip=0.0.0.0", "--no-browser", "--allow-root"]
+      - 8081:8081  # Spark Worker Web UI
+    networks:
+      - default
 
 volumes:
   hdfs-namenode-data:
   hdfs-datanode-data:
-  postgres-data:
+
+networks:
+  default:
+    driver: bridge

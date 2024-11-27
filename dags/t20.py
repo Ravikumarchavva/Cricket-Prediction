@@ -2,12 +2,12 @@
 
 import sys
 import os
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
 from datetime import datetime, timedelta
 
-sys.path.append(os.path.join(os.path.dirname(__file__), "..", '..'))
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 # Sources tasks
@@ -18,6 +18,7 @@ from b_data_preprocessing.tasks import (
     preprocess_matches,
     process_players_data,
 )
+sys.path.append(os.path.join(os.path.dirname(__file__), "..", '..'))
 
 default_args = {
     'owner': 'ravikumar',
@@ -170,4 +171,4 @@ with DAG(
         merge_matches_and_deliveries_task,
         merge_match_team_stats_task,
         merge_match_players_stats_task
-    ] >> filter_data_task   
+    ] >> filter_data_task
