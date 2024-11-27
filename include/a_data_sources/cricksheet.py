@@ -38,6 +38,9 @@ def upload_files_to_hdfs(client, hdfs_path, files):
                     pbar.update(1)
         print("Finished uploading files to HDFS.")
 
+from airflow.decorators import task
+
+@task
 def download_cricsheet():
     """Download a ZIP file, extract its contents, upload files to HDFS, and clean up locally."""
     try:

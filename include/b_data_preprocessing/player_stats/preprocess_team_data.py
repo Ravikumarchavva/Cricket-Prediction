@@ -13,7 +13,9 @@ sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
 import config
 import utils
 
+from airflow.decorators import task
 
+@task
 def preprocess_team_data():
     """Process and transform team statistics data."""
     logging.info("Starting preprocess_team_data task.")

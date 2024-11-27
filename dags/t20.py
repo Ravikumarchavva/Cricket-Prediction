@@ -8,17 +8,17 @@ from airflow.operators.python import PythonOperator
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
 from datetime import datetime, timedelta
 
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'include'))
 
 # Sources tasks
-from a_data_sources.tasks import download_cricsheet, scrape_espn_stats
+from a_data_sources.cricksheet import download_cricsheet
+from a_data_sources.scrapping_esp import scrape_and_save_stats
 
 # Preprocessing tasks
 from b_data_preprocessing.tasks import (
     preprocess_matches,
     process_players_data,
 )
-sys.path.append(os.path.join(os.path.dirname(__file__), "..", '..'))
 
 default_args = {
     'owner': 'ravikumar',
@@ -47,7 +47,7 @@ with DAG(
 
     scrape_espn_stats_task = PythonOperator(
         task_id='scrape_espn_stats',
-        python_callable=scrape_espn_stats,
+        python_callable=scrape_and_save_stats,
     )
 
     # Preprocessing tasks

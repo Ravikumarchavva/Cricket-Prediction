@@ -103,6 +103,8 @@ def scrape_team_stats(session):
         return teams_df
     return pd.DataFrame()
 
+from airflow.decorators import task
+@task
 def scrape_and_save_stats():
     """Main function to scrape stats and save them to HDFS."""
     headers = {
@@ -150,8 +152,6 @@ def scrape_and_save_stats():
                 except Exception as e:
                     logging.error(f"Error writing {stats_type} stats to HDFS: {e}")
 
-def main():
-    scrape_and_save_stats()
 
 if __name__ == "__main__":
-    main()
+    scrape_and_save_stats()

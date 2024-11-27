@@ -13,7 +13,6 @@ COPY requirements.txt .
 RUN pip install -r requirements.txt
 
 # Copy the application code
-COPY ./data_processing/data_pipelines/* /usr/local/airflow/data_pipelines/
 COPY ./utils /usr/local/airflow/utils
 COPY ./configs /usr/local/airflow/configs
 
