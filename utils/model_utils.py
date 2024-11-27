@@ -210,7 +210,6 @@ def evaluate_model(model, dataloader, device, window_sizes, config, save_dir):
         return metrics, all_labels, all_predictions, all_probs
 
 
-
 def train_and_evaluate(
     model,
     train_dataloader,
@@ -381,13 +380,13 @@ def export_model_to_onnx(model, export_path, input_shapes):
             export_path,
             export_params=True,
             opset_version=12,
-            input_names=['team_input', 'player_input', 'ball_input'],
-            output_names=['output'],
+            input_names=["team_input", "player_input", "ball_input"],
+            output_names=["output"],
             dynamic_axes={
-                'team_input': {0: 'batch_size'},
-                'player_input': {0: 'batch_size'},
-                'ball_input': {0: 'batch_size', 1: 'ball_length'},
-                'output': {0: 'batch_size'},
+                "team_input": {0: "batch_size"},
+                "player_input": {0: "batch_size"},
+                "ball_input": {0: "batch_size", 1: "ball_length"},
+                "output": {0: "batch_size"},
             },
         )
     print(f"Model has been exported to {export_path}")
