@@ -8,6 +8,7 @@ This project aims to predict the probability of a T20 cricket team winning at an
 - [Directory Structure](#directory-structure)
 - [Data Processing Pipeline](#data-processing-pipeline)
 - [Modeling Approach](#ml-modeling-approach)
+- [Results](#results)
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
@@ -107,7 +108,7 @@ This solution employs a sophisticated **multi-model architecture**:
 5. Selecting best model from wandb sweep
 
 ### Results
-The final model achieved an accuracy of 85% on the test set, with a tested accross different overs
+The final model achieved an accuracy of 85% on the test set, which is tested across different overs
 
 ![Results](./public/results.png)
 
