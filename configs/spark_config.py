@@ -1,34 +1,39 @@
 # Configuration settings for the T20 Internationals data pipeline.
-HOST = 'hdfs-namenode'  # docker
+
+# Host Configuration
+HOST = 'hdfs-namenode'  # Docker service name for HDFS NameNode
 
 # HDFS Configuration
-HDFS_PORT = '9870'
-NAMENODE_PORT = '8020'
-HDFS_USER = 'ravikumar'
-HDFS_URL = f"http://{HOST}:{HDFS_PORT}"
-HDFS_NAMENODE = f"hdfs://{HOST}:{NAMENODE_PORT}"  # core-site.xml
+HDFS_PORT = '9870'  # Port for HDFS Web UI
+NAMENODE_PORT = '8020'  # Port for HDFS NameNode
+HDFS_USER = 'ravikumar'  # HDFS user for authentication, if needed
+HDFS_URL = f"http://{HOST}:{HDFS_PORT}"  # HDFS Web UI endpoint
+HDFS_NAMENODE = f"hdfs://{HOST}:{NAMENODE_PORT}"  # HDFS core-site.xml default filesystem URL
 
 # HDFS Data Paths
-HDFS_BASE_DIR = '/usr/ravi/t20/data'
-RAW_DATA_DIR = f"{HDFS_BASE_DIR}/1_rawData"
-PROCESSED_DATA_DIR = f"{HDFS_BASE_DIR}/2_processedData"
-MERGED_DATA_DIR = f"{HDFS_BASE_DIR}/3_mergedData"
-FILTERED_DATA_DIR = f"{HDFS_BASE_DIR}/4_filteredData"
+HDFS_BASE_DIR = '/usr/ravi/t20/data'  # Base directory for T20 pipeline data
+RAW_DATA_DIR = f"{HDFS_BASE_DIR}/1_rawData"  # Directory for raw input data
+PROCESSED_DATA_DIR = f"{HDFS_BASE_DIR}/2_processedData"  # Directory for processed data
+MERGED_DATA_DIR = f"{HDFS_BASE_DIR}/3_mergedData"  # Directory for merged data
+FILTERED_DATA_DIR = f"{HDFS_BASE_DIR}/4_filteredData"  # Directory for filtered data
 
 # Spark Configuration
-SPARK_APP_NAME = 'T20Internationals'
-SPARK_MASTER_PORT = '7077'
-SPARK_MASTER = f"spark://{HOST}:{SPARK_MASTER_PORT}"
+SPARK_APP_NAME = 'T20Internationals'  # Application name for Spark
+SPARK_MASTER_PORT = '7077'  # Port for Spark Master
+SPARK_MASTER = f"spark://{HOST}:{SPARK_MASTER_PORT}"  # Spark Master URL
+
+# Spark Configuration Dictionary
 SPARK_CONFIG = {
-    'spark.master': SPARK_MASTER,
-    'spark.executor.memory': '2g',
-    'spark.executor.cores': '3',
-    'spark.dynamicAllocation.enabled': 'true',
-    'spark.dynamicAllocation.minExecutors': '0',
-    'spark.shuffle.service.enabled': 'true',
-    'spark.dynamicAllocation.shuffleTracking.enabled': 'true',
-    'spark.dynamicAllocation.maxExecutors': '4',
-    'spark.hadoop.fs.defaultFS': HDFS_NAMENODE,
-    'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',
-    'spark.hadoop.fs.file.impl': 'org.apache.hadoop.fs.LocalFileSystem'
+    'spark.master': SPARK_MASTER,  # Spark Master URL
+    'spark.app.name': SPARK_APP_NAME,  # Spark application name
+    'spark.executor.memory': '2g',  # Memory allocation for each executor
+    'spark.executor.cores': '3',  # Number of cores per executor
+    'spark.dynamicAllocation.enabled': 'true',  # Enable dynamic allocation of executors
+    'spark.dynamicAllocation.minExecutors': '0',  # Minimum number of executors
+    'spark.dynamicAllocation.maxExecutors': '4',  # Maximum number of executors
+    'spark.shuffle.service.enabled': 'true',  # Enable external shuffle service
+    'spark.dynamicAllocation.shuffleTracking.enabled': 'true',  # Enable shuffle tracking
+    'spark.hadoop.fs.defaultFS': HDFS_NAMENODE,  # Default filesystem for Spark
+    'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',  # HDFS implementation class
+    'spark.hadoop.fs.file.impl': 'org.apache.hadoop.fs.LocalFileSystem',  # Local filesystem implementation class
 }

@@ -106,11 +106,18 @@ This solution employs a sophisticated **multi-model architecture**:
 4. Hyperparameter tuning and additional evaluations.
 5. Selecting best model from wandb sweep
 
+### Results
+The final model achieved an accuracy of 85% on the test set, with a tested accross different overs
+
+![Results](./public/results.png)
+
 ## Deployment
 
 This model is deployed in a **portfolio website** as part of a static visual showcase rather than a live API to manage server costs. Users can view snapshots of model results and visualizations of prediction accuracy, as running real-time predictions requires constant data streaming, which would increase infrastructure costs.
 
 ## Getting Started
+
+I am currently ```dockerizing``` the pipline for getting easy to start. If you want to run locally follow steps below
 
 ### Prerequisites
 

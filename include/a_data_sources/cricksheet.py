@@ -38,9 +38,6 @@ def upload_files_to_hdfs(client, hdfs_path, files):
                     pbar.update(1)
         print("Finished uploading files to HDFS.")
 
-from airflow.decorators import task
-
-@task
 def download_cricsheet():
     """Download a ZIP file, extract its contents, upload files to HDFS, and clean up locally."""
     try:
@@ -58,7 +55,7 @@ def download_cricsheet():
     try:
         print("Initializing Airflow HDFS client.")
         # Step 2: Initialize HDFS client
-        client = utils.get_hdfs_client()
+        client = utils.get_hdfs_client(id='webhdfs_default')  # Ensure this matches the connection ID in Airflow
 
         utils.ensure_hdfs_directory(client, os.path.join(config.RAW_DATA_DIR, 't20s_csv2'))
 
@@ -81,6 +78,7 @@ def download_cricsheet():
     except Exception as e:
         logging.error(f"Error uploading files to HDFS: {e}")
         raise
+
     return
 
 

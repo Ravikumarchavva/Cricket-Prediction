@@ -92,19 +92,19 @@ with DAG(
     # Merging tasks
     merge_matches_and_deliveries_task = SparkSubmitOperator(
         task_id="merge_matches_and_deliveries",
-        application=f'{os.path.join(os.path.dirname(__file__), "..", "inculde", "c_data_merging", "merge_matches_and_deliveries.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "include", "c_data_merging", "merge_matches_and_deliveries.py")}',
         conn_id="spark_default",
     )
 
     merge_match_team_stats_task = SparkSubmitOperator(
         task_id="merge_match_team_stats",
-        application=f'{os.path.join(os.path.dirname(__file__), "..", "inculde", "c_data_merging", "merge_match_team_stats.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "include", "c_data_merging", "merge_match_team_stats.py")}',
         conn_id="spark_default",
     )
 
     merge_match_players_stats_task = SparkSubmitOperator(
         task_id="merge_match_players_stats",
-        application=f'{os.path.join(os.path.dirname(__file__), "..", "inculde", "c_data_merging", "merge_match_players_stats.py")}',
+        application=f'{os.path.join(os.path.dirname(__file__), "..", "include", "c_data_merging", "merge_match_players_stats.py")}',
         conn_id="spark_default",
     )
 
@@ -116,7 +116,8 @@ with DAG(
     )
 
     # Task dependencies
-    [download_cricsheet_task, scrape_espn_stats_task] >> process_players_task
+    download_cricsheet_task >> [process_players_task, process_deliveries_task, process_matches_task]
+    scrape_espn_stats_task >> process_players_task
 
     process_players_task >> [
         preprocess_batting_task,

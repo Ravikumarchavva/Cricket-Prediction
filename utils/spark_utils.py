@@ -70,7 +70,7 @@ def spark_save_data(df, output_dir, filename):
 
 def get_hdfs_client(id='webhdfs_default'):
     """Initialize and return an HDFS client using Airflow's HDFSHook."""
-    hook = WebHDFSHook(webhdfs_conn_id=id)  # Ensure this matches the connection ID in Airflow
+    hook = WebHDFSHook(webhdfs_conn_id=id)
     return hook.get_conn()
 
 def hdfs_read(client, path):
