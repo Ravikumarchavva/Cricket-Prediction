@@ -16,5 +16,10 @@ RUN pip install -r requirements.txt
 COPY ./utils /usr/local/airflow/utils
 COPY ./configs /usr/local/airflow/configs
 
+# Set environment variables for Airflow
+ENV AIRFLOW__CORE__EXECUTOR=LocalExecutor
+ENV AIRFLOW__CORE__SQL_ALCHEMY_CONN=sqlite:////usr/local/airflow/airflow.db
+ENV AIRFLOW__CORE__LOAD_EXAMPLES=False
+
 # Switch back to astro user
 USER astro

@@ -7,10 +7,9 @@ import pandas as pd
 
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
-import config
-import utils
+from configs import spark_config as config
+from utils import spark_utils as utils
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 

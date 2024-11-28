@@ -1,7 +1,5 @@
-
 # Configuration settings for the T20 Internationals data pipeline.
-# HOST = '192.168.245.142'
-HOST = 'localhost' # docker
+HOST = 'hdfs-namenode'  # docker
 
 # HDFS Configuration
 HDFS_PORT = '9870'

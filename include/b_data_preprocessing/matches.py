@@ -8,10 +8,9 @@ import concurrent.futures
 from tqdm import tqdm
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
-import config
-import utils
+from configs import spark_config as config
+from utils import spark_utils as utils
 import io
 
 

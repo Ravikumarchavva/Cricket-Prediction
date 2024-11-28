@@ -13,9 +13,9 @@ from pyspark.sql.functions import (
 
 import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-import config
-import utils
+
+from configs import spark_config as config
+from utils import spark_utils as utils
 
 def merge_data():
     """Process and merge matches and deliveries data."""

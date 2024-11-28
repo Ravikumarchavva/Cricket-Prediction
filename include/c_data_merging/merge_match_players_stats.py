@@ -11,10 +11,10 @@ from pyspark.sql.functions import col, lit, row_number
 import pyspark.sql.functions as F
 
 import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..','..'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
-import config
-import utils
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
+
+from configs import spark_config as config
+from utils import spark_utils as utils
 
 def process_match_players_stats():
     """Merge match players with their statistics."""

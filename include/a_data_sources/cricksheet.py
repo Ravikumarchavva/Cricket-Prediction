@@ -8,7 +8,7 @@ import logging
 
 import os
 import sys
-sys.path.append(os.path.join(os.getcwd(), '..','..','..'))
+sys.path.append(os.path.join(os.getcwd(), '..','..'))
 from configs import spark_config as config
 from utils import spark_utils as utils
 
