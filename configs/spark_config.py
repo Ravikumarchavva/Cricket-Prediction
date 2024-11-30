@@ -7,7 +7,7 @@ HOST = 'hdfs-namenode'  # Docker service name for HDFS NameNode
 HDFS_PORT = '9870'  # Port for HDFS Web UI
 NAMENODE_PORT = '8020'  # Port for HDFS NameNode
 HDFS_USER = 'ravikumar'  # HDFS user for authentication, if needed
-HDFS_URL = f"http://{HOST}:{HDFS_PORT}"  # HDFS Web UI endpoint
+HDFS_URL = "http://hdfs-namenode:9870"
 HDFS_NAMENODE = f"hdfs://{HOST}:{NAMENODE_PORT}"  # HDFS core-site.xml default filesystem URL
 
 # HDFS Data Paths

@@ -1,3 +1,5 @@
+version: '3.8'
+
 services:
   hdfs-namenode:
     image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
@@ -9,7 +11,7 @@ services:
     volumes:
       - hdfs-namenode-data:/hadoop/dfs/name
     networks:
-      - default
+      - cricket-prediction
 
   hdfs-datanode:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -24,7 +26,7 @@ services:
     depends_on:
       - hdfs-namenode
     networks:
-      - default
+      - cricket-prediction
 
   spark-master:
     image: bde2020/spark-master:3.0.0-hadoop3.2
@@ -37,7 +39,7 @@ services:
       - 8080:8080  # Spark Master Web UI
       - 7077:7077  # Spark Master Port
     networks:
-      - default
+      - cricket-prediction
 
   spark-worker:
     image: bde2020/spark-worker:3.0.0-hadoop3.2
@@ -51,12 +53,33 @@ services:
     ports:
       - 8081:8081  # Spark Worker Web UI
     networks:
-      - default
+      - cricket-prediction
+
+  airflow-webserver:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: airflow-webserver
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=sqlite:////usr/local/airflow/airflow.db
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - AIRFLOW_CONN_WEBHDFS_DEFAULT=hdfs://hdfs-namenode:9870
+    ports:
+      - 8082:8080  # Airflow Webserver UI
+    networks:
+      - cricket-prediction
+    depends_on:
+      - hdfs-namenode
+      - hdfs-datanode
+      - spark-master
+    entrypoint: ["/entrypoint.sh"]
+    command: ["webserver"]
 
 volumes:
   hdfs-namenode-data:
   hdfs-datanode-data:
 
 networks:
-  default:
+  cricket-prediction:
     driver: bridge
