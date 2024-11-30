@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: hdfs-namenode
+    expose:
+      - "9870"
+    ports:
+      - "9870:9870"
+    environment:
+      - CLUSTER_NAME=hadoop
+    volumes:
+      - namenode:/hadoop/dfs/name
+    networks:
+      - hadoop_network
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: hdfs-datanode
+    expose:
+      - "9864"
+    ports:
+      - "9864:9864"
+    environment:
+      - CLUSTER_NAME=hadoop
+      - SERVICE_PRECONDITION=hdfs-namenode:9870
+    volumes:
+      - datanode:/hadoop/dfs/data
+    networks:
+      - hadoop_network
+  
+  spark:
+    image: bde2020/spark-worker:2.4.5-hadoop2.7
+    container_name: spark-worker
+    expose:
+      - "8081"
+    ports:
+      - "8081:8081"
+    environment:
+      - SPARK_MASTER=spark://spark-master:7077
+      - SPARK_WORKER_CORES=1
+      - SPARK_WORKER_MEMORY=1g
+      - SPARK_WORKER_PORT=8881
+      - SPARK_WORKER_WEBUI_PORT=8081
+      - SPARK_WORKER_LOG=/spark/logs
+      - SPARK_MASTER_WEBUI_PORT=8080
+    volumes:
+      - spark:/spark/logs
+    depends_on:
+      - spark-master
+    networks:
+      - hadoop_network
+
+  airflow:
+    build: .
+    container_name: airflow
+    depends_on:
+      - namenode
+      - datanode
+      - spark
+    networks:
+      - hadoop_network
+
+volumes:
+  namenode:
+  datanode:
+  spark:
+
+networks:
+  hadoop_network:
+    driver: bridge

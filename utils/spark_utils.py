@@ -24,7 +24,7 @@ def create_spark_session(name: str = None, SPARK_CONFIG: dict = None, update_con
             SPARK_CONFIG.update(config.SPARK_CONFIG)
         builder = (SparkSession.builder
                    .appName(name)
-                   .master(config.SPARK_MASTER))
+                   .master(config.SPARK_MASTER_URL))
         
         # Add all configurations
         for key, value in SPARK_CONFIG.items():
@@ -70,7 +70,7 @@ def spark_save_data(df, output_dir, filename):
 
 def get_hdfs_client(id='webhdfs_default'):
     """Initialize and return an HDFS client using Airflow's HDFSHook."""
-    hook = WebHDFSHook(webhdfs_conn_id=id)
+    hook = WebHDFSHook(webhdfs_conn_id=id,proxy_user=config.HDFS_USER)
     return hook.get_conn()
 
 def hdfs_read(client, path):
@@ -88,19 +88,21 @@ def hdfs_list(client, path):
 
 def hdfs_mkdirs(client, path):
     """Create directories on HDFS."""
-    client.makedirs(path, permission=0o755)
+    client.makedirs(path, permission='755')
 
 def hdfs_exists(client, path):
     """Check if a path exists on HDFS."""
     try:
         client.status(path)
         return True
-    except FileNotFoundError:
+    except:
         return False
 
 def ensure_hdfs_directory(client, path):
     """Ensure that a directory exists on HDFS, creating it if necessary."""
+    logging.info(f"Checking if directory {path} exists on HDFS.")
     if not hdfs_exists(client, path):
+        logging.info(f"Creating directory {path} on HDFS.")
         hdfs_mkdirs(client, path)
     return True
 

@@ -18,13 +18,13 @@ MERGED_DATA_DIR = f"{HDFS_BASE_DIR}/3_mergedData"  # Directory for merged data
 FILTERED_DATA_DIR = f"{HDFS_BASE_DIR}/4_filteredData"  # Directory for filtered data
 
 # Spark Configuration
-SPARK_APP_NAME = 'T20Internationals'  # Application name for Spark
+SPARK_MASTER = 'spark-master'  # Docker service name for Spark Master
 SPARK_MASTER_PORT = '7077'  # Port for Spark Master
-SPARK_MASTER = f"spark://{HOST}:{SPARK_MASTER_PORT}"  # Spark Master URL
-
+SPARK_MASTER_URL = f"spark://{SPARK_MASTER}:{SPARK_MASTER_PORT}"  # Spark Master URL
+SPARK_APP_NAME = 'T20Internationals'  # Spark application name
 # Spark Configuration Dictionary
 SPARK_CONFIG = {
-    'spark.master': SPARK_MASTER,  # Spark Master URL
+    'spark.master': SPARK_MASTER_URL,  # Spark Master URL
     'spark.app.name': SPARK_APP_NAME,  # Spark application name
     'spark.executor.memory': '2g',  # Memory allocation for each executor
     'spark.executor.cores': '3',  # Number of cores per executor

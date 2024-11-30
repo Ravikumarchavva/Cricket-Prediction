@@ -41,22 +41,22 @@ def upload_files_to_hdfs(client, hdfs_path, files):
 def download_cricsheet():
     """Download a ZIP file, extract its contents, upload files to HDFS, and clean up locally."""
     try:
-        print("Starting download of ZIP file.")
+        logging.info("Starting download of ZIP file.")
         # Step 1: Download and extract the zip file concurrently
         with ThreadPoolExecutor(max_workers=5) as executor:
             response_future = executor.submit(requests.get, 'https://cricsheet.org/downloads/t20s_csv2.zip')
             raw_data = io.BytesIO(response_future.result().content)
             extracted_data = zipfile.ZipFile(raw_data)
-        print("Successfully downloaded and extracted ZIP file.")
+        logging.info("Successfully downloaded and extracted ZIP file.")
     except Exception as e:
         logging.error(f"Error downloading or extracting ZIP file: {e}")
         raise
 
     try:
-        print("Initializing Airflow HDFS client.")
+        logging.info("Initializing Airflow HDFS client.")
         # Step 2: Initialize HDFS client
         client = utils.get_hdfs_client(id='webhdfs_default')  # Ensure this matches the connection ID in Airflow
-
+        logging.info("Successfully initialized HDFS client.")
         utils.ensure_hdfs_directory(client, os.path.join(config.RAW_DATA_DIR, 't20s_csv2'))
 
         # Collect all file names and data
