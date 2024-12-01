@@ -15,4 +15,11 @@ RUN pip install -r requirements.txt
 COPY ./utils /usr/local/airflow/utils
 COPY ./configs /usr/local/airflow/configs
 
-USER astro
+# Create 'ravikumar' user and group
+RUN groupadd -r ravikumar && useradd -r -g ravikumar ravikumar
+
+# Set ownership of relevant directories to 'ravikumar'
+RUN chown -R ravikumar:ravikumar /usr/local/airflow/utils
+RUN chown -R ravikumar:ravikumar /usr/local/airflow/configs
+
+USER ravikumar

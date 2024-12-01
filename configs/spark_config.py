@@ -6,12 +6,12 @@ HOST = 'hdfs-namenode'  # Docker service name for HDFS NameNode
 # HDFS Configuration
 HDFS_PORT = '9870'  # Port for HDFS Web UI
 NAMENODE_PORT = '8020'  # Port for HDFS NameNode
-HDFS_USER = 'ravikumar'  # HDFS user for authentication, if needed
+HDFS_USER = 'ravikumar'  # HDFS user for authentication
 HDFS_URL = "http://hdfs-namenode:9870"
 HDFS_NAMENODE = f"hdfs://{HOST}:{NAMENODE_PORT}"  # HDFS core-site.xml default filesystem URL
 
 # HDFS Data Paths
-HDFS_BASE_DIR = '/usr/ravi/t20/data'  # Base directory for T20 pipeline data
+HDFS_BASE_DIR = '/t20'  # Base directory for T20 pipeline data
 RAW_DATA_DIR = f"{HDFS_BASE_DIR}/1_rawData"  # Directory for raw input data
 PROCESSED_DATA_DIR = f"{HDFS_BASE_DIR}/2_processedData"  # Directory for processed data
 MERGED_DATA_DIR = f"{HDFS_BASE_DIR}/3_mergedData"  # Directory for merged data

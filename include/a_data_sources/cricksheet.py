@@ -18,7 +18,6 @@ logging.basicConfig(
     format='%(asctime)s - %(message)s'
 )
 
-
 def upload_files_to_hdfs(client, hdfs_path, files):
     """Upload multiple files to HDFS using HDFSHook."""
     hdfs_files_set = utils.hdfs_list(client, hdfs_path)
@@ -55,7 +54,7 @@ def download_cricsheet():
     try:
         logging.info("Initializing Airflow HDFS client.")
         # Step 2: Initialize HDFS client
-        client = utils.get_hdfs_client(id='webhdfs_default')  # Ensure this matches the connection ID in Airflow
+        client = utils.get_hdfs_client(id='webhdfs_default')  # Uses updated host and port
         logging.info("Successfully initialized HDFS client.")
         utils.ensure_hdfs_directory(client, os.path.join(config.RAW_DATA_DIR, 't20s_csv2'))
 

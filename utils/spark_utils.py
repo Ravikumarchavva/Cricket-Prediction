@@ -70,7 +70,10 @@ def spark_save_data(df, output_dir, filename):
 
 def get_hdfs_client(id='webhdfs_default'):
     """Initialize and return an HDFS client using Airflow's HDFSHook."""
-    hook = WebHDFSHook(webhdfs_conn_id=id,proxy_user=config.HDFS_USER)
+    hook = WebHDFSHook(
+        webhdfs_conn_id=id, 
+        proxy_user=config.HDFS_USER,
+    )
     return hook.get_conn()
 
 def hdfs_read(client, path):
@@ -87,7 +90,7 @@ def hdfs_list(client, path):
         return set()
 
 def hdfs_mkdirs(client, path):
-    """Create directories on HDFS."""
+    """Create directories on HDFS with read/write permissions for 'ravikumar'."""
     client.makedirs(path, permission='755')
 
 def hdfs_exists(client, path):

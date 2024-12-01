@@ -4,5 +4,6 @@ apache-airflow-providers-apache-hdfs==4.6.0
 apache-airflow-providers-apache-spark==4.11.2
 
 tqdm
+html5lib
 
 psycopg2-binary
