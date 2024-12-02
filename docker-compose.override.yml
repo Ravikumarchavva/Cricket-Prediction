@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   namenode:
     image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
@@ -10,12 +8,13 @@ services:
       - "9870:9870"
     environment:
       - CLUSTER_NAME=hadoop
-      - HDFS_USER=ravikumar  # Set HDFS user to 'ravikumar'
+      - HDFS_USER=ravikumar
       - CORE_CONF_fs_defaultFS=hdfs://hdfs-namenode:8020
     volumes:
       - namenode:/hadoop/dfs/name
     networks:
       - hadoop_network
+      - astronomer_a3954d_airflow
 
   datanode:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -28,7 +27,7 @@ services:
     environment:
       - CLUSTER_NAME=hadoop
       - SERVICE_PRECONDITION=hdfs-namenode:9870
-      - HDFS_USER=ravikumar  # Set HDFS user to 'ravikumar'
+      - HDFS_USER=ravikumar
       - CORE_CONF_fs_defaultFS=hdfs://hdfs-namenode:8020
       - HDFS_CONF_dfs_namenode_http_address=hdfs-namenode:9870
       - HDFS_CONF_dfs_datanode_hostname=hdfs-datanode  # Set Datanode hostname
@@ -36,6 +35,7 @@ services:
       - datanode:/hadoop/dfs/data
     networks:
       - hadoop_network
+      - astronomer_a3954d_airflow
   
   spark:
     image: bde2020/spark-worker:2.4.5-hadoop2.7
@@ -59,18 +59,6 @@ services:
     networks:
       - hadoop_network
 
-  airflow:
-    build: .
-    container_name: airflow
-    depends_on:
-      - namenode
-      - datanode
-      - spark
-    environment:
-      - HDFS_USER=ravikumar  # Pass the HDFS user to Airflow
-    networks:
-      - hadoop_network
-
 volumes:
   namenode:
   datanode:
@@ -79,3 +67,5 @@ volumes:
 networks:
   hadoop_network:
     driver: bridge
+  astronomer_a3954d_airflow:
+    external: true

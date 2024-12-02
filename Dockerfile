@@ -9,17 +9,9 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt .
-
 RUN pip install -r requirements.txt
 
 COPY ./utils /usr/local/airflow/utils
 COPY ./configs /usr/local/airflow/configs
-
-# Create 'ravikumar' user and group
-RUN groupadd -r ravikumar && useradd -r -g ravikumar ravikumar
-
-# Set ownership of relevant directories to 'ravikumar'
-RUN chown -R ravikumar:ravikumar /usr/local/airflow/utils
-RUN chown -R ravikumar:ravikumar /usr/local/airflow/configs
 
 USER ravikumar

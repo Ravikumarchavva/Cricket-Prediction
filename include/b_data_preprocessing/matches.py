@@ -39,8 +39,7 @@ def process_single_match(client, match_id: str) -> pd.DataFrame:
         logging.warning(f"Error processing match {match_id}: {e}")
         return None
 
-from airflow.decorators import task
-@task
+
 def preprocess_matches():
     """
     Process raw match data files and create a structured matches dataset.

@@ -13,9 +13,6 @@ from utils import spark_utils as utils
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-from airflow.decorators import task
-
-@task
 def process_players_data():
     """
     Process player information from match data files.

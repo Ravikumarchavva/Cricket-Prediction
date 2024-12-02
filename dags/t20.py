@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timedelta
 
 from airflow import DAG
-from airflow.operators.python_operator import PythonOperator
+from airflow.operators.python import PythonOperator
 from airflow.providers.apache.spark.operators.spark_submit import SparkSubmitOperator
 
 # Absolute imports of custom modules
@@ -18,7 +18,7 @@ default_args = {
     'depends_on_past': False,
     'email_on_failure': True,
     'email_on_retry': False,
-    'retries': 0,
+    'retries': 1,
     'retry_delay': timedelta(minutes=5),
     'start_date': datetime(2024, 1, 10),
 }
