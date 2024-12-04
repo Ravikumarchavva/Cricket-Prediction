@@ -1,10 +1,10 @@
 # T20 Cricket Win Prediction Project
 
-![Project Overview](./public/architectureOverview.png)
+![Project Overview](./public/architectureOverview.jpg)
 
 ## Overview
 
-The **T20 Cricket Win Prediction Project** leverages advanced machine learning techniques to predict the probability of a T20 cricket team winning at any given point in a match. By integrating this model into a cricket application, we aim to enhance viewer engagement through real-time predictions and insightful analytics during live matches.
+The **T20 Cricket Win Prediction Project** leverages advanced machine learning techniques to predict the probability of a T20 cricket team winning at any given point in a match. By integrating this model into a cricket application, we aim to enhance viewer engagement through insightful analytics based on static predictions.
 
 ## Table of Contents
 
@@ -23,12 +23,12 @@ The **T20 Cricket Win Prediction Project** leverages advanced machine learning t
 
 ## Features
 
-- **Real-Time Predictions**: Provides live win probability updates during matches.
+- **Static Predictions**: Provides win probability insights based on preprocessed data.
 - **Multi-Model Architecture**: Combines RNNs, CNNs, and DNNs for comprehensive analysis.
 - **Interactive Visualizations**: Displays prediction accuracy and model performance metrics.
-- **Scalable Deployment**: Utilizes Docker containers for consistent environment setup.
+- **Cost-Efficient Deployment**: Utilizes static hosting to manage infrastructure costs effectively.
 
-![Airflow ETL Pipeline](./public/airflow_etl_pipeline.png)
+![Airflow ETL Pipeline](./public/airflow_etl_pipeline.jpg)
 
 ## Tech Stack
 
@@ -44,7 +44,7 @@ The **T20 Cricket Win Prediction Project** leverages advanced machine learning t
 
 ## Directory Structure
 
-Here's a high-level structure of the project folders:
+Here's a high-level structure of the project folders, indicating completed and pending steps:
 
 ```plaintext
 .
@@ -116,14 +116,14 @@ This solution employs a sophisticated **multi-model architecture**:
 ### Results
 The final model achieved an accuracy of 85% on the test set, which is tested across different overs
 
-![Results](./public/results.png)
-![Hyperparameter Tuning](./public/wandb_hp_tuning.png)
+![Results](./public/results.jpg)
+![Hyperparameter Tuning](./public/wandb_hp_tuning.jpg)
 
 ## Deployment
 
-This model is deployed in a **portfolio website** as part of a static visual showcase rather than a live API to manage server costs. Users can view snapshots of model results and visualizations of prediction accuracy, as running real-time predictions requires constant data streaming, which would increase infrastructure costs.
+Deployment is optimized to control costs by utilizing static hosting solutions. Instead of deploying a live API, the model results are presented through static visualizations and snapshots, ensuring scalability without incurring high infrastructure expenses.
 
-![Docker Setup](./public/docker.png)
+![Docker Setup](./public/docker.jpg)
 
 ## Getting Started
 
