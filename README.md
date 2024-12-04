@@ -118,6 +118,8 @@ The final model achieved an accuracy of 85% on the test set, which is tested acr
 
 ![Results](./public/results.jpg)
 ![Hyperparameter Tuning](./public/wandb_hp_tuning.jpg)
+![Win Example](./public/win-example.jpg)
+![Loss Example](./public/loss-example.jpg)
 
 ## Deployment
 
@@ -160,7 +162,7 @@ To run this project locally, follow the steps below:
     ```bash
     python 2_naivetraining/train.py
     ```
-    - make sure you have `wandb api key` in your env
+    - **Warning**: Ensure you have your `wandb API key` set in your environment variables.
 
 ### Deployment
 
