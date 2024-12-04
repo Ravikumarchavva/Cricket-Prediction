@@ -24,16 +24,16 @@ SPARK_MASTER_URL = f"spark://{SPARK_MASTER}:{SPARK_MASTER_PORT}"  # Spark Master
 SPARK_APP_NAME = 'T20Internationals'  # Spark application name
 # Spark Configuration Dictionary
 SPARK_CONFIG = {
-    'spark.master': SPARK_MASTER_URL,  # Spark Master URL
-    'spark.app.name': SPARK_APP_NAME,  # Spark application name
-    'spark.executor.memory': '2g',  # Memory allocation for each executor
-    'spark.executor.cores': '3',  # Number of cores per executor
+    'spark.app.name': SPARK_APP_NAME,
+    'spark.master': SPARK_MASTER_URL,  # Ensure this is included
+    'spark.executor.memory': '2g',
+    'spark.executor.cores': '3',
+    'spark.hadoop.fs.defaultFS': HDFS_NAMENODE,  # Ensure HDFS is set as default FS
     'spark.dynamicAllocation.enabled': 'true',  # Enable dynamic allocation of executors
     'spark.dynamicAllocation.minExecutors': '0',  # Minimum number of executors
     'spark.dynamicAllocation.maxExecutors': '4',  # Maximum number of executors
-    'spark.shuffle.service.enabled': 'true',  # Enable external shuffle service
+    'spark.shuffle.service.enabled': 'false',  # Disable external shuffle service
     'spark.dynamicAllocation.shuffleTracking.enabled': 'true',  # Enable shuffle tracking
-    'spark.hadoop.fs.defaultFS': HDFS_NAMENODE,  # Default filesystem for Spark
     'spark.hadoop.fs.hdfs.impl': 'org.apache.hadoop.hdfs.DistributedFileSystem',  # HDFS implementation class
     'spark.hadoop.fs.file.impl': 'org.apache.hadoop.fs.LocalFileSystem',  # Local filesystem implementation class
 }

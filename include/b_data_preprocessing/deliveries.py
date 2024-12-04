@@ -41,8 +41,8 @@ def preprocess_deliveries():
 
         # Initialize Spark session with HDFS configuration
         spark = utils.create_spark_session("PrerocessDeliveries",{
-            "spark.executor.memory": "4g",
-            "spark.executor.cores": "4"
+            "spark.executor.memory": "3g",
+            "spark.executor.cores": "3"
         })
 
         # Define the schema for the deliveries data
@@ -71,7 +71,10 @@ def preprocess_deliveries():
             StructField('other_player_dismissed', StringType(), True)
         ])
         # Read the delivery files into a Spark DataFrame
-        delivery_paths = [os.path.join(config.RAW_DATA_DIR, 't20s_csv2', f) for f in delivery_files]
+        delivery_paths = [
+            f"{config.HDFS_NAMENODE}{config.RAW_DATA_DIR}/t20s_csv2/{f}"
+            for f in delivery_files
+        ]
         deliveries_data = spark.read.csv(delivery_paths, header=True, schema=delivery_schema)
         # Fill null values
         deliveries_data = deliveries_data.fillna(0)

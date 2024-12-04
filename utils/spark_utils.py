@@ -24,7 +24,15 @@ def create_spark_session(name: str = None, SPARK_CONFIG: dict = None, update_con
             SPARK_CONFIG.update(config.SPARK_CONFIG)
         builder = (SparkSession.builder
                    .appName(name)
-                   .master(config.SPARK_MASTER_URL))
+                   .master(config.SPARK_MASTER_URL)
+                   .config("spark.sql.warehouse.dir", "/user/ravikumar/warehouse")
+                   .config("spark.hadoop.fs.defaultFS", config.HDFS_NAMENODE)
+                   .config("spark.hadoop.fs.hdfs.impl", "org.apache.hadoop.hdfs.DistributedFileSystem")
+                   .config("spark.hadoop.fs.file.impl", "org.apache.hadoop.fs.LocalFileSystem")
+                   .config("spark.yarn.keytab", "/path/to/ravikumar.keytab")
+                   .config("spark.yarn.principal", "ravikumar@EXAMPLE.COM")
+                   .config("spark.executorEnv.HADOOP_USER_NAME", "ravikumar")
+                   .config("spark.yarn.submit.file.replication", "1"))
         
         # Add all configurations
         for key, value in SPARK_CONFIG.items():
@@ -54,7 +62,8 @@ def load_data(spark, data_dir, filename):
 def spark_save_data(df, output_dir, filename):
     """Save DataFrame to HDFS using Spark's native CSV writer."""
     try:
-        output_path = os.path.join(output_dir, filename)
+        # Include HDFS URI in the output path
+        output_path = f"{config.HDFS_NAMENODE}{os.path.join(output_dir, filename)}"
         
         # Use Spark's native CSV writer
         df.write.mode('overwrite').csv(
@@ -64,7 +73,7 @@ def spark_save_data(df, output_dir, filename):
         logging.info(f'Successfully wrote data to {output_path}')
         
     except Exception as e:
-        logging.error(f'Error writing to {os.path.join(output_dir, filename)} on HDFS: {str(e)}')
+        logging.error(f'Error writing to {output_path} on HDFS: {str(e)}')
         raise
 
 
@@ -148,4 +157,5 @@ if __name__ == "__main__":
     spark = create_spark_session()
     print(spark.version)
     spark.stop()
+    print("Spark session stopped.")
     print("Spark session stopped.")

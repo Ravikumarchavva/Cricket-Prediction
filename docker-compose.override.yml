@@ -13,8 +13,7 @@ services:
     volumes:
       - namenode:/hadoop/dfs/name
     networks:
-      - hadoop_network
-      - astronomer_a3954d_airflow
+      - airflow
 
   datanode:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -34,38 +33,56 @@ services:
     volumes:
       - datanode:/hadoop/dfs/data
     networks:
-      - hadoop_network
-      - astronomer_a3954d_airflow
+      - airflow
   
-  spark:
-    image: bde2020/spark-worker:2.4.5-hadoop2.7
-    container_name: spark-worker
-    expose:
-      - "8081"
+  spark-master:
+    image: bitnami/spark:latest
+    environment:
+      - SPARK_MODE=master
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+      - SPARK_MASTER_WEBUI_PORT=8081
+      - HADOOP_USER_NAME=ravikumar
+      - SPARK_SHUFFLE_SERVICE_ENABLED=false
     ports:
       - "8081:8081"
-    environment:
-      - SPARK_MASTER=spark://spark-master:7077
-      - SPARK_WORKER_CORES=1
-      - SPARK_WORKER_MEMORY=1g
-      - SPARK_WORKER_PORT=8881
-      - SPARK_WORKER_WEBUI_PORT=8081
-      - SPARK_WORKER_LOG=/spark/logs
-      - SPARK_MASTER_WEBUI_PORT=8080
+      - "7077:7077"
     volumes:
-      - spark:/spark/logs
+      - spark-data:/bitnami
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
+    networks:
+      - airflow
+
+  spark-worker:
+    image: bitnami/spark:latest
+    environment:
+      - SPARK_MODE=worker
+      - SPARK_MASTER_URL=spark://spark-master:7077
+      - SPARK_WORKER_MEMORY=7G
+      - SPARK_WORKER_CORES=10
+      - SPARK_RPC_AUTHENTICATION_ENABLED=no
+      - SPARK_RPC_ENCRYPTION_ENABLED=no
+      - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
+      - SPARK_SSL_ENABLED=no
+      - HADOOP_USER_NAME=ravikumar
+      - SPARK_SHUFFLE_SERVICE_ENABLED=false
+    volumes:
+      - spark-data:/bitnami
+      - ./apps:/opt/spark-apps
+      - ./data:/opt/spark-data
     depends_on:
       - spark-master
     networks:
-      - hadoop_network
+      - airflow
 
 volumes:
   namenode:
   datanode:
-  spark:
+  spark-data:
 
 networks:
-  hadoop_network:
+  airflow:
     driver: bridge
-  astronomer_a3954d_airflow:
-    external: true

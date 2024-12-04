@@ -12,7 +12,7 @@ def filter_data():
     # Update data file names
     team12Stats = utils.load_data(spark, config.MERGED_DATA_DIR, 'team_stats.csv')
     balltoball = utils.load_data(spark, config.MERGED_DATA_DIR, 'ball_by_ball.csv')
-    playersStats = utils.load_data(spark, config.MERGED_DATA_DIR, 'player_stats.csv')
+    playersStats = utils.load_data(spark, config.MERGED_DATA_DIR, 'players_stats.csv')
 
     print(team12Stats.select('match_id').distinct().count(), balltoball.select('match_id').distinct().count(), playersStats.select('match_id').distinct().count())
 
