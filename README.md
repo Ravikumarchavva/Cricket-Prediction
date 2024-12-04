@@ -118,7 +118,13 @@ The final model achieved an accuracy of 85% on the test set, which is tested acr
 
 ![Results](./public/results.jpg)
 ![Hyperparameter Tuning](./public/wandb_hp_tuning.jpg)
+
+Win Example
+
 ![Win Example](./public/win-example.jpg)
+
+Loss Example
+
 ![Loss Example](./public/loss-example.jpg)
 
 ## Deployment
