@@ -32,28 +32,38 @@ These models are trained independently and then merged into a final DNN for comp
 Here's a high-level structure of the project folders:
 
 ```plaintext
-├── data                     # This directory is present in HDFS (Get by running Pipeline)
-│   ├── 1_rawData            # Raw cricket data sources (ball-by-ball and player/team stats)
-│   ├── 2_processedData      # Processed batting, bowling, fielding CSVs
-│   ├── 3_aftermerging       # Data after merging individual stats
-│   └── 4_filteredData       # Filtered data for modeling
-├── data_pipelines           # ETL pipeline in Airflow for data ingestion and processing
-│   ├── a_data_sources
-│   ├── b_data_preprocessing
-│   ├── c_data_merging
-│   ├── d_data_filtering
-│   └── dags                 # Airflow DAGs
-├── data_manuplation         # Spark scripts for preprocessing, EDA, merging, and filtering data
+.
+├── Dockerfile
+├── README.md
+├── airflow.cfg
+├── airflow_settings.yaml
+├── apps
+├── configs
+│   ├── hp_config.yaml
+│   └── spark_config.py
+├── dags
+│   └── t20.py
+├── data_manuplation
 │   ├── 1_preprocessing
 │   ├── 2_eda
 │   ├── 3_mergers
 │   └── 4_filteringData
-└── ml_modeling              # Training, evaluation, and hyperparameter tuning
-    ├── 1_labeling
-    ├── 2_naivetraining
-    ├── 3_evaluating
-    ├── 4_hptuning
-    ├── 5_specialEvaluation
+├── docker-compose.override.yml
+├── include
+│   ├── a_data_sources
+│   ├── b_data_preprocessing
+│   ├── c_data_merging
+│   └── d_data_filtering
+├── ml_modeling
+│   ├── 1_data_preparation
+│   ├── 2_naivetraining
+│   ├── 3_augumented_training
+│   ├── 4_hptuning
+│   └── 5_selecting_best_model_to_onnx
+├── public
+├── requirements.txt
+├── utils
+└── ...
 ```
 
 ## Tech Stack
@@ -118,23 +128,49 @@ This model is deployed in a **portfolio website** as part of a static visual sho
 
 ## Getting Started
 
-I am currently ```dockerizing``` the pipline for getting easy to start. If you want to run locally follow steps below
+To run this project locally, follow the steps below:
 
 ### Prerequisites
 
-1. Install **Apache Airflow**, **Spark**, and **Hadoop** for managing the data pipeline.
-2. Ensure Python dependencies are installed using `requirements.txt`. or use the following command
-```Code
+1. Install the necessary dependencies using Conda:
+
+    ```bash
     conda env create -f conda-env.yaml
-```
-3. Set up **Airflow** and **HDFS** connections in your environment configuration. and change configuration in ```/data_pipelines/config.py```
+    ```
 
-### Run Pipeline
+2. Ensure **Apache Airflow**, **Spark**, **Hadoop**, **PyTorch**, and **WandB** are installed in your environment.
 
-1. **Configure Airflow DAG**: Update the Airflow connection settings for `spark_default` and `hdfs_default`.
-2. **Run Pipeline**: Start Airflow and trigger the pipeline to process and transform cricket data.
-3. **Train Models**: Use the notebooks and scripts in `training` to train the RNN, CNN, and DNN models.
-4. **Deployment**: Push results to the portfolio for visualization.
+3. Set up **Airflow** and **HDFS** connections by updating the configuration in `./configs/spark_config.py`.
+
+### Running the Pipeline
+
+1. **Start Airflow**: Navigate to the project directory and run:
+
+    ```bash
+    astro dev start
+    ```
+
+2. **Trigger the Pipeline**: Access the Airflow webserver and start the `t20` DAG to process and transform cricket data.
+
+### Training the Models
+
+1. **Install PyTorch and WandB** if not already installed:
+
+    ```bash
+    pip install torch wandb
+    ```
+
+2. **Run Training Scripts**: Navigate to the `ml_modeling` directory and execute:
+
+    ```bash
+    python 2_naivetraining/train.py
+    ```
+
+3. **Hyperparameter Tuning**: Use WandB for experiment tracking and hyperparameter tuning.
+
+### Deployment
+
+Push the results to the portfolio website for visualization.
 
 ## Future Enhancements
 
