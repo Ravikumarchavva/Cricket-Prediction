@@ -1,31 +1,46 @@
 # T20 Cricket Win Prediction Project
 
-This project aims to predict the probability of a T20 cricket team winning at any given point in a match. By incorporating this model into a cricket app, we can attract more viewers by providing real-time predictions and insights during live matches. The solution uses a combination of **RNNs, CNNs, and DNNs** for analyzing sequential data (ball-by-ball), player statistics, and team-level statistics, respectively. These models are integrated into a deep neural network that yields real-time predictions. The final model is deployed as part of a portfolio site, with results showcased through visualizations and snapshots.
+![Project Overview](./public/architectureOverview.png)
+
+## Overview
+
+The **T20 Cricket Win Prediction Project** leverages advanced machine learning techniques to predict the probability of a T20 cricket team winning at any given point in a match. By integrating this model into a cricket application, we aim to enhance viewer engagement through real-time predictions and insightful analytics during live matches.
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
 - [Directory Structure](#directory-structure)
 - [Data Processing Pipeline](#data-processing-pipeline)
-- [Modeling Approach](#ml-modeling-approach)
+- [Modeling Approach](#modeling-approach)
 - [Results](#results)
 - [Deployment](#deployment)
 - [Getting Started](#getting-started)
 - [Future Enhancements](#future-enhancements)
 - [Conclusion](#conclusion)
+- [Contact](#contact)
 
-## Overview
+## Features
 
-The goal of this project is to provide **real-time predictions** on the likelihood of a team winning a T20 match, based on:
+- **Real-Time Predictions**: Provides live win probability updates during matches.
+- **Multi-Model Architecture**: Combines RNNs, CNNs, and DNNs for comprehensive analysis.
+- **Interactive Visualizations**: Displays prediction accuracy and model performance metrics.
+- **Scalable Deployment**: Utilizes Docker containers for consistent environment setup.
 
-**Encoder**
-- **Ball-by-Ball Sequences**: Utilizes an RNN to process the temporal sequence of game events.
-- **Player Statistics**: Uses a CNN to capture player performance features.
-- **Team Statistics**: Uses a DNN to aggregate overall team stats.
-  
-**Decoder**
-  
-These models are trained independently and then merged into a final DNN for comprehensive predictions.
+![Airflow ETL Pipeline](./public/airflow_etl_pipeline.png)
+
+## Tech Stack
+
+- **Programming Language**: Python
+- **Machine Learning Framework**: PyTorch
+- **Data Processing**: Apache Spark, Apache Airflow
+- **Storage**: Hadoop HDFS
+- **Environment Management**: Conda
+- **Experiment Tracking**: Weights & Biases (WandB)
+- **Containerization**: Docker
+- **Visualization**: Jupyter Notebooks, Matplotlib, Seaborn
+- **Version Control**: Git
 
 ## Directory Structure
 
@@ -66,20 +81,6 @@ Here's a high-level structure of the project folders:
 └── ...
 ```
 
-## Tech Stack
-
-The project utilizes the following technologies:
-
-- **Python**: Programming language for data processing and machine learning.
-- **PyTorch**: Deep learning framework for building and training models.
-- **Apache Spark**: Big data processing for data manipulation tasks.
-- **Apache Airflow**: Workflow management for orchestrating data pipelines.
-- **Hadoop HDFS**: Distributed file system for storing datasets.
-- **Conda**: Environment management for package and dependency handling.
-- **Jupyter Notebooks**: Interactive development environment for code and documentation.
-- **Git**: Version control system for tracking changes in the codebase.
-- **WandB**: Experiment Tracking, Hyperparameter tuning
-
 ## Data Processing Pipeline
 
 The data processing pipeline consists of multiple stages and is orchestrated using **Apache Airflow**:
@@ -93,10 +94,7 @@ The data processing pipeline consists of multiple stages and is orchestrated usi
 
 The entire data pipeline is visualized in Airflow, with each step from data extraction to filtering organized as individual tasks.
 
-![Airflow ETL Pipeline](./public/airflow_etl_pipeline.png)
-
-
-## Ml modeling Approach
+## Modeling Approach
 
 This solution employs a sophisticated **multi-model architecture**:
 
@@ -106,8 +104,6 @@ This solution employs a sophisticated **multi-model architecture**:
 4. **Ensemble Model (DNN)**: Combines outputs from the RNN, CNN, and team DNN into a final DNN that predicts win probability.
 
 *pytorchData is ignored due to large data size run \training\labeling\datasetpreparation.ipynb  file to get those files*
-
-![Architecture Overview](./public/architectureOverview.png)
 
 ### Training Steps
 
@@ -121,10 +117,13 @@ This solution employs a sophisticated **multi-model architecture**:
 The final model achieved an accuracy of 85% on the test set, which is tested across different overs
 
 ![Results](./public/results.png)
+![Hyperparameter Tuning](./public/wandb_hp_tuning.png)
 
 ## Deployment
 
 This model is deployed in a **portfolio website** as part of a static visual showcase rather than a live API to manage server costs. Users can view snapshots of model results and visualizations of prediction accuracy, as running real-time predictions requires constant data streaming, which would increase infrastructure costs.
+
+![Docker Setup](./public/docker.png)
 
 ## Getting Started
 
@@ -132,15 +131,17 @@ To run this project locally, follow the steps below:
 
 ### Prerequisites
 
-1. Install the necessary dependencies using Conda:
+1. **Create the Conda environment** using the provided `environment.yml` file:
 
     ```bash
-    conda env create -f conda-env.yaml
+    conda env create -f environment.yml
     ```
 
-2. Ensure **Apache Airflow**, **Spark**, **Hadoop**, **PyTorch**, and **WandB** are installed in your environment.
+2. **Activate the environment**:
 
-3. Set up **Airflow** and **HDFS** connections by updating the configuration in `./configs/spark_config.py`.
+    ```bash
+    conda activate huggingface-torch
+    ```
 
 ### Running the Pipeline
 
@@ -154,19 +155,12 @@ To run this project locally, follow the steps below:
 
 ### Training the Models
 
-1. **Install PyTorch and WandB** if not already installed:
-
-    ```bash
-    pip install torch wandb
-    ```
-
-2. **Run Training Scripts**: Navigate to the `ml_modeling` directory and execute:
+1. **Run Training Scripts**: Navigate to the `ml_modeling` directory and execute:
 
     ```bash
     python 2_naivetraining/train.py
     ```
-
-3. **Hyperparameter Tuning**: Use WandB for experiment tracking and hyperparameter tuning.
+    - make sure you have `wandb api key` in your env
 
 ### Deployment
 
