@@ -104,11 +104,12 @@ This solution employs a sophisticated **multi-model architecture**:
 4. Hyperparameter tuning and additional evaluations.
 5. Selecting best model from wandb sweep and converting to onnx
 
+![Hyperparameter Tuning](./public/wandb_hp_tuning.jpg)
+
 ### Results
 The final model achieved an accuracy of 85% on the test set, which is tested across different overs
 
 ![Results](./public/results.jpg)
-![Hyperparameter Tuning](./public/wandb_hp_tuning.jpg)
 
 Win Example
 
